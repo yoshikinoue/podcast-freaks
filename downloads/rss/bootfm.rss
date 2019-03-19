@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="">
+  <channel>
+    <atom:link href="https://bootfm.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://bootfm.github.io</link>
+    <title>boot.fm</title>
+    <description>A podcast by timakin and k0kubun, talking about technology, business news, and anime etc...</description>
+    <media:keywords></media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>A podcast by timakin and k0kubun, talking about technology, business news, and anime etc...</itunes:subtitle>
+    <itunes:author>Seiji Takahashi, Takashi Kokubun</itunes:author>
+    <itunes:summary>A podcast by timakin and k0kubun, talking about technology, business news, and anime etc...</itunes:summary>
+    <itunes:keywords></itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Seiji Takahashi, Takashi Kokubun</itunes:name>
+      <itunes:email>timaki.st@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://bootfm.github.io/images/itunes-connect-artwork.png" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>Vol.5: Beyond a dilemma between `Will` and `Should`</title>
+        <link>https://bootfm.github.io/posts/vol5/</link>
+        <pubDate>Sun, 04 Jun 2017 15:10:00 +0000</pubDate>
+        <description>&lt;h2 id=&quot;参考リンク&quot;&gt;参考リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://recruit-tech.co.jp/&quot;&gt;株式会社リクルートテクノロジーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nodejs.connpass.com/&quot;&gt;東京Node学園&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://recruit-tech.co.jp/news/170412_001904.html&quot;&gt;「TDD伝道師」和田卓人氏が リクルートテクノロジーズ技術顧問に就任　― 開発体制改革へ。第一弾として新入社員研修をハイレベル化 ―&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mizchi.hatenablog.com/entry/2017/04/09/024043&quot;&gt;mizchi’s blog フリーランス一週間目、不安、人格、Redux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/seijitakahashi92/concept-of-blockchain-decentralized-application&quot;&gt;Concept of BlockChain &amp;amp; Decentralized Application&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ipfs.io&quot;&gt;IPFS is the Distributed Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://postd.cc/tag/podcast/&quot;&gt;POSTD podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gunosiru.gunosy.co.jp/entry/gunosyfm1&quot;&gt;GunosyのPodcast、gunosy.fmはじめました #gunosyfm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ted.com/talks/linus_torvalds_the_mind_behind_linux?language=ja&quot;&gt;リーナス・トーバルズ: Linuxの背後にある精神&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2017.jsconf.eu/&quot;&gt;JSConf EU 2017&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nodejs/http2&quot;&gt;nodejs/http2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://http2study.connpass.com/&quot;&gt;http2study&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3&quot;&gt;Twitter Lite and High Performance React Progressive Web Apps at Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gotocon.com/dl/goto-amsterdam-2016/slides/RuslanMeshenberg_MicroservicesAtNetflixScaleFirstPrinciplesTradeoffsLessonsLearned.pdf&quot;&gt;Microservices at Netflix Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://graphql.org/learn/&quot;&gt;GraphQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qiita.com/shimastripe/items/e9b0e1f8f8d77b89373f&quot;&gt;綺麗なAPI速習会 (BFF参考資料)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://bootfm.github.io/posts/vol5/</guid>
+        <enclosure url="https://bootfm.github.io/audio/2017-06-02.mp3" length="35391748" type="audio/mp3"/>
+        <itunes:author>Seiji Takahashi, Takashi Kokubun</itunes:author>
+        <itunes:subtitle>yosuke_furukawaさんとtimakinが、リクルートテクノロジーズさんの現状、ブロックチェーン、プライベート開発・外部発信への時間の取り方、マネージメントとプレイヤーとしての業務のバランス、興味のある技術に関するジレンマなどについて話しました。</itunes:subtitle>
+        <itunes:duration>01:24:16</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://bootfm.github.io/images/2017-06-05.jpg"/>
+      </item>
+    
+      <item>
+        <title>Vol.4: Code review as a prior investment</title>
+        <link>https://bootfm.github.io/posts/vol4/</link>
+        <pubDate>Wed, 14 Dec 2016 17:22:00 +0000</pubDate>
+        <description>&lt;h2 id=&quot;参考リンク&quot;&gt;参考リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://roppongirb.connpass.com/&quot;&gt;roppongi.rb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gunosy-beer.connpass.com/&quot;&gt;Gunosy Beer Bash&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kikuchi1201.hateblo.jp/entry/2016/10/26/172404&quot;&gt;【翻訳】 2016年にJavaScriptを学んでどう感じたか - Endo Tech Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://c16e.com/1511101558/&quot;&gt;Slackで簡単に「日報」ならぬ「分報」をチームで実現する3ステップ〜Problemが10分で解決するチャットを作ろう&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zlapps.com/todo&quot;&gt;/todo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/k0kubun/xkremap&quot;&gt;xkremap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sentry.io/for/javascript/&quot;&gt;JavaScript Error Tracking&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://bootfm.github.io/posts/vol4/</guid>
+        <enclosure url="https://bootfm.github.io/audio/2016-12-15.mp3" length="114880439" type="audio/mp3"/>
+        <itunes:author>Seiji Takahashi, Takashi Kokubun</itunes:author>
+        <itunes:subtitle>toshimaru_eさんとtimakinとk0kubunが、Slackでのタスク共有、フロントエンドとサーバーサイドの距離感、コードレビューのコスト、mrubyとGoについて話しました。</itunes:subtitle>
+        <itunes:duration>01:02:23</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://bootfm.github.io/images/2016-12-15.jpg"/>
+      </item>
+    
+      <item>
+        <title>Vol.3: Slight, but absolute speciality</title>
+        <link>https://bootfm.github.io/posts/vol3/</link>
+        <pubDate>Tue, 29 Nov 2016 17:09:00 +0000</pubDate>
+        <description>&lt;h2 id=&quot;参考リンク&quot;&gt;参考リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/giginet/deploying-ui-library-on-travis-ci&quot;&gt;Deploying UI library on Travis CI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.platinumgames.co.jp/dev-bayonetta2/article/881&quot;&gt;Bayonetta2 開発ブログ バグチェック作業の自動化について&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dev.classmethod.jp/smartphone/iphone/implemented_proposals_for_swift3/&quot;&gt;[iOS][Swift] Swift 3.0の変更点まとめ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://k0kubun.hatenablog.com/entry/rubyconf2016&quot;&gt;RubyConf 2016 で話してきた &amp;amp; MItamae v1.0.0をリリースした&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://bootfm.github.io/posts/vol3/</guid>
+        <enclosure url="https://bootfm.github.io/audio/2016-11-30.mp3" length="29191232" type="audio/mp3"/>
+        <itunes:author>Seiji Takahashi, Takashi Kokubun</itunes:author>
+        <itunes:subtitle>giginetとtimakinとk0kubunが、最近のSwift事情、ネイティブのテスト実装、OSSでのソフトウェア開発のきっかけについて話しました。</itunes:subtitle>
+        <itunes:duration>01:00:48</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://bootfm.github.io/images/2016-11-30.jpg"/>
+      </item>
+    
+      <item>
+        <title>Vol.2: Sustainable development</title>
+        <link>https://bootfm.github.io/posts/vol2/</link>
+        <pubDate>Mon, 21 Nov 2016 17:09:00 +0000</pubDate>
+        <description>&lt;h2 id=&quot;おことわり&quot;&gt;おことわり&lt;/h2&gt;
+
+&lt;p&gt;今回は初回収録のため、慣れないところもあり、聴き取りづらい音質に
+なってしまっている箇所も多いかと思います。
+第二回収録では外付けマイクを利用しましたので、多少聴きやすくなると思います。&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/__timakin__&quot;&gt;timakin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/k0kubun&quot;&gt;k0kubun&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/k0kubun/Nocturn&quot;&gt;Nocturn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://techlife.cookpad.com/entry/2016/07/27/101015&quot;&gt;webpackを使った Rails上でのReact開発&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kikuchi1201.hateblo.jp/entry/2016/10/26/172404&quot;&gt;【翻訳】 2016年にJavaScriptを学んでどう感じたか&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gaearon/react-makes-you-sad&quot;&gt;react-makes-you-sad&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/reactjs/redux/issues/310&quot;&gt;Who uses Redux?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zeit/next.js&quot;&gt;next.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://k0kubun.hatenablog.com/entry/ergodox&quot;&gt;ErgoDoxを2枚買ってキースイッチを交換した&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://bootfm.github.io/posts/vol2/</guid>
+        <enclosure url="https://bootfm.github.io/audio/2016-11-22.mp3" length="27526710" type="audio/mp3"/>
+        <itunes:author>Seiji Takahashi, Takashi Kokubun</itunes:author>
+        <itunes:subtitle>timakinとk0kubunが、自己紹介, Nocturn/React, ErgoDox, GitHubで草を生やすこと、OSSコミットのきっかけについて話しました。一回目収録の後半です。</itunes:subtitle>
+        <itunes:duration>57:20</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://bootfm.github.io/images/2016-11-22.jpg"/>
+      </item>
+    
+      <item>
+        <title>Vol.1: Market value of hackers</title>
+        <link>https://bootfm.github.io/posts/vol1/</link>
+        <pubDate>Sat, 12 Nov 2016 13:09:47 +0000</pubDate>
+        <description>&lt;h2 id=&quot;おことわり&quot;&gt;おことわり&lt;/h2&gt;
+
+&lt;p&gt;今回は初回収録のため、慣れないところもあり、聴き取りづらい音質に
+なってしまっている箇所も多いかと思います。
+今後は収録環境の改善を行い、音量音質ともに最適化していきます。
+特にマイクは不手際により、macの備え付けの内蔵マイクを使っていますので、
+今後購入した外付けのマイクの利用を試みていきます。&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://job-draft.jp&quot;&gt;転職ドラフト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/timakin/ts&quot;&gt;timakin/ts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/k0kubun/mitamae&quot;&gt;k0kubun/mitamae&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://roppongirb.connpass.com/event/42633/&quot;&gt;Roppongi.rb #2 Infrastructure x Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://k0kubun.hatenablog.com/entry/2016/07/26/040124&quot;&gt;RubyなしでItamaeレシピを実行できる「itamae-go」を作った&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://anicobin.ldblog.jp/archives/49915117.html&quot;&gt;【響け!ユーフォニアム2】第5話 感想 12分ノーカット！涙あり、セリフ無し！【2期】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://bootfm.github.io/posts/vol1/</guid>
+        <enclosure url="https://bootfm.github.io/audio/2016-11-12.mp3" length="84605096" type="audio/mp3"/>
+        <itunes:author>Seiji Takahashi, Takashi Kokubun</itunes:author>
+        <itunes:subtitle>timakinとk0kubunが、転職ドラフト、feedlyでの情報収集、海外ニュースサイト、mitamae、mruby、今期アニメについて話しました。一回目収録の前半です。</itunes:subtitle>
+        <itunes:duration>58:45</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://bootfm.github.io/images/2016-11-12.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

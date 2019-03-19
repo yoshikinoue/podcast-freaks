@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://shinjuku-lt.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://shinjuku-lt.github.io/</link>
+    <title>shinjuku-lt</title>
+    <description>Shinjulu.LTの最近や周りにあったあれそれについてお話します</description>
+    <media:keywords>comma,separated,keywords</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>Shinjulu.LTの最近や周りにあったあれそれについてお話します</itunes:subtitle>
+    <itunes:author>Shinjuku.LT</itunes:author>
+    <itunes:summary>Shinjulu.LTの最近や周りにあったあれそれについてお話します</itunes:summary>
+    <itunes:keywords>comma,separated,keywords</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Shinjuku.LT</itunes:name>
+      <itunes:email>info@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://shinjuku-lt.github.io/images/artwork.png" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>ep4.Scala福岡最高！</title>
+        <link>https://shinjuku-lt.github.io/episode/4</link>
+        <pubDate>Sat, 19 Jan 2019 09:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Shinjuku_LT&quot;&gt;@Shinjuku_LT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/HonMarkHunt&quot;&gt;@HonMarkHunt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/8140i2865_3&quot;&gt;@kyusuke&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scala-fukuoka.org/&quot;&gt;Scala福岡&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://shinjuku-lt.github.io/episode/4</guid>
+        <enclosure url="https://shinjuku-lt.github.io/audio/ep4.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Shinjuku.LT</itunes:author>
+        <itunes:subtitle>Scala福岡が最高だった話と福岡旅行の話を少し</itunes:subtitle>
+        <itunes:duration>00:53:56</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shinjuku-lt.github.io/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>ep3.AdobeMaxとデザインスクランブルとサイバーマンデーとALEXAとデザイナーとエンジニアの働き方とガソリンスタンドについてなど</title>
+        <link>https://shinjuku-lt.github.io/episode/3</link>
+        <pubDate>Sun, 09 Dec 2018 17:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Shinjuku_LT&quot;&gt;@Shinjuku_LT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/HonMarkHunt&quot;&gt;@HonMarkHunt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/dende6231&quot;&gt;@mupiko&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/8140i2865_3&quot;&gt;@kyusuke&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://shinjuku-lt.github.io/episode/3</guid>
+        <enclosure url="https://shinjuku-lt.github.io/audio/ep3.mp3" length="90MB" type="audio/mp3"/>
+        <itunes:author>Shinjuku.LT</itunes:author>
+        <itunes:subtitle>AdobeMaxとデザインスクランブルとサイバーマンデーとALEXAとデザイナーとエンジニアの働き方とガソリンスタンドについてなど</itunes:subtitle>
+        <itunes:duration>01:34:24</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shinjuku-lt.github.io/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>ep2.最近行った勉強会・カンファレンスとサービス</title>
+        <link>https://shinjuku-lt.github.io/episode/2</link>
+        <pubDate>Sat, 01 Dec 2018 22:46:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Shinjuku_LT&quot;&gt;@Shinjuku_LT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/8140i2865_3&quot;&gt;@kyusuke&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/sgswtky&quot;&gt;@sgswtky&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/futesi_nebusoku&quot;&gt;@ftsan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/to4iki&quot;&gt;@to4iki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://shinjuku-lt.github.io/episode/2</guid>
+        <enclosure url="https://shinjuku-lt.github.io/audio/ep2.mp3" length="96MB" type="audio/mp3"/>
+        <itunes:author>Shinjuku.LT</itunes:author>
+        <itunes:subtitle>最近行った勉強会・カンファレンスのお話と、最近おすすめのサービスについて話しました</itunes:subtitle>
+        <itunes:duration>01:06:49</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shinjuku-lt.github.io/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>ep1.今後のPodCastについてとSREとどうしてエンジニアになったか</title>
+        <link>https://shinjuku-lt.github.io/episode/1</link>
+        <pubDate>Sun, 25 Nov 2018 17:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Shinjuku_LT&quot;&gt;@Shinjuku_LT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/HonMarkHunt&quot;&gt;@HonMarkHunt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/mnuma_&quot;&gt;@mnuma_&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/8140i2865_3&quot;&gt;@kyusuke&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://shinjuku-lt.github.io/episode/1</guid>
+        <enclosure url="https://shinjuku-lt.github.io/audio/ep1.mp3" length="91MB" type="audio/mp3"/>
+        <itunes:author>Shinjuku.LT</itunes:author>
+        <itunes:subtitle>ShinjukuLTの説明と今後のPodCastについてとSREとどうしてエンジニアになったかについて話しました</itunes:subtitle>
+        <itunes:duration>00:47:31</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://shinjuku-lt.github.io/images/artwork.png"/>
+      </item>
+    
+  </channel>
+</rss>

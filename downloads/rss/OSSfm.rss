@@ -1,0 +1,596 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:302417970/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:302417970/sounds.rss?before=318412228" rel="next" type="application/rss+xml"/>
+        <title>OSSfmーOSS界隈の注目ニュースや裏話を隔週で配信！</title>
+        <link>http://soundcloud.com/user-845765827</link>
+        <pubDate>Wed, 22 Aug 2018 08:06:29 +0000</pubDate>
+        <lastBuildDate>Wed, 22 Aug 2018 08:06:29 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Podcast by Think IT</description>
+        <itunes:subtitle>Podcast by Think IT</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>User 845765827</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Think IT</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000308526098-u56khj-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000308526098-u56khj-original.jpg</url>
+          <title>User 845765827</title>
+          <link>http://soundcloud.com/user-845765827</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/488955459</guid>
+      <title>#ex2 今年もPyCon JPの季節になりました</title>
+      <pubDate>Wed, 22 Aug 2018 08:52:36 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/ex2-pycon-jp</link>
+      <itunes:duration>00:45:13</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>thinkit.co.jp/article/15103
+ゲストにPyCon JP吉田さん（座長）、斎藤さん、大村さんをお迎えして昨年に引き続きPyCon JPの見どころについてディスカッションしました。
+
+shownote
+PyCon JP 2018 in Tokyo
+https://pycon.jp/2018/
+https://pyconjp.connpass.com/event/89163/
+PyCon JP 2018 Sprint
+https://pyconjp.connpass.com/event/97868/
+DjangoCongress JP 2018
+https://djangocongress.jp/
+PyCon JP 2018 Youth Coder Workshop (子ども向けワークショップ)
+https://pyconjp.connpass.com/event/94979/
+PyCon JP 2018 カンファレンス 託児室
+https://pyconjp.connpass.com/event/89395/
+コミュニティブース開催のお知らせ
+https://pyconjp.blogspot.com/2018/08/community-booth.html
+PaperCall
+https://www.papercall.io/
+大田区産業プラザPiO
+https://www.pio-ota.net/
+CONBU
+https://conbu.net/
+PHPカンファレンス2017
+http://phpcon.php.gr.jp/2017/
+PyCon JP 2018 スタッフ申し込み
+https://docs.google.com/forms/d/e/1FAIpQLSdtYlETMPrz_LK-kSDsnJjMPcIkl1OKpRqfnse6d2mPr3MPaw/viewform</itunes:summary>
+      <itunes:subtitle>thinkit.co.jp/article/15103
+ゲストにPyCon JP吉田さん（座長）、…</itunes:subtitle>
+      <description>thinkit.co.jp/article/15103
+ゲストにPyCon JP吉田さん（座長）、斎藤さん、大村さんをお迎えして昨年に引き続きPyCon JPの見どころについてディスカッションしました。
+
+shownote
+PyCon JP 2018 in Tokyo
+https://pycon.jp/2018/
+https://pyconjp.connpass.com/event/89163/
+PyCon JP 2018 Sprint
+https://pyconjp.connpass.com/event/97868/
+DjangoCongress JP 2018
+https://djangocongress.jp/
+PyCon JP 2018 Youth Coder Workshop (子ども向けワークショップ)
+https://pyconjp.connpass.com/event/94979/
+PyCon JP 2018 カンファレンス 託児室
+https://pyconjp.connpass.com/event/89395/
+コミュニティブース開催のお知らせ
+https://pyconjp.blogspot.com/2018/08/community-booth.html
+PaperCall
+https://www.papercall.io/
+大田区産業プラザPiO
+https://www.pio-ota.net/
+CONBU
+https://conbu.net/
+PHPカンファレンス2017
+http://phpcon.php.gr.jp/2017/
+PyCon JP 2018 スタッフ申し込み
+https://docs.google.com/forms/d/e/1FAIpQLSdtYlETMPrz_LK-kSDsnJjMPcIkl1OKpRqfnse6d2mPr3MPaw/viewform</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/488955459-user-845765827-ex2-pycon-jp.m4a" length="84728864"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000392786289-wvt1wr-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/450721620</guid>
+      <title>#10 Don't Lick the Cookie</title>
+      <pubDate>Tue, 29 May 2018 13:25:21 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/10-dont-lick-the-cookie</link>
+      <itunes:duration>01:01:07</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>またまた久しぶりなレギュラー回です、最近話題のコンテナ系のイベントについて盛り上がりました。</itunes:summary>
+      <itunes:subtitle>またまた久しぶりなレギュラー回です、最近話題のコンテナ系のイベントについて盛り上がりました。</itunes:subtitle>
+      <description>またまた久しぶりなレギュラー回です、最近話題のコンテナ系のイベントについて盛り上がりました。</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/450721620-user-845765827-10-dont-lick-the-cookie.m4a" length="125032345"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000354084948-pnxvas-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/375651098</guid>
+      <title>#9 2017年のOSS事情を振り返る</title>
+      <pubDate>Thu, 28 Dec 2017 08:50:19 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/9-2017oss</link>
+      <itunes:duration>01:17:34</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>#9 2017年のOSS事情を振り返る by Think IT</itunes:summary>
+      <itunes:subtitle>#9 2017年のOSS事情を振り返る by Think IT</itunes:subtitle>
+      <description>#9 2017年のOSS事情を振り返る by Think IT</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/375651098-user-845765827-9-2017oss.mp3" length="111710795"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000276819704-tx460d-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/343181156</guid>
+      <title>#8 これからのSIerの話をしよう</title>
+      <pubDate>Wed, 20 Sep 2017 04:44:18 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/8-sier</link>
+      <itunes:duration>00:58:42</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>今回は久しぶりにゲストなしレギュラー回です、SIerの今後についてディスカッションしました。</itunes:summary>
+      <itunes:subtitle>今回は久しぶりにゲストなしレギュラー回です、SIerの今後についてディスカッションしました。</itunes:subtitle>
+      <description>今回は久しぶりにゲストなしレギュラー回です、SIerの今後についてディスカッションしました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/343181156-user-845765827-8-sier.mp3" length="56357117"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000243452309-xv4gcd-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/338251568</guid>
+      <title>#ex1 PyCon JPについていろいろ聞いてみた</title>
+      <pubDate>Thu, 17 Aug 2017 10:19:35 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/ex1-pycon-jp</link>
+      <itunes:duration>00:56:36</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>thinkit.co.jp/article/12563
+ゲストにPyCon JP寺田さん、吉田さん（座長）、斎藤さんをお迎えしてPyCon JP 2017の見どころについてディスカッションしました。
+
+shownote
+PyCon JP 2018座長募集
+http://pyconjp.blogspot.jp/2017/08/pycon-jp-2018-chair.html
+PyCon JP 2017 in Tokyo
+https://pycon.jp/2017/ja/
+PyCon US
+https://us.pycon.org/2017/
+チュートリアル | PyCon JP 2017 in TOKYO
+https://pycon.jp/2017/ja/events/tutorial/
+Youth Coder Workshop | PyCon JP 2017 in TOKYO
+https://pycon.jp/2017/ja/events/youth-ws/</itunes:summary>
+      <itunes:subtitle>thinkit.co.jp/article/12563
+ゲストにPyCon JP寺田さん、吉田さん…</itunes:subtitle>
+      <description>thinkit.co.jp/article/12563
+ゲストにPyCon JP寺田さん、吉田さん（座長）、斎藤さんをお迎えしてPyCon JP 2017の見どころについてディスカッションしました。
+
+shownote
+PyCon JP 2018座長募集
+http://pyconjp.blogspot.jp/2017/08/pycon-jp-2018-chair.html
+PyCon JP 2017 in Tokyo
+https://pycon.jp/2017/ja/
+PyCon US
+https://us.pycon.org/2017/
+チュートリアル | PyCon JP 2017 in TOKYO
+https://pycon.jp/2017/ja/events/tutorial/
+Youth Coder Workshop | PyCon JP 2017 in TOKYO
+https://pycon.jp/2017/ja/events/youth-ws/</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/338251568-user-845765827-ex1-pycon-jp.mp3" length="54335866"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000238670222-nfwmz2-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/333141681</guid>
+      <title>#7 クラウドネイティブ時代とコンテナ技術</title>
+      <pubDate>Fri, 14 Jul 2017 07:14:43 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/7a-1</link>
+      <itunes:duration>00:59:32</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>thinkit.co.jp/article/12236
+ゲストにHPE古賀さん、サイオス村田さんをお迎えしてクラウドネイティブやDockerについてディスカッションしました。
+
+shownote
+国交省の土地総合情報システムから個人情報4000件強が流出　Apache Struts2が原因
+http://www.itmedia.co.jp/enterprise/articles/1706/06/news138.html
+Sambaのバグを悪用し、仮想通貨「Monero」をマイニングするマルウェア登場か
+https://japan.zdnet.com/article/35102626/
+オープンソースの統合管理ツール「Hinemos」、監視サーバーのWindows版を提供
+http://cloud.watch.impress.co.jp/docs/news/1063201.html
+マイクロソフト、オープンソースのPaaS基盤を開発する「Cloud Foundry Foundation」に正式参加。Azure上でのCloud Foundryの運用や開発を容易にすると発表
+http://www.publickey1.jp/blog/17/paascloud_foundry_foundationazurecloud_foundry.html
+OSS on Azure 技術ブログ | Azure上でOSSを活用するための技術トピックス
+http://azure.sios.jp/
+「日本はGitHubにとって重要な市場」 - Constellation Tokyoが日本初開催
+http://news.mynavi.jp/news/2017/06/07/063/
+GitHubがオープンソースに関する調査報告を公開。「ドキュメントは非常に重要だが見過ごされやすい」「ソフトウェア選択時のデフォルトはオープンソースに」など
+http://www.publickey1.jp/blog/17/github_1.html
+IBMとHortonworksが提携を拡大--Hadoopとデータサイエンス製品で
+https://japan.zdnet.com/article/35102694/
+新型「カムリ」のインフォテインメントは車載Linuxで、レクサスなどにも広く展開 - MONOist（モノイスト） @monoist_todayさんから
+http://monoist.atmarkit.co.jp/mn/articles/1706/01/news048.html
+MS、コンテナベースのアプリ開発を効率化するオープンソースツール「Draft」リリース
+https://japan.zdnet.com/article/35102072/
+CoreOSとオラクルが提携、Container LinuxをOracle Cloudのベアメタルへ展開可能に。オラクルはKubernetesへの注力も表明
+http://www.publickey1.jp/blog/17/coreoscontainer_linuxoracle_cloudkubernetes.html
+Red Hat CloudForms
+https://www.redhat.com/ja/technologies/management/cloudforms
+Apache Mesos
+http://mesos.apache.org/
+Open Containers Initiative
+https://www.opencontainers.org/
+コンテナオーケストレーションで「Kubernetes」が優勢
+https://japan.zdnet.com/article/35102241/</itunes:summary>
+      <itunes:subtitle>thinkit.co.jp/article/12236
+ゲストにHPE古賀さん、サイオス村田さんを…</itunes:subtitle>
+      <description>thinkit.co.jp/article/12236
+ゲストにHPE古賀さん、サイオス村田さんをお迎えしてクラウドネイティブやDockerについてディスカッションしました。
+
+shownote
+国交省の土地総合情報システムから個人情報4000件強が流出　Apache Struts2が原因
+http://www.itmedia.co.jp/enterprise/articles/1706/06/news138.html
+Sambaのバグを悪用し、仮想通貨「Monero」をマイニングするマルウェア登場か
+https://japan.zdnet.com/article/35102626/
+オープンソースの統合管理ツール「Hinemos」、監視サーバーのWindows版を提供
+http://cloud.watch.impress.co.jp/docs/news/1063201.html
+マイクロソフト、オープンソースのPaaS基盤を開発する「Cloud Foundry Foundation」に正式参加。Azure上でのCloud Foundryの運用や開発を容易にすると発表
+http://www.publickey1.jp/blog/17/paascloud_foundry_foundationazurecloud_foundry.html
+OSS on Azure 技術ブログ | Azure上でOSSを活用するための技術トピックス
+http://azure.sios.jp/
+「日本はGitHubにとって重要な市場」 - Constellation Tokyoが日本初開催
+http://news.mynavi.jp/news/2017/06/07/063/
+GitHubがオープンソースに関する調査報告を公開。「ドキュメントは非常に重要だが見過ごされやすい」「ソフトウェア選択時のデフォルトはオープンソースに」など
+http://www.publickey1.jp/blog/17/github_1.html
+IBMとHortonworksが提携を拡大--Hadoopとデータサイエンス製品で
+https://japan.zdnet.com/article/35102694/
+新型「カムリ」のインフォテインメントは車載Linuxで、レクサスなどにも広く展開 - MONOist（モノイスト） @monoist_todayさんから
+http://monoist.atmarkit.co.jp/mn/articles/1706/01/news048.html
+MS、コンテナベースのアプリ開発を効率化するオープンソースツール「Draft」リリース
+https://japan.zdnet.com/article/35102072/
+CoreOSとオラクルが提携、Container LinuxをOracle Cloudのベアメタルへ展開可能に。オラクルはKubernetesへの注力も表明
+http://www.publickey1.jp/blog/17/coreoscontainer_linuxoracle_cloudkubernetes.html
+Red Hat CloudForms
+https://www.redhat.com/ja/technologies/management/cloudforms
+Apache Mesos
+http://mesos.apache.org/
+Open Containers Initiative
+https://www.opencontainers.org/
+コンテナオーケストレーションで「Kubernetes」が優勢
+https://japan.zdnet.com/article/35102241/</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/333141681-user-845765827-7a-1.mp3" length="57165450"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000233570818-8k519g-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/327235059</guid>
+      <title>#6 KUSANAGIエバンジェリスト登場！</title>
+      <pubDate>Fri, 09 Jun 2017 04:06:16 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/6-kusanagi</link>
+      <itunes:duration>01:02:23</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>https://thinkit.co.jp/article/12007
+ゲストにKUSANAGIエバンジェリスト岡田さんをお迎えして最近のニュースやKUSANAGIについてディスカッションしました。
+
+shownote
+OpenStack Days Tokyo 2017
+http://openstackdays.com/
+Enterprise DB Summit 2017 Tokyo
+http://edbpostgres.jp/event/summit2017/
+富士通と米Mirantisが協業、プライベートマネージドOpenStackをグローバルに提供
+http://cloud.watch.impress.co.jp/docs/news/1057602.html
+富士通とトレジャーデータ、デジタルマーケティング事業で協業
+http://news.mynavi.jp/news/2017/05/12/160/
+CROSS ME(クロスミー)
+https://crossme.jp/
+グーグルのファズテストツール「OSS-Fuzz」、数カ月で1000件以上のバグ発見
+https://japan.zdnet.com/article/35101142/
+エンタープライズをテーマにしたDrupalの国内イベントが6月7日と8日に続々と開催
+https://thinkit.co.jp/news/11887
+［速報］Bash on WindowsがUbuntuに加えFedora、openSUSEにも対応。Windows Storeから簡単に導入可能に。Build 2017
+http://www.publickey1.jp/blog/17/bash_on_windowsubuntufedoraopensusewindows_storebuild_2017.html
+サイオス、OSSのIT自動化ツール「Ansible」の運用支援サポートサービスを提供
+http://cloud.watch.impress.co.jp/docs/news/1059797.html
+あすみんの「KUSANAGIエバンジェリストの名に懸けて」
+https://www.phpexam.jp/category/column/あすみんの「KUSANAGIエバンジェリストの名に懸けて」/
+KUSANAGI
+https://kusanagi.tokyo/
+OSS市場動向　―成長するNginx
+https://column.prime-strategy.co.jp/archives/column_1100
+OSS on Azure 非公式コミュニティ
+https://ossonazure.connpass.com/</itunes:summary>
+      <itunes:subtitle>https://thinkit.co.jp/article/12007
+ゲストにKUSANAGIエ…</itunes:subtitle>
+      <description>https://thinkit.co.jp/article/12007
+ゲストにKUSANAGIエバンジェリスト岡田さんをお迎えして最近のニュースやKUSANAGIについてディスカッションしました。
+
+shownote
+OpenStack Days Tokyo 2017
+http://openstackdays.com/
+Enterprise DB Summit 2017 Tokyo
+http://edbpostgres.jp/event/summit2017/
+富士通と米Mirantisが協業、プライベートマネージドOpenStackをグローバルに提供
+http://cloud.watch.impress.co.jp/docs/news/1057602.html
+富士通とトレジャーデータ、デジタルマーケティング事業で協業
+http://news.mynavi.jp/news/2017/05/12/160/
+CROSS ME(クロスミー)
+https://crossme.jp/
+グーグルのファズテストツール「OSS-Fuzz」、数カ月で1000件以上のバグ発見
+https://japan.zdnet.com/article/35101142/
+エンタープライズをテーマにしたDrupalの国内イベントが6月7日と8日に続々と開催
+https://thinkit.co.jp/news/11887
+［速報］Bash on WindowsがUbuntuに加えFedora、openSUSEにも対応。Windows Storeから簡単に導入可能に。Build 2017
+http://www.publickey1.jp/blog/17/bash_on_windowsubuntufedoraopensusewindows_storebuild_2017.html
+サイオス、OSSのIT自動化ツール「Ansible」の運用支援サポートサービスを提供
+http://cloud.watch.impress.co.jp/docs/news/1059797.html
+あすみんの「KUSANAGIエバンジェリストの名に懸けて」
+https://www.phpexam.jp/category/column/あすみんの「KUSANAGIエバンジェリストの名に懸けて」/
+KUSANAGI
+https://kusanagi.tokyo/
+OSS市場動向　―成長するNginx
+https://column.prime-strategy.co.jp/archives/column_1100
+OSS on Azure 非公式コミュニティ
+https://ossonazure.connpass.com/</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/327235059-user-845765827-6-kusanagi.mp3" length="59899739"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000227539595-x1053l-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/325635035</guid>
+      <title>#5 プライベートクラウドは第二世代へ - OpenStack Summit Boston</title>
+      <pubDate>Fri, 02 Jun 2017 02:52:44 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/5-openstack-summit-boston</link>
+      <itunes:duration>00:27:01</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>https://thinkit.co.jp/article/11894
+ゲストにNEC鳥居さん、NTT水野さん、VTJ玉置さんをお迎えして最近のOpenStack事情についてディスカッションしました（この収録はOpenStack Summit Bostonの会期中に実施されました）。
+
+shownote
+OpenStack Summit | Boston 2017
+https://www.openstack.org/summit/boston-2017/
+玉置さんおすすめセッション
+Distributed Monitoring and Analysis for Telecom Requirements
+https://www.openstack.org/videos/boston-2017/distributed-monitoring-and-analysis-for-telecom-requirements
+鳥居さんおすすめセッション
+Mirantis Sponsor Keynote
+https://www.openstack.org/videos/boston-2017/mirantis-sponsor-keynote-1
+水野さんおすすめセッション（NFV関連　NFV Tracks / OPNFV Day）
+https://www.openstack.org/videos/summits/boston-2017
+OpenStackプライベートクラウドは「自社構築」から「マネージドサービス利用」へ―OpenStack Summit Boston
+http://it.impressbm.co.jp/articles/-/14532</itunes:summary>
+      <itunes:subtitle>https://thinkit.co.jp/article/11894
+ゲストにNEC鳥居さん、N…</itunes:subtitle>
+      <description>https://thinkit.co.jp/article/11894
+ゲストにNEC鳥居さん、NTT水野さん、VTJ玉置さんをお迎えして最近のOpenStack事情についてディスカッションしました（この収録はOpenStack Summit Bostonの会期中に実施されました）。
+
+shownote
+OpenStack Summit | Boston 2017
+https://www.openstack.org/summit/boston-2017/
+玉置さんおすすめセッション
+Distributed Monitoring and Analysis for Telecom Requirements
+https://www.openstack.org/videos/boston-2017/distributed-monitoring-and-analysis-for-telecom-requirements
+鳥居さんおすすめセッション
+Mirantis Sponsor Keynote
+https://www.openstack.org/videos/boston-2017/mirantis-sponsor-keynote-1
+水野さんおすすめセッション（NFV関連　NFV Tracks / OPNFV Day）
+https://www.openstack.org/videos/summits/boston-2017
+OpenStackプライベートクラウドは「自社構築」から「マネージドサービス利用」へ―OpenStack Summit Boston
+http://it.impressbm.co.jp/articles/-/14532</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/325635035-user-845765827-5-openstack-summit-boston.mp3" length="38926963"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000225504843-wkqjoh-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/322986108</guid>
+      <title>#4 OpenShiftはPaaSではない - Red Hat Summit 2017</title>
+      <pubDate>Wed, 17 May 2017 01:16:38 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/4-openshiftpaas-red-hat-summit-2017</link>
+      <itunes:duration>00:44:27</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>shownote
+ゲストにレッドハット梅野さんをお迎えしてRed Hat Summit 2017でフィーチャーされたOpenShiftについてディスカッションしました。
+
+Red Hat Summit 2017レポート、OpenShiftに大きな注目が集まる
+http://cloud.watch.impress.co.jp/docs/event/1058683.html
+コンテナー技術で生まれ変わったOpenShift Enterprise 3は遂に離陸するか？ - vol.03
+※2年前のRed Hat Summit 2015のレポートです
+https://thinkit.co.jp/story/2015/07/07/6187
+OpenShift.io
+https://openshift.io/</itunes:summary>
+      <itunes:subtitle>shownote
+ゲストにレッドハット梅野さんをお迎えしてRed Hat Summit 2017で…</itunes:subtitle>
+      <description>shownote
+ゲストにレッドハット梅野さんをお迎えしてRed Hat Summit 2017でフィーチャーされたOpenShiftについてディスカッションしました。
+
+Red Hat Summit 2017レポート、OpenShiftに大きな注目が集まる
+http://cloud.watch.impress.co.jp/docs/event/1058683.html
+コンテナー技術で生まれ変わったOpenShift Enterprise 3は遂に離陸するか？ - vol.03
+※2年前のRed Hat Summit 2015のレポートです
+https://thinkit.co.jp/story/2015/07/07/6187
+OpenShift.io
+https://openshift.io/</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/322986108-user-845765827-4-openshiftpaas-red-hat-summit-2017.mp3" length="64025203"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000222902873-mvs4tn-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/322188308</guid>
+      <title>#3 畳とオープンソースは新しいほうが良い - Struts 2問題から考える脆弱性</title>
+      <pubDate>Thu, 11 May 2017 23:24:18 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/3-struts-2</link>
+      <itunes:duration>01:02:26</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>shownote
+ゲストにＷ岡田さん（岡田 良太郎、岡田 あすみ）をお迎えしてStruts 2の脆弱性問題などについてディスカッションしました。
+
+Docker、「LinuxKit」を発表。コンテナランタイムのためだけにゼロから開発されたセキュアなLinux Subsystem。DockerCon 2017
+http://www.publickey1.jp/blog/17/dockerlinuxkitlinux_subsystemdockercon_2017.html
+Dockerコンテナに特化した「RancherOS」正式版リリース。Linuxカーネル上でDockerを実行、システムもユーザーもすべてをコンテナ空間に
+http://www.publickey1.jp/blog/17/dockerrancheroslinuxdocker.html
+レッドハットの新年度事業戦略、OSSでデジタルトランスフォーメーションを
+http://news.mynavi.jp/articles/2017/04/21/redhat_2018/
+「5年でデータ処理基盤のリーダーに」、OSS専業のホートンワークスジャパン
+http://itpro.nikkeibp.co.jp/atcl/news/17/042101237/?n_cid=nbpitp_twcm
+OpenStackの古参Mirantisが顧客の要望に逆らえずKubernetesをクラウドサービスの核に加える
+http://jp.techcrunch.com/2017/04/20/20170419mirantis-launches-its-new-openstack-and-kubernetes-cloud-platform/
+デスクトップ/業務アプリケーション、OSS鳥瞰図【第3回】
+http://it.impressbm.co.jp/articles/-/14471
+Linux FoundationゴールドメンバーがルネサスとVMwareをボードメンバーに選出 - 宗像尚郎氏とDirk Hohndel氏、Linux/OSSへの長年の取り組みがLinux Foundationボードで活かされる
+https://www.linuxfoundation.jp/announcements/linux-foundation-gold-members-elect-representatives-to-board-of-directors
+Ubuntu 17.04が本日よりダウンロード提供開始
+http://pc.watch.impress.co.jp/docs/news/1054960.html
+Struts 2の脆弱性悪用　総務省サイトから個人情報2万件超流出のおそれ
+http://www.itmedia.co.jp/news/articles/1704/14/news077.html
+SQLインジェクション対策もれの責任を開発会社に問う判決
+http://blog.tokumaru.org/2015/01/sql.html
+青森県がん情報サービス - 青森県の現状
+http://gan-info.pref.aomori.jp/public/index.php/ct05/a51.html</itunes:summary>
+      <itunes:subtitle>shownote
+ゲストにＷ岡田さん（岡田 良太郎、岡田 あすみ）をお迎えしてStruts 2の脆…</itunes:subtitle>
+      <description>shownote
+ゲストにＷ岡田さん（岡田 良太郎、岡田 あすみ）をお迎えしてStruts 2の脆弱性問題などについてディスカッションしました。
+
+Docker、「LinuxKit」を発表。コンテナランタイムのためだけにゼロから開発されたセキュアなLinux Subsystem。DockerCon 2017
+http://www.publickey1.jp/blog/17/dockerlinuxkitlinux_subsystemdockercon_2017.html
+Dockerコンテナに特化した「RancherOS」正式版リリース。Linuxカーネル上でDockerを実行、システムもユーザーもすべてをコンテナ空間に
+http://www.publickey1.jp/blog/17/dockerrancheroslinuxdocker.html
+レッドハットの新年度事業戦略、OSSでデジタルトランスフォーメーションを
+http://news.mynavi.jp/articles/2017/04/21/redhat_2018/
+「5年でデータ処理基盤のリーダーに」、OSS専業のホートンワークスジャパン
+http://itpro.nikkeibp.co.jp/atcl/news/17/042101237/?n_cid=nbpitp_twcm
+OpenStackの古参Mirantisが顧客の要望に逆らえずKubernetesをクラウドサービスの核に加える
+http://jp.techcrunch.com/2017/04/20/20170419mirantis-launches-its-new-openstack-and-kubernetes-cloud-platform/
+デスクトップ/業務アプリケーション、OSS鳥瞰図【第3回】
+http://it.impressbm.co.jp/articles/-/14471
+Linux FoundationゴールドメンバーがルネサスとVMwareをボードメンバーに選出 - 宗像尚郎氏とDirk Hohndel氏、Linux/OSSへの長年の取り組みがLinux Foundationボードで活かされる
+https://www.linuxfoundation.jp/announcements/linux-foundation-gold-members-elect-representatives-to-board-of-directors
+Ubuntu 17.04が本日よりダウンロード提供開始
+http://pc.watch.impress.co.jp/docs/news/1054960.html
+Struts 2の脆弱性悪用　総務省サイトから個人情報2万件超流出のおそれ
+http://www.itmedia.co.jp/news/articles/1704/14/news077.html
+SQLインジェクション対策もれの責任を開発会社に問う判決
+http://blog.tokumaru.org/2015/01/sql.html
+青森県がん情報サービス - 青森県の現状
+http://gan-info.pref.aomori.jp/public/index.php/ct05/a51.html</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/322188308-user-845765827-3-struts-2.mp3" length="59947387"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000222183424-shi1jf-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/319722699</guid>
+      <title>#2 OSSfm Linux使えてます？ - OSをインストールしたことがない若者たちへ</title>
+      <pubDate>Thu, 27 Apr 2017 12:33:02 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/2-ossfm-linux</link>
+      <itunes:duration>01:08:14</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>https://thinkit.co.jp/article/11781
+ゲストにマイクロソフト藤田さんをお迎えして最近のLinux事情についてディスカッションしました。
+
+shownote
+「Ubuntu 18.04 LTS」はデスクトップ環境がGNOMEへ逆戻り～独自のUnityへの投資を終了
+http://pc.watch.impress.co.jp/docs/news/1053491.html
+Mozilla、オープンソース支援プログラム「Moss」で新たに5プロジェクトに36万ドルを投資
+https://mag.osdn.jp/17/04/12/163000
+Webサーバのシェア、Apacheは50%を下回る
+http://news.mynavi.jp/news/2017/04/11/259/
+総務省、Struts2の脆弱性を突かれて2.3万人の個人情報流出か
+http://itpro.nikkeibp.co.jp/atcl/news/17/041401147/?n_cid=nbpitp_twcm
+AIベンチャーの雄が総務省の開発指針に反対する理由
+http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040600923/
+マイクロソフト、「Kubernetes」関連の新興企業Deisを買収へ
+https://japan.zdnet.com/article/35099557/
+Microsoft、開発者コミュニティCodePlexを2017年12月に終了へ
+http://www.itmedia.co.jp/news/articles/1704/03/news057.html
+AMD「Ryzen 7 1800X」はIntelの牙城を崩せるか?
+http://pc.watch.impress.co.jp/docs/topic/review/1047474.html
+RaspberryPi 32台で可搬型クラスタ実験環境を作る(ハードウェア編)
+http://llamerad-jp.hatenablog.com/entry/2016/07/08/165938
+マイクロソフト オープンソース戦略の全貌
+https://thinkit.co.jp/series/6294
+あらゆる分野・業種のシステムがオープンソースを前提に考える時代がやってくる
+https://thinkit.co.jp/article/9402</itunes:summary>
+      <itunes:subtitle>https://thinkit.co.jp/article/11781
+ゲストにマイクロソフト藤田…</itunes:subtitle>
+      <description>https://thinkit.co.jp/article/11781
+ゲストにマイクロソフト藤田さんをお迎えして最近のLinux事情についてディスカッションしました。
+
+shownote
+「Ubuntu 18.04 LTS」はデスクトップ環境がGNOMEへ逆戻り～独自のUnityへの投資を終了
+http://pc.watch.impress.co.jp/docs/news/1053491.html
+Mozilla、オープンソース支援プログラム「Moss」で新たに5プロジェクトに36万ドルを投資
+https://mag.osdn.jp/17/04/12/163000
+Webサーバのシェア、Apacheは50%を下回る
+http://news.mynavi.jp/news/2017/04/11/259/
+総務省、Struts2の脆弱性を突かれて2.3万人の個人情報流出か
+http://itpro.nikkeibp.co.jp/atcl/news/17/041401147/?n_cid=nbpitp_twcm
+AIベンチャーの雄が総務省の開発指針に反対する理由
+http://itpro.nikkeibp.co.jp/atcl/column/14/346926/040600923/
+マイクロソフト、「Kubernetes」関連の新興企業Deisを買収へ
+https://japan.zdnet.com/article/35099557/
+Microsoft、開発者コミュニティCodePlexを2017年12月に終了へ
+http://www.itmedia.co.jp/news/articles/1704/03/news057.html
+AMD「Ryzen 7 1800X」はIntelの牙城を崩せるか?
+http://pc.watch.impress.co.jp/docs/topic/review/1047474.html
+RaspberryPi 32台で可搬型クラスタ実験環境を作る(ハードウェア編)
+http://llamerad-jp.hatenablog.com/entry/2016/07/08/165938
+マイクロソフト オープンソース戦略の全貌
+https://thinkit.co.jp/series/6294
+あらゆる分野・業種のシステムがオープンソースを前提に考える時代がやってくる
+https://thinkit.co.jp/article/9402</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/319722699-user-845765827-2-ossfm-linux.mp3" length="65511260"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000308526098-u56khj-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/318412228</guid>
+      <title>#1 OSSfm Started!!</title>
+      <pubDate>Wed, 19 Apr 2017 07:15:44 +0000</pubDate>
+      <link>https://soundcloud.com/user-845765827/1-ossfm-started</link>
+      <itunes:duration>01:00:14</itunes:duration>
+      <itunes:author>Think IT</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>shownote
+
+富士通とLPI-Japanのパートナーシップ
+http://pr.fujitsu.com/jp/news/2017/03/31-1.html
+Apache Struts2 の脆弱性対策情報一覧
+https://www.ipa.go.jp/security/announce/struts2_list.html
+NECのOSSミドルウェアサポートサービス
+http://jpn.nec.com/press/201702/20170228_02.html
+マイクロソフト オープンソース戦略の全貌
+https://thinkit.co.jp/series/6294
+2016 Open Source ‘Rookies of the Year’
+https://www.blackducksoftware.com/about/news-events/releases/black-duck-announces-2016-open-source-rookies-year
+Hyperledger Tokyo Meetup
+https://www.meetup.com/ja-JP/Hyperledger-Tokyo/events/237603330/
+ブロックチェーン普及の必要条件
+https://japan.zdnet.com/article/35098937/
+HadoopのディストリビューターのCloudera、IPOに向けS-1申請書提出
+https://japan.zdnet.com/article/35099147/
+「AI、IoTの前に基幹系を見直すべき」─元大和証券CIOらが新会社発足
+http://it.impressbm.co.jp/articles/-/14443
+Kubernetes
+https://kubernetes.io/
+インテル AI DAY
+https://www.info-event.jp/intel/ai_day/
+OBCIプレミアムセミナー「IoT/ロボティクス×イノベーションがもたらすビジネス革新」
+http://www.obci.jp/2017event/2662/</itunes:summary>
+      <itunes:subtitle>shownote
+
+富士通とLPI-Japanのパートナーシップ
+http://pr.fujits…</itunes:subtitle>
+      <description>shownote
+
+富士通とLPI-Japanのパートナーシップ
+http://pr.fujitsu.com/jp/news/2017/03/31-1.html
+Apache Struts2 の脆弱性対策情報一覧
+https://www.ipa.go.jp/security/announce/struts2_list.html
+NECのOSSミドルウェアサポートサービス
+http://jpn.nec.com/press/201702/20170228_02.html
+マイクロソフト オープンソース戦略の全貌
+https://thinkit.co.jp/series/6294
+2016 Open Source ‘Rookies of the Year’
+https://www.blackducksoftware.com/about/news-events/releases/black-duck-announces-2016-open-source-rookies-year
+Hyperledger Tokyo Meetup
+https://www.meetup.com/ja-JP/Hyperledger-Tokyo/events/237603330/
+ブロックチェーン普及の必要条件
+https://japan.zdnet.com/article/35098937/
+HadoopのディストリビューターのCloudera、IPOに向けS-1申請書提出
+https://japan.zdnet.com/article/35099147/
+「AI、IoTの前に基幹系を見直すべき」─元大和証券CIOらが新会社発足
+http://it.impressbm.co.jp/articles/-/14443
+Kubernetes
+https://kubernetes.io/
+インテル AI DAY
+https://www.info-event.jp/intel/ai_day/
+OBCIプレミアムセミナー「IoT/ロボティクス×イノベーションがもたらすビジネス革新」
+http://www.obci.jp/2017event/2662/</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/318412228-user-845765827-1-ossfm-started.mp3" length="57831259"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000218453932-bj07g0-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

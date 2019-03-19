@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+
+<channel>
+	<title>パソ爺とゆこびんのアプリ道場</title>
+	<atom:link href="https://app-dojo.mookmookradio.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://app-dojo.mookmookradio.com</link>
+	<description>mookmook radio</description>
+	<lastBuildDate>Fri, 12 Jan 2018 13:33:03 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.9</generator>
+
+<image>
+	<url>https://app-dojo.mookmookradio.com/wp-content/uploads/2017/06/cropped-bci_mkmk_full-6-1-32x32.jpg</url>
+	<title>パソ爺とゆこびんのアプリ道場</title>
+	<link>https://app-dojo.mookmookradio.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.1.1" mode="simple" feedslug="feed" -->
+	<itunes:summary>【毎月第2、第4月曜日の17:00に更新】この番組は、67歳からアプリ制作を始めた「パソ爺」こと蒲池孝一と、アシスタントの「ゆこびん」がiPhoneアプリ制作をテーマにお話ししていきます。番組のメインコーナー「アプリ開発なう」では、パソ爺が4ヶ月に一本アプリをリリースしていきます。企画から制作、そこで発生する質問や愚痴などをリスナーの方々にお届けします。実際にアプリ制作をされている方やこれからチャレンジしようと思っている方に楽しんでいただければ嬉しいです。そんなパソ爺への応援メッセージも受け付けてます！番組ホームページよりメッセージをお願いいたします！</itunes:summary>
+	<itunes:author>mookmook radio</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="http://app-dojo.mookmookradio.com/wp-content/uploads/powerpress/bci_mkmk_full-6.jpg" />
+	<itunes:owner>
+		<itunes:name>mookmook radio</itunes:name>
+		<itunes:email>bingobungo37@gmail.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>bingobungo37@gmail.com (mookmook radio)</managingEditor>
+	<copyright>mookmook radio</copyright>
+	<itunes:subtitle>mookmook radio</itunes:subtitle>
+	<image>
+		<title>パソ爺とゆこびんのアプリ道場</title>
+		<url>http://app-dojo.mookmookradio.com/wp-content/uploads/powerpress/bci_mkmk_full-6.jpg</url>
+		<link>https://app-dojo.mookmookradio.com</link>
+	</image>
+	<itunes:category text="Games &amp; Hobbies">
+	</itunes:category>
+	<rawvoice:subscribe feed="https://app-dojo.mookmookradio.com/feed/" itunes="https://itunes.apple.com/jp/podcast/%E3%83%91%E3%82%BD%E7%88%BA%E3%81%A8%E3%82%86%E3%81%93%E3%81%B3%E3%82%93%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%81%93%E5%A0%B4/id1248164065?l=en "></rawvoice:subscribe>
+	<item>
+		<title>【最終回】第27回　［シニア向け］アプリ開発の魅力　2017年10月23日配信　#パソ爺 #mook06</title>
+		<link>https://app-dojo.mookmookradio.com/podcast/27/</link>
+		<pubDate>Mon, 23 Oct 2017 07:00:38 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[アプリ開発の魅力]]></category>
+		<category><![CDATA[シニア向け]]></category>
+
+		<guid isPermaLink="false">http://app-dojo.mookmookradio.com/?p=381</guid>
+		<description><![CDATA[《番組テーマ》 ［シニア向け］アプリ開発の魅力]]></description>
+				<content:encoded><![CDATA[<p>《番組テーマ》<br />
+［シニア向け］アプリ開発の魅力</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-2"><a href="https://itunes.apple.com/jp/podcast/%E3%83%91%E3%82%BD%E7%88%BA%E3%81%A8%E3%82%86%E3%81%93%E3%81%B3%E3%82%93%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%81%93%E5%A0%B4/id1248164065?l=en&amp;mt=2&amp;ls=1" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-348" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-2"><a href="http://subscribeonandroid.com/app-dojo.mookmookradio.com/feed/podcast/" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-347" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+	<enclosure url="http://media.blubrry.com/mkappdojo/app-dojo.mookmookradio.com/wp-content/uploads/2017/10/A-0006_27_20171023.mp3" length="45638343" type="audio/mpeg" />
+		<itunes:subtitle>《番組テーマ》 ［シニア向け］アプリ開発の魅力</itunes:subtitle>
+		<itunes:summary>《番組テーマ》 ［シニア向け］アプリ開発の魅力</itunes:summary>
+		<itunes:author>mookmook radio</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>31:41</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://app-dojo.mookmookradio.com/?powerpress_embed=381-podcast&amp;amp;powerpress_player=mediaelement-audio&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+	</item>
+		<item>
+		<title>番組の聴き方</title>
+		<link>https://app-dojo.mookmookradio.com/podcast/howtolisten/</link>
+		<pubDate>Thu, 12 Oct 2017 01:31:47 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[聴き方]]></category>
+
+		<guid isPermaLink="false">http://app-dojo.mookmookradio.com/?p=349</guid>
+		<description><![CDATA[iPhoneやiPadでダウンロードして聴く 【1】上の「紫色のバナー」を押してください。 【2】下のページが [&#8230;]]]></description>
+				<content:encoded><![CDATA[<h3 class="style5b">iPhoneやiPadでダウンロードして聴く</h3>
+<p><img class="aligncenter size-full wp-image-561" src="http://sanmeikanshigaku.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" /></p>
+<p style="text-align: center;"><strong>【1】上の「紫色のバナー」を押してください。</strong><br />
+<strong> 【2】下のページが出てきます。順番に進んでください。</strong></p>
+<p>&nbsp;<br />
+<img src="http://sanmeikanshigaku.mookmookradio.com/wp-content/uploads/2017/10/iOS聴き方.001-1024x768.jpeg" alt="" width="1024" height="768" class="aligncenter size-large wp-image-594" /><br />
+<img src="http://sanmeikanshigaku.mookmookradio.com/wp-content/uploads/2017/10/iOS聴き方.002-1024x768.jpeg" alt="" width="1024" height="768" class="aligncenter size-large wp-image-595" /></p>
+]]></content:encoded>
+			</item>
+		<item>
+		<title>第26回　パソ爺スペシャル chapter2　2017年10月9日配信　#mook06</title>
+		<link>https://app-dojo.mookmookradio.com/podcast/26/</link>
+		<pubDate>Mon, 09 Oct 2017 07:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[パソ爺スペシャル]]></category>
+
+		<guid isPermaLink="false">http://app-dojo.mookmookradio.com/?p=343</guid>
+		<description><![CDATA[【番組コーナー】 パソ爺スペシャル chapter2 今回はアシスタントのゆこびんがイタリア出張なので内容を変 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>【番組コーナー】<br />
+パソ爺スペシャル chapter2<br />
+今回はアシスタントのゆこびんがイタリア出張なので内容を変更し、<br />
+パソ爺スペシャルということで、パソ爺こと蒲池孝一にインタビューしております。<br />
+トークテーマ：シニア向けの番組作り</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-2"><a href="https://itunes.apple.com/jp/podcast/%E3%83%91%E3%82%BD%E7%88%BA%E3%81%A8%E3%82%86%E3%81%93%E3%81%B3%E3%82%93%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%81%93%E5%A0%B4/id1248164065?l=en&amp;mt=2&amp;ls=1" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-348" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-2"><a href="http://subscribeonandroid.com/app-dojo.mookmookradio.com/feed/podcast/" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-347" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+	<enclosure url="http://media.blubrry.com/mkappdojo/app-dojo.mookmookradio.com/wp-content/uploads/2017/10/A-0006_26_20171009.mp3" length="51043183" type="audio/mpeg" />
+		<itunes:subtitle>【番組コーナー】 パソ爺スペシャル chapter2 今回はアシスタントのゆこびんがイタリア出張なので内容を変 […]</itunes:subtitle>
+		<itunes:summary>【番組コーナー】 パソ爺スペシャル chapter2 今回はアシスタントのゆこびんがイタリア出張なので内容を変 […]</itunes:summary>
+		<itunes:author>mookmook radio</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>35:27</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://app-dojo.mookmookradio.com/?powerpress_embed=343-podcast&amp;amp;powerpress_player=mediaelement-audio&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+	</item>
+		<item>
+		<title>第25回　パソ爺スペシャル chapter1　2017年9月25日配信　#mook06</title>
+		<link>https://app-dojo.mookmookradio.com/podcast/25/</link>
+		<pubDate>Mon, 25 Sep 2017 07:00:58 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[パソ爺スペシャル]]></category>
+
+		<guid isPermaLink="false">http://app-dojo.mookmookradio.com/?p=336</guid>
+		<description><![CDATA[【番組コーナー】 パソ爺スペシャル chapter1 今回はアシスタントのゆこびんがイタリア出張なので内容を変 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>【番組コーナー】<br />
+パソ爺スペシャル chapter1<br />
+今回はアシスタントのゆこびんがイタリア出張なので内容を変更し、<br />
+パソ爺スペシャルということで、パソ爺こと蒲池孝一にインタビューしております。</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-2"><a href="https://itunes.apple.com/jp/podcast/%E3%83%91%E3%82%BD%E7%88%BA%E3%81%A8%E3%82%86%E3%81%93%E3%81%B3%E3%82%93%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%81%93%E5%A0%B4/id1248164065?l=en&amp;mt=2&amp;ls=1" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-348" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-2"><a href="http://subscribeonandroid.com/app-dojo.mookmookradio.com/feed/podcast/" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-347" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+	<enclosure url="http://media.blubrry.com/mkappdojo/app-dojo.mookmookradio.com/wp-content/uploads/2017/09/A-0006_25_20170925.mp3" length="60351970" type="audio/mpeg" />
+		<itunes:subtitle>【番組コーナー】 パソ爺スペシャル chapter1 今回はアシスタントのゆこびんがイタリア出張なので内容を変 […]</itunes:subtitle>
+		<itunes:summary>【番組コーナー】 パソ爺スペシャル chapter1 今回はアシスタントのゆこびんがイタリア出張なので内容を変 […]</itunes:summary>
+		<itunes:author>mookmook radio</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>41:54</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://app-dojo.mookmookradio.com/?powerpress_embed=336-podcast&amp;amp;powerpress_player=mediaelement-audio&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+	</item>
+		<item>
+		<title>第24回　パソ爺アプリ開発なう　2017年9月11日配信　#mook06</title>
+		<link>https://app-dojo.mookmookradio.com/podcast/24/</link>
+		<pubDate>Mon, 11 Sep 2017 07:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[あるものないものリスト]]></category>
+		<category><![CDATA[パソ爺アプリ開発なう]]></category>
+
+		<guid isPermaLink="false">http://app-dojo.mookmookradio.com/?p=330</guid>
+		<description><![CDATA[【番組コーナー】パソ爺アプリ開発なう ・3本目のアプリ「あるものないものリスト（仮題）」の進捗]]></description>
+				<content:encoded><![CDATA[<p>【番組コーナー】パソ爺アプリ開発なう<br />
+・3本目のアプリ「あるものないものリスト（仮題）」の進捗</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-2"><a href="https://itunes.apple.com/jp/podcast/%E3%83%91%E3%82%BD%E7%88%BA%E3%81%A8%E3%82%86%E3%81%93%E3%81%B3%E3%82%93%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%81%93%E5%A0%B4/id1248164065?l=en&amp;mt=2&amp;ls=1" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-348" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-2"><a href="http://subscribeonandroid.com/app-dojo.mookmookradio.com/feed/podcast/" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-347" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+	<enclosure url="http://media.blubrry.com/mkappdojo/app-dojo.mookmookradio.com/wp-content/uploads/2017/09/A-0006_24_20170911.mp3" length="39978340" type="audio/mpeg" />
+		<itunes:subtitle>【番組コーナー】パソ爺アプリ開発なう ・3本目のアプリ「あるものないものリスト（仮題）」の進捗</itunes:subtitle>
+		<itunes:summary>【番組コーナー】パソ爺アプリ開発なう ・3本目のアプリ「あるものないものリスト（仮題）」の進捗</itunes:summary>
+		<itunes:author>mookmook radio</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>27:46</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://app-dojo.mookmookradio.com/?powerpress_embed=330-podcast&amp;amp;powerpress_player=mediaelement-audio&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+	</item>
+		<item>
+		<title>第23回　パソ爺アプリ開発なう　2017年8月28日配信　#mook06</title>
+		<link>https://app-dojo.mookmookradio.com/podcast/23/</link>
+		<pubDate>Mon, 28 Aug 2017 07:00:53 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[あるものないものリスト]]></category>
+		<category><![CDATA[パソ爺アプリ開発なう]]></category>
+
+		<guid isPermaLink="false">http://app-dojo.mookmookradio.com/?p=324</guid>
+		<description><![CDATA[【番組コーナー】パソ爺アプリ開発なう ・3本目のアプリ「あるものないものリスト（仮題）」の進捗]]></description>
+				<content:encoded><![CDATA[<p>【番組コーナー】パソ爺アプリ開発なう<br />
+・3本目のアプリ「あるものないものリスト（仮題）」の進捗</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-2"><a href="https://itunes.apple.com/jp/podcast/%E3%83%91%E3%82%BD%E7%88%BA%E3%81%A8%E3%82%86%E3%81%93%E3%81%B3%E3%82%93%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%81%93%E5%A0%B4/id1248164065?l=en&amp;mt=2&amp;ls=1" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-348" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-2"><a href="http://subscribeonandroid.com/app-dojo.mookmookradio.com/feed/podcast/" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-347" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+	<enclosure url="http://media.blubrry.com/mkappdojo/app-dojo.mookmookradio.com/wp-content/uploads/2017/08/A-0006_23_20170828.mp3" length="61096146" type="audio/mpeg" />
+		<itunes:subtitle>【番組コーナー】パソ爺アプリ開発なう ・3本目のアプリ「あるものないものリスト（仮題）」の進捗</itunes:subtitle>
+		<itunes:summary>【番組コーナー】パソ爺アプリ開発なう ・3本目のアプリ「あるものないものリスト（仮題）」の進捗</itunes:summary>
+		<itunes:author>mookmook radio</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>42:26</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://app-dojo.mookmookradio.com/?powerpress_embed=324-podcast&amp;amp;powerpress_player=mediaelement-audio&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+	</item>
+		<item>
+		<title>第22回　パソ爺アプリ開発なう　2017年8月14日配信　#mook06</title>
+		<link>https://app-dojo.mookmookradio.com/podcast/22/</link>
+		<pubDate>Mon, 14 Aug 2017 07:00:34 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[パソ爺アプリ開発なう]]></category>
+		<category><![CDATA[思い出せ]]></category>
+
+		<guid isPermaLink="false">http://app-dojo.mookmookradio.com/?p=317</guid>
+		<description><![CDATA[【番組コーナー】パソ爺アプリ開発なう ・「思い出せ！」の総括、3本目のアプリ制作企画]]></description>
+				<content:encoded><![CDATA[<p>【番組コーナー】パソ爺アプリ開発なう<br />
+・「思い出せ！」の総括、3本目のアプリ制作企画</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-2"><a href="https://itunes.apple.com/jp/podcast/%E3%83%91%E3%82%BD%E7%88%BA%E3%81%A8%E3%82%86%E3%81%93%E3%81%B3%E3%82%93%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%81%93%E5%A0%B4/id1248164065?l=en&amp;mt=2&amp;ls=1" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-348" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-2"><a href="http://subscribeonandroid.com/app-dojo.mookmookradio.com/feed/podcast/" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-347" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+	<enclosure url="http://media.blubrry.com/mkappdojo/app-dojo.mookmookradio.com/wp-content/uploads/2017/08/A-0006_22_20170814.mp3" length="59466732" type="audio/mpeg" />
+		<itunes:subtitle>【番組コーナー】パソ爺アプリ開発なう ・「思い出せ！」の総括、3本目のアプリ制作企画</itunes:subtitle>
+		<itunes:summary>【番組コーナー】パソ爺アプリ開発なう ・「思い出せ！」の総括、3本目のアプリ制作企画</itunes:summary>
+		<itunes:author>mookmook radio</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>41:18</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://app-dojo.mookmookradio.com/?powerpress_embed=317-podcast&amp;amp;powerpress_player=mediaelement-audio&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+	</item>
+		<item>
+		<title>第21回　WWDC2017のまとめ　2017年6月26日配信</title>
+		<link>https://app-dojo.mookmookradio.com/podcast/21/</link>
+		<pubDate>Mon, 26 Jun 2017 07:00:31 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[akio]]></category>
+		<category><![CDATA[WWDC]]></category>
+		<category><![CDATA[WWDC2017]]></category>
+
+		<guid isPermaLink="false">http://app-dojo.mookmookradio.com/?p=296</guid>
+		<description><![CDATA[【サンノゼで行われたWWDC2017のPodcast Studioで収録】 ●アプリクリエイター道場講師のak [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>【サンノゼで行われたWWDC2017のPodcast Studioで収録】<br />
+●アプリクリエイター道場講師の<a href="https://twitter.com/akio0911" target="_blank">akio</a>によるWWDC2017のまとめ<br />
+出演：akio、ゆこびん<br />
+●パソ爺制作中アプリ：<a href="https://itunes.apple.com/jp/app/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B/id1235955761?l=en&#038;mt=8" target="_blank">思い出せ！⇒アプリDLはこちらから</a><br />
+<a href="http://app-dojo.jp" target="_blank">◆アプリクリエイター道場のホームページはこちら</a></p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-2"><a href="https://itunes.apple.com/jp/podcast/%E3%83%91%E3%82%BD%E7%88%BA%E3%81%A8%E3%82%86%E3%81%93%E3%81%B3%E3%82%93%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%81%93%E5%A0%B4/id1248164065?l=en&amp;mt=2&amp;ls=1" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-348" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-2"><a href="http://subscribeonandroid.com/app-dojo.mookmookradio.com/feed/podcast/" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-347" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+	<enclosure url="http://media.blubrry.com/mkappdojo/app-dojo.mookmookradio.com/wp-content/uploads/2017/06/A-0006_21_20170626.mp3" length="66832636" type="audio/mpeg" />
+		<itunes:subtitle>【サンノゼで行われたWWDC2017のPodcast Studioで収録】 ●アプリクリエイター道場講師のak […]</itunes:subtitle>
+		<itunes:summary>【サンノゼで行われたWWDC2017のPodcast Studioで収録】 ●アプリクリエイター道場講師のak […]</itunes:summary>
+		<itunes:author>mookmook radio</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>46:25</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://app-dojo.mookmookradio.com/?powerpress_embed=296-podcast&amp;amp;powerpress_player=mediaelement-audio&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+	</item>
+		<item>
+		<title>第20回　パソ爺アプリ開発なう　2017年6月12日配信</title>
+		<link>https://app-dojo.mookmookradio.com/podcast/20/</link>
+		<pubDate>Fri, 16 Jun 2017 02:29:44 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[パソ爺アプリ開発なう]]></category>
+		<category><![CDATA[思い出せ]]></category>
+
+		<guid isPermaLink="false">http://app-dojo.mookmookradio.com/?p=192</guid>
+		<description><![CDATA[【番組コーナー】パソ爺アプリ開発なう 制作中アプリ：思い出せ！⇒アプリDLはこちらから ◆アプリクリエイター道 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>【番組コーナー】パソ爺アプリ開発なう<br />
+制作中アプリ：<a href="https://itunes.apple.com/jp/app/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B/id1235955761?l=en&#038;mt=8" target="_blank">思い出せ！⇒アプリDLはこちらから</a><br />
+<a href="http://app-dojo.jp" target="_blank">◆アプリクリエイター道場のホームページはこちら</a></p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-2"><a href="https://itunes.apple.com/jp/podcast/%E3%83%91%E3%82%BD%E7%88%BA%E3%81%A8%E3%82%86%E3%81%93%E3%81%B3%E3%82%93%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%81%93%E5%A0%B4/id1248164065?l=en&amp;mt=2&amp;ls=1" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-348" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-2"><a href="http://subscribeonandroid.com/app-dojo.mookmookradio.com/feed/podcast/" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-347" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+	<enclosure url="http://media.blubrry.com/mkappdojo/app-dojo.mookmookradio.com/wp-content/uploads/2017/06/A-0006_20_20170612.mp3" length="58553282" type="audio/mpeg" />
+		<itunes:subtitle>【番組コーナー】パソ爺アプリ開発なう 制作中アプリ：思い出せ！⇒アプリDLはこちらから ◆アプリクリエイター道 […]</itunes:subtitle>
+		<itunes:summary>【番組コーナー】パソ爺アプリ開発なう 制作中アプリ：思い出せ！⇒アプリDLはこちらから ◆アプリクリエイター道 […]</itunes:summary>
+		<itunes:author>mookmook radio</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>40:40</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://app-dojo.mookmookradio.com/?powerpress_embed=192-podcast&amp;amp;powerpress_player=mediaelement-audio&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+	</item>
+		<item>
+		<title>第19回　パソ爺アプリ開発なう　2017年5月22日配信</title>
+		<link>https://app-dojo.mookmookradio.com/podcast/19/</link>
+		<pubDate>Fri, 16 Jun 2017 02:29:26 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[パソ爺アプリ開発なう]]></category>
+		<category><![CDATA[思い出せ]]></category>
+
+		<guid isPermaLink="false">http://app-dojo.mookmookradio.com/?p=190</guid>
+		<description><![CDATA[【番組コーナー】パソ爺アプリ開発なう 制作中アプリ：思い出せ！⇒アプリDLはこちらから ◆アプリクリエイター道 [&#8230;]]]></description>
+				<content:encoded><![CDATA[<p>【番組コーナー】パソ爺アプリ開発なう<br />
+制作中アプリ：<a href="https://itunes.apple.com/jp/app/%E6%80%9D%E3%81%84%E5%87%BA%E3%81%9B/id1235955761?l=en&#038;mt=8" target="_blank">思い出せ！⇒アプリDLはこちらから</a><br />
+<a href="http://app-dojo.jp" target="_blank">◆アプリクリエイター道場のホームページはこちら</a></p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-2"><a href="https://itunes.apple.com/jp/podcast/%E3%83%91%E3%82%BD%E7%88%BA%E3%81%A8%E3%82%86%E3%81%93%E3%81%B3%E3%82%93%E3%81%AE%E3%82%A2%E3%83%97%E3%83%AA%E9%81%93%E5%A0%B4/id1248164065?l=en&amp;mt=2&amp;ls=1" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-348" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-2"><a href="http://subscribeonandroid.com/app-dojo.mookmookradio.com/feed/podcast/" target="_blank"><img src="http://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-347" srcset="https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://app-dojo.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+	<enclosure url="http://media.blubrry.com/mkappdojo/app-dojo.mookmookradio.com/wp-content/uploads/2017/06/A-0006_19_20170522.mp3" length="69700881" type="audio/mpeg" />
+		<itunes:subtitle>【番組コーナー】パソ爺アプリ開発なう 制作中アプリ：思い出せ！⇒アプリDLはこちらから ◆アプリクリエイター道 […]</itunes:subtitle>
+		<itunes:summary>【番組コーナー】パソ爺アプリ開発なう 制作中アプリ：思い出せ！⇒アプリDLはこちらから ◆アプリクリエイター道 […]</itunes:summary>
+		<itunes:author>mookmook radio</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>48:24</itunes:duration>
+		<rawvoice:embed>&lt;iframe width=&quot;320&quot; height=&quot;30&quot; src=&quot;https://app-dojo.mookmookradio.com/?powerpress_embed=190-podcast&amp;amp;powerpress_player=mediaelement-audio&quot; frameborder=&quot;0&quot; scrolling=&quot;no&quot;&gt;&lt;/iframe&gt;</rawvoice:embed>
+	</item>
+	</channel>
+</rss>

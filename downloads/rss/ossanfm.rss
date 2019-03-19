@@ -1,0 +1,654 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://ossan.fm/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://ossan.fm/</link>
+    <title>Ossan.fm</title>
+    <description>おっさんの休憩時間の雑談をテーマにしたゆるいオフネタPodcastです</description>
+    <media:keywords>ossan,cinema,dorama,gadget</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Society &amp; Culture</media:category>
+    <language>ja</language>
+    <itunes:subtitle>おっさんの休憩時間の雑談をテーマにしたゆるいオフネタPodcastです</itunes:subtitle>
+    <itunes:author>ossan.fm</itunes:author>
+    <itunes:summary>おっさんの休憩時間の雑談をテーマにしたゆるいオフネタPodcastです</itunes:summary>
+    <itunes:keywords>ossan,cinema,dorama,gadget</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>ossan.fm</itunes:name>
+      <itunes:email>chris4403+ossanfm@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://ossan.fm/images/artwork.png" />
+    <itunes:category text="Society &amp; Culture"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>23. 家庭で使うSlack</title>
+        <link>https://ossan.fm/episode/23</link>
+        <pubDate>Fri, 15 Mar 2019 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B01AXUCA8G&quot;&gt;ゼンハイザー ヘッドホン HD25&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B000UPEJCU&quot;&gt;SONY スタジオモニターヘッドホン MDR-CD900ST&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mirai-no-mirai.jp/&quot;&gt;未来のミライ - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slack.com/intl/ja-jp/lp/three?geocode=ja-jp&quot;&gt;Slack&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、3月22日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/23</guid>
+        <enclosure url="https://ossan.fm/audio/23.mp3" length="10997256" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、ヘッドホン、ちょっとずつ買い足す、未来のミライ、家庭で使うSlackの話をしました。</itunes:subtitle>
+        <itunes:duration>22:38</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>22. おっさんの記憶力</title>
+        <link>https://ossan.fm/episode/22</link>
+        <pubDate>Fri, 08 Mar 2019 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCysFWP9QdEmtGS2jB-gtavQ&quot;&gt;オッさんFM - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4767814219/&quot;&gt;記憶に自信のなかった私が世界記憶力選手権で8回優勝した最強のテクニック - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sanga-fc.jp/&quot;&gt;京都サンガF.C.オフィシャルサイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kufc.co.jp/&quot;&gt;鹿児島ユナイテッドFC オフィシャルサイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.allnightnippon.com/kw/10tour/&quot;&gt;オードリーのオールナイトニッポン10周年全国ツアー 公式サイト&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、3月15日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/22</guid>
+        <enclosure url="https://ossan.fm/audio/22.mp3" length="12245909" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、YouTubeチャンネル、記憶力テクニック、京都サンガ/鹿児島ユナイテッド、オードリーのオールナイトニッポンの話をしました。</itunes:subtitle>
+        <itunes:duration>25:15</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>21. おっさんの胸に刺さる物語</title>
+        <link>https://ossan.fm/episode/21</link>
+        <pubDate>Fri, 01 Mar 2019 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%A6%E3%83%8A%E9%A2%A8%E5%91%82&quot;&gt;サウナ風呂 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4003271912&quot;&gt;タタール人の砂漠 - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00PLGP9HM&quot;&gt;その女アレックス - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netflix.com/jp/title/81035279&quot;&gt;FYRE 夢に終わった史上最高のパーティー&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、3月8日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/21</guid>
+        <enclosure url="https://ossan.fm/audio/21.mp3" length="11091455" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、老い、温泉、交互浴、タタール人の砂漠、その女アレックス、FYRE 夢に終わった史上最高のパーティーの話をしました。</itunes:subtitle>
+        <itunes:duration>22:57</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>20. カレーの発表会やりました</title>
+        <link>https://ossan.fm/episode/20</link>
+        <pubDate>Fri, 22 Feb 2019 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCysFWP9QdEmtGS2jB-gtavQ&quot;&gt;オッさんFM - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tsukurioki.hatenablog.com/entry/2019/02/11/210622&quot;&gt;カレーの発表会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nta.go.jp/taxes/shiraberu/shinkoku/kakutei.htm&quot;&gt;所得税（確定申告書等作成コーナー） - 国税庁&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/s/ref=dp_byline_sr_ebooks_2?ie=UTF8&amp;amp;text=%EF%BC%B4%EF%BD%85%EF%BD%81%EF%BD%8D%E3%83%90%E3%83%B3%E3%83%9F%E3%82%AB%E3%82%B9&amp;amp;search-alias=digital-text&amp;amp;field-author=%EF%BC%B4%EF%BD%85%EF%BD%81%EF%BD%8D%E3%83%90%E3%83%B3%E3%83%9F%E3%82%AB%E3%82%B9&amp;amp;sort=relevancerank&quot;&gt;まんがで読破シリーズ - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/results?search_query=%E3%81%82%E3%81%8A%E3%82%8A%E9%81%8B%E8%BB%A2&quot;&gt;あおり運転 - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gizmodo.jp/2018/12/google-waymo.html&quot;&gt;Googleの自動運転車Waymoがついに実用化。お金もらってお客さんを乗せます！ - GIZMODE&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、3月1日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/20</guid>
+        <enclosure url="https://ossan.fm/audio/20.mp3" length="13542158" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、20回続きました、YouTubeチャンネル開設、カレーの発表会、まんがで読破シリーズ、自動運転の話をしました。</itunes:subtitle>
+        <itunes:duration>28:03</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>19. 老ヴォールの惑星</title>
+        <link>https://ossan.fm/episode/19</link>
+        <pubDate>Fri, 15 Feb 2019 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%B0%E5%9C%B0&quot;&gt;北新地 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00GJMUKNA/&quot;&gt;老ヴォールの惑星 - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nanakai-movie.jp/&quot;&gt;七つの会議 - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://masquerade-hotel.jp/&quot;&gt;マスカレード・ホテル - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fujifilmmall.jp/walldecor/&quot;&gt;ウォールデコ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、2月22日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/19</guid>
+        <enclosure url="https://ossan.fm/audio/19.mp3" length="12861721" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、北新地、老ヴォールの惑星、七つの会議、マスカレード・ホテル、ウォールデコの話をしました。</itunes:subtitle>
+        <itunes:duration>26:38</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>18. 短編小説はちょうどいい</title>
+        <link>https://ossan.fm/episode/18</link>
+        <pubDate>Fri, 08 Feb 2019 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/357888228398133/&quot;&gt;カレーの発表会 - facebook events&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/BOSS-VE-20-Vocal-Processor/dp/B002W0Z8DU/&quot;&gt;BOSS Vocal Processor VE-20&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00ST0FK12/&quot;&gt;YAMAHA　ウェブキャスティングミキサー　6チャンネル　AG06 - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B000CZ0R42/&quot;&gt;SHURE ダイナミックマイク SM58 スイッチ無し SM58-LCE 【国内正規品】 - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B0099FMO4M/&quot;&gt;吐きたいほど愛してる - Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、2月15日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/18</guid>
+        <enclosure url="https://ossan.fm/audio/18.mp3" length="11709825" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、やっちゃいました、DJイベント、カレーの発表会、ボーカルエフェクター・マイク・オーディオインターフェース、吐きたいほど愛してる、交通整理のおじさんの話をしました。</itunes:subtitle>
+        <itunes:duration>24:14</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>17. 君は粘膜シリーズを知っているか？</title>
+        <link>https://ossan.fm/episode/17</link>
+        <pubDate>Fri, 01 Feb 2019 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B009GPMRPG/&quot;&gt;粘膜人間「粘膜」シリーズ（角川ホラー文庫）- Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B009GPMHGA/&quot;&gt;粘膜蜥蜴「粘膜」シリーズ（角川ホラー文庫）- Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B009GPMHGU/&quot;&gt;粘膜兄弟「粘膜」シリーズ（角川ホラー文庫）- Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.disney.co.jp/movie/mr-glass.html&quot;&gt;ミスター・ガラス - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%B3%E3%83%96%E3%83%AC%E3%82%A4%E3%82%AB%E3%83%96%E3%83%AB&quot;&gt;アンブレイカブル - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%97%E3%83%AA%E3%83%83%E3%83%88_(%E6%98%A0%E7%94%BB)&quot;&gt;スプリット - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bz-vermillion.com/index.html&quot;&gt;B’z - 公式サイト&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、2月8日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/17</guid>
+        <enclosure url="https://ossan.fm/audio/17.mp3" length="11764371" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、マスクの人増えてますね、歌うのはいいらしいですよ、飴村行の粘膜シリーズ、ミスターガラス、B'zのサポートメンバー一新の話をしました。</itunes:subtitle>
+        <itunes:duration>24:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>16. 今更ながらアナ雪の話</title>
+        <link>https://ossan.fm/episode/16</link>
+        <pubDate>Fri, 25 Jan 2019 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%BA%8A%E5%B1%8B&quot;&gt;床屋 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%A9%E3%82%A4%E3%82%A2%E3%83%B3%E3%83%BB%E3%82%B4%E3%82%BA%E3%83%AA%E3%83%B3%E3%82%B0&quot;&gt;ライアン・ゴズリング - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/video/detail/B00KR9Q4JK&quot;&gt;アナと雪の女王 - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%94%E3%82%AF%E3%82%B5%E3%83%BC%E3%83%BB%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA&quot;&gt;ピクサー・アニメーション・スタジオ - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%83%A9%E3%82%BB%E3%82%BF%E3%83%BC&quot;&gt;ジョン・ラセター - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%89%E3%82%A6%E3%82%A3%E3%83%B3%E3%83%BB%E3%82%AD%E3%83%A3%E3%83%83%E3%83%88%E3%83%9E%E3%83%AB&quot;&gt;エドウィン・キャットマル - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.disney.co.jp/movie/toy4.html&quot;&gt;トイ・ストーリー4 - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tbs.co.jp/the_good_wife2019/&quot;&gt;グッド・ワイフ - 日曜劇場&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/video/detail/B015M652E0&quot;&gt;グッド・ワイフ（シーズン1） - Amazon Video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、2月1日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/16</guid>
+        <enclosure url="https://ossan.fm/audio/16.mp3" length="11491442" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、髪が切りたい、アナと雪の女王、ジョン・ラセター引退、グッド・ワイフの話をしました。</itunes:subtitle>
+        <itunes:duration>23:47</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>15. 最後にして最初の...</title>
+        <link>https://ossan.fm/episode/15</link>
+        <pubDate>Fri, 18 Jan 2019 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E4%BB%AE%E9%9D%A2%E3%83%A9%E3%82%A4%E3%83%80%E3%83%BC%E3%83%93%E3%83%AB%E3%83%89&quot;&gt;仮面ライダービルド&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%9E%B6%E7%A9%BA%E5%8F%A3%E5%BA%A7&quot;&gt;架空口座 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B0798S7N12/&quot;&gt;最後にして最初のアイドル - Amazon&lt;/a&gt; / &lt;a href=&quot;https://www.amazon.co.jp/dp/B01NCA4FBB&quot;&gt;短編版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.disney.co.jp/movie/sugarrush-ol.html&quot;&gt;シュガー・ラッシュ：オンライン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.evangelion.co.jp/&quot;&gt;エヴァンゲリオン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、1月25日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/15</guid>
+        <enclosure url="https://ossan.fm/audio/15.mp3" length="11843365" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、仮面ライダービルドのショー、架空口座、最後にして最初のアイドル、シュガー・ラッシュオンライン、厨二病、の話をしました。</itunes:subtitle>
+        <itunes:duration>24:31</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>14. Amazon Videoで見れる軽めのおすすめ映画</title>
+        <link>https://ossan.fm/episode/14</link>
+        <pubDate>Fri, 11 Jan 2019 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00FW60AP2/&quot;&gt;ミッション：８ミニッツ - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00FW5HXFS/&quot;&gt;バンテージ・ポイント - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00KMIAHK8/&quot;&gt;サプライズ - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00HWQ11AS/&quot;&gt;箱入り息子の恋 - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B015VUCF4W/&quot;&gt;ピッチ・パーフェクト - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B01H68NTBU/&quot;&gt;イット・フォローズ - Amazon Video&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、1月18日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/14</guid>
+        <enclosure url="https://ossan.fm/audio/14.mp3" length="10395344" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、リスナーからのフィードバック、Amazon Prime Videoのおすすめ映画、の話をしました。</itunes:subtitle>
+        <itunes:duration>21:30</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>13. Happy New Year!!</title>
+        <link>https://ossan.fm/episode/13</link>
+        <pubDate>Fri, 04 Jan 2019 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B07JQB4Z3P/&quot;&gt;カメラを止めるな - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.imdb.com/title/tt3234552/&quot;&gt;World War Z 2 - IMDb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://firstman.jp/&quot;&gt;ファーストマン - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marvel.disney.co.jp/movie/captain-marvel.html&quot;&gt;キャプテン・マーベル - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marvel.disney.co.jp/movie/avengers-endgame.html&quot;&gt;アベンジャーズ／エンドゲーム - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wwws.warnerbros.co.jp/aquaman/&quot;&gt;アクアマン - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/video/detail/B077TD11DK&quot;&gt;シリコンバレー - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/pose_inc&quot;&gt;ポセイドン・石川 - Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、1月11日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/13</guid>
+        <enclosure url="https://ossan.fm/audio/13.mp3" length="12843333" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、カメラを止めるな、ゾンビ映画、2019年楽しみにしていること、の話をしました。</itunes:subtitle>
+        <itunes:duration>26:36</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>12. Ossan.fm 2018年の振り返り</title>
+        <link>https://ossan.fm/episode/12</link>
+        <pubDate>Fri, 28 Dec 2018 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/pose_inc&quot;&gt;ポセイドン・石川 - Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zestoike.com/&quot;&gt;ゼスト御池&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cafelasiesta.com/2018/12/19/2019-111-fri-smtp-5/&quot;&gt;2019.1/11 fri SMTP++ #5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、1月4日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/12</guid>
+        <enclosure url="https://ossan.fm/audio/12.mp3" length="10799356" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、神様はいない、2018年の振り返り、ポセイドン・石川を生で見たよ、DJやりますの話をしました。</itunes:subtitle>
+        <itunes:duration>22:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>11. マイクが来たりて泡を飲む</title>
+        <link>https://ossan.fm/episode/11</link>
+        <pubDate>Fri, 21 Dec 2018 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;マイクを&lt;a href=&quot;https://www.soundhouse.co.jp/products/detail/item/19370/&quot;&gt;Ultravoice XM8500&lt;/a&gt;x2本に、オーディオI/Fを&lt;a href=&quot;https://www.soundhouse.co.jp/products/detail/item/212161/&quot;&gt;UMC202HD&lt;/a&gt;にしました。
+    &lt;ul&gt;
+      &lt;li&gt;録音は&lt;a href=&quot;https://www.mi7.co.jp/products/presonus/studioone/prime/&quot;&gt;PreSonus Studio One Prime&lt;/a&gt;でして、あとは&lt;a href=&quot;https://auphonic.com/&quot;&gt;Auphonic&lt;/a&gt;に全てを委ねています。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kuru-movie.jp/&quot;&gt;映画「来る」- 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=oHK9zj8cNd0&quot;&gt;映画「来る」- 予告編&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://paypay.ne.jp/promo/10billion-campaign/&quot;&gt;PayPay 100億あげちゃうキャンペーン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/s/gp/search/ref=sr_nr_p_89_0?fst=as%3Aoff&amp;amp;rh=i%3Aaps%2Ck%3A4K%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3%E3%82%AB%E3%83%A0%2Cp_89%3A%E3%82%BD%E3%83%8B%E3%83%BC%28SONY%29&amp;amp;keywords=4K%E3%83%8F%E3%83%B3%E3%83%87%E3%82%A3%E3%82%AB%E3%83%A0&amp;amp;ie=UTF8&amp;amp;qid=1545360125&amp;amp;rnid=2321255051&quot;&gt;SONY 4Kハンディカム - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B07CB9MZ1B/&quot;&gt;Xperia Ear Duo - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/s/ref=nb_sb_noss_2?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;url=search-alias%3Daps&amp;amp;field-keywords=%E7%82%AD%E9%85%B8%E6%B0%B4%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC&quot;&gt;炭酸水メーカー - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/jp/iphone-xs/&quot;&gt;iPhone XS - Apple&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、12月28日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/11</guid>
+        <enclosure url="https://ossan.fm/audio/11.mp3" length="11726807" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、収録環境変えました（マイク買いました）、映画「来る」を見てきました、2018年買ってよかったもの（paypay100億円キャンペーン）、の話をしました。</itunes:subtitle>
+        <itunes:duration>24:25</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>10. アグレッシブな両親</title>
+        <link>https://ossan.fm/episode/10</link>
+        <pubDate>Fri, 14 Dec 2018 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%BC%E3%83%A9%E3%83%BC%E3%83%91%E3%83%8D%E3%83%AB&quot;&gt;ソーラーパネル - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;table&gt;
+      &lt;tbody&gt;
+        &lt;tr&gt;
+          &lt;td&gt;[江戸は燃えているか&lt;/td&gt;
+          &lt;td&gt;特設サイト](http://www.parco-play.com/web/play/edomoe/)&lt;/td&gt;
+        &lt;/tr&gt;
+      &lt;/tbody&gt;
+    &lt;/table&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wowow.co.jp/ranking/5&quot;&gt;人気番組ランキング（ステージ） - WOWOW&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、12月21日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/10</guid>
+        <enclosure url="https://ossan.fm/audio/10.mp3" length="11905067" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、実家から両親がやってきた、三谷幸喜の舞台「江戸は燃えているか」、コピーは劣化するのか、の話をしました。</itunes:subtitle>
+        <itunes:duration>24:48</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>9. 子育てにおすすめのYouTubeチャンネルをご紹介</title>
+        <link>https://ossan.fm/episode/9</link>
+        <pubDate>Fri, 07 Dec 2018 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCpYye8D5fFMUPf9nSfgd4bA&quot;&gt;BabyBus - Kids TV - Songs &amp;amp; Stories - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/SuperSimpleSongs&quot;&gt;Super Simple Songs - Kids Songs - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/SmartBooksMedia&quot;&gt;Pinkfong! Kids’ Songs &amp;amp; Stories - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/theofficialpeppa&quot;&gt;Peppa Pig - Official Channel - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC_qs3c0ehDvZkbiEbOj6Drg&quot;&gt;Alphablocks - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC5PYHgAzJ1wLEidB58SK6Xw&quot;&gt;Blippi - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/billyreid&quot;&gt;Pancake Manor - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/b/?node=5364343051&quot;&gt;Echo &amp;amp; Alexa - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/THE_%E8%99%8E%E8%88%9E%E7%AB%9C&quot;&gt;THE 虎舞竜 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%81%82%E3%81%8D%E3%82%89%E3%82%81%E3%81%9A%E3%81%AB%E8%A1%8C%E3%81%93%E3%81%86/dp/B00E9IQGD4&quot;&gt;あきらめずに行こう!! THE虎舞竜 - Amazon Music&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、12月14日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/9</guid>
+        <enclosure url="https://ossan.fm/audio/9.mp3" length="13260299" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、子育てにおすすめのYouTubeチャンネル、子育てに活用するAmazon Echoの話をしました。</itunes:subtitle>
+        <itunes:duration>27:37</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>8. おっさんに刺さるドラマ「This is us」がおもしろい</title>
+        <link>https://ossan.fm/episode/8</link>
+        <pubDate>Fri, 30 Nov 2018 04:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/video/detail/B01N0RKC4H&quot;&gt;帰ってきたヒトラー - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%B8%B0%E3%81%A3%E3%81%A6%E3%81%8D%E3%81%9F%E3%83%92%E3%83%88%E3%83%A9%E3%83%BC&quot;&gt;帰ってきたヒトラー - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/video/detail/B0765WX7T3&quot;&gt;This is us 36歳、これから - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www4.nhk.or.jp/this-is-us/&quot;&gt;This is us 36歳、これから - NHK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%B9%E3%83%9A%E3%83%B3%E3%82%B9&quot;&gt;サスペンス - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、12月7日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/8</guid>
+        <enclosure url="https://ossan.fm/audio/8.mp3" length="10609184" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、帰ってきたヒトラー、This is us、日常に潜むサスペンスの話をしました。</itunes:subtitle>
+        <itunes:duration>22:06</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>7. ポセイドン・石川を応援しよう</title>
+        <link>https://ossan.fm/episode/7</link>
+        <pubDate>Fri, 23 Nov 2018 04:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;禁カフェイン
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%B3&quot;&gt;カフェイン - Wikipedia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%B3%E4%B8%AD%E6%AF%92&quot;&gt;カフェイン中毒 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://mimorimisa.com/%E5%AE%9F%E4%BD%93%E9%A8%93/20181020/763/&quot;&gt;カフェイン依存症　前編&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/yashigani/status/1060882242812076032&quot;&gt;ヤシガニーさんからの質問&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%BB%E3%83%AA%E3%83%BC&quot;&gt;スタン・リー - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.foxmovies-jp.com/bohemianrhapsody/&quot;&gt;ボヘミアン・ラプソディ - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=H7umx1jgkoQ&quot;&gt;ボヘミアン・ラプソディ予告編 - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%BB%E3%82%A4%E3%83%89%E3%83%B3%E3%83%BB%E7%9F%B3%E5%B7%9D&quot;&gt;ポセイドン・石川 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCLuDPaLzPdxR6SRCC11db5A&quot;&gt;ポセイドン・石川公式YouTubeチャンネル&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、11月30日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/7</guid>
+        <enclosure url="https://ossan.fm/audio/7.mp3" length="11025263" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、禁カフェインその後、動画を見る時間の作り方、スタン・リー逝去、ボヘミアン・ラプソディ、ポセイドン・石川の話をしました。</itunes:subtitle>
+        <itunes:duration>22:58</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>6. VRで美少女体験</title>
+        <link>https://ossan.fm/episode/6</link>
+        <pubDate>Fri, 16 Nov 2018 04:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oculus.com/quest/&quot;&gt;Oculus Quest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hashilus.com/indies/hapiosha/&quot;&gt;ハッピーおしゃれタイム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;【VR】ゾンビVR 蓮実クレア 【R18】http://www.dmm.co.jp/digital/videoa/-/detail/=/cid=13dsvr00339/&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sony.jp/bravia/&quot;&gt;BRAVIA SONY&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jp.playstation.com/ps4/features/pro/&quot;&gt;PS4 Pro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rockstargames.com/reddeadredemption2/restricted-content/agegate/form&quot;&gt;Red Dead Redemption 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jp.playstation.com/games/marvels-spider-man/&quot;&gt;Marvel’s Spider-Man&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、11月23日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/6</guid>
+        <enclosure url="https://ossan.fm/audio/6.mp3" length="11821893" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、VRコンテンツ、4KTV、Red Dead Redemption 2の話をしました。</itunes:subtitle>
+        <itunes:duration>24:37</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>5. 禁カフェインをお試し中</title>
+        <link>https://ossan.fm/episode/5</link>
+        <pubDate>Fri, 09 Nov 2018 04:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/search?f=tweets&amp;amp;q=%23ossanfm&amp;amp;src=typd&quot;&gt;Twitter検索結果 #ossanfm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;禁カフェイン
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%B3&quot;&gt;カフェイン - Wikipedia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%95%E3%82%A7%E3%82%A4%E3%83%B3%E4%B8%AD%E6%AF%92&quot;&gt;カフェイン中毒 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://mimorimisa.com/%E5%AE%9F%E4%BD%93%E9%A8%93/20181020/763/&quot;&gt;カフェイン依存症　前編&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rottentomatoes.com/&quot;&gt;Rotten Tomatoes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/spreadsheets/d/192tGMEFGDsToZ8j78kUYbfQ40trdZNCdPDdOnl9ctsY/edit&quot;&gt;2017年全世界興行収入ランキング上位100位のRotten Tomatoesデータ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B07CXLJNYC/&quot;&gt;パディントン2 - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.venom-movie.jp/&quot;&gt;ヴェノム - 公式サイト&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、11月16日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/5</guid>
+        <enclosure url="https://ossan.fm/audio/5.mp3" length="11536636" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、禁カフェイン、Rotten Tomatoesの話をしました。</itunes:subtitle>
+        <itunes:duration>24:02</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>4. 一枚刃で剃る気持ちよさ</title>
+        <link>https://ossan.fm/episode/4</link>
+        <pubDate>Fri, 02 Nov 2018 04:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/s/?field-keywords=%E4%B8%80%E6%9E%9A%E5%88%83&quot;&gt;一枚刃カミソリ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/s/?field-keywords=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%87%E3%82%A3%E3%83%B3%E3%82%B0%E3%83%87%E3%82%B9%E3%82%AF&quot;&gt;スタンディングデスク&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.helinox.co.jp/&quot;&gt;ヘリノックス - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.helinox.co.jp/product/home_deco_beach/chair/detail/192/&quot;&gt;ヘリノックス サンセットチェア / ラグーンブルー - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B0746H85JW/&quot;&gt;プリズナー・トレーニング 圧倒的な強さを手に入れる究極の自重筋トレ - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B07C96GXTK/&quot;&gt;プリズナートレーニング　超絶！！ グリップ＆関節編 永遠の強さを手に入れる最凶の自重筋トレ - Amazon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、11月9日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/4</guid>
+        <enclosure url="https://ossan.fm/audio/4.mp3" length="11132260" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、一枚刃カミソリ、スタンディングデスク、アウトドア用のイス、筋力トレーニングの話をしました。</itunes:subtitle>
+        <itunes:duration>23:11</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>3. インドの料理系YouTuberに夢中</title>
+        <link>https://ossan.fm/episode/3</link>
+        <pubDate>Fri, 26 Oct 2018 03:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCBw-O03uDfDWqndDtFParWA&quot;&gt;Desi Food Recipes - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UChCt_TlRW3HSUubweFNzKNw&quot;&gt;ANISHKA KA KITCHEN - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/user/audrey123talks&quot;&gt;audrey123talks - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://maxam.jp/badgenius/&quot;&gt;バッド・ジーニアス 危険な天才たち - 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/wjODewrTkTw&quot;&gt;バッド・ジーニアス 危険な天才たち（予告編） - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、11月2日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/3</guid>
+        <enclosure url="https://ossan.fm/audio/3.mp3" length="10656832" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、YouTube動画（インドの料理動画、女の子のRocksmith動画）、映画「バッド・ジーニアス 危険な天才たち」について話をしました。</itunes:subtitle>
+        <itunes:duration>22:12</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>2. 10月と言えば運動会とホラー映画</title>
+        <link>https://ossan.fm/episode/2</link>
+        <pubDate>Fri, 12 Oct 2018 04:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%81%8B%E5%8B%95%E4%BC%9A&quot;&gt;運動会 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3&quot;&gt;ハロウィン - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/video/detail/B00HNYSP9E&quot;&gt;13日の金曜日 - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B01M329GFS/&quot;&gt;スクリーム - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/product/B00FB76UE2/&quot;&gt;ラストサマー - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B06XCVKQRS/&quot;&gt;ドント・ブリーズ - Amazon Video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B0791XW6TB/&quot;&gt;ゲット・アウト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://quietplace.jp/&quot;&gt;クワイエット・プレイス- 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=gryenlQKTbE&quot;&gt;Cargo / Finalist of Tropfest Australia 2013 - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netflix.com/jp/title/80161216&quot;&gt;Cargo - NetFlix&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tbs.co.jp/shitamachi_rocket/&quot;&gt;下町ロケット - TBSドラマ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4093865159/&quot;&gt;下町ロケット ゴースト - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/409386523X/&quot;&gt;下町ロケット ヤタガラス - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF%E3%82%B8%E3%83%A7%E3%83%83%E3%82%AD%E3%83%BC&quot;&gt;ディスクジョッキー - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ボーカルレッスン&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;次回は、10月26日（金）公開予定です。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/2</guid>
+        <enclosure url="https://ossan.fm/audio/2.mp3" length="23484626" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、運動会、ホラー映画（「ゲット・アウト」「クワイエット・プレイス」「Cargo」）、下町ロケット、プリーチャー、DJプレイ、ボーカルレッスンの話しました。</itunes:subtitle>
+        <itunes:duration>48:55</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>1. Ossan.fmスタート！</title>
+        <link>https://ossan.fm/episode/1</link>
+        <pubDate>Fri, 28 Sep 2018 04:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%AC%E3%83%BC&quot;&gt;カレー - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/jp/ios/ios-12/features/&quot;&gt;iOS 12 - 特長 - Apple（日本）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/video/detail/B07HHHVWLH/&quot;&gt;Amazon.co.jp： シリコンバレー：シーズン5 (字幕版)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netflix.com/jp/title/80114855&quot;&gt;マインドハンター - Netflix (ネットフリックス) 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B07F1N77LM/&quot;&gt;Amazon - Pioneer DJ パイオニア/DDJ-400 DJコントローラー - DJセット&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.korg.com/jp/products/software/korg_gadget/&quot;&gt;KORG Gadget&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B07DG851MM/&quot;&gt;namie amuro Final Tour 2018 ~Finally~ (初回生産限定盤) - Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%A0%B8%E7%A3%81%E6%B0%97%E5%85%B1%E9%B3%B4%E7%94%BB%E5%83%8F%E6%B3%95&quot;&gt;核磁気共鳴画像法 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://ossan.fm/episode/1</guid>
+        <enclosure url="https://ossan.fm/audio/1.mp3" length="24251669" type="audio/mp3"/>
+        <itunes:author>ossan.fm</itunes:author>
+        <itunes:subtitle>nagayamaとchris4403の2人で、カレー、iOS12、シリコンバレー（ドラマ）、マインドハンター、KORG Gadget、DJコントローラー、安室奈美恵、健康の話しました。</itunes:subtitle>
+        <itunes:duration>50:30</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://ossan.fm/images/artwork.png"/>
+      </item>
+    
+  </channel>
+</rss>

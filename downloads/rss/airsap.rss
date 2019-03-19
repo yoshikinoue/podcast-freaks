@@ -1,0 +1,2121 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:psc="http://podlove.org/simple-chapters" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:fh="http://purl.org/syndication/history/1.0" >
+
+<channel>
+	<title>AirSap</title>
+	<link>http://airsap.net</link>
+	<description>札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast</description>
+	<lastBuildDate>Sat, 16 Mar 2019 12:05:24 +0000</lastBuildDate>
+	
+<image><url>http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg</url><title>AirSap</title><link>http://airsap.net</link></image>
+<atom:link rel="self" type="application/rss+xml" title="AirSap (AirSap)" href="http://airsap.net/feed/podcast/" />
+	<atom:link rel="first" href="http://airsap.net/feed/podcast/" />
+	<language>ja</language><generator>Podlove Podcast Publisher v2.7.22</generator>
+	<itunes:author>AirSap</itunes:author>
+	<itunes:type>episodic</itunes:type>
+	<itunes:summary>札幌のiOSアプリ開発者の@frnkと@guttyoがアプリ界隈の話を中心に雑談をするPodcastです。
+様々なゲストと一緒にトークすることもあります。</itunes:summary>
+<itunes:category text="Technology"></itunes:category>
+	
+	<itunes:owner>
+		<itunes:name>AirSap</itunes:name>
+		<itunes:email></itunes:email>
+	</itunes:owner>
+	<itunes:image href="http://airsap.net/wp-content/uploads/powerpress/avatars-000298861762-i3k5ij-original.jpg" />
+	<itunes:subtitle>札幌のiOSアプリ開発者たちがアプリ界隈の話を中心に雑談をするPodcast</itunes:subtitle>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+
+	
+		
+	<item>
+		<title>#29 iMac 21.5 inchの所感と動画撮影アプリやVR180動画について / DevSap 10周年！</title>
+		<link>http://airsap.net/2019/03/16/29-imac-21-5-inch/</link>
+		<pubDate>Sat, 16 Mar 2019 12:05:22 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2019-03-16t11:45:47+00:00-026176f6ec85edf</guid>
+		<description><![CDATA[動画撮影用に導入したiMac 21.5 inchと動画撮影アプリ・動画撮影機材やVR180動画の話をしました。また、iPhone Dev Sapporoの10周年パーティーの話もしています。]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2019/03/16/29-imac-21-5-inch/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/99/s/feed/c/podcast/AirSap_Episode_29_20190302_rev1.mp3" length="31880437" type="audio/mpeg"/>
+
+		<itunes:duration>00:44:14</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>iMac 21.5 inchの所感と動画撮影アプリやVR180動画について / DevSap 10周年！</itunes:title>
+		<itunes:episode>29</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>動画撮影用に導入したiMac 21.5 inchと動画撮影アプリ・動画撮影機材やVR180動画の話をしました。また、iPhone Dev Sapporoの10周年パーティーの話もしています。</itunes:summary>
+		
+		<content:encoded><![CDATA[
+
+
+
+
+<p>iMac 21.5 inchと動画撮影アプリ・動画撮影機材やVR180動画の話をしました。また、iPhone Dev Sapporoの10周年パーティーの話もしています。</p>
+
+
+
+<p>iMac<br><a href="https://www.apple.com/jp/shop/buy-mac/imac">https://www.apple.com/jp/shop/buy-mac/imac</a></p>
+
+
+
+<p>FiLMiC Pro<br><a href="https://itunes.apple.com/jp/app/filmic-pro/id436577167?mt=8">https://itunes.apple.com/jp/app/filmic-pro/id436577167?mt=8</a></p>
+
+
+
+<p>VR180<br><a href="https://vr.google.com/vr180/">https://vr.google.com/vr180/</a></p>
+
+
+
+<p>iPad Pro ― A new way to go behind the scenes ― Apple<br><a href="https://www.youtube.com/watch?v=I3iVR3qWE3s">https://www.youtube.com/watch?v=I3iVR3qWE3s</a></p>
+
+
+
+<p>Osmo Pocket<br><a href="https://www.dji.com/jp/osmo-pocket">https://www.dji.com/jp/osmo-pocket</a></p>
+
+
+
+<p>Osmo mobile 2<br><a href="https://www.dji.com/jp/mobile/osmo-mobile-2">https://www.dji.com/jp/mobile/osmo-mobile-2</a></p>
+
+
+
+<p>Lenovo Mirage Camera<br><a href="https://www.lenovo.com/jp/ja/vr-smartdevices/augmented-reality/lenovo-mirage-camera/Mirage-Camera/p/ZZIRZRCVR04">https://www.lenovo.com/jp/ja/vr-smartdevices/augmented-reality/lenovo-mirage-camera/Mirage-Camera/p/ZZIRZRCVR04</a></p>
+
+
+
+<p>VR MODE｜エースコンバット7 スカイズ・アンノウン<br><a href="https://ace7.acecombat.jp/vr/">https://ace7.acecombat.jp/vr/</a></p>
+
+
+
+<p>Daydream View<br><a href="https://vr.google.com/intl/ja_jp/daydream/smartphonevr/">https://vr.google.com/intl/ja_jp/daydream/smartphonevr/</a></p>
+
+
+
+<p>iPhone Dev Sapporo 10周年ありがとうパーティー<br><a href="https://devsap.connpass.com/event/119176/">https://devsap.connpass.com/event/119176/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#28 PayPay祭りとiPad Pro 11インチ</title>
+		<link>http://airsap.net/2019/02/11/28-paypay%e7%a5%ad%e3%82%8a%e3%81%a8ipad-pro-11%e3%82%a4%e3%83%b3%e3%83%81/</link>
+		<pubDate>Mon, 11 Feb 2019 13:20:35 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2019-02-11t13:00:46+00:00-3c01eb0e7e96a6d</guid>
+		<description><![CDATA[PayPay 100億円キャンペーン（第１弾）とiPad Pro 11インチを使った感想などについて話しました。
+
+驚異の100億円還元｢PayPay祭｣スタート ── 狙いは家電量販店とアップル製品
+https://www.businessinsider.jp/post-180719
+
+iPad Pro
+https://www.apple.com/jp/ipad-pro/
+
+札幌・平岸で爆発、飲食店など倒壊　４１人が重軽傷
+https://www.hokkaido-np.co.jp/article/258544]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2019/02/11/28-paypay%e7%a5%ad%e3%82%8a%e3%81%a8ipad-pro-11%e3%82%a4%e3%83%b3%e3%83%81/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/98/s/feed/c/podcast/AirSap_Episode_28_20181219_rev1.mp3" length="24839812" type="audio/mpeg"/>
+
+		<itunes:duration>00:34:27</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>PayPay祭りとiPad Pro 11インチ</itunes:title>
+		<itunes:episode>28</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>PayPay 100億円キャンペーン（第１弾）とiPad Pro 11インチを使った感想などについて話しました。
+
+驚異の100億円還元｢PayPay祭｣スタート ── 狙いは家電量販店とアップル製品
+https://www.businessinsider.jp/post-180719
+
+iPad Pro
+https://www.apple.com/jp/ipad-pro/
+
+札幌・平岸で爆発、飲食店など倒壊　４１人が重軽傷
+https://www.hokkaido-np.co.jp/article/258544</itunes:summary>
+		
+		<content:encoded><![CDATA[
+
+
+
+
+<p>PayPay 100億円キャンペーン（第１弾）とiPad Pro 11インチを使った感想などについて話しました。</p>
+
+
+
+<p>驚異の100億円還元｢PayPay祭｣スタート ── 狙いは家電量販店とアップル製品<br><a href="https://www.businessinsider.jp/post-180719">https://www.businessinsider.jp/post-180719</a><br></p>
+
+
+
+<p>iPad Pro<br><a href="https://www.apple.com/jp/ipad-pro/">https://www.apple.com/jp/ipad-pro/﻿</a><br></p>
+
+
+
+<p>札幌・平岸で爆発、飲食店など倒壊　４１人が重軽傷<br><a href="https://www.hokkaido-np.co.jp/article/258544">https://www.hokkaido-np.co.jp/article/258544</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#27 iPhone XR発売 / 札幌から京都まで車で行った話</title>
+		<link>http://airsap.net/2018/11/21/27-iphone-xr-kyoto/</link>
+		<pubDate>Wed, 21 Nov 2018 13:33:07 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2018-11-21t13:29:35+00:00-35bdef4a0844ab0</guid>
+		<description><![CDATA[iPhone XRの発売とApple渋谷のオープン、Apple表参道、Apple京都、札幌から京都まで車で行った話などについて話しました。
+
+緊急速報エリアメール
+https://www.nttdocomo.co.jp/service/areamail/
+
+iPhone XR
+https://www.apple.com/jp/iphone-xr/
+
+Apple渋谷
+https://www.apple.com/jp/retail/shibuya/
+
+Apple表参道
+https://www.apple.com/jp/retail/omotesando/
+
+Apple京都
+https://www.apple.com/jp/retail/kyoto/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2018/11/21/27-iphone-xr-kyoto/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/96/s/feed/c/podcast/AirSap_Episode_27_20181026_rev1.mp3" length="24674578" type="audio/mpeg"/>
+
+		<itunes:duration>00:34:13</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>iPhone XR発売 / 札幌から京都まで車で行った話</itunes:title>
+		<itunes:episode>27</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>iPhone XRの発売とApple渋谷のオープン、Apple表参道、Apple京都、札幌から京都まで車で行った話などについて話しました。
+
+緊急速報エリアメール
+https://www.nttdocomo.co.jp/service/areamail/
+
+iPhone XR
+https://www.apple.com/jp/iphone-xr/
+
+Apple渋谷
+https://www.apple.com/jp/retail/shibuya/
+
+Apple表参道
+https://www.apple.com/jp/retail/omotesando/
+
+Apple京都
+https://www.apple.com/jp/retail/kyoto/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p></p>
+<p>iPhone XRの発売とApple渋谷のオープン、Apple表参道、Apple京都、札幌から京都まで車で行った話などについて話しました。</p>
+<p>緊急速報エリアメール<br />
+<a href="https://www.nttdocomo.co.jp/service/areamail/">https://www.nttdocomo.co.jp/service/areamail/</a></p>
+<p>iPhone XR<br />
+<a href="https://www.apple.com/jp/iphone-xr/">https://www.apple.com/jp/iphone-xr/</a></p>
+<p>Apple渋谷<br />
+<a href="https://www.apple.com/jp/retail/shibuya/">https://www.apple.com/jp/retail/shibuya/</a></p>
+<p>Apple表参道<br />
+<a href="https://www.apple.com/jp/retail/omotesando/">https://www.apple.com/jp/retail/omotesando/</a></p>
+<p>Apple京都<br />
+<a href="https://www.apple.com/jp/retail/kyoto/">https://www.apple.com/jp/retail/kyoto/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#26 iPhone XS MaxとApple Watch Series 4を使ってみて分かったこと</title>
+		<link>http://airsap.net/2018/10/02/26-iphone-xs-max-apple-watch-series-4/</link>
+		<pubDate>Mon, 01 Oct 2018 23:30:24 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2018-10-01t22:40:02+00:00-43eb8416dc7058c</guid>
+		<description><![CDATA[9/21に発売されたiPhone XS MaxとApple Watch Series 4を使ってみた感想や、9/25日にリリースされたmacOS Mojaveの第一印象について話しました。
+
+iPhone XS Max 
+https://www.apple.com/jp/iphone-xs/  
+
+Apple Watch Series 4
+ https://www.apple.com/jp/apple-watch-series-4/  
+
+アップル、iPhone4用ケース無償提供開始 ｢デスグリップ｣対策 
+http://www.afpbb.com/articles/-/2742569?pid=6003848
+
+macOS Mojave
+ https://www.apple.com/jp/macos/mojave/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2018/10/02/26-iphone-xs-max-apple-watch-series-4/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/94/s/feed/c/podcast/AirSap_Episode_26_20180927_rev1.mp3" length="27258902" type="audio/mpeg"/>
+
+		<itunes:duration>00:37:49</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>iPhone XS MaxとApple Watch Series 4を使ってみて分かったこと</itunes:title>
+		<itunes:episode>26</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>9/21に発売されたiPhone XS MaxとApple Watch Series 4を使ってみた感想や、9/25日にリリースされたmacOS Mojaveの第一印象について話しました。
+
+iPhone XS Max 
+https://www.apple.com/jp/iphone-xs/  
+
+Apple Watch Series 4
+ https://www.apple.com/jp/apple-watch-series-4/  
+
+アップル、iPhone4用ケース無償提供開始 ｢デスグリップ｣対策 
+http://www.afpbb.com/articles/-/2742569?pid=6003848
+
+macOS Mojave
+ https://www.apple.com/jp/macos/mojave/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p></p>
+<p>9/21に発売されたiPhone XS MaxとApple Watch Series 4を使ってみた感想や、9/25日にリリースされたmacOS Mojaveの第一印象について話しました。</p>
+<p>iPhone XS Max<br />
+<a href="https://www.apple.com/jp/iphone-xs/">https://www.apple.com/jp/iphone-xs/  </a></p>
+<p>Apple Watch Series 4<br />
+<a href="https://www.apple.com/jp/apple-watch-series-4/"> https://www.apple.com/jp/apple-watch-series-4/  </a></p>
+<p>アップル、iPhone4用ケース無償提供開始 ｢デスグリップ｣対策<br />
+<a href="http://www.afpbb.com/articles/-/2742569?pid=6003848">http://www.afpbb.com/articles/-/2742569?pid=6003848</a></p>
+<p>macOS Mojave<br />
+<a href="https://www.apple.com/jp/macos/mojave/"> https://www.apple.com/jp/macos/mojave/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#25 新型iPhoneの発表 / 北海道胆振東部地震を体験して感じたこと</title>
+		<link>http://airsap.net/2018/09/16/25-newiphone-earthquake/</link>
+		<pubDate>Sun, 16 Sep 2018 13:46:49 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2018-09-16t13:41:47+00:00-607b8c6e4a71b7a</guid>
+		<description><![CDATA[9月13日に発表された新型iPhone・Apple Watchについてと、その日ちょうど被災から1週間が経った北海道胆振東部地震の体験について話しました。
+
+iPhone XS
+https://www.apple.com/jp/iphone-xs/
+
+iPhone XR
+https://www.apple.com/jp/iphone-xr/
+
+Apple Watch Series 4
+https://www.apple.com/jp/apple-watch-series-4/
+
+北海道地震とそれに伴う39時間の停電を乗り切った時にあって良かったもの - らっこのじゆうちょう
+http://frnk.hatenablog.jp/entry/2018/09/07/232656
+
+北海道地震 周辺の活断層に新たなひずみか 今後の活動に注意 | NHKニュース
+https://www3.nhk.or.jp/news/html/20180913/k10011627331000.html
+
+さっぽろオータムフェスト 2018
+https://www.sapporo-autumnfest.jp]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2018/09/16/25-newiphone-earthquake/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/92/s/feed/c/podcast/AirSap_Episode_25_20180913_rev1.mp3" length="32808566" type="audio/mpeg"/>
+
+		<itunes:duration>00:45:32</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>新型iPhoneの発表 / 北海道胆振東部地震を体験して感じたこと</itunes:title>
+		<itunes:episode>25</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>9月13日に発表された新型iPhone・Apple Watchについてと、その日ちょうど被災から1週間が経った北海道胆振東部地震の体験について話しました。
+
+iPhone XS
+https://www.apple.com/jp/iphone-xs/
+
+iPhone XR
+https://www.apple.com/jp/iphone-xr/
+
+Apple Watch Series 4
+https://www.apple.com/jp/apple-watch-series-4/
+
+北海道地震とそれに伴う39時間の停電を乗り切った時にあって良かったもの - らっこのじゆうちょう
+http://frnk.hatenablog.jp/entry/2018/09/07/232656
+
+北海道地震 周辺の活断層に新たなひずみか 今後の活動に注意 | NHKニュース
+https://www3.nhk.or.jp/news/html/20180913/k10011627331000.html
+
+さっぽろオータムフェスト 2018
+https://www.sapporo-autumnfest.jp</itunes:summary>
+		
+		<content:encoded><![CDATA[<p></p>
+<p>9月13日に発表された新型iPhone・Apple Watchについてと、その日ちょうど被災から1週間が経った北海道胆振東部地震の体験について話しました。</p>
+<p>iPhone XS<br />
+<a href="https://www.apple.com/jp/iphone-xs/">https://www.apple.com/jp/iphone-xs/</a></p>
+<p>iPhone XR<br />
+<a href="https://www.apple.com/jp/iphone-xr/">https://www.apple.com/jp/iphone-xr/</a></p>
+<p>Apple Watch Series 4<br />
+<a href="https://www.apple.com/jp/apple-watch-series-4/">https://www.apple.com/jp/apple-watch-series-4/</a></p>
+<p>北海道地震とそれに伴う39時間の停電を乗り切った時にあって良かったもの &#8211; らっこのじゆうちょう<br />
+<a href="http://frnk.hatenablog.jp/entry/2018/09/07/232656">http://frnk.hatenablog.jp/entry/2018/09/07/232656</a></p>
+<p>北海道地震 周辺の活断層に新たなひずみか 今後の活動に注意 | NHKニュース<br />
+<a href="https://www3.nhk.or.jp/news/html/20180913/k10011627331000.html">https://www3.nhk.or.jp/news/html/20180913/k10011627331000.html</a></p>
+<p>さっぽろオータムフェスト 2018<br />
+<a href="https://www.sapporo-autumnfest.jp">https://www.sapporo-autumnfest.jp</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#24 5年ぶりのアプリアップデートと10年ぶりのロゴアップデート</title>
+		<link>http://airsap.net/2018/08/23/24-updates/</link>
+		<pubDate>Thu, 23 Aug 2018 13:57:23 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2018-08-23t13:52:19+00:00-f0412f5862593ae</guid>
+		<description><![CDATA[調剤電卓、CTCAEの5年ぶりアップデートやEvernoteの新ロゴ、Apple京都オープン、ハワイ・ワイキキなどについて話しました。
+
+
+調剤電卓
+https://itunes.apple.com/jp/app/%E8%AA%BF%E5%89%A4%E9%9B%BB%E5%8D%93/id400743343?mt=8
+
+CTCAE 有害事象共通用語規準 v4.0 JCOG版(英語・日本語)
+https://itunes.apple.com/jp/app/ctcae-有害事象共通用語規準-v4-0-jcog版-英語-日本語/id576215567?mt=8
+
+Evernote ブランド刷新の裏側　
+https://evernote.com/blog/jp/elephant-logo-story/
+
+Apple 京都
+https://www.apple.com/jp/retail/kyoto/
+
+京都生まれのゲームたち
+https://itunes.apple.com/jp/story/id1413652624
+
+Apple新宿に続く新店舗の地は…？ | Apple Store | Macお宝鑑定団 blog（羅針盤）
+http://www.macotakara.jp/blog/apple_store/entry-34650.html
+
+さっぽろ創世スクエア
+https://ja.wikipedia.org/wiki/さっぽろ創世スクエア
+
+Apple Royal Hawaiian 
+https://www.apple.com/retail/royalhawaiian/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2018/08/23/24-updates/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/89/s/feed/c/podcast/AirSap_Episode_24_20180819_rev2.mp3" length="26219216" type="audio/mpeg"/>
+
+		<itunes:duration>00:36:22</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>5年ぶりのアプリアップデートと10年ぶりのロゴアップデート</itunes:title>
+		<itunes:episode>24</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>調剤電卓、CTCAEの5年ぶりアップデートやEvernoteの新ロゴ、Apple京都オープン、ハワイ・ワイキキなどについて話しました。
+
+
+調剤電卓
+https://itunes.apple.com/jp/app/%E8%AA%BF%E5%89%A4%E9%9B%BB%E5%8D%93/id400743343?mt=8
+
+CTCAE 有害事象共通用語規準 v4.0 JCOG版(英語・日本語)
+https://itunes.apple.com/jp/app/ctcae-有害事象共通用語規準-v4-0-jcog版-英語-日本語/id576215567?mt=8
+
+Evernote ブランド刷新の裏側　
+https://evernote.com/blog/jp/elephant-logo-story/
+
+Apple 京都
+https://www.apple.com/jp/retail/kyoto/
+
+京都生まれのゲームたち
+https://itunes.apple.com/jp/story/id1413652624
+
+Apple新宿に続く新店舗の地は…？ | Apple Store | Macお宝鑑定団 blog（羅針盤）
+http://www.macotakara.jp/blog/apple_store/entry-34650.html
+
+さっぽろ創世スクエア
+https://ja.wikipedia.org/wiki/さっぽろ創世スクエア
+
+Apple Royal Hawaiian 
+https://www.apple.com/retail/royalhawaiian/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p></p>
+<p>調剤電卓、CTCAEの5年ぶりアップデートやEvernoteの新ロゴ、Apple京都オープン、ハワイ・ワイキキなどについて話しました。</p>
+<p>調剤電卓<br />
+<a href="https://itunes.apple.com/jp/app/%E8%AA%BF%E5%89%A4%E9%9B%BB%E5%8D%93/id400743343?mt=8">https://itunes.apple.com/jp/app/%E8%AA%BF%E5%89%A4%E9%9B%BB%E5%8D%93/id400743343?mt=8</a></p>
+<p>CTCAE 有害事象共通用語規準 v4.0 JCOG版(英語・日本語)<br />
+<a href="https://itunes.apple.com/jp/app/ctcae-有害事象共通用語規準-v4-0-jcog版-英語-日本語/id576215567?mt=8">https://itunes.apple.com/jp/app/ctcae-有害事象共通用語規準-v4-0-jcog版-英語-日本語/id576215567?mt=8</a></p>
+<p>Evernote ブランド刷新の裏側<br />
+<a href="https://evernote.com/blog/jp/elephant-logo-story/">https://evernote.com/blog/jp/elephant-logo-story/</a></p>
+<p>Apple 京都<br />
+<a href="https://www.apple.com/jp/retail/kyoto/">https://www.apple.com/jp/retail/kyoto/</a></p>
+<p>京都生まれのゲームたち<br />
+<a href="https://itunes.apple.com/jp/story/id1413652624">https://itunes.apple.com/jp/story/id1413652624</a></p>
+<p>Apple新宿に続く新店舗の地は…？ | Apple Store | Macお宝鑑定団 blog（羅針盤）<br />
+<a href="http://www.macotakara.jp/blog/apple_store/entry-34650.html">http://www.macotakara.jp/blog/apple_store/entry-34650.html</a></p>
+<p>さっぽろ創世スクエア<br />
+<a href="https://ja.wikipedia.org/wiki/さっぽろ創世スクエア">https://ja.wikipedia.org/wiki/さっぽろ創世スクエア</a></p>
+<p>Apple Royal Hawaiian<span class="Apple-converted-space"> </span><br />
+<a href="https://www.apple.com/retail/royalhawaiian/">https://www.apple.com/retail/royalhawaiian/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#23 WWDC 2018 を振り返る</title>
+		<link>http://airsap.net/2018/08/05/23-wwdc-2018/</link>
+		<pubDate>Sun, 05 Aug 2018 03:15:39 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2018-08-05t03:01:25+00:00-64e1e91af607cdf</guid>
+		<description><![CDATA[@TeamMOSA2 さんと @tqmy さんをゲストに迎えて、WWDC 2018で発表されたことを振り返ってみました。
+
+WWDC 2018
+https://www.apple.com/jp/newsroom/2018/06/highlights-from-wwdc-2018/
+
+ Apple Watch用バンドにLGBTQ支援の「プライドエディション」追加
+http://www.itmedia.co.jp/news/articles/1806/05/news066.html
+
+ macOS - Mojaveプレビュー - Apple（日本）
+https://www.apple.com/jp/macos/mojave-preview/  
+
+Platforms State of the Union
+ https://developer.apple.com/videos/play/wwdc2018/102
+
+ iOS 12プレビュー - Apple（日本）
+https://www.apple.com/jp/ios/ios-12-preview/ 
+
+速報：アップル、自分をアニ文字にする「Memoji」発表。舌出し検出で表情豊かに https://japanese.engadget.com/2018/06/04/memoji/
+
+  iOS 12に作業中断を減らし、画面を見ている時間を管理するための新機能が導入 https://www.apple.com/jp/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/
+
+ Oculus Go + Oculus Rooms を使ってガチの仕事会議をしてみた感想
+https://blog.feedtailor.jp/2018/06/03/remoteworkvr/
+
+  Apple、ARKit 2を発表 https://www.apple.com/jp/newsroom/2018/06/apple-unveils-arkit-2/
+
+ Introduction to USD
+https://graphics.pixar.com/usd/docs/index.html  
+
+Appleが推進する3D/ARフォーマット「USDZ」とは何か？ - ITmedia NEWS http://www.itmedia.co.jp/news/articles/1806/14/news065.html  
+
+アドビ、ARオーサリングツール「Project Aero」発表 #projectAero #WWDC #イマーシブ – Adobe Creative Station https://blogs.adobe.com/creativestation/cc-introducing-project-aero
+
+ 3Dクリエーター | 撮影する | ソニーモバイル公式サイト
+https://www.sonymobile.co.jp/myxperia/howtoxperia/camera/function31.html
+
+ 機械学習 - Apple Developer
+https://developer.apple.com/jp/machine-learning/
+
+  Introduction to Siri Shortcuts - WWDC 2018 - Videos - Apple Developer https://developer.apple.com/videos/play/wwdc2018/211]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2018/08/05/23-wwdc-2018/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/84/s/feed/c/podcast/AirSap_Episode_23_20180617_rev2.mp3" length="44203493" type="audio/mpeg"/>
+
+		<itunes:duration>01:01:21</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>WWDC 2018 を振り返る</itunes:title>
+		<itunes:episode>23</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>@TeamMOSA2 さんと @tqmy さんをゲストに迎えて、WWDC 2018で発表されたことを振り返ってみました。
+
+WWDC 2018
+https://www.apple.com/jp/newsroom/2018/06/highlights-from-wwdc-2018/
+
+ Apple Watch用バンドにLGBTQ支援の「プライドエディション」追加
+http://www.itmedia.co.jp/news/articles/1806/05/news066.html
+
+ macOS - Mojaveプレビュー - Apple（日本）
+https://www.apple.com/jp/macos/mojave-preview/  
+
+Platforms State of the Union
+ https://developer.apple.com/videos/play/wwdc2018/102
+
+ iOS 12プレビュー - Apple（日本）
+https://www.apple.com/jp/ios/ios-12-preview/ 
+
+速報：アップル、自分をアニ文字にする「Memoji」発表。舌出し検出で表情豊かに https://japanese.engadget.com/2018/06/04/memoji/
+
+  iOS 12に作業中断を減らし、画面を見ている時間を管理するための新機能が導入 https://www.apple.com/jp/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/
+
+ Oculus Go + Oculus Rooms を使ってガチの仕事会議をしてみた感想
+https://blog.feedtailor.jp/2018/06/03/remoteworkvr/
+
+  Apple、ARKit 2を発表 https://www.apple.com/jp/newsroom/2018/06/apple-unveils-arkit-2/
+
+ Introduction to USD
+https://graphics.pixar.com/usd/docs/index.html  
+
+Appleが推進する3D/ARフォーマット「USDZ」とは何か？ - ITmedia NEWS http://www.itmedia.co.jp/news/articles/1806/14/news065.html  
+
+アドビ、ARオーサリングツール「Project Aero」発表 #projectAero #WWDC #イマーシブ – Adobe Creative Station https://blogs.adobe.com/creativestation/cc-introducing-project-aero
+
+ 3Dクリエーター | 撮影する | ソニーモバイル公式サイト
+https://www.sonymobile.co.jp/myxperia/howtoxperia/camera/function31.html
+
+ 機械学習 - Apple Developer
+https://developer.apple.com/jp/machine-learning/
+
+  Introduction to Siri Shortcuts - WWDC 2018 - Videos - Apple Developer https://developer.apple.com/videos/play/wwdc2018/211</itunes:summary>
+		
+		<content:encoded><![CDATA[<p></p>
+<p>@TeamMOSA2 さんと @tqmy さんをゲストに迎えて、WWDC 2018で発表されたことを振り返ってみました。</p>
+<p>WWDC 2018<br />
+<a href="https://www.apple.com/jp/newsroom/2018/06/highlights-from-wwdc-2018/">https://www.apple.com/jp/newsroom/2018/06/highlights-from-wwdc-2018/</a></p>
+<p>Apple Watch用バンドにLGBTQ支援の「プライドエディション」追加<br />
+<a href="http://www.itmedia.co.jp/news/articles/1806/05/news066.html">http://www.itmedia.co.jp/news/articles/1806/05/news066.html</a></p>
+<p>macOS &#8211; Mojaveプレビュー &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/macos/mojave-preview/">https://www.apple.com/jp/macos/mojave-preview/</a></p>
+<p>Platforms State of the Union<br />
+<a href="https://developer.apple.com/videos/play/wwdc2018/102">https://developer.apple.com/videos/play/wwdc2018/102</a></p>
+<p>iOS 12プレビュー &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/ios/ios-12-preview/">https://www.apple.com/jp/ios/ios-12-preview/</a></p>
+<p>速報：アップル、自分をアニ文字にする「Memoji」発表。舌出し検出で表情豊かに<br />
+<a href="https://japanese.engadget.com/2018/06/04/memoji/">https://japanese.engadget.com/2018/06/04/memoji/</a></p>
+<p>iOS 12に作業中断を減らし、画面を見ている時間を管理するための新機能が導入<b><br />
+</b><a href="https://www.apple.com/jp/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/">https://www.apple.com/jp/newsroom/2018/06/ios-12-introduces-new-features-to-reduce-interruptions-and-manage-screen-time/</a></p>
+<p>Oculus Go + Oculus Rooms を使ってガチの仕事会議をしてみた感想<br />
+<a href="https://blog.feedtailor.jp/2018/06/03/remoteworkvr/">https://blog.feedtailor.jp/2018/06/03/remoteworkvr/</a></p>
+<p>Apple、ARKit 2を発表<br />
+<a href="https://www.apple.com/jp/newsroom/2018/06/apple-unveils-arkit-2/">https://www.apple.com/jp/newsroom/2018/06/apple-unveils-arkit-2/</a></p>
+<p>Introduction to USD<br />
+<a href="https://graphics.pixar.com/usd/docs/index.html">https://graphics.pixar.com/usd/docs/index.html</a></p>
+<p>Appleが推進する3D/ARフォーマット「USDZ」とは何か？ &#8211; ITmedia NEWS<br />
+<a href="http://www.itmedia.co.jp/news/articles/1806/14/news065.html">http://www.itmedia.co.jp/news/articles/1806/14/news065.html</a></p>
+<p>アドビ、ARオーサリングツール「Project Aero」発表 #projectAero #WWDC #イマーシブ – Adobe Creative Station<br />
+<a href="https://blogs.adobe.com/creativestation/cc-introducing-project-aero">https://blogs.adobe.com/creativestation/cc-introducing-project-aero</a></p>
+<p>3Dクリエーター | 撮影する | ソニーモバイル公式サイト<br />
+<a href="https://www.sonymobile.co.jp/myxperia/howtoxperia/camera/function31.html">https://www.sonymobile.co.jp/myxperia/howtoxperia/camera/function31.html</a></p>
+<p>機械学習 &#8211; Apple Developer<br />
+<a href="https://developer.apple.com/jp/machine-learning/">https://developer.apple.com/jp/machine-learning/</a></p>
+<p>Introduction to Siri Shortcuts &#8211; WWDC 2018 &#8211; Videos &#8211; Apple Developer<br />
+<a href="https://developer.apple.com/videos/play/wwdc2018/211">https://developer.apple.com/videos/play/wwdc2018/211</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#22 Google I/O 2018で見えてきたGoogleの狙い</title>
+		<link>http://airsap.net/2018/05/29/22-google-i-o-2018/</link>
+		<pubDate>Mon, 28 May 2018 15:38:39 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2018-05-28t15:32:09+00:00-93d0ef15dba9024</guid>
+		<description><![CDATA[Google I/O 2018で発表されたGoogleアシスタント、Android P、Google News、ML Kit for Firebase、ARCore SDK for iOS、Material Design for iOSなどについて話しました。
+
+Google I/O 2018で発表された10個のコト：AIがもう、凄すぎる | ギズモード・ジャパン
+https://www.gizmodo.jp/2018/05/167037.html
+
+Googleが発表会で重大バグ「ハンバーガー絵文字の具材順問題」を直接謝罪　観客から爆笑&歓声が巻き起こる - ねとらぼ
+http://nlab.itmedia.co.jp/nl/articles/1805/10/news092.html
+
+Android P Beta 端末  |  Android Developers
+https://developer.android.com/preview/devices/?hl=ja
+
+AIでお利口になったGoogle NewsアプリがiOSとAndroidに登場 | TechCrunch Japan
+https://jp.techcrunch.com/2018/05/16/2018-05-15-the-new-ai-powered-google-news-app-is-now-available-for-ios/
+
+The Firebase Blog: What’s new in Firebase at I/O 2018
+https://firebase.googleblog.com/2018/05/whats-new-in-firebase-at-io-2018.html
+
+ML Kit for Firebase | Machine learning for mobile developers  |  Firebase
+https://firebase.google.com/products/ml-kit/
+
+Welcome to the ARCore SDK for iOS  |  ARCore  |  Google Developers
+https://developers.google.com/ar/develop/ios/overview
+
+Develop for iOS - Material Design
+https://material.io/develop/ios/
+
+Googleマップ、案内キャラを追えば着くARナビをデモ。GPSとVPS併用、カメラで店舗の名前も - Engadget 日本版
+https://japanese.engadget.com/2018/05/09/google-ar-gps-vps/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2018/05/29/22-google-i-o-2018/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/71/s/feed/c/podcast/AirSap_episode_22_20180517_rev2.mp3" length="23449094" type="audio/mpeg"/>
+
+		<itunes:duration>00:32:31</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:title>Google I/O 2018で見えてきたGoogleの狙い</itunes:title>
+		<itunes:episode>22</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Google I/O 2018で発表されたGoogleアシスタント、Android P、Google News、ML Kit for Firebase、ARCore SDK for iOS、Material Design for iOSなどについて話しました。
+
+Google I/O 2018で発表された10個のコト：AIがもう、凄すぎる | ギズモード・ジャパン
+https://www.gizmodo.jp/2018/05/167037.html
+
+Googleが発表会で重大バグ「ハンバーガー絵文字の具材順問題」を直接謝罪　観客から爆笑&amp;歓声が巻き起こる - ねとらぼ
+http://nlab.itmedia.co.jp/nl/articles/1805/10/news092.html
+
+Android P Beta 端末  |  Android Developers
+https://developer.android.com/preview/devices/?hl=ja
+
+AIでお利口になったGoogle NewsアプリがiOSとAndroidに登場 | TechCrunch Japan
+https://jp.techcrunch.com/2018/05/16/2018-05-15-the-new-ai-powered-google-news-app-is-now-available-for-ios/
+
+The Firebase Blog: What’s new in Firebase at I/O 2018
+https://firebase.googleblog.com/2018/05/whats-new-in-firebase-at-io-2018.html
+
+ML Kit for Firebase | Machine learning for mobile developers  |  Firebase
+https://firebase.google.com/products/ml-kit/
+
+Welcome to the ARCore SDK for iOS  |  ARCore  |  Google Developers
+https://developers.google.com/ar/develop/ios/overview
+
+Develop for iOS - Material Design
+https://material.io/develop/ios/
+
+Googleマップ、案内キャラを追えば着くARナビをデモ。GPSとVPS併用、カメラで店舗の名前も - Engadget 日本版
+https://japanese.engadget.com/2018/05/09/google-ar-gps-vps/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+Google I/O 2018で発表されたGoogleアシスタント、Android P、Google News、ML Kit for Firebase、ARCore SDK for iOS、Material Design for iOSなどについて話しました。</p>
+<p>Google I/O 2018で発表された10個のコト：AIがもう、凄すぎる | ギズモード・ジャパン<br />
+<a href="https://www.gizmodo.jp/2018/05/167037.html">https://www.gizmodo.jp/2018/05/167037.html</a></p>
+<p>Googleが発表会で重大バグ「ハンバーガー絵文字の具材順問題」を直接謝罪　観客から爆笑&amp;歓声が巻き起こる &#8211; ねとらぼ<br />
+<a href="http://nlab.itmedia.co.jp/nl/articles/1805/10/news092.html">http://nlab.itmedia.co.jp/nl/articles/1805/10/news092.html</a></p>
+<p>Android P Beta 端末  |  Android Developers<br />
+<a href="https://developer.android.com/preview/devices/?hl=ja">https://developer.android.com/preview/devices/?hl=ja</a></p>
+<p>AIでお利口になったGoogle NewsアプリがiOSとAndroidに登場 | TechCrunch Japan<br />
+<a href="https://jp.techcrunch.com/2018/05/16/2018-05-15-the-new-ai-powered-google-news-app-is-now-available-for-ios/">https://jp.techcrunch.com/2018/05/16/2018-05-15-the-new-ai-powered-google-news-app-is-now-available-for-ios/</a></p>
+<p>The Firebase Blog: What’s new in Firebase at I/O 2018<br />
+<a href="https://firebase.googleblog.com/2018/05/whats-new-in-firebase-at-io-2018.html">https://firebase.googleblog.com/2018/05/whats-new-in-firebase-at-io-2018.html</a></p>
+<p>ML Kit for Firebase | Machine learning for mobile developers  |  Firebase<br />
+<a href="https://firebase.google.com/products/ml-kit/">https://firebase.google.com/products/ml-kit/</a></p>
+<p>Welcome to the ARCore SDK for iOS  |  ARCore  |  Google Developers<br />
+<a href="https://developers.google.com/ar/develop/ios/overview">https://developers.google.com/ar/develop/ios/overview</a></p>
+<p>Develop for iOS &#8211; Material Design<br />
+<a href="https://material.io/develop/ios/">https://material.io/develop/ios/</a></p>
+<p>Googleマップ、案内キャラを追えば着くARナビをデモ。GPSとVPS併用、カメラで店舗の名前も &#8211; Engadget 日本版<br />
+<a href="https://japanese.engadget.com/2018/05/09/google-ar-gps-vps/">https://japanese.engadget.com/2018/05/09/google-ar-gps-vps/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#21 try! Swiftの裏話や今後を @d_date さんに聞いてみた</title>
+		<link>http://airsap.net/2018/05/09/21-try-swift-d-date/</link>
+		<pubDate>Wed, 09 May 2018 12:21:45 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2018-05-09t12:11:46+00:00-375ce48494b7bda</guid>
+		<description><![CDATA[Daiki Matsudate(@d_date)さん | Twitter
+https://twitter.com/d_date
+
+try! Swift
+https://www.tryswift.co
+
+try! Swift Conference - YouTube 
+https://www.youtube.com/c/tryswiftconference
+
+Cloud Firestore iOS Codelab
+https://github.com/firebase/firestore-codelab-extended-swift
+
+Kitura - a server-side Swift web framework
+https://www.kitura.io
+
+NYC - try! Swift Conference
+https://www.tryswift.co/events/2018/nyc/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2018/05/09/21-try-swift-d-date/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/68/s/feed/c/podcast/AirSap_episode_21_20180327_rev1.mp3" length="28121343" type="audio/mpeg"/>
+
+		<itunes:duration>00:39:02</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>try! Swift Tokyo 2018オーガナイザーの @d_date さんに今年のtry! Swiftの裏話や今後の展開、カンファレンスへの思いなどを聞きました。</itunes:subtitle>
+		<itunes:title>try! Swiftの裏話や今後を@d_dateさんに聞いてみた</itunes:title>
+		<itunes:episode>21</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Daiki Matsudate(@d_date)さん | Twitter
+https://twitter.com/d_date
+
+try! Swift
+https://www.tryswift.co
+
+try! Swift Conference - YouTube 
+https://www.youtube.com/c/tryswiftconference
+
+Cloud Firestore iOS Codelab
+https://github.com/firebase/firestore-codelab-extended-swift
+
+Kitura - a server-side Swift web framework
+https://www.kitura.io
+
+NYC - try! Swift Conference
+https://www.tryswift.co/events/2018/nyc/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p></p>
+<p>try! Swift Tokyo 2018オーガナイザーの@d_dateさんに今年のtry! Swiftの裏話や今後の展開、カンファレンスへの思いなどを聞きました。</p>
+<p>Daiki Matsudate(@d_date)さん | Twitter<br />
+<a href="https://twitter.com/d_date">https://twitter.com/d_date</a></p>
+<p>try! Swift<br />
+<a href="https://www.tryswift.co">https://www.tryswift.co</a></p>
+<p>try! Swift Conference &#8211; YouTube<br />
+<a href="https://www.youtube.com/c/tryswiftconference">https://www.youtube.com/c/tryswiftconference</a></p>
+<p>Cloud Firestore iOS Codelab<br />
+<a href="https://github.com/firebase/firestore-codelab-extended-swift">https://github.com/firebase/firestore-codelab-extended-swift</a></p>
+<p>Kitura &#8211; a server-side Swift web framework<br />
+<a href="https://www.kitura.io">https://www.kitura.io</a></p>
+<p>NYC &#8211; try! Swift Conference<br />
+<a href="https://www.tryswift.co/events/2018/nyc/">https://www.tryswift.co/events/2018/nyc/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#20 @notoroid さんが語るiOSと業務アプリとスプラトゥーン</title>
+		<link>http://airsap.net/2018/04/20/20-notoroid-splatoon/</link>
+		<pubDate>Thu, 19 Apr 2018 23:48:10 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2018-04-19t23:38:37+00:00-e70007c197f4693</guid>
+		<description><![CDATA[Kaname Noto(@notoroid)さん | Twitter
+https://twitter.com/notoroid
+
+Chromebook のご紹介
+https://www.google.co.jp/chrome/business/devices/features.html
+
+ASUSについて - ブランドヒストリー - ASUS－ブランドネームの由来
+https://www.asus.com/jp/About_ASUS/about_asus_history_name
+
+Beats by Dr. Dre (日本)
+https://www.beatsbydre.com/jp
+
+スプラトゥーン2 | Nintendo Switch | 任天堂
+https://www.nintendo.co.jp/switch/aab6a/index.html
+
+アップルが方針転換－今秋公開の新ＯＳ、開発スピードより品質重視へ - Bloomberg
+https://www.bloomberg.co.jp/news/articles/2018-02-14/P44ERA6JIJUO01
+
+ファーウェイがMateBook X Pro発表、キーボード部に跳ね上げ式カメラを備えた薄型ノートPC第2弾 - Engadget 日本版
+https://japanese.engadget.com/2018/02/25/matebook-x-pro-pc-2/
+
+新型AirPodsは｢Hey Siri｣対応、来年には防水機能も？ | ギズモード・ジャパン
+https://www.gizmodo.jp/2018/02/news-airpods-hey-siri.html
+
+HomePod - Apple
+https://www.apple.com/homepod/
+
+HomePod、置く場所によっては白いリングの跡が残るかも | ギズモード・ジャパン
+https://www.gizmodo.jp/2018/02/apple-s-homepod-can-apparently-damage-your-furniture.html]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2018/04/20/20-notoroid-splatoon/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/65/s/feed/c/podcast/AirSap_episode_20_20180226.mp3" length="49049392" type="audio/mpeg"/>
+
+		<itunes:duration>01:08:05</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>記念すべき第20回は @notoroid さんと業務アプリ、企業のサブブランド、スプラトゥーン2、iOS、Appleなどについて話しました。</itunes:subtitle>
+		<itunes:title>@notoroid さんが語るiOSと業務アプリとスプラトゥーン</itunes:title>
+		<itunes:episode>20</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Kaname Noto(@notoroid)さん | Twitter
+https://twitter.com/notoroid
+
+Chromebook のご紹介
+https://www.google.co.jp/chrome/business/devices/features.html
+
+ASUSについて - ブランドヒストリー - ASUS－ブランドネームの由来
+https://www.asus.com/jp/About_ASUS/about_asus_history_name
+
+Beats by Dr. Dre (日本)
+https://www.beatsbydre.com/jp
+
+スプラトゥーン2 | Nintendo Switch | 任天堂
+https://www.nintendo.co.jp/switch/aab6a/index.html
+
+アップルが方針転換－今秋公開の新ＯＳ、開発スピードより品質重視へ - Bloomberg
+https://www.bloomberg.co.jp/news/articles/2018-02-14/P44ERA6JIJUO01
+
+ファーウェイがMateBook X Pro発表、キーボード部に跳ね上げ式カメラを備えた薄型ノートPC第2弾 - Engadget 日本版
+https://japanese.engadget.com/2018/02/25/matebook-x-pro-pc-2/
+
+新型AirPodsは｢Hey Siri｣対応、来年には防水機能も？ | ギズモード・ジャパン
+https://www.gizmodo.jp/2018/02/news-airpods-hey-siri.html
+
+HomePod - Apple
+https://www.apple.com/homepod/
+
+HomePod、置く場所によっては白いリングの跡が残るかも | ギズモード・ジャパン
+https://www.gizmodo.jp/2018/02/apple-s-homepod-can-apparently-damage-your-furniture.html</itunes:summary>
+		
+		<content:encoded><![CDATA[<p></p>
+<p>記念すべき第20回は @notoroid さんと業務アプリ、企業のサブブランド、スプラトゥーン2、iOS、Appleなどについて話しました。</p>
+<p>Kaname Noto(@notoroid)さん | Twitter<br />
+<a href="https://twitter.com/notoroid">https://twitter.com/notoroid</a></p>
+<p>Chromebook のご紹介<br />
+<a href="https://www.google.co.jp/chrome/business/devices/features.html">https://www.google.co.jp/chrome/business/devices/features.html</a></p>
+<p>ASUSについて &#8211; ブランドヒストリー &#8211; ASUS－ブランドネームの由来<br />
+<a href="https://www.asus.com/jp/About_ASUS/about_asus_history_name">https://www.asus.com/jp/About_ASUS/about_asus_history_name</a></p>
+<p>Beats by Dr. Dre (日本)<br />
+<a href="https://www.beatsbydre.com/jp">https://www.beatsbydre.com/jp</a></p>
+<p>スプラトゥーン2 | Nintendo Switch | 任天堂<br />
+<a href="https://www.nintendo.co.jp/switch/aab6a/index.html">https://www.nintendo.co.jp/switch/aab6a/index.html</a></p>
+<p>アップルが方針転換－今秋公開の新ＯＳ、開発スピードより品質重視へ &#8211; Bloomberg<br />
+<a href="https://www.bloomberg.co.jp/news/articles/2018-02-14/P44ERA6JIJUO01">https://www.bloomberg.co.jp/news/articles/2018-02-14/P44ERA6JIJUO01</a></p>
+<p>ファーウェイがMateBook X Pro発表、キーボード部に跳ね上げ式カメラを備えた薄型ノートPC第2弾 &#8211; Engadget 日本版<br />
+<a href="https://japanese.engadget.com/2018/02/25/matebook-x-pro-pc-2/">https://japanese.engadget.com/2018/02/25/matebook-x-pro-pc-2/</a></p>
+<p>新型AirPodsは｢Hey Siri｣対応、来年には防水機能も？ | ギズモード・ジャパン<br />
+<a href="https://www.gizmodo.jp/2018/02/news-airpods-hey-siri.html">https://www.gizmodo.jp/2018/02/news-airpods-hey-siri.html</a></p>
+<p>HomePod &#8211; Apple<br />
+<a href="https://www.apple.com/homepod/">https://www.apple.com/homepod/</a></p>
+<p>HomePod、置く場所によっては白いリングの跡が残るかも | ギズモード・ジャパン<br />
+<a href="https://www.gizmodo.jp/2018/02/apple-s-homepod-can-apparently-damage-your-furniture.html">https://www.gizmodo.jp/2018/02/apple-s-homepod-can-apparently-damage-your-furniture.html</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#19 2018年のiPhone・iPadはどうなる？</title>
+		<link>http://airsap.net/2018/02/02/19-2018-iphone-ipad-arkit/</link>
+		<pubDate>Fri, 02 Feb 2018 04:54:48 +0000</pubDate>
+		<guid isPermaLink="false">podlove-2018-02-02t04:49:38+00:00-601026e2e37e368</guid>
+		<description><![CDATA[iPhoneのバッテリーとパフォーマンスについて、お客様にお伝えしたいこと
+https://www.apple.com/jp/iphone-battery-and-performance/
+
+アップル、iPhoneの意図的な低速化を無効にできるアップデート提供。クックCEOが「誤解を招いたことをお詫び」
+http://japanese.engadget.com/2018/01/18/iphone-ceo/
+
+株式会社ジャパンディスプレイ
+http://www.j-display.com
+
+JDI再建の命運握る「FULL ACTIVE」をアピール
+http://eetimes.jp/ee/articles/1709/26/news124.html
+
+6.1インチの新iPhoneはJDIの「日の丸液晶」を採用？ベゼルレスで9月〜10月に発売との噂
+http://japanese.engadget.com/2018/01/24/6-1-iphone-jdi-9-10/
+
+スマートフォン向け4辺フリーFULL ACTIVETMの量産開始
+http://www.j-display.com/news/2017/20170619.html
+
+CES2018：iPhone X/8/8 PlusのQiワイヤレス7.5W急速充電は、Appleの独自仕様
+http://www.macotakara.jp/blog/report/entry-34166.html
+
+HomePod
+https://www.apple.com/homepod/
+
+Apple Garosugil opens in Seoul
+https://www.apple.com/newsroom/2018/01/apple-garosugil-opens-in-seoul/
+
+Apple、新しいMacにARMコプロセッサーを採用か
+http://jp.techcrunch.com/2018/01/30/2018-01-29-apple-could-use-arm-coprocessors-for-three-updated-mac-models/
+
+Apple、iOS 11.3をプレビュー
+https://www.apple.com/jp/newsroom/2018/01/apple-previews-ios-11-3/
+
+ARKit 1.5提供開始。垂直の壁や画像認識に対応、カメラ映像の解像度向上
+http://japanese.engadget.com/2018/01/25/arkit-1-5/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2018/02/02/19-2018-iphone-ipad-arkit/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/62/s/feed/c/podcast/AirSap_episode_19_20180130_rev1.mp3" length="27895401" type="audio/mpeg"/>
+
+		<itunes:duration>00:38:43</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>バッテリー問題、2018年のiPhone・iPad・Macの噂、無接点充電、ARKit 1.5などについて話しました。</itunes:subtitle>
+		<itunes:title>2018年のiPhone・iPadはどうなる？</itunes:title>
+		<itunes:episode>19</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>iPhoneのバッテリーとパフォーマンスについて、お客様にお伝えしたいこと
+https://www.apple.com/jp/iphone-battery-and-performance/
+
+アップル、iPhoneの意図的な低速化を無効にできるアップデート提供。クックCEOが「誤解を招いたことをお詫び」
+http://japanese.engadget.com/2018/01/18/iphone-ceo/
+
+株式会社ジャパンディスプレイ
+http://www.j-display.com
+
+JDI再建の命運握る「FULL ACTIVE」をアピール
+http://eetimes.jp/ee/articles/1709/26/news124.html
+
+6.1インチの新iPhoneはJDIの「日の丸液晶」を採用？ベゼルレスで9月〜10月に発売との噂
+http://japanese.engadget.com/2018/01/24/6-1-iphone-jdi-9-10/
+
+スマートフォン向け4辺フリーFULL ACTIVETMの量産開始
+http://www.j-display.com/news/2017/20170619.html
+
+CES2018：iPhone X/8/8 PlusのQiワイヤレス7.5W急速充電は、Appleの独自仕様
+http://www.macotakara.jp/blog/report/entry-34166.html
+
+HomePod
+https://www.apple.com/homepod/
+
+Apple Garosugil opens in Seoul
+https://www.apple.com/newsroom/2018/01/apple-garosugil-opens-in-seoul/
+
+Apple、新しいMacにARMコプロセッサーを採用か
+http://jp.techcrunch.com/2018/01/30/2018-01-29-apple-could-use-arm-coprocessors-for-three-updated-mac-models/
+
+Apple、iOS 11.3をプレビュー
+https://www.apple.com/jp/newsroom/2018/01/apple-previews-ios-11-3/
+
+ARKit 1.5提供開始。垂直の壁や画像認識に対応、カメラ映像の解像度向上
+http://japanese.engadget.com/2018/01/25/arkit-1-5/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p></p>
+<p>バッテリー問題、2018年のiPhone・iPad・Macの噂、無接点充電、ARKit 1.5などについて話しました。</p>
+<p>iPhoneのバッテリーとパフォーマンスについて、お客様にお伝えしたいこと<br />
+<a href="https://www.apple.com/jp/iphone-battery-and-performance/">https://www.apple.com/jp/iphone-battery-and-performance/</a></p>
+<p>アップル、iPhoneの意図的な低速化を無効にできるアップデート提供。クックCEOが「誤解を招いたことをお詫び」<br />
+<a href="http://japanese.engadget.com/2018/01/18/iphone-ceo/">http://japanese.engadget.com/2018/01/18/iphone-ceo/</a></p>
+<p>株式会社ジャパンディスプレイ<br />
+http://www.j-display.com</p>
+<p>JDI再建の命運握る「FULL ACTIVE」をアピール<br />
+<a href="http://eetimes.jp/ee/articles/1709/26/news124.html">http://eetimes.jp/ee/articles/1709/26/news124.html</a></p>
+<p>6.1インチの新iPhoneはJDIの「日の丸液晶」を採用？ベゼルレスで9月〜10月に発売との噂<br />
+<a href="http://japanese.engadget.com/2018/01/24/6-1-iphone-jdi-9-10/">http://japanese.engadget.com/2018/01/24/6-1-iphone-jdi-9-10/</a></p>
+<p>スマートフォン向け4辺フリーFULL ACTIVETMの量産開始<br />
+<a href="http://www.j-display.com/news/2017/20170619.html">http://www.j-display.com/news/2017/20170619.html</a></p>
+<p>CES2018：iPhone X/8/8 PlusのQiワイヤレス7.5W急速充電は、Appleの独自仕様<br />
+<a href="http://www.macotakara.jp/blog/report/entry-34166.html">http://www.macotakara.jp/blog/report/entry-34166.html</a></p>
+<p>HomePod<br />
+<a href="https://www.apple.com/homepod/">https://www.apple.com/homepod/</a></p>
+<p>Apple Garosugil opens in Seoul<br />
+<a href="https://www.apple.com/newsroom/2018/01/apple-garosugil-opens-in-seoul/">https://www.apple.com/newsroom/2018/01/apple-garosugil-opens-in-seoul/</a></p>
+<p>Apple、新しいMacにARMコプロセッサーを採用か<br />
+<a href="http://jp.techcrunch.com/2018/01/30/2018-01-29-apple-could-use-arm-coprocessors-for-three-updated-mac-models/">http://jp.techcrunch.com/2018/01/30/2018-01-29-apple-could-use-arm-coprocessors-for-three-updated-mac-models/</a></p>
+<p>Apple、iOS 11.3をプレビュー<br />
+<a href="https://www.apple.com/jp/newsroom/2018/01/apple-previews-ios-11-3/">https://www.apple.com/jp/newsroom/2018/01/apple-previews-ios-11-3/</a></p>
+<p>ARKit 1.5提供開始。垂直の壁や画像認識に対応、カメラ映像の解像度向上<br />
+<a href="http://japanese.engadget.com/2018/01/25/arkit-1-5/">http://japanese.engadget.com/2018/01/25/arkit-1-5/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#18 2017年は任天堂と仮想通貨の年だった</title>
+		<link>http://airsap.net/2018/01/10/airsap_episode_18_20171206/</link>
+		<pubDate>Wed, 10 Jan 2018 05:51:55 +0000</pubDate>
+		<guid isPermaLink="false">https://airsap.net/?p=120</guid>
+		<description><![CDATA[Discord
+https://discordapp.com
+
+iPhoneが再起動を繰り返す不具合　12月2日に発生 - ITmedia NEWS
+http://www.itmedia.co.jp/news/articles/1712/02/news018.html
+
+Sleep Cycle alarm clock
+https://itunes.apple.com/jp/app/sleep-cycle-alarm-clock/id320606217?mt=8
+
+日本最大級！無料の家計簿アプリ・レシート家計簿「Zaim」
+https://zaim.net
+
+「macOS High Sierra」にパスワードなしでログインできてしまう脆弱性 - CNET Japan
+https://japan.cnet.com/article/35111084/
+
+どうぶつの森 ポケットキャンプ | 任天堂
+https://ac-pocketcamp.com/ja-JP/site
+
+スマホ版「どうぶつの森」、課金の9割は日本　1DL当たりの額も突出 - ITmedia NEWS
+http://www.itmedia.co.jp/news/articles/1712/02/news027.html
+
+横綱に「アマゾン効果」　ＭＪ2017年ヒット商品番付　　：日本経済新聞
+https://www.nikkei.com/article/DGXMZO24287270V01C17A2EA1000/
+
+ニンテンドークラシックミニ スーパーファミコン | 任天堂
+https://www.nintendo.co.jp/clvs/index.html
+
+Nintendo Switch｜Nintendo
+https://www.nintendo.co.jp/hardware/switch/
+
+ゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo Switch / Wii U | Nintendo
+https://www.nintendo.co.jp/zelda/index.html
+
+スプラトゥーン2 | Nintendo Switch | 任天堂
+https://www.nintendo.co.jp/switch/aab6a/index.html
+
+TSUTAYAプレミアム - DVD借り放題で延長料金なし、動画も見放題 - TSUTAYA [T-SITE]
+http://tsutaya.tsite.jp/premium/?sc_int=tsutaya_jack_topmain
+
+AbemaTV(アベマTV) | 無料で楽しめるインターネットテレビ局
+https://abema.tv
+
+Google Home Mini - どの部屋にもマッチするスマート スピーカー - Google ストア
+https://store.google.com/product/google_home_mini
+
+Amazon | Echo - スマートスピーカー
+https://www.amazon.co.jp/dp/B071ZF5KCM
+
+Appleがハウツー動画用に新たなYouTubeチャンネルをローンチ | TechCrunch Japan
+http://jp.techcrunch.com/2017/11/29/2017-11-28-apple-launches-a-new-youtube-channel-offering-device-tutorials/
+
+仮想通貨に関する所得の計算方法等について(情報)
+https://www.nta.go.jp/shiraberu/zeiho-kaishaku/joho-zeikaishaku/shotoku/shinkoku/171127/01.pdf]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2018/01/10/airsap_episode_18_20171206/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/19/s/feed/c/podcast/AirSap_episode_18_20171206.mp3" length="36051490" type="audio/mpeg"/>
+
+		<itunes:duration>00:50:03</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>iOSとmacOSのバグ、任天堂、Google Home、仮想通貨などについて話しました。</itunes:subtitle>
+		<itunes:title>2017年は任天堂と仮想通貨の年だった</itunes:title>
+		<itunes:episode>18</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Discord
+https://discordapp.com
+
+iPhoneが再起動を繰り返す不具合　12月2日に発生 - ITmedia NEWS
+http://www.itmedia.co.jp/news/articles/1712/02/news018.html
+
+Sleep Cycle alarm clock
+https://itunes.apple.com/jp/app/sleep-cycle-alarm-clock/id320606217?mt=8
+
+日本最大級！無料の家計簿アプリ・レシート家計簿「Zaim」
+https://zaim.net
+
+「macOS High Sierra」にパスワードなしでログインできてしまう脆弱性 - CNET Japan
+https://japan.cnet.com/article/35111084/
+
+どうぶつの森 ポケットキャンプ | 任天堂
+https://ac-pocketcamp.com/ja-JP/site
+
+スマホ版「どうぶつの森」、課金の9割は日本　1DL当たりの額も突出 - ITmedia NEWS
+http://www.itmedia.co.jp/news/articles/1712/02/news027.html
+
+横綱に「アマゾン効果」　ＭＪ2017年ヒット商品番付　　：日本経済新聞
+https://www.nikkei.com/article/DGXMZO24287270V01C17A2EA1000/
+
+ニンテンドークラシックミニ スーパーファミコン | 任天堂
+https://www.nintendo.co.jp/clvs/index.html
+
+Nintendo Switch｜Nintendo
+https://www.nintendo.co.jp/hardware/switch/
+
+ゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo Switch / Wii U | Nintendo
+https://www.nintendo.co.jp/zelda/index.html
+
+スプラトゥーン2 | Nintendo Switch | 任天堂
+https://www.nintendo.co.jp/switch/aab6a/index.html
+
+TSUTAYAプレミアム - DVD借り放題で延長料金なし、動画も見放題 - TSUTAYA [T-SITE]
+http://tsutaya.tsite.jp/premium/?sc_int=tsutaya_jack_topmain
+
+AbemaTV(アベマTV) | 無料で楽しめるインターネットテレビ局
+https://abema.tv
+
+Google Home Mini - どの部屋にもマッチするスマート スピーカー - Google ストア
+https://store.google.com/product/google_home_mini
+
+Amazon | Echo - スマートスピーカー
+https://www.amazon.co.jp/dp/B071ZF5KCM
+
+Appleがハウツー動画用に新たなYouTubeチャンネルをローンチ | TechCrunch Japan
+http://jp.techcrunch.com/2017/11/29/2017-11-28-apple-launches-a-new-youtube-channel-offering-device-tutorials/
+
+仮想通貨に関する所得の計算方法等について(情報)
+https://www.nta.go.jp/shiraberu/zeiho-kaishaku/joho-zeikaishaku/shotoku/shinkoku/171127/01.pdf</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+iOSとmacOSのバグ、任天堂、Google Home、仮想通貨などについて話しました。</p>
+<p>Discord<br />
+<a href="https://discordapp.com">https://discordapp.com</a></p>
+<p>iPhoneが再起動を繰り返す不具合　12月2日に発生 &#8211; ITmedia NEWS<br />
+<a href="http://www.itmedia.co.jp/news/articles/1712/02/news018.html">http://www.itmedia.co.jp/news/articles/1712/02/news018.html</a></p>
+<p>Sleep Cycle alarm clock<br />
+<a href="https://itunes.apple.com/jp/app/sleep-cycle-alarm-clock/id320606217?mt=8">https://itunes.apple.com/jp/app/sleep-cycle-alarm-clock/id320606217?mt=8</a></p>
+<p>日本最大級！無料の家計簿アプリ・レシート家計簿「Zaim」<br />
+<a href="https://zaim.net">https://zaim.net</a></p>
+<p>「macOS High Sierra」にパスワードなしでログインできてしまう脆弱性 &#8211; CNET Japan<br />
+<a href="https://japan.cnet.com/article/35111084/">https://japan.cnet.com/article/35111084/</a></p>
+<p>どうぶつの森 ポケットキャンプ | 任天堂<br />
+<a href="https://ac-pocketcamp.com/ja-JP/site">https://ac-pocketcamp.com/ja-JP/site</a></p>
+<p>スマホ版「どうぶつの森」、課金の9割は日本　1DL当たりの額も突出 &#8211; ITmedia NEWS<br />
+<a href="http://www.itmedia.co.jp/news/articles/1712/02/news027.html">http://www.itmedia.co.jp/news/articles/1712/02/news027.html</a></p>
+<p>横綱に「アマゾン効果」　ＭＪ2017年ヒット商品番付　　：日本経済新聞<br />
+<a href="https://www.nikkei.com/article/DGXMZO24287270V01C17A2EA1000/">https://www.nikkei.com/article/DGXMZO24287270V01C17A2EA1000/</a></p>
+<p>ニンテンドークラシックミニ スーパーファミコン | 任天堂<br />
+<a href="https://www.nintendo.co.jp/clvs/index.html">https://www.nintendo.co.jp/clvs/index.html</a></p>
+<p>Nintendo Switch｜Nintendo<br />
+<a href="https://www.nintendo.co.jp/hardware/switch/">https://www.nintendo.co.jp/hardware/switch/</a></p>
+<p>ゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo Switch / Wii U | Nintendo<br />
+<a href="https://www.nintendo.co.jp/zelda/index.html">https://www.nintendo.co.jp/zelda/index.html</a></p>
+<p>スプラトゥーン2 | Nintendo Switch | 任天堂<br />
+<a href="https://www.nintendo.co.jp/switch/aab6a/index.html">https://www.nintendo.co.jp/switch/aab6a/index.html</a></p>
+<p>TSUTAYAプレミアム &#8211; DVD借り放題で延長料金なし、動画も見放題 &#8211; TSUTAYA [T-SITE]<br />
+<a href="http://tsutaya.tsite.jp/premium/?sc_int=tsutaya_jack_topmain">http://tsutaya.tsite.jp/premium/?sc_int=tsutaya_jack_topmain</a></p>
+<p>AbemaTV(アベマTV) | 無料で楽しめるインターネットテレビ局<br />
+<a href="https://abema.tv">https://abema.tv</a></p>
+<p>Google Home Mini &#8211; どの部屋にもマッチするスマート スピーカー &#8211; Google ストア<br />
+<a href="https://store.google.com/product/google_home_mini">https://store.google.com/product/google_home_mini</a></p>
+<p>Amazon | Echo &#8211; スマートスピーカー<br />
+<a href="https://www.amazon.co.jp/dp/B071ZF5KCM">https://www.amazon.co.jp/dp/B071ZF5KCM</a></p>
+<p>Appleがハウツー動画用に新たなYouTubeチャンネルをローンチ | TechCrunch Japan<br />
+<a href="http://jp.techcrunch.com/2017/11/29/2017-11-28-apple-launches-a-new-youtube-channel-offering-device-tutorials/">http://jp.techcrunch.com/2017/11/29/2017-11-28-apple-launches-a-new-youtube-channel-offering-device-tutorials/</a></p>
+<p>仮想通貨に関する所得の計算方法等について(情報)<br />
+<a href="https://www.nta.go.jp/shiraberu/zeiho-kaishaku/joho-zeikaishaku/shotoku/shinkoku/171127/01.pdf">https://www.nta.go.jp/shiraberu/zeiho-kaishaku/joho-zeikaishaku/shotoku/shinkoku/171127/01.pdf</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#17 iPhone Xと古代アンデス文明展</title>
+		<link>http://airsap.net/2017/11/26/airsap_episode_17_20171111/</link>
+		<pubDate>Sun, 26 Nov 2017 13:59:41 +0000</pubDate>
+		<guid isPermaLink="false">http://airsap.net/?p=117</guid>
+		<description><![CDATA[iPhone X - Apple（日本）
+https://www.apple.com/jp/iphone-x/
+
+iPhone X発売、深夜の銀座に静寂の行列。大雨の中並ぶと買える？→警備員「約束できません」 - Engadget 日本版
+http://japanese.engadget.com/2017/11/02/iphone-x-rain/
+
+iPhone X発売　表参道に550人の行列 - ITmedia PC USER
+http://www.itmedia.co.jp/pcuser/articles/1711/03/news023.html
+
+トップページ | 特別展「古代アンデス文明展」（2017年10月21日（土）～2018年2月18日（日））-国立科学博物館-
+https://www.kahaku.go.jp/exhibitions/ueno/special/2017/andes/index.html
+
+iPhoneで撮影する方法 - 写真 - Apple（日本）
+https://www.apple.com/jp/iphone/photography-how-to/
+
+Clips - Apple（日本）
+https://www.apple.com/jp/clips/
+
+iOS 11.1.2提供開始。低温時にiPhone Xの画面が反応しなくなる問題修正 - AV Watch
+https://av.watch.impress.co.jp/docs/news/1092113.html
+
+ANA、新千歳空港カウンター刷新　自動手荷物預け機で混雑緩和へ
+http://www.aviationwire.jp/archives/133654
+
+AirPower
+https://www.apple.com/jp/iphone-8/#wireless-charging]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/11/26/airsap_episode_17_20171111/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/20/s/feed/c/podcast/AirSap_episode_17_20171111.mp3" length="74114794" type="audio/mpeg"/>
+
+		<itunes:duration>01:42:55</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>ついに発売されたiPhone Xの第一印象について話しました。</itunes:subtitle>
+		<itunes:title>iPhone Xと古代アンデス文明展</itunes:title>
+		<itunes:episode>17</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>iPhone X - Apple（日本）
+https://www.apple.com/jp/iphone-x/
+
+iPhone X発売、深夜の銀座に静寂の行列。大雨の中並ぶと買える？→警備員「約束できません」 - Engadget 日本版
+http://japanese.engadget.com/2017/11/02/iphone-x-rain/
+
+iPhone X発売　表参道に550人の行列 - ITmedia PC USER
+http://www.itmedia.co.jp/pcuser/articles/1711/03/news023.html
+
+トップページ | 特別展「古代アンデス文明展」（2017年10月21日（土）～2018年2月18日（日））-国立科学博物館-
+https://www.kahaku.go.jp/exhibitions/ueno/special/2017/andes/index.html
+
+iPhoneで撮影する方法 - 写真 - Apple（日本）
+https://www.apple.com/jp/iphone/photography-how-to/
+
+Clips - Apple（日本）
+https://www.apple.com/jp/clips/
+
+iOS 11.1.2提供開始。低温時にiPhone Xの画面が反応しなくなる問題修正 - AV Watch
+https://av.watch.impress.co.jp/docs/news/1092113.html
+
+ANA、新千歳空港カウンター刷新　自動手荷物預け機で混雑緩和へ
+http://www.aviationwire.jp/archives/133654
+
+AirPower
+https://www.apple.com/jp/iphone-8/#wireless-charging</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+ついに発売されたiPhone Xの第一印象について話しました。</p>
+<p>iPhone X &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/iphone-x/">https://www.apple.com/jp/iphone-x/</a></p>
+<p>iPhone X発売、深夜の銀座に静寂の行列。大雨の中並ぶと買える？→警備員「約束できません」 &#8211; Engadget 日本版<br />
+<a href="http://japanese.engadget.com/2017/11/02/iphone-x-rain/">http://japanese.engadget.com/2017/11/02/iphone-x-rain/</a></p>
+<p>iPhone X発売　表参道に550人の行列 &#8211; ITmedia PC USER<br />
+<a href="http://www.itmedia.co.jp/pcuser/articles/1711/03/news023.html">http://www.itmedia.co.jp/pcuser/articles/1711/03/news023.html</a></p>
+<p>トップページ | 特別展「古代アンデス文明展」（2017年10月21日（土）～2018年2月18日（日））-国立科学博物館-<br />
+<a href="https://www.kahaku.go.jp/exhibitions/ueno/special/2017/andes/index.html">https://www.kahaku.go.jp/exhibitions/ueno/special/2017/andes/index.html</a></p>
+<p>iPhoneで撮影する方法 &#8211; 写真 &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/iphone/photography-how-to/">https://www.apple.com/jp/iphone/photography-how-to/</a></p>
+<p>Clips &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/clips/">https://www.apple.com/jp/clips/</a></p>
+<p>iOS 11.1.2提供開始。低温時にiPhone Xの画面が反応しなくなる問題修正 &#8211; AV Watch<br />
+<a href="https://av.watch.impress.co.jp/docs/news/1092113.html">https://av.watch.impress.co.jp/docs/news/1092113.html</a></p>
+<p>ANA、新千歳空港カウンター刷新　自動手荷物預け機で混雑緩和へ<br />
+<a href="http://www.aviationwire.jp/archives/133654">http://www.aviationwire.jp/archives/133654</a></p>
+<p>AirPower<br />
+<a href="https://www.apple.com/jp/iphone-8/#wireless-charging">https://www.apple.com/jp/iphone-8/#wireless-charging</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#16 iPhoneX予約競争に勝つためには？ Google Firebase新データベースが気になる</title>
+		<link>http://airsap.net/2017/10/25/airsap_episode_16_20171020_rev2/</link>
+		<pubDate>Wed, 25 Oct 2017 12:55:53 +0000</pubDate>
+		<guid isPermaLink="false">http://airsap.net/?p=113</guid>
+		<description><![CDATA[iPhone X - Apple（日本）
+https://www.apple.com/jp/iphone-x/
+
+ローソン お試し引換券
+http://www.lawson.co.jp/ponta/tsukau/otameshi/oct/1309934_2591.html
+
+Apple Storeアプリ
+https://itunes.apple.com/jp/app/apple-store/id375380948?mt=8
+
+ドコモオンラインショップでの「iPhone X」のご予約・ご購入手続きについて
+https://www.mydocomo.com/onlineshop/information/notice/20171012_01.html?_=1508896476705
+
+iPhone | au オンラインショップ | 新型機種など 予約・購入
+http://onlineshop.au.com/disp/CSfDispListPage_006.jsp?dispNo=001012&bid=we-ipo-2017-3101
+
+iPhone X 料金・割引 | iPhone 一覧 | モバイル | ソフトバンク
+https://m.online-shop.mb.softbank.jp/products/iphone/index2.html
+
+iPhone Xを買う人100人に聞きました。「どっちの色を選ぶ？」
+https://wayohoo.com/ios/news/which-color-will-you-buy-iphone-x.html
+
+テスラ、ハリケーンから避難するクルマのバッテリーを無線で一時的にアップグレード - Autoblog 日本版
+http://jp.autoblog.com/2017/09/12/tesla-extends-range-hurricane-irma/
+
+「iPhone 8」、なんとiPhone 7より売れていない模様 | ギズモード・ジャパン
+https://www.gizmodo.jp/2017/10/iphone8-sell.html
+
+「Mac miniは将来的には重要なラインナップの一部」アップルのティム・クックCEOがユーザーに回答？ - Engadget 日本版
+http://japanese.engadget.com/2017/10/21/mac-mini-ceo/
+
+Apple Watch Nike+ - Apple（日本）
+https://www.apple.com/jp/apple-watch-nike/
+
+2年前に買ったApple Watchにまさか命を救われるとは！ - iPhone Mania
+https://iphone-mania.jp/news-189239/
+
+HeartWatch
+https://itunes.apple.com/jp/app/heartwatch-heart-activity-monitor-for-watch/id1062745479?mt=8
+
+Nike+ Run Club
+https://itunes.apple.com/jp/app/nike-run-club/id387771637?mt=8
+
+アップルウォッチ、新モデル購入者の7割は「新規ユーザー」 | Forbes JAPAN（フォーブス ジャパン）
+https://forbesjapan.com/articles/detail/18186
+
+Firebase
+https://firebase.google.com/?hl=ja
+
+The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
+https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/10/25/airsap_episode_16_20171020_rev2/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/21/s/feed/c/podcast/AirSap_episode_16_20171020_rev2.mp3" length="39109800" type="audio/mpeg"/>
+
+		<itunes:duration>00:54:18</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>iPhone Xの予約やApple Watch Nike+ Series 3の感想、Firebase Cloud Firestoreなどについて話しました。</itunes:subtitle>
+		<itunes:title>iPhoneX予約競争に勝つためには？ Google Firebase新データベースが気になる</itunes:title>
+		<itunes:episode>16</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>iPhone X - Apple（日本）
+https://www.apple.com/jp/iphone-x/
+
+ローソン お試し引換券
+http://www.lawson.co.jp/ponta/tsukau/otameshi/oct/1309934_2591.html
+
+Apple Storeアプリ
+https://itunes.apple.com/jp/app/apple-store/id375380948?mt=8
+
+ドコモオンラインショップでの「iPhone X」のご予約・ご購入手続きについて
+https://www.mydocomo.com/onlineshop/information/notice/20171012_01.html?_=1508896476705
+
+iPhone | au オンラインショップ | 新型機種など 予約・購入
+http://onlineshop.au.com/disp/CSfDispListPage_006.jsp?dispNo=001012&amp;bid=we-ipo-2017-3101
+
+iPhone X 料金・割引 | iPhone 一覧 | モバイル | ソフトバンク
+https://m.online-shop.mb.softbank.jp/products/iphone/index2.html
+
+iPhone Xを買う人100人に聞きました。「どっちの色を選ぶ？」
+https://wayohoo.com/ios/news/which-color-will-you-buy-iphone-x.html
+
+テスラ、ハリケーンから避難するクルマのバッテリーを無線で一時的にアップグレード - Autoblog 日本版
+http://jp.autoblog.com/2017/09/12/tesla-extends-range-hurricane-irma/
+
+「iPhone 8」、なんとiPhone 7より売れていない模様 | ギズモード・ジャパン
+https://www.gizmodo.jp/2017/10/iphone8-sell.html
+
+「Mac miniは将来的には重要なラインナップの一部」アップルのティム・クックCEOがユーザーに回答？ - Engadget 日本版
+http://japanese.engadget.com/2017/10/21/mac-mini-ceo/
+
+Apple Watch Nike+ - Apple（日本）
+https://www.apple.com/jp/apple-watch-nike/
+
+2年前に買ったApple Watchにまさか命を救われるとは！ - iPhone Mania
+https://iphone-mania.jp/news-189239/
+
+HeartWatch
+https://itunes.apple.com/jp/app/heartwatch-heart-activity-monitor-for-watch/id1062745479?mt=8
+
+Nike+ Run Club
+https://itunes.apple.com/jp/app/nike-run-club/id387771637?mt=8
+
+アップルウォッチ、新モデル購入者の7割は「新規ユーザー」 | Forbes JAPAN（フォーブス ジャパン）
+https://forbesjapan.com/articles/detail/18186
+
+Firebase
+https://firebase.google.com/?hl=ja
+
+The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps
+https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+iPhone Xの予約やApple Watch Nike+ Series 3の感想、Firebase Cloud Firestoreなどについて話しました。</p>
+<p>iPhone X &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/iphone-x/">https://www.apple.com/jp/iphone-x/</a></p>
+<p>ローソン お試し引換券<br />
+<a href="http://www.lawson.co.jp/ponta/tsukau/otameshi/oct/1309934_2591.html">http://www.lawson.co.jp/ponta/tsukau/otameshi/oct/1309934_2591.html</a></p>
+<p>Apple Storeアプリ<br />
+<a href="https://itunes.apple.com/jp/app/apple-store/id375380948?mt=8">https://itunes.apple.com/jp/app/apple-store/id375380948?mt=8</a></p>
+<p>ドコモオンラインショップでの「iPhone X」のご予約・ご購入手続きについて<br />
+<a href="https://www.mydocomo.com/onlineshop/information/notice/20171012_01.html?_=1508896476705">https://www.mydocomo.com/onlineshop/information/notice/20171012_01.html?_=1508896476705</a></p>
+<p>iPhone | au オンラインショップ | 新型機種など 予約・購入<br />
+<a href="http://onlineshop.au.com/disp/CSfDispListPage_006.jsp?dispNo=001012&amp;bid=we-ipo-2017-3101">http://onlineshop.au.com/disp/CSfDispListPage_006.jsp?dispNo=001012&amp;bid=we-ipo-2017-3101</a></p>
+<p>iPhone X 料金・割引 | iPhone 一覧 | モバイル | ソフトバンク<br />
+<a href="https://m.online-shop.mb.softbank.jp/products/iphone/index2.html">https://m.online-shop.mb.softbank.jp/products/iphone/index2.html</a></p>
+<p>iPhone Xを買う人100人に聞きました。「どっちの色を選ぶ？」<br />
+<a href="https://wayohoo.com/ios/news/which-color-will-you-buy-iphone-x.html">https://wayohoo.com/ios/news/which-color-will-you-buy-iphone-x.html</a></p>
+<p>テスラ、ハリケーンから避難するクルマのバッテリーを無線で一時的にアップグレード &#8211; Autoblog 日本版<br />
+<a href="http://jp.autoblog.com/2017/09/12/tesla-extends-range-hurricane-irma/">http://jp.autoblog.com/2017/09/12/tesla-extends-range-hurricane-irma/</a></p>
+<p>「iPhone 8」、なんとiPhone 7より売れていない模様 | ギズモード・ジャパン<br />
+<a href="https://www.gizmodo.jp/2017/10/iphone8-sell.html">https://www.gizmodo.jp/2017/10/iphone8-sell.html</a></p>
+<p>「Mac miniは将来的には重要なラインナップの一部」アップルのティム・クックCEOがユーザーに回答？ &#8211; Engadget 日本版<br />
+<a href="http://japanese.engadget.com/2017/10/21/mac-mini-ceo/">http://japanese.engadget.com/2017/10/21/mac-mini-ceo/</a></p>
+<p>Apple Watch Nike+ &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/apple-watch-nike/">https://www.apple.com/jp/apple-watch-nike/</a></p>
+<p>2年前に買ったApple Watchにまさか命を救われるとは！ &#8211; iPhone Mania<br />
+<a href="https://iphone-mania.jp/news-189239/">https://iphone-mania.jp/news-189239/</a></p>
+<p>HeartWatch<br />
+<a href="https://itunes.apple.com/jp/app/heartwatch-heart-activity-monitor-for-watch/id1062745479?mt=8">https://itunes.apple.com/jp/app/heartwatch-heart-activity-monitor-for-watch/id1062745479?mt=8</a></p>
+<p>Nike+ Run Club<br />
+<a href="https://itunes.apple.com/jp/app/nike-run-club/id387771637?mt=8">https://itunes.apple.com/jp/app/nike-run-club/id387771637?mt=8</a></p>
+<p>アップルウォッチ、新モデル購入者の7割は「新規ユーザー」 | Forbes JAPAN（フォーブス ジャパン）<br />
+<a href="https://forbesjapan.com/articles/detail/18186">https://forbesjapan.com/articles/detail/18186</a></p>
+<p>Firebase<br />
+<a href="https://firebase.google.com/?hl=ja">https://firebase.google.com/?hl=ja</a></p>
+<p>The Firebase Blog: Introducing Cloud Firestore: Our New Document Database for Apps<br />
+<a href="https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html">https://firebase.googleblog.com/2017/10/introducing-cloud-firestore.html</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#15 Apple新製品ラッシュの秋！刷新されたハードとソフトに何を思う？</title>
+		<link>http://airsap.net/2017/10/09/airsap_episode_15_20171004/</link>
+		<pubDate>Mon, 09 Oct 2017 00:55:09 +0000</pubDate>
+		<guid isPermaLink="false">http://airsap.net/?p=110</guid>
+		<description><![CDATA[iPhone 8 - Apple（日本）
+https://www.apple.com/jp/iphone-8/
+
+札幌ステラプレイス
+http://www.stellarplace.net
+
+iPhone X - Apple（日本）
+https://www.apple.com/jp/iphone-x/
+
+Apple Watch Series 3 - Apple（日本）
+https://www.apple.com/jp/apple-watch-series-3/
+
+ANA BAGGAGE DROP（自動手荷物預け機）
+https://www.ana.co.jp/domestic/promotions/airport_renewal/baggage/
+
+Apple TV 4K - Apple（日本）
+https://www.apple.com/jp/apple-tv-4k/
+
+iMac Pro - Apple（日本）
+https://www.apple.com/jp/imac-pro/
+
+macOS High Sierra - Apple（日本）
+https://www.apple.com/jp/macos/high-sierra/
+
+iOS 11 - Apple（日本）
+https://www.apple.com/jp/ios/ios-11/
+
+Amazon Newsroom - 「Alexa」と「Amazon Echo」が年内に日本に登場
+https://amazon-press.jp/Top-Navi/Press-releases/Presselist/Press-release/amazon/jp/Devices/2017/Amazon-Alexa-1002/
+
+Clova
+https://clova.ai/ja]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/10/09/airsap_episode_15_20171004/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/22/s/feed/c/podcast/AirSap_episode_15_20171004.mp3" length="58329890" type="audio/mpeg"/>
+
+		<itunes:duration>01:21:00</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>iPhone 8 / 8 Plus / X、Apple Watch Series 3、iOS 11、macOS High Sierraなど、この秋リリースのApple新ハード・新OSについて話しました。</itunes:subtitle>
+		<itunes:title>Apple新製品ラッシュの秋！刷新されたハードとソフトに何を思う？</itunes:title>
+		<itunes:episode>15</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>iPhone 8 - Apple（日本）
+https://www.apple.com/jp/iphone-8/
+
+札幌ステラプレイス
+http://www.stellarplace.net
+
+iPhone X - Apple（日本）
+https://www.apple.com/jp/iphone-x/
+
+Apple Watch Series 3 - Apple（日本）
+https://www.apple.com/jp/apple-watch-series-3/
+
+ANA BAGGAGE DROP（自動手荷物預け機）
+https://www.ana.co.jp/domestic/promotions/airport_renewal/baggage/
+
+Apple TV 4K - Apple（日本）
+https://www.apple.com/jp/apple-tv-4k/
+
+iMac Pro - Apple（日本）
+https://www.apple.com/jp/imac-pro/
+
+macOS High Sierra - Apple（日本）
+https://www.apple.com/jp/macos/high-sierra/
+
+iOS 11 - Apple（日本）
+https://www.apple.com/jp/ios/ios-11/
+
+Amazon Newsroom - 「Alexa」と「Amazon Echo」が年内に日本に登場
+https://amazon-press.jp/Top-Navi/Press-releases/Presselist/Press-release/amazon/jp/Devices/2017/Amazon-Alexa-1002/
+
+Clova
+https://clova.ai/ja</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+iPhone 8 / 8 Plus / X、Apple Watch Series 3、iOS 11、macOS High Sierraなど、この秋リリースのApple新ハード・新OSについて話しました。</p>
+<p>iPhone 8 &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/iphone-8/">https://www.apple.com/jp/iphone-8/</a></p>
+<p>札幌ステラプレイス<br />
+<a href="http://www.stellarplace.net">http://www.stellarplace.net</a></p>
+<p>iPhone X &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/iphone-x/">https://www.apple.com/jp/iphone-x/</a></p>
+<p>Apple Watch Series 3 &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/apple-watch-series-3/">https://www.apple.com/jp/apple-watch-series-3/</a></p>
+<p>ANA BAGGAGE DROP（自動手荷物預け機）<br />
+<a href="https://www.ana.co.jp/domestic/promotions/airport_renewal/baggage/">https://www.ana.co.jp/domestic/promotions/airport_renewal/baggage/</a></p>
+<p>Apple TV 4K &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/apple-tv-4k/">https://www.apple.com/jp/apple-tv-4k/</a></p>
+<p>iMac Pro &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/imac-pro/">https://www.apple.com/jp/imac-pro/</a></p>
+<p>macOS High Sierra &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/macos/high-sierra/">https://www.apple.com/jp/macos/high-sierra/</a></p>
+<p>iOS 11 &#8211; Apple（日本）<br />
+<a href="https://www.apple.com/jp/ios/ios-11/">https://www.apple.com/jp/ios/ios-11/</a></p>
+<p>Amazon Newsroom &#8211; 「Alexa」と「Amazon Echo」が年内に日本に登場<br />
+<a href="https://amazon-press.jp/Top-Navi/Press-releases/Presselist/Press-release/amazon/jp/Devices/2017/Amazon-Alexa-1002/">https://amazon-press.jp/Top-Navi/Press-releases/Presselist/Press-release/amazon/jp/Devices/2017/Amazon-Alexa-1002/</a></p>
+<p>Clova<br />
+<a href="https://clova.ai/ja">https://clova.ai/ja</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#14 仮想通貨関連アプリを作ってしまうくらい、ブロックチェーン・仮想通貨・ICOが面白い</title>
+		<link>http://airsap.net/2017/09/03/airsap_episode_14_20170825_rev2/</link>
+		<pubDate>Sun, 03 Sep 2017 09:28:42 +0000</pubDate>
+		<guid isPermaLink="false">http://airsap.net/?p=106</guid>
+		<description><![CDATA[Skyrocket for Poloniex Bitcoin / Altcoin Exchange
+https://itunes.apple.com/jp/app/skyrocket-for-poloniex-bitcoin-altcoin-exchange/id1269501021?mt=8&uo=4&at=11ldBU
+
+リジェクト後の審査再提出時にアプリ内課金アイテムを追加してはならない。絶対に。
+http://frnk.hatenablog.jp/entry/2017/08/23/134735
+
+「GMOブロックチェーン オープンソース提供プロジェクト」を開始　第1弾は「医療機関カルテ共有システム」を提供 - GMOインターネット株式会社
+https://www.gmo.jp/news/article/?id=5736
+
+マウントゴックス - Wikipedia
+https://ja.wikipedia.org/wiki/マウントゴックス
+
+ニュース - 丸井グループがビットコイン決済を試験導入、新宿1店舗で：ITpro
+http://itpro.nikkeibp.co.jp/atcl/news/17/080702064/?rt=nocnt
+
+ビックカメラ全店でbitcoin使えます！ | ビックカメラ
+http://www.biccamera.co.jp/shopguide/campaign/bitcoin/index.html
+
+SegWitとは
+https://bitflyer.jp/ja/glossary/segwit
+
+第二次産業革命 - Wikipedia
+https://ja.wikipedia.org/wiki/第二次産業革命
+
+COMSA - 実ビジネスのブロックチェーン導入を支援するICOソリューション
+https://comsa.io/ja/
+
+iPhone Dev Sapporo勉強会 Sep, 2017 - connpass
+https://devsap.connpass.com/event/64327/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/09/03/airsap_episode_14_20170825_rev2/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/23/s/feed/c/podcast/AirSap_episode_14_20170825_rev2.mp3" length="37106252" type="audio/mpeg"/>
+
+		<itunes:duration>00:51:31</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>今年こそは仮想通貨元年？最近一気に盛り上がってきたブロックチェーン・仮想通貨・ICOなどについて話しました。</itunes:subtitle>
+		<itunes:title>仮想通貨関連アプリを作ってしまうくらい、ブロックチェーン・仮想通貨・ICOが面白い</itunes:title>
+		<itunes:episode>14</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Skyrocket for Poloniex Bitcoin / Altcoin Exchange
+https://itunes.apple.com/jp/app/skyrocket-for-poloniex-bitcoin-altcoin-exchange/id1269501021?mt=8&amp;uo=4&amp;at=11ldBU
+
+リジェクト後の審査再提出時にアプリ内課金アイテムを追加してはならない。絶対に。
+http://frnk.hatenablog.jp/entry/2017/08/23/134735
+
+「GMOブロックチェーン オープンソース提供プロジェクト」を開始　第1弾は「医療機関カルテ共有システム」を提供 - GMOインターネット株式会社
+https://www.gmo.jp/news/article/?id=5736
+
+マウントゴックス - Wikipedia
+https://ja.wikipedia.org/wiki/マウントゴックス
+
+ニュース - 丸井グループがビットコイン決済を試験導入、新宿1店舗で：ITpro
+http://itpro.nikkeibp.co.jp/atcl/news/17/080702064/?rt=nocnt
+
+ビックカメラ全店でbitcoin使えます！ | ビックカメラ
+http://www.biccamera.co.jp/shopguide/campaign/bitcoin/index.html
+
+SegWitとは
+https://bitflyer.jp/ja/glossary/segwit
+
+第二次産業革命 - Wikipedia
+https://ja.wikipedia.org/wiki/第二次産業革命
+
+COMSA - 実ビジネスのブロックチェーン導入を支援するICOソリューション
+https://comsa.io/ja/
+
+iPhone Dev Sapporo勉強会 Sep, 2017 - connpass
+https://devsap.connpass.com/event/64327/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+今年こそは仮想通貨元年？最近一気に盛り上がってきたブロックチェーン・仮想通貨・ICOなどについて話しました。</p>
+<p>Skyrocket for Poloniex Bitcoin / Altcoin Exchange<br />
+<a href="https://itunes.apple.com/jp/app/skyrocket-for-poloniex-bitcoin-altcoin-exchange/id1269501021?mt=8&amp;uo=4&amp;at=11ldBU">https://itunes.apple.com/jp/app/skyrocket-for-poloniex-bitcoin-altcoin-exchange/id1269501021?mt=8&amp;uo=4&amp;at=11ldBU</a></p>
+<p>リジェクト後の審査再提出時にアプリ内課金アイテムを追加してはならない。絶対に。<br />
+<a href="http://frnk.hatenablog.jp/entry/2017/08/23/134735">http://frnk.hatenablog.jp/entry/2017/08/23/134735</a></p>
+<p>「GMOブロックチェーン オープンソース提供プロジェクト」を開始　第1弾は「医療機関カルテ共有システム」を提供 &#8211; GMOインターネット株式会社<br />
+<a href="https://www.gmo.jp/news/article/?id=5736">https://www.gmo.jp/news/article/?id=5736</a></p>
+<p>マウントゴックス &#8211; Wikipedia<br />
+<a href="https://ja.wikipedia.org/wiki/マウントゴックス">https://ja.wikipedia.org/wiki/マウントゴックス</a></p>
+<p>ニュース &#8211; 丸井グループがビットコイン決済を試験導入、新宿1店舗で：ITpro<br />
+<a href="http://itpro.nikkeibp.co.jp/atcl/news/17/080702064/?rt=nocnt">http://itpro.nikkeibp.co.jp/atcl/news/17/080702064/?rt=nocnt</a></p>
+<p>ビックカメラ全店でbitcoin使えます！ | ビックカメラ<br />
+<a href="http://www.biccamera.co.jp/shopguide/campaign/bitcoin/index.html">http://www.biccamera.co.jp/shopguide/campaign/bitcoin/index.html</a></p>
+<p>SegWitとは<br />
+<a href="https://bitflyer.jp/ja/glossary/segwit">https://bitflyer.jp/ja/glossary/segwit</a></p>
+<p>第二次産業革命 &#8211; Wikipedia<br />
+<a href="https://ja.wikipedia.org/wiki/第二次産業革命">https://ja.wikipedia.org/wiki/第二次産業革命</a></p>
+<p>COMSA &#8211; 実ビジネスのブロックチェーン導入を支援するICOソリューション<br />
+<a href="https://comsa.io/ja/">https://comsa.io/ja/</a></p>
+<p>iPhone Dev Sapporo勉強会 Sep, 2017 &#8211; connpass<br />
+<a href="https://devsap.connpass.com/event/64327/">https://devsap.connpass.com/event/64327/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#13 永遠の趣味プログラマー・熊谷友宏さんにIT勉強会の今と未来について聞いた</title>
+		<link>http://airsap.net/2017/07/31/airsap_episode_13_20170729_rev1/</link>
+		<pubDate>Mon, 31 Jul 2017 14:10:34 +0000</pubDate>
+		<guid isPermaLink="false">http://airsap.net/?p=98</guid>
+		<description><![CDATA[熊谷 友宏(@es_kumagai)さん | Twitter
+https://twitter.com/es_kumagai
+
+iPhone Dev Sapporo Swift Summer 2017
+https://devsap.connpass.com/event/60392/
+
+iphone_dev_jp 東京iPhone/Mac勉強会
+https://atnd.org/events/26946
+
+yidev 第２８回勉強会 — 第３部 Final Party !
+https://atnd.org/events/88905
+
+技術書典
+https://techbookfest.org
+
+超技術書典
+http://www.chokaigi.jp/2017/booth/cho_gijutsusyoten.html
+
+コミックマーケット
+http://www.comiket.co.jp
+
+ニコニコ超会議
+http://www.chokaigi.jp
+
+カジュアル Swift プログラミング - イベント一覧 - connpass
+https://cswift.connpass.com/event/
+
+もくもく執筆会
+https://techbook-meetup.connpass.com
+
+株式会社インフィニットループ
+https://www.infiniteloop.co.jp]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/07/31/airsap_episode_13_20170729_rev1/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/24/s/feed/c/podcast/AirSap_episode_13_20170729_rev1.mp3" length="44264272" type="audio/mpeg"/>
+
+		<itunes:duration>01:01:28</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>iPhone Dev Sapporo Swift Summer 2017のために来札された熊谷さんに、勉強会を主宰されるようになったきっかけ・yidev（横浜iPhone開発者勉強会）第３部を終了した理由・勉強会の現在と未来・同人誌活動などについて聞きました。</itunes:subtitle>
+		<itunes:title>永遠の趣味プログラマー・熊谷友宏さんにIT勉強会の今と未来について聞いた</itunes:title>
+		<itunes:episode>13</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>熊谷 友宏(@es_kumagai)さん | Twitter
+https://twitter.com/es_kumagai
+
+iPhone Dev Sapporo Swift Summer 2017
+https://devsap.connpass.com/event/60392/
+
+iphone_dev_jp 東京iPhone/Mac勉強会
+https://atnd.org/events/26946
+
+yidev 第２８回勉強会 — 第３部 Final Party !
+https://atnd.org/events/88905
+
+技術書典
+https://techbookfest.org
+
+超技術書典
+http://www.chokaigi.jp/2017/booth/cho_gijutsusyoten.html
+
+コミックマーケット
+http://www.comiket.co.jp
+
+ニコニコ超会議
+http://www.chokaigi.jp
+
+カジュアル Swift プログラミング - イベント一覧 - connpass
+https://cswift.connpass.com/event/
+
+もくもく執筆会
+https://techbook-meetup.connpass.com
+
+株式会社インフィニットループ
+https://www.infiniteloop.co.jp</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+iPhone Dev Sapporo Swift Summer 2017のために来札された熊谷さんに、勉強会を主宰されるようになったきっかけ・yidev（横浜iPhone開発者勉強会）第３部を終了した理由・勉強会の現在と未来・同人誌活動などについて聞きました。</p>
+<p>熊谷 友宏(@es_kumagai)さん | Twitter<br />
+<a href="https://twitter.com/es_kumagai">https://twitter.com/es_kumagai</a></p>
+<p>iPhone Dev Sapporo Swift Summer 2017<br />
+<a href="https://devsap.connpass.com/event/60392/">https://devsap.connpass.com/event/60392/</a></p>
+<p>iphone_dev_jp 東京iPhone/Mac勉強会<br />
+<a href="https://atnd.org/events/26946">https://atnd.org/events/26946</a></p>
+<p>yidev 第２８回勉強会 — 第３部 Final Party !<br />
+<a href="https://atnd.org/events/88905">https://atnd.org/events/88905</a></p>
+<p>技術書典<br />
+<a href="https://techbookfest.org">https://techbookfest.org</a></p>
+<p>超技術書典<br />
+<a href="http://www.chokaigi.jp/2017/booth/cho_gijutsusyoten.html">http://www.chokaigi.jp/2017/booth/cho_gijutsusyoten.html</a></p>
+<p>コミックマーケット<br />
+<a href="http://www.comiket.co.jp">http://www.comiket.co.jp</a></p>
+<p>ニコニコ超会議<br />
+<a href="http://www.chokaigi.jp">http://www.chokaigi.jp</a></p>
+<p>カジュアル Swift プログラミング &#8211; イベント一覧 &#8211; connpass<br />
+<a href="https://cswift.connpass.com/event/">https://cswift.connpass.com/event/</a></p>
+<p>もくもく執筆会<br />
+<a href="https://techbook-meetup.connpass.com">https://techbook-meetup.connpass.com</a></p>
+<p>株式会社インフィニットループ<br />
+<a href="https://www.infiniteloop.co.jp">https://www.infiniteloop.co.jp</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#12 もっさりさんがアプリ業界を斬る！</title>
+		<link>http://airsap.net/2017/07/25/airsap_episode_12_20170713/</link>
+		<pubDate>Tue, 25 Jul 2017 14:06:24 +0000</pubDate>
+		<guid isPermaLink="false">http://airsap.net/?p=96</guid>
+		<description><![CDATA[Swift・Parse・ゲームアプリ・スタートアップ・マルチプラットフォーム開発などについてもっさりさんと語りました。]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/07/25/airsap_episode_12_20170713/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/25/s/feed/c/podcast/AirSap_episode_12_20170713.mp3" length="39318784" type="audio/mpeg"/>
+
+		<itunes:duration>00:54:36</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>Swift・Parse・ゲームアプリ・スタートアップ・マルチプラットフォーム開発などについてもっさりさんと語りました。</itunes:subtitle>
+		<itunes:title>もっさりさんがアプリ業界を斬る！</itunes:title>
+		<itunes:episode>12</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		
+		
+		<content:encoded><![CDATA[<p><br />
+Swift・Parse・ゲームアプリ・スタートアップ・マルチプラットフォーム開発などについてもっさりさんと語りました。</p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#11 iOS 11の気になる新機能・新API</title>
+		<link>http://airsap.net/2017/06/27/airsap_episode_11_20170623_rev3/</link>
+		<pubDate>Tue, 27 Jun 2017 11:44:40 +0000</pubDate>
+		<guid isPermaLink="false">http://airsap.net/?p=92</guid>
+		<description><![CDATA[WWDC 2017 - Videos - Apple Developer
+https://developer.apple.com/videos/wwdc2017/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/06/27/airsap_episode_11_20170623_rev3/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/26/s/feed/c/podcast/AirSap_episode_11_20170623_rev3.mp3" length="43357607" type="audio/mpeg"/>
+
+		<itunes:duration>01:00:12</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>WWDC 2017で発表されたiOS 11の新しい機能やAPIの中から注目しているものをピックアップしてみました。</itunes:subtitle>
+		<itunes:title>iOS 11の気になる新機能・新API</itunes:title>
+		<itunes:episode>11</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>WWDC 2017 - Videos - Apple Developer
+https://developer.apple.com/videos/wwdc2017/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+WWDC 2017で発表されたiOS 11の新しい機能やAPIの中から注目しているものをピックアップしてみました。</p>
+<p>WWDC 2017 &#8211; Videos &#8211; Apple Developer<br />
+<a href="https://developer.apple.com/videos/wwdc2017/">https://developer.apple.com/videos/wwdc2017/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#10 WWDC 2017基調講演直後のアプリ開発者たちによる感想</title>
+		<link>http://airsap.net/2017/06/06/airsap_episode_10_20170606/</link>
+		<pubDate>Mon, 05 Jun 2017 22:55:31 +0000</pubDate>
+		<guid isPermaLink="false">http://vader.sakura.ne.jp/airsap/2017/06/06/10-wwdc-2017%e5%9f%ba%e8%aa%bf%e8%ac%9b%e6%bc%94%e7%9b%b4%e5%be%8c%e3%81%ae%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba%e8%80%85%e3%81%9f%e3%81%a1%e3%81%ab%e3%82%88%e3%82%8b%e6%84%9f%e6%83%b3/</guid>
+		<description><![CDATA[WWDC
+https://developer.apple.com/wwdc/
+
+札幌のiOSアプリ開発者たちによるWWDC 2017 実況
+https://www.youtube.com/watch?v=49vBOA1f-58]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/06/06/airsap_episode_10_20170606/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/27/s/feed/c/podcast/AirSap_episode_10_20170606.mp3" length="55957757" type="audio/mpeg"/>
+
+		<itunes:duration>00:00:00</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>WWDC 2017 基調講演の実況中継を終えた直後のアプリ開発者たちが、寝不足のテンションのまま発表内容の感想を語り合いました。</itunes:subtitle>
+		<itunes:title>WWDC 2017基調講演直後のアプリ開発者たちによる感想</itunes:title>
+		<itunes:episode>10</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>WWDC
+https://developer.apple.com/wwdc/
+
+札幌のiOSアプリ開発者たちによるWWDC 2017 実況
+https://www.youtube.com/watch?v=49vBOA1f-58</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+WWDC 2017 基調講演の実況中継を終えた直後のアプリ開発者たちが、寝不足のテンションのまま発表内容の感想を語り合いました。</p>
+<p>WWDC<br />
+<a href="https://developer.apple.com/wwdc/">https://developer.apple.com/wwdc/</a></p>
+<p>札幌のiOSアプリ開発者たちによるWWDC 2017 実況<br />
+<a href="https://www.youtube.com/watch?v=49vBOA1f-58">https://www.youtube.com/watch?v=49vBOA1f-58</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#9 WWDC 2017 直前大予想！</title>
+		<link>http://airsap.net/2017/06/03/airsap_episode_9_20170602/</link>
+		<pubDate>Sat, 03 Jun 2017 09:44:14 +0000</pubDate>
+		<guid isPermaLink="false">http://vader.sakura.ne.jp/airsap/2017/06/03/9-wwdc-2017-%e7%9b%b4%e5%89%8d%e5%a4%a7%e4%ba%88%e6%83%b3%ef%bc%81/</guid>
+		<description><![CDATA[WWDC - Apple Developer
+https://developer.apple.com/wwdc/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/06/03/airsap_episode_9_20170602/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/28/s/feed/c/podcast/AirSap_episode_9_20170602.mp3" length="40546893" type="audio/mpeg"/>
+
+		<itunes:duration>00:00:00</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>6/5から開催されるWWDC 2017の発表内容の予想をしてみました。</itunes:subtitle>
+		<itunes:title>WWDC 2017 直前大予想！</itunes:title>
+		<itunes:episode>9</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>WWDC - Apple Developer
+https://developer.apple.com/wwdc/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+6/5から開催されるWWDC 2017の発表内容の予想をしてみました。</p>
+<p>WWDC &#8211; Apple Developer<br />
+<a href="https://developer.apple.com/wwdc/">https://developer.apple.com/wwdc/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#8 ラーメンSNS「毎日がラーメン」誕生秘話と世界への野望</title>
+		<link>http://airsap.net/2017/05/17/airsap_episode_8_20170512_rev1/</link>
+		<pubDate>Wed, 17 May 2017 14:35:31 +0000</pubDate>
+		<guid isPermaLink="false">http://vader.sakura.ne.jp/airsap/2017/05/17/8-%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3sns%e3%80%8c%e6%af%8e%e6%97%a5%e3%81%8c%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%80%8d%e8%aa%95%e7%94%9f%e7%a7%98%e8%a9%b1%e3%81%a8%e4%b8%96%e7%95%8c%e3%81%b8/</guid>
+		<description><![CDATA[毎日がラーメン
+iOS https://itunes.apple.com/jp/app/id791934029?mt=8
+Android https://play.google.com/store/apps/details?id=jp.clear_sapporo.ramendays&hl=ja
+
+Pictalive
+https://itunes.apple.com/jp/app/pictalive-for-live-photos-%E5%8B%95%E7%94%BB%E3%82%92%E7%B7%A8%E9%9B%86%E3%81%97%E3%81%A6%E3%83%A9%E3%82%A4%E3%83%96%E3%83%95%E3%82%A9%E3%83%88%E3%81%AB%E5%A4%89%E6%8F%9B/id1051411202?mt=8
+
+Spendable
+https://itunes.apple.com/jp/app/spendable-%E8%B2%AF%E9%87%91%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E6%AE%8B%E9%AB%98%E7%AE%A1%E7%90%86/id572236710?mt=8
+
+株式会社クリアの採用/求人一覧 - Wantedly
+https://www.wantedly.com/companies/clear-sapporo/projects
+
+iPhone Dev Sapporo勉強会 May, 2017 - connpass
+https://devsap.connpass.com/event/56182/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/05/17/airsap_episode_8_20170512_rev1/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/29/s/feed/c/podcast/AirSap_episode_8_20170512_rev1.mp3" length="35235780" type="audio/mpeg"/>
+
+		<itunes:duration>00:00:00</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>ラーメンSNS「毎日がラーメン」を作っている株式会社クリアの広部さんに、アプリ開発・サービス運営や今後の展開などについて聞きました。</itunes:subtitle>
+		<itunes:title>ラーメンSNS「毎日がラーメン」誕生秘話と世界への野望</itunes:title>
+		<itunes:episode>8</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>毎日がラーメン
+iOS https://itunes.apple.com/jp/app/id791934029?mt=8
+Android https://play.google.com/store/apps/details?id=jp.clear_sapporo.ramendays&amp;hl=ja
+
+Pictalive
+https://itunes.apple.com/jp/app/pictalive-for-live-photos-%E5%8B%95%E7%94%BB%E3%82%92%E7%B7%A8%E9%9B%86%E3%81%97%E3%81%A6%E3%83%A9%E3%82%A4%E3%83%96%E3%83%95%E3%82%A9%E3%83%88%E3%81%AB%E5%A4%89%E6%8F%9B/id1051411202?mt=8
+
+Spendable
+https://itunes.apple.com/jp/app/spendable-%E8%B2%AF%E9%87%91%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E6%AE%8B%E9%AB%98%E7%AE%A1%E7%90%86/id572236710?mt=8
+
+株式会社クリアの採用/求人一覧 - Wantedly
+https://www.wantedly.com/companies/clear-sapporo/projects
+
+iPhone Dev Sapporo勉強会 May, 2017 - connpass
+https://devsap.connpass.com/event/56182/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+ラーメンSNS「毎日がラーメン」を作っている株式会社クリアの広部さんに、アプリ開発・サービス運営や今後の展開などについて聞きました。</p>
+<p>毎日がラーメン<br />
+iOS <a href="https://itunes.apple.com/jp/app/id791934029?mt=8">https://itunes.apple.com/jp/app/id791934029?mt=8</a><br />
+Android <a href="https://play.google.com/store/apps/details?id=jp.clear_sapporo.ramendays&amp;hl=ja">https://play.google.com/store/apps/details?id=jp.clear_sapporo.ramendays&amp;hl=ja</a></p>
+<p>Pictalive<br />
+<a href="https://itunes.apple.com/jp/app/pictalive-for-live-photos-%E5%8B%95%E7%94%BB%E3%82%92%E7%B7%A8%E9%9B%86%E3%81%97%E3%81%A6%E3%83%A9%E3%82%A4%E3%83%96%E3%83%95%E3%82%A9%E3%83%88%E3%81%AB%E5%A4%89%E6%8F%9B/id1051411202?mt=8">https://itunes.apple.com/jp/app/pictalive-for-live-photos-%E5%8B%95%E7%94%BB%E3%82%92%E7%B7%A8%E9%9B%86%E3%81%97%E3%81%A6%E3%83%A9%E3%82%A4%E3%83%96%E3%83%95%E3%82%A9%E3%83%88%E3%81%AB%E5%A4%89%E6%8F%9B/id1051411202?mt=8</a></p>
+<p>Spendable<br />
+<a href="https://itunes.apple.com/jp/app/spendable-%E8%B2%AF%E9%87%91%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E6%AE%8B%E9%AB%98%E7%AE%A1%E7%90%86/id572236710?mt=8">https://itunes.apple.com/jp/app/spendable-%E8%B2%AF%E9%87%91%E3%81%8C%E3%81%A7%E3%81%8D%E3%82%8B%E3%82%B7%E3%83%B3%E3%83%97%E3%83%AB%E6%AE%8B%E9%AB%98%E7%AE%A1%E7%90%86/id572236710?mt=8</a></p>
+<p>株式会社クリアの採用/求人一覧 &#8211; Wantedly<br />
+<a href="https://www.wantedly.com/companies/clear-sapporo/projects">https://www.wantedly.com/companies/clear-sapporo/projects</a></p>
+<p>iPhone Dev Sapporo勉強会 May, 2017 &#8211; connpass<br />
+<a href="https://devsap.connpass.com/event/56182/">https://devsap.connpass.com/event/56182/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#7 Apple Store跡地にできたソニーストア札幌の中の人に話を聞いた</title>
+		<link>http://airsap.net/2017/04/27/airsap_episode_7_20170420_rev2/</link>
+		<pubDate>Thu, 27 Apr 2017 13:22:31 +0000</pubDate>
+		<guid isPermaLink="false">http://vader.sakura.ne.jp/airsap/2017/04/27/7-apple-store%e8%b7%a1%e5%9c%b0%e3%81%ab%e3%81%a7%e3%81%8d%e3%81%9f%e3%82%bd%e3%83%8b%e3%83%bc%e3%82%b9%e3%83%88%e3%82%a2%e6%9c%ad%e5%b9%8c%e3%81%ae%e4%b8%ad%e3%81%ae%e4%ba%ba%e3%81%ab%e8%a9%b1/</guid>
+		<description><![CDATA[※発言は個人の見解であり、所属する組織の公式見解ではありません
+※音声内でのソニーストア札幌の営業時間の案内に誤りがありました。正しくは11:00〜20:00です。お詫びして訂正いたします。
+
+ソニーストア札幌
+http://www.sony.jp/store/retail/sapporo/
+http://www.twitter.com/SonyStore_Sap
+
+小夏パパが書いています。
+http://wafu-note.hateblo.jp/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/04/27/airsap_episode_7_20170420_rev2/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/30/s/feed/c/podcast/AirSap_episode_7_20170420_rev2.mp3" length="43782846" type="audio/mpeg"/>
+
+		<itunes:duration>00:00:00</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>Apple Store Sapporoのラッキーバッグになんども並んだ小夏パパさんが、その跡地にできたソニーストア札幌の中の人になっていた。</itunes:subtitle>
+		<itunes:title>Apple Store跡地にできたソニーストア札幌の中の人に話を聞いた</itunes:title>
+		<itunes:episode>7</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>※発言は個人の見解であり、所属する組織の公式見解ではありません
+※音声内でのソニーストア札幌の営業時間の案内に誤りがありました。正しくは11:00〜20:00です。お詫びして訂正いたします。
+
+ソニーストア札幌
+http://www.sony.jp/store/retail/sapporo/
+http://www.twitter.com/SonyStore_Sap
+
+小夏パパが書いています。
+http://wafu-note.hateblo.jp/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+Apple Store Sapporoのラッキーバッグになんども並んだ小夏パパさんが、その跡地にできたソニーストア札幌の中の人になっていた。<br />
+※発言は個人の見解であり、所属する組織の公式見解ではありません<br />
+※音声内でのソニーストア札幌の営業時間の案内に誤りがありました。正しくは11:00〜20:00です。お詫びして訂正いたします。</p>
+<p>ソニーストア札幌<br />
+<a href="http://www.sony.jp/store/retail/sapporo/">http://www.sony.jp/store/retail/sapporo/</a><br />
+<a href="http://www.twitter.com/SonyStore_Sap">http://www.twitter.com/SonyStore_Sap</a></p>
+<p>小夏パパが書いています。<br />
+<a href="http://wafu-note.hateblo.jp/">http://wafu-note.hateblo.jp/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#6 App Storeレビュー返信機能開始！格安SIMは固定回線代わりになるか？</title>
+		<link>http://airsap.net/2017/04/20/airsap_episode_6_20170412_rev1/</link>
+		<pubDate>Thu, 20 Apr 2017 12:29:20 +0000</pubDate>
+		<guid isPermaLink="false">http://vader.sakura.ne.jp/airsap/2017/04/20/6-app-store%e3%83%ac%e3%83%93%e3%83%a5%e3%83%bc%e8%bf%94%e4%bf%a1%e6%a9%9f%e8%83%bd%e9%96%8b%e5%a7%8b%ef%bc%81%e6%a0%bc%e5%ae%89sim%e3%81%af%e5%9b%ba%e5%ae%9a%e5%9b%9e%e7%b7%9a%e4%bb%a3%e3%82%8f/</guid>
+		<description><![CDATA[SKStoreReviewController
+https://developer.apple.com/reference/storekit/skstorereviewcontroller
+
+Wonderlink F
+https://ec-club.panasonic.jp/wonderlink/price/lte_f-series.html
+
+Try WiMAX
+http://www.uqwimax.jp/signup/trywimax/
+
+Try UQ mobile
+http://www.uqwimax.jp/signup/tryuqmobile/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/04/20/airsap_episode_6_20170412_rev1/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/31/s/feed/c/podcast/AirSap_episode_6_20170412_rev1.mp3" length="38429826" type="audio/mpeg"/>
+
+		<itunes:duration>00:00:00</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>iOS 10.3のリリースでApp Storeレビューのお願いや返信が可能に！固定回線が開通するまでのつなぎに格安SIMを使ってみたけど、結局…</itunes:subtitle>
+		<itunes:title>App Storeレビュー返信機能開始！格安SIMは固定回線代わりになるか？</itunes:title>
+		<itunes:episode>6</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>SKStoreReviewController
+https://developer.apple.com/reference/storekit/skstorereviewcontroller
+
+Wonderlink F
+https://ec-club.panasonic.jp/wonderlink/price/lte_f-series.html
+
+Try WiMAX
+http://www.uqwimax.jp/signup/trywimax/
+
+Try UQ mobile
+http://www.uqwimax.jp/signup/tryuqmobile/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+iOS 10.3のリリースでApp Storeレビューのお願いや返信が可能に！<br />
+固定回線が開通するまでのつなぎに格安SIMを使ってみたけど、結局…</p>
+<p>SKStoreReviewController<br />
+<a href="https://developer.apple.com/reference/storekit/skstorereviewcontroller">https://developer.apple.com/reference/storekit/skstorereviewcontroller</a></p>
+<p>Wonderlink F<br />
+<a href="https://ec-club.panasonic.jp/wonderlink/price/lte_f-series.html">https://ec-club.panasonic.jp/wonderlink/price/lte_f-series.html</a></p>
+<p>Try WiMAX<br />
+<a href="http://www.uqwimax.jp/signup/trywimax/">http://www.uqwimax.jp/signup/trywimax/</a></p>
+<p>Try UQ mobile<br />
+<a href="http://www.uqwimax.jp/signup/tryuqmobile/">http://www.uqwimax.jp/signup/tryuqmobile/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#5 Nintendo Switchがやってきた！ゼルダの第一印象とスプラトゥーン2への期待</title>
+		<link>http://airsap.net/2017/04/03/airsap_episode_5_20170324_rev3/</link>
+		<pubDate>Mon, 03 Apr 2017 12:45:44 +0000</pubDate>
+		<guid isPermaLink="false">http://vader.sakura.ne.jp/airsap/2017/04/03/5-nintendo-switch%e3%81%8c%e3%82%84%e3%81%a3%e3%81%a6%e3%81%8d%e3%81%9f%ef%bc%81%e3%82%bc%e3%83%ab%e3%83%80%e3%81%ae%e7%ac%ac%e4%b8%80%e5%8d%b0%e8%b1%a1%e3%81%a8%e3%82%b9%e3%83%97%e3%83%a9%e3%83%88/</guid>
+		<description><![CDATA[Nintendo Switch｜Nintendo
+https://www.nintendo.co.jp/hardware/switch/index.html
+
+ゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo
+https://www.nintendo.co.jp/zelda/
+
+Splatoon２｜Nintendo Switchソフト｜Nintendo
+https://www.nintendo.co.jp/software/switch/splatoon2/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/04/03/airsap_episode_5_20170324_rev3/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/32/s/feed/c/podcast/AirSap_episode_5_20170324_rev3.mp3" length="27596843" type="audio/mpeg"/>
+
+		<itunes:duration>00:00:00</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>@tqmy さんと一緒にNintendo Switchの話をしました。</itunes:subtitle>
+		<itunes:title>Nintendo Switchがやってきた！ゼルダの第一印象とスプラトゥーン2への期待</itunes:title>
+		<itunes:episode>5</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>Nintendo Switch｜Nintendo
+https://www.nintendo.co.jp/hardware/switch/index.html
+
+ゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo
+https://www.nintendo.co.jp/zelda/
+
+Splatoon２｜Nintendo Switchソフト｜Nintendo
+https://www.nintendo.co.jp/software/switch/splatoon2/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+@tqmy さんと一緒にNintendo Switchの話をしました。</p>
+<p>Nintendo Switch｜Nintendo<br />
+<a href="https://www.nintendo.co.jp/hardware/switch/index.html">https://www.nintendo.co.jp/hardware/switch/index.html</a></p>
+<p>ゼルダの伝説　ブレス オブ ザ ワイルド | Nintendo<br />
+<a href="https://www.nintendo.co.jp/zelda/">https://www.nintendo.co.jp/zelda/</a></p>
+<p>Splatoon２｜Nintendo Switchソフト｜Nintendo<br />
+<a href="https://www.nintendo.co.jp/software/switch/splatoon2/">https://www.nintendo.co.jp/software/switch/splatoon2/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#4 赤いiPhone登場！新型iPhone &#038; iPadの噂、iOSのUI談義など</title>
+		<link>http://airsap.net/2017/03/27/airsap_episode_4_20170324_rev4/</link>
+		<pubDate>Mon, 27 Mar 2017 13:27:31 +0000</pubDate>
+		<guid isPermaLink="false">http://vader.sakura.ne.jp/airsap/2017/03/27/4-%e8%b5%a4%e3%81%84iphone%e7%99%bb%e5%a0%b4%ef%bc%81%e6%96%b0%e5%9e%8biphone-ipad%e3%81%ae%e5%99%82%e3%80%81ios%e3%81%aeui%e8%ab%87%e7%be%a9%e3%81%aa%e3%81%a9/</guid>
+		<description><![CDATA[(PRODUCT)RED&#x2122; - iPhone 7 Special Edition - Apple
+http://www.apple.com/jp/product-red/]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/03/27/airsap_episode_4_20170324_rev4/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/33/s/feed/c/podcast/AirSap_episode_4_20170324_rev4.mp3" length="47941137" type="audio/mpeg"/>
+
+		<itunes:duration>00:00:00</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>今回は @tqmy さんを迎えて、iPhone 7 (PRODUCT)REDや次期iPhone・iPadの噂話、iOSの見えないUIなどについて話しました。</itunes:subtitle>
+		<itunes:title>赤いiPhone登場！新型iPhone &#038; iPadの噂、iOSのUI談義など</itunes:title>
+		<itunes:episode>4</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>(PRODUCT)RED&amp;#x2122; - iPhone 7 Special Edition - Apple
+http://www.apple.com/jp/product-red/</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+今回は @tqmy さんを迎えて、iPhone 7 (PRODUCT)REDや次期iPhone・iPadの噂話、iOSの見えないUIなどについて話しました。</p>
+<p>(PRODUCT)RED<img src="https://s.w.org/images/core/emoji/11.2.0/72x72/2122.png" alt="™" class="wp-smiley" style="height: 1em; max-height: 1em;" /> &#8211; iPhone 7 Special Edition &#8211; Apple<br />
+<a href="http://www.apple.com/jp/product-red/">http://www.apple.com/jp/product-red/</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#3 世界初のRealm書籍の著者と語る、Apple Payと札幌の交通系IC事情</title>
+		<link>http://airsap.net/2017/03/22/airsap_episode_2-2_20170322_rev5/</link>
+		<pubDate>Wed, 22 Mar 2017 13:05:51 +0000</pubDate>
+		<guid isPermaLink="false">http://vader.sakura.ne.jp/airsap/2017/03/22/3-%e4%b8%96%e7%95%8c%e5%88%9d%e3%81%aerealm%e6%9b%b8%e7%b1%8d%e3%81%ae%e8%91%97%e8%80%85%e3%81%a8%e8%aa%9e%e3%82%8b%e3%80%81apple-pay%e3%81%a8%e6%9c%ad%e5%b9%8c%e3%81%ae%e4%ba%a4%e9%80%9a%e7%b3%bbic/</guid>
+		<description><![CDATA[軽量・高速モバイルデータベース Realm入門
+http://gihyo.jp/book/2017/978-4-7741-8848-5]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/03/22/airsap_episode_2-2_20170322_rev5/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/34/s/feed/c/podcast/AirSap_episode_2-2_20170322_rev5.mp3" length="42429552" type="audio/mpeg"/>
+
+		<itunes:duration>00:00:00</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>3月11日発売の『軽量・高速モバイルデータベース Realm入門』を書いた菅原さんとApple Pay、札幌の交通系IC事情、北海道弁などの話をしました。</itunes:subtitle>
+		<itunes:title>世界初のRealm書籍の著者と語る、Apple Payと札幌の交通系IC事情</itunes:title>
+		<itunes:episode>3</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>軽量・高速モバイルデータベース Realm入門
+http://gihyo.jp/book/2017/978-4-7741-8848-5</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+3月11日発売の『軽量・高速モバイルデータベース Realm入門』を書いた菅原さんとApple Pay、札幌の交通系IC事情、北海道弁などの話をしました。</p>
+<p>軽量・高速モバイルデータベース Realm入門<br />
+<a href="http://gihyo.jp/book/2017/978-4-7741-8848-5">http://gihyo.jp/book/2017/978-4-7741-8848-5</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#2 世界初のRealm書籍の著者が語るRealmの魅力とtry! swift</title>
+		<link>http://airsap.net/2017/03/13/airsap_episode_2_20170310_rev2/</link>
+		<pubDate>Mon, 13 Mar 2017 12:57:32 +0000</pubDate>
+		<guid isPermaLink="false">http://vader.sakura.ne.jp/airsap/2017/03/13/2-%e4%b8%96%e7%95%8c%e5%88%9d%e3%81%aerealm%e6%9b%b8%e7%b1%8d%e3%81%ae%e8%91%97%e8%80%85%e3%81%8c%e8%aa%9e%e3%82%8brealm%e3%81%ae%e9%ad%85%e5%8a%9b%e3%81%a8try-swift/</guid>
+		<description><![CDATA[軽量・高速モバイルデータベース Realm入門
+http://gihyo.jp/book/2017/978-4-7741-8848-5
+
+iPhone Dev Sapporo勉強会 Mar, 2017
+https://devsap.connpass.com/event/51354/
+
+try! Swift
+https://www.tryswift.co/tokyo/jp]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/03/13/airsap_episode_2_20170310_rev2/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/35/s/feed/c/podcast/AirSap_episode_2_20170310_rev2.mp3" length="47833829" type="audio/mpeg"/>
+
+		<itunes:duration>01:06:25</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>3月11日発売の『軽量・高速モバイルデータベース Realm入門』を書いた菅原さんとRealm・技術書執筆・try! Swiftなどの話をしました。</itunes:subtitle>
+		<itunes:title>世界初のRealm書籍の著者が語るRealmの魅力とtry! swift</itunes:title>
+		<itunes:episode>2</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>軽量・高速モバイルデータベース Realm入門
+http://gihyo.jp/book/2017/978-4-7741-8848-5
+
+iPhone Dev Sapporo勉強会 Mar, 2017
+https://devsap.connpass.com/event/51354/
+
+try! Swift
+https://www.tryswift.co/tokyo/jp</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+3月11日発売の『軽量・高速モバイルデータベース Realm入門』を書いた菅原さんとRealm・技術書執筆・try! Swiftなどの話をしました。</p>
+<p>軽量・高速モバイルデータベース Realm入門<br />
+<a href="http://gihyo.jp/book/2017/978-4-7741-8848-5">http://gihyo.jp/book/2017/978-4-7741-8848-5</a></p>
+<p>iPhone Dev Sapporo勉強会 Mar, 2017<br />
+<a href="https://devsap.connpass.com/event/51354/">https://devsap.connpass.com/event/51354/</a></p>
+<p>try! Swift<br />
+<a href="https://www.tryswift.co/tokyo/jp">https://www.tryswift.co/tokyo/jp</a></p>
+]]></content:encoded>	
+	</item>
+		
+	<item>
+		<title>#1 今年のWWDCはSanJoseで開催！アプリ販売時の特商法、北海道あるあるなど</title>
+		<link>http://airsap.net/2017/02/28/airsap_episode_1_20170226_96kbps_mono_rev3/</link>
+		<pubDate>Tue, 28 Feb 2017 13:35:01 +0000</pubDate>
+		<guid isPermaLink="false">http://vader.sakura.ne.jp/airsap/2017/02/28/1-%e4%bb%8a%e5%b9%b4%e3%81%aewwdc%e3%81%afsanjose%e3%81%a7%e9%96%8b%e5%82%ac%ef%bc%81%e3%82%a2%e3%83%97%e3%83%aa%e8%b2%a9%e5%a3%b2%e6%99%82%e3%81%ae%e7%89%b9%e5%95%86%e6%b3%95%e3%80%81%e5%8c%97/</guid>
+		<description><![CDATA[WWDC 2017
+https://developer.apple.com/wwdc/
+
+日本で販売される App に関する条件。
+https://itunespartner.apple.com/jp/apps/news/79920317
+
+商品名：ガリガリ君リッチコーンポタージュ
+http://www.akagi.com/news/2012/120820.html]]></description>
+		<atom:link rel="http://podlove.org/deep-link" href="http://airsap.net/2017/02/28/airsap_episode_1_20170226_96kbps_mono_rev3/#" />
+		
+<enclosure url="http://airsap.net/podlove/file/36/s/feed/c/podcast/AirSap_Episode_1_20170226_96kbps_mono_rev3.mp3" length="32649015" type="audio/mpeg"/>
+
+		<itunes:duration>00:00:00</itunes:duration>
+		<itunes:author>AirSap</itunes:author>
+		<itunes:subtitle>北海道のiOSアプリ開発者の2人が話すPodcast。今年のWWDC会場であるSan JoseとApple Parkの位置についてや、日本でアプリを販売する際に必要となった特商法の話題から北海道あるあるなどを話します。</itunes:subtitle>
+		<itunes:title>今年のWWDCはSanJoseで開催！アプリ販売時の特商法、北海道あるあるなど</itunes:title>
+		<itunes:episode>1</itunes:episode>
+		<itunes:episodeType>full</itunes:episodeType>
+		<itunes:summary>WWDC 2017
+https://developer.apple.com/wwdc/
+
+日本で販売される App に関する条件。
+https://itunespartner.apple.com/jp/apps/news/79920317
+
+商品名：ガリガリ君リッチコーンポタージュ
+http://www.akagi.com/news/2012/120820.html</itunes:summary>
+		
+		<content:encoded><![CDATA[<p><br />
+北海道のiOSアプリ開発者の2人が話すPodcast</p>
+<p>今年のWWDC会場であるSan JoseとApple Parkの位置についてや<br />
+日本でアプリを販売する際に必要となった特商法の話題から<br />
+北海道あるあるなどを話します。</p>
+<p>WWDC 2017<br />
+<a href="https://developer.apple.com/wwdc/">https://developer.apple.com/wwdc/</a></p>
+<p>日本で販売される App に関する条件。<br />
+<a href="https://itunespartner.apple.com/jp/apps/news/79920317">https://itunespartner.apple.com/jp/apps/news/79920317</a></p>
+<p>商品名：ガリガリ君リッチコーンポタージュ<br />
+<a href="http://www.akagi.com/news/2012/120820.html">http://www.akagi.com/news/2012/120820.html</a></p>
+]]></content:encoded>	
+	</item>
+	</channel>
+</rss>

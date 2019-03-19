@@ -1,0 +1,1171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:dc="http://purl.org/dc/elements/1.1/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:trackback="http://madskills.com/public/xml/rss/module/trackback/">
+  <channel>
+    <title>わしポ (Washipo)</title>
+    <link>https://washipo.nyoho.jp</link>
+    <description>わしポは、わし、Nyohoの興味のあることに絞った内容のポッドキャストです。#如法会 のポッドキャスト版といった印象です。</description>
+    <language>ja</language>
+    <copyright>All rights reserved</copyright>
+    <webMaster>algebraicallyClosedField@gmail.com</webMaster>
+    <pubDate>Tue, 01 Nov 2016 00:00:00 +0000</pubDate>
+    <lastBuildDate>Tue, 01 Nov 2016 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://washipo.nyoho.jp/images/artwork.jpg</url>
+      <title>わしポ (Washipo)</title>
+      <link>https://washipo.nyoho.jp</link>
+    </image>
+    <item>
+      <title>10: Make the cover of your book a close-up of you whose forehead reads “DB” (soudai)</title>
+      <link>https://washipo.nyoho.jp/10/</link>
+      <description>&lt;p&gt;そーだいさんをゲストに迎えて、オミカレCTO就任(リターン)やPostgreSQLや初著書について話しました。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;p&gt;音声が良くないところがあります。すみま千円札。&lt;/p&gt;
+
+&lt;h4&gt;はてなからオミカレへ&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hatena.ne.jp/&quot;&gt;はてな&lt;/a&gt;から&lt;a href=&quot;https://party-calendar.net/&quot;&gt;オミカレ&lt;/a&gt; (CTO) に&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://party-calendar.net&quot;&gt;株式会社オミカレ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mackerel.io&quot;&gt;Mackerel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://soudai.hatenablog.com/entry/2018/03/26/190000&quot;&gt;そーだいさんの転職のお知らせ - そーだいなるらくがき帳&lt;/a&gt; (2018/03/26)
+&lt;ul&gt;
+&lt;li&gt;a player → a manager (challenage)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://soudai.hatenablog.com/entry/2018/10/10/095616&quot;&gt;CTOを始めて半年経ったので振り返る - そーだいなるらくがき帳&lt;/a&gt; (2018/10/10)&lt;/li&gt;
+&lt;li&gt;チーム作り&lt;/li&gt;
+&lt;li&gt;オミカレのサーバは20台ちょっと
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.zabbix.com/&quot;&gt;Zabbix&lt;/a&gt; のグラフ: ようわからん&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mackerel.io&quot;&gt;Mackerel&lt;/a&gt; のグラフ: 見てくれる・わかる&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;デプロイにもMackerelが便利&lt;/li&gt;
+&lt;li&gt;EC2 インスタンス生成中ビルド中のはのけて&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/%E3%82%AA%E3%83%9F%E3%82%AB%E3%83%AC/id1437755356?mt=8&quot;&gt;‎オミカレ (iOSアプリ)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;オミカレに帰ってきて&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;デザイナが欲しい&lt;/li&gt;
+&lt;li&gt;2-pane, 3-pane, inifinity scroll, お気に入りに入れる&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bloomberg.co.jp/news/articles/2018-04-26/P7QP2M6JTSEL01&quot;&gt;スクロールするだけでURLも変わるBloombergのページ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;オミカレのDB&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://employment.en-japan.com/engineerhub/entry/2018/12/11/110000&quot;&gt;DBの寿命はアプリより長い！ 長生きするDBに必要な設計とリファクタリングを実践から学ぶ - エンジニアHub&lt;/a&gt; &quot;曽根壮大（soudai）さんによる寄稿です。&quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;Gatsby&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/xiaoxinghu/gatsby-orga&quot;&gt;xiaoxinghu/gatsby-orga: Gatsby starter website with org-mode&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/dms/&quot;&gt;AWS Database Migration Service (DMS)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;PostgreSQL 9.6 から 10 に移行するときとかでも使える。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/new/reinvent/&quot;&gt;AWS re:Invent 2018 で発表された新サービスと機能 | AWS&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://party-calendar.net/soudan/&quot;&gt;結婚相談所情報ポータルサイト - オミカレ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nyoho.jp/&quot;&gt;nyoho.jp&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://nyoho.jp/diary/&quot;&gt;https://nyoho.jp/diary/&lt;/a&gt; (reverse proxy)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nyoho.jp/wiki/&quot;&gt;https://nyoho.jp/wiki/&lt;/a&gt; (reverse proxy)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://imgur.com/a/Db0Smqk&quot;&gt;「リバースプロキシは、初期マイクロサービス。」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;オミカレはPHPでAPIはDjango&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://laravel.jp/&quot;&gt;Laravel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;そーだい「(Laravelは)受託開発としては流行るであろう」(2018年12月28日)
+&lt;ul&gt;
+&lt;li&gt;数年後に検証する。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;プログラマの多様性・エンジニアの基礎体力&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.webopedia.com/TERM/M/message_passing.html&quot;&gt;What is message passing?&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9D%E3%82%A4%E3%83%B3%E3%82%BF_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)&quot;&gt;ポインタ (プログラミング) - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blogs.oracle.com/oraclemagazine/working-with-cursors&quot;&gt;Working with Cursors | Oracle Magazine&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;PostgreSQL&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/2QWpgKY&quot;&gt;WEB+DB PRESS Vol.108&lt;/a&gt; (&lt;a href=&quot;https://gihyo.jp/magazine/wdpress/archive/2019/vol108&quot;&gt;技術評論社&lt;/a&gt;)
+&lt;ul&gt;
+&lt;li&gt;特集2「詳解PostgreSQL ［10/11対応］現場で役立つ新機能と実践知識」がなんと第1章から第4章まで全部曽根壮大&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/Nyoho/rhymer&quot;&gt;Nyoho/rhymer: 珠玉のダジャレ生成プロジェクトレポジトリ Rhymer&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;indexでやってみる (前方一致なので使える)&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;COPY&lt;/code&gt; が 10 か 11 から pararell query になっている&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;SELECT&lt;/code&gt; は 9.6 から pararell query がある。ただ index を使うようになったのは最近なので9より速くなっている可能性がある。&lt;/li&gt;
+&lt;li&gt;default = 2 CPUのコア数を見て、コア数にあわせる&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.docker.com/2013/10/dotcloud-is-becoming-docker-inc/&quot;&gt;dotCloud, Inc. is Becoming Docker, Inc. - Docker Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.docker.com/docker-news-and-press/dotcloud-inc-now-docker-inc&quot;&gt;dotCloud, Inc. is now Docker, Inc. | Docker&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;データベースの本、執筆中だそうです!&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/10/&quot;&gt;https://washipo.nyoho.jp/10/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep10%20https://washipo.nyoho.jp/10/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/10.mp3"
+        length="36526079"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 21 Jan 2019 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>そーだいさんをゲストに迎えて、オミカレCTO就任(リターン)やPostgreSQLや初著書について話しました。</itunes:subtitle>
+      <itunes:duration>01:16:05</itunes:duration>
+    </item>
+    <item>
+      <title>9: Kinsai PyCon mini Hiroshima (nishimotz)</title>
+      <link>https://washipo.nyoho.jp/9/</link>
+      <description>&lt;p&gt;にしもつ(西本)さんと、PyCon mini Hiroshima 2018 の話を中心にして Python、アクセシビリティ、多田くんは恋をしないなどについて語りました。企業パトロンも募集中です。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;h4&gt;オープニング&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://hiroshima.pycon.jp/&quot;&gt;PyCon mini Hiroshima – すごいPython 広島で流行らせよう!&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;2018年10月6日(土) / 広島大学東千田未来創生センター&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pyconjp.connpass.com/event/91821/&quot;&gt;チケット購入 (connpass)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://goo.gl/forms/dEqtdJSvoM2F1a0D2&quot;&gt;講演申込&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pycon.jp/2018/&quot;&gt;PyCon JP 2018&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;西本卓也さん (Takuya Nishimoto)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/24motz&quot;&gt;Twitter @24motz&lt;/a&gt; (日本語)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/nishimotz&quot;&gt;Twitter @nishimotz&lt;/a&gt; (English)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/nishimotz&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://shuaruta.com/&quot;&gt;shuaruta (株式会社シュアルタ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://accsell.net/podcast/0140.html&quot;&gt;ポッドキャスト AccSell にしもつさん出演回 (第140回: 「こういうもの俺自分で作らなくて良い時代になったんだ」)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nvda.jp/&quot;&gt;NVDA日本語版&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;NVDAと人間翻訳と機械翻訳と中間表現&lt;/li&gt;
+&lt;li&gt;webの技術とネイティヴAPIとアプリケーションの話&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://washipo.nyoho.jp/8/&quot;&gt;8: An interpreter has seen them (mikarin) - わしポ (Washipo)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;PyCon mini Hiroshima 2018&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/haru860&quot;&gt;佐藤治夫(@haru860)さん (Twitter)&lt;/a&gt; (&lt;a href=&quot;https://www.beproud.jp/&quot;&gt;株式会社ビープラウド&lt;/a&gt;社長)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://connpass.com&quot;&gt;connpass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pyq.jp/&quot;&gt;PyQ - 本気でプログラミングを学びたい人のPythonオンライン学習サービス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/885220&quot;&gt;【基調講演】人・組織・Python エンジニアのための会社を作るための取り組み #PyConJP_C #pyconjp - Togetter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hiroshima.pycon.jp/speaker/bleu48/&quot;&gt;芝世弐&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://home.hiroshima-u.ac.jp/tamaki/index-j.html&quot;&gt;玉木徹 Toru Tamaki&lt;/a&gt; 玉木徹 (広島大学)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.morikita.co.jp/books/book/3155&quot;&gt;Pythonで体験するベイズ推論 PyMCによるMCMC入門 | 森北出版株式会社&lt;/a&gt; 玉木徹訳&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://qiita.com/tttamaki&quot;&gt;tttamaki - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sakematsuri.com/&quot;&gt;酒まつり&lt;/a&gt; 2018年10月6日7日 (毎年10月に東広島市西条駅周辺で開催)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;広島でのPyCon miniの歴史&lt;/h4&gt;
+&lt;p&gt;[0:34:23]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;PyCon mini Hiroshima&lt;/li&gt;
+&lt;li&gt;第1回
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.pyq.jp/entry/lives_of_engineer_003_0&quot;&gt;石本敦夫氏に聞く、Pythonの歴史とこれから〜Pythonエンジニア列伝 Vol.3 - PyQオフィシャルブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/2xjCbKd&quot;&gt;石本敦夫『Python文法詳解』&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/2xjD71b&quot;&gt;パーフェクトPython&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;第2回
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.hiroshima-cu.ac.jp/&quot;&gt;広島市立大学&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://iotlt.connpass.com/&quot;&gt;IoTLT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/ESP8266&quot;&gt;ESP8266 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/27385633/what-is-the-symbol-for-in-python&quot;&gt;What is the '@=' symbol for in Python? - Stack Overflow&lt;/a&gt; &quot;The @ operator was introduced in Python 3.5.&quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/kondoyuko/status/1039841227061903361&quot;&gt;近藤佑子さんのツイート: &quot;Pythonの本いっぱい出てるなーって思ってみてたらすごい本見つけた… &quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/2MDNvXr&quot;&gt;河合達志『歯科医療従事者のための あっ！動いた！楽しくプログラミング: Python入門編』&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://rubykaigi.org/2017&quot;&gt;RubyKaigi 2017&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://rubykaigi.org/2017/presentations/nishimotz.html&quot;&gt;Takuya Nishimoto / What visually impaired programmers are thinking about Ruby?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://great-h.github.io/&quot;&gt;すごい広島&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;第3回が今回&lt;/li&gt;
+&lt;li&gt;2018年が広島でPythonが流行った元年&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;次回にしもつ回予告&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://shuaruta.com/&quot;&gt;shuaruta (株式会社シュアルタ)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;シュアルタの「ア」「ル」「タ」は家族の頭文字&lt;/li&gt;
+&lt;li&gt;音のこだわり&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://amzn.to/2MB3Yvp&quot;&gt;Amazon Echo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tadakoi.tv/&quot;&gt;多田くんは恋をしない&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q=%E3%81%AD%E3%81%AD%E3%81%A3%E3%81%A1&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8&quot;&gt;ねねっち - Google 検索&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/9/&quot;&gt;https://washipo.nyoho.jp/9/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep9%20https://washipo.nyoho.jp/9/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/9.mp3"
+        length="42006778"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 16 Sep 2018 21:30:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>にしもつ(西本)さんと、PyCon mini Hiroshima 2018 の話を中心にして Python、アクセシビリティ、多田くんは恋をしないなどについて語りました。企業パトロンも募集中です。</itunes:subtitle>
+      <itunes:duration>00:58:20</itunes:duration>
+    </item>
+    <item>
+      <title>8: An interpreter has seen them (mikarin)</title>
+      <link>https://washipo.nyoho.jp/8/</link>
+      <description>&lt;p&gt;みかりんさんをゲストに迎えて、通訳者のお仕事、IT業界、SIer、アジャイル、DevOps、機械翻訳、「好きなことと仕事」などについて話しました。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/m_mikako&quot;&gt;宮原 美佳子(@m_mikako)さん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://peacelink.jp/&quot;&gt;ピースリンク通訳事務所&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0&quot;&gt;メインフレーム - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Deposition (証言録取)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.fda.gov/&quot;&gt;U S Food and Drug Administration (FDA)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Good_manufacturing_practice&quot;&gt;Good manufacturing practice - Wikipedia&lt;/a&gt; (適正製造基準)&lt;/li&gt;
+&lt;li&gt;監査を受ける会社から仕事を受ける&lt;/li&gt;
+&lt;li&gt;sight translation&lt;/li&gt;
+&lt;li&gt;「記憶を補助しているものって理論なんですよね」&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rubykaigi.org/2017&quot;&gt;RubyKaigi 2017&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://rubykaigi.org/2017/schedule&quot;&gt;Schedule - RubyKaigi 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;パネルディスカッションの同時通訳は大変なんですよ〜&lt;/li&gt;
+&lt;li&gt;通訳の仕事
+&lt;ul&gt;
+&lt;li&gt;逐次通訳 (ポーズを取るあれ)&lt;/li&gt;
+&lt;li&gt;同時通訳
+&lt;ul&gt;
+&lt;li&gt;ウィスパリング通訳&lt;/li&gt;
+&lt;li&gt;普通の同時通訳&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;2人でやる。長いのは3人体制でやる。&lt;/li&gt;
+&lt;li&gt;30分休憩なんてすぐ経つ&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ed.ted.com/lessons/how-interpreters-juggle-two-languages-at-once-ewandro-magalhaes&quot;&gt;How interpreters juggle two languages at once - Ewandro Magalhaes | TED-Ed&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;有限の時間内にどこをどこまで準備するか&lt;/li&gt;
+&lt;li&gt;読み上げさせるアプリを通訳の事前準備に使う&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/BIM&quot;&gt;Building Information Modeling (BIM) - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%87%E3%82%A3%E3%83%9E%E3%82%B9%E6%8C%87%E6%95%B0&quot;&gt;ボディマス指数 - Wikipedia&lt;/a&gt; (BMI)&lt;/li&gt;
+&lt;li&gt;SIer (&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E3%82%A4%E3%83%B3%E3%83%86%E3%82%B0%E3%83%AC%E3%83%BC%E3%82%BF%E3%83%BC&quot;&gt;システムインテグレーター - Wikipedia&lt;/a&gt;)
+&lt;ul&gt;
+&lt;li&gt;SIerの存在意義は何か&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.peacelink.jp/&quot;&gt;広島通訳 Talk! Talk! Talk!&lt;/a&gt; (これは今)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%87%E3%82%AA%E3%83%87%E3%82%AA&quot;&gt;デオデオ - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/DevOps&quot;&gt;DevOps - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://agilemanifesto.org/iso/ja/manifesto.html&quot;&gt;アジャイルソフトウェア開発宣言&lt;/a&gt; (&lt;a href=&quot;http://agilemanifesto.org/&quot;&gt;Manifesto for Agile Software Development&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;海外から見たら、日本に仕事を持ってこようと思ったら日本の大手のSIerにアプローチせざるを得ない&lt;/li&gt;
+&lt;li&gt;日本のSIerは waterfall 形式の開発しかできない&lt;/li&gt;
+&lt;li&gt;SIerの営業ですら「DevOpsって何」と言っている人がいた&lt;/li&gt;
+&lt;li&gt;改善 Kaizen&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://e-words.jp/w/RFI.html&quot;&gt;RFI（情報提供依頼書）とは - IT用語辞典&lt;/a&gt; (request for information)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://e-words.jp/w/RFP.html&quot;&gt;RFP（提案依頼書）とは - IT用語辞典&lt;/a&gt; (request for proposal)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://e-words.jp/w/RFQ.html&quot;&gt;RFQ（見積依頼書）とは - IT用語辞典&lt;/a&gt; (request for quotation)&lt;/li&gt;
+&lt;li&gt;「社風から変えてきましょう」&lt;/li&gt;
+&lt;li&gt;Docker container (発音がいい)&lt;/li&gt;
+&lt;li&gt;毎年キーワードがある
+&lt;ul&gt;
+&lt;li&gt;仮想化&lt;/li&gt;
+&lt;li&gt;文化&lt;/li&gt;
+&lt;li&gt;オートメーション (2017年)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.ibm.com/watson/jp-ja/what-is-watson.html&quot;&gt;IBM Watson: Watson とは? (IBM Japan)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.tensorflow.org/&quot;&gt;TensorFlow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ロボット (操作手順を記録したものから操作のミスや不具合を自動検出するなど)&lt;/li&gt;
+&lt;li&gt;FAQ&lt;/li&gt;
+&lt;li&gt;チャットサービス (問い合わせなど)&lt;/li&gt;
+&lt;li&gt;SNSとの連携 (自社サービスへの言及を拾って、positive/negativeを自動判定・解析)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nyohokai.wikihub.io/&quot;&gt;如法会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(真摯に対応してくれてトラブルがあったけど気持ちよく解決したときには)「すっごい褒めるようにしてます」&lt;/li&gt;
+&lt;li&gt;通訳者さんはぼけないとよく聞く&lt;/li&gt;
+&lt;li&gt;通訳必需グッズ
+&lt;ul&gt;
+&lt;li&gt;双眼鏡&lt;/li&gt;
+&lt;li&gt;キッチンタイマ&lt;/li&gt;
+&lt;li&gt;マイイヤフォン&lt;/li&gt;
+&lt;li&gt;ルーペ&lt;/li&gt;
+&lt;li&gt;水&lt;/li&gt;
+&lt;li&gt;ポストイット&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;iPad などで &quot;slow down&quot; と出す&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://translate.google.com/&quot;&gt;Google 翻訳&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://support.microsoft.com/ja-jp/gp/machine-translation-corrections/ja&quot;&gt;Microsoft サポート技術情報の機械翻訳&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Skype翻訳 &lt;a href=&quot;https://support.skype.com/ja/faq/FA34542/skypefan-yi-woshe-ding-shiteshi-yong-surufang-fa-wojiao-etekudasai&quot;&gt;Skype翻訳を設定して使用する方法を教えてください。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;高レベルの通訳者しかこの先生きのこれないだろう&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jp.sputniknews.com/world/201708013947295/&quot;&gt;独自言語を開発して会話を始めたロボット、フェイスブックが停止 - Sputnik 日本&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://news.mynavi.jp/news/2017/08/02/073/&quot;&gt;独自言語で会話を始めた人工知能ロボット - Facebook | マイナビニュース&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;「身体性」&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2zROi0r&quot;&gt;日本人の9割に英語はいらない (祥伝社黄金文庫)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://anond.hatelabo.jp/20170804223333&quot;&gt;会社でSlack使ってたらブチ切れられて案件まで降ろされた。&lt;/a&gt; (もう消えている)&lt;/li&gt;
+&lt;li&gt;提言「ビジネスで言うときのコミュ障って何」&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.gartner.com/&quot;&gt;Gartner Inc.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/minminpong&quot;&gt;日野　峰子(@minminpong)さん | Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.issnet.co.jp/?eid=105&quot;&gt;講師インタビュー 第5回：　日野峰子先生（英語通訳） | ISSスクールブログ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/8/&quot;&gt;https://washipo.nyoho.jp/8/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep8%20https://washipo.nyoho.jp/8/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/8.mp3"
+        length="119304881"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 31 Dec 2017 22:00:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>みかりんさんをゲストに迎えて、通訳者のお仕事、IT業界、SIer、アジャイル、DevOps、機械翻訳、「好きなことと仕事」などについて話しました。</itunes:subtitle>
+      <itunes:duration>02:45:42</itunes:duration>
+    </item>
+    <item>
+      <title>Aftershow 7: A beat 'em up game player by profession (soudai)</title>
+      <link>https://washipo.nyoho.jp/7a/</link>
+      <description>&lt;p&gt;そーだいさんをゲストに迎えて、格闘ゲームなどについて話しました。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://game.snk-corp.co.jp/official/kof-xiv/&quot;&gt;THE KING OF FIGHTERS XIV | PlayStation®4 | SNK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BCIII&quot;&gt;ストリートファイターIII - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BCII&quot;&gt;ストリートファイターII - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dic.nicovideo.jp/a/%E3%82%B9%E3%83%88%E3%83%AA%E3%83%BC%E3%83%88%E3%83%95%E3%82%A1%E3%82%A4%E3%82%BF%E3%83%BCii&quot;&gt;ストリートファイターIIとは (ストリートファイターツーとは) {単語記事} - ニコニコ大百科&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://snk.wikia.com/wiki/Nakoruru&quot;&gt;Nakoruru&lt;/a&gt; user&lt;/li&gt;
+&lt;li&gt;ゲーセンなくなっていく広島&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/line-%E3%83%87%E3%82%A3%E3%82%BA%E3%83%8B%E3%83%BC-%E3%83%84%E3%83%A0%E3%83%84%E3%83%A0/id724594093?mt=8&quot;&gt;ツムツム&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pokemongo.nianticlabs.com/ja/&quot;&gt;Pokémon GO&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2nRRvqA&quot;&gt;Splatoon (スプラトゥーン)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://rebuild.fm/people/higepon/&quot;&gt;Rebuild: Taro Minowa Higepon (higepon)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/7a/&quot;&gt;https://washipo.nyoho.jp/7a/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep7a%20https://washipo.nyoho.jp/7a/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/7a.mp3"
+        length="10033528"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 10 Apr 2017 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>そーだいさんをゲストに迎えて、格闘ゲームなどについて話しました。</itunes:subtitle>
+      <itunes:duration>00:13:56</itunes:duration>
+    </item>
+    <item>
+      <title>7: From ちゅーごくちほー to かんとーちほー (?) (soudai)</title>
+      <link>https://washipo.nyoho.jp/7/</link>
+      <description>&lt;p&gt;そーだいさんをゲストに迎えて、はてなへの転職やMackerelやPostgreSQL 10やPHP 7について話しました。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/soudai1025/&quot;&gt;そーだい＠初代ALF(@soudai1025)さん | Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;はてなへの転職の話&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Chief_technology_officer&quot;&gt;Chief technology officer, chief technical officer (CTO)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.hatena.ne.jp/&quot;&gt;はてな&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pepabo.com/&quot;&gt;GMOペパボ株式会社&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://kentarok.org/&quot;&gt;あんちぽ (栗林健太郎)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mackerel.io/ja/&quot;&gt;Mackerel（マカレル）: 新世代のサーバ管理・監視ツール&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://mackerel.io/ja/blog/&quot;&gt;Mackerel ブログ #mackerelio&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.twilio.com/&quot;&gt;twilio&lt;/a&gt; (プログラム的に電話かけるやつ)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tech.mercari.com/entry/2016/11/14/120000&quot;&gt;監視だけじゃない！デプロイにMackerelを使う話 - Mercari Engineering Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://oss.oetiker.ch/mrtg/&quot;&gt;MRTG&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://my-netdata.io/&quot;&gt;NetData&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://newrelic.com/&quot;&gt;New Relic&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/niwatako&quot;&gt;にわタコ(@niwatako)さん | Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;社員食堂ではなく、まかないランチがある。
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://entabe.jp/news/gourmet/10767/hatena-free-lunch&quot;&gt;「はてな」の社食がすごいらしいので食べに行ってみた！これが毎日タダ…だと…？ - 表参道/社員食堂 {えん食べ}&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://liginc.co.jp/life/gogo/food/62548&quot;&gt;株式会社はてなの福利厚生、「まかないランチ」を頂いてみた | 株式会社LIG&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;週6〜7日ペースで飲み会&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://soudai.hatenablog.com/entry/2017/01/14/142131&quot;&gt;早くチームにマッチするために気をつけてる事 - そーだいなるらくがき帳&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%96%E3%83%AB%E3%83%83%E3%82%AF%E3%82%B9%E3%81%AE%E6%B3%95%E5%89%87&quot;&gt;ブルックスの法則 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://kemono-friends.jp/&quot;&gt;けものフレンズプロジェクト&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;「君はperlが得意なフレンズなんだね! すごーい!」&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://b.hatena.ne.jp/&quot;&gt;はてなブックマーク&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/masutaka/emacs-helm-hatena-bookmark&quot;&gt;masutaka/emacs-helm-hatena-bookmark&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.careerhigh.jp/entry/2017/03/20/210000&quot;&gt;【新入社員向け】入社前に覚えてほしい初心者向けExcel(エクセル)関数＋表の作り方+ショートカット - 20代~30代のキャリアを考えるブログ&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/NeXTSTEP2OSX/status/844005714502672384&quot;&gt;「わしが覚えて欲しいのは「ExcelでやらなくていいことをExcelでやろうとしないこと」だけじゃ」&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;PostgreSQLの話&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;9 -&amp;gt; 10
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wiki.postgresql.org/wiki/PostgreSQL10_Roadmap&quot;&gt;PostgreSQL10 Roadmap - PostgreSQL wiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;レプリケーションの種類が増える
+&lt;ul&gt;
+&lt;li&gt;論理レプリケーション
+&lt;ul&gt;
+&lt;li&gt;query-based&lt;/li&gt;
+&lt;li&gt;binary compatibility が関係ない&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;停止する時間が数秒ぐらいでバージョンアップ(version 10 -&amp;gt; version 11 など)ができるようになる&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;(設計の)自由度が一気に上がる&lt;/li&gt;
+&lt;li&gt;secondary index
+&lt;ul&gt;
+&lt;li&gt;update すると、PostgreSQLは追記型だから番地が変わってしまう。&lt;/li&gt;
+&lt;li&gt;そこで secondary index で update のコストをぐっと減らせる&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;パラレルクエリ
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.postgresql.jp/document/9.6/html/parallel-query.html&quot;&gt;第15章 パラレルクエリ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;メニーコアで分担してあとでがっちゃんこ&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;日本PostgreSQLユーザ会中国支部長が曽根壮大(そーだい)から &lt;a href=&quot;https://twitter.com/ikkitang&quot;&gt;takahashi (26) さん (イルカ＠新米プログラマー(@ikkitang)さん) &lt;/a&gt;へ
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.postgresql.jp/npo/director/&quot;&gt;日本 PostgreSQLユーザ会: 理事・事務局名簿 — NPO法人 日本PostgreSQLユーザ会&lt;/a&gt; まだなってない (&lt;span class=&quot;timestamp-wrapper&quot;&gt;&lt;span class=&quot;timestamp&quot;&gt;&amp;lt;2017-03-30 Thu&amp;gt;&lt;/span&gt;&lt;/span&gt;)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;「環境が人を育てる」(そーだい, 2017)&lt;/li&gt;
+&lt;li&gt;「ポジションが人を育てる」(そーだい, 2017)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2nNCzNY&quot;&gt;WEB+DB PRESS&lt;/a&gt; (雑誌)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2oiVnlR&quot;&gt;SOFTWARE DESIGN&lt;/a&gt; (雑誌)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://soudai1025.blogspot.jp/2016/09/postgresql-software-design-10.html&quot;&gt;PostgreSQLの新しい教科書 ~ Software Design 10月号の特集記事を書きました ~ (旧・そーだいなるらくがき帳)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://postgresql-hackers-jp.herokuapp.com/&quot;&gt;postgresql-jp の Slack に入るところ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;8 -&amp;gt; 9
+&lt;ul&gt;
+&lt;li&gt;レプリケーション&lt;/li&gt;
+&lt;li&gt;速くなった&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://oss.sios.com/yorozu-blog/2114-10-23-postgresql&quot;&gt;PostgreSQL 9.4 新機能の概要 (1) — | サイオスOSS | サイオステクノロジー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://soudai1025.blogspot.jp/2015/12/postgresql-95.html&quot;&gt;旧・そーだいなるらくがき帳: あなたとPostgreSQL 9.5、今すぐダウンロード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;データベースやサービスの replace の話&lt;/li&gt;
+&lt;li&gt;trigger とか start procesure とか使ってないなら dump して新しいのに入れてもたぶん動く&lt;/li&gt;
+&lt;li&gt;サービスの replace はまた別の観点がある&lt;/li&gt;
+&lt;li&gt;サービスの中で何を「やらないか」を考えることが大事&lt;/li&gt;
+&lt;li&gt;「捨てること」大事&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;最近のPHP事情&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;6はなくなられた。
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=8786919&quot;&gt;What happened to PHP 6? | Hacker News&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.concrete5.org/&quot;&gt;concrete5&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;PHP 7はかなり速くなった&lt;/li&gt;
+&lt;li&gt;「ザクが緑から赤になるぐらい」&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/nayuneko/items/752688aee699da907d2f&quot;&gt;PHP7って本当に速いの？ - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://php.net/manual/ja/migration71.new-features.php&quot;&gt;PHP 7.1の新機能&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;nullable な型&lt;/li&gt;
+&lt;li&gt;例えば ?string と書く。&lt;/li&gt;
+&lt;li&gt;そーだい「Javaっぽい」&lt;/li&gt;
+&lt;li&gt;わし「Swiftっぽい」&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;ちゅーごくちほー&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.postgresql.jp/branch/chugoku/index_html&quot;&gt;中国支部 — NPO法人 日本PostgreSQLユーザ会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dbstudychugoku.github.io/&quot;&gt;中国地方DB勉強会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dbstudychugoku.github.io/events/event-020.html&quot;&gt;第20回 中国地方DB勉強会 in 岡山&lt;/a&gt; 2017年04月08日(土) 13:00 - 18:00&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://okayama.open-seminar.org/&quot;&gt;オープンセミナー2017@岡山 (略してOSO)&lt;/a&gt; 2017年5月13日(土) 10:00 - 17:40
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://okayama.open-seminar.org/timetable.html&quot;&gt;タイムテーブル・セッション内容&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/7/&quot;&gt;https://washipo.nyoho.jp/7/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep7%20https://washipo.nyoho.jp/7/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/7.mp3"
+        length="60553822"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 30 Mar 2017 10:00:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>そーだいさんをゲストに迎えて、はてなへの転職やMackerelやPostgreSQL 10やPHP 7について話しました。</itunes:subtitle>
+      <itunes:duration>01:24:06</itunes:duration>
+    </item>
+    <item>
+      <title>Aftershow 6: The anime otakus who are actually watching Kemono Friends (eiel)</title>
+      <link>https://washipo.nyoho.jp/6a/</link>
+      <description>&lt;p&gt;えいる/ひむひむさんをゲストに迎えて、2017年冬アニメや、SUPER MARIO RUN、Switchなどのゲームについて話していたら、いつの間にかHTMLのカスタムエレメントやQiitaやStack Overflowについて話していました。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://demichan.com/&quot;&gt;亜人ちゃんは語りたい&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://gabdro.com/&quot;&gt;ガヴリールドロップアウト&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;設定の勝利&lt;/li&gt;
+&lt;li&gt;癒やし度も高い&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://kemono-friends.jp/&quot;&gt;けものフレンズプロジェクト&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;どのぐらいの人が本当に第2話以降も見ているのか疑惑&lt;/li&gt;
+&lt;li&gt;次回予告は原稿ないんじゃないかという感じでとてもよい&lt;/li&gt;
+&lt;li&gt;ペンギンもだいたいみんなかわいい&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gentoo.org/&quot;&gt;Gentoo Penguin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%A6%E3%81%95%E3%81%90%E3%82%8C!%E9%83%A8%E6%B4%BB%E3%82%82%E3%81%AE&quot;&gt;てさぐれ!部活もの&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://maidragon.jp/&quot;&gt;小林さんちのメイドラゴン&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/WYS_/status/829346001840267265&quot;&gt;Python使い小林さん (@WYS_)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/webpy/webpy/blob/master/web/session.py&quot;&gt;webpy/session.py at master · webpy/webpy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.nec-solutioninnovators.co.jp/&quot;&gt;NECソリューションイノベータ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://pyconjp.connpass.com/event/50095/&quot;&gt;Python Boot Camp in 広島 - connpass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.gnu.org/software/emacs/&quot;&gt;GNU Emacs - GNU Project&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://g-tekketsu.com/&quot;&gt;機動戦士ガンダム 鉄血のオルフェンズ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.ao-ex.com/&quot;&gt;青の祓魔師 京都不浄王篇&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://tv.littlewitchacademia.jp/&quot;&gt;リトルウィッチアカデミア&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.st-trigger.co.jp/&quot;&gt;TRIGGER Inc. (アニメーションスタジオ 株式会社トリガー)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%89%8B%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E8%82%B2%E6%88%90%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88&quot;&gt;若手アニメーター育成プロジェクト - Wikipedia&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E8%8B%A5%E6%89%8B%E3%82%A2%E3%83%8B%E3%83%A1%E3%83%BC%E3%82%BF%E3%83%BC%E8%82%B2%E6%88%90%E3%83%97%E3%83%AD%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88#.E3.82.A2.E3.83.8B.E3.83.A1.E3.83.9F.E3.83.A9.E3.82.A42013.EF.BC.882012.E5.B9.B4.E5.BA.A6.EF.BC.89&quot;&gt;アニメミライ2013（2012年度）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://masamune-tv.com/&quot;&gt;政宗くんのリベンジ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rakugo-shinju-anime.jp/&quot;&gt;昭和元禄落語心中 —助六再び篇—&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://sao-movie.net/&quot;&gt;劇場版 ソードアート・オンライン -オーディナル・スケール-&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://supermariorun.com/&quot;&gt;スーパーマリオ ラン | 任天堂&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2mO3etw&quot;&gt;Nintendo Switch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2mO4KMl&quot;&gt;ゼルダの伝説 ブレス オブ ザ ワイルド&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://fire-emblem-heroes.com/ja/&quot;&gt;ファイアーエムブレム ヒーローズ | Nintendo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2mVc3Cs&quot;&gt;PSVR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2mO71XA&quot;&gt;VIVE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E3%83%9C%E3%83%BC%E3%82%A4&quot;&gt;バーチャルボーイ &lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2mVnY2Z&quot;&gt;ハコスコ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://aframe.io/&quot;&gt;A-Frame&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/eiel/-98&quot;&gt;&amp;lt;ハ-ドル低めカスタムエレメントの始め方 &lt;i&gt;&amp;gt; /&lt;/i&gt; Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.w3.org/TR/custom-elements/&quot;&gt;Custom Elements&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;PotentialCustomElementName ::= [a-z] (PCENChar)* '-' (PCENChar)*&lt;/li&gt;
+&lt;li&gt;PCENChar ::= &quot;-&quot; | &quot;.&quot; | [0-9] | &quot;_&quot; | [a-z] | #xB7 | [#xC0-#xD6] | [#xD8-#xF6] | [#xF8-#x37D] | [#x37F-#x1FFF] | [#x200C-#x200D] | [#x203F-#x2040] | [#x2070-#x218F] | [#x2C00-#x2FEF] | [#x3001-#xD7FF] | [#xF900-#xFDCF] | [#xFDF0-#xFFFD] | [#x10000-#xEFFFF]&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/NeXTSTEP2OSX&quot;&gt;わしのQiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/eielh&quot;&gt;eielhのQiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Qiitaのタグ問題
+&lt;ul&gt;
+&lt;li&gt;Qiitaの投稿カテゴリ(タグ)集計は上位10件までで他はothersになってしまう。よくわからない。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/&quot;&gt;Stack Overflow&lt;/a&gt;のようにある程度強いユーザでないとタグを作成できないというのはどうか。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/&quot;&gt;Stack Overflow&lt;/a&gt; で英語で質問する&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://gigazine.net/news/20170309-anime-2017spring/&quot;&gt;2017年春季開始の新作アニメ一覧 - GIGAZINE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://anond.hatelabo.jp/&quot;&gt;はてな匿名ダイアリー&lt;/a&gt; (通称増田)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://anond.hatelabo.jp/20151220233500&quot;&gt;2016冬アニメで迷ったらこれを見ろ！！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://anond.hatelabo.jp/20161227231344&quot;&gt;2017冬アニメで迷ったらこれを見ろ!&lt;/a&gt; (これがわし)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://anond.hatelabo.jp/20161228215738&quot;&gt;2017！あけおめ！冬アニメに迷ったらこれを見ようぜ！&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/6a/&quot;&gt;https://washipo.nyoho.jp/6a/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep6a%20https://washipo.nyoho.jp/6a/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/6a.mp3"
+        length="40713090"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 13 Mar 2017 12:00:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>えいる/ひむひむさんをゲストに迎えて、2017年冬アニメや、SUPER MARIO RUN、Switchなどのゲームについて話していたら、いつの間にかHTMLのカスタムエレメントやQiitaやStack Overflowについて話していました。</itunes:subtitle>
+      <itunes:duration>00:56:32</itunes:duration>
+    </item>
+    <item>
+      <title>6: You RubyKaigi 2017 Icchaina YO (eiel)</title>
+      <link>https://washipo.nyoho.jp/6/</link>
+      <description>&lt;p&gt;えいる/ひむひむさんをゲストに迎えて、9月に広島で開催されるRubyKaigi 2017やReduxについて話しました。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;h4&gt;RubyKaigi 2017の話&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://rubykaigi.org/2017&quot;&gt;RubyKaigi 2017&lt;/a&gt; あのRubyKaigi(本体)がなんと広島開催決定!!! 2017年9月18日(月・祝)から20日(水)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://jp.rubyist.net/RubyKaigi2007/&quot;&gt;日本 Ruby 会議 2007&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ドリンククアップ, drinkup&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hiroshimarb.github.io/&quot;&gt;Hiroshima.rb&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rebuild.fm/&quot;&gt;Rebuild&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rebuild.fm/people/a_matsuda/&quot;&gt;Akira Matsuda (a_matsuda) さんのRebuild出演回一覧&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;宮島, 厳島神社&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AB%E3%82%BF%E3%82%AF%E3%83%81%E3%82%A4%E3%83%AF%E3%82%B7&quot;&gt;こいわし (カタクチイワシ - Wikipedia)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;参考: &lt;a href=&quot;https://www.pref.hiroshima.lg.jp/soshiki/88/1171584936325.html&quot;&gt;広島おいしい地魚情報 - 広島県ホームページ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.w3.org/CGI/&quot;&gt;CGI - Common Gateway Interface&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/rack/rack/pull/781#issuecomment-112663997&quot;&gt;Rackのわしのpull requestとそのマージされた様子&lt;/a&gt; (自慢)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/rack/rack/commit/6af5f928f3a860e9bb74fc0bdd83b30be9d722a9&quot;&gt;そのコミット (Fix semicolons as separators for GET · rack/rack@6af5f92)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/hiki/hiki&quot;&gt;Hiki&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.tdiary.org/&quot;&gt;tDiary&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/tdiary/tdiary-core/issues/485&quot;&gt;shoさん (tdtdsさん) からぶちほめられている tDiary-core の Issue(#485)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;“W3Cのご威光まで含めてのPR、GJだと思います 👍” (2 Feb 2015)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4&gt;Redux中心のJavaScriptの話&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://redux.js.org/&quot;&gt;Redux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://facebook.github.io/flux/&quot;&gt;Flux&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://azu.github.io/slide/react-meetup/flux.html&quot;&gt;10分で実装するFlux&lt;/a&gt; の6ページ目の図を見ながら会話し始めた&lt;/li&gt;
+&lt;li&gt;Event sourcing&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd?hl=ja&quot;&gt;Redux DevTools - Chrome ウェブストア&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/reactjs/redux&quot;&gt;Redux (GitHub repository)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://caniuse.com/#search=import&quot;&gt;Can I use&amp;#x2026; Support tables for HTML5, CSS3, etc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/NeXTSTEP2OSX/status/761089731148914688&quot;&gt;Nyohoさんのツイート: &quot;なんとゲームはリアルタイム対戦で50msでやっている。400msの壁をどう超えているか。ビッグデータ・AIによりローカルで予想計算をする。違っていたら適当にごまかす。これで50msでやっているかのような通信が400msの上で実現できている。&quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Redux source code reading
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/reactjs/redux/blob/master/src%2Fcompose.js&quot;&gt;src/compose.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/webstorm/&quot;&gt;WebStorm: The Smartest JavaScript IDE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/ja/docs/Web/JavaScript/Reference/Statements/export&quot;&gt;export - JavaScript | MDN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/eiel/-98&quot;&gt;&amp;lt;ハ-ドル低めカスタムエレメントの始め方 &lt;i&gt;&amp;gt; /&lt;/i&gt; Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://w3m.sourceforge.net/&quot;&gt;w3m&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Redux source code reading II (Reduxのソースには Flow と TypeScript の型定義が両方書いてある)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/reactjs/redux/tree/master/flow-typed&quot;&gt;flow-typed&lt;/a&gt; (&lt;a href=&quot;https://flowtype.org/&quot;&gt;Flow&lt;/a&gt; の型定義)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/reactjs/redux/blob/master/index.d.ts&quot;&gt;index.d.ts&lt;/a&gt; (TypeScript の型定義)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://swizec.com/blog/animating-with-react-redux-and-d3/swizec/6775&quot;&gt;Animating with React, Redux, and d3 - A geek with a hat&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Iterators_and_Generators&quot;&gt;Iterators and generators - JavaScript | MDN&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;You babeっちゃいなよ&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/babel/babel-loader&quot;&gt;babel-loader&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://babeljs.io/docs/usage/cli/#babel-node&quot;&gt;babel-node&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;TypeScriptってもいい。拡張子をtsにしてtscかけるだけ&lt;/li&gt;
+&lt;li&gt;ReduxやるならFlowType&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/6/&quot;&gt;https://washipo.nyoho.jp/6/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep6%20https://washipo.nyoho.jp/6/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/6.mp3"
+        length="62945280"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 10 Mar 2017 13:00:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>えいる/ひむひむさんをゲストに迎えて、9月に広島で開催されるRubyKaigi 2017やReduxについて話しました。</itunes:subtitle>
+      <itunes:duration>01:27:25</itunes:duration>
+    </item>
+    <item>
+      <title>Aftershow 5: Even if it's mens' discount day (kamera25)</title>
+      <link>https://washipo.nyoho.jp/5a/</link>
+      <description>&lt;p&gt;中奥 (kamera25) さんをゲストに迎えて、夏バテに養命酒モバイルキャンペーンや映画 (『この世界の片隅に』『Back to the Future』『シン・ゴジラ』『君の名は。』『ゴーストバスターズ』『ポッピンQ』) について話しました。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.koukoku.jp/release/20170210.html&quot;&gt;第26回 日本プロモーション企画コンテストグランプリ受賞のお知らせ｜プレスリリース｜インターネット広告　GMO NIKKO株式会社&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.yomeishu-mobile.jp/&quot;&gt;夏バテに養命酒モバイルキャンペーン｜養命酒製造株式会社&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=OWamQkJpfqU&quot;&gt;【ヴィッツ】This is, Vitz篇 120秒 広島弁ver. - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sA-6osGHAoQ&quot;&gt;The making of new Vitz story 広島弁ver. - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://spotlight-media.jp/article/376664906068977140&quot;&gt;「よくぞここまで振り切った」TOYOTA『Vitz』のCMが飛ばしていると話題に - Spotlight (スポットライト)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://konosekai.jp/&quot;&gt;この世界の片隅に&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://popolo-kure.co.jp/&quot;&gt;呉 ポポロショッピングセンター&lt;/a&gt; (4階が映画館)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E4%BD%90%E3%80%85%E6%9C%A8%E7%A6%8E%E5%AD%90&quot;&gt;佐々木禎子 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%A1%82%E6%96%87%E6%9E%9D_(6%E4%BB%A3%E7%9B%AE)&quot;&gt;桂文枝 (6代目) - Wikipedia&lt;/a&gt; (桂三枝)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fast5-lefilm.com/movie-fee-overseas/&quot;&gt;日本と海外の映画料金を比較してみると | 映画料金の割引と格安チケット購入法&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://asa10.eiga.com/&quot;&gt;午前十時の映画祭7 デジタルで甦る永遠の名作&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://asa10.eiga.com/2016/cinema/618.html&quot;&gt;「バック・トゥ・ザ・フューチャー」上映作品詳細&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://asa10.eiga.com/2016/cinema/619.html&quot;&gt;「バック・トゥ・ザ・フューチャー PART2」上映作品詳細&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://asa10.eiga.com/2016/cinema/620.html&quot;&gt;「バック・トゥ・ザ・フューチャー PART3」上映作品詳細&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.imdb.com/title/tt0088763/&quot;&gt;Back to the Future (1985) - IMDb&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://yokogawacinema.com/&quot;&gt;横川シネマ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://sharefl.jp/blog/20141007wtm/&quot;&gt;WEB TOUCH MEETING #72 @ YOKOGAWA CINEMA&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://sunday.ciao.jp/&quot;&gt;井上雪子 Yukiko Inoue&lt;/a&gt; Illustration + Animation + Design&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shin-godzilla.jp/&quot;&gt;映画『シン・ゴジラ』&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://clockworkapple.me/?p=25229&quot;&gt;衝撃の「シン・ゴジラ」の裏に隠された庵野式マーケティング | 茅ヶ崎の竜さん&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&quot;わざと作ったダメダメ予告編&quot;&lt;/li&gt;
+&lt;li&gt;&quot;宣伝担当は庵野秀明総監督本人だそうです！確信犯！&quot;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.evangelion.co.jp/&quot;&gt;エヴァンゲリオン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%B2%A1%E7%94%B0%E6%96%97%E5%8F%B8%E5%A4%AB&quot;&gt;岡田斗司夫 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kiminona.com/&quot;&gt;映画『君の名は。』&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%90%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%BA_(2016%E5%B9%B4%E3%81%AE%E6%98%A0%E7%94%BB)&quot;&gt;ゴーストバスターズ (2016年の映画) - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.popin-q.com/&quot;&gt;ポッピンQ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://d.hatena.ne.jp/esu-kei/20170101/p1&quot;&gt;神作画のクソアニメ『ポッピンQ』徹底批評 - 　esu-kei_text&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/5a/&quot;&gt;https://washipo.nyoho.jp/5a/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep5a%20https://washipo.nyoho.jp/5a/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/5a.mp3"
+        length="47663647"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 24 Feb 2017 01:30:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>中奥 (kamera25) さんをゲストに迎えて、夏バテに養命酒モバイルキャンペーンや映画 (『この世界の片隅に』『Back to the Future』『シン・ゴジラ』『君の名は。』『ゴーストバスターズ』『ポッピンQ』) について話しました。</itunes:subtitle>
+      <itunes:duration>01:06:11</itunes:duration>
+    </item>
+    <item>
+      <title>5: A cooler watermelon splitting (kamera25)</title>
+      <link>https://washipo.nyoho.jp/5/</link>
+      <description>&lt;p&gt;中奥 (kamera25) さんをゲストに迎えて、Unityを中心に中奥さんの広島での活動、各種ゲームジャム、CoderDojoなどについて話しました。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/csc_kamera25&quot;&gt;Takahiro Nakaoku (@csc_kamera25)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%96%B0%E4%BA%95%E8%B2%B4%E6%B5%A9&quot;&gt;Takahiro Arai (新井貴浩)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://geocities.yahoo.co.jp/&quot;&gt;Geocities&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/intent/tweet?text=#washipo%20%E4%B8%AD%E5%A5%A5%E3%81%95%E3%82%93%E3%81%AE%E3%83%8B%E3%83%83%E3%82%AF%E3%83%8D%E3%83%BC%E3%83%A0%E3%81%AF%E3%80%81__%E3%81%8C%E3%81%84%E3%81%84%E3%81%A7%E3%81%99%E3%80%82&quot;&gt;中奥さん (Takahiro Nakaoku) さんのニックネーム募集中です。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://unity3d.com/jp/&quot;&gt;Unity&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%BC%E3%83%89%E3%83%91%E3%83%BC%E3%82%BD%E3%83%B3%E3%83%BB%E3%82%B7%E3%83%A5%E3%83%BC%E3%83%86%E3%82%A3%E3%83%B3%E3%82%B0%E3%82%B2%E3%83%BC%E3%83%A0&quot;&gt;TPS (サードパーソン・シューティングゲーム)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://freegame-mugen.jp/shooting/game_3476.html&quot;&gt;Religion&lt;/a&gt; Religion。戦いの物語。(kamera25さんたちによる、Unityで完全に書き直して製作されたTPSのゲーム)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Hot_Soup_Processor&quot;&gt;HSP - Hot Soup Processor - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;広島Git勉強会
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://togetter.com/li/511815&quot;&gt;広島Git 勉強会 201306 - Togetterまとめ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/kamera25/git_dakishimete&quot;&gt;kamera25/git_dakishimete: git抱きしめてのリポジトリです。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.eiel.info/blog/2013/06/02/hiroshima-git/&quot;&gt;広島Git勉強会 201306 - やりなおせるGit入門 | そんなこと覚えてない&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.livedoor.jp/ryosms/archives/7152236.html&quot;&gt;広島Git勉強会201306に参加してきた : sms日記&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://d.nishimotz.com/archives/1470&quot;&gt;広島Git勉強会に参加しました – nishimotzの日記&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://nyoho.jp/diary/?date=20130601#p01&quot;&gt;広島 Git 勉強会に参加した。- わしわし的おすすめ .gitconfig 設定 - ワタタツの日記!(2013-06-01)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.pitecan.com/fugo.html&quot;&gt;富豪的プログラミング&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/keiso&quot;&gt;keiso watanabe(@keiso)さん | Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://atnd.org/events/26333&quot;&gt;広島マックユーザーグループ 3月25日(日曜日)の勉強会 : ATND&lt;/a&gt; で Unity の勉強会があった。 &lt;span class=&quot;timestamp-wrapper&quot;&gt;&lt;span class=&quot;timestamp&quot;&gt;&amp;lt;2012-03-25 Sun&amp;gt;&lt;/span&gt;&lt;/span&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/Unity%E3%81%AB%E3%82%88%E3%82%8B3D%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80-iPhone-Android-Web%E3%81%A7%E5%AE%9F%E8%B7%B5%E3%82%B2%E3%83%BC%E3%83%A0%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0-%E5%AE%AE%E5%B7%9D/dp/487311506X/ref=sr_1_1?ie=UTF8&amp;amp;qid=1485596107&amp;amp;sr=8-1&amp;amp;keywords=Unity%E3%81%AB%E3%82%88%E3%82%8B3D%E3%82%B2%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E5%85%A5%E9%96%80&quot;&gt;『Unityによる3Dゲーム開発入門 ―iPhone/Android/Webで実践ゲームプログラミング』&lt;/a&gt; (ウニ本)&lt;/li&gt;
+&lt;li&gt;ここで唐突に「Unityとは」&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://vuforia.com/&quot;&gt;Vuforia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hirouni.connpass.com/&quot;&gt;広島Unity勉強会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://osh-web.github.io/2017/&quot;&gt;オープンセミナー2017@広島&lt;/a&gt; 2017年2月25日(土) もうすぐ! 無料だよ! 講師陣豪華なのに無料よ!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.webtouchmeeting.com/&quot;&gt;WEB TOUCH MEETING&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cogurumi.info/&quot;&gt;こぐるみ - あそびをつくるプロジェクト。&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;中奥さんたちの活動プロジェクト&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cogurumi.info/projects/uraoni/&quot;&gt;ウラオニゴッコ&lt;/a&gt; (こぐるみの代表作)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://cogurumi.info/projects/shinobite/&quot;&gt;しのびて&lt;/a&gt; (Oculus + Perception Neuron で「かっこいいスイカ割り」)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oculus.com/&quot;&gt;Oculus&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.vive.com/jp/&quot;&gt;VIVE™&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://neuronmocap.com/ja&quot;&gt;Perception Neuron by Noitom&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;Noitom は後ろから読むと motion になっている。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/yampuu&quot;&gt;@yampuu (柳谷 武) さん&lt;/a&gt; 
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://sharefl.jp/&quot;&gt;シェアフル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://sharefl.jp/projects/airshodou/&quot;&gt;AIR SHODOU&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.instagram.com/yampuu/&quot;&gt;yanagiyaさん(@yampuu)のInstagram&lt;/a&gt; すごいかっこいい写真&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;(34:30) ゲームジャムの話&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://globalgamejam.org/&quot;&gt;Global Game Jam®&lt;/a&gt; (これは48時間)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://vrgamejam.doorkeeper.jp/&quot;&gt;VR GameJam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://fgj.igda.jp/&quot;&gt;福島GameJam&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;2016 36000人、7000近くの作品を、3日で。93カ国&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://ggj.igda.jp/&quot;&gt;Global Game Jam JAPAN | Innovation, Collaboration, Experimentation! Jan. 20~22, 2017&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(43:09) 中奥名言「完成させてこそゲーム」&lt;/li&gt;
+&lt;li&gt;5,6月ぐらいVRゲームジャム&lt;/li&gt;
+&lt;li&gt;8月福島ゲームジャム&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hirouni.connpass.com/&quot;&gt;広島Unity勉強会&lt;/a&gt; この connpass をフォロウなう&lt;/li&gt;
+&lt;li&gt;Unityの最近の新機能
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://unity3d.com/jp/services/ads&quot;&gt;Unity Ads&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://unity3d.com/jp/services/analytics&quot;&gt;Unity Analytics&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CI&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://connect.unity.com/&quot;&gt;Unity Connect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://unity3d.com/jp/services/collaborate&quot;&gt;Unity Collaborate&lt;/a&gt; (バージョン管理)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://unity3d.com/jp/partners/microsoft/hololens&quot;&gt;HoloLens サポート&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;「ゲーム開発の民主化」から今は「成功支援」へ&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;(59:25) CoderDojo の話&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://coderdojo.jp/&quot;&gt;CoderDojo Japan - 子どものためのプログラミング道場&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://coderdojo.com/&quot;&gt;CoderDojo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://supermariorun.com/ja/&quot;&gt;スーパーマリオ ラン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/5/&quot;&gt;https://washipo.nyoho.jp/5/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep5%20https://washipo.nyoho.jp/5/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/5.mp3"
+        length="54390700"
+        type="audio/mpeg"/>
+      <pubDate>Sun, 29 Jan 2017 09:00:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>中奥 (kamera25) さんをゲストに迎えて、Unityを中心に中奥さんの広島での活動、各種ゲームジャム、CoderDojoなどについて話しました。</itunes:subtitle>
+      <itunes:duration>01:15:32</itunes:duration>
+    </item>
+    <item>
+      <title>4: Your design could be Fukuwarai (akigonn)</title>
+      <link>https://washipo.nyoho.jp/4/</link>
+      <description>&lt;p&gt;Akiさんをゲストに迎えて、Jimdo、デザイン、福笑い、リモートワーク方法、顔を撮る方向などについて話しました。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/akigonn&quot;&gt;@akigonn - Twitter&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;小学校のときに「ん」のローマ字を nn で習った。&lt;/li&gt;
+&lt;li&gt;そしたらIDとか取りやすくて重宝している。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Bernhard_Riemann&quot;&gt;Bernhard Riemann - Wikipedia&lt;/a&gt;, &lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%99%E3%83%AB%E3%83%B3%E3%83%8F%E3%83%AB%E3%83%88%E3%83%BB%E3%83%AA%E3%83%BC%E3%83%9E%E3%83%B3&quot;&gt;日本語版&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jp.jimdo.com/&quot;&gt;Jimdo&lt;/a&gt; (日本)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.jimdo.com/&quot;&gt;Jimdo&lt;/a&gt; (本家)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jp.jimdo.com/about-1/jimdo-kddi-web-communications/&quot;&gt;Jimdo + KDDI Web Communications&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;「Jimdoが日本で提供するにあたり、協業パートナーとして選んだのはレンタルサーバー業界大手の&quot;CPI&quot;を運営するKDDI Web Communicationsでした。」&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jp.jimdo.com/pricing/&quot;&gt;Jimdoの料金プラン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://sasadangon.jimdo.com/&quot;&gt;I ♡ 新潟　ササダンゴン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://shimoyamakonkatsu.jimdo.com/%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9-%E5%91%A8%E8%BE%BA%E8%A6%B3%E5%85%89/%E3%81%97%E3%82%82%E3%82%84%E3%81%BE%E3%81%AE%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%A9-%E4%BA%94%E5%B9%B3%E3%83%9E%E3%83%B3/&quot;&gt;しもやまのゆるキャラ『五平マン』 - しもやまで婚活♪&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://terawarosu.jimdo.com/&quot;&gt;ふなっしー劇場 - terawarosu Jimdoページ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://akinagashima-sem-files.jimdo.com/&quot;&gt;リクリでJimdoの話をしました - セミナースライド資料&lt;/a&gt; (登壇中にリアルタイムに作成されたJimdoサイト)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.google.com/search?client=safari&amp;amp;rls=en&amp;amp;q=jimdo+%E3%82%86%E3%82%8B%E3%82%AD%E3%83%A3%E3%83%A9&amp;amp;ie=UTF-8&amp;amp;oe=UTF-8#safe=off&amp;amp;q=jimdo+%E3%81%94%E5%BD%93%E5%9C%B0%E3%83%92%E3%83%BC%E3%83%AD%E3%83%BC&quot;&gt;jimdo ご当地ヒーロー - Google 検索&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Jimdo事業部 ➡ (コミュニケーション本部) エヴァンジェリスト部 (略してエヴァ部)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.kddi-webcommunications.co.jp/corporate/structures.html&quot;&gt;KDDIウェブコミュニケーションズの組織図&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.cpi.ad.jp/evangelist/abe/&quot;&gt;阿部 正幸 (CPIエバンジェリスト)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.cpi.ad.jp/&quot;&gt;レンタルサーバーなら【CPI】｜24時間365日のTEL&amp;amp;メールサポートで安心&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://washipo.nyoho.jp/1a/&quot;&gt;Aftershow 1: The property-based anime otaku (eiel) - わしポ (Washipo)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://re-zero-anime.jp/&quot;&gt;Re:ゼロから始める異世界生活&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jp.jimdo.com/2016/12/20/ssl-all/&quot;&gt;すべてのJimdoサイトがHTTPSに対応 - Jimdo（ジンドゥー）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://gigazine.net/news/20160909-chrome-mark-http-non-secure/&quot;&gt;GoogleがHTTP接続のサイトを今後「安全でない」と警告表示することに - GIGAZINE&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%A6%8F%E7%AC%91%E3%81%84&quot;&gt;福笑い - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;リモートワーク、テレワーク&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.chatwork.com/&quot;&gt;ChatWork&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://support.apple.com/ja-jp/HT204380&quot;&gt;FaceTime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Rebuildfm のリモートワーク回
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://rebuild.fm/32/&quot;&gt;Rebuild: 32: How We Work Remotely (Naoya Ito)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://rebuild.fm/35/&quot;&gt;Rebuild: 35: You Don't Need API Version 2 (Kenn Ejima)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rebuild.fm/47/&quot;&gt;Rebuild: 47: Live From GitHub Kaigi (Naoya Ito)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://rebuild.fm/62a/&quot;&gt;Rebuild: Aftershow 62: Unlimited Means Zero (dice)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://rebuild.fm/132a/&quot;&gt;Rebuild: Aftershow 132: Math Is Hard, Let's Go Programming (higepon)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;運動・スポーツの話&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.rizap.jp/contact/&quot;&gt;RIZAPの無料カウンセリング&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;息子&lt;/li&gt;
+&lt;li&gt;PR西日本 (PR = プラレールレールウェイ株式会社)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC_nUn4Mh-ssz9rZvc91wjvg&quot;&gt;でぷー交通局 (ブブ夫交通局)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;受験は最近は進化している話。
+&lt;ul&gt;
+&lt;li&gt;web出願はもう当たり前&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;息子&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/4/&quot;&gt;https://washipo.nyoho.jp/4/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep4%20https://washipo.nyoho.jp/4/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/4.mp3"
+        length="59872339"
+        type="audio/mpeg"/>
+      <pubDate>Mon, 16 Jan 2017 12:00:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>Akiさんをゲストに迎えて、Jimdo、デザイン、福笑い、リモートワーク方法、顔を撮る方向などについて話しました。</itunes:subtitle>
+      <itunes:duration>01:23:09</itunes:duration>
+    </item>
+    <item>
+      <title>3: 「短波はチュウヒャを問わず」「何やっ天王寺アップルクラブ」 (DAIDOH3)</title>
+      <link>https://washipo.nyoho.jp/3/</link>
+      <description>&lt;p&gt;大道さんをゲストに迎えて、桂花さん、通信技術、電離層、太陽、華美な電報、お酒、悟り、TAC Podcastの秘訣や裏話、AUGM 大阪について話しました。正直 TAC Podcast すごかったです。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/DAIDOH3&quot;&gt;大道（餃子聖人）(@DAIDOH3)さん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/tac-podcast-tian-wang-siappurukurabu/id1055249881?mt=2&quot;&gt;TAC Podcast (天王寺アップルクラブ ポッドキャスト)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/GrukHimmelreich&quot;&gt;桂花くいほあ(@GrukHimmelreich)さん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%BB%92%E6%9C%A8%E8%8F%AF&quot;&gt;黒木華 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.google.com/search?q=%E9%BB%92%E6%9C%A8%E8%8F%AF&amp;amp;safe=off&amp;amp;client=safari&amp;amp;rls=en&amp;amp;biw=1350&amp;amp;bih=966&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjjh5inqbHRAhWBG5QKHWjWDP0Q_AUIBigB&quot;&gt;黒木華 - Google Image 検索&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://dictionary.goo.ne.jp/jn/95686/meaning/m0u/%E8%87%AA%E6%A5%AD%E8%87%AA%E5%BE%97/&quot;&gt;自業自得 (goo国語辞書)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/podcast/di38hui-2016nian7yue22ri-pei/id1055249881?i=1000372861610&amp;amp;mt=2&quot;&gt;TAC Podcast 第38回 2016年7月22日配信「避難訓練 と 3.3インチタブレット」&lt;/a&gt; (わしがゲスト)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://keep.google.com/&quot;&gt;Google Keep&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.google.com/maps/place/%E6%9D%B1%E5%BA%83%E5%B3%B6%E9%A7%85/@34.389302,132.759701,15z/data=!4m5!3m4!1s0x0:0xa35d7c6864e142c7!8m2!3d34.389302!4d132.759701&quot;&gt;東広島駅 (Google Maps)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%BA%83%E5%B3%B6%E3%82%A8%E3%83%AB%E3%83%94%E3%83%BC%E3%83%80%E3%83%A1%E3%83%A2%E3%83%AA&quot;&gt;広島エルピーダメモリ - Wikipedia&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://jp.micron.com/about-micron/about-the-elpida-acquisition&quot;&gt;Micron Technology, Inc. - エルピーダはマイクロンになりました&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.h-elpida.com&quot;&gt;http://www.h-elpida.com&lt;/a&gt; ←もうない&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://pc.watch.impress.co.jp/docs/news/632243.html&quot;&gt;エルピーダメモリ、「マイクロンメモリ ジャパン」へ社名変更 - PC Watch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.renesas.com/ja-jp/products/memory.html&quot;&gt;ルネサス エレクトロニクス&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.renesas.com/ja-jp/products/memory.html&quot;&gt;メモリ | ルネサス エレクトロニクス&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.sony-semiconductor.co.jp/&quot;&gt;ソニーセミコンダクタマニュファクチャリング株式会社｜ソニーセミコンダクタマニュファクチャリング株式会社&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;CMOS&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9F%E3%83%8E%E3%83%AB%E3%82%BF&quot;&gt;ミノルタ - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ミノルタ 光学部門 は SONY へ。カメラの α は&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/0601/19/news047.html&quot;&gt;コニカミノルタ、カメラから撤退　ソニーが「α」を継承 - ITmedia ニュース&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;技術者は Panasonic へ&lt;/li&gt;
+&lt;li&gt;DAIDOH3名言「技術者が技術があって、技術を持っているものというのが大きい」&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.tnm.jp/&quot;&gt;東京国立博物館 - トーハク&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://e-words.jp/w/G3_FAX.html&quot;&gt;G3 FAX&lt;/a&gt;, &lt;a href=&quot;http://e-words.jp/w/G4_FAX.html&quot;&gt;G4 FAX&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;炭酸水に茶色いのを混ぜている&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%9F%AD%E6%B3%A2&quot;&gt;短波 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.radionikkei.jp/timetable/sw1/2017-01-08.html&quot;&gt;ラジオNIKKEI&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.radionikkei.jp/style/radio/&quot;&gt;ラジオNIKKEIの聴き方 | ラジオNIKKEI&lt;/a&gt;&lt;/li&gt;
+&lt;li id=&quot;ラジオNIKKEI第1&quot;&gt;3.925MHz、6.055MHz、9.595MHz&lt;/li&gt;
+&lt;li id=&quot;ラジオNIKKEI第2&quot;&gt;3.945MHz、6.115MHz、9.760MHz&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E4%B8%AD%E6%B3%A2&quot;&gt;中波 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%9B%BB%E9%9B%A2%E5%B1%A4&quot;&gt;電離層 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nict.go.jp/&quot;&gt;NICT-情報通信研究機構&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;電報&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://bunka.nii.ac.jp/heritages/detail/219205&quot;&gt;公衆電報受付&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%80%93%E4%BF%A1%E7%B7%8F%E5%90%88%E5%8D%9A%E7%89%A9%E9%A4%A8&quot;&gt;逓信総合博物館 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.postalmuseum.jp/&quot;&gt;郵政博物館 Postal Museum Japan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;宣言「華美な電報は、Amazonギフトコードつきのeメールに置き換えていこう」
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2j2vZ4e&quot;&gt;Amazon ギフト券&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://yatteiki.fm/manifesto&quot;&gt;やっていき宣言 | yatteiki.fm&lt;/a&gt; (0:57:55)&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;Amazonで買ったもの
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2iQCmVB&quot;&gt;3リットルのワイン (E&amp;amp;J Gallo Winery(E.&amp;amp;J.ガロ) の カルロ ロッシ カリフォルニア レッド3L)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2iQxZdg&quot;&gt;防水ドラムバッグ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;お酒 (1:00:40)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www4.nhk.or.jp/P4039/&quot;&gt;オトナの一休さん - NHK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;ポッドキャストの運営のマル秘情報 〜TAC Podcast編〜&lt;/li&gt;
+&lt;li&gt;Facebook &lt;a href=&quot;https://www.messenger.com/&quot;&gt;Messenger&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.google.com/drive/&quot;&gt;Google Drive&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://keep.google.com/&quot;&gt;Google Keep&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;息子さん&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.westjr.co.jp/railroad/fan/paper/&quot;&gt;ペーパークラフト：JR西日本&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;DAIDOH3名言「しっかりとした基礎がないと上に何を置いても倒れてゆく」「基礎が重要」&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://augm.mac-ug.net/&quot;&gt;Apple User Group Meeting in Hiroshima&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;AUGM 大阪 March 2017
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://osaka.augm.net/&quot;&gt;Apple User Group Meeting in Osaka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://atnd.org/events/84906&quot;&gt;AUGM 大阪 March 2017 本会 : ATND&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://atnd.org/events/84907&quot;&gt;AUGM 大阪 March 2017 懇親会 : ATND&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.belkin.com/&quot;&gt;Belkin&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gadgetsquare-jp.jimdo.com/&quot;&gt;gadget square (沖田事務所)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://24contest2.eiel.info/&quot;&gt;AUGMENT8（オグハチ）&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;息子さん&lt;/li&gt;
+&lt;li&gt;勇者 (1:48:40)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/3/&quot;&gt;https://washipo.nyoho.jp/3/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep3%20https://washipo.nyoho.jp/3/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/3.mp3"
+        length="83147128"
+        type="audio/mpeg"/>
+      <pubDate>Tue, 10 Jan 2017 02:00:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>大道さんをゲストに迎えて、桂花さん、通信技術、電離層、太陽、華美な電報、お酒、悟り、TAC Podcastの秘訣や裏話、AUGM 大阪について話しました。正直 TAC Podcast すごかったです。</itunes:subtitle>
+      <itunes:duration>01:55:28</itunes:duration>
+    </item>
+    <item>
+      <title>2: In my data death march anti-patterns (k2works)</title>
+      <link>https://washipo.nyoho.jp/2/</link>
+      <description>&lt;p&gt;カッキーさんをゲストに迎えて、ソフトウェアの設計やデータベースやオブジェクト指向などについて話すことにより、設計に関する impedance mismatch という概念と名称をわしが勉強することに成功しました。&lt;/p&gt;
+
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/k2works&quot;&gt;カッキー(@k2works)さん | Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/k2works/status/813274438024105984&quot;&gt;カッキーさんのツイート: &quot;やはりオブジェクト指向データベースの登場を待たねばならないのだろうか・・・&quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/opsworks/&quot;&gt;AWS OpsWorks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.chef.io/chef/&quot;&gt;Chef&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://docs.aws.amazon.com/opsworks/latest/userguide/chef-12-linux.html&quot;&gt;AWS OpsWorks Stacks Support for Chef 12 Linux - AWS OpsWorks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A1%E3%82%A4%E3%83%B3%E9%A7%86%E5%8B%95%E8%A8%AD%E8%A8%88&quot;&gt;ドメイン駆動設計 - Wikipedia&lt;/a&gt; (Domain-driven design DDD)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2ihrbrh&quot;&gt;Analysis Patterns: Reusable Object Models (Martin Fowler)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;(その和訳) &lt;a href=&quot;http://amzn.to/2iEwdim&quot;&gt;アナリシスパターン―再利用可能なオブジェクトモデル (Object Technology Series) (マーチン・ファウラー)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2iECjit&quot;&gt;Patterns of Enterprise Application Architecture (Martin Fowler)&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;(その和訳) &lt;a href=&quot;http://amzn.to/2iEvAFg&quot;&gt;エンタープライズアプリケーションアーキテクチャパターン (マーチン・ファウラー)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2ijLhRM&quot;&gt;アジャイルソフトウェア開発の奥義 第2版 オブジェクト指向開発の神髄と匠の技 (ロバート・C・マーチン)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Data-oriented_design&quot;&gt;Data-oriented design - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://stackoverflow.com/questions/6360937/whats-the-difference-between-domain-model-and-oo-domain-model&quot;&gt;oop - What's the difference between Domain Model and OO Domain Model? - Stack Overflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;テーブルはフラット。オブジェクトは多層。&lt;/li&gt;
+&lt;li&gt;業務の顧客の請求先、クレジットカード利用、出荷先、支払い情報、支払い方法など。もし顧客テーブルとクラスだけがあり、その中のプロパティの組み合わせだけがあるのであれば、ぱっと見ではわからないだろう。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://developer.hatenastaff.com/entry/bookmark-semiring-ac&quot;&gt;(解説) はてなブックマークにおけるアクセス制御 - 半環構造に基づくモデル化 - Hatena Developer Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.mvb.jp/cache/about/DB_ObjDB1.html&quot;&gt;Caché ってどんなデータベースなの？ - オブジェクト指向・データベース&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Object-relational_impedance_mismatch&quot;&gt;Object-relational impedance mismatch - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www23.atwiki.jp/sevenlives/pages/903.html&quot;&gt;web用語辞典 - インピーダンス・ミスマッチ&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Impedance_matching&quot;&gt;Impedance matching - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%B3%E3%83%94%E3%83%BC%E3%83%80%E3%83%B3%E3%82%B9%E6%95%B4%E5%90%88&quot;&gt;インピーダンス整合 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;「Twitterのツイートは別に論文を書いているわけじゃない」&lt;/li&gt;
+&lt;li&gt;人工知能&lt;/li&gt;
+&lt;li&gt;相槌&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/yun-tang/id418510732?mt=8&quot;&gt;雲堂&lt;/a&gt; (座禅アプリ)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In my data death march は impedance mismatch の掛詞です。&lt;/p&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/2/&quot;&gt;https://washipo.nyoho.jp/2/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep2%20https://washipo.nyoho.jp/2/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/2.mp3"
+        length="35363520"
+        type="audio/mpeg"/>
+      <pubDate>Thu, 29 Dec 2016 16:30:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>カッキーさんをゲストに迎えて、ソフトウェアの設計やデータベースやオブジェクト指向などについて話すことにより、設計に関する impedance mismatch という概念と名称をわしが勉強することに成功しました。</itunes:subtitle>
+      <itunes:duration>00:49:06</itunes:duration>
+    </item>
+    <item>
+      <title>Aftershow 1: The property-based anime otaku (eiel)</title>
+      <link>https://washipo.nyoho.jp/1a/</link>
+      <description>&lt;p&gt;えいる/ひむひむさんをゲストに迎えて、前期(2016年夏)のアニメやら今期(2016年秋)のアニメやらゲームやらの話をしました。&lt;/p&gt;
+
+
+&lt;h3&gt;Links&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://re-zero-anime.jp/&quot;&gt;TVアニメ『Re:ゼロから始める異世界生活』&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://re-zero.com/&quot;&gt;Re：ゼロから始める異世界生活&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.tbs.co.jp/anime/handaanime/&quot;&gt;はんだくん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%B4%B0%E8%B0%B7%E4%BD%B3%E6%AD%A3&quot;&gt;細谷佳正 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/NeXTSTEP2OSX/status/802762630091849728&quot;&gt;&quot;にしもつ「(ひむらさんについて) おまえいつもいるな」 #commustudy #osc16hi&quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.j-haikyu.com/anime/&quot;&gt;「ハイキュー!! 烏野高校 VS 白鳥沢学園高校」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.tbs.co.jp/anime/konobi/&quot;&gt;この美術部には問題がある！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://shokugekinosoma.com/&quot;&gt;TVアニメ『食戟のソーマ 弐ノ皿』&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://relife-anime.com/&quot;&gt;TVアニメ「ReLIFE」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.comico.jp/&quot;&gt;comico（コミコ） - タダ読み！タテ読み！人気のオリジナル漫画・小説が無料読み放題&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.comico.jp/detail.nhn?titleNo=18815&amp;amp;articleNo=5&quot;&gt;【重要なお知らせ】 | リニューアル内容の詳細について | comico公式 - comico（コミコ）マンガ / タテ読み！タダ読み！人気のオリジナル漫画が無料読み放題&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://nlab.itmedia.co.jp/nl/articles/1611/30/news135.html&quot;&gt;無料漫画アプリ「comico」がリニューアルで一部有料化　ユーザーからは「タダ読みが魅力だったのに」と不満も - ねとらぼ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://yurionice.com/&quot;&gt;TVアニメ「ユーリ!!! on ICE」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://3lion-anime.com/&quot;&gt;TVアニメ「３月のライオン」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://anime-eupho.com/&quot;&gt;TVアニメ『響け！ユーフォニアム2』&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://g-tekketsu.com/&quot;&gt;機動戦士ガンダム 鉄血のオルフェンズ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://hrblog.basicinc.jp/entry/2016/12/22/192810&quot;&gt;人の名前を覚えられない人は、抽象的な世界に生きている人かもしれない - べーシック人事・HRブログ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%8A%E3%81%9D%E6%9D%BE%E3%81%95%E3%82%93&quot;&gt;おそ松さん - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%A5%9E%E8%B0%B7%E6%B5%A9%E5%8F%B2&quot;&gt;神谷浩史 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%95%E3%82%88%E3%81%AA%E3%82%89%E7%B5%B6%E6%9C%9B%E5%85%88%E7%94%9F_(%E3%82%A2%E3%83%8B%E3%83%A1)&quot;&gt;さよなら絶望先生 (アニメ) - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/NeXTSTEP2OSX/status/802762630091849728&quot;&gt;&quot;にしもつ「(ひむらさんについて) おまえいつもいるな」 #commustudy #osc16hi&quot;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.funewoamu.com/&quot;&gt;TVアニメ「舟を編む」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://izetta.jp/&quot;&gt;「終末のイゼッタ」&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://xenobladex.jp/&quot;&gt;『XenobladeX（ゼノブレイドクロス）』公式ホームページ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nintendo.co.jp/3ds/cafj/&quot;&gt;Newニンテンドー3DS専用 Xenoblade ゼノブレイド&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jp.square-enix.com/saga_sg/&quot;&gt;サガ スカーレット グレイス&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;(通称ワンコイン・サガ) &lt;a href=&quot;http://ameblo.jp/omame214/entry-10591841904.html&quot;&gt;アンリミテッドサガを楽しむ方法 ～基本編～｜おまめのブログ&lt;/a&gt; &quot;定価は7,140円ながら、2ヶ月後には１０００円以下でショップで販売されていた悲しきゲームソフト。今なら大抵のゲームショップでワンコイン以下で買えるでしょう。&quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.jp.playstation.com/psvr/&quot;&gt;PlayStation®VR&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.vive.com/jp/&quot;&gt;VIVE™&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://great-h.github.io/&quot;&gt;‎すごい広島 - great-h.github.io&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/eiel/gatoringuwoji-timakuritaionian-qing&quot;&gt;ガトリングを撃ちまくりたいお年頃 // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://blog.jessitron.com/2013/04/property-based-testing-what-is-it.html&quot;&gt;Property-based testing: what is it? (Abstractivate)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%8A%E3%83%89_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0)&quot;&gt;モナド&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/1a/&quot;&gt;https://washipo.nyoho.jp/1a/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep1a%20https://washipo.nyoho.jp/1a/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/1a.mp3"
+        length="30389904"
+        type="audio/mpeg"/>
+      <pubDate>Sat, 24 Dec 2016 00:33:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>えいる/ひむひむさんをゲストに迎えて、前期(2016年夏)のアニメやら今期(2016年秋)のアニメやらゲームやらの話をしました。</itunes:subtitle>
+      <itunes:duration>00:42:12</itunes:duration>
+    </item>
+    <item>
+      <title>1: H-Akka Ryoran (eiel)</title>
+      <link>https://washipo.nyoho.jp/1/</link>
+      <description>&lt;p&gt;えいる/ひむひむさんをゲストに迎えて、Firebase Hosting, Gatling, Akka, アクターモデル、真のオブジェクト指向、線形代数, Haskell, 関数型プログラミングなどについて話しました。&lt;/p&gt;
+
+
+&lt;h3&gt;Show notes&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/eielh&quot;&gt;えいる/ひむひむ (@eielh)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.webtouchmeeting.com/&quot;&gt;WEB TOUCH MEETING&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.webtouchmeeting.com/meeting/96web-touch-meeting.html&quot;&gt;第96回「WEB TOUCH MEETING」やります！｜MEETING｜WEB TOUCH MEETING&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wtm.connpass.com/event/45083/&quot;&gt;「WEB TOUCH MEETING」忘年会2016 - connpass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/souitirou&quot;&gt;宗一郎(@souitirou)さん | Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://firebase.google.com/docs/hosting/?hl=ja&quot;&gt;Firebase Hosting  |  Firebase&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://♨.ga&quot;&gt;♨.ga&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/teekay/items/135dc67e39f24997019e&quot;&gt;無料のドメインを取得する（2016年10月） - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/takatayoshitake/&quot;&gt;tkt(@takatayoshitake)さん&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://developers.google.com/cloud-messaging/&quot;&gt;Google Cloud Messaging&lt;/a&gt; (GCM)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://firebase.google.com/docs/cloud-messaging/&quot;&gt;Firebase Cloud Messaging&lt;/a&gt; (FCM)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.heroku.com/announcing_heroku_free_ssl_beta_and_flexible_dyno_hours&quot;&gt;Announcing Heroku Free SSL Beta and Flexible Dyno Hours | Heroku&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Herokuは便利だが役に立つ&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://gbdaitokai.connpass.com/event/37730/&quot;&gt;合同勉強会 in 大都会岡山 -2016 Winter- - connpass&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/eiel/gatoringuwoji-timakuritaionian-qing&quot;&gt;ガトリングを撃ちまくりたいお年頃 // Speaker Deck&lt;/a&gt; (合同勉強会 in 大都会岡山 -2016 Winter-での MT (middle talk) のスライド)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://gatling.io/#/&quot;&gt;Gatling Project, Stress Tool&lt;/a&gt; Gatling is an open-source load testing framework based on Scala, Akka and Netty
+&lt;ul&gt;
+&lt;li&gt;シナリオをScala用のDSLで書く&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://akka.io/&quot;&gt;Akka&lt;/a&gt; で出来ている&lt;/li&gt;
+&lt;li&gt;問題が起きる前に使用だが役に立つ&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://akka.io/&quot;&gt;Akka&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://twitter.com/_ko1&quot;&gt;_ko1(@_ko1)さん | Twitter&lt;/a&gt; (Sasada san)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://rebuild.fm/158/&quot;&gt;Rebuild: 158: Kill All The Threads (ko1, Matz)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.atdot.net/%7Eko1/diary/201609.html#d6&quot;&gt;Guild (だいありー)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/rikima/items/eeafb86ead21cece6b4e&quot;&gt;Akkaでround robinのremote routing - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://typesafehub.github.io/config/&quot;&gt;typesafe config&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/typesafehub/config&quot;&gt;typesafehub/config: Configuration library for JVM languages&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.lightbend.com/&quot;&gt;Lightbend, Inc. | @lightbend&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/toml-lang/toml&quot;&gt;toml-lang/toml: Tom's Obvious, Minimal Language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://github.com/bevry/cson&quot;&gt;bevry/cson: CoffeeScript-Object-Notation. Same as JSON but for CoffeeScript objects.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://graphite.readthedocs.io/en/latest/&quot;&gt;Graphite&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.influxdata.com/&quot;&gt;InfluxData&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.elastic.co/jp/&quot;&gt;Elastic (Formerly Elasticsearch)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.elastic.co/jp/products/kibana&quot;&gt;Kibana&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://grafana.org/&quot;&gt;Grafana - Beautiful Metrics Dashboards, Data Visualization and Monitoring&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://s-ja.hiroshima-u.jp/upload_files/download_files/20161221NHK%E8%AC%9B%E6%BC%94%E4%BC%9A.pdf&quot;&gt;‎NHK 大越健介記者による講演会 - 広島大学 (PDF)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://my-netdata.io/&quot;&gt;NetData: Get control of your Linux Servers. Simple. Effective. Awesome.&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://www.eurogamer.net/articles/digitalfoundry-2016-nintendo-switch-spec-analysis&quot;&gt;Nintendo Switch CPU and GPU clock speeds revealed • Eurogamer.net&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%AF%E3%82%BF%E3%83%BC%E3%83%A2%E3%83%87%E3%83%AB&quot;&gt;アクターモデル - Wikipedia&lt;/a&gt;
+&lt;ul&gt;
+&lt;li&gt;メッセージを送った後のことは&lt;a href=&quot;http://dic.nicovideo.jp/a/%E3%82%B7%E3%83%A9%E3%83%8D%E3%83%BC%E3%83%A8&quot;&gt;シラネーヨ&lt;/a&gt;というのがオブジェクト指向との最大の違いかもしれない。&lt;/li&gt;
+&lt;/ul&gt;&lt;/li&gt;
+&lt;li&gt;ポエム TODO 「お前らのオブジェクト指向は完全に間違っている (間違ってはいない)」&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://doc.akka.io/docs/akka/2.4.3/scala/stream/index.html&quot;&gt;Akka Streams&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala.html&quot;&gt;Scala Documentation — Akka Documentation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://doc.akka.io/docs/akka/current/scala/persistence.html&quot;&gt;Akka Persistence&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://doc.akka.io/docs/akka/current/scala/persistence-query.html&quot;&gt;Akka Persistence Query&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://doc.akka.io/docs/akka-stream-and-http-experimental/1.0-M2/scala/http/&quot;&gt;Akka HTTP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/lotz/items/0d68c8440d1f362d0c32&quot;&gt;Ladder of Functional Programming 〜関数型プログラミングのレベル分け〜 - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://qiita.com/eielh/items/911c2f993434639d86db&quot;&gt;行列プログラマ in Haskell - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;http://amzn.to/2h1v8ff&quot;&gt;行列プログラマー ―Pythonプログラムで学ぶ線形代数 (Philip N. Klein)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Functional_programming&quot;&gt;Functional programming - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%96%A2%E6%95%B0%E5%9E%8B%E8%A8%80%E8%AA%9E&quot;&gt;関数型言語 - Wikipedia&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;この説明は &lt;a href=&quot;https://washipo.nyoho.jp/1/&quot;&gt;https://washipo.nyoho.jp/1/&lt;/a&gt; でも見られます。&lt;/p&gt;
+&lt;p&gt;⌨️📱是非このエピソードの感想を&lt;a href=&quot;https://twitter.com/intent/tweet?text=%23washipo%20ep1%20https://washipo.nyoho.jp/1/%20&quot;&gt;Twitterでつぶやいてください&lt;/a&gt; (このlinkならハッシュタグ #washipo が自動でつきます)!&lt;/p&gt;</description>
+      <enclosure url="https://washipo.nyoho.jp/files/1.mp3"
+        length="69895440"
+        type="audio/mpeg"/>
+      <pubDate>Fri, 23 Dec 2016 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false"></guid>
+      <itunes:author>Nyoho</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>えいる/ひむひむさんをゲストに迎えて、Firebase Hosting, Gatling, Akka, アクターモデル、真のオブジェクト指向、線形代数, Haskell, 関数型プログラミングなどについて話しました。</itunes:subtitle>
+      <itunes:duration>01:37:04</itunes:duration>
+    </item>
+    <ttl>60</ttl>
+    <itunes:category text="Technology"/>
+    <itunes:image href="https://washipo.nyoho.jp/images/artwork.jpg"/>
+    <itunes:owner>
+      <itunes:name>Nyoho</itunes:name>
+      <itunes:email>algebraicallyClosedField@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Nyoho</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:subtitle>わしポは、わし、Nyohoの興味のあることに絞った内容のポッドキャストです。#如法会 のポッドキャスト版といった印象です。</itunes:subtitle>
+  </channel>
+</rss>

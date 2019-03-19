@@ -1,0 +1,881 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[Leading NLP Ninja]]></title>
+		<description><![CDATA[Leading NLP Ninjaでは最近のNLP (Natural Language Processing）に関連する論文をjojonkiが短く紹介します．NLPの勉強・研究から日が浅いので，間違ったことを言っていたらご指摘頂けると嬉しいです．
+紹介する論文は，基本的に下記の論文まとめから取り上げる予定です．
+https://github.com/jojonki/arXivNotes/issues 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+		<link>https://anchor.fm/lnlp-ninja</link>
+		<image>
+			<url>https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg</url>
+			<title>Leading NLP Ninja</title>
+			<link>https://anchor.fm/lnlp-ninja</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 19 Mar 2019 15:56:29 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/5a86bb4/podcast/rss" rel="self" type="application/rss+xml"/>
+		<copyright><![CDATA[jojonki]]></copyright>
+		<language><![CDATA[ja]]></language>
+		<anchor:support>https://anchor.fm/lnlp-ninja/support</anchor:support>
+		<anchor:station>5a86bb4</anchor:station>
+		<itunes:author>jojonki</itunes:author>
+		<itunes:summary>Leading NLP Ninjaでは最近のNLP (Natural Language Processing）に関連する論文をjojonkiが短く紹介します．NLPの勉強・研究から日が浅いので，間違ったことを言っていたらご指摘頂けると嬉しいです．
+紹介する論文は，基本的に下記の論文まとめから取り上げる予定です．
+https://github.com/jojonki/arXivNotes/issues 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>jojonki</itunes:name>
+			<itunes:email>podcasts7+5a86bb4@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+		<item>
+			<title><![CDATA[ep25: サブワードに基づく単語分散表現の縮約モデリング ]]></title>
+			<description><![CDATA[<p>第２５回では，NLP2019のサブワードを利用した単語分散表現のモデルについて解説しました．<br>
+今回紹介した論文は予稿集が公開され次第，issueを公開にします</p>
+<p>現在<a href="https://docs.google.com/forms/d/1JCNbTsRmn0jiitxGXYAwGi7gv0Uax9t9VSJszc_OrFE/">視聴者の方へのアンケート</a>を実施しているので，数分で終わりますのでぜひご協力ください．</p>
+<p>番組への支援は，こちらからお待ちしております．<a href="http://www.patreon.com/jojonki" target="_blank"><strong>www.patreon.com/jojonki</strong></a></p> 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep25-e3fp9v</link>
+			<guid isPermaLink="false">e6a844fd-f4ce-f929-6df0-814056192b03</guid>
+			<pubDate>Sun, 17 Mar 2019 07:55:34 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/2663167/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-17%2F11445206-44100-2-e3986500c5ea7.mp3" length="15598540" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;第２５回では，NLP2019のサブワードを利用した単語分散表現のモデルについて解説しました．&lt;br&gt;
+今回紹介した論文は予稿集が公開され次第，issueを公開にします&lt;/p&gt;
+&lt;p&gt;現在&lt;a href=&quot;https://docs.google.com/forms/d/1JCNbTsRmn0jiitxGXYAwGi7gv0Uax9t9VSJszc_OrFE/&quot;&gt;視聴者の方へのアンケート&lt;/a&gt;を実施しているので，数分で終わりますのでぜひご協力ください．&lt;/p&gt;
+&lt;p&gt;番組への支援は，こちらからお待ちしております．&lt;a href=&quot;http://www.patreon.com/jojonki&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.patreon.com/jojonki&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1102</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep24: BERT for Joint Intent Classification and Slot Filling]]></title>
+			<description><![CDATA[<p>第２４回では，BERTを利用してインテント分類とスロット抽出をjoint learningした手法を解説しました．<br>
+今回紹介した論文はこちらのissueで解説しています．</p>
+<p><a href="http://github.com/jojonki/arXivNotes/issues/194" target="_blank"><strong>github.com/jojonki/arXivNotes/issues/210</strong></a></p>
+<p>番組への支援は，こちらからお待ちしております．<a href="http://www.patreon.com/jojonki" target="_blank"><strong>www.patreon.com/jojonki</strong></a></p> 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep24-BERT-for-Joint-Intent-Classification-and-Slot-Filling-e3bm0h</link>
+			<guid isPermaLink="false">c1050407-7e73-3cbd-f959-1f5c5bc2cd55</guid>
+			<pubDate>Sat, 02 Mar 2019 05:54:37 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/2528721/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-2-2%2F10708078-44100-2-feec01e37eed3.mp3" length="17753904" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;第２４回では，BERTを利用してインテント分類とスロット抽出をjoint learningした手法を解説しました．&lt;br&gt;
+今回紹介した論文はこちらのissueで解説しています．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://github.com/jojonki/arXivNotes/issues/194&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;github.com/jojonki/arXivNotes/issues/210&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;番組への支援は，こちらからお待ちしております．&lt;a href=&quot;http://www.patreon.com/jojonki&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.patreon.com/jojonki&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1268</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep23: End-to-End Knowledge-Routed Relational Dialogue System for Automatic Diagnosis]]></title>
+			<description><![CDATA[<p>第２３回では，患者との対話を通して医療診断を行う対話システムKR-DSの解説をしました．<br>
+今回紹介した論文はこちらのissueで解説しています．</p>
+<p><a href="http://github.com/jojonki/arXivNotes/issues/194" target="_blank"><strong>github.com/jojonki/arXivNotes/issues/206</strong></a></p>
+<p>番組への支援は，こちらからお待ちしております．<a href="http://www.patreon.com/jojonki" target="_blank"><strong>www.patreon.com/jojonki</strong></a></p> 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep23-End-to-End-Knowledge-Routed-Relational-Dialogue-System-for-Automatic-Diagnosis-e39tml</link>
+			<guid isPermaLink="false">70cd2eeb-47da-e8dd-ec6b-e6e762305c30</guid>
+			<pubDate>Sun, 24 Feb 2019 12:04:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/2471061/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-24%2F10407412-44100-2-645865aff5188.mp3" length="24789050" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;第２３回では，患者との対話を通して医療診断を行う対話システムKR-DSの解説をしました．&lt;br&gt;
+今回紹介した論文はこちらのissueで解説しています．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://github.com/jojonki/arXivNotes/issues/194&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;github.com/jojonki/arXivNotes/issues/206&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;番組への支援は，こちらからお待ちしております．&lt;a href=&quot;http://www.patreon.com/jojonki&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.patreon.com/jojonki&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1759</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep22: What are the biases in my data?]]></title>
+			<description><![CDATA[<p>第２２回では，Microsoft Research Blogで解説された差別的バイアスの発見と分析に記事を解説しました．<a href="https://github.com/jojonki/AI-Post-Notes/issues/1" target="_blank"><strong>github.com/jojonki/AI-Post-Notes/issues/1</strong></a></p>
+<p><br></p>
+<p>番組への支援は，こちらからお待ちしております．<a href="http://www.patreon.com/jojonki" target="_blank"><strong>www.patreon.com/jojonki</strong></a></p>
+<p><br></p> 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep22-What-are-the-biases-in-my-data-e37r95</link>
+			<guid isPermaLink="false">51f169d8-6418-e499-b38f-2d55767f040a</guid>
+			<pubDate>Sun, 17 Feb 2019 07:57:42 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/2403045/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-17%2F10110329-44100-2-af668ef3033c1.mp3" length="11386625" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;第２２回では，Microsoft Research Blogで解説された差別的バイアスの発見と分析に記事を解説しました．&lt;a href=&quot;https://github.com/jojonki/AI-Post-Notes/issues/1&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;github.com/jojonki/AI-Post-Notes/issues/1&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;番組への支援は，こちらからお待ちしております．&lt;a href=&quot;http://www.patreon.com/jojonki&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.patreon.com/jojonki&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt; 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>801</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep21: BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding]]></title>
+			<description><![CDATA[<p>第２１回では，Googleによる双方向コンテキストを獲得した言語モデルBERTの解説をしました．<br>
+今回紹介した論文はこちらのissueで解説しています．</p>
+<p><a href="http://github.com/jojonki/arXivNotes/issues/194" target="_blank"><strong>github.com/jojonki/arXivNotes/issues/199</strong></a></p>
+<p>番組への支援は，こちらからお待ちしております．<a href="http://www.patreon.com/jojonki" target="_blank"><strong>www.patreon.com/jojonki</strong></a></p> 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep21-BERT-Pre-training-of-Deep-Bidirectional-Transformers-for-Language-Understanding-e33lg9</link>
+			<guid isPermaLink="false">69d22a52-679b-528e-59bb-f544d44458d9</guid>
+			<pubDate>Sun, 03 Feb 2019 12:41:59 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/2266057/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-1-3%2F9461543-44100-2-220d707eace46.mp3" length="27312483" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;第２１回では，Googleによる双方向コンテキストを獲得した言語モデルBERTの解説をしました．&lt;br&gt;
+今回紹介した論文はこちらのissueで解説しています．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://github.com/jojonki/arXivNotes/issues/194&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;github.com/jojonki/arXivNotes/issues/199&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;番組への支援は，こちらからお待ちしております．&lt;a href=&quot;http://www.patreon.com/jojonki&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.patreon.com/jojonki&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1939</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep20: Comprehensive evaluation of statistical speech waveform synthesis]]></title>
+			<description><![CDATA[<p>第２０回では，Amazonが行った音声合成の知覚評価に関する論文を解説しました．<br>
+今回紹介した論文はこちらのissueで解説しています．</p>
+<p><a href="http://github.com/jojonki/arXivNotes/issues/194" target="_blank"><strong>github.com/jojonki/arXivNotes/issues/194</strong></a></p>
+<p>番組への支援は，こちらからお待ちしております．<a href="http://www.patreon.com/jojonki" target="_blank"><strong>www.patreon.com/jojonki</strong></a></p> 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep20-Comprehensive-evaluation-of-statistical-speech-waveform-synthesis-e31pp2</link>
+			<guid isPermaLink="false">6958ef07-1a6f-f084-3085-53692f2ce216</guid>
+			<pubDate>Sun, 27 Jan 2019 08:40:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/2204898/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-27%2F8920978-44100-2-d4ec98b81df35.mp3" length="16229481" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;第２０回では，Amazonが行った音声合成の知覚評価に関する論文を解説しました．&lt;br&gt;
+今回紹介した論文はこちらのissueで解説しています．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://github.com/jojonki/arXivNotes/issues/194&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;github.com/jojonki/arXivNotes/issues/194&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;番組への支援は，こちらからお待ちしております．&lt;a href=&quot;http://www.patreon.com/jojonki&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.patreon.com/jojonki&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1147</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep19: SentencePiece: A simple and language independent subword tokenizer and detokenizer for NLP]]></title>
+			<description><![CDATA[<p>第１９回では，Googleが開発したサブワードによるTokenizer/DetokenizerであるSentencePieceを解説しました．<br>
+今回紹介した論文はこちらのissueで解説しています．</p>
+<p><a href="http://github.com/jojonki/arXivNotes/issues/179" target="_blank"><strong>github.com/jojonki/arXivNotes/issues/186</strong></a></p>
+<p>番組への支援は，こちらからお待ちしております．<a href="http://www.patreon.com/jojonki" target="_blank"><strong>www.patreon.com/jojonki</strong></a></p> 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep19-SentencePiece-A-simple-and-language-independent-subword-tokenizer-and-detokenizer-for-NLP-e2vnnb</link>
+			<guid isPermaLink="false">56ed6d1a-5384-2dfd-8fe5-11e50c67c75f</guid>
+			<pubDate>Sun, 20 Jan 2019 13:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/2137259/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-18%2F8518695-44100-2-12e7cface08b5.mp3" length="31583718" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;第１９回では，Googleが開発したサブワードによるTokenizer/DetokenizerであるSentencePieceを解説しました．&lt;br&gt;
+今回紹介した論文はこちらのissueで解説しています．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://github.com/jojonki/arXivNotes/issues/179&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;github.com/jojonki/arXivNotes/issues/186&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;番組への支援は，こちらからお待ちしております．&lt;a href=&quot;http://www.patreon.com/jojonki&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.patreon.com/jojonki&lt;/strong&gt;&lt;/a&gt;&lt;/p&gt; 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2244</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep18: PyText: A Seamless Path from NLP research to production]]></title>
+			<description><![CDATA[<p>ep18: PyText: A Seamless Path from NLP research to production<br>
+第１８回では，FacebookによるNLPのモデル化のためのフレームワーク，PyTextを解説しました．<br>
+今回紹介した論文はこちらのissueで解説しています．<br>
+</p>
+<p><a href="http://github.com/jojonki/arXivNotes/issues/179" rel="nofollow" target="_blank">github.com/jojonki/arXivNotes/issues/179</a><br>
+</p>
+<p>番組への支援は，こちらからお待ちしております．<a href="http://www.patreon.com/jojonki" rel="nofollow" target="_blank">www.patreon.com/jojonki</a> <br>
+</p>
+<p>今年もよろしくおねがいします！<br>
+</p><p> 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep18-PyText-A-Seamless-Path-from-NLP-research-to-production-e2umue</link>
+			<guid isPermaLink="false">c047b958-31d9-b9dd-4f99-02def32d2894</guid>
+			<pubDate>Mon, 14 Jan 2019 14:42:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/2103694/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2019-0-14%2F8332118-44100-2-febf0d9d076d2.mp3" length="23724410" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;ep18: PyText: A Seamless Path from NLP research to production&lt;br&gt;
+第１８回では，FacebookによるNLPのモデル化のためのフレームワーク，PyTextを解説しました．&lt;br&gt;
+今回紹介した論文はこちらのissueで解説しています．&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;http://github.com/jojonki/arXivNotes/issues/179&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;github.com/jojonki/arXivNotes/issues/179&lt;/a&gt;&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;番組への支援は，こちらからお待ちしております．&lt;a href=&quot;http://www.patreon.com/jojonki&quot; rel=&quot;nofollow&quot; target=&quot;_blank&quot;&gt;www.patreon.com/jojonki&lt;/a&gt; &lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;今年もよろしくおねがいします！&lt;br&gt;
+&lt;/p&gt;&lt;p&gt; 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1682</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep17: User Modeling for Task Oriented Dialogues]]></title>
+			<description><![CDATA[<p>第１７回では，Googleによるタスク指向対話におけるユーザーシミュレーターの論文について解説しました．<br>
+</p>
+<p>今回紹介した論文はこちらのissueで解説しています．</p>
+<p><a href="https://github.com/jojonki/arXivNotes/issues/180">github.com/jojonki/arXivNotes/issues/180</a></p>
+<p><br></p>
+<p>番組への支援は，こちらからお待ちしております．<a href="http://www.patreon.com/jojonki" rel="noopener noreferrer" target="_blank"><strong>www.patreon.com/jojonki</strong></a>&nbsp;</p> 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep17-User-Modeling-for-Task-Oriented-Dialogues-e2rrnl</link>
+			<guid isPermaLink="false">7e29640a-6b75-1887-2680-458e03d15cd2</guid>
+			<pubDate>Mon, 31 Dec 2018 05:07:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/2010293/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-31%2F7730838-44100-2-168a74039f63e.mp3" length="44405891" type="audio/mpeg"/>
+			<itunes:summary>&lt;p&gt;第１７回では，Googleによるタスク指向対話におけるユーザーシミュレーターの論文について解説しました．&lt;br&gt;
+&lt;/p&gt;
+&lt;p&gt;今回紹介した論文はこちらのissueで解説しています．&lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://github.com/jojonki/arXivNotes/issues/180&quot;&gt;github.com/jojonki/arXivNotes/issues/180&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;番組への支援は，こちらからお待ちしております．&lt;a href=&quot;http://www.patreon.com/jojonki&quot; rel=&quot;noopener noreferrer&quot; target=&quot;_blank&quot;&gt;&lt;strong&gt;www.patreon.com/jojonki&lt;/strong&gt;&lt;/a&gt;&amp;nbsp;&lt;/p&gt; 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3160</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep16: Contextual Topic Modeling For Dialog Systems]]></title>
+			<description><![CDATA[第１６回では，Amazonによるコンテキストを利用したトピック分類のモデルについて解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/162
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki
+ 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep16-Contextual-Topic-Modeling-For-Dialog-Systems-e2nqrr</link>
+			<guid isPermaLink="false">47d8ff0f-7126-32b4-a515-d5e6823f6c3b</guid>
+			<pubDate>Sun, 09 Dec 2018 12:29:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1878331/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-9%2F6874505-44100-2-b6b9ec9232bc5.mp3" length="24628414" type="audio/mpeg"/>
+			<itunes:summary>第１６回では，Amazonによるコンテキストを利用したトピック分類のモデルについて解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/162
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki
+ 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1747</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep15: Another Diversity-Promoting Objective Function for Neural Dialogue Generation]]></title>
+			<description><![CDATA[第１５回では，AAAI 2019 Deep Dialに採択された，ニューラル対話生成モデルの論文を解説しました．あのりょぼっとさんの論文でして恐縮しながら解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．理解が及ばず説明が曖昧な個所がありましたが，りょぼっとさん本人にissueで細くコメントもらっていますので是非見てみてください．
+github.com/jojonki/arXivNotes/issues/159 
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep15-Another-Diversity-Promoting-Objective-Function-for-Neural-Dialogue-Generation-e2m6gk</link>
+			<guid isPermaLink="false">aac48d37-300e-718a-761d-28daa0d8668a</guid>
+			<pubDate>Sun, 02 Dec 2018 13:39:08 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1824724/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-11-2%2F6420116-44100-2-ed94e971dd195.mp3" length="26875037" type="audio/mpeg"/>
+			<itunes:summary>第１５回では，AAAI 2019 Deep Dialに採択された，ニューラル対話生成モデルの論文を解説しました．あのりょぼっとさんの論文でして恐縮しながら解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．理解が及ばず説明が曖昧な個所がありましたが，りょぼっとさん本人にissueで細くコメントもらっていますので是非見てみてください．
+github.com/jojonki/arXivNotes/issues/159 
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1908</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep14: XNLI: Evaluating Cross-lingual Sentence Representations]]></title>
+			<description><![CDATA[第１４回では，Facebook AI Researchによる多言語におけるNLIタスクの評価データセット及び多言語NLIにおけるベースラインを解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/155 
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki  
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep14-XNLI-Evaluating-Cross-lingual-Sentence-Representations-e2ks9c</link>
+			<guid isPermaLink="false">a52eb86c-13ad-cfb7-6851-20dacef0da3d</guid>
+			<pubDate>Sun, 25 Nov 2018 11:12:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1781484/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-10-25%2F6014648-44100-2-f9bc7459ca1c4.mp3" length="31794607" type="audio/mpeg"/>
+			<itunes:summary>第１４回では，Facebook AI Researchによる多言語におけるNLIタスクの評価データセット及び多言語NLIにおけるベースラインを解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/155 
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki  
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2259</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep13: You May Not Need Attention]]></title>
+			<description><![CDATA[第１３回では，アテンションを使わず，エンコーダー・デコーダーを統合した，機械翻訳モデルの手法を解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/148
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki
+
+ 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep13-You-May-Not-Need-Attention-e2havi</link>
+			<guid isPermaLink="false">fbe04f5c-a73f-eeed-b119-6e43792068f2</guid>
+			<pubDate>Sun, 04 Nov 2018 13:43:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1665458/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-10-4%2F5577504-44100-2-93ea8066ac655.mp3" length="18505410" type="audio/mpeg"/>
+			<itunes:summary>第１３回では，アテンションを使わず，エンコーダー・デコーダーを統合した，機械翻訳モデルの手法を解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/148
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki
+
+ 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1536</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep12: Word Embedding based Edit Distance ]]></title>
+			<description><![CDATA[第１２回では，単語埋め込みを利用した編集距離を利用して，文の類似度を計算する手法を解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/145
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep12-Word-Embedding-based-Edit-Distance-e2g6s1</link>
+			<guid isPermaLink="false">2d914a01-b5b2-5748-1bfe-6716927039f5</guid>
+			<pubDate>Sun, 28 Oct 2018 12:52:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1628481/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-9-28%2F5436262-44100-2-a395c37b1e358.mp3" length="25384271" type="audio/mpeg"/>
+			<itunes:summary>第１２回では，単語埋め込みを利用した編集距離を利用して，文の類似度を計算する手法を解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/145
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1810</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep11: Query Tracking for E-commerce Conversational Search: A Machine Comprehension Perspective]]></title>
+			<description><![CDATA[第１１回では，CIKMでAlibabaが発表した，Eコーマスの検索を対話的に行う対話検索のモデルをを解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/139
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep11-Query-Tracking-for-E-commerce-Conversational-Search-A-Machine-Comprehension-Perspective-e2eohm</link>
+			<guid isPermaLink="false">229b44cb-665a-d131-7a10-b5aa013b0f9e</guid>
+			<pubDate>Sun, 21 Oct 2018 12:35:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1581046/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-9-21%2F5284726-44100-2-b9ee1ee5763cf.mp3" length="33691770" type="audio/mpeg"/>
+			<itunes:summary>第１１回では，CIKMでAlibabaが発表した，Eコーマスの検索を対話的に行う対話検索のモデルをを解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/139
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2406</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep10: Automatic Evaluation of Neural Personality-based Chatbots]]></title>
+			<description><![CDATA[第１０回では，対話応答生成モデルが，個性を反映した応答を生成出来ているかを，自動評価する手法を提案したモデルを解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/138
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep10-Automatic-Evaluation-of-Neural-Personality-based-Chatbots-e2bq2k</link>
+			<guid isPermaLink="false">3ae53907-d0e4-5e0b-b296-b52291fef24f</guid>
+			<pubDate>Sun, 07 Oct 2018 15:07:04 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1484308/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-9-7%2F5002536-44100-2-925d8928c9e98.mp3" length="30653354" type="audio/mpeg"/>
+			<itunes:summary>第１０回では，対話応答生成モデルが，個性を反映した応答を生成出来ているかを，自動評価する手法を提案したモデルを解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+github.com/jojonki/arXivNotes/issues/138
+
+番組への支援は，こちらからお待ちしております． www.patreon.com/jojonki 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2189</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep9: Learning and Evaluating Sparse Interpretable Sentence Embeddings]]></title>
+			<description><![CDATA[第９回では，文ベクトルをスパース化することで解釈性を与えることが出来ないか，という問題に挑戦した論文を解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+https://github.com/jojonki/arXivNotes/issues/137
+
+番組への支援は，こちらからお待ちしております． https://www.patreon.com/jojonki 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep9-Learning-and-Evaluating-Sparse-Interpretable-Sentence-Embeddings-e2anu5</link>
+			<guid isPermaLink="false">c9eb26b4-8776-583a-e8e9-0ca1541317a1</guid>
+			<pubDate>Mon, 01 Oct 2018 14:29:51 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1449349/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-9-1%2F4885222-44100-2-e6b97b5d8c782.mp3" length="39434733" type="audio/mpeg"/>
+			<itunes:summary>第９回では，文ベクトルをスパース化することで解釈性を与えることが出来ないか，という問題に挑戦した論文を解説しました．
+
+今回紹介した論文はこちらのissueで解説しています．
+https://github.com/jojonki/arXivNotes/issues/137
+
+番組への支援は，こちらからお待ちしております． https://www.patreon.com/jojonki 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2814</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep8: Zero-Shot Adaptive Transfer for Conversational Language Understanding]]></title>
+			<description><![CDATA[第８回では，Microsoftのスロットタギングの論文を解説しました．
+今回紹介した論文の解説はこちらにあります．https://github.com/jojonki/arXivNotes/issues/128
+
+前々回のエピソードを予め聞いておくと，今回の内容は分かりやすいかもしれません．
+https://anchor.fm/lnlp-ninja/episodes/ep6-Bag-of-Experts-Architectures-for-Model-Reuse-in-Conversational-Language-Understanding-e24tuf 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep8-Zero-Shot-Adaptive-Transfer-for-Conversational-Language-Understanding-e29gdv</link>
+			<guid isPermaLink="false">1dacf462-8d8a-da15-3f70-fb0ba2ba3e61</guid>
+			<pubDate>Mon, 24 Sep 2018 09:48:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1408895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-8-24%2F4760324-44100-2-1b1b2bdc70341.mp3" length="20590965" type="audio/mpeg"/>
+			<itunes:summary>第８回では，Microsoftのスロットタギングの論文を解説しました．
+今回紹介した論文の解説はこちらにあります．https://github.com/jojonki/arXivNotes/issues/128
+
+前々回のエピソードを予め聞いておくと，今回の内容は分かりやすいかもしれません．
+https://anchor.fm/lnlp-ninja/episodes/ep6-Bag-of-Experts-Architectures-for-Model-Reuse-in-Conversational-Language-Understanding-e24tuf 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1468</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep7: Training Millions of Personalized Dialogue Agents]]></title>
+			<description><![CDATA[第７回では，EMNLP 2018でFacebookが開発したペルソナデータセット及びそのペルソナに沿ったEnd-to-end雑談対話システムを解説しました．
+今回紹介した論文の解説はこちらにあります．https://github.com/jojonki/arXivNotes/issues/130 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep7-Training-Millions-of-Personalized-Dialogue-Agents-e26fle</link>
+			<guid isPermaLink="false">ef5899a0-d167-4938-0f7b-76ab1c013511</guid>
+			<pubDate>Tue, 11 Sep 2018 09:46:40 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1309806/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-8-11%2F4514360-44100-2-a9ff3a03cec25.mp3" length="22798047" type="audio/mpeg"/>
+			<itunes:summary>第７回では，EMNLP 2018でFacebookが開発したペルソナデータセット及びそのペルソナに沿ったEnd-to-end雑談対話システムを解説しました．
+今回紹介した論文の解説はこちらにあります．https://github.com/jojonki/arXivNotes/issues/130 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1625</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep6: Bag of Experts Architectures for Model Reuse in Conversational Language Understanding]]></title>
+			<description><![CDATA[第６回では，NAACL-HLT 2018より，Microsoftのスロットタギングの論文を紹介しました．
+今回紹介した論文の解説はこちらにあります．
+https://github.com/jojonki/arXivNotes/issues/129 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep6-Bag-of-Experts-Architectures-for-Model-Reuse-in-Conversational-Language-Understanding-e24tuf</link>
+			<guid isPermaLink="false">2d445783-94a7-7a8a-cb3b-58f596934f67</guid>
+			<pubDate>Thu, 06 Sep 2018 03:10:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1258895/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-8-3%2F4374921-44100-1-6ebc9fb80f687.mp3" length="12603173" type="audio/mpeg"/>
+			<itunes:summary>第６回では，NAACL-HLT 2018より，Microsoftのスロットタギングの論文を紹介しました．
+今回紹介した論文の解説はこちらにあります．
+https://github.com/jojonki/arXivNotes/issues/129 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1566</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep5: Analysing the potential of seq-to-seq models for incremental interpretation in task-oriented dialogue]]></title>
+			<description><![CDATA[第５回では，EMNLP2018から対話における非流暢性がSeq2Seqに及ぼす影響を調べた論文を紹介しました．
+https://github.com/jojonki/arXivNotes/issues/125 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep5-Analysing-the-potential-of-seq-to-seq-models-for-incremental-interpretation-in-task-oriented-dialogue-e248s9</link>
+			<guid isPermaLink="false">4da4cffe-142f-c029-7611-9a468e8f493e</guid>
+			<pubDate>Thu, 30 Aug 2018 04:29:13 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1237321/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-7-30%2F4314793-44100-2-d1c51ee2c93d8.mp3" length="38143394" type="audio/mpeg"/>
+			<itunes:summary>第５回では，EMNLP2018から対話における非流暢性がSeq2Seqに及ぼす影響を調べた論文を紹介しました．
+https://github.com/jojonki/arXivNotes/issues/125 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1906</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep4: CoQA: A Conversational Question Answering Challeng]]></title>
+			<description><![CDATA[第４回では，スタンフォード大から公開された対話的なQAのコーパスの論文を説明しました．
+https://github.com/jojonki/arXivNotes/issues/124 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep4-CoQA-A-Conversational-Question-Answering-Challeng-e23r82</link>
+			<guid isPermaLink="false">236fb0bd-3fe5-99eb-cfe8-017116802a51</guid>
+			<pubDate>Tue, 28 Aug 2018 03:05:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1223362/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-10-17%2Fep4--CoQA--A-Conversational-Qu-605ee983fffd8.m4a" length="21581774" type="audio/x-m4a"/>
+			<itunes:summary>第４回では，スタンフォード大から公開された対話的なQAのコーパスの論文を説明しました．
+https://github.com/jojonki/arXivNotes/issues/124 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1334</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep3: Large-Scale Multi-Domain Belief Tracking with Knowledge Sharing]]></title>
+			<description><![CDATA[第３回ではACL 2018からBelief Trackingに関する論文を説明しました．
+今回紹介した論文のまとめ
+github.com/jojonki/arXivNotes/issues/107 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep3-Large-Scale-Multi-Domain-Belief-Tracking-with-Knowledge-Sharing-e239a1</link>
+			<guid isPermaLink="false">6b5e8840-7860-c628-3b99-ee6477c91808</guid>
+			<pubDate>Fri, 24 Aug 2018 04:13:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1204993/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-7-24%2F4225561-44100-2-aad9df67d89a4.mp3" length="32140351" type="audio/mpeg"/>
+			<itunes:summary>第３回ではACL 2018からBelief Trackingに関する論文を説明しました．
+今回紹介した論文のまとめ
+github.com/jojonki/arXivNotes/issues/107 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1339</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep2: Zero-Shot Dialog Generation with Cross-Domain Latent Actions]]></title>
+			<description><![CDATA[第２回ではSIGDIAL 2018でベストペーパーを獲得した，対話応答生成のモデルを説明しました．タスク指向型の対話における新しい応答生成モデルの提案になっていて面白いです．
+今回紹介した論文のまとめ
+https://github.com/jojonki/arXivNotes/issues/123 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep2-Zero-Shot-Dialog-Generation-with-Cross-Domain-Latent-Actions-e22ksh</link>
+			<guid isPermaLink="false">e10dd6eb-87ef-f5ad-68e4-31ca58d76382</guid>
+			<pubDate>Tue, 21 Aug 2018 01:15:27 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1184081/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-10-17%2Fep2--Zero-Shot-Dialog-Generati-86525d011d041.m4a" length="34635929" type="audio/x-m4a"/>
+			<itunes:summary>第２回ではSIGDIAL 2018でベストペーパーを獲得した，対話応答生成のモデルを説明しました．タスク指向型の対話における新しい応答生成モデルの提案になっていて面白いです．
+今回紹介した論文のまとめ
+https://github.com/jojonki/arXivNotes/issues/123 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2141</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[ep1: Joint Learning of Domain Classification and Out-of-Domain Detection with Dynamic Class Weighting for Satisficing False Acceptance Rates.]]></title>
+			<description><![CDATA[第１回ではInterspeech 2018から対話システムにおけるドメイン選択，ドメイン外発話棄却をテーマにした論文を紹介します．
+今回紹介した論文のまとめ．
+https://github.com/jojonki/arXivNotes/issues/112
+ 
+
+Become a supporter of this podcast:
+
+<a href="https://anchor.fm/lnlp-ninja/support" rel="payment">https://anchor.fm/lnlp-ninja/support</a>
+
+]]></description>
+			<link>https://anchor.fm/lnlp-ninja/episodes/ep1-Joint-Learning-of-Domain-Classification-and-Out-of-Domain-Detection-with-Dynamic-Class-Weighting-for-Satisficing-False-Acceptance-Rates-e21mna</link>
+			<guid isPermaLink="false">c7b7d900-7c1f-332e-46a5-2d117872d943</guid>
+			<pubDate>Fri, 17 Aug 2018 20:35:32 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/5a86bb4/podcast/play/1153194/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-10-17%2Fep1--Joint-Learning-of-Domain--7428889bc7471.m4a" length="13135214" type="audio/x-m4a"/>
+			<itunes:summary>第１回ではInterspeech 2018から対話システムにおけるドメイン選択，ドメイン外発話棄却をテーマにした論文を紹介します．
+今回紹介した論文のまとめ．
+https://github.com/jojonki/arXivNotes/issues/112
+ 
+
+Become a supporter of this podcast:
+
+&lt;a href=&quot;https://anchor.fm/lnlp-ninja/support&quot; rel=&quot;payment&quot;&gt;https://anchor.fm/lnlp-ninja/support&lt;/a&gt;
+
+</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>812</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/849237/849237-1542458148248-d7cc8d7e51572.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+	</channel>
+</rss>

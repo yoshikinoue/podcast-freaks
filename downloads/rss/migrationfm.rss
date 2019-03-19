@@ -1,0 +1,614 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+  xmlns:atom="http://www.w3.org/2005/Atom"
+  xmlns:content="http://purl.org/rss/1.0/modules/content/"
+  xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+  xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+  xmlns:media="http://search.yahoo.com/mrss/">
+  <channel>
+    <title>Migration.fm</title>
+    <description>日夜Salesforceと格闘しながらサービスを開発しているエンジニアが話す Salesforce Developer 向けのPodcastです。</description>
+    <lastBuildDate>Sat, 02 Mar 2019 11:34:00 +0000</lastBuildDate>
+    <link>https://migration.fm</link>
+    <language>ja</language>
+    <atom:link href="https://migration.fmfeed.xml" rel="self" type="application/rss+xml"/>
+    <media:thumbnail url="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+    <media:keywords>Salesforce, Podcast</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Podcasting</media:category>
+    <copyright>© 2016 Akira.Kuratani</copyright>
+    <image>
+			<link>https://migration.fm</link>
+			<url>https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg</url>
+			<title>Migration.fm</title>
+		</image>
+		<itunes:subtitle>Salesforce Developer 向け Podcast migration.fm #migrationfm</itunes:subtitle>
+		<itunes:author>Akira.Kuratani</itunes:author>
+		<itunes:summary>日夜Salesforceと格闘しながらサービスを開発しているエンジニアが話す Salesforce Developer 向けのPodcastです。</itunes:summary>
+		<itunes:keywords>Salesforce, Podcast</itunes:keywords>
+		<itunes:owner>
+			<itunes:name>Akira.Kuratani</itunes:name>
+			<itunes:email>migrationfm@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:image href="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+		<itunes:category text="Technology">
+      <itunes:category text="Podcasting"/>
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    <googleplay:email>migrationfm@gmail.com</googleplay:email>
+    <googleplay:description>日夜Salesforceと格闘しながらサービスを開発しているエンジニアが話す Salesforce Developer 向けのPodcastです。</googleplay:description>
+    <googleplay:explicit>no</googleplay:explicit>
+
+    <pubDate>Sat, 02 Mar 2019 11:34:00 +0000</pubDate>
+    <lastBuildDate>Sat, 02 Mar 2019 11:34:00 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>33: Road to Lightning Champion (surounin)</title>
+        <description><![CDATA[今回は、ユー・エス・イーの畑本さんをお招きして、AIアプリコンテスト後の変化、Dreamforce思い出話などを伺いました。]]></description>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        <link>https://migration.fm/033/</link>
+        <guid isPermaLink="true">https://migration.fm/033/</guid>
+        
+        
+        <category>Podcast</category>
+        
+        <enclosure type="audio/mpeg" url="http://media.blubrry.com/migrationfm/http://feeds.soundcloud.com/stream/583742067-migrationfm-33-road-to-lightning-champion-surounin.mp3" length="28485561"/>
+        <itunes:author>Akira.Kuratani</itunes:author>
+        <itunes:subtitle><![CDATA[今回は、ユー・エス・イーの畑本さんをお招きして、AIアプリコンテスト後の変化、Dreamfor...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[今回は、ユー・エス・イーの畑本さんをお招きして、AIアプリコンテスト後の変化、Dreamforce思い出話などを伺いました。]]></itunes:summary>
+        <content:encoded><![CDATA[<h1 id="show-notes">Show notes</h1>
+
+<p>今回は、ユー・エス・イーの畑本さんをお招きして、AIアプリコンテスト後の変化、Dreamforce思い出話などを伺いました。</p>
+
+<h2 id="アプリコンテストに優勝したその後">アプリコンテストに優勝したその後</h2>
+<ul>
+  <li><a href="https://developer.salesforce.com/ja/einstein_appscontest_2018">Salesforce AI アプリコンテスト 2018</a></li>
+  <li><a href="https://www.salesforce.com/jp/events/summer18/">Salesforce Summer 2018</a></li>
+  <li><a href="- [Salesforce Summer](https://www.salesforce.com/jp/events/summer18/)">Dreamforce</a></li>
+  <li><a href="https://www.salesforce.com/jp/events/worldtour/ja/overview/">Salesforce World Tour Tokyo 2018</a></li>
+</ul>
+
+<h2 id="コミュニティ活動">コミュニティ活動</h2>
+<ul>
+  <li><a href="https://www.salesforce.com/campaign/lightning-champions/">Lightning Chanpions</a></li>
+  <li><a href="https://twitter.com/FabienTaillon/status/1100692446852378624">Bye bye open source Aura framework 👋</a></li>
+</ul>
+
+<h2 id="今年の抱負">今年の抱負</h2>
+<ul>
+  <li>一歩を踏み出す勇気</li>
+  <li><a href="https://sfdg.tokyo">Tokyo Salesforce Developer Group</a></li>
+</ul>
+]]></content:encoded>
+        <itunes:duration>00:57:05</itunes:duration>
+        <itunes:keywords>Salesforce, Dreamforce, LightningChampion, einstein, ai</itunes:keywords>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
+        <title>32: Japan Dreamin' 2019</title>
+        <description><![CDATA[今回は、Japan Dreamin' 2019 に参加して、運営メンバーや参加者の方々にインタビューしました。]]></description>
+        <pubDate>Sat, 26 Jan 2019 00:00:00 +0000</pubDate>
+        <link>https://migration.fm/032/</link>
+        <guid isPermaLink="true">https://migration.fm/032/</guid>
+        
+        
+        <category>Podcast</category>
+        
+        <enclosure type="audio/mpeg" url="http://media.blubrry.com/migrationfm/http://feeds.soundcloud.com/stream/569457522-migrationfm-32-japan-dreamin-2019.mp3" length="17111881"/>
+        <itunes:author>Akira.Kuratani</itunes:author>
+        <itunes:subtitle><![CDATA[今回は、Japan Dreamin' 2019 に参加して、運営メンバーや参加者の方々にインタ...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[今回は、Japan Dreamin' 2019 に参加して、運営メンバーや参加者の方々にインタビューしました。]]></itunes:summary>
+        <content:encoded><![CDATA[<h1 id="show-notes">Show notes</h1>
+
+<p>今回は、Japan Dreamin’ 2019 に参加して、運営メンバーや参加者の方々にインタビューしました。会場内で収録したため、周辺の音が入ってしまっており、聞きづらいところもありますが、ご容赦ください。</p>
+
+<h2 id="japan-dreamin-2019">Japan Dreamin’ 2019</h2>
+
+<ul>
+  <li>2019-01-26 <a href="https://connpass.com/event/109851/">Japan Dreamin’ 2019</a></li>
+  <li><a href="https://togetter.com/li/1312869">Togetter - Japan Dreamin’ 2019</a></li>
+</ul>
+]]></content:encoded>
+        <itunes:duration>00:31:08</itunes:duration>
+        <itunes:keywords>Salesforce, JapanDreamin</itunes:keywords>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
+        <title>31: Retrospective 2018 (yonet77)</title>
+        <description><![CDATA[今回は、TAODriveの米井さんをお招きして、2018年のコミュニティ活動のふりかえりを話しました。]]></description>
+        <pubDate>Wed, 26 Dec 2018 00:00:00 +0000</pubDate>
+        <link>https://migration.fm/031/</link>
+        <guid isPermaLink="true">https://migration.fm/031/</guid>
+        
+        
+        <category>Podcast</category>
+        
+        <enclosure type="audio/mpeg" url="http://media.blubrry.com/migrationfm/http://feeds.soundcloud.com/stream/551453655-migrationfm-31-retrospective-2018-yonet77.mp3" length="38618040"/>
+        <itunes:author>Akira.Kuratani</itunes:author>
+        <itunes:subtitle><![CDATA[今回は、TAODriveの米井さんをお招きして、2018年のコミュニティ活動のふりかえりを話し...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[今回は、TAODriveの米井さんをお招きして、2018年のコミュニティ活動のふりかえりを話しました。]]></itunes:summary>
+        <content:encoded><![CDATA[<h1 id="show-notes">Show notes</h1>
+
+<p>今回は、TAODriveの米井さんをお招きして、2018年のコミュニティ活動のふりかえりを話しました。年末ということもあり、終始グダグダな収録ですみません。</p>
+
+<h2 id="2018年のふりかえり">2018年のふりかえり</h2>
+<h3 id="1月">1月</h3>
+<ul>
+  <li><a href="https://sfdg.tokyo/blog/2018-01-16-Lightning-Platform-Meetup/">Lightning Platform Meetup(2018/01/16)</a></li>
+</ul>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">明日1/15から Lightning Now Tour Japan はじまります！参加者の方にはノベルティをご用意してお待ちしています。<a href="https://twitter.com/hashtag/LightningNow?src=hash&amp;ref_src=twsrc%5Etfw">#LightningNow</a> <a href="https://t.co/iza1uWoO3m">pic.twitter.com/iza1uWoO3m</a></p>&mdash; SalesforceDevelopers (@SalesforceDevJP) <a href="https://twitter.com/SalesforceDevJP/status/952498614483365888?ref_src=twsrc%5Etfw">2018年1月14日</a></blockquote>
+
+<h3 id="2月">2月</h3>
+<ul>
+  <li><a href="https://sfdg.tokyo/blog/2018-02-15-DevSumi/">Developers Summit 2018(2018/02/15)</a></li>
+  <li><a href="https://blog.freedom-man.com/skillup-with-salesforce/">Salesforceで技術は学べるのか？</a></li>
+</ul>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">また、デベロッパー観点でSalesforceでのキャリアとかメリデメを討論する別セッションもあるので、こちらもどうぞ。コミュニティーメンバーが多数登壇します！<a href="https://twitter.com/hashtag/devsumi?src=hash&amp;ref_src=twsrc%5Etfw">#devsumi</a> <a href="https://twitter.com/hashtag/sfdg?src=hash&amp;ref_src=twsrc%5Etfw">#sfdg</a> <a href="https://twitter.com/hashtag/sfdgr?src=hash&amp;ref_src=twsrc%5Etfw">#sfdgr</a><a href="https://t.co/A1xT0fPDTt">https://t.co/A1xT0fPDTt</a></p>&mdash; Ikou Sanuki (@i_sanuki) <a href="https://twitter.com/i_sanuki/status/950640501086150656?ref_src=twsrc%5Etfw">2018年1月9日</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">Salesforceでアプリ開発、ぶっちゃけどうなの？　現役エンジニアたちが語る、技術者としてのキャリアの作り方 <a href="https://t.co/udocbVhDxT">https://t.co/udocbVhDxT</a> via <a href="https://twitter.com/logmijp?ref_src=twsrc%5Etfw">@logmijp</a></p>&mdash; 偽一茶 (@niseissa) <a href="https://twitter.com/niseissa/status/971907807455854594?ref_src=twsrc%5Etfw">2018年3月9日</a></blockquote>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">恵比寿でトレイル。来週だそうな。<a href="https://twitter.com/hashtag/sfdg?src=hash&amp;ref_src=twsrc%5Etfw">#sfdg</a> <br /><br />第１回 恵比寿Salesforce勉強会 (Trailheadもくもく会) <a href="https://t.co/fuzFLrkJ91">https://t.co/fuzFLrkJ91</a> <a href="https://twitter.com/hashtag/%E6%81%B5%E6%AF%94%E5%AF%BFSalesforce?src=hash&amp;ref_src=twsrc%5Etfw">#恵比寿Salesforce</a></p>&mdash; yonet77 (@yonet77) <a href="https://twitter.com/yonet77/status/964778096418148353?ref_src=twsrc%5Etfw">2018年2月17日</a></blockquote>
+
+<h3 id="3月">3月</h3>
+<ul>
+  <li><a href="https://sfdg.tokyo/blog/2018-03-01-salesforce-developers-meetup-17/">Salesforce Developers Meetup #17(2018/03/01)</a></li>
+  <li><a href="https://sfdg.tokyo/blog/2018-03-15-salesforce-mvps-2018/">Salesforce MVPs 2018</a></li>
+  <li><a href="https://sfdg.tokyo/blog/2018-03-21-jaws-days-2018/">Community Talk @JAWS DAYS 2018(2018/03/10)</a></li>
+  <li><a href="https://sfdg.tokyo/blog/2018-03-28-TrailheaDX-1st-day/">TrailheaDX(1日目)(2018/03/28)</a></li>
+  <li><a href="https://sfdg.tokyo/blog/2018-03-29-TrailheaDX-2nd-day/">TrailheaDX(2日目)(2018/03/29)</a></li>
+</ul>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="en" dir="ltr">We launched <a href="https://t.co/gt6jXqTq78">https://t.co/gt6jXqTq78</a> today. If your browser’s language is set ja as default, then you can read the site in Japanese! Click 日本語 at the bottom otherwise. <a href="https://twitter.com/hashtag/heroku?src=hash&amp;ref_src=twsrc%5Etfw">#heroku</a></p>&mdash; Satoshi Nagano (@thisisnagano) <a href="https://twitter.com/thisisnagano/status/979903040764362752?ref_src=twsrc%5Etfw">2018年3月31日</a></blockquote>
+
+<h3 id="4月">4月</h3>
+<ul>
+  <li><a href="https://sfdg.tokyo/blog/2018-04-28-TDX18GG-Tokyo/">TrailheaDX 2018 Global Gatherings in Tokyo(2018/04/25)</a></li>
+</ul>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">SalesforceSaturday Tokyo のアカウント <a href="https://twitter.com/SFSatTokyo?ref_src=twsrc%5Etfw">@SFSatTokyo</a> を作りました。土曜日にSalesforceの勉強をする雰囲気を盛り上げていきたいです💪ぜひ自宅からでも <a href="https://twitter.com/hashtag/SalesforceSaturday?src=hash&amp;ref_src=twsrc%5Etfw">#SalesforceSaturday</a> <a href="https://twitter.com/hashtag/Tokyo?src=hash&amp;ref_src=twsrc%5Etfw">#Tokyo</a> でつぶやいてください。集まって一緒に勉強する機会も作ります。これからよろしくお願いいたします！ <a href="https://t.co/dpdVvwnzqU">https://t.co/dpdVvwnzqU</a></p>&mdash; Takahito Miyamoto (@takahito0508) <a href="https://twitter.com/takahito0508/status/982500225901215744?ref_src=twsrc%5Etfw">2018年4月7日</a></blockquote>
+
+<h3 id="6月">6月</h3>
+<ul>
+  <li><a href="https://sfdg.tokyo/blog/2018-06-28-salesforce-developers-meetup-18/">Salesforce Developers Meetup #18 開催レポート(2018/06/28)</a></li>
+</ul>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">一等はロボホンズ！<br />おめでとうございます！！！<br /> <a href="https://twitter.com/hashtag/sfdg?src=hash&amp;ref_src=twsrc%5Etfw">#sfdg</a> <a href="https://twitter.com/hashtag/sfhack?src=hash&amp;ref_src=twsrc%5Etfw">#sfhack</a> <a href="https://t.co/sxNntNYMrb">pic.twitter.com/sxNntNYMrb</a></p>&mdash; Akira Kuratani (@a_kuratani) <a href="https://twitter.com/a_kuratani/status/1005055781652140034?ref_src=twsrc%5Etfw">2018年6月8日</a></blockquote>
+
+<h3 id="7月">7月</h3>
+<ul>
+  <li>7/25 <a href="https://www.salesforce.com/jp/events/summer18/">Salesforce Summer 2018</a></li>
+</ul>
+
+<h3 id="9月">9月</h3>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr">dreamforce2018 Japan Night in Japan を公開しました！日本に残る方は集まれ～ <a href="https://t.co/6ORhjUIV8e">https://t.co/6ORhjUIV8e</a> <a href="https://twitter.com/hashtag/salesforce?src=hash&amp;ref_src=twsrc%5Etfw">#salesforce</a></p>&mdash; Ikou Sanuki (@i_sanuki) <a href="https://twitter.com/i_sanuki/status/1035386947097702400?ref_src=twsrc%5Etfw">2018年8月31日</a></blockquote>
+
+<h3 id="10月">10月</h3>
+<ul>
+  <li><a href="https://sfdg.tokyo/blog/2018-10-10-dreamforce-global-gathering-2018/">DF18 Global Gathering, Tokyo 開催レポート(2018/10/10)</a></li>
+  <li><a href="https://sfdg.tokyo/blog/2018-10-30-salesforce-developers-meetup-19/">Salesforce Developers Meetup #19 開催レポート(2018/10/30)</a></li>
+</ul>
+
+<blockquote class="twitter-tweet" data-lang="ja"><p lang="ja" dir="ltr"><a href="https://twitter.com/hashtag/TrailheadQuests?src=hash&amp;ref_src=twsrc%5Etfw">#TrailheadQuests</a>、始まるよー😍🙌🏻✨<br />まずは10月末までにAdmin・DevのTrailmixをコンプリートすると、それぞれスペシャルバッジが付くよ！<br />その後も、期間に合わせてバッジや景品が当たりまーす！Check it out！<a href="https://t.co/LRJFsRJOGj">https://t.co/LRJFsRJOGj</a></p>&mdash; Nana E (@nana8_admin) <a href="https://twitter.com/nana8_admin/status/1046917423033540608?ref_src=twsrc%5Etfw">2018年10月2日</a></blockquote>
+
+<h3 id="12月">12月</h3>
+<ul>
+  <li>12/5 <a href="https://www.salesforce.com/jp/events/worldtour/ja/overview/">Salesforce World Tour Tokyo 2018</a></li>
+  <li><a href="https://qiita.com/advent-calendar/2018/salesforce-platform">Salesforce Platform Advent Calendar 2018</a></li>
+  <li><a href="https://adventar.org/calendars/3195">Trailblazer Advent Calendar 2018</a></li>
+  <li><a href="https://trailhead.salesforce.com/en/users/00550000007Z206AAC/trailmixes/architect-trailmix-master-ja">【SFDC公式】アーキテクトジャーニー：認定テクニカルアーキテクト</a></li>
+</ul>
+
+<h2 id="来年の話">来年の話</h2>
+<ul>
+  <li>1/26 <a href="https://connpass.com/event/109851/">Japan Dreamin’ 2019</a></li>
+  <li>Salesforce Developer Week</li>
+  <li>Salesforce Developers Meetup #20</li>
+</ul>
+
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+]]></content:encoded>
+        <itunes:duration>01:14:15</itunes:duration>
+        <itunes:keywords>Salesforce, Retrospective, Advent Calendar</itunes:keywords>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
+        <title>30: Communities around the world (shunkosa)</title>
+        <description><![CDATA[今回は、アクセンチュアの小坂さんをお招きして、認定テクニカルアーキテクト、India Dreamin'、Salesforce World Tour Tokyo、Spring'19リリースノート、Advent Calendarなどの話を伺いました。]]></description>
+        <pubDate>Wed, 19 Dec 2018 00:00:00 +0000</pubDate>
+        <link>https://migration.fm/030/</link>
+        <guid isPermaLink="true">https://migration.fm/030/</guid>
+        
+        
+        <category>Podcast</category>
+        
+        <enclosure type="audio/mpeg" url="http://media.blubrry.com/migrationfm/http://feeds.soundcloud.com/stream/548652144-migrationfm-30-communities-around-the-world-shunkosa.mp3" length="41913203"/>
+        <itunes:author>Akira.Kuratani</itunes:author>
+        <itunes:subtitle><![CDATA[今回は、アクセンチュアの小坂さんをお招きして、認定テクニカルアーキテクト、India Drea...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[今回は、アクセンチュアの小坂さんをお招きして、認定テクニカルアーキテクト、India Dreamin'、Salesforce World Tour Tokyo、Spring'19リリースノート、Advent Calendarなどの話を伺いました。]]></itunes:summary>
+        <content:encoded><![CDATA[<h1 id="show-notes">Show notes</h1>
+
+<p>今回は、アクセンチュアの小坂さんをお招きして、認定テクニカルアーキテクト、India Dreamin’、Salesforce World Tour Tokyo、Spring’19リリースノート、Advent Calendarなどの話を伺いました。</p>
+
+<h2 id="certified-technical-architect">Certified Technical Architect</h2>
+
+<ul>
+  <li><a href="https://archladies.com/">Ladies be Architects</a></li>
+  <li><a href="https://trailhead.salesforce.com/ja/users/00550000007Z206AAC/trailmixes/architect-trailmix-master-ja">Trailmix : 【SFDC公式】アーキテクトジャーニー：認定テクニカルアーキテクト</a></li>
+  <li><a href="http://tandc.salesforce.com/credentials">Salesforce 認定 B2C Commerce Technical Solution デザイナー</a></li>
+  <li><a href="https://www.youtube.com/channel/UCZKe04P95Ze_dkwVHdmuvSA/videos">CTA Prep 2min Drill - Joe Castro</a></li>
+</ul>
+
+<h2 id="india-dreamin">India Dreamin’</h2>
+
+<ul>
+  <li>2018-12-01,02 <a href="http://www.indiadreamin.in/">India Dreamin’</a></li>
+  <li>2019-01/26 <a href="https://connpass.com/event/109851/">Japan Dreamin’</a></li>
+  <li><a href="http://www.ne.jp/asahi/kandagawa/tandoor/">(有)神田川石材商工は、国内唯一のタンドール専業メーカーです</a></li>
+  <li><a href="https://shunkosa.github.io/posts/my-indiadreamin18-highlights/">My IndiaDreamin18 Highlights</a></li>
+  <li><a href="https://anond.hatelabo.jp/20181012090959">もう勉強会には行かないと思う</a></li>
+  <li><a href="https://www.salesforce.com/blog/2018/11/salesforce-MVP-nominations-2019">Learn About the Salesforce MVP Nomination Process (Plus How to Nominate for 2019!)</a></li>
+</ul>
+
+<h2 id="salesforce-world-tour-tokyo-2018">Salesforce World Tour Tokyo 2018</h2>
+<ul>
+  <li><a href="https://www.salesforce.com/jp/events/worldtour/ja/overview/">2018-12-05 Salesforce World Tour Tokyo 2018</a></li>
+  <li><a href="https://www.salesforce.com/jp/blog/2018/12/worldtour-tokyo-2018-top10-highlights.html">ハイライトトップ10</a></li>
+</ul>
+
+<h2 id="spring-19-release">Spring ‘19 Release</h2>
+<ul>
+  <li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/salesforce_release_notes.htm">リリースノート</a></li>
+  <li><a href="https://releasenotes.docs.salesforce.com/en-us/spring19/release-notes/rn_storage.htm?edition=&amp;impact=">ストレージ容量増えた</a></li>
+  <li><a href="https://releasenotes.docs.salesforce.com/en-us/winter19/release-notes/rn_forcecom_fields_where.htm">この項目ってどこで使われてる？</a></li>
+  <li><a href="https://www.wissel.net/blog/2018/12/lwc-quick-overview.html">LWC Quick Overview</a></li>
+  <li><a href="https://github.com/trailheadapps/lwc-recipes/tree/master/force-app/main/default/lwc">trailheadapps/lwc-recipe</a></li>
+</ul>
+
+<h2 id="advent-calendar-ふりかえり">Advent Calendar ふりかえり</h2>
+<ul>
+  <li><a href="https://adventar.org/calendars/3195">Trailblazer Advent Calendar 2018</a></li>
+  <li><a href="https://qiita.com/advent-calendar/2018/salesforce-platform">Salesforce Platform Advent Calendar 2018</a></li>
+</ul>
+]]></content:encoded>
+        <itunes:duration>01:19:09</itunes:duration>
+        <itunes:keywords>Salesforce, IndiaDreamin18, Spring19, Advent Calendar</itunes:keywords>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
+        <title>29: What is your nickname? (ryosuke921186)</title>
+        <description><![CDATA[今回は、フレクトの小林さんをお招きして、Dreamforce、Salesforce World Tour Tokyo、コミュニティ活動などの話を伺いました。]]></description>
+        <pubDate>Thu, 22 Nov 2018 00:00:00 +0000</pubDate>
+        <link>https://migration.fm/029/</link>
+        <guid isPermaLink="true">https://migration.fm/029/</guid>
+        
+        
+        <category>Podcast</category>
+        
+        <enclosure type="audio/mpeg" url="http://media.blubrry.com/migrationfm/http://feeds.soundcloud.com/stream/534738243-migrationfm-29-what-is-your-nickname-ryosuke921186.mp3" length="22957400"/>
+        <itunes:author>Akira.Kuratani</itunes:author>
+        <itunes:subtitle><![CDATA[今回は、フレクトの小林さんをお招きして、Dreamforce、Salesforce World...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[今回は、フレクトの小林さんをお招きして、Dreamforce、Salesforce World Tour Tokyo、コミュニティ活動などの話を伺いました。]]></itunes:summary>
+        <content:encoded><![CDATA[<h1 id="show-notes">Show notes</h1>
+
+<p>今回は、フレクトの小林さんをお招きして、Dreamforce、Salesforce World Tour Tokyo、コミュニティ活動などの話を伺いました。
+Developer Group ルーキー会では、2つ名を持っている方がいます。<a href="/025">エピソード25</a>にゲストで出演してもらった須山さんの2つ名を知りたい方は Salesforce World Tour Tokyo (2018-12-05) でぜひ質問してみてください！ルーキー会ステッカーがもらえるかもよ！</p>
+
+<h2 id="dreamforce">Dreamforce</h2>
+<ul>
+  <li><a href="https://www.salesforce.com/dreamforce/">Dreamforce</a></li>
+  <li><a href="https://www.youtube.com/watch?v=fOyq_2948lc">Admin Keynote</a></li>
+  <li><a href="https://www.mulesoft.com/">MuleSoft</a></li>
+  <li>Mini Hack</li>
+</ul>
+
+<h2 id="salesforce-world-tour-tokyo-2018">Salesforce World Tour Tokyo 2018</h2>
+<ul>
+  <li><a href="https://www.salesforce.com/jp/events/worldtour/ja/overview/">2018-12-05 Salesforce World Tour Tokyo 2018</a></li>
+  <li>Developer Group ルーキー会運営が教える！これから始めるSalesforce開発</li>
+  <li>Developer Group ルーキー会運営が教える！次の一歩のための開発ノウハウ</li>
+  <li>愛される AppExchange アプリを創るべき「3つの理由」〜AI アプリ開発の秘訣</li>
+  <li>認定テクニカルアーキテクトに聞く！頂点の目指し方とキャリアへの活かし方</li>
+  <li>Road To 2020 －2020年に向けて、夢を現実に変える人々 “Trailblazers”が創る世界へ－</li>
+</ul>
+
+<h2 id="コミュニティ活動">コミュニティ活動</h2>
+<ul>
+  <li>2019-01/26 Japan Dreamin’</li>
+  <li><a href="https://sfdgr.connpass.com/">Salesforce DG ルーキー会 - connpass</a></li>
+  <li><a href="https://twitter.com/sfdgrjp">Salesforce DG ルーキー会 - twitter</a></li>
+</ul>
+]]></content:encoded>
+        <itunes:duration>00:42:29</itunes:duration>
+        <itunes:keywords>Salesforce, Dreamforce, Apex, コミュニティ活動</itunes:keywords>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
+        <title>28: Evaluating technical skills (tzm_freedom)</title>
+        <description><![CDATA[今回は、前回に引き続き田実さんをお招きして、ワークフロールールをApexトリガーに変換するツール、Salesforce AIアプリコンテスト、電子書籍、技術力評価会などの話を伺いました。]]></description>
+        <pubDate>Wed, 29 Aug 2018 01:00:00 +0000</pubDate>
+        <link>https://migration.fm/028/</link>
+        <guid isPermaLink="true">https://migration.fm/028/</guid>
+        
+        
+        <category>Podcast</category>
+        
+        <enclosure type="audio/mpeg" url="http://media.blubrry.com/migrationfm/http://feeds.soundcloud.com/stream/495135906-migrationfm-28-evaluating-technical-skills-tzm_freedom.mp3" length="42878437"/>
+        <itunes:author>Akira.Kuratani</itunes:author>
+        <itunes:subtitle><![CDATA[今回は、前回に引き続き田実さんをお招きして、ワークフロールールをApexトリガーに変換するツー...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[今回は、前回に引き続き田実さんをお招きして、ワークフロールールをApexトリガーに変換するツール、Salesforce AIアプリコンテスト、電子書籍、技術力評価会などの話を伺いました。]]></itunes:summary>
+        <content:encoded><![CDATA[<h1 id="show-notes">Show notes</h1>
+
+<p>今回は、前回に引き続き田実さんをお招きして、ワークフロールールをApexトリガーに変換するツール、Salesforce AIアプリコンテスト、電子書籍、技術力評価会などの話を伺いました。</p>
+
+<h2 id="salesforce-ネタ">Salesforce ネタ</h2>
+<ul>
+  <li><a href="https://blog.freedom-man.com/salesforce2apex/">SalesforceのワークフロールールをApexトリガに変換するヤーツ作った</a></li>
+  <li><a href="https://github.com/tzmfreedom/salesforce-formula-parser">Parse Salesforce Formula and, Build AST in JavaScript</a></li>
+  <li><a href="https://github.com/tzmfreedom/yasd">Yet Another Salesforce DataLoader</a></li>
+</ul>
+
+<h2 id="aiアプリコンテスト">AIアプリコンテスト</h2>
+<ul>
+  <li><a href="https://devpost.com/software/ai-album">EINSTEIN Aquarium Tour - DEVPOST</a></li>
+  <li><a href="https://www.salesforce.com/jp/blog/2018/06/salesforce-ai-app-contest-2018.html">Einsteinでこんなことができる！「Salesforce AIアプリコンテスト2018」最優秀賞は？</a></li>
+  <li><a href="https://www.youtube.com/watch?v=0ZrvIy_QIV8">Salesforce AI アプリコンテスト 2018 最終選考会 - YouTube</a></li>
+</ul>
+
+<h2 id="電子書籍">電子書籍</h2>
+<ul>
+  <li><a href="https://techbookfest.org/">技術書典</a></li>
+</ul>
+
+<h2 id="技術力評価会">技術力評価会</h2>
+<ul>
+  <li><a href="https://seleck.cc/834">VOYAGEのエンジニア評価制度の全貌。「技術力評価会」による、人が育つ組織の作り方</a></li>
+</ul>
+]]></content:encoded>
+        <itunes:duration>01:21:13</itunes:duration>
+        <itunes:keywords>Salesforce, Apex, 電子書籍, 技術書典, 技術力評価会</itunes:keywords>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
+        <title>27: Doing Apex on Local! (tzm_freedom)</title>
+        <description><![CDATA[今回は、以前卒業された田実さんをお招きして、Salesforceで技術を学べるのか、Apexのローカル実行環境を作ろう、の話を伺いました。]]></description>
+        <pubDate>Wed, 29 Aug 2018 00:00:00 +0000</pubDate>
+        <link>https://migration.fm/027/</link>
+        <guid isPermaLink="true">https://migration.fm/027/</guid>
+        
+        
+        <category>Podcast</category>
+        
+        <enclosure type="audio/mpeg" url="http://media.blubrry.com/migrationfm/http://feeds.soundcloud.com/stream/495126714-migrationfm-27-doing-apex-on-local-tzm_freedom.mp3" length="31653342"/>
+        <itunes:author>Akira.Kuratani</itunes:author>
+        <itunes:subtitle><![CDATA[今回は、以前卒業された田実さんをお招きして、Salesforceで技術を学べるのか、Apexの...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[今回は、以前卒業された田実さんをお招きして、Salesforceで技術を学べるのか、Apexのローカル実行環境を作ろう、の話を伺いました。]]></itunes:summary>
+        <content:encoded><![CDATA[<h1 id="show-notes">Show notes</h1>
+
+<p>今回は、以前卒業された田実さんをお招きして、Salesforceで技術を学べるのか、Apexのローカル実行環境を作ろう、の話を伺いました。</p>
+
+<ul>
+  <li><a href="https://blog.freedom-man.com/skillup-with-salesforce/">Salesforceで技術は学べるのか？</a></li>
+  <li><a href="https://blog.freedom-man.com/salesforce-apex-local/">(Salesforce) Apexのローカル実行環境を作ろうとしている話</a></li>
+  <li><a href="https://www.amazon.co.jp/gp/product/B07BGRLHW9">精霊の箱 上</a></li>
+  <li><a href="https://www.amazon.co.jp/gp/product/B07BH1TWKH">精霊の箱 下</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/B07BGVKW86">白と黒のとびら</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/B07BKNVHPX">自動人形の城</a></li>
+</ul>
+]]></content:encoded>
+        <itunes:duration>00:59:03</itunes:duration>
+        <itunes:keywords>Salesforce, Apex, 生存戦略</itunes:keywords>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
+        <title>26: Let's dance with Robohon and Einstein! (nmin000,surounin)</title>
+        <description><![CDATA[今回は、ユー・エス・イーのロボホンズの皆さん（新美さん、岸さん、畑本さん）をお招きして、ロボホンを中心にSalesforce AIアプリコンテストで優勝された話を伺いました。]]></description>
+        <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+        <link>https://migration.fm/026/</link>
+        <guid isPermaLink="true">https://migration.fm/026/</guid>
+        
+        
+        <category>Podcast</category>
+        
+        <enclosure type="audio/mpeg" url="http://media.blubrry.com/migrationfm/http://feeds.soundcloud.com/stream/463238976-migrationfm-26-lets-dance-with-robohon-and-einstein-nmin000.mp3" length="36718220"/>
+        <itunes:author>Akira.Kuratani</itunes:author>
+        <itunes:subtitle><![CDATA[今回は、ユー・エス・イーのロボホンズの皆さん（新美さん、岸さん、畑本さん）をお招きして、ロボホ...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[今回は、ユー・エス・イーのロボホンズの皆さん（新美さん、岸さん、畑本さん）をお招きして、ロボホンを中心にSalesforce AIアプリコンテストで優勝された話を伺いました。]]></itunes:summary>
+        <content:encoded><![CDATA[<h1 id="show-notes">Show notes</h1>
+
+<p>今回は、ユー・エス・イーのロボホンズの皆さん（新美さん、岸さん、畑本さん）をお招きして、ロボホンを中心にSalesforce AIアプリコンテストで優勝された話を伺いました。</p>
+
+<h2 id="aiアプリコンテスト">AIアプリコンテスト</h2>
+<ul>
+  <li><a href="https://devpost.com/software/ai-album">EINSTEIN Aquarium Tour - DEVPOST</a></li>
+  <li><a href="https://www.salesforce.com/jp/blog/2018/06/salesforce-ai-app-contest-2018.html">Einsteinでこんなことができる！「Salesforce AIアプリコンテスト2018」最優秀賞は？</a></li>
+  <li><a href="https://www.youtube.com/watch?v=0ZrvIy_QIV8">Salesforce AI アプリコンテスト 2018 最終選考会 - YouTube</a></li>
+  <li><a href="https://robohon.com/">Sharp ROBOHON</a></li>
+  <li><a href="https://www.softbank.jp/robot/special/pepper/">Softbank pepper</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/B071ZF5KCM">Amazon Echo</a></li>
+  <li><a href="https://aibo.sony.jp/">SONY aibo</a></li>
+  <li><a href="http://www.sunshinecity.co.jp/aquarium/">サンシャイン水族館</a></li>
+  <li><a href="https://www.weblio.jp/content/ハタタテハゼ">ハタタテハゼ</a></li>
+  <li><a href="http://niimin.hateblo.jp/entry/2018/06/10/201350">【アイディア編】Salesforce AIアプリコンテスト2018に出場してみて思ったこと - niiminblog</a></li>
+  <li><a href="http://niimin.hateblo.jp/entry/2018/06/17/211359">【プレゼン編】Salesforce AIアプリコンテスト2018に出場してみて思ったこと</a></li>
+</ul>
+
+<h2 id="過去のハックチャレンジ">過去のハックチャレンジ</h2>
+<ul>
+  <li><a href="http://blogjp.sforce.com/2014/12/salesforce2014--6465.html">Salesforceハックチャレンジ2014</a></li>
+  <li><a href="https://developer.salesforce.com/contests/challengejapan2014">Salesforce1 Platform Mobile Hack Challenge 2014 Japan</a></li>
+</ul>
+
+<h2 id="イベント">イベント</h2>
+<ul>
+  <li><a href="https://www.meetup.com/ja-JP/Tokyo-Salesforce-Developer-Group/events/250412406/">2018/6/28 Salesforce Developers Meetup #18 - meetup</a></li>
+  <li><a href="https://www.salesforce.com/jp/events/summer18/">2018/7/25 Salesforce Summer 2018</a></li>
+</ul>
+]]></content:encoded>
+        <itunes:duration>01:08:09</itunes:duration>
+        <itunes:keywords>Salesforce, Einstein, AI, Robohon</itunes:keywords>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
+        <title>25: When do you start studying English? (suyaman_jp)</title>
+        <description><![CDATA[今回は、テラスカイの須山さんをお招きして、サンフランシスコ旅行(TrailheaDX)、コミュニティ活動、エンジニア生存戦略、最近のニュースなどについて話を伺いました。]]></description>
+        <pubDate>Thu, 17 May 2018 00:00:00 +0000</pubDate>
+        <link>https://migration.fm/025/</link>
+        <guid isPermaLink="true">https://migration.fm/025/</guid>
+        
+        
+        <category>Podcast</category>
+        
+        <enclosure type="audio/mpeg" url="http://media.blubrry.com/migrationfm/http://feeds.soundcloud.com/stream/445375470-migrationfm-25-when-do-you-start-studying-english-suyaman_jp.mp3" length="30380464"/>
+        <itunes:author>Akira.Kuratani</itunes:author>
+        <itunes:subtitle><![CDATA[今回は、テラスカイの須山さんをお招きして、サンフランシスコ旅行(TrailheaDX)、コミュ...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[今回は、テラスカイの須山さんをお招きして、サンフランシスコ旅行(TrailheaDX)、コミュニティ活動、エンジニア生存戦略、最近のニュースなどについて話を伺いました。]]></itunes:summary>
+        <content:encoded><![CDATA[<h1 id="show-notes">Show notes</h1>
+
+<p>今回は、テラスカイの須山さんをお招きして、サンフランシスコ旅行(TrailheaDX)、コミュニティ活動、エンジニア生存戦略、最近のニュースなどについて話を伺いました。</p>
+
+<h1 id="サンフランシスコ旅行ついでにtrailheadxの裏話">サンフランシスコ旅行（ついでにTrailheaDX）の裏話</h1>
+<ul>
+  <li><a href="https://developer.salesforce.com/trailheadx">TrailheaDX 2018</a></li>
+  <li><a href="https://www.meetup.com/ja-JP/Tokyo-Salesforce-Developer-Group/events/247044256/">TrailheaDX 2018 Global Gatherings</a></li>
+  <li>Uber</li>
+  <li>アルカトラズからの2階建てバス</li>
+  <li>朝食やお土産とか</li>
+  <li>SWAG</li>
+  <li>Integration Cloud / Lightning Flow</li>
+</ul>
+
+<h1 id="コミュニティ活動">コミュニティ活動</h1>
+<ul>
+  <li><a href="https://sfdgr.connpass.com/">Salesforce DG ルーキー会</a></li>
+  <li>新グループ</li>
+</ul>
+
+<h1 id="エンジニアの生存戦略とか">エンジニアの生存戦略とか</h1>
+<ul>
+  <li>Architect or Developer</li>
+  <li>部署異動</li>
+</ul>
+
+<h1 id="migrationfm-monthly-news">Migration.fm Monthly News</h1>
+
+<ul>
+  <li><a href="https://blog.migration.fm/migration-fm-monthly-news-may-2018-3014fe8e3289">Migration.fm Monthly News / May, 2018</a></li>
+  <li><a href="https://developer.salesforce.com/ja/einstein_appscontest_2018">Salesforce AIアプリコンテスト</a></li>
+  <li><a href="https://developer.salesforce.com/jpblogs/2018/04/reports_and_dashboards_superbadge/">Trailheadスーパーバッジにチャレンジしよう – Reports &amp; Dashboards Specialist のTipsと日本語訳</a></li>
+  <li><a href="https://trailhead.salesforce.com/ja/offers/beabuilder">Be a Builder</a></li>
+  <li><a href="https://qiita.com/mokamoto/items/63d6323782c27e02fba6">MuleSoftのAnyPoint Platformを知る</a></li>
+</ul>
+]]></content:encoded>
+        <itunes:duration>01:00:28</itunes:duration>
+        <itunes:keywords>Salesforce, Trailhead, Engineer Career</itunes:keywords>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+      <item>
+        <title>24: No Salesforce, No life! (shunkosa)</title>
+        <description><![CDATA[今回は、Salesforce MVPに選出された小坂さんをお招きして、Salesforce Spring'18リリースノート、最近のイベント、IdeaSpokes、最近読んだ本などについて話を伺いました。]]></description>
+        <pubDate>Tue, 13 Mar 2018 00:00:00 +0000</pubDate>
+        <link>https://migration.fm/024/</link>
+        <guid isPermaLink="true">https://migration.fm/024/</guid>
+        
+        
+        <category>Podcast</category>
+        
+        <enclosure type="audio/mpeg" url="http://media.blubrry.com/migrationfm/http://feeds.soundcloud.com/stream/414652536-migrationfm-24-no-salesforce-no-life-shunkosa.mp3" length="32713350"/>
+        <itunes:author>Akira.Kuratani</itunes:author>
+        <itunes:subtitle><![CDATA[今回は、Salesforce MVPに選出された小坂さんをお招きして、Salesforce S...]]></itunes:subtitle>
+        <itunes:summary><![CDATA[今回は、Salesforce MVPに選出された小坂さんをお招きして、Salesforce Spring'18リリースノート、最近のイベント、IdeaSpokes、最近読んだ本などについて話を伺いました。]]></itunes:summary>
+        <content:encoded><![CDATA[<h1 id="show-notes">Show notes</h1>
+
+<p>今回は、<a href="https://www.salesforce.com/blog/2018/03/2018-salesforce-mvps.html?d=70130000000tP4G">Salesforce MVP</a> に選出された小坂さんをお招きして、Salesforce Spring’18リリースノート、最近のイベント、IdeaSpokes、最近読んだ本などについて話を伺いました。</p>
+
+<h2 id="salesforce-spring18関連">Salesforce Spring’18関連</h2>
+<ul>
+  <li><a href="https://releasenotes.docs.salesforce.com/ja-jp/spring18/release-notes/salesforce_release_notes.htm">Salesforce Spring’18 リリースノート</a></li>
+  <li><a href="https://www.meetup.com/ja-JP/Tokyo-Salesforce-Developer-Group/events/247136464/">Salesforce Developers Meetup #17</a></li>
+  <li><a href="http://releasenotes.docs.salesforce.com/ja-jp/spring18/release-notes/rn_casesMQA.htm">Lightning Mass Quick Action</a></li>
+  <li><a href="http://releasenotes.docs.salesforce.com/ja-jp/spring18/release-notes/rn_forcecom_flow.htm">Lightning Component in Flow</a></li>
+  <li><a href="https://releasenotes.docs.salesforce.com/ja-jp/spring18/release-notes/rn_general.htm">Salesforce 全体: Lightning Experience のパーソナライズされたナビゲーション、テーマ、アンケートによる生産性の向上</a></li>
+  <li><a href="https://releasenotes.docs.salesforce.com/ja-jp/spring18/release-notes/rn_general_org_deactivation.htm">使用しない組織の無効化</a></li>
+  <li><a href="https://releasenotes.docs.salesforce.com/ja-jp/spring18/release-notes/rn_general_try_lex_prompt.htm?edition=&amp;impact=">ポップアップによる Lightning Experience の採用の促進</a></li>
+  <li><a href="https://releasenotes.docs.salesforce.com/ja-jp/spring18/release-notes/rn_general_force_dot_com_rebrand.htm">Force.com から Lightning プラットフォームへ</a></li>
+  <li><a href="https://sfdg.tokyo/adventcalendar/">Salesforce Developer Advent Calendar</a></li>
+</ul>
+
+<h1 id="最近のイベントなど">最近のイベントなど</h1>
+
+<ul>
+  <li><a href="https://event.shoeisha.jp/devsumi/20180215/">Developers Summit 2018</a></li>
+  <li><a href="https://trailhead.salesforce.com/en/community/events">コミュニティ主体のイベント</a></li>
+  <li><a href="https://www.salesforce.com/au/campaign/sfwt18/overview/">Salesforce World Tour Sydney</a>
+    <ul>
+      <li><a href="https://www.salesforce.com/au/campaign/sfwt18/pitchcomp/">Pitchcomp</a></li>
+    </ul>
+  </li>
+  <li><a href="https://developer.salesforce.com/trailheadx">TrailheaDX 2018</a></li>
+  <li><a href="https://www.meetup.com/ja-JP/Tokyo-Salesforce-Developer-Group/events/247044256/">TrailheaDX 2018 Global Gatherings</a></li>
+</ul>
+
+<h1 id="ideaspokes"><a href="https://ideaspokes.crmified.com/">IdeaSpokes</a></h1>
+<ul>
+  <li>コミュニティのアイデアを綺麗にする活動</li>
+  <li><a href="https://twitter.com/shunkosa/status/965969998316421121">記念品</a></li>
+  <li><a href="https://twitter.com/salesforceamy">@Amy Oplinger さんにお会いしました</a></li>
+</ul>
+
+<h1 id="英語学習">英語学習</h1>
+<ul>
+  <li><a href="https://player.fm/podcasts/Salesforce">Best Salesforce Podcasts</a></li>
+</ul>
+
+<h1 id="最近読んだ本">最近読んだ本</h1>
+<ul>
+  <li><a href="https://www.amazon.co.jp/dp/4774196053">エンジニアリング組織論への招待</a></li>
+  <li><a href="https://ajito.fm/20/">ajitofm 20: Refactoring Organizations</a></li>
+</ul>
+
+<h1 id="migrationfm-monthly-news">Migration.fm Monthly News</h1>
+
+<ul>
+  <li><a href="https://blog.migration.fm/migration-fm-monthly-news-march-2018-9c6e3a1d2776">Migration.fm Monthly News / March, 2018</a></li>
+  <li><a href="https://blog.enree.co/2018/02/salesforce-amazon-echo-alexforce-20.html">AlexaForce</a></li>
+  <li><a href="https://twitter.com/SfdgTokyo">@SfdgTokyo</a></li>
+  <li><a href="https://ifttt.com/">IFTTT</a></li>
+</ul>
+
+<h1 id="イベント情報">イベント情報</h1>
+<ul>
+  <li><a href="https://developer.salesforce.com/ja/einstein_appscontest_2018">Salesforce AIアプリコンテスト</a></li>
+  <li><a href="https://www.meetup.com/ja-JP/Tokyo-Salesforce-Developer-Group/events/248247820/">React-Lightning コードリーディングの会</a></li>
+  <li><a href="https://sfdgr.connpass.com/event/80203/">Salesforce DeveloperGroup ルーキー会 #07</a></li>
+</ul>
+]]></content:encoded>
+        <itunes:duration>01:00:14</itunes:duration>
+        <itunes:keywords>Salesforce, Trailhead, Alexa, releasenotes</itunes:keywords>
+        <itunes:image href="https://i1.sndcdn.com/avatars-000223269201-7h2ox0-original.jpg" />
+        <itunes:explicit>no</itunes:explicit>
+      </item>
+    
+  </channel>
+</rss>

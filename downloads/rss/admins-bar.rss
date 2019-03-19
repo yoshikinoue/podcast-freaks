@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedpress="http://feedpress.it/xmlns" version="2.0">
+  <channel>
+    <atom:link rel="hub" href="http://pubsubhubbub.appspot.com" xmlns:atom="http://www.w3.org/2005/Atom"/>
+    <title>Admins Bar</title>
+    <generator>Octopress</generator>
+    <link>http://admins.bar</link>
+    <itunes:author>Issei Naruta</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://admins.bar/images/itunes-cover.png"/>
+    <itunes:keywords>tech,technology,programming,ruby,web,mirakui,development,operations,devops,server,software</itunes:keywords>
+    <itunes:subtitle>DevOps Podcast by mirakui</itunes:subtitle>
+    <itunes:summary>DevOps関連の情報や、Webサービスのインフラ系技術について話すPodcastです。</itunes:summary>
+    <itunes:category text="Technology"/>
+    <itunes:owner>
+      <itunes:name>mirakui</itunes:name>
+      <itunes:email>mimitako@gmail.com</itunes:email>
+    </itunes:owner>
+    
+    <item>
+      <title>7: Water Hammer (itkq)</title>
+      <description>@itkq さんをお迎えして、マイクロサービス時代のWebインフラや、スピリチュアルエンジニアリング、競女などについて話しました。</description>
+      <link>http://admins.bar/7/</link>
+      <pubDate>Sun, 12 Aug 2018 22:22:12 +0900</pubDate>
+      <guid>http://admins.bar/7</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@itkq さんをお迎えして、マイクロサービス時代のWebインフラや、スピリチュアルエンジニアリング、競女などについて話しました。</itunes:subtitle>
+      <itunes:summary>@itkq さんをお迎えして、マイクロサービス時代のWebインフラや、スピリチュアルエンジニアリング、競女などについて話しました。</itunes:summary>
+      <itunes:duration>01:15:52</itunes:duration>
+      <enclosure url="http://cdn.admins.bar/audio/adminsbar-07.mp3" type="audio/mpeg" length="36504987"/>
+    </item>
+    
+    <item>
+      <title>6: Mackerelの裏側、あるいはISUCON5で優勝する技術 (songmu)</title>
+      <description>@songmu さんをお迎えして、Mackerel のアーキテクチャや ISUCON5 の優勝についてお話を伺いました。</description>
+      <link>http://admins.bar/6/</link>
+      <pubDate>Thu, 31 Dec 2015 10:19:30 +0900</pubDate>
+      <guid>http://admins.bar/6</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@songmu さんをお迎えして、Mackerel のアーキテクチャや ISUCON5 の優勝についてお話を伺いました。</itunes:subtitle>
+      <itunes:summary>@songmu さんをお迎えして、Mackerel のアーキテクチャや ISUCON5 の優勝についてお話を伺いました。</itunes:summary>
+      <itunes:duration>01:01:24</itunes:duration>
+      <enclosure url="http://cdn.admins.bar/audio/adminsbar-06.mp3" type="audio/mpeg" length="29559968"/>
+    </item>
+    
+    <item>
+      <title>5: 86,400の壁 (kyuns)</title>
+      <description>@kyuns さんをお迎えして、ファッションコーディネートサイト iQON のクローラ技術などについてお聞きしました。</description>
+      <link>http://admins.bar/5/</link>
+      <pubDate>Sun, 12 Jul 2015 17:05:11 +0900</pubDate>
+      <guid>http://admins.bar/5</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@kyuns さんをお迎えして、ファッションコーディネートサイト iQON のクローラ技術などについてお聞きしました。</itunes:subtitle>
+      <itunes:summary>@kyuns さんをお迎えして、ファッションコーディネートサイト iQON のクローラ技術などについてお聞きしました。</itunes:summary>
+      <itunes:duration>1:02:06</itunes:duration>
+      <enclosure url="http://cdn.admins.bar/audio/adminsbar-05.mp3" type="audio/mpeg" length="29898097"/>
+    </item>
+    
+    <item>
+      <title>4: ISUCON4 Postmortem</title>
+      <description>@941 さん、@rosylilly さん、 @sora_h さんをお迎えして、ISUCON4運営の裏側について話しました。</description>
+      <link>http://admins.bar/4/</link>
+      <pubDate>Wed, 03 Dec 2014 22:27:05 +0900</pubDate>
+      <guid>http://admins.bar/4</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@941 さん、@rosylilly さん、 @sora_h さんをお迎えして、ISUCON4運営の裏側について話しました。</itunes:subtitle>
+      <itunes:summary>@941 さん、@rosylilly さん、 @sora_h さんをお迎えして、ISUCON4運営の裏側について話しました。</itunes:summary>
+      <itunes:duration>1:16:19</itunes:duration>
+      <enclosure url="http://cdn.admins.bar/audio/adminsbar-04.mp3" type="audio/mpeg" length="36717728"/>
+    </item>
+    
+    <item>
+      <title>3: Fluentd, Rails, ActiveRecord</title>
+      <description>DeNA の @sonots さんと @ryopeko さんに、 Fluentd や Rails、特に ActiveRecord まわりの運用ノウハウについてお聞きしました。</description>
+      <link>http://admins.bar/3/</link>
+      <pubDate>Sat, 13 Sep 2014 17:20:48 +0900</pubDate>
+      <guid>http://admins.bar/3</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>DeNA の @sonots さんと @ryopeko さんに、 Fluentd や Rails、特に ActiveRecord まわりの運用ノウハウについてお聞きしました。</itunes:subtitle>
+      <itunes:summary>DeNA の @sonots さんと @ryopeko さんに、 Fluentd や Rails、特に ActiveRecord まわりの運用ノウハウについてお聞きしました。</itunes:summary>
+      <itunes:duration>1:52:47</itunes:duration>
+      <enclosure url="http://cdn.admins.bar/audio/adminsbar-03.mp3" type="audio/mpeg" length="54229591"/>
+    </item>
+    
+    <item>
+      <title>2: Togetter Operations</title>
+      <description>@yositosi さんをゲストに迎え、Togetter の運用の歴史、海外版、サービスのエコシステムなどについてお聞きしました。</description>
+      <link>http://admins.bar/2/</link>
+      <pubDate>Sun, 20 Jul 2014 22:31:11 +0900</pubDate>
+      <guid>http://admins.bar/2</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@yositosi さんをゲストに迎え、Togetter の運用の歴史、海外版、サービスのエコシステムなどについてお聞きしました。</itunes:subtitle>
+      <itunes:summary>@yositosi さんをゲストに迎え、Togetter の運用の歴史、海外版、サービスのエコシステムなどについてお聞きしました。</itunes:summary>
+      <itunes:duration>56:14</itunes:duration>
+      <enclosure url="http://cdn.admins.bar/audio/adminsbar-02.mp3" type="audio/mpeg" length="27081053"/>
+    </item>
+    
+    <item>
+      <title>1: MySQL in the Real World</title>
+      <description>@con mame さんと @mineroaoki さんをゲストに、 MySQL Cluster 6.3, MySQL 5.6/5.7, MariaDB, Amazon RDS などについて話しました。</description>
+      <link>http://admins.bar/1/</link>
+      <pubDate>Sat, 05 Jul 2014 16:33:17 +0900</pubDate>
+      <guid>http://admins.bar/1</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@con mame さんと @mineroaoki さんをゲストに、 MySQL Cluster 6.3, MySQL 5.6/5.7, MariaDB, Amazon RDS などについて話しました。</itunes:subtitle>
+      <itunes:summary>@con mame さんと @mineroaoki さんをゲストに、 MySQL Cluster 6.3, MySQL 5.6/5.7, MariaDB, Amazon RDS などについて話しました。</itunes:summary>
+      <itunes:duration>52:02</itunes:duration>
+      <enclosure url="http://cdn.admins.bar/audio/adminsbar-01.mp3" type="audio/mpeg" length="25066698"/>
+    </item>
+    
+  </channel>
+</rss>

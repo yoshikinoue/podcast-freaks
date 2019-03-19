@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[TechResearch.fm]]></title>
+		<description><![CDATA[テクノロジーや旅行好きな25歳のアランが提供するPodcastです。
+ハッシュタグは #techresearchlife です。
+TechResearchを軸としたTechResearch.lifeというWebサービスの開発・運営やTechResearch.blogというブログ、TechResearch.vlogというvlogなども提供しています。
+日本のテクノロジー業界だけでなく、海外でテクノロジーがどのように生活に浸透しているかを発信していけたらと思います。]]></description>
+		<link>https://anchor.fm/techresearchlife</link>
+		<image>
+			<url>https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg</url>
+			<title>TechResearch.fm</title>
+			<link>https://anchor.fm/techresearchlife</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 19 Mar 2019 16:00:06 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/537fce4/podcast/rss" rel="self" type="application/rss+xml"/>
+		<copyright><![CDATA[alan_arakawa TechResearch.life]]></copyright>
+		<language><![CDATA[ja]]></language>
+		<itunes:author>alan_arakawa TechResearch.life</itunes:author>
+		<itunes:summary>テクノロジーや旅行好きな25歳のアランが提供するPodcastです。
+ハッシュタグは #techresearchlife です。
+TechResearchを軸としたTechResearch.lifeというWebサービスの開発・運営やTechResearch.blogというブログ、TechResearch.vlogというvlogなども提供しています。
+日本のテクノロジー業界だけでなく、海外でテクノロジーがどのように生活に浸透しているかを発信していけたらと思います。</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>alan_arakawa TechResearch.life</itunes:name>
+			<itunes:email>podcasts7+537fce4@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+		<item>
+			<title><![CDATA[#018 TechNews & Trending Services]]></title>
+			<description><![CDATA[<p>2019/01/07~01/13で気になったニュースや気になったサービスについてまとめました。イイね👍と思ったらSubscribeとShareお願いします!!<br>
+<br>
+今回の内容<br>
+- 香港・マカオ旅行の話<br>
+- Pixel3の話<br>
+- CES関係のサービス<br>
+- Alexa関係のサービス色々</p>]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/018-TechNews--Trending-Services-e31k94</link>
+			<guid isPermaLink="false">1426819a-fb48-abd8-0f9c-8af426eea0be</guid>
+			<pubDate>Sun, 27 Jan 2019 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/2199268/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-0-26%2F-018-TechNews---Trending-Servi-8134dc3963f1d.m4a" length="46511642" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;2019/01/07~01/13で気になったニュースや気になったサービスについてまとめました。イイね👍と思ったらSubscribeとShareお願いします!!&lt;br&gt;
+&lt;br&gt;
+今回の内容&lt;br&gt;
+- 香港・マカオ旅行の話&lt;br&gt;
+- Pixel3の話&lt;br&gt;
+- CES関係のサービス&lt;br&gt;
+- Alexa関係のサービス色々&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2875</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>18</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#017 Tech News & Trending Service]]></title>
+			<description><![CDATA[<p>2018/12/24~2019/01/06で気になったニュースや気になったサービスについてまとめました。イイね👍と思ったらSubscribeとShareお願いします!!<br>
+<br>
+今回からエピソード内のリストを入れて欲しいという声があったので、簡単なリスト書いておきます！<br>
+- 年末年始の雑談<br>
+- Netflix Bird Boxが流行りすぎている件<br>
+- バイクライダーのヘルメットを走る屋外広告に変えるHelmad<br>
+- アマゾンがビジュアルショッピング体験「Amazon Showroom」を提供<br>
+- APIの使われ方を知るツールMoesifがシードで$3.5Mを調達</p>]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/017-Tech-News--Trending-Service-e2t3vr</link>
+			<guid isPermaLink="false">a33abf76-8dac-f64c-21a2-58dda7ee5a6c</guid>
+			<pubDate>Mon, 07 Jan 2019 08:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/2051515/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-0-7%2F-017-Tech-News---Trending-Serv-ae026a35c110d.m4a" length="16998592" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;2018/12/24~2019/01/06で気になったニュースや気になったサービスについてまとめました。イイね👍と思ったらSubscribeとShareお願いします!!&lt;br&gt;
+&lt;br&gt;
+今回からエピソード内のリストを入れて欲しいという声があったので、簡単なリスト書いておきます！&lt;br&gt;
+- 年末年始の雑談&lt;br&gt;
+- Netflix Bird Boxが流行りすぎている件&lt;br&gt;
+- バイクライダーのヘルメットを走る屋外広告に変えるHelmad&lt;br&gt;
+- アマゾンがビジュアルショッピング体験「Amazon Showroom」を提供&lt;br&gt;
+- APIの使われ方を知るツールMoesifがシードで$3.5Mを調達&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1050</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>17</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#016 Tech News & Trending Service]]></title>
+			<description><![CDATA[<p>2018/12/17~12/23で気になったニュースや気になったサービスについてまとめました。イイね:+1:と思ったらSubscribeとShareお願いします!!</p>]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/016-Tech-News--Trending-Service-e2qt6n</link>
+			<guid isPermaLink="false">cd6f5cf3-69fb-9fd4-0db0-44ba96ac7393</guid>
+			<pubDate>Mon, 24 Dec 2018 12:44:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1979031/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-24%2F-016-Tech-News---Trending-Serv-89ac464319f5b.m4a" length="39445460" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;2018/12/17~12/23で気になったニュースや気になったサービスについてまとめました。イイね:+1:と思ったらSubscribeとShareお願いします!!&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2438</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>16</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#015 Tech News & Trending Service]]></title>
+			<description><![CDATA[2018/12/10~12/16で気になったニュースや気になったサービスについてまとめました。イイね👍と思ったらSubscribeとShareお願いします!!]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/015-Tech-News--Trending-Service-e2pf72</link>
+			<guid isPermaLink="false">1c122c55-d363-45ce-030b-4fee1fe29731</guid>
+			<pubDate>Mon, 17 Dec 2018 10:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1931938/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-17%2F-015-Tech-News---Trending-Serv-af182516de442.m4a" length="35406978" type="audio/x-m4a"/>
+			<itunes:summary>2018/12/10~12/16で気になったニュースや気になったサービスについてまとめました。イイね👍と思ったらSubscribeとShareお願いします!!</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2189</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>15</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#014 Tech News & Trending Service]]></title>
+			<description><![CDATA[2018/12/03~12/09で気になったニュースや気になったサービスについてまとめました。イイね👍と思ったらSubscribeとShareお願いします!!]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/014-Tech-News--Trending-Service-e2ns0l</link>
+			<guid isPermaLink="false">f05b131d-b711-954c-169a-3989cd81e8b8</guid>
+			<pubDate>Wed, 12 Dec 2018 13:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1879509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-9%2F-014-Tech-News---Trending-Serv-1c68819f6f26e.m4a" length="8512527" type="audio/x-m4a"/>
+			<itunes:summary>2018/12/03~12/09で気になったニュースや気になったサービスについてまとめました。イイね👍と思ったらSubscribeとShareお願いします!!</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>526</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>14</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#013 Tech News & Trending Service]]></title>
+			<description><![CDATA[2018/11/26~12/02で気になったニュースや気になったサービスについてまとめました。イイね👍と思ったらSubscribeとShareお願いします!!]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/013-Tech-News--Trending-Service-e2nrlf</link>
+			<guid isPermaLink="false">c8d72d0c-b28e-165a-78df-e7fa019ce7c9</guid>
+			<pubDate>Sun, 09 Dec 2018 17:03:07 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1879151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-9%2F-013-Tech-News---Trending-Serv-a46aa0c542a8a.m4a" length="23750935" type="audio/x-m4a"/>
+			<itunes:summary>2018/11/26~12/02で気になったニュースや気になったサービスについてまとめました。イイね👍と思ったらSubscribeとShareお願いします!!</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1468</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>13</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#012 HowToRecordPodcast & Technology News]]></title>
+			<description><![CDATA[久しぶりの更新！
+今回はYoutubeと連動企画なので、実際の録音風景はYoutubeから見れます！]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/012-HowToRecordPodcast--Technology-News-e2be6n</link>
+			<guid isPermaLink="false">a2eef16c-02c9-20cc-3e74-8ce5748a9701</guid>
+			<pubDate>Fri, 05 Oct 2018 03:24:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1472151/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-9-5%2F4963693-44100-2-8936728240fab.mp3" length="57520298" type="audio/mpeg"/>
+			<itunes:summary>久しぶりの更新！
+今回はYoutubeと連動企画なので、実際の録音風景はYoutubeから見れます！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1797</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>12</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#011 新型iPhone発表迫る！噂のまとめ＆Androidとの比較]]></title>
+			<description><![CDATA[新型iPhoneの発表が迫っているので、iPhoneの噂まとめと合わせてAndroidやスマートフォン周辺領域について話してみました！
+また、今回は初のWaveファイルの24bit書き出しで試そうと思ったらAnchorが250MB以上のファイルアップロードに対応してなかったので、できませんでした。MP3じゃなきゃダメってわけではないので、収録時間短くして今度試そうと思います。結局Anchor側で圧縮とか行われてたら意味ないかもしれないですが、音質向上もう少し試してみたいですね。ノイズリダクションの方はいかがでしょうか？#008から取り入れているのですが、まだ慣れが必要そうで、不自然なところもあるかと思います。#007とかと比べて聴きやすくなってたら嬉しいです！
+イイね👍と思ったらSubscribeとShareお願いします!!]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/011-iPhoneAndroid-e22pum</link>
+			<guid isPermaLink="false">cdee9a47-50d2-30db-24c9-84de5f867bc9</guid>
+			<pubDate>Sun, 26 Aug 2018 08:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1189270/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-7-24%2F-011---iPhone-----------Androi-8094a964613d3.m4a" length="31106218" type="audio/x-m4a"/>
+			<itunes:summary>新型iPhoneの発表が迫っているので、iPhoneの噂まとめと合わせてAndroidやスマートフォン周辺領域について話してみました！
+また、今回は初のWaveファイルの24bit書き出しで試そうと思ったらAnchorが250MB以上のファイルアップロードに対応してなかったので、できませんでした。MP3じゃなきゃダメってわけではないので、収録時間短くして今度試そうと思います。結局Anchor側で圧縮とか行われてたら意味ないかもしれないですが、音質向上もう少し試してみたいですね。ノイズリダクションの方はいかがでしょうか？#008から取り入れているのですが、まだ慣れが必要そうで、不自然なところもあるかと思います。#007とかと比べて聴きやすくなってたら嬉しいです！
+イイね👍と思ったらSubscribeとShareお願いします!!</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1923</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#010 Tech News & Trending Service]]></title>
+			<description><![CDATA[2018/08/18~08/24で気になったニュースや気になったサービスについてまとめました。
+イイね👍と思ったらSubscribeとShareお願いします!!]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/010-Tech-News--Trending-Service-e23e51</link>
+			<guid isPermaLink="false">de4c579e-cb0b-5bac-d926-0ea7cb67ff3e</guid>
+			<pubDate>Sat, 25 Aug 2018 08:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1209953/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-7-25%2F-010-Tech-News---Trending-Serv-41ffbb7979efd.m4a" length="29052083" type="audio/x-m4a"/>
+			<itunes:summary>2018/08/18~08/24で気になったニュースや気になったサービスについてまとめました。
+イイね👍と思ったらSubscribeとShareお願いします!!</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1796</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>10</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#009 初コラボ！ Oculus Goについて雑談 with Lily (Podcast in a tub)]]></title>
+			<description><![CDATA[Podcast In a Tub -お風呂でポッドキャスト( https://anchor.fm/podcast-in-a-tub )のLily( @lilythevly )とコラボしてみました！
+ずっとOculus Goについて女性目線の意見でこういうのあるよね!?っていうことを話したかったのでそれをメインにOculus GoやVRについて話してみました！
+イイね👍と思ったらどっちもSubscribe!!]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/009--Oculus-Go-with-Lily-Podcast-in-a-tub-e22pk4</link>
+			<guid isPermaLink="false">ae12029c-73e0-d47c-978f-9dbbbfe71e06</guid>
+			<pubDate>Thu, 23 Aug 2018 08:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1188932/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-7-21%2F-009-------Oculus-Go-------wit-2036e5ab974f8.m4a" length="46223162" type="audio/x-m4a"/>
+			<itunes:summary>Podcast In a Tub -お風呂でポッドキャスト( https://anchor.fm/podcast-in-a-tub )のLily( @lilythevly )とコラボしてみました！
+ずっとOculus Goについて女性目線の意見でこういうのあるよね!?っていうことを話したかったのでそれをメインにOculus GoやVRについて話してみました！
+イイね👍と思ったらどっちもSubscribe!!</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2858</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episode>9</itunes:episode>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[#008 Tech News]]></title>
+			<description><![CDATA[更新遅くなりましたが、08/07~08/17のTech Newsをまとめました。
+今回からノイズリダクションを行ったので、ノイズが大分軽減されてると思います。ただ、猫の鳴き声とかスマートスピーカーが反応したりすることは防げなかったですw
+是非Subscribeして更新楽しみにしてください！]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/008-Tech-News-e22p0i</link>
+			<guid isPermaLink="false">4785dbb9-0251-b333-d28b-947b3030f975</guid>
+			<pubDate>Tue, 21 Aug 2018 17:18:41 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1188306/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-7-21%2F-008-Tech-News-54cd33a64d698.m4a" length="21709128" type="audio/x-m4a"/>
+			<itunes:summary>更新遅くなりましたが、08/07~08/17のTech Newsをまとめました。
+今回からノイズリダクションを行ったので、ノイズが大分軽減されてると思います。ただ、猫の鳴き声とかスマートスピーカーが反応したりすることは防げなかったですw
+是非Subscribeして更新楽しみにしてください！</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1342</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode7 - Tech News and Trending service]]></title>
+			<description><![CDATA[ここ何日かで気になったテクノロジー関係ニュースとサービスについてです。]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/Episode7---Tech-News-and-Trending-service-e1vrct</link>
+			<guid isPermaLink="false">496f0f4e-3dbf-3c28-486f-92e1a5f7b4d3</guid>
+			<pubDate>Wed, 08 Aug 2018 21:22:25 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1092445/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-7-8%2FEpisode7---Tech-News-and-Trend-4eb840467a8ec.m4a" length="49928537" type="audio/x-m4a"/>
+			<itunes:summary>ここ何日かで気になったテクノロジー関係ニュースとサービスについてです。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>3087</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode6]]></title>
+			<description><![CDATA[自分の大好きなDating Appに対しての意見やおすすめのDatingアプリについて話してみました。
+みなさんは使ってますか？
+#TechResearchLife]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/Episode6-e1uk3h</link>
+			<guid isPermaLink="false">046d10d1-146e-1926-0d9f-82d1831b6fc8</guid>
+			<pubDate>Sat, 04 Aug 2018 10:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1052209/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-7-3%2FEpisode6-5ef3a191a613e.m4a" length="30195238" type="audio/x-m4a"/>
+			<itunes:summary>自分の大好きなDating Appに対しての意見やおすすめのDatingアプリについて話してみました。
+みなさんは使ってますか？
+#TechResearchLife</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1866</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode5]]></title>
+			<description><![CDATA[久しぶりになってしましましたが、機材がすごくよくなったので、音質上がってるはずです。ご期待ください。
+
+使用機材・ソフト
+- Mic: Aston Microphones AST-ORIGIN
+- Audio Interface: Universal Audio ARROW
+- Wind Screen: Alctron PF8
+- Software: Garageband]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/Episode5-e1uk35</link>
+			<guid isPermaLink="false">ab02e55f-d756-629c-571b-4229da3392fb</guid>
+			<pubDate>Fri, 03 Aug 2018 09:12:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/1052197/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fproduction%2F2018-7-3%2F3905557-44100-2-4d266523a219a.mp3" length="52044404" type="audio/mpeg"/>
+			<itunes:summary>久しぶりになってしましましたが、機材がすごくよくなったので、音質上がってるはずです。ご期待ください。
+
+使用機材・ソフト
+- Mic: Aston Microphones AST-ORIGIN
+- Audio Interface: Universal Audio ARROW
+- Wind Screen: Alctron PF8
+- Software: Garageband</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2168</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[Episode 4]]></title>
+			<description><![CDATA[そーいえば、忘れてた機能Transitionを使ってみました。サウジアラビア行きたかった…]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/Episode-4-e1sgbl</link>
+			<guid isPermaLink="false">af63c662-717f-df85-fc90-4de3d5d7b103</guid>
+			<pubDate>Wed, 25 Jul 2018 18:40:45 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/982837/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-25%2FEpisode-5-6195d9ab55456.m4a" length="27433983" type="audio/x-m4a"/>
+			<itunes:summary>そーいえば、忘れてた機能Transitionを使ってみました。サウジアラビア行きたかった…</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1696</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 3]]></title>
+			<description><![CDATA[やっとTechResearch.fmらしく、最近のテックニュースや気になるガジェット、サービスについて話しました。]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/Episode-3-e1s0e7</link>
+			<guid isPermaLink="false">2d5de332-f606-c0bf-e1fe-852688e02aa5</guid>
+			<pubDate>Tue, 24 Jul 2018 09:25:58 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/966535/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-24%2FEpisode-3-56f80f15b3199.m4a" length="35373800" type="audio/x-m4a"/>
+			<itunes:summary>やっとTechResearch.fmらしく、最近のテックニュースや気になるガジェット、サービスについて話しました。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>2187</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 2]]></title>
+			<description><![CDATA[イギリスのワーホリと求人について]]></description>
+			<link>https://anchor.fm/techresearchlife/episodes/Episode-2-e1rn4e</link>
+			<guid isPermaLink="false">6bc9d434-bba1-0174-b4d4-4d0235a032e9</guid>
+			<pubDate>Mon, 23 Jul 2018 10:48:21 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/957006/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-23%2FEpisode-2-a9612019dd7d8.m4a" length="14577887" type="audio/x-m4a"/>
+			<itunes:summary>イギリスのワーホリと求人について</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>901</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[Episode 1]]></title>
+			<link>https://anchor.fm/techresearchlife/episodes/Episode-1-e1rbr6</link>
+			<guid isPermaLink="false">854adf44-dbaf-b733-147e-b71272cdc126</guid>
+			<pubDate>Sun, 22 Jul 2018 06:05:23 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/537fce4/podcast/play/945446/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-6-22%2FEpisode-1-5ad17fce650a8.m4a" length="10270240" type="audio/x-m4a"/>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>634</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/775553/775553-1532081370028-64b8d75868af1.jpg"/>
+		</item>
+	</channel>
+</rss>

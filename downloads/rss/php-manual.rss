@@ -1,0 +1,2378 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://php-manual.necomori.asia/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	>
+	
+	<channel>
+		<title>PHPマニュアルを読もう</title>
+		<atom:link href="https://php-manual.necomori.asia/feed/podcast/" rel="self" type="application/rss+xml"/>
+		<link>https://php-manual.necomori.asia/</link>
+		<description>PHPマニュアルを読むことにより、新しい知識を得たり、うろ覚えだったことの再確認をしていこうというpodcastです。</description>
+		<lastBuildDate>Fri, 28 Sep 2018 01:24:06 +0000</lastBuildDate>
+		<language>ja</language>
+		<copyright>© 2017 necomori LLC</copyright>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author>necomori LLC</itunes:author>
+				<googleplay:author>necomori LLC</googleplay:author>
+		<googleplay:email>kunit@necomori.asia</googleplay:email>
+		<itunes:summary>PHPマニュアルを読むことにより、新しい知識を得たり、うろ覚えだったことの再確認をしていこうというpodcastです。</itunes:summary>
+		<googleplay:description>PHPマニュアルを読むことにより、新しい知識を得たり、うろ覚えだったことの再確認をしていこうというpodcastです。</googleplay:description>
+		<itunes:owner>
+			<itunes:name>necomori LLC</itunes:name>
+			<itunes:email>kunit@necomori.asia</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+		<googleplay:explicit>No</googleplay:explicit>
+					<itunes:image href="http://php-manual.necomori.asia/wp-content/uploads/2017/06/podcast.png"></itunes:image>
+			<googleplay:image href="http://php-manual.necomori.asia/wp-content/uploads/2017/06/podcast.png"></googleplay:image>
+			<image>
+				<url>http://php-manual.necomori.asia/wp-content/uploads/2017/06/podcast.png</url>
+				<title>PHPマニュアルを読もう</title>
+				<link>https://php-manual.necomori.asia/</link>
+			</image>
+					<itunes:category text="Technology">
+									<itunes:category text="Software How-To"></itunes:category>
+							</itunes:category>
+								<generator>https://wordpress.org/?v=4.9.10</generator>
+				<item>
+					<title>Vol.41 付録：PHP 7.0.x から PHP 7.1.x への移行</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/41</link>
+					<pubDate>Mon, 31 Jul 2017 03:24:03 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=196</guid>
+					<description><![CDATA[PHPマニュアルの「付録 - PHP 7.0.x から PHP 7.1.x への移行」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「付録 - PHP 7.0.x から PHP 7.1.x への移行」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 7.0.x から PHP 7.1.x への移行」を読みました。</p>
+<p>今回で、PHPマニュアルをひたすら読むというファーストシーズンは終了となります。お盆明けくらいにCakePHP3のマニュアルを読むというセカンドシーズンを開始しようと思ってますので、そちらでも引き続きよろしくお願いします。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration71.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 7.0.x から PHP 7.1.x への移行」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 7.0.x から PHP 7.1.x への移行」を読みました。</p>
+<p>今回で、PHPマニュアルをひたすら読むというファーストシーズンは終了となります。お盆明けくらいにCakePHP3のマニュアルを読むというセカンドシーズンを開始しようと思ってますので、そちらでも引き続きよろしくお願いします。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration71.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 7.0.x から PHP 7.1.x への移行」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 7.0.x から PHP 7.1.x への移行」を読みました。</p>
+<p>今回で、PHPマニュアルをひたすら読むというファーストシーズンは終了となります。お盆明けくらいにCakePHP3のマニュアルを読むというセカンドシーズンを開始しようと思ってますので、そちらでも引き続きよろしくお願いします。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration71.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 7.0.x から PHP 7.1.x への移行」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/196/41.mp3" length="20852173" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>43:26</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.40 付録：PHP 5.6.x から PHP 7.0.x への移行：新機能〜その他の変更</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/40</link>
+					<pubDate>Fri, 28 Jul 2017 04:10:29 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=194</guid>
+					<description><![CDATA[PHPマニュアルの「付録 - PHP 5.6.x から PHP 7.0.x への移行」の「新機能」から「その他の変更」までを読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「付録 - PHP 5.6.x から PHP 7.0.x への移行」の「新機能」から「その他の変更」までを読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行」の「新機能」から「その他の変更」までを読みました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration70.new-features.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行 &#8211; 新機能」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行」の「新機能」から「その他の変更」までを読みました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration70.new-features.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行 &#8211; 新機能」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行」の「新機能」から「その他の変更」までを読みました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration70.new-features.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行 &#8211; 新機能」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/194/40.mp3" length="11250815" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>23:26</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.39 付録：PHP 5.6.x から PHP 7.0.x への移行：下位互換性のない変更点</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/39</link>
+					<pubDate>Thu, 27 Jul 2017 12:31:42 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=193</guid>
+					<description><![CDATA[PHPマニュアルの「付録 - PHP 5.6.x から PHP 7.0.x への移行 - 下位互換性のない変更点」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「付録 - PHP 5.6.x から PHP 7.0.x への移行 - 下位互換性のない変更点」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行 &#8211; 下位互換性のない変更点」を読みました。</p>
+<p>流石に7.0は変更が多く、下位互換性のない変更点だけで１回分つかっちゃいました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration70.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行 &#8211; 下位互換性のない変更点」を読みました。</p>
+<p>流石に7.0は変更が多く、下位互換性のない変更点だけで１回分つかっちゃいました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration70.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行 &#8211; 下位互換性のない変更点」を読みました。</p>
+<p>流石に7.0は変更が多く、下位互換性のない変更点だけで１回分つかっちゃいました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration70.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.6.x から PHP 7.0.x への移行」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/193/39.mp3" length="14521554" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>30:15</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.38 付録：PHP 5.5.x から PHP 5.6.x への移行</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/38</link>
+					<pubDate>Wed, 26 Jul 2017 04:04:09 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=191</guid>
+					<description><![CDATA[PHPマニュアルの「付録 - PHP 5.5.x から PHP 5.6.x への移行」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「付録 - PHP 5.5.x から PHP 5.6.x への移行」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.5.x から PHP 5.6.x への移行」を読みました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration56.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.5.x から PHP 5.6.x への移行」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.5.x から PHP 5.6.x への移行」を読みました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration56.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.5.x から PHP 5.6.x への移行」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.5.x から PHP 5.6.x への移行」を読みました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration56.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.5.x から PHP 5.6.x への移行」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/191/38.mp3" length="10768908" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>22:26</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.37 付録：PHP 5.4.x から PHP 5.5.x への移行</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/37</link>
+					<pubDate>Tue, 25 Jul 2017 04:14:03 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=190</guid>
+					<description><![CDATA[PHPマニュアルの「付録 - PHP 5.4.x から PHP 5.5.x への移行」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「付録 - PHP 5.4.x から PHP 5.5.x への移行」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.4.x から PHP 5.5.x への移行」を読みました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration55.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.4.x から PHP 5.5.x への移行」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.4.x から PHP 5.5.x への移行」を読みました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration55.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.4.x から PHP 5.5.x への移行」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.4.x から PHP 5.5.x への移行」を読みました。</p>
+<p>今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration55.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.4.x から PHP 5.5.x への移行」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/190/37.mp3" length="10090142" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>21:01</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.36 付録：PHP 5.3.x から PHP 5.4.x への移行</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/36</link>
+					<pubDate>Mon, 24 Jul 2017 11:08:34 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=187</guid>
+					<description><![CDATA[PHPマニュアルの「付録 - PHP 5.3.x から PHP 5.4.x への移行」を読みました。]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「付録 - PHP 5.3.x から PHP 5.4.x への移行」を読みました。]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.3.x から PHP 5.4.x への移行」を読みました。</p>
+<p>SPLは読んでみたんですが、あまりにも説明だけになっちゃったので、ボツにしました。<br />
+今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration54.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.3.x から PHP 5.4.x への移行」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.3.x から PHP 5.4.x への移行」を読みました。</p>
+<p>SPLは読んでみたんですが、あまりにも説明だけになっちゃったので、ボツにしました。<br />
+今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration54.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.3.x から PHP 5.4.x への移行」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「付録 &#8211; PHP 5.3.x から PHP 5.4.x への移行」を読みました。</p>
+<p>SPLは読んでみたんですが、あまりにも説明だけになっちゃったので、ボツにしました。<br />
+今回、マイクを手持ちで収録したため、マイクの握り直す音(ギュギュという音)が入ってます。ちょっと聞きづらかったらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/migration54.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「付録 &#8211; PHP 5.3.x から PHP 5.4.x への移行」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/187/36.mp3" length="15344307" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>31:58</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.35 関数リファレンス：データベース関連：抽象化レイヤー：PDO(後編)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/35</link>
+					<pubDate>Fri, 21 Jul 2017 09:01:26 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=181</guid>
+					<description><![CDATA[PHPマニュアルの「関数リファレンス - データベース関連 - 抽象化レイヤー - PDO」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「関数リファレンス - データベース関連 - 抽象化レイヤー - PDO」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」を読みました。</p>
+<p>前回と今回とでPDOを読んでいます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/book.pdo.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」</a></li>
+<li><a href="http://qiita.com/mpyw/items/b00b72c5c95aac573b71" target="_blank" rel="noopener noreferrer">PHPでデータベースに接続するときのまとめ</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」を読みました。</p>
+<p>前回と今回とでPDOを読んでいます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/book.pdo.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」</a></li>
+<li><a href="http://qiita.com/mpyw/items/b00b72c5c95aac573b71" target="_blank" rel="noopener noreferrer">PHPでデータベースに接続するときのまとめ</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」を読みました。</p>
+<p>前回と今回とでPDOを読んでいます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/book.pdo.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」</a></li>
+<li><a href="http://qiita.com/mpyw/items/b00b72c5c95aac573b71" target="_blank" rel="noopener noreferrer">PHPでデータベースに接続するときのまとめ</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/181/35.mp3" length="15456111" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>32:12</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.34 関数リファレンス：データベース関連：抽象化レイヤー：PDO(前編)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/34</link>
+					<pubDate>Thu, 20 Jul 2017 04:28:33 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=180</guid>
+					<description><![CDATA[PHPマニュアルの「関数リファレンス - データベース関連 - 抽象化レイヤー - PDO」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「関数リファレンス - データベース関連 - 抽象化レイヤー - PDO」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」を読みました。</p>
+<p>今回と次回とでPDOを読んでいます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/book.pdo.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」</a></li>
+<li><a href="http://qiita.com/mpyw/items/b00b72c5c95aac573b71" target="_blank" rel="noopener noreferrer">PHPでデータベースに接続するときのまとめ</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」を読みました。</p>
+<p>今回と次回とでPDOを読んでいます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/book.pdo.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」</a></li>
+<li><a href="http://qiita.com/mpyw/items/b00b72c5c95aac573b71" target="_blank" rel="noopener noreferrer">PHPでデータベースに接続するときのまとめ</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」を読みました。</p>
+<p>今回と次回とでPDOを読んでいます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/book.pdo.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「関数リファレンス &#8211; データベース関連 &#8211; 抽象化レイヤー &#8211; PDO」</a></li>
+<li><a href="http://qiita.com/mpyw/items/b00b72c5c95aac573b71" target="_blank" rel="noopener noreferrer">PHPでデータベースに接続するときのまとめ</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/180/34.mp3" length="17097228" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>35:37</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.33 言語リファレンス:定義済みのインターフェイスとクラス</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/33</link>
+					<pubDate>Wed, 19 Jul 2017 04:07:24 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=179</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 定義済みのインターフェイスとクラス」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 定義済みのインターフェイスとクラス」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 定義済みのインターフェイスとクラス」を読みました。</p>
+<p>長かった言語リファレンスが今回で終わります。(すこしズルをしてますが・・・)</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/reserved.interfaces.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定義済みのインターフェイスとクラス」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 定義済みのインターフェイスとクラス」を読みました。</p>
+<p>長かった言語リファレンスが今回で終わります。(すこしズルをしてますが・・・)</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/reserved.interfaces.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定義済みのインターフェイスとクラス」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 定義済みのインターフェイスとクラス」を読みました。</p>
+<p>長かった言語リファレンスが今回で終わります。(すこしズルをしてますが・・・)</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/reserved.interfaces.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定義済みのインターフェイスとクラス」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/179/33.mp3" length="12069179" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>25:09</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.32 言語リファレンス:定義済みの例外</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/32</link>
+					<pubDate>Tue, 18 Jul 2017 04:06:39 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=177</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 定義済みの例外」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 定義済みの例外」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 定義済みの例外」を読みました。</p>
+<p>内容に入る前に、今後の予定を最初にお話してます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/reserved.exceptions.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定義済みの例外」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 定義済みの例外」を読みました。</p>
+<p>内容に入る前に、今後の予定を最初にお話してます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/reserved.exceptions.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定義済みの例外」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 定義済みの例外」を読みました。</p>
+<p>内容に入る前に、今後の予定を最初にお話してます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/reserved.exceptions.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定義済みの例外」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/177/32.mp3" length="16310211" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>33:59</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.31 言語リファレンス:定義済の変数</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/31</link>
+					<pubDate>Fri, 14 Jul 2017 05:02:07 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=172</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 定義済の変数」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 定義済の変数」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 定義済の変数」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/reserved.variables.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定義済の変数」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 定義済の変数」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/reserved.variables.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定義済の変数」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 定義済の変数」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/reserved.variables.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定義済の変数」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/172/31.mp3" length="20025241" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>41:43</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.30 言語リファレンス:リファレンスの説明</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/30</link>
+					<pubDate>Thu, 13 Jul 2017 03:17:44 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=170</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - リファレンスの説明」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - リファレンスの説明」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; リファレンスの説明」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.references.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; リファレンスの説明」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; リファレンスの説明」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.references.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; リファレンスの説明」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; リファレンスの説明」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.references.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; リファレンスの説明」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/170/30.mp3" length="17135471" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>35:42</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.29 言語リファレンス:ジェネレータ</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/29</link>
+					<pubDate>Wed, 12 Jul 2017 03:20:00 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=169</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - ジェネレータ」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - ジェネレータ」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; ジェネレータ」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.generators.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; ジェネレータ」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; ジェネレータ」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.generators.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; ジェネレータ」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; ジェネレータ」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.generators.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; ジェネレータ」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/169/29.mp3" length="17822387" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>37:08</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.28 番外編: PSR-2 コーディングガイド（日本語）(後編)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/28</link>
+					<pubDate>Tue, 11 Jul 2017 03:14:36 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=168</guid>
+					<description><![CDATA[前回と今回は、番外編として、「PSR-2 コーディングガイド(日本語版)」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[前回と今回は、番外編として、「PSR-2 コーディングガイド(日本語版)」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>前回と今回は、番外編として、「PSR-2 コーディングガイド(日本語版)」を読みました。<br />
+(日本語訳を公開していただいている、インフィニットループさん、ありがとうございます)</p>
+<p>次回から、通常の「PHPマニュアルを読もう」に戻ります。</p>
+<p>(注意) 前回の改行コードの説明で、キャリッジリターン(CR)とラインフィード(LF)の説明が逆になってました。正しくは、キャリッジリターン(CR)が行頭に戻す、ラインフィード(LF)が一行送りになります。すみませんでした・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://www.infiniteloop.co.jp/docs/psr/psr-2-coding-style-guide.html" target="_blank" rel="noopener noreferrer">PSR-2 コーディングガイド(日本語版)</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>前回と今回は、番外編として、「PSR-2 コーディングガイド(日本語版)」を読みました。<br />
+(日本語訳を公開していただいている、インフィニットループさん、ありがとうございます)</p>
+<p>次回から、通常の「PHPマニュアルを読もう」に戻ります。</p>
+<p>(注意) 前回の改行コードの説明で、キャリッジリターン(CR)とラインフィード(LF)の説明が逆になってました。正しくは、キャリッジリターン(CR)が行頭に戻す、ラインフィード(LF)が一行送りになります。すみませんでした・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://www.infiniteloop.co.jp/docs/psr/psr-2-coding-style-guide.html" target="_blank" rel="noopener noreferrer">PSR-2 コーディングガイド(日本語版)</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>前回と今回は、番外編として、「PSR-2 コーディングガイド(日本語版)」を読みました。<br />
+(日本語訳を公開していただいている、インフィニットループさん、ありがとうございます)</p>
+<p>次回から、通常の「PHPマニュアルを読もう」に戻ります。</p>
+<p>(注意) 前回の改行コードの説明で、キャリッジリターン(CR)とラインフィード(LF)の説明が逆になってました。正しくは、キャリッジリターン(CR)が行頭に戻す、ラインフィード(LF)が一行送りになります。すみませんでした・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://www.infiniteloop.co.jp/docs/psr/psr-2-coding-style-guide.html" target="_blank" rel="noopener noreferrer">PSR-2 コーディングガイド(日本語版)</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/168/28.mp3" length="16041045" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>33:25</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.27 番外編: PSR-2 コーディングガイド（日本語）(前編)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/27</link>
+					<pubDate>Mon, 10 Jul 2017 03:36:25 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=167</guid>
+					<description><![CDATA[今回と次回は、番外編として、「PSR-2 コーディングガイド(日本語版)」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[今回と次回は、番外編として、「PSR-2 コーディングガイド(日本語版)」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>今回と次回は、番外編として、「PSR-2 コーディングガイド(日本語版)」を読みました。<br />
+(日本語訳を公開していただいている、インフィニットループさん、ありがとうございます)</p>
+<p>合わせて、Twitterで質問いただいたクラス関連の質問に回答しました。</p>
+<p>(注意) 今回話しをしている、改行コードの説明で、キャリッジリターン(CR)とラインフィード(LF)の説明が逆になってました。正しくは、キャリッジリターン(CR)が行頭に戻す、ラインフィード(LF)が一行送りになります。すみませんでした・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://www.infiniteloop.co.jp/docs/psr/psr-2-coding-style-guide.html" target="_blank" rel="noopener noreferrer">PSR-2 コーディングガイド(日本語版)</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>今回と次回は、番外編として、「PSR-2 コーディングガイド(日本語版)」を読みました。<br />
+(日本語訳を公開していただいている、インフィニットループさん、ありがとうございます)</p>
+<p>合わせて、Twitterで質問いただいたクラス関連の質問に回答しました。</p>
+<p>(注意) 今回話しをしている、改行コードの説明で、キャリッジリターン(CR)とラインフィード(LF)の説明が逆になってました。正しくは、キャリッジリターン(CR)が行頭に戻す、ラインフィード(LF)が一行送りになります。すみませんでした・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://www.infiniteloop.co.jp/docs/psr/psr-2-coding-style-guide.html" target="_blank" rel="noopener noreferrer">PSR-2 コーディングガイド(日本語版)</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>今回と次回は、番外編として、「PSR-2 コーディングガイド(日本語版)」を読みました。<br />
+(日本語訳を公開していただいている、インフィニットループさん、ありがとうございます)</p>
+<p>合わせて、Twitterで質問いただいたクラス関連の質問に回答しました。</p>
+<p>(注意) 今回話しをしている、改行コードの説明で、キャリッジリターン(CR)とラインフィード(LF)の説明が逆になってました。正しくは、キャリッジリターン(CR)が行頭に戻す、ラインフィード(LF)が一行送りになります。すみませんでした・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://www.infiniteloop.co.jp/docs/psr/psr-2-coding-style-guide.html" target="_blank" rel="noopener noreferrer">PSR-2 コーディングガイド(日本語版)</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/167/27.mp3" length="20915285" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>43:34</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.26 言語リファレンス:エラー、例外(exceptions)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/26</link>
+					<pubDate>Fri, 07 Jul 2017 04:27:50 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=160</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス」の「エラー」から「例外(exceptions)」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス」の「エラー」から「例外(exceptions)」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス」の「エラー」から「例外(exceptions)」まで読みました。</p>
+<p>podcast内でも言ってますが、来週は番外編として、「PSR-2 コーディングガイド(日本語版)」を読みたいと思ってます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.errors.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; エラー」</a></li>
+<li><a href="https://speakerdeck.com/twada/php-conference-2016" target="_blank" rel="noopener noreferrer">PHP7 で堅牢なコードを書く &#8211; 例外処理、表明プログラミング、契約による設計 / PHP Conference 2016</a></li>
+<li><a href="https://speakerdeck.com/hirak/php-error-and-exception" target="_blank" rel="noopener noreferrer">PHPのエラーと例外再入門 / php-error-and-exception</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス」の「エラー」から「例外(exceptions)」まで読みました。</p>
+<p>podcast内でも言ってますが、来週は番外編として、「PSR-2 コーディングガイド(日本語版)」を読みたいと思ってます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.errors.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; エラー」</a></li>
+<li><a href="https://speakerdeck.com/twada/php-conference-2016" target="_blank" rel="noopener noreferrer">PHP7 で堅牢なコードを書く &#8211; 例外処理、表明プログラミング、契約による設計 / PHP Conference 2016</a></li>
+<li><a href="https://speakerdeck.com/hirak/php-error-and-exception" target="_blank" rel="noopener noreferrer">PHPのエラーと例外再入門 / php-error-and-exception</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス」の「エラー」から「例外(exceptions)」まで読みました。</p>
+<p>podcast内でも言ってますが、来週は番外編として、「PSR-2 コーディングガイド(日本語版)」を読みたいと思ってます。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.errors.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; エラー」</a></li>
+<li><a href="https://speakerdeck.com/twada/php-conference-2016" target="_blank" rel="noopener noreferrer">PHP7 で堅牢なコードを書く &#8211; 例外処理、表明プログラミング、契約による設計 / PHP Conference 2016</a></li>
+<li><a href="https://speakerdeck.com/hirak/php-error-and-exception" target="_blank" rel="noopener noreferrer">PHPのエラーと例外再入門 / php-error-and-exception</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/160/26.mp3" length="16089528" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>33:31</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.25 言語リファレンス:名前空間(後半)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/25</link>
+					<pubDate>Thu, 06 Jul 2017 03:08:52 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=159</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 名前空間」の「namespace キーワードおよび __NAMESPACE__ 定数」から「FAQ: 名前空間について知っておくべきこと」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 名前空間」の「namespace キーワードおよび __NAMESPACE__ 定数」から「FAQ: 名前空間について知っておくべきこと」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 名前空間」の「namespace キーワードおよび __NAMESPACE__ 定数」から「FAQ: 名前空間について知っておくべきこと」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.namespaces.nsconstants.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 名前空間 &#8211; namespace キーワードおよび __NAMESPACE__ 定数」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 名前空間」の「namespace キーワードおよび __NAMESPACE__ 定数」から「FAQ: 名前空間について知っておくべきこと」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.namespaces.nsconstants.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 名前空間 &#8211; namespace キーワードおよび __NAMESPACE__ 定数」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 名前空間」の「namespace キーワードおよび __NAMESPACE__ 定数」から「FAQ: 名前空間について知っておくべきこと」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.namespaces.nsconstants.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 名前空間 &#8211; namespace キーワードおよび __NAMESPACE__ 定数」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/159/25.mp3" length="24935425" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>51:57</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.24 言語リファレンス:名前空間(前半)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/24</link>
+					<pubDate>Wed, 05 Jul 2017 04:21:34 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=158</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 名前空間」の「名前空間の概要」から「名前空間と動的言語機能」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 名前空間」の「名前空間の概要」から「名前空間と動的言語機能」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 名前空間」の「名前空間の概要」から「名前空間と動的言語機能」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.namespaces.rationale.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 名前空間 &#8211; 名前空間の概要」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 名前空間」の「名前空間の概要」から「名前空間と動的言語機能」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.namespaces.rationale.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 名前空間 &#8211; 名前空間の概要」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 名前空間」の「名前空間の概要」から「名前空間と動的言語機能」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.namespaces.rationale.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 名前空間 &#8211; 名前空間の概要」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/158/24.mp3" length="18102420" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>37:43</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.23 言語リファレンス:クラスとオブジェクト(オブジェクトのシリアライズ〜変更履歴)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/23</link>
+					<pubDate>Tue, 04 Jul 2017 05:29:36 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=157</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「オブジェクトのシリアライズ」から「変更履歴」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「オブジェクトのシリアライズ」から「変更履歴」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「オブジェクトのシリアライズ」から「変更履歴」まで読みました。</p>
+<p>後回しにしていた「クラスのオートローディング」および「マジックメソッド」も合わせて読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.serialization.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; オブジェクトのシリアライズ」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「オブジェクトのシリアライズ」から「変更履歴」まで読みました。</p>
+<p>後回しにしていた「クラスのオートローディング」および「マジックメソッド」も合わせて読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.serialization.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; オブジェクトのシリアライズ」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「オブジェクトのシリアライズ」から「変更履歴」まで読みました。</p>
+<p>後回しにしていた「クラスのオートローディング」および「マジックメソッド」も合わせて読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.serialization.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; オブジェクトのシリアライズ」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/157/23.mp3" length="24319772" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>50:40</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.22 言語リファレンス:クラスとオブジェクト(オブジェクトのクローン作成〜オブジェクトと参照)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/22</link>
+					<pubDate>Mon, 03 Jul 2017 03:25:54 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=155</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「オブジェクトのクローン作成」から「オブジェクトと参照」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「オブジェクトのクローン作成」から「オブジェクトと参照」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「オブジェクトのクローン作成」から「オブジェクトと参照」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.cloning.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; オブジェクトのクローン作成」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「オブジェクトのクローン作成」から「オブジェクトと参照」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.cloning.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; オブジェクトのクローン作成」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「オブジェクトのクローン作成」から「オブジェクトと参照」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.cloning.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; オブジェクトのクローン作成」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/155/22.mp3" length="20793032" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>43:19</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.21 言語リファレンス:クラスとオブジェクト(オブジェクトの反復処理〜finalキーワード)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/21</link>
+					<pubDate>Fri, 30 Jun 2017 03:03:59 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=145</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「オブジェクトの反復処理」から「finalキーワード」まで読みました。]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「オブジェクトの反復処理」から「finalキーワード」まで読みました。]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「オブジェクトの反復処理」から「finalキーワード」まで読みました。</p>
+<p>「マジックメソッド」は順序的にここではないなということで飛ばしてます。あと、最初に飛ばした「クラスの基礎」に戻り、そこを読みました。</p>
+<p>「クラスの基礎」の部分はだいぶdisりながら読んでいます。不快になった方がいたらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.iterations.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; オブジェクトの反復処理」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「オブジェクトの反復処理」から「finalキーワード」まで読みました。</p>
+<p>「マジックメソッド」は順序的にここではないなということで飛ばしてます。あと、最初に飛ばした「クラスの基礎」に戻り、そこを読みました。</p>
+<p>「クラスの基礎」の部分はだいぶdisりながら読んでいます。不快になった方がいたらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.iterations.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; オブジェクトの反復処理」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「オブジェクトの反復処理」から「finalキーワード」まで読みました。</p>
+<p>「マジックメソッド」は順序的にここではないなということで飛ばしてます。あと、最初に飛ばした「クラスの基礎」に戻り、そこを読みました。</p>
+<p>「クラスの基礎」の部分はだいぶdisりながら読んでいます。不快になった方がいたらすみません・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.iterations.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; オブジェクトの反復処理」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/145/21.mp3" length="18283187" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>38:05</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.20 言語リファレンス:クラスとオブジェクト(トレイト〜オーバーロード)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/20</link>
+					<pubDate>Thu, 29 Jun 2017 03:02:31 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=142</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「トレイト」から「オーバーロード」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「トレイト」から「オーバーロード」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「トレイト」から「オーバーロード」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.traits.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; トレイト」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「トレイト」から「オーバーロード」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.traits.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; トレイト」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「トレイト」から「オーバーロード」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.traits.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; トレイト」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/142/20.mp3" length="22732154" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>47:21</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.19 言語リファレンス:クラスとオブジェクト(スコープ定義演算子〜オブジェクト インターフェイス)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/19</link>
+					<pubDate>Wed, 28 Jun 2017 01:10:55 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=138</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「スコープ定義演算子」から「オブジェクト インターフェイス」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「スコープ定義演算子」から「オブジェクト インターフェイス」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「スコープ定義演算子」から「オブジェクト インターフェイス」まで読みました。</p>
+<p>「Paamayim Nekudotayim」の正しい発音は未だにわかりません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.paamayim-nekudotayim.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; スコープ定義演算子」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「スコープ定義演算子」から「オブジェクト インターフェイス」まで読みました。</p>
+<p>「Paamayim Nekudotayim」の正しい発音は未だにわかりません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.paamayim-nekudotayim.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; スコープ定義演算子」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「スコープ定義演算子」から「オブジェクト インターフェイス」まで読みました。</p>
+<p>「Paamayim Nekudotayim」の正しい発音は未だにわかりません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.paamayim-nekudotayim.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; スコープ定義演算子」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/138/19.mp3" length="16216797" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>33:47</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.18 言語リファレンス:クラスとオブジェクト(コンストラクタとデストラクタ〜オブジェクトの継承)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/18</link>
+					<pubDate>Tue, 27 Jun 2017 03:21:51 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=136</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「コンストラクタとデストラクタ」から「オブジェクトの継承」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「コンストラクタとデストラクタ」から「オブジェクトの継承」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「コンストラクタとデストラクタ」から「オブジェクトの継承」まで読みました。</p>
+<p>「クラスのオートローディング」は順番的に良くないと判断したので飛ばしました。後から再度ちゃんと読もうと思っています。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.decon.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; コンストラクタとデストラクタ」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「コンストラクタとデストラクタ」から「オブジェクトの継承」まで読みました。</p>
+<p>「クラスのオートローディング」は順番的に良くないと判断したので飛ばしました。後から再度ちゃんと読もうと思っています。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.decon.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; コンストラクタとデストラクタ」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「コンストラクタとデストラクタ」から「オブジェクトの継承」まで読みました。</p>
+<p>「クラスのオートローディング」は順番的に良くないと判断したので飛ばしました。後から再度ちゃんと読もうと思っています。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.oop5.decon.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; コンストラクタとデストラクタ」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/136/18.mp3" length="20214785" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>42:07</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.17 言語リファレンス:クラスとオブジェクト(はじめに〜オブジェクト定数)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/17</link>
+					<pubDate>Mon, 26 Jun 2017 03:16:15 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=134</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「はじめに」から「オブジェクト定数」まで読みました。]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - クラスとオブジェクト」の「はじめに」から「オブジェクト定数」まで読みました。]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「はじめに」から「オブジェクト定数」まで読みました。</p>
+<p>ただし、「クラスの基礎」があまりにも不親切だったので、ここはつまみ食いして、後から再度ちゃんと読もうと思っています。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/oop5.intro.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; はじめに」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「はじめに」から「オブジェクト定数」まで読みました。</p>
+<p>ただし、「クラスの基礎」があまりにも不親切だったので、ここはつまみ食いして、後から再度ちゃんと読もうと思っています。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/oop5.intro.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; はじめに」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; クラスとオブジェクト」の「はじめに」から「オブジェクト定数」まで読みました。</p>
+<p>ただし、「クラスの基礎」があまりにも不親切だったので、ここはつまみ食いして、後から再度ちゃんと読もうと思っています。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/oop5.intro.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; クラスとオブジェクト &#8211; はじめに」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/134/17.mp3" length="18722253" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>39:00</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.16 言語リファレンス:関数(可変関数〜無名関数)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/16</link>
+					<pubDate>Fri, 23 Jun 2017 03:06:11 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=132</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 関数」の「可変関数」から「無名関数」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 関数」の「可変関数」から「無名関数」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 関数」の「可変関数」から「無名関数」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/functions.variable-functions.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 関数 &#8211; 可変関数」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 関数」の「可変関数」から「無名関数」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/functions.variable-functions.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 関数 &#8211; 可変関数」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 関数」の「可変関数」から「無名関数」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/functions.variable-functions.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 関数 &#8211; 可変関数」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/132/16.mp3" length="13668082" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>28:28</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.15 言語リファレンス:関数(ユーザー定義関数〜返り値)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/15</link>
+					<pubDate>Thu, 22 Jun 2017 03:06:59 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=130</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 関数」の「ユーザー定義関数」から「返り値」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 関数」の「ユーザー定義関数」から「返り値」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 関数」の「ユーザー定義関数」から「返り値」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/functions.user-defined.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 関数 &#8211; ユーザー定義関数」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 関数」の「ユーザー定義関数」から「返り値」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/functions.user-defined.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 関数 &#8211; ユーザー定義関数」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 関数」の「ユーザー定義関数」から「返り値」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/functions.user-defined.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 関数 &#8211; ユーザー定義関数」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/130/15.mp3" length="25870818" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>53:54</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.14 言語リファレンス:制御構造(declare〜goto)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/14</link>
+					<pubDate>Wed, 21 Jun 2017 03:06:45 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=128</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 制御構造」の「declare」から「goto」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 制御構造」の「declare」から「goto」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 制御構造」の「declare」から「goto」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/control-structures.declare.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 制御構造 &#8211; declare」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 制御構造」の「declare」から「goto」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/control-structures.declare.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 制御構造 &#8211; declare」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 制御構造」の「declare」から「goto」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/control-structures.declare.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 制御構造 &#8211; declare」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/128/14.mp3" length="18437832" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>38:25</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.13 言語リファレンス:制御構造(for〜switch)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/13</link>
+					<pubDate>Tue, 20 Jun 2017 03:49:31 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=126</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 制御構造」の「for」から「switch」まで読みました。]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 制御構造」の「for」から「switch」まで読みました。]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 制御構造」の「for」から「switch」まで読みました。</p>
+<p>主にswitchをdisっているだけの回になっています・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/control-structures.for.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 制御構造 &#8211; for」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 制御構造」の「for」から「switch」まで読みました。</p>
+<p>主にswitchをdisっているだけの回になっています・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/control-structures.for.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 制御構造 &#8211; for」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 制御構造」の「for」から「switch」まで読みました。</p>
+<p>主にswitchをdisっているだけの回になっています・・・</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/control-structures.for.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 制御構造 &#8211; for」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/126/13.mp3" length="28618900" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>59:37</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.12 言語リファレンス:制御構造(導入〜do-while)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/12</link>
+					<pubDate>Mon, 19 Jun 2017 03:08:02 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=123</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 制御構造」の「導入」から「do-while」まで読みました。]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 制御構造」の「導入」から「do-while」まで読みました。]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 制御構造」の「導入」から「do-while」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/control-structures.intro.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 制御構造 &#8211; 導入」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 制御構造」の「導入」から「do-while」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/control-structures.intro.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 制御構造 &#8211; 導入」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 制御構造」の「導入」から「do-while」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/control-structures.intro.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 制御構造 &#8211; 導入」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/123/12.mp3" length="18881287" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>39:20</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.11 言語リファレンス:演算子(エラー制御演算子〜型演算子)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/11</link>
+					<pubDate>Fri, 16 Jun 2017 04:24:26 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=118</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 演算子」の「エラー制御演算子」から「型演算子」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 演算子」の「エラー制御演算子」から「型演算子」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 演算子」の「エラー制御演算子」から「型演算子」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.operators.errorcontrol.php#language.operators.errorcontrol" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 演算子 &#8211; エラー制御演算子」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 演算子」の「エラー制御演算子」から「型演算子」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.operators.errorcontrol.php#language.operators.errorcontrol" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 演算子 &#8211; エラー制御演算子」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 演算子」の「エラー制御演算子」から「型演算子」まで読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.operators.errorcontrol.php#language.operators.errorcontrol" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 演算子 &#8211; エラー制御演算子」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/118/11.mp3" length="20634625" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>42:59</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.10 言語リファレンス:演算子(演算子の優先順位〜比較演算子)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/10</link>
+					<pubDate>Thu, 15 Jun 2017 04:55:56 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=116</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 演算子」の「演算子の優先順位」から「比較演算子」まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 演算子」の「演算子の優先順位」から「比較演算子」まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 演算子」の「演算子の優先順位」から「比較演算子」まで読みました。</p>
+<p>「比較演算子」の部分で、$aと$bがかなりとっちらかっていて聞きづらいかもしれません。すみません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.operators.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 演算子」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 演算子」の「演算子の優先順位」から「比較演算子」まで読みました。</p>
+<p>「比較演算子」の部分で、$aと$bがかなりとっちらかっていて聞きづらいかもしれません。すみません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.operators.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 演算子」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 演算子」の「演算子の優先順位」から「比較演算子」まで読みました。</p>
+<p>「比較演算子」の部分で、$aと$bがかなりとっちらかっていて聞きづらいかもしれません。すみません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.operators.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 演算子」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/116/10.mp3" length="25662256" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>53:28</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.9 言語リファレンス:定数〜式</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/9</link>
+					<pubDate>Wed, 14 Jun 2017 05:28:59 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=114</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス」の「定数」と「式」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス」の「定数」と「式」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス」の「定数」と「式」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.constants.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定数」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス」の「定数」と「式」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.constants.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定数」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス」の「定数」と「式」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.constants.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 定数」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/114/9.mp3" length="20850500" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>43:26</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.8 言語リファレンス:変数</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/8</link>
+					<pubDate>Tue, 13 Jun 2017 04:14:36 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=109</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 変数」を読みました。]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 変数」を読みました。]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 変数」を読みました。</p>
+<p>変数を一回で終わらせたかったので1時間超えになってしまいました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.variables.basics.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 変数」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 変数」を読みました。</p>
+<p>変数を一回で終わらせたかったので1時間超えになってしまいました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.variables.basics.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 変数」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 変数」を読みました。</p>
+<p>変数を一回で終わらせたかったので1時間超えになってしまいました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.variables.basics.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 変数」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/109/8.mp3" length="30172244" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>1:02:52</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.7 言語リファレンス:型(オブジェクト〜型の相互変換)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/7</link>
+					<pubDate>Mon, 12 Jun 2017 05:23:04 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=106</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 型」の「オブジェクト」から「型の相互変換」までを読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 型」の「オブジェクト」から「型の相互変換」までを読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型」の「オブジェクト」から「型の相互変換」までを読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.object.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; オブジェクト」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型」の「オブジェクト」から「型の相互変換」までを読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.object.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; オブジェクト」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型」の「オブジェクト」から「型の相互変換」までを読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.object.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; オブジェクト」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/106/7.mp3" length="20586977" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>42:53</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.6b 言語リファレンス:型(配列) 後編</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/6b</link>
+					<pubDate>Sat, 10 Jun 2017 08:39:45 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=103</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 型 - 配列」の後編になります。
+あわせて「言語リファレンス - 型 - Iterables」も読んでいます。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 型 - 配列」の後編になります。
+あわせて「言語リファレンス - 型 - Iterables」も読んでいます。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型 &#8211; 配列」の後編になります。<br />
+あわせて「言語リファレンス &#8211; 型 &#8211; Iterables」も読んでいます。</p>
+<p>配列の説明はボリュームが多かったので、前後編にわけました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.array.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 配列」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型 &#8211; 配列」の後編になります。<br />
+あわせて「言語リファレンス &#8211; 型 &#8211; Iterables」も読んでいます。</p>
+<p>配列の説明はボリュームが多かったので、前後編にわけました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.array.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 配列」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型 &#8211; 配列」の後編になります。<br />
+あわせて「言語リファレンス &#8211; 型 &#8211; Iterables」も読んでいます。</p>
+<p>配列の説明はボリュームが多かったので、前後編にわけました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.array.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 配列」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/103/6b.mp3" length="15412438" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>32:07</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.6a 言語リファレンス:型(配列) 前編</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/6a</link>
+					<pubDate>Fri, 09 Jun 2017 13:17:35 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=99</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 型 - 配列」の前編になります。]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 型 - 配列」の前編になります。]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型 &#8211; 配列」の前編になります。</p>
+<p>配列の説明はボリュームが多かったので、前後編にわけました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.array.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 配列」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型 &#8211; 配列」の前編になります。</p>
+<p>配列の説明はボリュームが多かったので、前後編にわけました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.array.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 配列」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型 &#8211; 配列」の前編になります。</p>
+<p>配列の説明はボリュームが多かったので、前後編にわけました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.array.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 配列」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/99/6a.mp3" length="17912668" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>37:19</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.5b 言語リファレンス:型(文字列)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/5b</link>
+					<pubDate>Wed, 07 Jun 2017 16:10:46 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=98</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 型 - 文字列」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 型 - 文字列」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型 &#8211; 文字列」を読みました。</p>
+<p>第5回として収録したものが1時間40分の長さになってしまったので、前半・後半の2つに分割しています。</p>
+<p>そのため、このパートは挨拶なしにいきなり文字列の説明から始まっていますので、お気をつけ下さい。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.string.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 文字列」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型 &#8211; 文字列」を読みました。</p>
+<p>第5回として収録したものが1時間40分の長さになってしまったので、前半・後半の2つに分割しています。</p>
+<p>そのため、このパートは挨拶なしにいきなり文字列の説明から始まっていますので、お気をつけ下さい。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.string.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 文字列」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型 &#8211; 文字列」を読みました。</p>
+<p>第5回として収録したものが1時間40分の長さになってしまったので、前半・後半の2つに分割しています。</p>
+<p>そのため、このパートは挨拶なしにいきなり文字列の説明から始まっていますので、お気をつけ下さい。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.string.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 文字列」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/98/5b.mp3" length="27086663" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>56:26</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.5a 言語リファレンス:型(導入〜浮動小数点数)</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/5a</link>
+					<pubDate>Wed, 07 Jun 2017 16:09:10 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=95</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 型」の「導入」から「浮動小数点数」までを読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 型」の「導入」から「浮動小数点数」までを読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型」の「導入」から「浮動小数点数」までを読みました。</p>
+<p>第5回として収録したものが1時間40分の長さになってしまったので、前半・後半の2つに分割しています。</p>
+<p>そのため、このパートの最後は浮動小数点数のところを読み終わったとこでバッサリ終わっているため、びっくりされるかもしれません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.intro.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 導入」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型」の「導入」から「浮動小数点数」までを読みました。</p>
+<p>第5回として収録したものが1時間40分の長さになってしまったので、前半・後半の2つに分割しています。</p>
+<p>そのため、このパートの最後は浮動小数点数のところを読み終わったとこでバッサリ終わっているため、びっくりされるかもしれません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.intro.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 導入」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 型」の「導入」から「浮動小数点数」までを読みました。</p>
+<p>第5回として収録したものが1時間40分の長さになってしまったので、前半・後半の2つに分割しています。</p>
+<p>そのため、このパートの最後は浮動小数点数のところを読み終わったとこでバッサリ終わっているため、びっくりされるかもしれません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.types.intro.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 型 &#8211; 導入」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/95/5a.mp3" length="19665380" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>40:58</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.4 基本的な構文</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/4</link>
+					<pubDate>Wed, 07 Jun 2017 16:02:02 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=93</guid>
+					<description><![CDATA[PHPマニュアルの「言語リファレンス - 基本的な構文」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「言語リファレンス - 基本的な構文」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 基本的な構文」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.basic-syntax.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 基本的な構文」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 基本的な構文」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.basic-syntax.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 基本的な構文」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「言語リファレンス &#8211; 基本的な構文」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/language.basic-syntax.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「言語リファレンス &#8211; 基本的な構文」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/93/4.mp3" length="15279940" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>31:50</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.3 インストール周り斜め読み</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/3</link>
+					<pubDate>Mon, 05 Jun 2017 03:46:58 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=88</guid>
+					<description><![CDATA[PHPマニュアルの「インストールと設定」を読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「インストールと設定」を読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「インストールと設定」を読みました。</p>
+<p>この回は長い割にあまり役に立たない(自分でPHPをソースからbuildしない人には必要ない情報)と思うので、聞き飛ばしていただいてもいいかもしれません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/install.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「インストールと設定」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「インストールと設定」を読みました。</p>
+<p>この回は長い割にあまり役に立たない(自分でPHPをソースからbuildしない人には必要ない情報)と思うので、聞き飛ばしていただいてもいいかもしれません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/install.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「インストールと設定」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「インストールと設定」を読みました。</p>
+<p>この回は長い割にあまり役に立たない(自分でPHPをソースからbuildしない人には必要ない情報)と思うので、聞き飛ばしていただいてもいいかもしれません。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/install.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「インストールと設定」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/88/3.mp3" length="39334536" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>1:21:57</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.2 簡易なのか？</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/2</link>
+					<pubDate>Sun, 04 Jun 2017 15:28:37 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=84</guid>
+					<description><![CDATA[PHPマニュアルの「はじめに - 簡易チュートリアル」を読みました。]]></description>
+					<itunes:subtitle><![CDATA[PHPマニュアルの「はじめに - 簡易チュートリアル」を読みました。]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>PHPマニュアルの「はじめに &#8211; 簡易チュートリアル」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/tutorial.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「はじめに &#8211; 簡易チュートリアル」</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>PHPマニュアルの「はじめに &#8211; 簡易チュートリアル」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/tutorial.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「はじめに &#8211; 簡易チュートリアル」</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>PHPマニュアルの「はじめに &#8211; 簡易チュートリアル」を読みました。</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://php.net/manual/ja/tutorial.php" target="_blank" rel="noopener noreferrer">PHPマニュアル 「はじめに &#8211; 簡易チュートリアル」</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/84/2.mp3" length="24439098" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>50:55</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+							<item>
+					<title>Vol.1 あらゆることができます</title>
+					<link>https://php-manual.necomori.asia/ポッドキャスト/1</link>
+					<pubDate>Thu, 01 Jun 2017 05:23:06 +0000</pubDate>
+					<dc:creator>kunit</dc:creator>
+					<guid isPermaLink="false">http://php-manual.necomori.asia/?post_type=podcast&#038;p=23</guid>
+					<description><![CDATA[簡単な自己紹介、今後の更新方針の説明、PHPマニュアルの「著作権」から「はじめに」の「入門」の部分まで読みました。
+]]></description>
+					<itunes:subtitle><![CDATA[簡単な自己紹介、今後の更新方針の説明、PHPマニュアルの「著作権」から「はじめに」の「入門」の部分まで読みました。
+]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<hr />
+<p>
+簡単な自己紹介、今後の更新方針の説明、PHPマニュアルの「著作権」から「はじめに」の「入門」の部分まで読みました。
+</p>
+<p>
+当初公開していたものが、収録時にエアコンの音が入っていたとてもお聞き苦しいものになっていたので、取り直しました。現在公開されているのは再収録版となりますのでご注意ください。
+</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://necomori.asia/" target="_blank">necomori LLC</a></li>
+<li><a href="http://php-genba.shin1x1.com/" target="_blank">PHPの現場</a></li>
+<li><a href="http://rebuild.fm/" target="_blank">rebuld.fm</a></li>
+<li><a href="http://php.net/manual/ja/index.php" target="_blank">PHPマニュアル</a></li>
+<li><a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">creative commons by 3.0</a></li>
+<li><a href="https://creativecommons.org/licenses/by/3.0/deed.ja" target="_blank">creative commons by 3.0 (日本語訳)</a></li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<hr />
+<p>
+簡単な自己紹介、今後の更新方針の説明、PHPマニュアルの「著作権」から「はじめに」の「入門」の部分まで読みました。
+</p>
+<p>
+当初公開していたものが、収録時にエアコンの音が入っていたとてもお聞き苦しいものになっていたので、取り直しました。現在公開されているのは再収録版となりますのでご注意ください。
+</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://necomori.asia/" target="_blank">necomori LLC</a></li>
+<li><a href="http://php-genba.shin1x1.com/" target="_blank">PHPの現場</a></li>
+<li><a href="http://rebuild.fm/" target="_blank">rebuld.fm</a></li>
+<li><a href="http://php.net/manual/ja/index.php" target="_blank">PHPマニュアル</a></li>
+<li><a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">creative commons by 3.0</a></li>
+<li><a href="https://creativecommons.org/licenses/by/3.0/deed.ja" target="_blank">creative commons by 3.0 (日本語訳)</a></li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<hr />
+<p>
+簡単な自己紹介、今後の更新方針の説明、PHPマニュアルの「著作権」から「はじめに」の「入門」の部分まで読みました。
+</p>
+<p>
+当初公開していたものが、収録時にエアコンの音が入っていたとてもお聞き苦しいものになっていたので、取り直しました。現在公開されているのは再収録版となりますのでご注意ください。
+</p>
+<h3>参加者</h3>
+<ul>
+<li><a href="https://twitter.com/kunit">@kunit</a></li>
+</ul>
+<h3>Show Notes</h3>
+<ul>
+<li><a href="http://necomori.asia/" target="_blank">necomori LLC</a></li>
+<li><a href="http://php-genba.shin1x1.com/" target="_blank">PHPの現場</a></li>
+<li><a href="http://rebuild.fm/" target="_blank">rebuld.fm</a></li>
+<li><a href="http://php.net/manual/ja/index.php" target="_blank">PHPマニュアル</a></li>
+<li><a href="http://creativecommons.org/licenses/by/3.0/" target="_blank">creative commons by 3.0</a></li>
+<li><a href="https://creativecommons.org/licenses/by/3.0/deed.ja" target="_blank">creative commons by 3.0 (日本語訳)</a></li>
+</ul>
+]]></googleplay:description>
+										<enclosure url="https://php-manual.necomori.asia/podcast-download/23/1.mp3" length="16791699" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>34:59</itunes:duration>
+					<itunes:author>kunit</itunes:author>
+				</item>
+				</channel>
+</rss>

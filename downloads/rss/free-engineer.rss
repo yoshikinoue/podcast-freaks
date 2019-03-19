@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+<channel>
+	<title>Tech系フリーランスが選ぶ最近の気になるトピックス</title>
+	<atom:link href="https://free-engineer.xrea.jp/feed/podcast" rel="self" type="application/rss+xml" />
+	<link>https://free-engineer.xrea.jp</link>
+	<description>この番組は、フリーランスのエンジニアであるＳが、最近気になった記事やニュースをサクッと短く紹介していく番組です。技術ネタだけではなく、フリーランスという立場から見た、働き方やビジネスモデル、マネタイズの話などを取り上げていきます。</description>
+	<lastBuildDate>Fri, 15 Mar 2019 01:51:43 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=4.9.10</generator>
+
+<image>
+	<url>https://i2.wp.com/free-engineer.xrea.jp/wp-content/uploads/cropped-nigaoemaker.png?fit=32%2C32&#038;ssl=1</url>
+	<title>Tech系フリーランスが選ぶ最近の気になるトピックス</title>
+	<link>https://free-engineer.xrea.jp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.4" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>この番組は、フリーランスのエンジニアであるＳが、最近気になった記事やニュースをサクッと短く紹介していく番組です。&lt;br /&gt;
+技術ネタだけではなく、フリーランスという立場から見た、働き方やビジネスモデル、マネタイズの話などを取り上げていきます。&lt;br /&gt;
+ただいま出演頂けるゲストを絶賛募集中。ご自身のWebサービスやアプリなど、PRされたい方がいらっしゃいましたら是非お声がけください。&lt;br /&gt;</itunes:summary>
+	<itunes:author>Freelance Engineer S</itunes:author>
+	<itunes:explicit>yes</itunes:explicit>
+	<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>Freelance Engineer S</itunes:name>
+		<itunes:email>goodengineer7@gmail.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>goodengineer7@gmail.com (Freelance Engineer S)</managingEditor>
+	<itunes:subtitle>技術ネタだけではなく、フリーランスという立場から見た、働き方やビジネスモデル、マネタイズの話などを取り上げていきます。</itunes:subtitle>
+	<image>
+		<title>Tech系フリーランスが選ぶ最近の気になるトピックス</title>
+		<url>https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg</url>
+		<link>https://free-engineer.xrea.jp</link>
+	</image>
+	<itunes:category text="Technology">
+		<itunes:category text="Tech News"></itunes:category>
+	</itunes:category>
+	<googleplay:category text="Technology" />
+	<rawvoice:location>Nagoya, Japan</rawvoice:location>
+	<rawvoice:frequency>Weekly</rawvoice:frequency>
+	<rawvoice:subscribe feed="https://free-engineer.xrea.jp/feed/podcast" itunes="https://itunes.apple.com/jp/podcast/id1362573643" blubrry="https://www.blubrry.com/free_engineer_s/"></rawvoice:subscribe>
+<site xmlns="com-wordpress:feed-additions:1">137404358</site>	<item>
+		<title>054.GitHub-readyな社労士／P4MATCH塚原さんインタビューVol.3■生ハムナイト</title>
+		<link>https://free-engineer.xrea.jp/2308</link>
+		<pubDate>Thu, 14 Mar 2019 21:00:53 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2308</guid>
+		<comments>https://free-engineer.xrea.jp/2308#respond</comments>
+		<wfw:commentRss>https://free-engineer.xrea.jp/2308/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[GitHub]]></category>
+		<category><![CDATA[インタビュー]]></category>
+		<category><![CDATA[エンジニア]]></category>
+		<category><![CDATA[フリーランス]]></category>
+		<category><![CDATA[プログラマ]]></category>
+		<category><![CDATA[ポッドキャスト]]></category>
+		<category><![CDATA[個人開発者]]></category>
+		<category><![CDATA[近況]]></category>
+		<description>GitHub-readyな社労士 @Takashi_U に就業規則の改定を依頼した – terurouメモ 就業規則というものは一回作れば終わりというものではなく、法改正等で都度改定していく必要あり。 初版作 […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree054.mp3" length="20681551" type="audio/mpeg" />
+		<itunes:subtitle>GitHub-readyな社労士 @Takashi_U に就業規則の改定を依頼した – terurouメモ 就業規則というものは一回作れば終わりというものではなく、法改正等で都度改定していく必要あり。 初版作 […]</itunes:subtitle>
+		<itunes:summary>GitHub-readyな社労士 @Takashi_U に就業規則の改定を依頼した – terurouメモ 就業規則というものは一回作れば終わりというものではなく、法改正等で都度改定していく必要あり。 初版作 […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>21:32</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2308</post-id>		</item>
+	<item>
+		<title>053.プログラミングの力で貧困の連鎖を止める／P4MATCH塚原さんインタビューVol.2■仕事探しは終わらない</title>
+		<link>https://free-engineer.xrea.jp/2294</link>
+		<pubDate>Thu, 07 Mar 2019 21:00:56 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2294</guid>
+		<comments>https://free-engineer.xrea.jp/2294#respond</comments>
+		<wfw:commentRss>https://free-engineer.xrea.jp/2294/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Unity]]></category>
+		<category><![CDATA[インタビュー]]></category>
+		<category><![CDATA[エンジニア]]></category>
+		<category><![CDATA[フリーランス]]></category>
+		<category><![CDATA[プログラマ]]></category>
+		<category><![CDATA[ポッドキャスト]]></category>
+		<category><![CDATA[個人開発者]]></category>
+		<category><![CDATA[近況]]></category>
+		<description>プログラミングの力で貧困の連鎖を止める・・・恵比寿Unity部の活動とは(小野憲史) – 個人 – Yahoo!ニュース 「プログラミングの力で貧困の連鎖を止める」ことをビジョンに掲げ、ゲーム開発 […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree053.mp3" length="20974958" type="audio/mpeg" />
+		<itunes:subtitle>プログラミングの力で貧困の連鎖を止める・・・恵比寿Unity部の活動とは(小野憲史) – 個人 – Yahoo!ニュース 「プログラミングの力で貧困の連鎖を止める」ことをビジョンに掲げ、ゲーム開発 […]</itunes:subtitle>
+		<itunes:summary>プログラミングの力で貧困の連鎖を止める・・・恵比寿Unity部の活動とは(小野憲史) – 個人 – Yahoo!ニュース 「プログラミングの力で貧困の連鎖を止める」ことをビジョンに掲げ、ゲーム開発 […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>21:51</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2294</post-id>		</item>
+	<item>
+		<title>052.No Code／P4MATCH塚原さんインタビューVol.1■予算ないってさ</title>
+		<link>https://free-engineer.xrea.jp/2275</link>
+		<pubDate>Thu, 28 Feb 2019 21:00:08 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2275</guid>
+		<comments>https://free-engineer.xrea.jp/2275#respond</comments>
+		<wfw:commentRss>https://free-engineer.xrea.jp/2275/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Webサービス]]></category>
+		<category><![CDATA[インタビュー]]></category>
+		<category><![CDATA[エンジニア]]></category>
+		<category><![CDATA[フリーランス]]></category>
+		<category><![CDATA[プログラマ]]></category>
+		<category><![CDATA[ポッドキャスト]]></category>
+		<category><![CDATA[個人開発者]]></category>
+		<category><![CDATA[近況]]></category>
+		<description>The Rise of “No Code” – Ryan Hoover – Medium コーディングなしで様々なサービスが作れるようになってきた、というお話。 例） 店舗用の Facebook Messenger bo […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree052.mp3" length="24340784" type="audio/mpeg" />
+		<itunes:subtitle>The Rise of “No Code” – Ryan Hoover – Medium コーディングなしで様々なサービスが作れるようになってきた、というお話。 例） 店舗用の Facebook Messenger bo […]</itunes:subtitle>
+		<itunes:summary>The Rise of “No Code” – Ryan Hoover – Medium コーディングなしで様々なサービスが作れるようになってきた、というお話。 例） 店舗用の Facebook Messenger bo […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>25:21</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2275</post-id>		</item>
+	<item>
+		<title>051.radiko／ぺんすけさんインタビューVol.4■Zoom</title>
+		<link>https://free-engineer.xrea.jp/2264</link>
+		<pubDate>Thu, 21 Feb 2019 21:00:12 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2264</guid>
+		<comments>https://free-engineer.xrea.jp/2264#respond</comments>
+		<wfw:commentRss>https://free-engineer.xrea.jp/2264/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[インタビュー]]></category>
+		<category><![CDATA[エンジニア]]></category>
+		<category><![CDATA[オンラインミーティング]]></category>
+		<category><![CDATA[フリーランス]]></category>
+		<category><![CDATA[プログラマ]]></category>
+		<category><![CDATA[ポッドキャスト]]></category>
+		<category><![CDATA[ラジオ]]></category>
+		<category><![CDATA[近況]]></category>
+		<description>ラジオがデジタル世代に刺さるニューメディアに？radikoの運営状況、新たな広告商品に学生が迫る：MarkeZine（マーケジン） 在京ラジオ７局と在阪ラジオ6局、電通などが集まってできたＩＰサイマルラジオ協議会という組 […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree051.mp3" length="29517626" type="audio/mpeg" />
+		<itunes:subtitle>ラジオがデジタル世代に刺さるニューメディアに？radikoの運営状況、新たな広告商品に学生が迫る：MarkeZine（マーケジン） 在京ラジオ７局と在阪ラジオ6局、電通などが集まってできたＩＰサイマルラジオ協議会という組 […]</itunes:subtitle>
+		<itunes:summary>ラジオがデジタル世代に刺さるニューメディアに？radikoの運営状況、新たな広告商品に学生が迫る：MarkeZine（マーケジン） 在京ラジオ７局と在阪ラジオ6局、電通などが集まってできたＩＰサイマルラジオ協議会という組 […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>30:45</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2264</post-id>		</item>
+	<item>
+		<title>050.Gumroadの軌跡／ぺんすけさんインタビューVol.3■オンライン面談</title>
+		<link>https://free-engineer.xrea.jp/2254</link>
+		<pubDate>Thu, 14 Feb 2019 21:00:48 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2254</guid>
+		<comments>https://free-engineer.xrea.jp/2254#respond</comments>
+		<wfw:commentRss>https://free-engineer.xrea.jp/2254/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[インタビュー]]></category>
+		<category><![CDATA[エンジニア]]></category>
+		<category><![CDATA[オンライン決済]]></category>
+		<category><![CDATA[スタートアップ]]></category>
+		<category><![CDATA[フリーランス]]></category>
+		<category><![CDATA[プログラマ]]></category>
+		<category><![CDATA[ポッドキャスト]]></category>
+		<category><![CDATA[リモートワーク]]></category>
+		<category><![CDATA[近況]]></category>
+		<description>スタートアップの創業者がどのように失敗していき、どのように復活したのかという振り返りを公開中 – GIGAZINE Pinterestの2番目の従業員だったラヴィンギアさん、2011年にPinterestをや […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree050.mp3" length="20687403" type="audio/mpeg" />
+		<itunes:subtitle>スタートアップの創業者がどのように失敗していき、どのように復活したのかという振り返りを公開中 – GIGAZINE Pinterestの2番目の従業員だったラヴィンギアさん、2011年にPinterestをや […]</itunes:subtitle>
+		<itunes:summary>スタートアップの創業者がどのように失敗していき、どのように復活したのかという振り返りを公開中 – GIGAZINE Pinterestの2番目の従業員だったラヴィンギアさん、2011年にPinterestをや […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>21:33</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2254</post-id>		</item>
+	<item>
+		<title>049.おからスタートアップ／ぺんすけさんインタビューVol.2■PayPay第2弾とSpotify</title>
+		<link>https://free-engineer.xrea.jp/2239</link>
+		<pubDate>Thu, 07 Feb 2019 21:00:10 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2239</guid>
+		<comments>https://free-engineer.xrea.jp/2239#respond</comments>
+		<wfw:commentRss>https://free-engineer.xrea.jp/2239/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[インタビュー]]></category>
+		<category><![CDATA[エンジニア]]></category>
+		<category><![CDATA[スタートアップ]]></category>
+		<category><![CDATA[スマホ]]></category>
+		<category><![CDATA[フリーランス]]></category>
+		<category><![CDATA[プログラマ]]></category>
+		<category><![CDATA[ポッドキャスト]]></category>
+		<category><![CDATA[リモートワーク]]></category>
+		<category><![CDATA[海外留学]]></category>
+		<category><![CDATA[近況]]></category>
+		<category><![CDATA[食材]]></category>
+		<description>捨てられるおからでスタートアップ「Renewal Mill」250万ドル調達ほかーー【今日の調達まとめ読み】 – THE BRIDGE（ザ・ブリッジ） おからスタートアップ「Renewal Mill」がシード […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree049.mp3" length="22274007" type="audio/mpeg" />
+		<itunes:subtitle>捨てられるおからでスタートアップ「Renewal Mill」250万ドル調達ほかーー【今日の調達まとめ読み】 – THE BRIDGE（ザ・ブリッジ） おからスタートアップ「Renewal Mill」がシード […]</itunes:subtitle>
+		<itunes:summary>捨てられるおからでスタートアップ「Renewal Mill」250万ドル調達ほかーー【今日の調達まとめ読み】 – THE BRIDGE（ザ・ブリッジ） おからスタートアップ「Renewal Mill」がシード […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>23:12</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2239</post-id>		</item>
+	<item>
+		<title>048.シャープのスマホ／ぺんすけさんインタビューVol.1■サーバー引っ越し</title>
+		<link>https://free-engineer.xrea.jp/2224</link>
+		<pubDate>Thu, 31 Jan 2019 21:00:34 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2224</guid>
+		<comments>https://free-engineer.xrea.jp/2224#respond</comments>
+		<wfw:commentRss>https://free-engineer.xrea.jp/2224/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Android]]></category>
+		<category><![CDATA[インタビュー]]></category>
+		<category><![CDATA[エンジニア]]></category>
+		<category><![CDATA[スマホ]]></category>
+		<category><![CDATA[フリーランス]]></category>
+		<category><![CDATA[プログラマ]]></category>
+		<category><![CDATA[ポッドキャスト]]></category>
+		<category><![CDATA[リモートワーク]]></category>
+		<category><![CDATA[子育て]]></category>
+		<category><![CDATA[育児]]></category>
+		<category><![CDATA[近況]]></category>
+		<description>シャープ、2年連続でAndroidスマホ年間No.1、支えた独自の着眼点 – BCN＋R 2018年、Android搭載スマートフォン（スマホ）の年間販売台数が最も多かったメーカーは、スマホ「AQUOS」を提 […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree048.mp3" length="19989442" type="audio/mpeg" />
+		<itunes:subtitle>シャープ、2年連続でAndroidスマホ年間No.1、支えた独自の着眼点 – BCN＋R 2018年、Android搭載スマートフォン（スマホ）の年間販売台数が最も多かったメーカーは、スマホ「AQUOS」を提 […]</itunes:subtitle>
+		<itunes:summary>シャープ、2年連続でAndroidスマホ年間No.1、支えた独自の着眼点 – BCN＋R 2018年、Android搭載スマートフォン（スマホ）の年間販売台数が最も多かったメーカーは、スマホ「AQUOS」を提 […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>20:49</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2224</post-id>		</item>
+	<item>
+		<title>047.子育Tech／Funds／燻製■投資のお話</title>
+		<link>https://free-engineer.xrea.jp/2220</link>
+		<pubDate>Thu, 24 Jan 2019 21:00:24 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2220</guid>
+		<comments>https://free-engineer.xrea.jp/2220#respond</comments>
+		<wfw:commentRss>https://free-engineer.xrea.jp/2220/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[エンジニア]]></category>
+		<category><![CDATA[クラウドファンディング]]></category>
+		<category><![CDATA[フリーランス]]></category>
+		<category><![CDATA[プログラマ]]></category>
+		<category><![CDATA[ポッドキャスト]]></category>
+		<category><![CDATA[子育て]]></category>
+		<category><![CDATA[家電]]></category>
+		<category><![CDATA[投資]]></category>
+		<category><![CDATA[育児]]></category>
+		<category><![CDATA[近況]]></category>
+		<description>カラダノート、「子育Techアイデアコンテスト」をアスキーキッズと共同開催 | ICT教育ニュース 子育Tech委員会：子育てにテクノロジーを用いて心身ともにゆとりある育児スタイルを提唱するITベンチャー10社からなる共 […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree047.mp3" length="11814579" type="audio/mpeg" />
+		<itunes:subtitle>カラダノート、「子育Techアイデアコンテスト」をアスキーキッズと共同開催 | ICT教育ニュース 子育Tech委員会：子育てにテクノロジーを用いて心身ともにゆとりある育児スタイルを提唱するITベンチャー10社からなる共 […]</itunes:subtitle>
+		<itunes:summary>カラダノート、「子育Techアイデアコンテスト」をアスキーキッズと共同開催 | ICT教育ニュース 子育Tech委員会：子育てにテクノロジーを用いて心身ともにゆとりある育児スタイルを提唱するITベンチャー10社からなる共 […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>12:18</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2220</post-id>		</item>
+	<item>
+		<title>046.ヒアラブルデバイス／景気後退／リモートワーク導入失敗談■リーンゲインズ実践中</title>
+		<link>https://free-engineer.xrea.jp/2214</link>
+		<pubDate>Thu, 17 Jan 2019 21:00:31 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2214</guid>
+		<comments>https://free-engineer.xrea.jp/2214#respond</comments>
+		<wfw:commentRss>https://free-engineer.xrea.jp/2214/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[エンジニア]]></category>
+		<category><![CDATA[クラウドファンディング]]></category>
+		<category><![CDATA[フリーランス]]></category>
+		<category><![CDATA[プログラマ]]></category>
+		<category><![CDATA[ポッドキャスト]]></category>
+		<category><![CDATA[リモートワーク]]></category>
+		<category><![CDATA[景気]]></category>
+		<category><![CDATA[近況]]></category>
+		<description>これからの時代、メッセージは読むから聴くへ。ヒアラブルデバイス「ZEENY」（ジーニー） | Startup Times 完全ワイヤレス／9時間バッテリー駆動／AAC・aptX対応で高音質／Bruetooth5.0対応／ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree046.mp3" length="12928440" type="audio/mpeg" />
+		<itunes:subtitle>これからの時代、メッセージは読むから聴くへ。ヒアラブルデバイス「ZEENY」（ジーニー） | Startup Times 完全ワイヤレス／9時間バッテリー駆動／AAC・aptX対応で高音質／Bruetooth5.0対応／ […]</itunes:subtitle>
+		<itunes:summary>これからの時代、メッセージは読むから聴くへ。ヒアラブルデバイス「ZEENY」（ジーニー） | Startup Times 完全ワイヤレス／9時間バッテリー駆動／AAC・aptX対応で高音質／Bruetooth5.0対応／ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>13:28</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2214</post-id>		</item>
+	<item>
+		<title>045.健康スペシャル（食事編／運動編／ヘルスケアトレンド）■ようやくVPS契約しました</title>
+		<link>https://free-engineer.xrea.jp/2194</link>
+		<pubDate>Thu, 10 Jan 2019 21:00:09 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2194</guid>
+		<comments>https://free-engineer.xrea.jp/2194#respond</comments>
+		<wfw:commentRss>https://free-engineer.xrea.jp/2194/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[VPS]]></category>
+		<category><![CDATA[エンジニア]]></category>
+		<category><![CDATA[コミュニティ]]></category>
+		<category><![CDATA[フリーランス]]></category>
+		<category><![CDATA[プログラマ]]></category>
+		<category><![CDATA[ヘルスケア]]></category>
+		<category><![CDATA[ポッドキャスト]]></category>
+		<category><![CDATA[健康]]></category>
+		<category><![CDATA[近況]]></category>
+		<description>【食事編】不健康エンジニアが3ヶ月だけ食事に気をつけたら心も体も健康になれた話 – paiza開発日誌 コンビニ食をうまく使う サバ缶水煮・バナナ・ゆで卵 リーンゲインズ健康法 1日において、食事を摂取する時 […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree045.mp3" length="12764182" type="audio/mpeg" />
+		<itunes:subtitle>【食事編】不健康エンジニアが3ヶ月だけ食事に気をつけたら心も体も健康になれた話 – paiza開発日誌 コンビニ食をうまく使う サバ缶水煮・バナナ・ゆで卵 リーンゲインズ健康法 1日において、食事を摂取する時 […]</itunes:subtitle>
+		<itunes:summary>【食事編】不健康エンジニアが3ヶ月だけ食事に気をつけたら心も体も健康になれた話 – paiza開発日誌 コンビニ食をうまく使う サバ缶水煮・バナナ・ゆで卵 リーンゲインズ健康法 1日において、食事を摂取する時 […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>13:18</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2194</post-id>		</item>
+	<item>
+		<title>044.e-Tax簡便化／Perfumeライブ／コミュニティ運営■2019年の目標</title>
+		<link>https://free-engineer.xrea.jp/2158</link>
+		<pubDate>Thu, 03 Jan 2019 21:00:11 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2158</guid>
+		<description>e-Tax利用の簡便化の概要について｜e-Tax これまで（以下３つ全て必須） マイナンバーカード取得 申請してe-TaxのID/Pass取得 カードリーダー使って申請 2019年1月以降（以下のA/BいずれかでOK）  […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree044.mp3" length="17783036" type="audio/mpeg" />
+		<itunes:subtitle>e-Tax利用の簡便化の概要について｜e-Tax これまで（以下３つ全て必須） マイナンバーカード取得 申請してe-TaxのID/Pass取得 カードリーダー使って申請 2019年1月以降（以下のA/BいずれかでOK）  […]</itunes:subtitle>
+		<itunes:summary>e-Tax利用の簡便化の概要について｜e-Tax これまで（以下３つ全て必須） マイナンバーカード取得 申請してe-TaxのID/Pass取得 カードリーダー使って申請 2019年1月以降（以下のA/BいずれかでOK）  […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>18:31</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2158</post-id>		</item>
+	<item>
+		<title>043.全自動歯ブラシ／プログラミング教育／人生を変えた魔法の言葉は？■Nagoya.php</title>
+		<link>https://free-engineer.xrea.jp/2117</link>
+		<pubDate>Thu, 27 Dec 2018 21:00:58 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2117</guid>
+		<description>早稲田大学研究室発のロボットベンチャー「Genics」が「CES2019」に出展！次世代型全自動歯ブラシ、2019年中の製品化を目指す | Techable(テッカブル) [2013.10.03]6秒で完璧な歯磨きができ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree043.mp3" length="15134011" type="audio/mpeg" />
+		<itunes:subtitle>早稲田大学研究室発のロボットベンチャー「Genics」が「CES2019」に出展！次世代型全自動歯ブラシ、2019年中の製品化を目指す | Techable(テッカブル) [2013.10.03]6秒で完璧な歯磨きができ […]</itunes:subtitle>
+		<itunes:summary>早稲田大学研究室発のロボットベンチャー「Genics」が「CES2019」に出展！次世代型全自動歯ブラシ、2019年中の製品化を目指す | Techable(テッカブル) [2013.10.03]6秒で完璧な歯磨きができ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>15:46</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2117</post-id>		</item>
+	<item>
+		<title>042.LaunchPad／言い換えのご提案／個人開発で食う■ぬるま湯脱出計画</title>
+		<link>https://free-engineer.xrea.jp/2107</link>
+		<pubDate>Thu, 20 Dec 2018 21:00:40 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2107</guid>
+		<description>LaunchPad 結果総まとめ IVS 2018Winter Kanazawa #ivs18w #ivs | TechWave（テックウェーブ） 「クソコード」言い換えのご提案 – 2018-12-15 # […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree042.mp3" length="8791480" type="audio/mpeg" />
+		<itunes:subtitle>LaunchPad 結果総まとめ IVS 2018Winter Kanazawa #ivs18w #ivs | TechWave（テックウェーブ） 「クソコード」言い換えのご提案 – 2018-12-15 # […]</itunes:subtitle>
+		<itunes:summary>LaunchPad 結果総まとめ IVS 2018Winter Kanazawa #ivs18w #ivs | TechWave（テックウェーブ） 「クソコード」言い換えのご提案 – 2018-12-15 # […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>9:09</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2107</post-id>		</item>
+	<item>
+		<title>041.Podcastテクフリの2018年ふりかえり</title>
+		<link>https://free-engineer.xrea.jp/2102</link>
+		<pubDate>Mon, 17 Dec 2018 03:00:34 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2102</guid>
+		<description>今回は、テクフリの１年をふりかえってみました。ダウンロード数の変遷なんかについてもお話しています。 Podcaster Advent Calendar 2018 – Adventar KANEさん KANE@ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree041.mp3" length="11048042" type="audio/mpeg" />
+		<itunes:subtitle>今回は、テクフリの１年をふりかえってみました。ダウンロード数の変遷なんかについてもお話しています。 Podcaster Advent Calendar 2018 – Adventar KANEさん KANE@ […]</itunes:subtitle>
+		<itunes:summary>今回は、テクフリの１年をふりかえってみました。ダウンロード数の変遷なんかについてもお話しています。 Podcaster Advent Calendar 2018 – Adventar KANEさん KANE@ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>11:31</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2102</post-id>		</item>
+	<item>
+		<title>040.副業元年／だらさんインタビューVol.4■Micro Hardening</title>
+		<link>https://free-engineer.xrea.jp/2093</link>
+		<pubDate>Thu, 13 Dec 2018 21:00:53 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2093</guid>
+		<description>freee、副業をしている会社員向けの確定申告機能をリリース。不安や疑問が多い「副業元年」の確定申告…スマホで5分申告書類が完成｜freeeのプレスリリース だらさんインタビューVol.4 だら@技術系投稿サ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree040.mp3" length="23172202" type="audio/mpeg" />
+		<itunes:subtitle>freee、副業をしている会社員向けの確定申告機能をリリース。不安や疑問が多い「副業元年」の確定申告…スマホで5分申告書類が完成｜freeeのプレスリリース だらさんインタビューVol.4 だら@技術系投稿サ […]</itunes:subtitle>
+		<itunes:summary>freee、副業をしている会社員向けの確定申告機能をリリース。不安や疑問が多い「副業元年」の確定申告…スマホで5分申告書類が完成｜freeeのプレスリリース だらさんインタビューVol.4 だら@技術系投稿サ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>24:08</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2093</post-id>		</item>
+	<item>
+		<title>039.LINEの信用スコア／だらさんインタビューVol.3■人間ドック行ってきました</title>
+		<link>https://free-engineer.xrea.jp/2058</link>
+		<pubDate>Thu, 06 Dec 2018 21:00:38 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2058</guid>
+		<description>LINE、新しい信用スコア「LINE Score」と個人ローン「LINEポケットマネー」を発表 | TechWave（テックウェーブ） だらさんインタビューVol.3 だら@技術系投稿サービス運営中(@dala00)さん […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree039.mp3" length="22563653" type="audio/mpeg" />
+		<itunes:subtitle>LINE、新しい信用スコア「LINE Score」と個人ローン「LINEポケットマネー」を発表 | TechWave（テックウェーブ） だらさんインタビューVol.3 だら@技術系投稿サービス運営中(@dala00)さん […]</itunes:subtitle>
+		<itunes:summary>LINE、新しい信用スコア「LINE Score」と個人ローン「LINEポケットマネー」を発表 | TechWave（テックウェーブ） だらさんインタビューVol.3 だら@技術系投稿サービス運営中(@dala00)さん […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>23:30</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2058</post-id>		</item>
+	<item>
+		<title>038.コドモン／だらさんインタビューVol.2■番組へのコメント</title>
+		<link>https://free-engineer.xrea.jp/2035</link>
+		<pubDate>Thu, 29 Nov 2018 21:00:50 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2035</guid>
+		<description>保育士の“負担”を減らすITツール「コドモン」–日誌や勤怠管理をタブレットから – CNET Japan だらさんインタビューVol.2 だら@技術系投稿サービス運営中(@dala00)さん cr […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree038.mp3" length="23863924" type="audio/mpeg" />
+		<itunes:subtitle>保育士の“負担”を減らすITツール「コドモン」–日誌や勤怠管理をタブレットから – CNET Japan だらさんインタビューVol.2 だら@技術系投稿サービス運営中(@dala00)さん cr […]</itunes:subtitle>
+		<itunes:summary>保育士の“負担”を減らすITツール「コドモン」–日誌や勤怠管理をタブレットから – CNET Japan だらさんインタビューVol.2 だら@技術系投稿サービス運営中(@dala00)さん cr […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>24:51</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2035</post-id>		</item>
+	<item>
+		<title>037.Duolingo／だらさんインタビューVol.1■エンジニアゆる飲み会</title>
+		<link>https://free-engineer.xrea.jp/2010</link>
+		<pubDate>Thu, 22 Nov 2018 21:00:57 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2010</guid>
+		<description>AIで破壊的革新を起こす–語学学習プラットフォームDuolingoの取り組み – CNET Japan だらさんインタビューVol.1 だら@技術系投稿サービス運営中(@dala00)さん cri […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree037.mp3" length="18593459" type="audio/mpeg" />
+		<itunes:subtitle>AIで破壊的革新を起こす–語学学習プラットフォームDuolingoの取り組み – CNET Japan だらさんインタビューVol.1 だら@技術系投稿サービス運営中(@dala00)さん cri […]</itunes:subtitle>
+		<itunes:summary>AIで破壊的革新を起こす–語学学習プラットフォームDuolingoの取り組み – CNET Japan だらさんインタビューVol.1 だら@技術系投稿サービス運営中(@dala00)さん cri […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>19:22</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2010</post-id>		</item>
+	<item>
+		<title>036.[PR]カルテットコミュニケーションズCTO金本さんインタビュー</title>
+		<link>https://free-engineer.xrea.jp/2004</link>
+		<pubDate>Mon, 19 Nov 2018 21:00:53 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=2004</guid>
+		<description>今回は特別号としての配信です。 株式会社カルテットコミュニケーションズさんからのエンジニア採用の告知となっていますので、いわゆる広告という形になるかと。 株式会社カルテットコミュニケーションズ・採用情報 –  […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree036.mp3" length="47722496" type="audio/mpeg" />
+		<itunes:subtitle>今回は特別号としての配信です。 株式会社カルテットコミュニケーションズさんからのエンジニア採用の告知となっていますので、いわゆる広告という形になるかと。 株式会社カルテットコミュニケーションズ・採用情報 –  […]</itunes:subtitle>
+		<itunes:summary>今回は特別号としての配信です。 株式会社カルテットコミュニケーションズさんからのエンジニア採用の告知となっていますので、いわゆる広告という形になるかと。 株式会社カルテットコミュニケーションズ・採用情報 –  […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>49:43</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">2004</post-id>		</item>
+	<item>
+		<title>035.テクノロジア魔法学校／TeradaさんインタビューVol.4■ようやく事前登録開始した話</title>
+		<link>https://free-engineer.xrea.jp/1991</link>
+		<pubDate>Thu, 15 Nov 2018 21:00:43 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1991</guid>
+		<description>ディズニー・プログラミング学習教材「テクノロジア魔法学校」冬のオープンキャンパス“Winterキャンペーン”開催｜ライフイズテック株式会社のプレスリリース 株式会社KARAPPO の Terada さんインタビューVol […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree035.mp3" length="20507712" type="audio/mpeg" />
+		<itunes:subtitle>ディズニー・プログラミング学習教材「テクノロジア魔法学校」冬のオープンキャンパス“Winterキャンペーン”開催｜ライフイズテック株式会社のプレスリリース 株式会社KARAPPO の Terada さんインタビューVol […]</itunes:subtitle>
+		<itunes:summary>ディズニー・プログラミング学習教材「テクノロジア魔法学校」冬のオープンキャンパス“Winterキャンペーン”開催｜ライフイズテック株式会社のプレスリリース 株式会社KARAPPO の Terada さんインタビューVol […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>21:22</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1991</post-id>		</item>
+	<item>
+		<title>034.自動配送ロボット初号機お披露目／TeradaさんインタビューVol.3■祭り</title>
+		<link>https://free-engineer.xrea.jp/1976</link>
+		<pubDate>Thu, 08 Nov 2018 21:00:36 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1976</guid>
+		<description>ホリエモンも参画する自動配送ロボット「Hakobot」初号機が、『ホリエモン祭 in 名古屋』でお披露目！三笠製作所との業務提携も発表 | Techable(テッカブル) 株式会社KARAPPO の Terada さんイ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree034.mp3" length="22323327" type="audio/mpeg" />
+		<itunes:subtitle>ホリエモンも参画する自動配送ロボット「Hakobot」初号機が、『ホリエモン祭 in 名古屋』でお披露目！三笠製作所との業務提携も発表 | Techable(テッカブル) 株式会社KARAPPO の Terada さんイ […]</itunes:subtitle>
+		<itunes:summary>ホリエモンも参画する自動配送ロボット「Hakobot」初号機が、『ホリエモン祭 in 名古屋』でお披露目！三笠製作所との業務提携も発表 | Techable(テッカブル) 株式会社KARAPPO の Terada さんイ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>23:15</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1976</post-id>		</item>
+	<item>
+		<title>033.イケてるWebサービス／TeradaさんインタビューVol.2■名古屋のWeb系企業にインタビュー</title>
+		<link>https://free-engineer.xrea.jp/1966</link>
+		<pubDate>Thu, 01 Nov 2018 21:00:13 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1966</guid>
+		<description>最近話題になったイケてるWebサービス・アプリ10選（2018年10月編） | creive【クリーブ】 株式会社KARAPPO の Terada さんインタビューVol.2 @naokazu_terada Terada […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree033.mp3" length="26865579" type="audio/mpeg" />
+		<itunes:subtitle>最近話題になったイケてるWebサービス・アプリ10選（2018年10月編） | creive【クリーブ】 株式会社KARAPPO の Terada さんインタビューVol.2 @naokazu_terada Terada […]</itunes:subtitle>
+		<itunes:summary>最近話題になったイケてるWebサービス・アプリ10選（2018年10月編） | creive【クリーブ】 株式会社KARAPPO の Terada さんインタビューVol.2 @naokazu_terada Terada […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>27:59</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1966</post-id>		</item>
+	<item>
+		<title>032.音声入力デバイス「SilentVoice」／TeradaさんインタビューVol.1■ペンタブ購入</title>
+		<link>https://free-engineer.xrea.jp/1956</link>
+		<pubDate>Thu, 25 Oct 2018 21:00:25 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1956</guid>
+		<description>Microsoft Research、「息を吸いながら喋る」ことで周囲に気づかれずに音声入力を可能にするシステムを発表 | Seamless 株式会社KARAPPO の Terada さんインタビューVol.1 @nao […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree032.mp3" length="26072838" type="audio/mpeg" />
+		<itunes:subtitle>Microsoft Research、「息を吸いながら喋る」ことで周囲に気づかれずに音声入力を可能にするシステムを発表 | Seamless 株式会社KARAPPO の Terada さんインタビューVol.1 @nao […]</itunes:subtitle>
+		<itunes:summary>Microsoft Research、「息を吸いながら喋る」ことで周囲に気づかれずに音声入力を可能にするシステムを発表 | Seamless 株式会社KARAPPO の Terada さんインタビューVol.1 @nao […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>27:10</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1956</post-id>		</item>
+	<item>
+		<title>031.最短60秒、100円から加入できる「LINEほけん」がスタート／SugiさんインタビューVol.4(最終回)■Laravel+Vue.js</title>
+		<link>https://free-engineer.xrea.jp/1911</link>
+		<pubDate>Thu, 18 Oct 2018 21:00:35 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1911</guid>
+		<description>最短60秒、100円から加入できる「LINEほけん」がスタート | TechCrunch Japan RailsエンジニアSugiさんインタビューVol.4 @KoheiSG すぎさんが出演しているTech系ポッドキャス […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree031.mp3" length="27362242" type="audio/mpeg" />
+		<itunes:subtitle>最短60秒、100円から加入できる「LINEほけん」がスタート | TechCrunch Japan RailsエンジニアSugiさんインタビューVol.4 @KoheiSG すぎさんが出演しているTech系ポッドキャス […]</itunes:subtitle>
+		<itunes:summary>最短60秒、100円から加入できる「LINEほけん」がスタート | TechCrunch Japan RailsエンジニアSugiさんインタビューVol.4 @KoheiSG すぎさんが出演しているTech系ポッドキャス […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>28:30</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1911</post-id>		</item>
+	<item>
+		<title>030.サラと謎のハッカークラブ／SugiさんインタビューVol.3■神岡ドローン＆ロボットフェス</title>
+		<link>https://free-engineer.xrea.jp/1874</link>
+		<pubDate>Thu, 11 Oct 2018 21:00:30 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1874</guid>
+		<description>AR謎解きゲーム「サラと謎のハッカークラブ」運営のプレティアが資金調達ーー続編提供に向け加速 | TechCrunch Japan RailsエンジニアSugiさんインタビューVol.2 @KoheiSG すぎさんが出演 […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree030.mp3" length="31407251" type="audio/mpeg" />
+		<itunes:subtitle>AR謎解きゲーム「サラと謎のハッカークラブ」運営のプレティアが資金調達ーー続編提供に向け加速 | TechCrunch Japan RailsエンジニアSugiさんインタビューVol.2 @KoheiSG すぎさんが出演 […]</itunes:subtitle>
+		<itunes:summary>AR謎解きゲーム「サラと謎のハッカークラブ」運営のプレティアが資金調達ーー続編提供に向け加速 | TechCrunch Japan RailsエンジニアSugiさんインタビューVol.2 @KoheiSG すぎさんが出演 […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>32:43</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1874</post-id>		</item>
+	<item>
+		<title>029.DMM TRAVEL／SugiさんインタビューVol.2■マンガで読破</title>
+		<link>https://free-engineer.xrea.jp/1820</link>
+		<pubDate>Thu, 04 Oct 2018 21:00:59 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1820</guid>
+		<description>DMM TRAVEL | ｢学びを､キャリアを加速する｡｣ DMMだからこそ実現した旅のカタチ RailsエンジニアSugiさんインタビューVol.2 @KoheiSG すぎさんが出演しているTech系ポッドキャスト n […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree029.mp3" length="23859745" type="audio/mpeg" />
+		<itunes:subtitle>DMM TRAVEL | ｢学びを､キャリアを加速する｡｣ DMMだからこそ実現した旅のカタチ RailsエンジニアSugiさんインタビューVol.2 @KoheiSG すぎさんが出演しているTech系ポッドキャスト n […]</itunes:subtitle>
+		<itunes:summary>DMM TRAVEL | ｢学びを､キャリアを加速する｡｣ DMMだからこそ実現した旅のカタチ RailsエンジニアSugiさんインタビューVol.2 @KoheiSG すぎさんが出演しているTech系ポッドキャスト n […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>24:51</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1820</post-id>		</item>
+	<item>
+		<title>028.最近の大型調達／SugiさんインタビューVol.1■スプラッター</title>
+		<link>https://free-engineer.xrea.jp/1797</link>
+		<pubDate>Thu, 27 Sep 2018 21:00:17 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1797</guid>
+		<description>先週の大型調達のまとめ——Origami、FiNC、ユーグレナ、AlpacaJapan、ABEJAなど – THE BRIDGE（ザ・ブリッジ） RailsエンジニアSugiさんインタビューVol.1 @Ko […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree028.mp3" length="22225524" type="audio/mpeg" />
+		<itunes:subtitle>先週の大型調達のまとめ——Origami、FiNC、ユーグレナ、AlpacaJapan、ABEJAなど – THE BRIDGE（ザ・ブリッジ） RailsエンジニアSugiさんインタビューVol.1 @Ko […]</itunes:subtitle>
+		<itunes:summary>先週の大型調達のまとめ——Origami、FiNC、ユーグレナ、AlpacaJapan、ABEJAなど – THE BRIDGE（ザ・ブリッジ） RailsエンジニアSugiさんインタビューVol.1 @Ko […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>23:09</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1797</post-id>		</item>
+	<item>
+		<title>027.Dweb／デニーズでデジタル決済／SmartHRさん体験入社制度■メルカリで買ったもの</title>
+		<link>https://free-engineer.xrea.jp/1774</link>
+		<pubDate>Thu, 20 Sep 2018 21:00:05 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1774</guid>
+		<description>GoogleやFacebookなどの巨大な管理者なしで個人同士がつながりを作り出す新しいウェブの世界「Dweb」とは？ – GIGAZINE デニーズ、食事後レジに並ばず帰れる「デジタル注文決済」　平日ランチ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree027.mp3" length="14233727" type="audio/mpeg" />
+		<itunes:subtitle>GoogleやFacebookなどの巨大な管理者なしで個人同士がつながりを作り出す新しいウェブの世界「Dweb」とは？ – GIGAZINE デニーズ、食事後レジに並ばず帰れる「デジタル注文決済」　平日ランチ […]</itunes:subtitle>
+		<itunes:summary>GoogleやFacebookなどの巨大な管理者なしで個人同士がつながりを作り出す新しいウェブの世界「Dweb」とは？ – GIGAZINE デニーズ、食事後レジに並ばず帰れる「デジタル注文決済」　平日ランチ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>14:50</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1774</post-id>		</item>
+	<item>
+		<title>026.駐車場サービスの提携／フリーランスWebマガジン／Android-x86■停電</title>
+		<link>https://free-engineer.xrea.jp/1763</link>
+		<pubDate>Thu, 13 Sep 2018 21:00:27 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1763</guid>
+		<description>駐車場シェア「akippa」と名古屋発「Smart Parking」が提携–“ビーコーン”提供や送客など – CNET Japan 出会いたかったフリーランスが見つかる。WEBマガジン「シゴトフォ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree026.mp3" length="13907300" type="audio/mpeg" />
+		<itunes:subtitle>駐車場シェア「akippa」と名古屋発「Smart Parking」が提携–“ビーコーン”提供や送客など – CNET Japan 出会いたかったフリーランスが見つかる。WEBマガジン「シゴトフォ […]</itunes:subtitle>
+		<itunes:summary>駐車場シェア「akippa」と名古屋発「Smart Parking」が提携–“ビーコーン”提供や送客など – CNET Japan 出会いたかったフリーランスが見つかる。WEBマガジン「シゴトフォ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>14:29</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1763</post-id>		</item>
+	<item>
+		<title>025.おかねアンサー／フリーランスエンジニアの単価／フードロス問題■スマホよお前もか</title>
+		<link>https://free-engineer.xrea.jp/1749</link>
+		<pubDate>Thu, 06 Sep 2018 21:00:09 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1749</guid>
+		<description>住宅ローンから仮想通貨まで、プロに無料相談できる「おかねアンサー」、有安氏ら個人投資家が出資 – THE BRIDGE（ザ・ブリッジ） フリーランスエンジニアの単価を決める フードロス問題を解決!余った食材を […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree025.mp3" length="13815767" type="audio/mpeg" />
+		<itunes:subtitle>住宅ローンから仮想通貨まで、プロに無料相談できる「おかねアンサー」、有安氏ら個人投資家が出資 – THE BRIDGE（ザ・ブリッジ） フリーランスエンジニアの単価を決める フードロス問題を解決!余った食材を […]</itunes:subtitle>
+		<itunes:summary>住宅ローンから仮想通貨まで、プロに無料相談できる「おかねアンサー」、有安氏ら個人投資家が出資 – THE BRIDGE（ザ・ブリッジ） フリーランスエンジニアの単価を決める フードロス問題を解決!余った食材を […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>14:23</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1749</post-id>		</item>
+	<item>
+		<title>024.Audible／scouty／Vue.js+Firebaseでポートフォリオ■転職系の相談増えてます</title>
+		<link>https://free-engineer.xrea.jp/1737</link>
+		<pubDate>Thu, 30 Aug 2018 21:00:32 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1737</guid>
+		<description>Audible、「聴き放題」から単品販売へ移行 – ケータイ Watch AIヘッドハンティングの「scouty」が正式公開、転職可能性を知らせるタレントプール機能を追加 | TechCrunch Japan […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree024.mp3" length="11218987" type="audio/mpeg" />
+		<itunes:subtitle>Audible、「聴き放題」から単品販売へ移行 – ケータイ Watch AIヘッドハンティングの「scouty」が正式公開、転職可能性を知らせるタレントプール機能を追加 | TechCrunch Japan […]</itunes:subtitle>
+		<itunes:summary>Audible、「聴き放題」から単品販売へ移行 – ケータイ Watch AIヘッドハンティングの「scouty」が正式公開、転職可能性を知らせるタレントプール機能を追加 | TechCrunch Japan […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>11:41</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1737</post-id>		</item>
+	<item>
+		<title>023.minikura+／Microsoft Flow／SEROKU■MeetUp名古屋#03開催しましたょ</title>
+		<link>https://free-engineer.xrea.jp/1713</link>
+		<pubDate>Thu, 23 Aug 2018 21:00:35 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1713</guid>
+		<description>たった5分、たった一人で物流倉庫と配送網、検品体制を構築できる「minikura＋」とは？ | TechCrunch Japan ASCII.jp：ExcelにMicrosoft Flowがやってきた！｜仕事に差がつく！ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree023.mp3" length="9766997" type="audio/mpeg" />
+		<itunes:subtitle>たった5分、たった一人で物流倉庫と配送網、検品体制を構築できる「minikura＋」とは？ | TechCrunch Japan ASCII.jp：ExcelにMicrosoft Flowがやってきた！｜仕事に差がつく！ […]</itunes:subtitle>
+		<itunes:summary>たった5分、たった一人で物流倉庫と配送網、検品体制を構築できる「minikura＋」とは？ | TechCrunch Japan ASCII.jp：ExcelにMicrosoft Flowがやってきた！｜仕事に差がつく！ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>10:10</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1713</post-id>		</item>
+	<item>
+		<title>022.政治×IT／宮本さんインタビュー(後編)■悲しいお盆休み</title>
+		<link>https://free-engineer.xrea.jp/1692</link>
+		<pubDate>Thu, 16 Aug 2018 21:00:50 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1692</guid>
+		<description>今回も、ニュース１つとインタビュー音声となっております。 9割の人が反対した、それでもやるーー19歳が発明した「政治 × 投げ銭アプリ」の企て | CAREER HACK 【政治家×起業家】参議院議員 (愛知県) 伊藤た […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree022.mp3" length="37251157" type="audio/mpeg" />
+		<itunes:subtitle>今回も、ニュース１つとインタビュー音声となっております。 9割の人が反対した、それでもやるーー19歳が発明した「政治 × 投げ銭アプリ」の企て | CAREER HACK 【政治家×起業家】参議院議員 (愛知県) 伊藤た […]</itunes:subtitle>
+		<itunes:summary>今回も、ニュース１つとインタビュー音声となっております。 9割の人が反対した、それでもやるーー19歳が発明した「政治 × 投げ銭アプリ」の企て | CAREER HACK 【政治家×起業家】参議院議員 (愛知県) 伊藤た […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>38:48</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1692</post-id>		</item>
+	<item>
+		<title>021.応募も面接もない労使マッチング／宮本さんインタビュー(中編)■お盆の過ごし方</title>
+		<link>https://free-engineer.xrea.jp/1671</link>
+		<pubDate>Thu, 09 Aug 2018 21:00:46 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1671</guid>
+		<description>今回も、ニュース１つとインタビュー音声となっております。 面接不要、すぐ働けて、すぐお金がもらえる 「Taimee（タイミー）」 | TechWave（テックウェーブ） 今回のインタビューは、リモートワーク歴7年、先日ま […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree021.mp3" length="32293760" type="audio/mpeg" />
+		<itunes:subtitle>今回も、ニュース１つとインタビュー音声となっております。 面接不要、すぐ働けて、すぐお金がもらえる 「Taimee（タイミー）」 | TechWave（テックウェーブ） 今回のインタビューは、リモートワーク歴7年、先日ま […]</itunes:subtitle>
+		<itunes:summary>今回も、ニュース１つとインタビュー音声となっております。 面接不要、すぐ働けて、すぐお金がもらえる 「Taimee（タイミー）」 | TechWave（テックウェーブ） 今回のインタビューは、リモートワーク歴7年、先日ま […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>33:38</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1671</post-id>		</item>
+	<item>
+		<title>020.ゲームの報酬に仮想通貨／宮本さんインタビュー(前編)■Vue.js Night Nagoya</title>
+		<link>https://free-engineer.xrea.jp/1648</link>
+		<pubDate>Thu, 02 Aug 2018 21:00:57 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1648</guid>
+		<description>今回は構成を変えまして、ニュース１つとインタビュー音声となっております。 賞金総額300万円のビットコイン争奪イベント開催、CryptoChips by GMO 対応ゲーム | TechWave（テックウェーブ） 今回の […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree020.mp3" length="28395008" type="audio/mpeg" />
+		<itunes:subtitle>今回は構成を変えまして、ニュース１つとインタビュー音声となっております。 賞金総額300万円のビットコイン争奪イベント開催、CryptoChips by GMO 対応ゲーム | TechWave（テックウェーブ） 今回の […]</itunes:subtitle>
+		<itunes:summary>今回は構成を変えまして、ニュース１つとインタビュー音声となっております。 賞金総額300万円のビットコイン争奪イベント開催、CryptoChips by GMO 対応ゲーム | TechWave（テックウェーブ） 今回の […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>29:35</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1648</post-id>		</item>
+	<item>
+		<title>019.農業向けIoT／バーチャル出社／チームスピリット■吹部</title>
+		<link>https://free-engineer.xrea.jp/1624</link>
+		<pubDate>Thu, 26 Jul 2018 21:00:02 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1624</guid>
+		<description>農業向けIoTソリューション「e-kakashi」で、AIを活用した栽培支援アプリなどを提供 – クラウド Watch いいなぁ、バーチャル出社。リアルオフィスを捨てた会社が急成長中 | ギズモード・ジャパン […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree019.mp3" length="13212800" type="audio/mpeg" />
+		<itunes:subtitle>農業向けIoTソリューション「e-kakashi」で、AIを活用した栽培支援アプリなどを提供 – クラウド Watch いいなぁ、バーチャル出社。リアルオフィスを捨てた会社が急成長中 | ギズモード・ジャパン […]</itunes:subtitle>
+		<itunes:summary>農業向けIoTソリューション「e-kakashi」で、AIを活用した栽培支援アプリなどを提供 – クラウド Watch いいなぁ、バーチャル出社。リアルオフィスを捨てた会社が急成長中 | ギズモード・ジャパン […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>13:46</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1624</post-id>		</item>
+	<item>
+		<title>018.住所に革命？／ドローンハイウェイ構想／AI養命酒■暑い話</title>
+		<link>https://free-engineer.xrea.jp/1589</link>
+		<pubDate>Thu, 19 Jul 2018 21:00:16 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1589</guid>
+		<description>住所に革命？ what3words　地球上を57兆分割し3単語で表現 – Engadget 日本版 ドローンハイウェイ構想ー実証実験が成功、東京電力グループ・ゼンリン・楽天 | TechWave（テックウェー […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree018.mp3" length="10970240" type="audio/mpeg" />
+		<itunes:subtitle>住所に革命？ what3words　地球上を57兆分割し3単語で表現 – Engadget 日本版 ドローンハイウェイ構想ー実証実験が成功、東京電力グループ・ゼンリン・楽天 | TechWave（テックウェー […]</itunes:subtitle>
+		<itunes:summary>住所に革命？ what3words　地球上を57兆分割し3単語で表現 – Engadget 日本版 ドローンハイウェイ構想ー実証実験が成功、東京電力グループ・ゼンリン・楽天 | TechWave（テックウェー […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>11:26</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1589</post-id>		</item>
+	<item>
+		<title>017.Yahoo!地図ステキ！／ドローンパラソル／再配達問題解決アプリ■contents.nagoyaに行ってきました</title>
+		<link>https://free-engineer.xrea.jp/1563</link>
+		<pubDate>Thu, 12 Jul 2018 21:00:55 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1563</guid>
+		<description>【平成30年7月豪雨】道路通行実績・通行止め・渋滞情報を公開しています – Yahoo!地図ブログ 雨でもささなくていい傘!?持ち主の上空で飛ぶドローンパラソルを栃木の企業が開発中 | Techable(テッ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree017.mp3" length="9665286" type="audio/mpeg" />
+		<itunes:subtitle>【平成30年7月豪雨】道路通行実績・通行止め・渋滞情報を公開しています – Yahoo!地図ブログ 雨でもささなくていい傘!?持ち主の上空で飛ぶドローンパラソルを栃木の企業が開発中 | Techable(テッ […]</itunes:subtitle>
+		<itunes:summary>【平成30年7月豪雨】道路通行実績・通行止め・渋滞情報を公開しています – Yahoo!地図ブログ 雨でもささなくていい傘!?持ち主の上空で飛ぶドローンパラソルを栃木の企業が開発中 | Techable(テッ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>10:04</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1563</post-id>		</item>
+	<item>
+		<title>016.マッチングカオスマップ／ゲームエンジニア養成講座／ノートPCに給電■寒いんです…</title>
+		<link>https://free-engineer.xrea.jp/1548</link>
+		<pubDate>Thu, 05 Jul 2018 21:00:02 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1548</guid>
+		<description>潜在市場規模、年間約2兆6300億円！国内の約180以上のマッチングサービスを掲載したカオスマップを公開｜株式会社ITプロパートナーズのプレスリリース ゲームエンジニアを育成し，就業先を紹介する施設「TECH STADI […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree016.mp3" length="8551808" type="audio/mpeg" />
+		<itunes:subtitle>潜在市場規模、年間約2兆6300億円！国内の約180以上のマッチングサービスを掲載したカオスマップを公開｜株式会社ITプロパートナーズのプレスリリース ゲームエンジニアを育成し，就業先を紹介する施設「TECH STADI […]</itunes:subtitle>
+		<itunes:summary>潜在市場規模、年間約2兆6300億円！国内の約180以上のマッチングサービスを掲載したカオスマップを公開｜株式会社ITプロパートナーズのプレスリリース ゲームエンジニアを育成し，就業先を紹介する施設「TECH STADI […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>8:54</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1548</post-id>		</item>
+	<item>
+		<title>015.SPOONラジオ／タクシー相乗りマッチングnearMe／Boostnote■エンジニアポッドキャスト一覧ページ作ってみた</title>
+		<link>https://free-engineer.xrea.jp/1531</link>
+		<pubDate>Thu, 28 Jun 2018 21:00:45 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1531</guid>
+		<description>SPOONラジオを2ヶ月使った感想 – 書くザトウクジラ SPOON Uberとは違う、日本らしいやり方でタクシーを変えるーー楽天子会社の元CEOが手がける相乗りアプリ | TechCrunch Japan  […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree015.mp3" length="10193792" type="audio/mpeg" />
+		<itunes:subtitle>SPOONラジオを2ヶ月使った感想 – 書くザトウクジラ SPOON Uberとは違う、日本らしいやり方でタクシーを変えるーー楽天子会社の元CEOが手がける相乗りアプリ | TechCrunch Japan  […]</itunes:subtitle>
+		<itunes:summary>SPOONラジオを2ヶ月使った感想 – 書くザトウクジラ SPOON Uberとは違う、日本らしいやり方でタクシーを変えるーー楽天子会社の元CEOが手がける相乗りアプリ | TechCrunch Japan  […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>10:37</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1531</post-id>		</item>
+	<item>
+		<title>014.お買い物代行サービス／Googleポッドキャストアプリ／スマホで開け閉めするロッカー■MeetUp第2回開催しました</title>
+		<link>https://free-engineer.xrea.jp/1507</link>
+		<pubDate>Thu, 21 Jun 2018 21:00:06 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1507</guid>
+		<description>日本発のお買い物代行サービス「Twidy（ツイディ）」を運営するダブルフロンティアがEDI事業を展開するプラネットを引受先とする段階的な1億円の第三者割当増資を実施｜ダブルフロンティア株式会社プレスリリース グーグルがポ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree014.mp3" length="10711808" type="audio/mpeg" />
+		<itunes:subtitle>日本発のお買い物代行サービス「Twidy（ツイディ）」を運営するダブルフロンティアがEDI事業を展開するプラネットを引受先とする段階的な1億円の第三者割当増資を実施｜ダブルフロンティア株式会社プレスリリース グーグルがポ […]</itunes:subtitle>
+		<itunes:summary>日本発のお買い物代行サービス「Twidy（ツイディ）」を運営するダブルフロンティアがEDI事業を展開するプラネットを引受先とする段階的な1億円の第三者割当増資を実施｜ダブルフロンティア株式会社プレスリリース グーグルがポ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>11:09</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1507</post-id>		</item>
+	<item>
+		<title>013.「Peing-質問箱-」新機能／PEAKSで経済が回った／ボンボンTV、華麗なる復活劇■最近のベストバイ</title>
+		<link>https://free-engineer.xrea.jp/1490</link>
+		<pubDate>Thu, 14 Jun 2018 13:37:01 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1490</guid>
+		<description>「Peing-質問箱-」にて60秒以内の動画・音声コンテンツによる回答機能をリリース、サービス収益化の布石へ｜株式会社ジラフ・プレスリリース PEAKSで経済が回った – みんからきりまで 講談社「ボンボンT […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree013.mp3" length="14767232" type="audio/mpeg" />
+		<itunes:subtitle>「Peing-質問箱-」にて60秒以内の動画・音声コンテンツによる回答機能をリリース、サービス収益化の布石へ｜株式会社ジラフ・プレスリリース PEAKSで経済が回った – みんからきりまで 講談社「ボンボンT […]</itunes:subtitle>
+		<itunes:summary>「Peing-質問箱-」にて60秒以内の動画・音声コンテンツによる回答機能をリリース、サービス収益化の布石へ｜株式会社ジラフ・プレスリリース PEAKSで経済が回った – みんからきりまで 講談社「ボンボンT […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>15:23</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1490</post-id>		</item>
+	<item>
+		<title>012.スマホゲーム個人開発者・伊與田（いよだ）さんインタビュー後編■久々に風邪でダウン</title>
+		<link>https://free-engineer.xrea.jp/1465</link>
+		<pubDate>Thu, 07 Jun 2018 14:00:13 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1465</guid>
+		<description>今回は個人でスマホゲームを開発されている、伊與田（いよだ）さんへのインタビュー（後編）をお届けします。 Iyoda – – mobile games – 個人でスマホゲームを開発されている伊與田さん。後半では、 賞金をゲ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree012.mp3" length="31664768" type="audio/mpeg" />
+		<itunes:subtitle>今回は個人でスマホゲームを開発されている、伊與田（いよだ）さんへのインタビュー（後編）をお届けします。 Iyoda – – mobile games – 個人でスマホゲームを開発されている伊與田さん。後半では、 賞金をゲ […]</itunes:subtitle>
+		<itunes:summary>今回は個人でスマホゲームを開発されている、伊與田（いよだ）さんへのインタビュー（後編）をお届けします。 Iyoda – – mobile games – 個人でスマホゲームを開発されている伊與田さん。後半では、 賞金をゲ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>32:59</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1465</post-id>		</item>
+	<item>
+		<title>011.スマホゲーム個人開発者・伊與田（いよだ）さんインタビュー前編■フリーランスエンジニアMeetUp第2回のお知らせ</title>
+		<link>https://free-engineer.xrea.jp/1429</link>
+		<pubDate>Thu, 31 May 2018 07:00:12 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1429</guid>
+		<description>今回は個人でスマホゲームを開発されている、伊與田（いよだ）さんへのインタビュー（前編）をお届けします。 Iyoda – – mobile games – 伊與田さん、現在は個人でスマホゲームを開発されているのですが、余暇 […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree011.mp3" length="28865024" type="audio/mpeg" />
+		<itunes:subtitle>今回は個人でスマホゲームを開発されている、伊與田（いよだ）さんへのインタビュー（前編）をお届けします。 Iyoda – – mobile games – 伊與田さん、現在は個人でスマホゲームを開発されているのですが、余暇 […]</itunes:subtitle>
+		<itunes:summary>今回は個人でスマホゲームを開発されている、伊與田（いよだ）さんへのインタビュー（前編）をお届けします。 Iyoda – – mobile games – 伊與田さん、現在は個人でスマホゲームを開発されているのですが、余暇 […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>30:04</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1429</post-id>		</item>
+	<item>
+		<title>010.地図アプリWAZE／短期ルームシェアweeeks／サクッと飲食店を決めるアプリ■MeetUp開催しましたっ</title>
+		<link>https://free-engineer.xrea.jp/1413</link>
+		<pubDate>Thu, 24 May 2018 14:00:59 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1413</guid>
+		<description>Google 傘下の地図アプリ、「屋外広告」の分野を侵略？：態度変容を促す「ウェイズ」の可能性 | DIGIDAY［日本版］ 週末や1週間の“短期ルームシェア”で新しい発見を、住の選択肢広げる「weeeks」が資金調達  […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree010.mp3" length="13968896" type="audio/mpeg" />
+		<itunes:subtitle>Google 傘下の地図アプリ、「屋外広告」の分野を侵略？：態度変容を促す「ウェイズ」の可能性 | DIGIDAY［日本版］ 週末や1週間の“短期ルームシェア”で新しい発見を、住の選択肢広げる「weeeks」が資金調達  […]</itunes:subtitle>
+		<itunes:summary>Google 傘下の地図アプリ、「屋外広告」の分野を侵略？：態度変容を促す「ウェイズ」の可能性 | DIGIDAY［日本版］ 週末や1週間の“短期ルームシェア”で新しい発見を、住の選択肢広げる「weeeks」が資金調達  […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>14:33</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1413</post-id>		</item>
+	<item>
+		<title>009.狩猟×ＩＴ・MTGフォレスト安達社長にインタビュー■機械学習体験会へのお誘い</title>
+		<link>https://free-engineer.xrea.jp/1369</link>
+		<pubDate>Thu, 17 May 2018 03:30:28 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1369</guid>
+		<description>今回はちょっと趣向を変えまして、MTGフォレスト株式会社の安達社長へのインタビューをお届けします。 先日、「機械学習のもくもく会」に参加しました。主催されているのが、狩猟×ＩＴに取り組まれているMTGフォレスト株式会社の […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree009.mp3" length="10545024" type="audio/mpeg" />
+		<itunes:subtitle>今回はちょっと趣向を変えまして、MTGフォレスト株式会社の安達社長へのインタビューをお届けします。 先日、「機械学習のもくもく会」に参加しました。主催されているのが、狩猟×ＩＴに取り組まれているMTGフォレスト株式会社の […]</itunes:subtitle>
+		<itunes:summary>今回はちょっと趣向を変えまして、MTGフォレスト株式会社の安達社長へのインタビューをお届けします。 先日、「機械学習のもくもく会」に参加しました。主催されているのが、狩猟×ＩＴに取り組まれているMTGフォレスト株式会社の […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>10:59</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1369</post-id>		</item>
+	<item>
+		<title>TechFree.008 ウェアラブルキーボード／Amazon Pay for Skills／キーフィジェット「KACHA」■ゆるキャン△気分</title>
+		<link>https://free-engineer.xrea.jp/1337</link>
+		<pubDate>Thu, 10 May 2018 14:30:25 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1337</guid>
+		<description>第8回・気になるトピックス “キー”も“ボード”もないウェアラブルキーボード「Tap」 – ITmedia PC USER Alexaのスキルにスキル内購入を書ける、デベロッパーに収入の道ひらける | Tec […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree008.mp3" length="10049024" type="audio/mpeg" />
+		<itunes:subtitle>第8回・気になるトピックス “キー”も“ボード”もないウェアラブルキーボード「Tap」 – ITmedia PC USER Alexaのスキルにスキル内購入を書ける、デベロッパーに収入の道ひらける | Tec […]</itunes:subtitle>
+		<itunes:summary>第8回・気になるトピックス “キー”も“ボード”もないウェアラブルキーボード「Tap」 – ITmedia PC USER Alexaのスキルにスキル内購入を書ける、デベロッパーに収入の道ひらける | Tec […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>10:28</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1337</post-id>		</item>
+	<item>
+		<title>TechFree.007 例の海賊版サイトの件／週末モデル／技術書典４での書籍販売戦略と収支■ＧＷの過ごし方</title>
+		<link>https://free-engineer.xrea.jp/1291</link>
+		<pubDate>Tue, 01 May 2018 15:00:25 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1291</guid>
+		<description>第7回・気になるトピックス 「出版社頼れない」「子供は漫画無料でいい」　海賊版サイト問題と漫画家たちの苦悩 (1/3) – ITmedia NEWS 僕が漫画村を批判しない理由｜佐藤秀峰｜note 週末兼業で […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree007.mp3" length="15143168" type="audio/mpeg" />
+		<itunes:subtitle>第7回・気になるトピックス 「出版社頼れない」「子供は漫画無料でいい」　海賊版サイト問題と漫画家たちの苦悩 (1/3) – ITmedia NEWS 僕が漫画村を批判しない理由｜佐藤秀峰｜note 週末兼業で […]</itunes:subtitle>
+		<itunes:summary>第7回・気になるトピックス 「出版社頼れない」「子供は漫画無料でいい」　海賊版サイト問題と漫画家たちの苦悩 (1/3) – ITmedia NEWS 僕が漫画村を批判しない理由｜佐藤秀峰｜note 週末兼業で […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>15:46</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1291</post-id>		</item>
+	<item>
+		<title>TechFree.006「Tech系フリーランスが選ぶ最近の気になるトピックス」</title>
+		<link>https://free-engineer.xrea.jp/1277</link>
+		<pubDate>Thu, 26 Apr 2018 01:00:57 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1277</guid>
+		<description>今回の気になるトピックス テクフリ第６回。今回紹介するトピックスは・・。 クリエイターの“お金に換えられない価値”を評価・支援する暗号通貨「CLAP」 | TechCrunch Japan 現役弁護士が手がけるAI契約書 […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree006.mp3" length="12914432" type="audio/mpeg" />
+		<itunes:subtitle>今回の気になるトピックス テクフリ第６回。今回紹介するトピックスは・・。 クリエイターの“お金に換えられない価値”を評価・支援する暗号通貨「CLAP」 | TechCrunch Japan 現役弁護士が手がけるAI契約書 […]</itunes:subtitle>
+		<itunes:summary>今回の気になるトピックス テクフリ第６回。今回紹介するトピックスは・・。 クリエイターの“お金に換えられない価値”を評価・支援する暗号通貨「CLAP」 | TechCrunch Japan 現役弁護士が手がけるAI契約書 […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>13:27</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1277</post-id>		</item>
+	<item>
+		<title>TechFree.005「Tech系フリーランスが選ぶ最近の気になるトピックス」</title>
+		<link>https://free-engineer.xrea.jp/1256</link>
+		<pubDate>Thu, 19 Apr 2018 14:00:17 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1256</guid>
+		<description>今回の気になるトピックス テクフリ第5回。今回紹介するトピックスは・・。 「Googleスプレッドシート」にマクロ記録機能 – ZDNet Japan “求人へ応募”ではなく“企業をフォロー”から始まるタレン […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree005.mp3" length="12420992" type="audio/mpeg" />
+		<itunes:subtitle>今回の気になるトピックス テクフリ第5回。今回紹介するトピックスは・・。 「Googleスプレッドシート」にマクロ記録機能 – ZDNet Japan “求人へ応募”ではなく“企業をフォロー”から始まるタレン […]</itunes:subtitle>
+		<itunes:summary>今回の気になるトピックス テクフリ第5回。今回紹介するトピックスは・・。 「Googleスプレッドシート」にマクロ記録機能 – ZDNet Japan “求人へ応募”ではなく“企業をフォロー”から始まるタレン […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>12:56</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1256</post-id>		</item>
+	<item>
+		<title>TechFree.004「Tech系フリーランスが選ぶ最近の気になるトピックス」</title>
+		<link>https://free-engineer.xrea.jp/1227</link>
+		<pubDate>Thu, 12 Apr 2018 14:30:04 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1227</guid>
+		<description>第4回。今回紹介するトピックは・・。 [物欲道] SONY MP-CD1 バッテリーとしても使えるスマホサイズのプロジェクターが4月25日に発売 | TechWave（テックウェーブ） ・おつり投資の「トラノコ」が楽天キ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree004.mp3" length="11285120" type="audio/mpeg" />
+		<itunes:subtitle>第4回。今回紹介するトピックは・・。 [物欲道] SONY MP-CD1 バッテリーとしても使えるスマホサイズのプロジェクターが4月25日に発売 | TechWave（テックウェーブ） ・おつり投資の「トラノコ」が楽天キ […]</itunes:subtitle>
+		<itunes:summary>第4回。今回紹介するトピックは・・。 [物欲道] SONY MP-CD1 バッテリーとしても使えるスマホサイズのプロジェクターが4月25日に発売 | TechWave（テックウェーブ） ・おつり投資の「トラノコ」が楽天キ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>11:45</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1227</post-id>		</item>
+	<item>
+		<title>TechFree.003「Tech系フリーランスが選ぶ最近の気になるトピックス」</title>
+		<link>https://free-engineer.xrea.jp/1215</link>
+		<pubDate>Thu, 05 Apr 2018 14:00:18 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1215</guid>
+		<description>さてさて、第3回ポッドキャストです。今回紹介するトピックは・・。 スイング分析とゲームが同時に楽しめるゴルフシミュレーター「ファイゴルフ」がクラウドファンディングMakuakeで支援金額1000万達成！ LINEで転職「 […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree003.mp3" length="6910976" type="audio/mpeg" />
+		<itunes:subtitle>さてさて、第3回ポッドキャストです。今回紹介するトピックは・・。 スイング分析とゲームが同時に楽しめるゴルフシミュレーター「ファイゴルフ」がクラウドファンディングMakuakeで支援金額1000万達成！ LINEで転職「 […]</itunes:subtitle>
+		<itunes:summary>さてさて、第3回ポッドキャストです。今回紹介するトピックは・・。 スイング分析とゲームが同時に楽しめるゴルフシミュレーター「ファイゴルフ」がクラウドファンディングMakuakeで支援金額1000万達成！ LINEで転職「 […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>7:12</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1215</post-id>		</item>
+	<item>
+		<title>TechFree.002「Tech系フリーランスが選ぶ最近の気になるトピックス」</title>
+		<link>https://free-engineer.xrea.jp/1171</link>
+		<pubDate>Thu, 29 Mar 2018 14:36:21 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1171</guid>
+		<description>さてさて、第2回ポッドキャストです。今回紹介するトピックは・・。 年間1000円、エフエム和歌山のAIアナウンサー「ナナコ」の裏側 – ITmedia エンタープライズ Exclusive: Intel’s  […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree002.mp3" length="8602304" type="audio/mpeg" />
+		<itunes:subtitle>さてさて、第2回ポッドキャストです。今回紹介するトピックは・・。 年間1000円、エフエム和歌山のAIアナウンサー「ナナコ」の裏側 – ITmedia エンタープライズ Exclusive: Intel’s  […]</itunes:subtitle>
+		<itunes:summary>さてさて、第2回ポッドキャストです。今回紹介するトピックは・・。 年間1000円、エフエム和歌山のAIアナウンサー「ナナコ」の裏側 – ITmedia エンタープライズ Exclusive: Intel’s  […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>8:53</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1171</post-id>		</item>
+	<item>
+		<title>Podcast「Tech系フリーランスが選ぶ最近の気になるトピックス」始めました。</title>
+		<link>https://free-engineer.xrea.jp/1131</link>
+		<pubDate>Thu, 22 Mar 2018 12:26:00 +0000</pubDate>
+		<guid isPermaLink="false">https://free-engineer.xrea.jp/?p=1131</guid>
+		<description>この番組は、フリーランスのエンジニアであるＳが、最近気になった記事やニュースをサクッと短く紹介していく番組です。 １０分ぐらいでサクッと聞き終わる、という感じにしたいので、毎回３つぐらいのトピックを紹介する予定。 技術ネ […]</description>
+		<enclosure url="https://media.blubrry.com/free_engineer_s/free-engineer.xrea.jp/wp-content/uploads/TechFree001.mp3" length="8131911" type="audio/mpeg" />
+		<itunes:subtitle>この番組は、フリーランスのエンジニアであるＳが、最近気になった記事やニュースをサクッと短く紹介していく番組です。 １０分ぐらいでサクッと聞き終わる、という感じにしたいので、毎回３つぐらいのトピックを紹介する予定。 技術ネ […]</itunes:subtitle>
+		<itunes:summary>この番組は、フリーランスのエンジニアであるＳが、最近気になった記事やニュースをサクッと短く紹介していく番組です。 １０分ぐらいでサクッと聞き終わる、という感じにしたいので、毎回３つぐらいのトピックを紹介する予定。 技術ネ […]</itunes:summary>
+		<itunes:author>Freelance Engineer S</itunes:author>
+		<itunes:image href="https://free-engineer.xrea.jp/wp-content/uploads/FSE_TechFree_Logo.jpg" />
+		<itunes:explicit>yes</itunes:explicit>
+		<itunes:duration>8:23</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">1131</post-id>		</item>
+</channel>
+</rss>

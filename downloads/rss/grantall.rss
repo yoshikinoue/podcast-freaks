@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://grantall.fm/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://grantall.fm/</link>
+    <title>grantall.fm</title>
+    <description>伊藤、沖田、高山でお送りする何か</description>
+    <media:keywords>tech,ゲーム,プログラミング,iPhone,Android,モバイル</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>伊藤、沖田、高山でお送りする何か</itunes:subtitle>
+    <itunes:author>takayama</itunes:author>
+    <itunes:summary>伊藤、沖田、高山でお送りする何か</itunes:summary>
+    <itunes:keywords>tech,ゲーム,プログラミング,iPhone,Android,モバイル</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>takayama</itunes:name>
+      <itunes:email>grantall.fm@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://grantall.fm/images/artwork.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>6. コードレビューどうしてます？</title>
+        <link>https://grantall.fm/episode/6</link>
+        <pubDate>Tue, 06 Mar 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nttdocomo.co.jp/product/smart_phone/z01k/&quot;&gt;M Z-01K&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.n-keitai.com/n-05e/index.html&quot;&gt;Medias W&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dekiru.net/article/16411/&quot;&gt;Amazon EchoをBluetoothスピーカーとして使う「超簡単」な方法&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://prtimes.jp/main/html/rd/p/000000010.000019285.html&quot;&gt;Natureが第三者割当増資による1億円の資金調達を完了、Nature Remoの全国家電量販店での販売も開始&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://consumer.huawei.com/jp/phones/nova-lite2/&quot;&gt;nova lite2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/mobile/articles/1803/05/news064.html&quot;&gt;ただのマイナーチェンジではない　Galaxy S9／S9+はシリーズの集大成モデルだ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/1byone-%E4%BD%93%E9%87%8D%C2%B7%E4%BD%93%E7%B5%84%E6%88%90%E8%A8%88%C2%B7%E4%BD%93%E8%84%82%E8%82%AA%E8%A8%88-Bluetooth%E5%AF%BE%E5%BF%9C-Android%E3%82%A2%E3%83%97%E3%83%AA%E3%81%A7%E5%81%A5%E5%BA%B7%E7%AE%A1%E7%90%86-%E8%B5%A4%E3%81%A1%E3%82%83%E3%82%93%E3%81%AE%E4%BD%93%E9%87%8D%E8%A8%88%E7%AE%97%E5%8F%AF%E8%83%BD/dp/B01GFYAZ0O/ref=sr_1_1?ie=UTF8&amp;amp;qid=1520332426&amp;amp;sr=8-1&amp;amp;keywords=%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E4%BD%93%E9%87%8D%E8%A8%88&quot;&gt;1byone 体重·体組成計·体脂肪計 スマートスケール 体重 / 体脂肪率 / 体水分率 / 推定骨量 / 基礎代謝量 / 内臓脂肪レベル / BMIなど測定可能 Bluetooth対応 iOS / Androidアプリで健康管理 赤ちゃんの体重計算可能 &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://grantall.fm/&quot;&gt;grantall.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/r7kamura/yattecast&quot;&gt;yattecast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tryswift.co/events/2018/tokyo/jp/&quot;&gt;try! Swift&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techconference.yahoo.co.jp/2018/&quot;&gt;Yahoo, JAPAN, Tech, Conference&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/katsukii/items/5368598cbecbaefd1ed8&quot;&gt;空コミットで実装前にプルリクエストを出す&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tmokita/ColorPenMemo&quot;&gt;ColorPenMemo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atnd.org/groups/yidev&quot;&gt;yidev&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/speedtext/id317722153?mt=8&quot;&gt;SpeedText&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://japanese.engadget.com/2018/03/05/750-5/&quot;&gt;『モンスターハンター：ワールド』が750万本を突破、バイオ5を超えてカプコン史上最高の出荷本数を達成&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://grantall.fm/episode/6</guid>
+        <enclosure url="https://grantall.fm/audio/006.mp3" length="33839565" type="audio/mp3"/>
+        <itunes:author>takayama</itunes:author>
+        <itunes:subtitle>Android 端末やスマートスピーカーなどごった煮</itunes:subtitle>
+        <itunes:duration>70:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://grantall.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>5. Google Home と ifttt と nature remo で家電の操作はまじで便利</title>
+        <link>https://grantall.fm/episode/5</link>
+        <pubDate>Sun, 07 Jan 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;iPhone X&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://japanese.engadget.com/2017/10/24/2-m-1/&quot;&gt;異形の2画面スマホ「M」を買わざるを得ない理由&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://japanese.engadget.com/2017/11/30/galaxy-s9-s9-1/&quot;&gt;サムスン次期モデルGalaxy S9/S9+は来年1月に発表、画面埋込み型指紋センサーは搭載されず？ 飛び交う噂のまとめ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Apple Watch series 3&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/masuidrive/n/ncd435662897e&quot;&gt;「色の消しゴム」が欲しい！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tmokita/ColorPenMemo&quot;&gt;ColorPenMemo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.srad.jp/story/17/12/19/0524209/&quot;&gt;ExcelにPythonの搭載検討、Microsoftがアンケート実施中&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Google Home Mini&lt;/li&gt;
+  &lt;li&gt;Amazon Echo&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nature.global/&quot;&gt;nature remo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://radiko.jp/&quot;&gt;radio.jp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;HomePod&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://prota.info/shop/buy-microbot/push2/&quot;&gt;Microbot Push&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/cst_negi/status/940919461271420929&quot;&gt;SwitchBot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.switch-bot.com/product-page/switch-link&quot;&gt;くもみたいなの(SwithBot Hub)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jp.square-enix.com/lostsphear/&quot;&gt;Lost Sphear&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jp.square-enix.com/setsuna/&quot;&gt;いけにえと雪のセツナ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nintendo.co.jp/switch/adena/index.html&quot;&gt;ゼノブレイド２&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nintendo.co.jp/wiiu/agmj/festival/2/index.html&quot;&gt;Splatoon（スプラトゥーン）/フェス&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://grantall.fm/episode/5</guid>
+        <enclosure url="https://grantall.fm/audio/005.mp3" length="47142998" type="audio/mp3"/>
+        <itunes:author>takayama</itunes:author>
+        <itunes:subtitle>2画面スマホやスマートスピーカーと家電の連動の話</itunes:subtitle>
+        <itunes:duration>98:12</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://grantall.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>4. ゲームするために仕事してんすよ</title>
+        <link>https://grantall.fm/episode/4</link>
+        <pubDate>Sun, 08 Oct 2017 00:00:00 +0900</pubDate>
+        <description>
+</description>
+        <guid isPermaLink="true">https://grantall.fm/episode/4</guid>
+        <enclosure url="https://grantall.fm/audio/004.mp3" length="38060117" type="audio/mp3"/>
+        <itunes:author>takayama</itunes:author>
+        <itunes:subtitle>Apple Watch Series3, Galaxy S8, ID, iPhone8, iPhone X などの話をしました</itunes:subtitle>
+        <itunes:duration>79:17</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://grantall.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>3. 「もくもくとスプラトゥーンをやるのを配信するポッドキャストって新しくね？」「やりません」</title>
+        <link>https://grantall.fm/episode/3</link>
+        <pubDate>Sat, 29 Jul 2017 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qiita.com/fmtonakai/items/2d3ee2e3f84ffb687537&quot;&gt;アプリを約250個以上起動するとUser Defaultsが読み込めなくなる問題について&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.fenrir-inc.com/jp/2017/07/ios11-safari-view-controller.html&quot;&gt;iOS 11 で Safari View Controller の Cookie 等の共有機能が無くなる (予定)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iosdc.jp/2017/&quot;&gt;iOSDC JAPAN 2017&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nintendo.co.jp/switch/aab6a/index.html&quot;&gt;スプラトゥーン2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/GARMIN-vivosmart/dp/B019HPHKFG/&quot;&gt;GARMIN アクティブトラッカー 活動量計&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/product/B07113SKNZ/&quot;&gt;携帯扇風機 usb充電 手持ち携帯&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/480071172X/&quot;&gt;これ1冊でできる! ラズベリー・パイ 超入門&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pc.watch.impress.co.jp/docs/news/1070258.html&quot;&gt;無線LAN搭載の「Raspberry Pi Zero W」が18日より国内発売。1,296円&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://summer-lesson.bn-ent.net/&quot;&gt;サマーレッスン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%B0%B4%E5%8F%A3%E5%93%B2%E4%B9%9F&quot;&gt;水口哲也&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ubisoft.co.jp/coe/&quot;&gt;Child of Eden&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jp.playstation.com/blog/detail/5078/20170605-rezinfinite.html&quot;&gt;【PS VR】『Rez Infinite』のVR体験を100人で共有！ ｢VR to Dome 実験： Rez Infinite｣レポート！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://forzaxbox.net/blog-entry-9044.html&quot;&gt;ああ無情・・・『プレイステーションVR』は60fpsが最低条件！PS4に60fpsのゲームなんて無いというのに・・・&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nintendo.co.jp/hardware/3dsseries/new2dsll/index.html&quot;&gt;NINTENDO 2DSLL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B0716F2CRS/&quot;&gt;ニンテンドー2DS LL はぐれメタルエディション &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BC15-%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%8B%E7%8E%8B%E5%9B%BD/id1186994231?mt=8&quot;&gt;ファイナルファンタジー15：新たなる王国&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hikarinootosan.jp/&quot;&gt;光のお父さん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jp.finalfantasyxiv.com/lodestone/&quot;&gt;FF XIV&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.finalfantasyxi.jp/&quot;&gt;FF XI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://grantall.fm/episode/3</guid>
+        <enclosure url="https://grantall.fm/audio/003.m4a" length="42987771" type="audio/mp3"/>
+        <itunes:author>takayama</itunes:author>
+        <itunes:subtitle>アプリ開発の話題からスプラトゥーンやFFなどのゲームの話などごった煮</itunes:subtitle>
+        <itunes:duration>88:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://grantall.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>2. ボルダリング行ってきたよ</title>
+        <link>https://grantall.fm/episode/2</link>
+        <pubDate>Sat, 10 Jun 2017 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/wwdc/&quot;&gt;WWDC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Apple Music&lt;/li&gt;
+  &lt;li&gt;Get wild&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/videos/play/wwdc2017/102/&quot;&gt;Platforms State of the Union&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://githubuniverse.com/constellation/&quot;&gt;GitHub Constellation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gravity-research.jp/shop/ginza/&quot;&gt;ボルダリングスペース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%A8%E3%82%A6%E3%83%A0&quot;&gt;ヨウム&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://grantall.fm/episode/2</guid>
+        <enclosure url="https://grantall.fm/audio/002.m4a" length="71183518" type="audio/mp3"/>
+        <itunes:author>takayama</itunes:author>
+        <itunes:subtitle>WWDC, GitHub Constellation の話から、ボルダリングや老化、キャリアの話など雑談</itunes:subtitle>
+        <itunes:duration>73:16</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://grantall.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>1. とりあえず PodCast をはじめてみよう</title>
+        <link>https://grantall.fm/episode/1</link>
+        <pubDate>Sun, 28 May 2017 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+</description>
+        <guid isPermaLink="true">https://grantall.fm/episode/1</guid>
+        <enclosure url="https://grantall.fm/audio/001.m4a" length="91356595" type="audio/mp3"/>
+        <itunes:author>takayama</itunes:author>
+        <itunes:subtitle>Unite, ボルダリングについて語りました</itunes:subtitle>
+        <itunes:duration>61:04</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://grantall.fm/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

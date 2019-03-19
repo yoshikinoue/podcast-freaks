@@ -1,0 +1,1209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://rlangradio.org/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://rlangradio.org</link>
+    <title>R Radio for the Rest of us.</title>
+    <description>RユーザによるRユーザのためのラジオ</description>
+    <media:keywords>r,open-source,data-analysis,development,life</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>RユーザによるRユーザのためのラジオ</itunes:subtitle>
+    <itunes:author>r3 group</itunes:author>
+    <itunes:summary>RユーザによるRユーザのためのラジオ</itunes:summary>
+    <itunes:keywords>r,open-source,data-analysis,development,life</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>r3 group</itunes:name>
+      <itunes:email>suika1127@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://rlangradio.org/images/itunes-artwork.png" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>15. 「宇宙」ができるまで</title>
+        <link>https://rlangradio.org/episode/15</link>
+        <pubDate>Mon, 18 Feb 2019 22:41:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;「RユーザのためのRStudio実践入門」執筆者と語る「宇宙(本)」のできるまで。担当ページの内容、書いている際に思っていたことなどを聞きました。&lt;/p&gt;
+          &lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gihyo.jp/book/2018/978-4-7741-9853-8&quot;&gt;RユーザのためのRStudio[実践]入門&lt;/a&gt;… 出版社のページ
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://gihyo.jp/book/2018/978-4-7741-9853-8/support&quot;&gt;RユーザのためのRStudio［実践］入門 ―tidyverseによるモダンな分析フローの世界―&lt;/a&gt;… サポートページ。正誤表はこちら。&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/ghmagazine/rstudiobooksample&quot;&gt;rstudiobook&lt;/a&gt;… サンプルコードはこちらから&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;タイムテーブル&quot;&gt;タイムテーブル&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;自己紹介 &lt;strong&gt;01:07&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;宇宙(本)の始まり &lt;strong&gt;11:00&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;1章… 「RStusioを使うならプロジェクト機能を使いましょう」「執筆時点での最新機能は網羅しています」「あとで辞書的に見返せるように」 by y__mattu &lt;strong&gt;15:15&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;2章… 「どのパッケージで何ができるのかを意識した」 by y__mattu &lt;strong&gt;17:47&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;3章… 「死ぬ前に書き残しておこう」「(vignettes) 読めよ」「変わらないものを書こうと思った」 by yutannihilation &lt;strong&gt;21:00&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;4章… 「エスカレータ式に理解していって、最後のページをめくる時に初心者を脱していられるように」「自分自身の備忘録も兼ねて盛り込んだ」 by kyn02666 &lt;strong&gt;26:02&lt;/strong&gt;&lt;/li&gt;
+  &lt;li&gt;5章… 「できるだけコンパクトに。新しいことよりも要約することを意識した」「書き足りないので薄い本を…」 by kazutan &lt;strong&gt;27:30&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://y-mattu.hatenablog.com/entry/2017/07/28/165432&quot;&gt;Rで欲しい県について国勢調査 小地域 Shapefile を全部ダウンロードする&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.soumu.go.jp/menu_news/s-news/01toukei10_01000001.html&quot;&gt;「政府統計の総合窓口（e-Stat）」のリニューアル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/yutannihilation/tidyverse&quot;&gt;Tidyverseとは&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.rstudio.com/2017/08/11/rstudio-v1-1-preview-terminal/&quot;&gt;RStudio v1.1 Preview: Terminal&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.rstudio.com/2018/10/29/rstudio-ide-custom-theme-support/&quot;&gt;RStudio IDE Custom Theme Support&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kazutan.github.io/blog/2017/05/rstudio-dark-theme/&quot;&gt;RStudioでDarkなテーマを当ててみる&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ymattu.github.io/TokyoR72/slide.html#/&quot;&gt;初心者セッション 〜データハンドリング編〜&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ymattu.github.io/TokyoR73/slide.html#/&quot;&gt;初心者セッション 1 データ読み込み編&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.c-r.com/book/detail/1105&quot;&gt;Rによるスクレイピング入門&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/yutannihilation/dplyrfalseselecttomutatefalsesemanteikusufalsewei-i&quot;&gt;dplyrのselectとmutateのセマンティクスの違い&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://notchained.hatenablog.com/entry/tidyr-multi-gather&quot;&gt;tidyrのmulti-gatherの未来&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yutani.rbind.io/post/enhancing-gather-and-spread-by-using-bundled-data-frames/&quot;&gt;Enhancing gather() and spread() by Using “Bundled” data.frames&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kazutan.github.io/kazutanR/&quot;&gt;Kazutan.R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kyoritsu-pub.co.jp/bookdetail/9784320112438&quot;&gt;再現可能性のすゝめ―RStudioによるデータ解析とレポート作成― &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.rstudio.com/2018/07/27/first-bookdown-contest/&quot;&gt;Announcing the 1st Bookdown Contest&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;著者陣のブログ&quot;&gt;著者陣のブログ&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;y__mattu… &lt;a href=&quot;https://y-mattu.hatenablog.com/entry/2018/06/04/185922&quot;&gt;RユーザのためのRStudio[実践]入門 という本が出ます。&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;yutannihilation… &lt;a href=&quot;https://notchained.hatenablog.com/entry/2018/06/21/214026&quot;&gt;RユーザのためのRStudio[実践]入門 という本が出ます。&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;kazutan… &lt;a href=&quot;https://medium.com/@kazutan/rユーザのためのrstudio-実践-入門-という本が出ます-935b3022f6c6&quot;&gt;RユーザのためのRStudio[実践]入門 という本が出ます。&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;kyn02666… &lt;a href=&quot;https://das-kino.hatenablog.com/entry/2018/06/17/145712&quot;&gt;RユーザのためのRStudio[実践]入門という本が出ます。&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/15</guid>
+        <enclosure url="https://rlangradio.org/audio/15.mp3" length="7562043" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>「RユーザのためのRStudio実践入門」執筆者と語る「宇宙(本)」のできるまで。担当ページの内容、書いている際に思っていたことなどを聞きました。</itunes:subtitle>
+        <itunes:duration>00:31:30</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>14. 福岡のR事情とかTokyo.R・日本のRコミュニティの昔話とか鈴木さんに感謝とか</title>
+        <link>https://rlangradio.org/episode/14</link>
+        <pubDate>Thu, 13 Sep 2018 00:00:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;福岡のR事情とかTokyo.Rの昔話とか&lt;/p&gt;
+          &lt;h2 id=&quot;ばしょ&quot;&gt;ばしょ&lt;/h2&gt;
+
+&lt;p&gt;福岡のある会社の会議室&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ishikettei.connpass.com/&quot;&gt;意思決定のためのデータ分析勉強会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atnd.org/events/49186&quot;&gt;昔のTokyo.Rはニフティ株式会社さんに大変お世話になりました（一例）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4320112423&quot;&gt;StanとRでベイズ統計モデリング（Wonderful R）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.digitalfukuoka.jp/?locale=ja&quot;&gt;福岡県Ruby・コンテンツビジネス振興会議」&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/14</guid>
+        <enclosure url="https://rlangradio.org/audio/14.mp3" length="8906000" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>福岡のR事情とかTokyo.Rの昔話とか</itunes:subtitle>
+        <itunes:duration>00:24:04</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>13. Tokyo.R運営メンバーに聞く、Rコミュニティの良いところと今後</title>
+        <link>https://rlangradio.org/episode/13</link>
+        <pubDate>Sat, 01 Sep 2018 20:43:02 +0900</pubDate>
+        <description>
+          &lt;p&gt;Tokyo.Rの今後の開催予定やチーム運営の難しさ、関数を書いたのはいつ？ホクソエム？といった内容です。&lt;/p&gt;
+          &lt;p&gt;前編: &lt;a href=&quot;https://rlangradio.org/episode/12&quot;&gt;Episode 12&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ばしょ&quot;&gt;ばしょ&lt;/h2&gt;
+
+&lt;p&gt;ヒマラヤテーブル
+http://himalaya-table.info/&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;h3 id=&quot;パッケージ開発のススメ関数を書くことでrの世界が広がる&quot;&gt;パッケージ開発のススメ。関数を書くことでRの世界が広がる&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rlangradio.org/episode/11&quot;&gt;y__mattuのパッケージ開発と管理&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://www.slideshare.net/kaz_yos/r-devtools-roxygen2&quot;&gt;Rパッケージ作成ハドリー風: devtools, roxygen2, testthatを添えて&lt;/a&gt;… &lt;a href=&quot;https://twitter.com/u_ribo/&quot;&gt;\@uribo&lt;/a&gt;がパッケージ開発を行うきっかけとなったスライド&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/wakuteka/items/54f81f32baf50e243461&quot;&gt;こわくないRパッケージ開発！2016&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/uri/items/1245441ab179c6ee76f9&quot;&gt;Rプログラミングのための第一歩（未完）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ymattu.github.io/TokyoR69/slide.html#/&quot;&gt;イマドキなパッケージ作成&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;これからのtokyor-tsukubar-rラジオ&quot;&gt;これからのTokyo.R, Tsukuba.R, Rラジオ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/TokyoRCommunity&quot;&gt;\@TokyoRCommunity&lt;/a&gt;… Tokyo.R の広報用アカウント&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;会話の中で出たこれらのイベントはすでに終了しています。&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atnd.org/events/96013&quot;&gt;第69回R勉強会＠東京（#TokyoR）&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1220226&quot;&gt;第69回R勉強会@東京まとめ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://estrellita.hatenablog.com/entry/2018/04/22/002127&quot;&gt;第69回R勉強会@東京で発表してきた&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.randpy.tokyo/entry/tokyor69&quot;&gt;TokyoR 第69回に参加してきたので簡単に感想を書いておく&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atnd.org/events/97016&quot;&gt;第70回R勉強会＠東京（#TokyoR）&lt;/a&gt;… 初心者セッションから統計モデリング、ベイズ統計についての回
+    &lt;ul&gt;
+      &lt;li&gt;[第70回R勉強会@東京まとめ(https://togetter.com/li/1235481)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://niszet.hatenablog.com/entry/2018/06/10/232110&quot;&gt;第70回R勉強会(TokyoR 70)に行ってきました。&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meetup.com/ja-JP/TsukubaR/&quot;&gt;Tsukuba.R&lt;/a&gt;… コミュニティページができました！&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discordapp.com&quot;&gt;Discord&lt;/a&gt;… Rラジオの公開収録で使っているサービス。誰でも参加可能です。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ホクソエムとは&quot;&gt;ホクソエムとは?&lt;/h2&gt;
+
+&lt;p&gt;&lt;strong&gt;ホクソエムとは窓口である&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://notchained.hatenablog.com/entry/2015/03/25/001527&quot;&gt;匿名集団的知性・ホクソエム――その傾向と対策&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/kilometer/items/05dcc0425b647dc715c2&quot;&gt;Dead or Hoxo_m&lt;/a&gt;… &lt;a href=&quot;https://twitter.com/kilometer00&quot;&gt;\@kilometer&lt;/a&gt;さんとホクソエム&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hoxo-m.com&quot;&gt;HOXO-M Inc.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.hoxo-m.com/&quot;&gt;株式会社ホクソエムのブログ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;欲しいものは作る・・それが俺たちホクソエムの誓いだったはず！&lt;/p&gt;&amp;mdash; hoxo_m (@hoxo_m) &lt;a href=&quot;https://twitter.com/hoxo_m/status/661929782737702913?ref_src=twsrc%5Etfw&quot;&gt;November 4, 2015&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;最近のr-wakalang&quot;&gt;最近のr-wakalang&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tokyor/r-wakalang&quot;&gt;r-wakalang&lt;/a&gt;… 日本語RユーザのSlackワークスペース&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/yutannihilation/how-i-learned-to-stop-worrying-and-ask-1&quot;&gt;Rおじさんの異常な即回答または私は如何にして心配するのを止めてr-wakalangで質問するようになったか&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://notchained.hatenablog.com/entry/2017/03/15/215020&quot;&gt;reprexパッケージの使い方、あるいは羽鳥に怒られる前に知るべき4つのこと&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uribo.hatenablog.com/entry/2018/03/01/073928&quot;&gt;質問お待ちしております！できればreprex使ってね&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/13</guid>
+        <enclosure url="https://rlangradio.org/audio/13.mp3" length="16125619" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>Tokyo.Rの今後の開催予定やチーム運営の難しさ、関数を書いたのはいつ？ホクソエム？といった内容です。</itunes:subtitle>
+        <itunes:duration>00:33:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>12. 学術研究のために使われるRとそのほかの言語の関係</title>
+        <link>https://rlangradio.org/episode/12</link>
+        <pubDate>Thu, 30 Aug 2018 21:43:02 +0900</pubDate>
+        <description>
+          &lt;p&gt;動物の集団行動から社会性の研究をしているkilometerさんのRの使い方や、学術研究としてのRを使った解析結果の共有等について話しました。&lt;/p&gt;
+          &lt;p&gt;後編: &lt;a href=&quot;https://rlangradio.org/episode/13&quot;&gt;Episode 13&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ばしょ&quot;&gt;ばしょ&lt;/h2&gt;
+
+&lt;p&gt;ヒマラヤテーブル
+http://himalaya-table.info/&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;h3 id=&quot;tokyorコミュニティあれこれ&quot;&gt;Tokyo.Rコミュニティあれこれ&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://groups.google.com/group/r-study-tokyo&quot;&gt;TokyoRCommunity のメーリングリスト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atnd.org/events/94785&quot;&gt;第68回R勉強会＠東京（#TokyoR）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/kilometer/68th-tokyo-dot-r-beginner-session1&quot;&gt;68th Tokyo.R Beginner session1&lt;/a&gt;: &lt;a href=&quot;https://twitter.com/kilometer00&quot;&gt;@kilometer00&lt;/a&gt; さんの初心者セッション用スライド&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rlangradio.org/episode/10&quot;&gt;R Radio for the Rest of us.#10&lt;/a&gt;… 初心者に教えるのは難しい、という話が出てきます&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yokohamar.github.io/yokohama.r/&quot;&gt;Yokohama.R (横浜R道場)&lt;/a&gt;: 幻の…&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yasuhisay.info/entry/20080624/1214212893&quot;&gt;Tsukuba.Rの概要について&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/akiaki5516/10rver215-15-1010&quot;&gt;10分でわかるr言語入門ver2.15 15 1010&lt;/a&gt;: バードラドラ初代マスターの初心者セッションスライド&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/R%E3%83%A9%E3%82%B8%E3%82%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Rラジオ&lt;/a&gt; で話題になったRのバージョンですが、&lt;a href=&quot;https://twitter.com/hashtag/TokyoR?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#TokyoR&lt;/a&gt; の初心者セッションの内容はRv3.4.0 (Mac版)で動作確認しています。でもこの直後にバージョンの壁が大問題になる案件が生じました。&lt;/p&gt;&amp;mdash; kilometer (@kilometer00) &lt;a href=&quot;https://twitter.com/kilometer00/status/1035339178911780864?ref_src=twsrc%5Etfw&quot;&gt;August 31, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;kilometerさんと研究&quot;&gt;kilometerさんと研究&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bioconductor.org/packages/release/bioc/html/EBImage.html&quot;&gt;EBImage: Image processing and analysis toolbox for R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/magick/index.html&quot;&gt;magick: Advanced Graphics and Image-Processing in R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uribo.hatenablog.com/entry/2017/11/02/073239&quot;&gt;転職・転居しました: 大学→企業→研究機関 - cucumber flesh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/kilometer&quot;&gt;kilometerさんのQiitaページ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%83%A2%E3%82%BB%E3%83%83%E3%83%88&quot;&gt;マーモセット&lt;/a&gt;… &lt;a href=&quot;https://twitter.com/kilometer00&quot;&gt;\@kilometer00&lt;/a&gt;さんの研究対象のサル&lt;/li&gt;
+  &lt;li&gt;ベルベットモンキー… 研究対象でない方。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/R%E3%83%A9%E3%82%B8%E3%82%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Rラジオ&lt;/a&gt; にR関係ない話題として出て来たベルベットモンキーの音声研究はこちらです。&lt;a href=&quot;https://t.co/WewbgkCCAz&quot;&gt;https://t.co/WewbgkCCAz&lt;/a&gt;&lt;/p&gt;&amp;mdash; kilometer (@kilometer00) &lt;a href=&quot;https://twitter.com/kilometer00/status/1035335678337343488?ref_src=twsrc%5Etfw&quot;&gt;August 31, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;皆さんのアウトプットを楽しみにしています&quot;&gt;皆さんのアウトプットを楽しみにしています&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://uribo.hatenablog.com&quot;&gt;cucumber flesh&lt;/a&gt;… uriboのブログ。旧「まだ厨二病」。収録後、名前を変えましたw&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://niszet.hatenablog.com/&quot;&gt;niszetの日記&lt;/a&gt;… &lt;a href=&quot;https://twitter.com/niszet0&quot;&gt;\@niszet0&lt;/a&gt; さんのブログ。最新のR情報を知りたい人におすすめ。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/jpmesh/index.html&quot;&gt;jpmesh: Utilities for Japanese Mesh Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/12</guid>
+        <enclosure url="https://rlangradio.org/audio/12.mp3" length="16541697" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>動物の集団行動から社会性の研究をしているkilometerさんのRの使い方や、学術研究としてのRを使った解析結果の共有等について話しました。</itunes:subtitle>
+        <itunes:duration>00:34:27</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>11. パッケージ開発とオープンソースのメンテナンス</title>
+        <link>https://rlangradio.org/episode/11</link>
+        <pubDate>Wed, 21 Mar 2018 21:20:02 +0900</pubDate>
+        <description>
+          &lt;p&gt;前回に引き続き、y__mattuとuriboがggplot2パイプ演算子問題やfelpパッケージをはじめとした最近の話題について喋ります&lt;/p&gt;
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;h3 id=&quot;ggplot2-パイプ演算子実装問題&quot;&gt;ggplot2 パイプ演算子実装問題&lt;/h3&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Thanks to a question on &lt;a href=&quot;https://t.co/fkYCCcgnXm&quot;&gt;https://t.co/fkYCCcgnXm&lt;/a&gt; from &lt;a href=&quot;https://twitter.com/dataandme?ref_src=twsrc%5Etfw&quot;&gt;@dataandme&lt;/a&gt;, I did a little write up on why ggplot2 should use the pipe, but unfortunately never will: &lt;a href=&quot;https://t.co/BD8xpg3f6j&quot;&gt;https://t.co/BD8xpg3f6j&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rstats&lt;/a&gt;&lt;/p&gt;&amp;mdash; Hadley Wickham (@hadleywickham) &lt;a href=&quot;https://twitter.com/hadleywickham/status/958062235758325762?ref_src=twsrc%5Etfw&quot;&gt;January 29, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;ggplot2は+が意味的に正しい！ %&amp;gt;%なんていらない！、というのは俺もそんな風に感じる一人だけど、Hadleyのこのことばがすべてだと思う。 &lt;a href=&quot;https://t.co/Ny3yhuAwNo&quot;&gt;https://t.co/Ny3yhuAwNo&lt;/a&gt;&lt;/p&gt;&amp;mdash; Hiroaki Yutani (@yutannihilation) &lt;a href=&quot;https://twitter.com/yutannihilation/status/967746708267417600?ref_src=twsrc%5Etfw&quot;&gt;February 25, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://coolbutuseless.bitbucket.io/2018/02/27/introducing-the-ggplot2pipes-package/&quot;&gt;Introducing the ‘ggplot2pipes’ package&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitbucket.org/coolbutuseless/ggplot2pipes&quot;&gt;ggplot2pipes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;パッケージ開発運用メンテナンスコスト&quot;&gt;パッケージ開発運用・メンテナンスコスト&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rstudio/rmarkdown/blob/master/.travis.yml&quot;&gt;Pandocに依存しているrmarkdownパッケージの.travis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://r-pkgs.had.co.nz/check.html#travis&quot;&gt;R packages: Checking after every commit with Travis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://appsilondatascience.com/blog/rstats/2018/02/07/circleci.html&quot;&gt;Continuous integration for your private R projects with CircleCI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ropenscilabs/r-docker-tutorial&quot;&gt;r-docker-tutorial&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/nozma/items/4490d300594b883d054c&quot;&gt;@nozmaさんの翻訳&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/uri/items/475eb4dd158ee22f2635&quot;&gt;データ分析環境の構築にDockerを利用しよう&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dirk.eddelbuettel.com/blog/2018/02/28/#017_dependencies&quot;&gt;#017 Dependencies&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://community.rstudio.com/t/glue-vs-stringr-str-interp/1355&quot;&gt;Glue vs stringr::str_interp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;felp&quot;&gt;felp&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://github.com/atusy/felp&quot;&gt;felp: An R package to display source and help of a function simultaneously&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/Atsushi776/items/77d79f2b2c5bf4f993f1&quot;&gt;関数の中身とヘルプを同時にすぐ見たい(felp me!)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://niszet.hatenablog.com/entry/2018/03/14/080000&quot;&gt;(R) felpパッケージとfelp関数の紹介（と、主に裏側の話）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;fukuokar&quot;&gt;Fukuoka.R&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fukuoka-r.connpass.com/event/77422/&quot;&gt;fukuoka.R #10&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/yoshiroy/FRintroR20180316&quot;&gt;Fukuoka.R #10 R introduction&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ymattu.github.io/FukuokaR10/slide.html#/&quot;&gt;R で友達を助けた話 @y__mattu&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/ymattu/FukuokaR10&quot;&gt;リポジトリ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kazutan.github.io/slides/fukuokaR10_slide.html#&quot;&gt;rtweet&amp;amp;rmarkdownで収集フォトギャラリーを作る @kazutan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;y__mattu-バンド出演情報&quot;&gt;y__mattu バンド出演情報&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.muribushi.jp/&quot;&gt;Club ROOTS!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;rラジオパッケージ&quot;&gt;Rラジオパッケージ&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tokyor/r3gr&quot;&gt;r3gr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/11</guid>
+        <enclosure url="https://rlangradio.org/audio/11.mp3" length="6753605" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>前回に引き続き、y__mattuとuriboがggplot2パイプ演算子問題やfelpパッケージをはじめとした最近の話題について喋ります</itunes:subtitle>
+        <itunes:duration>00:28:08</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>10. R学生y__mattu(SASもPythonもやるマン)のやっていき</title>
+        <link>https://rlangradio.org/episode/10</link>
+        <pubDate>Tue, 20 Mar 2018 19:40:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;R, Python, SASの三言語を使いこなすy_mattuをゲストに迎え、コミュニティ内での初心者向け資料、y__mattuのパッケージ開発話などについて話しました。&lt;/p&gt;
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sas.com/&quot;&gt;SAS: Statistical Analysis Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://groups.google.com/group/r-study-tokyo&quot;&gt;TokyoR Google Groups&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;TokyoRの情報交換はSlackでも行われています。Slackへは&lt;a href=&quot;https://join.slack.com/t/r-wakalang/shared_invite/enQtMzI3OTUxMjMyMjYwLTlhMzU2MTFhZDlkN2JjNWE5ZjVjODVjZWI5NGI0NGZjY2MzY2E1YTczOWU3YmM0MDY4NzE1NThiNjFjMTIzY2Y&quot;&gt;こちらのリンク&lt;/a&gt;から誰でも参加できます。&lt;/li&gt;
+      &lt;li&gt;参考: &lt;a href=&quot;https://speakerdeck.com/yutannihilation/how-i-learned-to-stop-worrying-and-answer-1&quot;&gt;Rおじさんの異常な即回答または私は如何にして心配するのを止めてr-wakalangで回答するようになったか&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/uri/items/5583e91bb5301ed5a4ba&quot;&gt;r-wakalang へようこそ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ymattu.github.io&quot;&gt;松村優哉のホームページ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ymattu.github.io/slides.html&quot;&gt;y__mattu過去の発表資料&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://y-mattu.hatenablog.com&quot;&gt;★データ解析備忘録★&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ymattu.github.io/TokyoR64/beginner/for_beginners.html#1&quot;&gt;データフレームの扱い方
+初級編 - Tokyo.R #64 初心者セッション&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;y__mattu開発パッケージ&quot;&gt;y__mattu開発パッケージ&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/MlBayesOpt/index.html&quot;&gt;MlBayesOpt: Hyper Parameter Tuning for Machine Learning, Using Bayesian Optimization&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://y-mattu.hatenablog.com/entry/2017/10/24/083000&quot;&gt;「機械学習のパラメータをベイズ最適化でチューニング」をRで超簡単に書けるパッケージを作った&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ymattu/rjumanpp&quot;&gt;rjumanpp: R Interface to JUMAN++&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rviews.rstudio.com/2017/11/22/october-2017-new-packages/&quot;&gt;R Views- October 2017 New Packages&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;【募集】次回Tokyo.Rは4/21に開催予定です。ですが、会場がまだ決まってないので、会場提供してくれる方を募集します。「提供してもいいよ」という方は、お手数ですがご連絡頂きますよう、お願い致します。 &lt;a href=&quot;https://twitter.com/hashtag/tokyor?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#tokyor&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tokyo_R (@TokyoRCommunity) &lt;a href=&quot;https://twitter.com/TokyoRCommunity/status/970943059956412416?ref_src=twsrc%5Etfw&quot;&gt;March 6, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;uriboのやっていき&quot;&gt;uriboのやっていき&lt;/h3&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;昨日某所で行なった「R Markdown入門」の資料を公開しました &lt;a href=&quot;https://t.co/nvD4PT4osn&quot;&gt;https://t.co/nvD4PT4osn&lt;/a&gt; デモはbinderからプレゼンテーションはブラウザからご覧ください！ &lt;a href=&quot;https://twitter.com/hashtag/rstatsj?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rstatsj&lt;/a&gt; &lt;a href=&quot;https://t.co/d83qanX1tv&quot;&gt;pic.twitter.com/d83qanX1tv&lt;/a&gt;&lt;/p&gt;&amp;mdash; Uryu Shinya (@u_ribo) &lt;a href=&quot;https://twitter.com/u_ribo/status/971958021663350785?ref_src=twsrc%5Etfw&quot;&gt;March 9, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;rラジオの今後&quot;&gt;Rラジオの今後&lt;/h3&gt;
+
+&lt;p&gt;&lt;strong&gt;今回からジングルを用意しました！&lt;/strong&gt; &lt;a href=&quot;https://dova-s.jp/_contents/author/profile148.html&quot;&gt;taron&lt;/a&gt;さんの「&lt;a href=&quot;https://dova-s.jp/bgm/play8850.html&quot;&gt;うららかでいず&lt;/a&gt;」という音源を利用させていただいております。ありがとうございます。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/R%E3%83%A9%E3%82%B8%E3%82%AA?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#Rラジオ&lt;/a&gt; にはジングルが必要なんじゃないだろうか。&lt;/p&gt;&amp;mdash; Hiroaki Yutani (@yutannihilation) &lt;a href=&quot;https://twitter.com/yutannihilation/status/964291125606428672?ref_src=twsrc%5Etfw&quot;&gt;February 16, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;GitHub IssuesやSlackの#radioチャンネルもご覧ください！引き続き出演者も募集しています。&lt;/p&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/10</guid>
+        <enclosure url="https://rlangradio.org/audio/10.mp3" length="8055580" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>R, Python, SASの三言語を使いこなすy_mattuをゲストに迎え、コミュニティ内での初心者向け資料、y__mattuのパッケージ開発話などについて話しました。</itunes:subtitle>
+        <itunes:duration>00:33:34</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>9. rstudio::conf 2018 振り返りPart2 グローバル進出しよう</title>
+        <link>https://rlangradio.org/episode/9</link>
+        <pubDate>Wed, 21 Feb 2018 07:36:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;uriboとyutannihilationが振り返るrstudio::conf 2018。Rパッケージ開発状況、RStudio Community、tibble出力問題について話しました。&lt;/p&gt;
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;h3 id=&quot;r-lib&quot;&gt;r-lib&lt;/h3&gt;
+
+&lt;h3 id=&quot;tibbleやりすぎ問題&quot;&gt;tibbleやりすぎ問題&lt;/h3&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;While I like the way the new version of tibble prints everything prettier, this seems mysterious to me: why are only top 3 digits highlighted? &lt;a href=&quot;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rstats&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/tidyverse?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#tidyverse&lt;/a&gt; &lt;a href=&quot;https://t.co/pzSsCtakUS&quot;&gt;pic.twitter.com/pzSsCtakUS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Hiroaki Yutani (@yutannihilation) &lt;a href=&quot;https://twitter.com/yutannihilation/status/945816976525475840?ref_src=twsrc%5Etfw&quot;&gt;December 27, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tidyverse/tibble/issues/346&quot;&gt;option to disable new print method color scheme #346&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ddtx&quot;&gt;DDTX&lt;/h3&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;R仕事なくなったおじさん(?) からのタレコミ&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://datadaytexas.com/2018-r-user-day/news&quot;&gt;Data Day Texas (DDTX) 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://livefreeordichotomize.com/2018/01/28/wrangling-data-day-texas-slides/&quot;&gt;Wrangling Data Day Texas Slides&lt;/a&gt;… 資料まとめ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;gghighlightブーム&quot;&gt;gghighlightブーム&lt;/h3&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;ja&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Such a 🆒 viz ⚒: &amp;quot;Intro to gghighlight: Highlight ggplot lines &amp;amp; points w/ predicates&amp;quot; by &lt;a href=&quot;https://twitter.com/yutannihilation?ref_src=twsrc%5Etfw&quot;&gt;@yutannihilation&lt;/a&gt; &lt;a href=&quot;https://t.co/SPVeKw0UdN&quot;&gt;https://t.co/SPVeKw0UdN&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rstats&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/dataviz?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#dataviz&lt;/a&gt; &lt;a href=&quot;https://t.co/VsSpXUZn88&quot;&gt;pic.twitter.com/VsSpXUZn88&lt;/a&gt;&lt;/p&gt;&amp;mdash; Mara Averick (@dataandme) &lt;a href=&quot;https://twitter.com/dataandme/status/957450414827495425?ref_src=twsrc%5Etfw&quot;&gt;2018年1月28日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/Atsushi776/items/c7260806a597d4553ef2&quot;&gt;gghighlightを汎用的にしたい(中途半端)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/Atsushi776/items/8cf30d10821ec83d696d&quot;&gt;gghighlight汎用化2
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;magrittr&quot;&gt;magrittr&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/magrittr/index.html&quot;&gt;CRAN - magrittr: A Forward-Pipe Operator for R
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;ja&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;これから話す内容です。パイプ演算子自作入門 &lt;a href=&quot;https://t.co/zzVyeIIKEX&quot;&gt;https://t.co/zzVyeIIKEX&lt;/a&gt;&lt;a href=&quot;https://twitter.com/hashtag/TokyoR?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#TokyoR&lt;/a&gt;&lt;/p&gt;&amp;mdash; igjit (@igjit) &lt;a href=&quot;https://twitter.com/igjit/status/954634792032546816?ref_src=twsrc%5Etfw&quot;&gt;2018年1月20日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;ja&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;何気ないパイプ %&amp;gt;% が非パイプユーザーの心をきずつけた&lt;/p&gt;&amp;mdash; h(o x o_)m＜ 何気ないパイプが非パイプユーザーをきずつけた (@hoxo_m) &lt;a href=&quot;https://twitter.com/hoxo_m/status/961225420535300098?ref_src=twsrc%5Etfw&quot;&gt;2018年2月7日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h3 id=&quot;user&quot;&gt;UseR!&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://user2018.r-project.org/&quot;&gt;user! 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.user2019.fr/&quot;&gt;user! 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.r-project.org/conferences.html&quot;&gt;Conferences&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ユタニ近況&quot;&gt;ユタニ近況&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/yutannihilat_en&quot;&gt;@yutannihilat_en&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://notchained.hatenablog.com/entry/2018/01/27/130728&quot;&gt;usethis::use_dev_version()が、おれの道を教えてくれる。（あるいは、CRANにリリースした後にやるべきこと）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/a01_naut/n/nb2f2b3fc39cb&quot;&gt;逆噴射文体&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;rstudio-community&quot;&gt;rstudio community&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://community.rstudio.com/&quot;&gt;rstudio community&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;心をきずつけてしまったお詫びに、勢いでR Studio Community に大喜利しにいってしまった。反省はしてない。&lt;/p&gt;&amp;mdash; ちょびっと活動開始 (@TobakuCptlsm) &lt;a href=&quot;https://twitter.com/TobakuCptlsm/status/961230260128772096?ref_src=twsrc%5Etfw&quot;&gt;February 7, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;RStudio Communityはいいですぞ。みんなももっと大喜利しにいこうよ。&lt;/p&gt;&amp;mdash; Hiroaki Yutani (@yutannihilation) &lt;a href=&quot;https://twitter.com/yutannihilation/status/961237211189407744?ref_src=twsrc%5Etfw&quot;&gt;February 7, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://community.rstudio.com/t/why-does-head-show-6-rows-by-default/3259&quot;&gt;Why does head() show 6 rows by default?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;batpigandme/tverse_contributing: 📽 &amp;quot;contributing to the tidyverse&amp;quot; from rstudio::conf(2018) &lt;a href=&quot;https://t.co/pOEvgBwwPy&quot;&gt;https://t.co/pOEvgBwwPy&lt;/a&gt; head()とかtail()のデフォルトがなぜ6という中途半端な行数なのかという話おもしろいw&lt;/p&gt;&amp;mdash; Hiroaki Yutani (@yutannihilation) &lt;a href=&quot;https://twitter.com/yutannihilation/status/960531118297460736?ref_src=twsrc%5Etfw&quot;&gt;February 5, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;話題になったパッケージ&quot;&gt;話題になったパッケージ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/roxygen2/index.html&quot;&gt;roxygen2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/tibble/index.html&quot;&gt;tibble&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rstudio/shinytest&quot;&gt;shinytest&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/gghighlight/index.html&quot;&gt;gghighlight&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/magrittr/index.html&quot;&gt;magrittr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/9</guid>
+        <enclosure url="https://rlangradio.org/audio/9.mp3" length="5956077" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>uriboとyutannihilationが振り返るrstudio::conf 2018。Rパッケージ開発状況、RStudio Community、tibble出力問題について話しました。</itunes:subtitle>
+        <itunes:duration>00:24:49</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>8. rstudio::conf 2018 振り返りPart1 ユタニ、ウリュウのお気に入りセッション</title>
+        <link>https://rlangradio.org/episode/8</link>
+        <pubDate>Thu, 15 Feb 2018 20:55:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;アメリカで行われたRStudio主催のカンファレンスの振り返りとして、uriboとyutannihilationが情報交換を行いました。&lt;/p&gt;
+          &lt;h2 id=&quot;ばしょ&quot;&gt;ばしょ&lt;/h2&gt;
+
+&lt;p&gt;@Discord (つくば - とーきょー)&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rstudio.com/conference/&quot;&gt;rstudio::conf 2018 All things R &amp;amp; RStudio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tidyverse.org&quot;&gt;Tidyverse&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/RStudioConf?src=hash&quot;&gt;Twitter#RStudioConf&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rstudio/rstudio-conf/tree/master/2018&quot;&gt;RStudio公式の資料まとめリポジトリ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://paulvanderlaken.com/2018/02/08/rstudioconf-2018-summary/&quot;&gt;rstudio::conf 2018 summary&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://twitter.com/hashtag/rstudioconf?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rstudioconf&lt;/a&gt; - I shot a few pix when we were in San Diego so I put them on a shared Goog Pix album. Take what you want, leave some if you have pix to share. Tag friends. &lt;a href=&quot;https://t.co/1ABqnnvn8f&quot;&gt;https://t.co/1ABqnnvn8f&lt;/a&gt; cc &lt;a href=&quot;https://twitter.com/dataandme?ref_src=twsrc%5Etfw&quot;&gt;@dataandme&lt;/a&gt; &lt;a href=&quot;https://twitter.com/topepos?ref_src=twsrc%5Etfw&quot;&gt;@topepos&lt;/a&gt; &lt;a href=&quot;https://twitter.com/jaredlander?ref_src=twsrc%5Etfw&quot;&gt;@jaredlander&lt;/a&gt; &lt;a href=&quot;https://twitter.com/robinson_es?ref_src=twsrc%5Etfw&quot;&gt;@robinson_es&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hugobowne?ref_src=twsrc%5Etfw&quot;&gt;@hugobowne&lt;/a&gt; &lt;a href=&quot;https://twitter.com/rstudio?ref_src=twsrc%5Etfw&quot;&gt;@rstudio&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hadleywickham?ref_src=twsrc%5Etfw&quot;&gt;@hadleywickham&lt;/a&gt;&lt;/p&gt;&amp;mdash; JD Long (@CMastication) &lt;a href=&quot;https://twitter.com/CMastication/status/962799853372833796?ref_src=twsrc%5Etfw&quot;&gt;February 11, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Highlight of &lt;a href=&quot;https://twitter.com/hashtag/rstudioconf?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rstudioconf&lt;/a&gt;. Being an official mic thrower. &lt;a href=&quot;https://twitter.com/hashtag/blessed?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#blessed&lt;/a&gt; &lt;a href=&quot;https://t.co/ZetI3to5Bq&quot;&gt;pic.twitter.com/ZetI3to5Bq&lt;/a&gt;&lt;/p&gt;&amp;mdash; Tanya Cashorali (@tanyacash21) &lt;a href=&quot;https://twitter.com/tanyacash21/status/959980622474240005?ref_src=twsrc%5Etfw&quot;&gt;February 4, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;This was a nice installation. &lt;a href=&quot;https://t.co/T9SSttTHCh&quot;&gt;pic.twitter.com/T9SSttTHCh&lt;/a&gt;&lt;/p&gt;&amp;mdash; Romain François (@romain_francois) &lt;a href=&quot;https://twitter.com/romain_francois/status/959179646154625024?ref_src=twsrc%5Etfw&quot;&gt;February 1, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;👀&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;なにこの目玉...&lt;/p&gt;&amp;mdash; Hiroaki Yutani (@yutannihilation) &lt;a href=&quot;https://twitter.com/yutannihilation/status/959193497843646464?ref_src=twsrc%5Etfw&quot;&gt;February 1, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;rstudio::conf、一番気になってるのはこの「Modeling in the Tidyverse」というスライドです。 &lt;a href=&quot;https://t.co/g1jkN4aGBt&quot;&gt;https://t.co/g1jkN4aGBt&lt;/a&gt;&lt;/p&gt;&amp;mdash; Hiroaki Yutani (@yutannihilation) &lt;a href=&quot;https://twitter.com/yutannihilation/status/961572930462261248?ref_src=twsrc%5Etfw&quot;&gt;February 8, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/topepo&quot;&gt;@topepo (Max Kuhn)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/atiYXm7JZv0&quot; frameborder=&quot;0&quot; allow=&quot;autoplay; encrypted-media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://niszet.hatenablog.com/entry/2018/02/04/000000&quot;&gt;rstudio::conf 2018の資料を探す&lt;/a&gt;: &lt;a href=&quot;https://twitter.com/niszet0&quot;&gt;@niszet0&lt;/a&gt;さんのまとめ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/krlmlr/drake-pitch&quot;&gt;The drake R package make for R&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;そういえばRStudio::Conf、私の一押しセッション &lt;a href=&quot;https://t.co/r8AEr7LQT0&quot;&gt;https://t.co/r8AEr7LQT0&lt;/a&gt; hereやfs, usethisパッケージなど盛りだくさんです。当たり前になっていることを鑑みてみるのも大事。恥ずかしながら、RファイルからMarkdownを出力できるのも初めて知りました...&lt;/p&gt;&amp;mdash; Uryu Shinya (@u_ribo) &lt;a href=&quot;https://twitter.com/u_ribo/status/961584187055591425?ref_src=twsrc%5Etfw&quot;&gt;February 8, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tidyverse.org/articles/2017/12/workflow-vs-script/&quot;&gt;Project-oriented workflow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/jennybc/data-rectangling-1&quot;&gt;Data Rectangling &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;The only two things that make &lt;a href=&quot;https://twitter.com/JennyBryan?ref_src=twsrc%5Etfw&quot;&gt;@JennyBryan&lt;/a&gt; 😤😠🤯. Instead use projects + here::here() &lt;a href=&quot;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rstats&lt;/a&gt; &lt;a href=&quot;https://t.co/GwxnHePL4n&quot;&gt;pic.twitter.com/GwxnHePL4n&lt;/a&gt;&lt;/p&gt;&amp;mdash; Hadley Wickham (@hadleywickham) &lt;a href=&quot;https://twitter.com/hadleywickham/status/940021008764846080?ref_src=twsrc%5Etfw&quot;&gt;December 11, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rstudio/rstudio-conf/blob/master/2018/TeachTidyverse-DavidRobinson/TeachTidyverse-DavidRobinson.pdf&quot;&gt;Teach tidyverse to beginners&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://varianceexplained.org/r/teach-tidyverse/&quot;&gt;Teach the tidyverse to beginners&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://varianceexplained.org/r/teach-hard-way/&quot;&gt;Don’t teach students the hard way first&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://edzer.github.io/rstudio_conf/#1&quot;&gt;Tidy Spatial Data Aysis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://niszet.hatenablog.com/entry/2018/02/03/195532&quot;&gt;zeallotパッケージがCRANに公開されていた（小追記あり）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nteetor/presentations/tree/master/rstudio-conf-2018#readme&quot;&gt;An assignment operator to unpack vectors and lists&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://notchained.hatenablog.com/entry/2017/08/07/213429&quot;&gt;メモ：%&amp;lt;-%、%»%&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Last year&amp;#39;s Rstudio conference had about 400 attendees. This year, more than 1,100 registered and about 1,200 expected. Sign of growing interest in RStudio/tidyverse, R language in general or both &lt;a href=&quot;https://twitter.com/hashtag/rstudioconf?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rstudioconf&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rstats&lt;/a&gt; &lt;a href=&quot;https://t.co/ewmTwR6BWn&quot;&gt;pic.twitter.com/ewmTwR6BWn&lt;/a&gt;&lt;/p&gt;&amp;mdash; Sharon Machlis (@sharon000) &lt;a href=&quot;https://twitter.com/sharon000/status/959474531566931968?ref_src=twsrc%5Etfw&quot;&gt;February 2, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;en&quot; dir=&quot;ltr&quot;&gt;Thank you everyone in attendance for a truly wonderful rstudio::conf 2018. Your contribution to this community is inspiring. We&amp;#39;ll be back next year in Austin, TX. We hope to see you there! &lt;a href=&quot;https://twitter.com/hashtag/rstudioconf?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rstudioconf&lt;/a&gt; &lt;a href=&quot;https://twitter.com/hashtag/rstats?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#rstats&lt;/a&gt;&lt;/p&gt;&amp;mdash; RStudio (@rstudio) &lt;a href=&quot;https://twitter.com/rstudio/status/959974228635209729?ref_src=twsrc%5Etfw&quot;&gt;February 4, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;話題になったパッケージ&quot;&gt;話題になったパッケージ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/topepo/caret&quot;&gt;caret&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/topepo/recipes&quot;&gt;recipes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/topepo/rsample&quot;&gt;rsample&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/topepo/tidyposterior&quot;&gt;tidyposterior&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ropensci/drake&quot;&gt;drake&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://krlmlr.github.io/here/&quot;&gt;here&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/r-lib/usethis&quot;&gt;usethis&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fs.r-lib.org&quot;&gt;fs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://purrr.tidyverse.org&quot;&gt;purrr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/andrewpbray/infer&quot;&gt;infer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nteetor/zeallot&quot;&gt;zeallot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/8</guid>
+        <enclosure url="https://rlangradio.org/audio/8.mp3" length="5134020" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>アメリカで行われたRStudio主催のカンファレンスの振り返りとして、uriboとyutannihilationが情報交換を行いました。</itunes:subtitle>
+        <itunes:duration>00:21:23</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>7. Expanding the world from R</title>
+        <link>https://rlangradio.org/episode/7</link>
+        <pubDate>Mon, 18 Dec 2017 07:32:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;シリコンバレーのスタートアップ、exploratoryのCEO、KanAugustさんと一緒にuriboが、Rユーザの楽しみを共有したい、米国でのデータサイエンス事情、R人気、企業やアカデミアでのプログラミング教育、Rパッケージでクリエイティビティを高める、limeやedarfといったデータサイエンスの手法を身近にしていくためのパッケージといった内容を話します。&lt;/p&gt;
+          &lt;h2 id=&quot;ばしょ&quot;&gt;ばしょ&lt;/h2&gt;
+
+&lt;p&gt;Tsukuba, Japan - California, US&lt;/p&gt;
+
+&lt;h2 id=&quot;告知&quot;&gt;告知&lt;/h2&gt;
+
+&lt;p&gt;人気のExploratory主催、&lt;a href=&quot;https://exploratory.io/training-jp&quot;&gt;データサイエンス・ブートキャンプ&lt;/a&gt;が2018年1月に渋谷で開催されます。&lt;/p&gt;
+
+&lt;p&gt;今回のゲストの @KanAugust さんからRラジオをお聴きの皆さんへディスカウントのプレゼントをいただきました！
+Exploratoryのウェブサイトのチャットフォームよりディスカウントのキャンペーンを適用いただけるようです。&lt;/p&gt;
+
+&lt;p&gt;https://exploratory.io&lt;/p&gt;
+
+&lt;p&gt;キーワードは「third wave」「第3の波」です。みなさんぜひ！&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://exploratory.io&quot;&gt;Exploratory&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;オッケー、ぜひやりましょう。呼んでいただければ、SFからいつでも参加します！&lt;/p&gt;&amp;mdash; Kan Nishida (@KanAugust) &lt;a href=&quot;https://twitter.com/KanAugust/status/823679890348068864?ref_src=twsrc%5Etfw&quot;&gt;January 23, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/pmarca&quot;&gt;@pmarca Marc Andreessen&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/マーク・アンドリーセン&quot;&gt;マーク・アンドリーセン&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spark.apache.org&quot;&gt;Spark&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://a16z.com&quot;&gt;Andreessen Horowitz – Software Is Eating the World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wsj.com/articles/SB10001424053111903480904576512250915629460&quot;&gt;Why Software Is Eating The World&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/learn/machine-learning&quot;&gt;Courseraの機械学習プログラム&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/AndrewYNg&quot;&gt;@AndrewYNg&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.andrewng.org&quot;&gt;Andrew Ng&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.coursera.org/instructor/rdpeng&quot;&gt;Roger D. Peng&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fromthebottomoftheheap.net/2015/06/03/my-aversion-to-pipes/&quot;&gt;パイプ論争 My aversion to pipes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stackoverflow.blog/2017/09/06/incredible-growth-python/&quot;&gt;The Incredible Growth of Python&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/drob&quot;&gt;@drob (David Robinson)&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.exploratory.io/第３の波-ai-機械学習-データサイエンスの民主化-d43162927d0b&quot;&gt;第3の波&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/KanNishida/items/8c80934d20a4981f73c1&quot;&gt;AirbnbのデータサイエンティストはなぜRが好きなのか?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/KanNishida/items/0be0eac90688d215c926&quot;&gt;データサイエンスのすゝめ — シリコンバレーに全てを飲み込まれる前に&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.exploratory.io&quot;&gt;Exploratory ブログ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://exploratory.io/note/kanaugust/7705459636358762&quot;&gt;Exploratory’s Weekly Update&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.exploratory.io/コホート分析で明らかになった突っ張り横綱の短命-f2f016ec22b&quot;&gt;コホート分析で明らかになった突っ張り横綱の短命&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://exploratory.io/note/kanaugust/5619378403788864&quot;&gt;アメリカにおける日系人の強制収容&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/double-y/items/54b3eb9b90177a9b6b5a&quot;&gt;安倍政権による北朝鮮ミサイル打ち上げ関与の陰謀論をデータから検証してみた&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/double-y&quot;&gt;@double-y&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hoxo-m.com&quot;&gt;株式会社ホクソエム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://notchained.hatenablog.com/entry/2015/03/25/001527&quot;&gt;匿名知的集団ホクソエム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CRAN欲については&lt;a href=&quot;https://rlangradio.org/episode/6&quot;&gt;#6&lt;/a&gt;でも&lt;a href=&quot;https://ymattu.github.io/&quot;&gt;@y__matsu&lt;/a&gt;が触れています&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://business-science.github.io/tidyquant/index.html&quot;&gt;tidyquantパッケージ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/sinhrks/lime&quot;&gt;LIME&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;ちょうどTokyo.Rでも紹介がありました。&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;LTの資料です &lt;a href=&quot;https://twitter.com/hashtag/tokyor?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#tokyor&lt;/a&gt; &lt;a href=&quot;https://t.co/UCak7x9pS2&quot;&gt;https://t.co/UCak7x9pS2&lt;/a&gt;&lt;/p&gt;&amp;mdash; sinhrks (@sinhrks) &lt;a href=&quot;https://twitter.com/sinhrks/status/941970320566599683?ref_src=twsrc%5Etfw&quot;&gt;December 16, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/edarf/vignettes/edarf.html&quot;&gt;Exploratory Data Analysis Using Random Forests&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;話題になったパッケージ&quot;&gt;話題になったパッケージ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/reshape/index.html&quot;&gt;reshape: dplyrの前身的なデータ操作パッケージ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/dplyr/index.html&quot;&gt;dplyr: 定番となっているデータ操作パッケージ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/magrittr/index.html&quot;&gt;magrittr: パイプ演算子等の補助機能を実装&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/stringr/index.html&quot;&gt;stringr: 文字列操作&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/lubridate/index.html&quot;&gt;lubridate: 日付・時間操作&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/tidyr/index.html&quot;&gt;tidyr: データ整形&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/magick/index.html&quot;&gt;magic: 画像処理&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/geojsonio/index.html&quot;&gt;geojsonio: geojsonファイルのやり取り&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;sf: simple featureを実装した地理空間データ操作、空間処理のためのパッケージ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/tidyquant/index.html&quot;&gt;tidyquant&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/lime/index.html&quot;&gt;lime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/edarf/index.html&quot;&gt;edarf&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/7</guid>
+        <enclosure url="https://rlangradio.org/audio/7.mp3" length="18111365" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>シリコンバレーのスタートアップ、exploratoryのCEO、KanAugustさんと一緒にuriboが、Rユーザの楽しみを共有したい、米国でのデータサイエンス事情、R人気、企業やアカデミアでのプログラミング教育、Rパッケージでクリエイティビティを高める、limeやedarfといったデータサイエンスの手法を身近にしていくためのパッケージといった内容を話します。</itunes:subtitle>
+        <itunes:duration>01:15:28</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>6. Rコミュニティ四方山話</title>
+        <link>https://rlangradio.org/episode/6</link>
+        <pubDate>Sat, 25 Nov 2017 07:32:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;Tokyo.R運営メンバでTokyoR Barに集まり、最近のRとRコミュニティについてお喋りしました。&lt;/p&gt;
+          &lt;h2 id=&quot;ばしょ&quot;&gt;ばしょ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://tokyor.bar/&quot;&gt;TokyoR bar &amp;amp; caffe @六本木&lt;/a&gt;
+	→ ソファー席に座ったら少しマイクが遠くてBGMが大きくなっちゃいましたm(_ _ )m&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;p&gt;####Rコミュニティ色々&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;第65回 TokyoR&lt;/a&gt;
+  → Tokyo.R公式ツイッター @TokyoRCommunitiy
+    &lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;ja&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;【LT募集】12/16(土)に開催予定の &lt;a href=&quot;https://twitter.com/hashtag/TokyoR?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#TokyoR&lt;/a&gt; にて、LTして頂ける方を募集します。本アカウントにご連絡頂きますよう、お願い致します。&lt;/p&gt;&amp;mdash; Tokyo_R (@TokyoRCommunity) &lt;a href=&quot;https://twitter.com/TokyoRCommunity/status/932926913697300480?ref_src=twsrc%5Etfw&quot;&gt;2017年11月21日&lt;/a&gt;&lt;/blockquote&gt;
+    &lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://prs.ism.ac.jp/useRjp/hiki.cgi?2017%C7%AF%C5%D9+%A5%C7%A1%BC%A5%BF%B2%F2%C0%CF%B4%C4%B6%ADR%A4%CE%C0%B0%C8%F7%A4%C8%CD%F8%CD%D1&quot;&gt;「データ解析環境Rの整備と利用」&lt;/a&gt; 統計数理研究所 共同研究集会&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://japanr.net/&quot;&gt;Japan.R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atnd.org/events/90406&quot;&gt;Hijiyama.R the final!!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;yutannihilationさんのブログ: &lt;a href=&quot;http://notchained.hatenablog.com/&quot;&gt;Technically, technophobic.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Uriboさんのブログ: &lt;a href=&quot;http://uribo.hatenablog.com/&quot;&gt;まだ厨二病&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;松村くんのブログ：&lt;a href=&quot;http://y-mattu.hatenablog.com/&quot;&gt;データ解析備忘録&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tjo.hatenablog.com/&quot;&gt;六本木で働くデータサイエンティストのブログ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;####グループ内チャットツール&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/uri/items/5583e91bb5301ed5a4ba&quot;&gt;r-wakalangへようこそ&lt;/a&gt;、Uriboさんのslackチャネル紹介記事&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nature.com/news/how-scientists-use-slack-1.21228&quot;&gt;“How Scientists Use Slack”, Nature 2016, Perkel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://go.chatwork.com/ja/&quot;&gt;Chatwork&lt;/a&gt;、日本語なんですね。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;####他の言語のコミュニティ&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sas.com/ja_jp/usergroups.html&quot;&gt;SASユーザー総会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pycon.jp/&quot;&gt;PYCON&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;####Tokyo.Rに来てから使うようになりました(約2名)&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dplyr.tidyverse.org/&quot;&gt;dplyr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ggplot2.tidyverse.org/&quot;&gt;ggplot&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;ja&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;若者の base 関数離れ&lt;/p&gt;&amp;mdash; h(o x o_)m＜🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇 (@hoxo_m) &lt;a href=&quot;https://twitter.com/hoxo_m/status/933166142750724096?ref_src=twsrc%5Etfw&quot;&gt;2017年11月22日&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;####CRAN欲&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ymattu/MlBayesOpt&quot;&gt;MlBayesOpt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/yh0sh/items/1df89b12a8dcd15bd5aa&quot;&gt;XGBoost&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/hoxo_m/ss-77421091?ref=http://y-mattu.hatenablog.com/&quot;&gt;機械学習のためのベイズ最適化入門 &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanr.connpass.com/event/54006/&quot;&gt;Global Tokyo.R #2 &lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;####最近の四方山話&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://uribo.hatenablog.com/entry/2017/07/16/100253&quot;&gt;Rおじさん、Pythonistaになる&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://abicky.net/2012/04/25/090953/&quot;&gt;R の apply 徹底解説 〜これで for 文も卒業！〜&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://heavywatal.github.io/rstats/purrr.html&quot;&gt;purrr — ループ処理やapply系関数の決定版 &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kazutan.github.io/kazutanR/Rmd_intro.html&quot;&gt;R Markdown入門&lt;/a&gt;: ぞうさんのページ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rmarkdown.rstudio.com/revealjs_presentation_format.html&quot;&gt;revealjs&lt;/a&gt;: スライドを作る&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;####どの教科書問題
+→ Japan.R / Tokyo.Rに持ってくるとサインを貰えるかも！？&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B073GTHY1B&quot;&gt;『データサイエンティストのための最新知識と実践』 &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kyoritsu-pub.co.jp/bookdetail/9784320112421&quot;&gt;アヒル本こと『StanとRでベイズ統計モデリング』&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4320113160&quot;&gt;犬4匹本こと『ベイズ統計モデリング』&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kyoritsu-pub.co.jp/bookdetail/9784320124264&quot;&gt;パンダ本こと『Rプログラミング本格入門―達人データサイエンティストへの道―』&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/6</guid>
+        <enclosure url="https://rlangradio.org/audio/6.mp3" length="14016627" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>Tokyo.R運営メンバでTokyoR Barに集まり、最近のRとRコミュニティについてお喋りしました。</itunes:subtitle>
+        <itunes:duration>38:30</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>5. 問題解決のための一つの選択肢としてのStanやR</title>
+        <link>https://rlangradio.org/episode/5</link>
+        <pubDate>Fri, 24 Nov 2017 07:32:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;uriboが松浦健太郎さんの書籍（アヒル本）執筆話や統計モデリング、ggplot2による可視化のコツを聞いてみました。&lt;/p&gt;
+          &lt;h2 id=&quot;ばしょ&quot;&gt;ばしょ&lt;/h2&gt;
+
+&lt;p&gt;つくばイキリ空間(uriboの家)&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kyoritsu-pub.co.jp/bookdetail/9784320112421&quot;&gt;アヒル本こと、StanとRでベイズ統計モデリング&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/MatsuuraKentaro/RStanBook&quot;&gt;『StanとRでベイズ統計モデリング』 サポートページ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mc-stan.org&quot;&gt;Stan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;秋の課題図書📙岩波DS地理空間情報処理と松浦Stan本（ブロック本）。どちらも頂きものです。ありがとうございます🙌 &lt;a href=&quot;https://t.co/50Rz8Yl9fS&quot;&gt;pic.twitter.com/50Rz8Yl9fS&lt;/a&gt;&lt;/p&gt;&amp;mdash; Uryu Shinya (@u_ribo) &lt;a href=&quot;https://twitter.com/u_ribo/status/792149574005600257?ref_src=twsrc%5Etfw&quot;&gt;October 28, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;松浦Stan本ってStanの陰に隠れてるけど最初の方の章はよく使われる確率分布がまとまっていたり統計解析の入門書としてもとても良いよね&lt;a href=&quot;https://t.co/qfVkabvAyA&quot;&gt;https://t.co/qfVkabvAyA&lt;/a&gt;&lt;/p&gt;&amp;mdash; h(o x o_)m＜🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇🙇 (@hoxo_m) &lt;a href=&quot;https://twitter.com/hoxo_m/status/933199044674908160?ref_src=twsrc%5Etfw&quot;&gt;November 22, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://statmodeling.hatenablog.com/&quot;&gt;beroberoさんブログ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Ξ&quot;&gt;ξ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kyoritsu-pub.co.jp/bookdetail/9784320112414&quot;&gt;Rで楽しむ統計&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://oku.edu.mie-u.ac.jp/~okumura/&quot;&gt;著者の奥村さんのサイト&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;アヒル本勉強会
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.kg-rcsp.com/news/osaka-stan20111123/&quot;&gt;Osaka.Stan&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://norimune.net/2871&quot;&gt;『StanとRでベイズ統計モデリング』読書会（Osaka.Stan#1）&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://spml4dm.connpass.com/event/51965/&quot;&gt;水曜Stan&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://0f1304e65103e294f80c0307ba.doorkeeper.jp/events/56474&quot;&gt;ベイズ統計勉強会&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;筆者降臨デーでした＾＾　RSTAN &lt;a href=&quot;https://t.co/sO59YaC4yf&quot;&gt;pic.twitter.com/sO59YaC4yf&lt;/a&gt;&lt;/p&gt;&amp;mdash; ZAORIKU・M (@zaoriku0) &lt;a href=&quot;https://twitter.com/zaoriku0/status/847087311431000064?ref_src=twsrc%5Etfw&quot;&gt;March 29, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hosho- .ees.hokudai.ac.jp/~kubo/ce/IwanamiBook.html&quot;&gt;久保本、緑本こと、データ解析のための統計モデリング入門：一般化線形モデル・階層ベイズモデル・MCMC&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://hosho.ees.hokudai.ac.jp/~kubo/log/index.html&quot;&gt;KuboLog ぎょーむ日誌&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mrc-bsu.cam.ac.uk/software/bugs/&quot;&gt;BUGS&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.mrc-bsu.cam.ac.uk/software/bugs/the-bugs-project-winbugs/&quot;&gt;WinBUGS&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mcmc-jags.sourceforge.net&quot;&gt;JAGS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;Stan より JAGS のほうがわかりやすいんじゃない…と考えていたのですが…月に一度のデータ解析こんさる，glm()の使用もおぼつかなかった皆さんが突然 Stan で状態空間モデルとか作っていて，びっくり仰天．「なぜ Stan?」とお尋ねすると…日本語記事の多いから，とのこと&lt;/p&gt;&amp;mdash; 久保拓弥 (@KuboBook) &lt;a href=&quot;https://twitter.com/KuboBook/status/905615612285554688?ref_src=twsrc%5Etfw&quot;&gt;September 7, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rpubs.com/uri-sy/ito2015_bayesian_estimate_dh_allometry&quot;&gt;[WIP]種間差や測定誤差を考慮した多樹種のアロメトリーのパラメータ推定をRStanで階層モデル化（伊東 2015）の追試(Stanちょっとやってた頃)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pymc-devs.github.io/pymc/#&quot;&gt;PyMC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://edwardlib.org&quot;&gt;Edward&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/iwanamidatascience/&quot;&gt;岩波データサイエンス シリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/berobero11/lt-40565180&quot;&gt;データ解析で割安賃貸物件を探せ！（山手線沿線編）&lt;/a&gt;… 引っ越し&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/stan-ja/stan-ja&quot;&gt;Stanマニュアル 日本語への翻訳プロジェクト&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;ことしもベイズ統計モデリングの講義をしてきました。資料はGitHubにおいてあります。&lt;a href=&quot;https://t.co/Jhou8zoLoh&quot;&gt;https://t.co/Jhou8zoLoh&lt;/a&gt;&lt;/p&gt;&amp;mdash; ITÔ, Hiroki (@monotropastrum) &lt;a href=&quot;https://twitter.com/monotropastrum/status/931519179445870594?ref_src=twsrc%5Etfw&quot;&gt;November 17, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gnuplot.info&quot;&gt;gunplot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.digital-biology.co.jp/allianced/products/genespringgx/&quot;&gt;GeneSpring&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://docs.ggplot2.org/current/&quot;&gt;ggplot2公式マニュアル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://cran.r-project.org/web/packages/bayesplot&quot;&gt;bayesplot&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/jgabry&quot;&gt;Jonah Gabry (コミッター)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://mc-stan.org/shinystan/&quot;&gt;shinystan&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2017/stan&quot;&gt;Stan Advent Calendar 2017&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/hiroshimabayes/&quot;&gt;魁!!広島ベイズ塾&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kyoritsu-pub.co.jp/bookdetail/9784320124264&quot;&gt;Rプログラミング本格入門―達人データサイエンティストへの道―  (パンダ本)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/5</guid>
+        <enclosure url="https://rlangradio.org/audio/5.mp3" length="9238317" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>uriboが松浦健太郎さんの書籍（アヒル本）執筆話や統計モデリング、ggplot2による可視化のコツを聞いてみました。</itunes:subtitle>
+        <itunes:duration>38:30</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>4. Youは何しにPyhtonへ？</title>
+        <link>https://rlangradio.org/episode/4</link>
+        <pubDate>Mon, 06 Nov 2017 19:30:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;_stakayaが、piroyoungが何故Pythonへと傾倒していったのか、その謎に迫ります&lt;/p&gt;
+          &lt;h2 id=&quot;ばしょ&quot;&gt;ばしょ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.ginza-renoir.co.jp/myspace/booking/shops/view/%E7%A5%9E%E7%94%B0%E5%8D%97%E5%8F%A3%E9%A7%85%E5%89%8D%E5%BA%97&quot;&gt;ルノアール神田南口店&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tensorflow/tensorflow&quot;&gt;TensorFlow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://d.hatena.ne.jp/echizen_tm/20100628/1277735444&quot;&gt;logsumexp(log sum exponential)とは&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/python/&quot;&gt;Google Cloud Platform(GCP)でのPython&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/SatoYu1ro/scala-36162790&quot;&gt;１５分でざっくり分かるScala入門&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.mwsoft.jp/programming/numpy/docker.html&quot;&gt;DockerでPythonの実行環境を作ったメモ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/shiumachi/status/925894854466445312&quot;&gt;Apache Kudu(ラジオ中に後で調べる言ってたのはこれでした)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pandas-dev/pandas&quot;&gt;pandas&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mc-stan.org/&quot;&gt;Stan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.sophia-it.com/content/DAU&quot;&gt;DAU&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/pubsub/?hl=ja&quot;&gt;CLOUD PUB/SUB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kubernetes.io/&quot;&gt;Kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/BayesianFreaks/scikit-stan&quot;&gt;scikit-stan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pandas-ml&quot;&gt;pandas-ml&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/4</guid>
+        <enclosure url="https://rlangradio.org/audio/4.mp3" length="8618275" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>_stakayaが、piroyoungが何故Pythonへと傾倒していったのか、その謎に迫ります</itunes:subtitle>
+        <itunes:duration>17:57</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>3. ぞうさんのRとの付き合いかた</title>
+        <link>https://rlangradio.org/episode/3</link>
+        <pubDate>Sat, 04 Nov 2017 19:30:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;uriboとkazutanの2人で、ぞうさん通信、rmarkdownに対するこだわり、仕事の中でのRとの付き合いについて話しました。&lt;/p&gt;
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://stat.ethz.ch/pipermail/r-announce/2008/000485.html&quot;&gt;R 2.8.0 is released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://timelyportfolio.github.io/rCharts_timeline_r/&quot;&gt;R Release History 1997-2013&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.kz-md.net/?page_id=1118&quot;&gt;ぞうさん通信&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;ぞうさん通信のような立派なキュレーションがないとすべての情報を補足できないもんでして。。。&lt;/p&gt;&amp;mdash; 正しい習慣のNagi Teramo (@teramonagi) &lt;a href=&quot;https://twitter.com/teramonagi/status/753396133897134081?ref_src=twsrc%5Etfw&quot;&gt;July 14, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;お、次はぞうさん。&lt;a href=&quot;https://twitter.com/hashtag/%E7%8A%AC4%E5%8C%B9%E6%9C%AC?src=hash&amp;amp;ref_src=twsrc%5Etfw&quot;&gt;#犬4匹本&lt;/a&gt;　裏話とかあれば、聞けたら面白いかも&lt;br /&gt;僕はぞうさん通信をよく知らないんですよね、そういえば。&lt;/p&gt;&amp;mdash; niszetr (@niszet0) &lt;a href=&quot;https://twitter.com/niszet0/status/924797654013435904?ref_src=twsrc%5Etfw&quot;&gt;October 30, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rweekly.org&quot;&gt;RWeekly&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atnd.org/events/57244&quot;&gt;R勉強会@広島(#HijiyamaR)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hiroshimar.connpass.com&quot;&gt;HiRoshima.R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bayesmodels.com&quot;&gt;Bayesian Cognitive Modeling: A Practical Course(赤い本)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/hiroshimabayes/&quot;&gt;魁!!広島ベイズ塾&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://atnd.org/events/90406&quot;&gt;R勉強会@比治山大(広島) The Final #HijiyamaR&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;メモ:&lt;br /&gt;Rのariパッケージ(Amazon Pollyを介して文字を読み上げ、Rmdから動画を作れる)には&lt;br /&gt;PhantomJS&lt;br /&gt;ffmpeg&lt;br /&gt;が必要。&lt;br /&gt;前者はwebshot::install_phantomjsでインストール。後者はMacならhomebrewでインストールできる。&lt;/p&gt;&amp;mdash; Yuya MATSUMURA (@y__mattu) &lt;a href=&quot;https://twitter.com/y__mattu/status/925065282871214080?ref_src=twsrc%5Etfw&quot;&gt;October 30, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/おしえてぞうさん&quot;&gt;#おしえてぞうさん&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/おねがいぞうさん&quot;&gt;#おねがいぞうさん&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;script async=&quot;&quot; class=&quot;speakerdeck-embed&quot; data-slide=&quot;42&quot; data-id=&quot;8ce026b16777412180b9c5a8205627ee&quot; data-ratio=&quot;1.33333333333333&quot; src=&quot;//speakerdeck.com/assets/embed.js&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kyoritsu-pub.co.jp/bookdetail/9784320113169&quot;&gt;ベイズ統計モデリング―R,JAGS,Stanによるチュートリアル&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://kazutan.github.io/DBDA2E-ja/about.html&quot;&gt;ベイズ統計モデリング&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/犬4匹本&quot;&gt;#犬4匹本&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;あ、そうでした、弊社ブースにて『ベイズ統計モデリング』&lt;a href=&quot;https://t.co/Ndzk2HmixO&quot;&gt;https://t.co/Ndzk2HmixO&lt;/a&gt; をお買い求めいただきましたお客さまに、先着でオリジナル「マグカップ」をプレゼントしています。重ねましてよろしくお願いいたします！♪ (*&amp;#39;▽&amp;#39;) &lt;a href=&quot;https://t.co/mYpapsU8NH&quot;&gt;pic.twitter.com/mYpapsU8NH&lt;/a&gt;&lt;/p&gt;&amp;mdash; 共立出版アリがと蟻 (@1738310) &lt;a href=&quot;https://twitter.com/1738310/status/904864104090812416?ref_src=twsrc%5Etfw&quot;&gt;September 5, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;本を買ってマグカップをもらおう!&lt;br /&gt;『ベイズ統計モデリング』8856円（共立出版）&lt;br /&gt;内でも盛んになってきているベイズアプローチを用いた分析の入門書。 &lt;br /&gt;『ベイズ統計モデリング』をお買い上げの方にオリジナルマグカップ差し上げています!&lt;a href=&quot;https://t.co/4MrlN6hk8B&quot;&gt;https://t.co/4MrlN6hk8B&lt;/a&gt; &lt;a href=&quot;https://t.co/Gyxq6VGXaI&quot;&gt;pic.twitter.com/Gyxq6VGXaI&lt;/a&gt;&lt;/p&gt;&amp;mdash; 書泉グランデMATH (@rikoushonotana) &lt;a href=&quot;https://twitter.com/rikoushonotana/status/922666518349008897?ref_src=twsrc%5Etfw&quot;&gt;October 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;どちくしょおおおおお！ほんまに！ほんまに！これだけは言わせろ，「開いたかっこは閉じろ！！！！」&lt;/p&gt;&amp;mdash; kosugitti (@kosugitti) &lt;a href=&quot;https://twitter.com/kosugitti/status/769080786201022465?ref_src=twsrc%5Etfw&quot;&gt;August 26, 2016&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jupyter.org&quot;&gt;jupyter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanr.connpass.com/event/70230/&quot;&gt;Japan.R 2017&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://prs.ism.ac.jp/useRjp/hiki.cgi?2017%C7%AF%C5%D9+%A5%C7%A1%BC%A5%BF%B2%F2%C0%CF%B4%C4%B6%ADR%A4%CE%C0%B0%C8%F7%A4%C8%CD%F8%CD%D1&quot;&gt;2017年度 データ解析環境Rの整備と利用&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;RStudio、最近使ったプロジェクトを10個表示してくれてクリック一つで開けるんだけど、プロジェクト作りまくってるので10個じゃ全然足りない・・&lt;/p&gt;&amp;mdash; h(o x o_)m＜ 🎃 (@hoxo_m) &lt;a href=&quot;https://twitter.com/hoxo_m/status/922765232140722176?ref_src=twsrc%5Etfw&quot;&gt;October 24, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;RからMediumにMarkdownを投稿するパッケージmediumrがあったので、Mediumにアカウントをつくった&lt;/p&gt;&amp;mdash; ホクそうむ (@R_Linux) &lt;a href=&quot;https://twitter.com/R_Linux/status/923338404237950977?ref_src=twsrc%5Etfw&quot;&gt;October 26, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@kazutan&quot;&gt;medium@kazutan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;質問への回答&quot;&gt;質問への回答&lt;/h2&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;ライバルは何色のぞうさんですか？&lt;/p&gt;&amp;mdash; Hiroaki Yutani (@yutannihilation) &lt;a href=&quot;https://twitter.com/yutannihilation/status/924800777847152640?ref_src=twsrc%5Etfw&quot;&gt;October 30, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;黄色のぞう &lt;code class=&quot;highlighter-rouge&quot;&gt;emo::ji(&quot;elephant&quot;)&lt;/code&gt;には敵わない。青色の&lt;code class=&quot;highlighter-rouge&quot;&gt;emo::ji(&quot;elephant&quot;)&lt;/code&gt;と仲良くしたい。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;なぜ、&lt;code class=&quot;highlighter-rouge&quot;&gt;r emo::ji(&quot;elephant&quot;)&lt;/code&gt; (今のアイコン)?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;家にちょうど良いぬいぐるみがあったため。貰い物の人形。ぞうさんで認識されて変えられなくなってしまった。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;最近注目しているパッケージは?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;ari。注目しているのとは別にDiagrammeRパッケージのドキュメントを翻訳したい。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;エンジニアになりたい?&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;エンジニアリングは趣味として。仕事に活かしたい。昔はVBAをよく使っていた。業務改善のため。&lt;/p&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;rmarkdown 書いたり, パッケージを作るのは楽しいですが、仕事としては国内に需要はどのくらいあるのでしょうか &lt;a href=&quot;https://ask.fm/account/private-questions/142583050220&quot;&gt;https://ask.fm/account/private-questions/142583050220&lt;/a&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;rmarkdownで食っていくことは厳しい。単独の技術ではなく、業務の中で幅広く使える技術。ドキュメンテーションは仕事で必ず必要。rmarkdownを覚えておくと色々な業務で役に立つ。&lt;/p&gt;
+
+&lt;h2 id=&quot;話題となったパッケージ&quot;&gt;話題となったパッケージ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/ari/index.html&quot;&gt;ari&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/rmarkdown/index.html&quot;&gt;rmarkdown&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/DiagrammeR/index.html&quot;&gt;DiagrammeR&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/kazutan/items/236512ba34314ae9bdcb&quot;&gt;DiagrammeR入門 画像ファイルなどへの出力&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/kazutan/items/feea8a3d40143f1f7978&quot;&gt;DiagrammeR入門 nodeの属性まとめ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kazutan/zousan&quot;&gt;zousan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/yutannihilation/mediumr&quot;&gt;mediumr&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://notchained.hatenablog.com/entry/2017/10/25/233504&quot;&gt;RからMediumにMarkdownを投稿するパッケージmediumrをつくりました&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://notchained.hatenablog.com/entry/2017/10/22/212450&quot;&gt;RからMediumにMarkdownを投稿する&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;icon&lt;/a&gt;https://github.com/ropenscilabs/icon&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;&quot;&gt;searcher&lt;/a&gt;https://github.com/coatless/searcher&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/3</guid>
+        <enclosure url="https://rlangradio.org/audio/3.mp3" length="32329920" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>uriboとkazutanの2人で、ぞうさん通信、rmarkdownに対するこだわり、仕事の中でのRとの付き合いについて話しました。</itunes:subtitle>
+        <itunes:duration>01:07:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>2. 石田基広徳島大学教授との対談</title>
+        <link>https://rlangradio.org/episode/2</link>
+        <pubDate>Fri, 27 Oct 2017 19:30:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;_stakayaとDAISUKEICHIKAWAの2人で、徳島まで行き、石田基広徳島大学教授とR言語関係の話をしてきました。&lt;/p&gt;
+          &lt;h2 id=&quot;ばしょ&quot;&gt;ばしょ&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;http://www.tojo-tokushima.jp/&quot;&gt;富田町 東條&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/IshidaMotohiro/RMeCab&quot;&gt;RMeCab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://pub.maruzen.co.jp/book_magazine/book_data/search/9784621061312.html&quot;&gt;Rの基礎とプログラミング技法&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kyoritsu-pub.co.jp/series/205/&quot;&gt;Wonderful R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kyoritsu-pub.co.jp/series/185/&quot;&gt;Useful R&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kyoritsu-pub.co.jp/bookdetail/9784320110489&quot;&gt;とある弁当屋の統計技師（データサイエンティスト）―データ分析のはじめかた―&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kyoritsu-pub.co.jp/bookdetail/9784320110823&quot;&gt;とある弁当屋の統計技師（データサイエンティスト）2―因子分析大作戦―&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.kyoritsu-pub.co.jp/bookdetail/9784320124264&quot;&gt;レンクン本（#パンダ本）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wesm/feather&quot;&gt;feather&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/2</guid>
+        <enclosure url="https://rlangradio.org/audio/2.mp3" length="29764223" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>_stakayaとDAISUKEICHIKAWAの2人で、徳島まで行き、石田基広徳島大学教授とR言語関係の話をしてきました。</itunes:subtitle>
+        <itunes:duration>49:36</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+      <item>
+        <title>1. R3はRユーザとRの話題をするための場です</title>
+        <link>https://rlangradio.org/episode/1</link>
+        <pubDate>Tue, 10 Oct 2017 19:30:00 +0900</pubDate>
+        <description>
+          &lt;p&gt;uriboとyutannihilationの2人で、Rパッケージ開発、このラジオの行方、purrrパッケージなどについて話しました。&lt;/p&gt;
+          &lt;h2 id=&quot;ばしょ&quot;&gt;ばしょ&lt;/h2&gt;
+
+&lt;p&gt;TokyoR BAR &amp;amp; CAFE
+http://tokyor.bar&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://uribo.hatenablog.com/entry/2017/01/24/053000&quot;&gt;Rの話をしよう（深く、緩く、熱く） - まだ厨二病&lt;/a&gt;… Rラジオの所信表明&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://notchained.hatenablog.com&quot;&gt;ユタニさんブログ&lt;/a&gt;… 要チェックブログ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rweekly.org&quot;&gt;Rweekly&lt;/a&gt;… R界隈の情報まとめ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.kz-md.net/?page_id=1118&quot;&gt;ぞうさん通信&lt;/a&gt;… kazutanさんが発行されていたR関連記事のメモ集&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/ksmzn/thankyoustars&quot;&gt;ThankYouStarsで感謝の気持ちをスターで伝えよう&lt;/a&gt;… ksmzn (koshi)さんの開発したパッケージの紹介&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://notchained.hatenablog.com/entry/2017/09/17/000433&quot;&gt;Rから国土数値情報ダウンロードサービスWeb APIを使うパッケージkokudosuuchiのsf対応 - Technically, technophobic.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://libraries.io&quot;&gt;Libraries&lt;/a&gt;… 登録しておいたパッケージの更新があると通知してくれるやつ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://japanr.net&quot;&gt;Japan.R 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;Rのariパッケージ &lt;a href=&quot;https://t.co/ud6U3UqYJT&quot;&gt;https://t.co/ud6U3UqYJT&lt;/a&gt; を利用して，Rmdから日本語での音声読み上げを組み込んだmp4を自動で生成してみた。その出力物をyoutubeにUp。こんな感じになります &lt;a href=&quot;https://t.co/AZiHH3C9oa&quot;&gt;https://t.co/AZiHH3C9oa&lt;/a&gt;&lt;/p&gt;&amp;mdash; kazutan v3.4.2 (@kazutan) &lt;a href=&quot;https://twitter.com/kazutan/status/912683510439088128?ref_src=twsrc%5Etfw&quot;&gt;September 26, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=7AJES60V9Vo&quot;&gt;RWeeklyの機械的なfeed&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;このglueパッケージって，だれか紹介したりした? &lt;a href=&quot;https://t.co/jZE9aE0DkQ&quot;&gt;https://t.co/jZE9aE0DkQ&lt;/a&gt;&lt;/p&gt;&amp;mdash; kazutan v3.4.2 (@kazutan) &lt;a href=&quot;https://twitter.com/kazutan/status/914791260111691776?ref_src=twsrc%5Etfw&quot;&gt;October 2, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.python.org/dev/peps/pep-0498/&quot;&gt;PEP 498 - Literal String Interpolation&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/randy3k/rice&quot;&gt;rice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/r-lib&quot;&gt;r-lib&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/gaborcsardi&quot;&gt;metacranおじさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rladies.org&quot;&gt;R-Ladies&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;ホテルＲ　&lt;a href=&quot;https://t.co/eiSNtkErPe&quot;&gt;https://t.co/eiSNtkErPe&lt;/a&gt; &lt;a href=&quot;https://t.co/km1wDakvvy&quot;&gt;pic.twitter.com/km1wDakvvy&lt;/a&gt;&lt;/p&gt;&amp;mdash; こもりまさし（こもりん） (@masashikomori) &lt;a href=&quot;https://twitter.com/masashikomori/status/915502471971090433?ref_src=twsrc%5Etfw&quot;&gt;October 4, 2017&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;//platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;h2 id=&quot;話題となったパッケージ&quot;&gt;話題となったパッケージ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/gghighlight/index.html&quot;&gt;gghighlight&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://notchained.hatenablog.com/entry/2017/09/29/212444&quot;&gt;データ系列が多すぎるとき、いい感じに一部をハイライトするためのパッケージgghighlightをつくりました - Technically, technophobic.&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://yutani.rbind.io/post/2017-10-06-gghighlight/&quot;&gt;Introduction to gghighlight: Highlight ggplot’s Lines and Points with Predicates&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/ThankYouStars/index.html&quot;&gt;ThankYouStars&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://ksmzn.hatenablog.com/entry/thank-you-stars&quot;&gt;Rパッケージにスターを送るパッケージ ThankYouStars を作成しました - Dimension Planet Adventure 最終章 最終話『栄光なる未来』&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/jpmesh/index.html&quot;&gt;jpmesh&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/kokudosuuchi/index.html&quot;&gt;kokudosuuchi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/geojsonio/index.html&quot;&gt;geojsonio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/r-lib/revdepcheck&quot;&gt;revdepcheck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/ari/index.html&quot;&gt;ari&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/glue/index.html&quot;&gt;glue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rich-iannone/blastula&quot;&gt;blastula&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/crayon/index.html&quot;&gt;crayon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/plumber/index.html&quot;&gt;plumber&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/jug/index.html&quot;&gt;jug&lt;/a&gt;: plumberの対抗馬。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/purrr/index.html&quot;&gt;purrr&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cran.r-project.org/web/packages/purrrlyr/index.html&quot;&gt;purrrlyr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://rlangradio.org/episode/1</guid>
+        <enclosure url="https://rlangradio.org/audio/1.mp3" length="18677376" type="audio/mp3"/>
+        <itunes:author>r3 group</itunes:author>
+        <itunes:subtitle>uriboとyutannihilationの2人で、Rパッケージ開発、このラジオの行方、purrrパッケージなどについて話しました。</itunes:subtitle>
+        <itunes:duration>38:55</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://rlangradio.org/images/itunes-artwork-240.png"/>
+      </item>
+    
+  </channel>
+</rss>

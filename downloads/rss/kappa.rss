@@ -1,0 +1,1835 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://www.kappa.info-engineer.jp/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+	
+	<channel>
+		<title>ほげほげ.FM</title>
+		<atom:link href="https://www.kappa.info-engineer.jp/feed/podcast" rel="self" type="application/rss+xml"/>
+		<link>https://www.kappa.info-engineer.jp/</link>
+		<description>情報系大学の先輩&amp;後輩が学生ならでは話題やテーマについてダラダラと送る番組です。</description>
+		<lastBuildDate>Thu, 28 Feb 2019 04:03:41 +0000</lastBuildDate>
+		<language>ja</language>
+		<copyright>© 2018 ほげほげ.FM</copyright>
+		<itunes:subtitle></itunes:subtitle>
+		<itunes:author>Fuwari, Yuki</itunes:author>
+					<itunes:type>episodic</itunes:type>
+					<googleplay:author>Fuwari, Yuki</googleplay:author>
+		<googleplay:email>t.yuuki.public@gmail.com</googleplay:email>
+		<itunes:summary>情報系大学の先輩&amp;後輩が学生ならでは話題やテーマについてダラダラと送る番組です。</itunes:summary>
+		<googleplay:description>情報系大学の先輩&amp;後輩が学生ならでは話題やテーマについてダラダラと送る番組です。</googleplay:description>
+		<itunes:owner>
+			<itunes:name>Fuwari&amp;Yuki</itunes:name>
+			<itunes:email>t.yuuki.public@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+		<googleplay:explicit>No</googleplay:explicit>
+					<itunes:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-artilust.jpg"></itunes:image>
+			<googleplay:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-artilust.jpg"></googleplay:image>
+			<image>
+				<url>https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-artilust.jpg</url>
+				<title>ほげほげ.FM</title>
+				<link>https://www.kappa.info-engineer.jp/</link>
+			</image>
+					<itunes:category text="Technology">
+									<itunes:category text="Tech News"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Technology">
+									<itunes:category text="Gadgets"></itunes:category>
+							</itunes:category>
+							<itunes:category text="Sports &amp; Recreation">
+									<itunes:category text="College &amp; High School"></itunes:category>
+							</itunes:category>
+				
+<site xmlns="com-wordpress:feed-additions:1">153069506</site>				<item>
+					<title>ep7. 初ゲスト回！外資系に入社した就活生に聞いてみた</title>
+					<link>https://www.kappa.info-engineer.jp/2019/02/28/ep7-%e5%88%9d%e3%82%b2%e3%82%b9%e3%83%88%e5%9b%9e%ef%bc%81%e5%a4%96%e8%b3%87%e7%b3%bb%e3%81%ab%e5%85%a5%e7%a4%be%e3%81%97%e3%81%9f%e5%b0%b1%e6%b4%bb%e7%94%9f%e3%81%ab%e8%81%9e%e3%81%84%e3%81%a6/</link>
+					<pubDate>Thu, 28 Feb 2019 04:03:41 +0000</pubDate>
+					<dc:creator>Fuwari</dc:creator>
+					<guid isPermaLink="false">https://www.kappa.info-engineer.jp/?p=172</guid>
+					<description><![CDATA[ほげほげfm タイトル:「初ゲスト!大手を狙った就活」 タイトル:「初ゲスト!学校推薦を使...]]></description>
+					<itunes:subtitle><![CDATA[ほげほげfm タイトル:「初ゲスト!大手を狙った就活」 タイトル:「初ゲスト!学校推薦を使...]]></itunes:subtitle>
+																<itunes:episodeType>full</itunes:episodeType>
+																<itunes:title><![CDATA[ep7. 初ゲスト回！外資系に入社した就活生に聞いてみた]]></itunes:title>
+																<itunes:episode>7</itunes:episode>
+															<content:encoded><![CDATA[<h1>ほげほげfm</h1>
+<ul>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/?p=172&amp;preview=true">「初ゲスト!大手を狙った就活」</a></li>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/?p=172&amp;preview=true">「初ゲスト!学校推薦を使用した就活」</a></li>
+<li>テーマ:<a href="https://www.kappa.info-engineer.jp/?p=172&amp;preview=true">「ねもとの就活体験談」</a></li>
+</ul>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちは時間を気にしながら話したら意外に短めだと感じたYukiです</li>
+<li>今回はお友達のねもと君をゲストに迎えて就活体験談をはなしています</li>
+<li>ねもと君の自己紹介はで話しているので気になる方は先にそちらをお聞きください
+<ul>
+<li>29:10 からお聞きください、魔法は使用しませんでした</li>
+</ul>
+</li>
+<li>日立の本社は東京らしいです</li>
+</ul>
+<h2>内容</h2>
+<ul>
+<li>IT脳の話</li>
+<li>ねもと就活強者説</li>
+<li>インターンの話</li>
+<li>ねもとのスター性</li>
+<li>地元の合同説明会</li>
+<li>ねもとのプロフィール</li>
+<li>学内推薦のフロー</li>
+<li>AppleTV vs ChromeCast with GoogleHome
+<ul>
+<li>ねもと君はChromeCastはミラーリングの機器だとご認識していたよう</li>
+</ul>
+</li>
+<li>筆記試験の話</li>
+<li>Skype面接</li>
+<li>入社前課題について</li>
+<li>コーディングについて</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+<li>既読だけでも喜びます!!</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://qiita.com/tags/%E3%81%8A%E3%81%86%E3%81%A1%E3%83%8F%E3%83%83%E3%82%AF/items">おうちハック</a></li>
+<li><a href="https://www.apple.com/jp/tv/">Apple TV</a></li>
+<li><a href="https://store.google.com/jp/product/chromecast">Chrome Cast</a></li>
+<li><a href="https://store.google.com/jp/product/google_home">Google Home</a></li>
+<li><a href="https://amzn.to/2T4xEcb">リーダブルコード</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<h3>録音</h3>
+<ul>
+<li>MacBookPro(ふわり)</li>
+<li>WindwosPC(Yuki)</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F28%2Fep7-%25e5%2588%259d%25e3%2582%25b2%25e3%2582%25b9%25e3%2583%2588%25e5%259b%259e%25ef%25bc%2581%25e5%25a4%2596%25e8%25b3%2587%25e7%25b3%25bb%25e3%2581%25ab%25e5%2585%25a5%25e7%25a4%25be%25e3%2581%2597%25e3%2581%259f%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ab%25e8%2581%259e%25e3%2581%2584%25e3%2581%25a6%2F&amp;linkname=ep7.%20%E5%88%9D%E3%82%B2%E3%82%B9%E3%83%88%E5%9B%9E%EF%BC%81%E5%A4%96%E8%B3%87%E7%B3%BB%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F28%2Fep7-%25e5%2588%259d%25e3%2582%25b2%25e3%2582%25b9%25e3%2583%2588%25e5%259b%259e%25ef%25bc%2581%25e5%25a4%2596%25e8%25b3%2587%25e7%25b3%25bb%25e3%2581%25ab%25e5%2585%25a5%25e7%25a4%25be%25e3%2581%2597%25e3%2581%259f%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ab%25e8%2581%259e%25e3%2581%2584%25e3%2581%25a6%2F&amp;linkname=ep7.%20%E5%88%9D%E3%82%B2%E3%82%B9%E3%83%88%E5%9B%9E%EF%BC%81%E5%A4%96%E8%B3%87%E7%B3%BB%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F28%2Fep7-%25e5%2588%259d%25e3%2582%25b2%25e3%2582%25b9%25e3%2583%2588%25e5%259b%259e%25ef%25bc%2581%25e5%25a4%2596%25e8%25b3%2587%25e7%25b3%25bb%25e3%2581%25ab%25e5%2585%25a5%25e7%25a4%25be%25e3%2581%2597%25e3%2581%259f%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ab%25e8%2581%259e%25e3%2581%2584%25e3%2581%25a6%2F&amp;linkname=ep7.%20%E5%88%9D%E3%82%B2%E3%82%B9%E3%83%88%E5%9B%9E%EF%BC%81%E5%A4%96%E8%B3%87%E7%B3%BB%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F28%2Fep7-%25e5%2588%259d%25e3%2582%25b2%25e3%2582%25b9%25e3%2583%2588%25e5%259b%259e%25ef%25bc%2581%25e5%25a4%2596%25e8%25b3%2587%25e7%25b3%25bb%25e3%2581%25ab%25e5%2585%25a5%25e7%25a4%25be%25e3%2581%2597%25e3%2581%259f%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ab%25e8%2581%259e%25e3%2581%2584%25e3%2581%25a6%2F&amp;linkname=ep7.%20%E5%88%9D%E3%82%B2%E3%82%B9%E3%83%88%E5%9B%9E%EF%BC%81%E5%A4%96%E8%B3%87%E7%B3%BB%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F28%2Fep7-%25e5%2588%259d%25e3%2582%25b2%25e3%2582%25b9%25e3%2583%2588%25e5%259b%259e%25ef%25bc%2581%25e5%25a4%2596%25e8%25b3%2587%25e7%25b3%25bb%25e3%2581%25ab%25e5%2585%25a5%25e7%25a4%25be%25e3%2581%2597%25e3%2581%259f%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ab%25e8%2581%259e%25e3%2581%2584%25e3%2581%25a6%2F&#038;title=ep7.%20%E5%88%9D%E3%82%B2%E3%82%B9%E3%83%88%E5%9B%9E%EF%BC%81%E5%A4%96%E8%B3%87%E7%B3%BB%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F" data-a2a-url="https://www.kappa.info-engineer.jp/2019/02/28/ep7-%e5%88%9d%e3%82%b2%e3%82%b9%e3%83%88%e5%9b%9e%ef%bc%81%e5%a4%96%e8%b3%87%e7%b3%bb%e3%81%ab%e5%85%a5%e7%a4%be%e3%81%97%e3%81%9f%e5%b0%b1%e6%b4%bb%e7%94%9f%e3%81%ab%e8%81%9e%e3%81%84%e3%81%a6/" data-a2a-title="ep7. 初ゲスト回！外資系に入社した就活生に聞いてみた"></a></p>]]></content:encoded>
+					<itunes:summary><![CDATA[<h1>ほげほげfm</h1>
+<ul>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/?p=172&amp;preview=true">「初ゲスト!大手を狙った就活」</a></li>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/?p=172&amp;preview=true">「初ゲスト!学校推薦を使用した就活」</a></li>
+<li>テーマ:<a href="https://www.kappa.info-engineer.jp/?p=172&amp;preview=true">「ねもとの就活体験談」</a></li>
+</ul>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちは時間を気にしながら話したら意外に短めだと感じたYukiです</li>
+<li>今回はお友達のねもと君をゲストに迎えて就活体験談をはなしています</li>
+<li>ねもと君の自己紹介はで話しているので気になる方は先にそちらをお聞きください
+<ul>
+<li>29:10 からお聞きください、魔法は使用しませんでした</li>
+</ul>
+</li>
+<li>日立の本社は東京らしいです</li>
+</ul>
+<h2>内容</h2>
+<ul>
+<li>IT脳の話</li>
+<li>ねもと就活強者説</li>
+<li>インターンの話</li>
+<li>ねもとのスター性</li>
+<li>地元の合同説明会</li>
+<li>ねもとのプロフィール</li>
+<li>学内推薦のフロー</li>
+<li>AppleTV vs ChromeCast with GoogleHome
+<ul>
+<li>ねもと君はChromeCastはミラーリングの機器だとご認識していたよう</li>
+</ul>
+</li>
+<li>筆記試験の話</li>
+<li>Skype面接</li>
+<li>入社前課題について</li>
+<li>コーディングについて</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+<li>既読だけでも喜びます!!</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://qiita.com/tags/%E3%81%8A%E3%81%86%E3%81%A1%E3%83%8F%E3%83%83%E3%82%AF/items">おうちハック</a></li>
+<li><a href="https://www.apple.com/jp/tv/">Apple TV</a></li>
+<li><a href="https://store.google.com/jp/product/chromecast">Chrome Cast</a></li>
+<li><a href="https://store.google.com/jp/product/google_home">Google Home</a></li>
+<li><a href="https://amzn.to/2T4xEcb">リーダブルコード</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<h3>録音</h3>
+<ul>
+<li>MacBookPro(ふわり)</li>
+<li>WindwosPC(Yuki)</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F28%2Fep7-%25e5%2588%259d%25e3%2582%25b2%25e3%2582%25b9%25e3%2583%2588%25e5%259b%259e%25ef%25bc%2581%25e5%25a4%2596%25e8%25b3%2587%25e7%25b3%25bb%25e3%2581%25ab%25e5%2585%25a5%25e7%25a4%25be%25e3%2581%2597%25e3%2581%259f%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ab%25e8%2581%259e%25e3%2581%2584%25e3%2581%25a6%2F&amp;linkname=ep7.%20%E5%88%9D%E3%82%B2%E3%82%B9%E3%83%88%E5%9B%9E%EF%BC%81%E5%A4%96%E8%B3%87%E7%B3%BB%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F28%2Fep7-%25e5%2588%259d%25e3%2582%25b2%25e3%2582%25b9%25e3%2583%2588%25e5%259b%259e%25ef%25bc%2581%25e5%25a4%2596%25e8%25b3%2587%25e7%25b3%25bb%25e3%2581%25ab%25e5%2585%25a5%25e7%25a4%25be%25e3%2581%2597%25e3%2581%259f%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ab%25e8%2581%259e%25e3%2581%2584%25e3%2581%25a6%2F&amp;linkname=ep7.%20%E5%88%9D%E3%82%B2%E3%82%B9%E3%83%88%E5%9B%9E%EF%BC%81%E5%A4%96%E8%B3%87%E7%B3%BB%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F28%2Fep7-%25e5%2588%259d%25e3%2582%25b2%25e3%2582%25b9%25e3%2583%2588%25e5%259b%259e%25ef%25bc%2581%25e5%25a4%2596%25e8%25b3%2587%25e7%25b3%25bb%25e3%2581%25ab%25e5%2585%25a5%25e7%25a4%25be%25e3%2581%2597%25e3%2581%259f%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ab%25e8%2581%259e%25e3%2581%2584%25e3%2581%25a6%2F&amp;linkname=ep7.%20%E5%88%9D%E3%82%B2%E3%82%]]></itunes:summary>
+					<googleplay:description><![CDATA[<h1>ほげほげfm</h1>
+<ul>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/?p=172&amp;preview=true">「初ゲスト!大手を狙った就活」</a></li>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/?p=172&amp;preview=true">「初ゲスト!学校推薦を使用した就活」</a></li>
+<li>テーマ:<a href="https://www.kappa.info-engineer.jp/?p=172&amp;preview=true">「ねもとの就活体験談」</a></li>
+</ul>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちは時間を気にしながら話したら意外に短めだと感じたYukiです</li>
+<li>今回はお友達のねもと君をゲストに迎えて就活体験談をはなしています</li>
+<li>ねもと君の自己紹介はで話しているので気になる方は先にそちらをお聞きください
+<ul>
+<li>29:10 からお聞きください、魔法は使用しませんでした</li>
+</ul>
+</li>
+<li>日立の本社は東京らしいです</li>
+</ul>
+<h2>内容</h2>
+<ul>
+<li>IT脳の話</li>
+<li>ねもと就活強者説</li>
+<li>インターンの話</li>
+<li>ねもとのスター性</li>
+<li>地元の合同説明会</li>
+<li>ねもとのプロフィール</li>
+<li>学内推薦のフロー</li>
+<li>AppleTV vs ChromeCast with GoogleHome
+<ul>
+<li>ねもと君はChromeCastはミラーリングの機器だとご認識していたよう</li>
+</ul>
+</li>
+<li>筆記試験の話</li>
+<li>Skype面接</li>
+<li>入社前課題について</li>
+<li>コーディングについて</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+<li>既読だけでも喜びます!!</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://qiita.com/tags/%E3%81%8A%E3%81%86%E3%81%A1%E3%83%8F%E3%83%83%E3%82%AF/items">おうちハック</a></li>
+<li><a href="https://www.apple.com/jp/tv/">Apple TV</a></li>
+<li><a href="https://store.google.com/jp/product/chromecast">Chrome Cast</a></li>
+<li><a href="https://store.google.com/jp/product/google_home">Google Home</a></li>
+<li><a href="https://amzn.to/2T4xEcb">リーダブルコード</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<h3>録音</h3>
+<ul>
+<li>MacBookPro(ふわり)</li>
+<li>WindwosPC(Yuki)</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F28%2Fep7-%25e5%2588%259d%25e3%2582%25b2%25e3%2582%25b9%25e3%2583%2588%25e5%259b%259e%25ef%25bc%2581%25e5%25a4%2596%25e8%25b3%2587%25e7%25b3%25bb%25e3%2581%25ab%25e5%2585%25a5%25e7%25a4%25be%25e3%2581%2597%25e3%2581%259f%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ab%25e8%2581%259e%25e3%2581%2584%25e3%2581%25a6%2F&amp;linkname=ep7.%20%E5%88%9D%E3%82%B2%E3%82%B9%E3%83%88%E5%9B%9E%EF%BC%81%E5%A4%96%E8%B3%87%E7%B3%BB%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F28%2Fep7-%25e5%2588%259d%25e3%2582%25b2%25e3%2582%25b9%25e3%2583%2588%25e5%259b%259e%25ef%25bc%2581%25e5%25a4%2596%25e8%25b3%2587%25e7%25b3%25bb%25e3%2581%25ab%25e5%2585%25a5%25e7%25a4%25be%25e3%2581%2597%25e3%2581%259f%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ab%25e8%2581%259e%25e3%2581%2584%25e3%2581%25a6%2F&amp;linkname=ep7.%20%E5%88%9D%E3%82%B2%E3%82%B9%E3%83%88%E5%9B%9E%EF%BC%81%E5%A4%96%E8%B3%87%E7%B3%BB%E3%81%AB%E5%85%A5%E7%A4%BE%E3%81%97%E3%81%9F%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AB%E8%81%9E%E3%81%84%E3%81%A6%E3%81%BF%E3%81%9F" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F28%2Fep7-%25e5%2588%259d%25e3%2582%25b2%25e3%2582%25b9%25e3%2583%2588%25e5%259b%259e%25ef%25bc%2581%25e5%25a4%2596%25e8%25b3%2587%25e7%25b3%25bb%25e3%2581%25ab%25e5%2585%25a5%25e7%25a4%25be%25e3%2581%2597%25e3%2581%259f%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ab%25e8%2581%259e%25e3%2581%2584%25e3%2581%25a6%2F&amp;linkname=ep7.%20%E5%88%9D%E3%82%B2%E3%82%]]></googleplay:description>
+											<itunes:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></itunes:image>
+						<googleplay:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></googleplay:image>
+										<enclosure url="https://www.kappa.info-engineer.jp/podcast-download/172/ep7-%e5%88%9d%e3%82%b2%e3%82%b9%e3%83%88%e5%9b%9e%ef%bc%81%e5%a4%96%e8%b3%87%e7%b3%bb%e3%81%ab%e5%85%a5%e7%a4%be%e3%81%97%e3%81%9f%e5%b0%b1%e6%b4%bb%e7%94%9f%e3%81%ab%e8%81%9e%e3%81%84%e3%81%a6.mp3" length="37818461" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>0:00</itunes:duration>
+					<itunes:author>Fuwari</itunes:author>
+				</item>
+							<item>
+					<title>ep6. 今時就活生のなめっぷり</title>
+					<link>https://www.kappa.info-engineer.jp/2019/02/22/ep6-%e4%bb%8a%e6%99%82%e5%b0%b1%e6%b4%bb%e7%94%9f%e3%81%ae%e3%81%aa%e3%82%81%e3%81%a3%e3%81%b7%e3%82%8a/</link>
+					<pubDate>Fri, 22 Feb 2019 14:35:34 +0000</pubDate>
+					<dc:creator>Fuwari</dc:creator>
+					<guid isPermaLink="false">https://www.kappa.info-engineer.jp/?p=169</guid>
+					<description><![CDATA[ほげほげfm タイトル:「今時就活生のなめっぷり」 テーマ:「Yukiの就活体験談2」 編...]]></description>
+					<itunes:subtitle><![CDATA[ほげほげfm タイトル:「今時就活生のなめっぷり」 テーマ:「Yukiの就活体験談2」 編...]]></itunes:subtitle>
+																<itunes:episodeType>full</itunes:episodeType>
+																<itunes:title><![CDATA[ep6. 今時就活生のなめっぷり]]></itunes:title>
+																<itunes:episode>6</itunes:episode>
+															<content:encoded><![CDATA[<h1>ほげほげfm</h1>
+<ul>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/2019/02/22/ep6-今時就活生のなめっぷり/">「今時就活生のなめっぷり」</a></li>
+<li>テーマ:<a href="https://www.kappa.info-engineer.jp/2019/02/22/ep6-今時就活生のなめっぷり/">「Yukiの就活体験談2」</a></li>
+</ul>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちは冒頭本名暴露されているYukiです
+<ul>
+<li>もう知ってる人は知っているけどね一応カット</li>
+</ul>
+</li>
+<li><strong><em>今回は割とわかりやすいようにぶっちゃけトークや、雑に説明してる部分がありますので話半分でお聞きくださいませませ(￣^￣)ゞ</em></strong></li>
+<li>ep5から<code>テーマ</code>と<code>タイトル</code>は変えて配信しております</li>
+<li>そろそろ3月なので昨年Yukiが体験した就活話をしました</li>
+<li>今回rebuild.fmを意識して缶ジュースを飲んでるので音が時々不快かも、、？</li>
+<li>思い出しながら言っているので訂正が多いため以下にまとめます
+<ul>
+<li>合計6社</li>
+<li>内定先(内定)</li>
+<li>本命だった(内定,インターン参加)</li>
+<li>その他<em>4(内定</em>1(インターン参加),不合格<em>3(面接不合格</em>2(インターン参加<em>1),SPI落ち</em>1))</li>
+</ul>
+</li>
+</ul>
+<h2>内容</h2>
+<ul>
+<li>卒業研究発表会</li>
+<li>就活解禁からのエントリー祭り</li>
+<li>就活スケジュール</li>
+<li>就活の軸</li>
+<li>面接,SPIの失敗談？</li>
+<li>ふわりの面接対策</li>
+<li>GoogleHomeを使った簡単なアプリ</li>
+<li>インターンや就活の際に外部サイトの活用</li>
+<li>初めましてでのチーム開発</li>
+<li>平成ネット史の感想</li>
+<li>IT脳の話</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+<li>既読だけでも喜びます!!</li>
+</ul>
+</li>
+<li>IT脳の発見もあれば#ほげほげfmと併せて#IT脳をつけてツイートしてください</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://syukatsu-kaigi.jp/">就職会議</a></li>
+<li><a href="https://www.neo-career.co.jp/">neocareer</a></li>
+<li><a href="https://chihounomikata.com/">地方のミカタ</a></li>
+<li><a href="https://careerselect.jp/">Career Select</a></li>
+<li><a href="https://supporterz.jp/">サポーターズ</a></li>
+<li><a href="https://ifttt.com/">IFTTT</a></li>
+<li><a href="https://github.com/Yuki-Otk/typeCount">Yukiの提出(タイピングのやつ)</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<h3>録音</h3>
+<ul>
+<li>MacBookPro(ふわり)</li>
+<li>WindwosPC(Yuki)</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&amp;linkname=ep6.%20%E4%BB%8A%E6%99%82%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E3%81%AA%E3%82%81%E3%81%A3%E3%81%B7%E3%82%8A" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&amp;linkname=ep6.%20%E4%BB%8A%E6%99%82%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E3%81%AA%E3%82%81%E3%81%A3%E3%81%B7%E3%82%8A" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&amp;linkname=ep6.%20%E4%BB%8A%E6%99%82%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E3%81%AA%E3%82%81%E3%81%A3%E3%81%B7%E3%82%8A" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&amp;linkname=ep6.%20%E4%BB%8A%E6%99%82%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E3%81%AA%E3%82%81%E3%81%A3%E3%81%B7%E3%82%8A" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&#038;title=ep6.%20%E4%BB%8A%E6%99%82%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E3%81%AA%E3%82%81%E3%81%A3%E3%81%B7%E3%82%8A" data-a2a-url="https://www.kappa.info-engineer.jp/2019/02/22/ep6-%e4%bb%8a%e6%99%82%e5%b0%b1%e6%b4%bb%e7%94%9f%e3%81%ae%e3%81%aa%e3%82%81%e3%81%a3%e3%81%b7%e3%82%8a/" data-a2a-title="ep6. 今時就活生のなめっぷり"></a></p>]]></content:encoded>
+					<itunes:summary><![CDATA[<h1>ほげほげfm</h1>
+<ul>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/2019/02/22/ep6-今時就活生のなめっぷり/">「今時就活生のなめっぷり」</a></li>
+<li>テーマ:<a href="https://www.kappa.info-engineer.jp/2019/02/22/ep6-今時就活生のなめっぷり/">「Yukiの就活体験談2」</a></li>
+</ul>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちは冒頭本名暴露されているYukiです
+<ul>
+<li>もう知ってる人は知っているけどね一応カット</li>
+</ul>
+</li>
+<li><strong><em>今回は割とわかりやすいようにぶっちゃけトークや、雑に説明してる部分がありますので話半分でお聞きくださいませませ(￣^￣)ゞ</em></strong></li>
+<li>ep5から<code>テーマ</code>と<code>タイトル</code>は変えて配信しております</li>
+<li>そろそろ3月なので昨年Yukiが体験した就活話をしました</li>
+<li>今回rebuild.fmを意識して缶ジュースを飲んでるので音が時々不快かも、、？</li>
+<li>思い出しながら言っているので訂正が多いため以下にまとめます
+<ul>
+<li>合計6社</li>
+<li>内定先(内定)</li>
+<li>本命だった(内定,インターン参加)</li>
+<li>その他<em>4(内定</em>1(インターン参加),不合格<em>3(面接不合格</em>2(インターン参加<em>1),SPI落ち</em>1))</li>
+</ul>
+</li>
+</ul>
+<h2>内容</h2>
+<ul>
+<li>卒業研究発表会</li>
+<li>就活解禁からのエントリー祭り</li>
+<li>就活スケジュール</li>
+<li>就活の軸</li>
+<li>面接,SPIの失敗談？</li>
+<li>ふわりの面接対策</li>
+<li>GoogleHomeを使った簡単なアプリ</li>
+<li>インターンや就活の際に外部サイトの活用</li>
+<li>初めましてでのチーム開発</li>
+<li>平成ネット史の感想</li>
+<li>IT脳の話</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+<li>既読だけでも喜びます!!</li>
+</ul>
+</li>
+<li>IT脳の発見もあれば#ほげほげfmと併せて#IT脳をつけてツイートしてください</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://syukatsu-kaigi.jp/">就職会議</a></li>
+<li><a href="https://www.neo-career.co.jp/">neocareer</a></li>
+<li><a href="https://chihounomikata.com/">地方のミカタ</a></li>
+<li><a href="https://careerselect.jp/">Career Select</a></li>
+<li><a href="https://supporterz.jp/">サポーターズ</a></li>
+<li><a href="https://ifttt.com/">IFTTT</a></li>
+<li><a href="https://github.com/Yuki-Otk/typeCount">Yukiの提出(タイピングのやつ)</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<h3>録音</h3>
+<ul>
+<li>MacBookPro(ふわり)</li>
+<li>WindwosPC(Yuki)</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&amp;linkname=ep6.%20%E4%BB%8A%E6%99%82%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E3%81%AA%E3%82%81%E3%81%A3%E3%81%B7%E3%82%8A" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&amp;linkname=ep6.%20%E4%BB%8A%E6%99%82%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E3%81%AA%E3%82%81%E3%81%A3%E3%81%B7%E3%82%8A" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&amp;linkname=ep6.%20%E4%BB%8A%E6%99%82%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E3%81%AA%E3%82%81%E3%81%A3%E3%81%B7%E3%82%8A" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&]]></itunes:summary>
+					<googleplay:description><![CDATA[<h1>ほげほげfm</h1>
+<ul>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/2019/02/22/ep6-今時就活生のなめっぷり/">「今時就活生のなめっぷり」</a></li>
+<li>テーマ:<a href="https://www.kappa.info-engineer.jp/2019/02/22/ep6-今時就活生のなめっぷり/">「Yukiの就活体験談2」</a></li>
+</ul>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちは冒頭本名暴露されているYukiです
+<ul>
+<li>もう知ってる人は知っているけどね一応カット</li>
+</ul>
+</li>
+<li><strong><em>今回は割とわかりやすいようにぶっちゃけトークや、雑に説明してる部分がありますので話半分でお聞きくださいませませ(￣^￣)ゞ</em></strong></li>
+<li>ep5から<code>テーマ</code>と<code>タイトル</code>は変えて配信しております</li>
+<li>そろそろ3月なので昨年Yukiが体験した就活話をしました</li>
+<li>今回rebuild.fmを意識して缶ジュースを飲んでるので音が時々不快かも、、？</li>
+<li>思い出しながら言っているので訂正が多いため以下にまとめます
+<ul>
+<li>合計6社</li>
+<li>内定先(内定)</li>
+<li>本命だった(内定,インターン参加)</li>
+<li>その他<em>4(内定</em>1(インターン参加),不合格<em>3(面接不合格</em>2(インターン参加<em>1),SPI落ち</em>1))</li>
+</ul>
+</li>
+</ul>
+<h2>内容</h2>
+<ul>
+<li>卒業研究発表会</li>
+<li>就活解禁からのエントリー祭り</li>
+<li>就活スケジュール</li>
+<li>就活の軸</li>
+<li>面接,SPIの失敗談？</li>
+<li>ふわりの面接対策</li>
+<li>GoogleHomeを使った簡単なアプリ</li>
+<li>インターンや就活の際に外部サイトの活用</li>
+<li>初めましてでのチーム開発</li>
+<li>平成ネット史の感想</li>
+<li>IT脳の話</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+<li>既読だけでも喜びます!!</li>
+</ul>
+</li>
+<li>IT脳の発見もあれば#ほげほげfmと併せて#IT脳をつけてツイートしてください</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://syukatsu-kaigi.jp/">就職会議</a></li>
+<li><a href="https://www.neo-career.co.jp/">neocareer</a></li>
+<li><a href="https://chihounomikata.com/">地方のミカタ</a></li>
+<li><a href="https://careerselect.jp/">Career Select</a></li>
+<li><a href="https://supporterz.jp/">サポーターズ</a></li>
+<li><a href="https://ifttt.com/">IFTTT</a></li>
+<li><a href="https://github.com/Yuki-Otk/typeCount">Yukiの提出(タイピングのやつ)</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<h3>録音</h3>
+<ul>
+<li>MacBookPro(ふわり)</li>
+<li>WindwosPC(Yuki)</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&amp;linkname=ep6.%20%E4%BB%8A%E6%99%82%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E3%81%AA%E3%82%81%E3%81%A3%E3%81%B7%E3%82%8A" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&amp;linkname=ep6.%20%E4%BB%8A%E6%99%82%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E3%81%AA%E3%82%81%E3%81%A3%E3%81%B7%E3%82%8A" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&amp;linkname=ep6.%20%E4%BB%8A%E6%99%82%E5%B0%B1%E6%B4%BB%E7%94%9F%E3%81%AE%E3%81%AA%E3%82%81%E3%81%A3%E3%81%B7%E3%82%8A" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F22%2Fep6-%25e4%25bb%258a%25e6%2599%2582%25e5%25b0%25b1%25e6%25b4%25bb%25e7%2594%259f%25e3%2581%25ae%25e3%2581%25aa%25e3%2582%2581%25e3%2581%25a3%25e3%2581%25b7%25e3%2582%258a%2F&]]></googleplay:description>
+											<itunes:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></itunes:image>
+						<googleplay:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></googleplay:image>
+										<enclosure url="https://www.kappa.info-engineer.jp/podcast-download/169/ep6-%e4%bb%8a%e6%99%82%e5%b0%b1%e6%b4%bb%e7%94%9f%e3%81%ae%e3%81%aa%e3%82%81%e3%81%a3%e3%81%b7%e3%82%8a.mp3" length="41016896" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>0:00</itunes:duration>
+					<itunes:author>Fuwari</itunes:author>
+				</item>
+							<item>
+					<title>ep5. 抱負はどや顔!?&#038;チーム開発苦悩</title>
+					<link>https://www.kappa.info-engineer.jp/2019/02/17/ep5-%e6%8a%b1%e8%b2%a0%e3%81%af%e3%81%a9%e3%82%84%e9%a1%94%e3%83%81%e3%83%bc%e3%83%a0%e9%96%8b%e7%99%ba%e8%8b%a6%e6%82%a9/</link>
+					<pubDate>Sun, 17 Feb 2019 14:30:44 +0000</pubDate>
+					<dc:creator>Fuwari</dc:creator>
+					<guid isPermaLink="false">https://www.kappa.info-engineer.jp/?p=164</guid>
+					<description><![CDATA[ほげほげfm タイトル:「抱負はどや顔!?&#38;チーム開発苦悩」 テーマ:「ふわり、イ...]]></description>
+					<itunes:subtitle><![CDATA[ほげほげfm タイトル:「抱負はどや顔!?&#38;チーム開発苦悩」 テーマ:「ふわり、イ...]]></itunes:subtitle>
+																<itunes:episodeType>full</itunes:episodeType>
+																<itunes:title><![CDATA[ep5. 抱負はどや顔!?&チーム開発苦悩]]></itunes:title>
+																<itunes:episode>5</itunes:episode>
+															<content:encoded><![CDATA[<h1>ほげほげfm</h1>
+<ul>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/2019/02/17/ep5-抱負はどや顔チーム開発苦悩/">「抱負はどや顔!?&amp;チーム開発苦悩」</a></li>
+<li>テーマ:<a href="https://www.kappa.info-engineer.jp/2019/02/17/ep5-抱負はどや顔チーム開発苦悩/">「ふわり、インターン行ったってよ」</a></li>
+</ul>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはいつでもどや顔をしているYukiです</li>
+<li>ep6で話しますがこの配信から<code>テーマ</code>と<code>タイトル</code>は変えて配信します</li>
+<li>今回は初の試みでリモート環境での収録になりました</li>
+<li>音質は今後の課題で改善していければと思います</li>
+<li>今回は我慢してお聞きください･･･(_ _)</li>
+<li>今回は冒頭を長めに語っていたら20分近くもたってしまっていました</li>
+</ul>
+<h2>内容</h2>
+<ul>
+<li>ふわりとYukiの今年の抱負</li>
+<li>ふわりのインターンに行った話</li>
+<li>Ruby on Railsでwebアプリを開発するインターン</li>
+<li>インターンや就活の際に外部サイトの活用</li>
+<li>初めましてでのチーム開発</li>
+<li>平成ネット史の感想</li>
+<li>IT脳の話</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+<li>既読だけでも喜びます!!</li>
+</ul>
+</li>
+<li>IT脳の発見もあれば#ほげほげfmと併せて#IT脳をつけてツイートしてください</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/PDCA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB">PDCAサイクル</a></li>
+<li><a href="https://syukatsu-kaigi.jp/">就職会議</a></li>
+<li><a href="https://careerselect.jp/">Career Select</a></li>
+<li><a href="https://supporterz.jp/">サポーターズ</a></li>
+<li><a href="https://www.neo-career.co.jp/">neocareer</a></li>
+<li><a href="http://www4.nhk.or.jp/nethistory/">平成ネット史（仮）</a></li>
+<li><a href="https://coconutsjapan.com/entertainment/heisei-netshi-nhk-horiemon/10918/">平成ネット史のまとめ</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<h3>録音</h3>
+<ul>
+<li>MacBookPro(ふわり)</li>
+<li>WindwosPC(Yuki)</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.%20%E6%8A%B1%E8%B2%A0%E3%81%AF%E3%81%A9%E3%82%84%E9%A1%94%21%3F%26%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%8B%A6%E6%82%A9" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.%20%E6%8A%B1%E8%B2%A0%E3%81%AF%E3%81%A9%E3%82%84%E9%A1%94%21%3F%26%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%8B%A6%E6%82%A9" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.%20%E6%8A%B1%E8%B2%A0%E3%81%AF%E3%81%A9%E3%82%84%E9%A1%94%21%3F%26%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%8B%A6%E6%82%A9" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.%20%E6%8A%B1%E8%B2%A0%E3%81%AF%E3%81%A9%E3%82%84%E9%A1%94%21%3F%26%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%8B%A6%E6%82%A9" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&#038;title=ep5.%20%E6%8A%B1%E8%B2%A0%E3%81%AF%E3%81%A9%E3%82%84%E9%A1%94%21%3F%26%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%8B%A6%E6%82%A9" data-a2a-url="https://www.kappa.info-engineer.jp/2019/02/17/ep5-%e6%8a%b1%e8%b2%a0%e3%81%af%e3%81%a9%e3%82%84%e9%a1%94%e3%83%81%e3%83%bc%e3%83%a0%e9%96%8b%e7%99%ba%e8%8b%a6%e6%82%a9/" data-a2a-title="ep5. 抱負はどや顔!?&amp;チーム開発苦悩"></a></p>]]></content:encoded>
+					<itunes:summary><![CDATA[<h1>ほげほげfm</h1>
+<ul>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/2019/02/17/ep5-抱負はどや顔チーム開発苦悩/">「抱負はどや顔!?&amp;チーム開発苦悩」</a></li>
+<li>テーマ:<a href="https://www.kappa.info-engineer.jp/2019/02/17/ep5-抱負はどや顔チーム開発苦悩/">「ふわり、インターン行ったってよ」</a></li>
+</ul>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはいつでもどや顔をしているYukiです</li>
+<li>ep6で話しますがこの配信から<code>テーマ</code>と<code>タイトル</code>は変えて配信します</li>
+<li>今回は初の試みでリモート環境での収録になりました</li>
+<li>音質は今後の課題で改善していければと思います</li>
+<li>今回は我慢してお聞きください･･･(_ _)</li>
+<li>今回は冒頭を長めに語っていたら20分近くもたってしまっていました</li>
+</ul>
+<h2>内容</h2>
+<ul>
+<li>ふわりとYukiの今年の抱負</li>
+<li>ふわりのインターンに行った話</li>
+<li>Ruby on Railsでwebアプリを開発するインターン</li>
+<li>インターンや就活の際に外部サイトの活用</li>
+<li>初めましてでのチーム開発</li>
+<li>平成ネット史の感想</li>
+<li>IT脳の話</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+<li>既読だけでも喜びます!!</li>
+</ul>
+</li>
+<li>IT脳の発見もあれば#ほげほげfmと併せて#IT脳をつけてツイートしてください</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/PDCA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB">PDCAサイクル</a></li>
+<li><a href="https://syukatsu-kaigi.jp/">就職会議</a></li>
+<li><a href="https://careerselect.jp/">Career Select</a></li>
+<li><a href="https://supporterz.jp/">サポーターズ</a></li>
+<li><a href="https://www.neo-career.co.jp/">neocareer</a></li>
+<li><a href="http://www4.nhk.or.jp/nethistory/">平成ネット史（仮）</a></li>
+<li><a href="https://coconutsjapan.com/entertainment/heisei-netshi-nhk-horiemon/10918/">平成ネット史のまとめ</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<h3>録音</h3>
+<ul>
+<li>MacBookPro(ふわり)</li>
+<li>WindwosPC(Yuki)</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.%20%E6%8A%B1%E8%B2%A0%E3%81%AF%E3%81%A9%E3%82%84%E9%A1%94%21%3F%26%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%8B%A6%E6%82%A9" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.%20%E6%8A%B1%E8%B2%A0%E3%81%AF%E3%81%A9%E3%82%84%E9%A1%94%21%3F%26%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%8B%A6%E6%82%A9" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.%20%E6%8A%B1%E8%B2%A0%E3%81%AF%E3%81%A9%E3%82%84%E9%A1%94%21%3F%26%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%8B%A6%E6%82%A9" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.]]></itunes:summary>
+					<googleplay:description><![CDATA[<h1>ほげほげfm</h1>
+<ul>
+<li>タイトル:<a href="https://www.kappa.info-engineer.jp/2019/02/17/ep5-抱負はどや顔チーム開発苦悩/">「抱負はどや顔!?&amp;チーム開発苦悩」</a></li>
+<li>テーマ:<a href="https://www.kappa.info-engineer.jp/2019/02/17/ep5-抱負はどや顔チーム開発苦悩/">「ふわり、インターン行ったってよ」</a></li>
+</ul>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはいつでもどや顔をしているYukiです</li>
+<li>ep6で話しますがこの配信から<code>テーマ</code>と<code>タイトル</code>は変えて配信します</li>
+<li>今回は初の試みでリモート環境での収録になりました</li>
+<li>音質は今後の課題で改善していければと思います</li>
+<li>今回は我慢してお聞きください･･･(_ _)</li>
+<li>今回は冒頭を長めに語っていたら20分近くもたってしまっていました</li>
+</ul>
+<h2>内容</h2>
+<ul>
+<li>ふわりとYukiの今年の抱負</li>
+<li>ふわりのインターンに行った話</li>
+<li>Ruby on Railsでwebアプリを開発するインターン</li>
+<li>インターンや就活の際に外部サイトの活用</li>
+<li>初めましてでのチーム開発</li>
+<li>平成ネット史の感想</li>
+<li>IT脳の話</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+<li>既読だけでも喜びます!!</li>
+</ul>
+</li>
+<li>IT脳の発見もあれば#ほげほげfmと併せて#IT脳をつけてツイートしてください</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/PDCA%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB">PDCAサイクル</a></li>
+<li><a href="https://syukatsu-kaigi.jp/">就職会議</a></li>
+<li><a href="https://careerselect.jp/">Career Select</a></li>
+<li><a href="https://supporterz.jp/">サポーターズ</a></li>
+<li><a href="https://www.neo-career.co.jp/">neocareer</a></li>
+<li><a href="http://www4.nhk.or.jp/nethistory/">平成ネット史（仮）</a></li>
+<li><a href="https://coconutsjapan.com/entertainment/heisei-netshi-nhk-horiemon/10918/">平成ネット史のまとめ</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<h3>録音</h3>
+<ul>
+<li>MacBookPro(ふわり)</li>
+<li>WindwosPC(Yuki)</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.%20%E6%8A%B1%E8%B2%A0%E3%81%AF%E3%81%A9%E3%82%84%E9%A1%94%21%3F%26%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%8B%A6%E6%82%A9" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.%20%E6%8A%B1%E8%B2%A0%E3%81%AF%E3%81%A9%E3%82%84%E9%A1%94%21%3F%26%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%8B%A6%E6%82%A9" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.%20%E6%8A%B1%E8%B2%A0%E3%81%AF%E3%81%A9%E3%82%84%E9%A1%94%21%3F%26%E3%83%81%E3%83%BC%E3%83%A0%E9%96%8B%E7%99%BA%E8%8B%A6%E6%82%A9" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F02%2F17%2Fep5-%25e6%258a%25b1%25e8%25b2%25a0%25e3%2581%25af%25e3%2581%25a9%25e3%2582%2584%25e9%25a1%2594%25e3%2583%2581%25e3%2583%25bc%25e3%2583%25a0%25e9%2596%258b%25e7%2599%25ba%25e8%258b%25a6%25e6%2582%25a9%2F&amp;linkname=ep5.]]></googleplay:description>
+											<itunes:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></itunes:image>
+						<googleplay:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></googleplay:image>
+										<enclosure url="https://www.kappa.info-engineer.jp/podcast-download/164/ep5-%e6%8a%b1%e8%b2%a0%e3%81%af%e3%81%a9%e3%82%84%e9%a1%94%e3%83%81%e3%83%bc%e3%83%a0%e9%96%8b%e7%99%ba%e8%8b%a6%e6%82%a9.mp3" length="1" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>0:00</itunes:duration>
+					<itunes:author>Fuwari</itunes:author>
+				</item>
+							<item>
+					<title>ep4. Yuki、ICPCに出場したってよ</title>
+					<link>https://www.kappa.info-engineer.jp/2019/01/07/ep4-yuki%e3%80%81icpc%e3%81%ab%e5%87%ba%e5%a0%b4%e3%81%97%e3%81%9f%e3%81%a3%e3%81%a6%e3%82%88/</link>
+					<pubDate>Mon, 07 Jan 2019 14:11:48 +0000</pubDate>
+					<dc:creator>Fuwari</dc:creator>
+					<guid isPermaLink="false">https://www.kappa.info-engineer.jp/?p=157</guid>
+					<description><![CDATA[ほげほげfm 編集後記 こんにちはforeachを知らないYukiです 第4回目のテーマは...]]></description>
+					<itunes:subtitle><![CDATA[ほげほげfm 編集後記 こんにちはforeachを知らないYukiです 第4回目のテーマは...]]></itunes:subtitle>
+																<itunes:episodeType>full</itunes:episodeType>
+																<itunes:title><![CDATA[ep4. Yuki、ICPCに出場したってよ]]></itunes:title>
+																<itunes:episode>4</itunes:episode>
+															<content:encoded><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはforeachを知らないYukiです</li>
+<li>第4回目のテーマは<a href="https://www.kappa.info-engineer.jp/2019/01/07/ep4-yuki%E3%80%81icpc%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88/">「Yuki、ICPC出場したってよ」</a>でした</li>
+<li>ICPCという競技プログラミングの大会に出場してきました
+<ul>
+<li>ICPCとは?</li>
+<li>すべて英語でつらかった話</li>
+<li>プログラマーってめちゃくちゃ優遇されている件</li>
+</ul>
+</li>
+<li>今回の脱線ではCとC++の違い等について話しています
+<ul>
+<li>C++で動的な配列を使用したいときに巡り会った<code>vector型</code>について</li>
+<li>C言語知ってて良かった</li>
+</ul>
+</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/ACM%E5%9B%BD%E9%9A%9B%E5%A4%A7%E5%AD%A6%E5%AF%BE%E6%8A%97%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88">ICPC(wiki)</a></li>
+<li><a href="https://icpc.iisf.or.jp/2018-yokohama/">ICPC(アジア地区横浜大会-2018)</a>
+<ul>
+<li>タイムスケジュールやルール等も見ることができます</li>
+</ul>
+</li>
+<li><a href="https://line.me/ja/">LINE</a></li>
+<li><a href="https://www.preferred-networks.jp/ja/">Preferred Networks</a>
+<ul>
+<li>名前間違ってしまいすみません</li>
+</ul>
+</li>
+<li><a href="https://mujin.co.jp/index.html">MUJIN</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&#038;title=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" data-a2a-url="https://www.kappa.info-engineer.jp/2019/01/07/ep4-yuki%e3%80%81icpc%e3%81%ab%e5%87%ba%e5%a0%b4%e3%81%97%e3%81%9f%e3%81%a3%e3%81%a6%e3%82%88/" data-a2a-title="ep4. Yuki、ICPCに出場したってよ"></a></p>]]></content:encoded>
+					<itunes:summary><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはforeachを知らないYukiです</li>
+<li>第4回目のテーマは<a href="https://www.kappa.info-engineer.jp/2019/01/07/ep4-yuki%E3%80%81icpc%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88/">「Yuki、ICPC出場したってよ」</a>でした</li>
+<li>ICPCという競技プログラミングの大会に出場してきました
+<ul>
+<li>ICPCとは?</li>
+<li>すべて英語でつらかった話</li>
+<li>プログラマーってめちゃくちゃ優遇されている件</li>
+</ul>
+</li>
+<li>今回の脱線ではCとC++の違い等について話しています
+<ul>
+<li>C++で動的な配列を使用したいときに巡り会った<code>vector型</code>について</li>
+<li>C言語知ってて良かった</li>
+</ul>
+</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/ACM%E5%9B%BD%E9%9A%9B%E5%A4%A7%E5%AD%A6%E5%AF%BE%E6%8A%97%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88">ICPC(wiki)</a></li>
+<li><a href="https://icpc.iisf.or.jp/2018-yokohama/">ICPC(アジア地区横浜大会-2018)</a>
+<ul>
+<li>タイムスケジュールやルール等も見ることができます</li>
+</ul>
+</li>
+<li><a href="https://line.me/ja/">LINE</a></li>
+<li><a href="https://www.preferred-networks.jp/ja/">Preferred Networks</a>
+<ul>
+<li>名前間違ってしまいすみません</li>
+</ul>
+</li>
+<li><a href="https://mujin.co.jp/index.html">MUJIN</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&#038;title=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E]]></itunes:summary>
+					<googleplay:description><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはforeachを知らないYukiです</li>
+<li>第4回目のテーマは<a href="https://www.kappa.info-engineer.jp/2019/01/07/ep4-yuki%E3%80%81icpc%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88/">「Yuki、ICPC出場したってよ」</a>でした</li>
+<li>ICPCという競技プログラミングの大会に出場してきました
+<ul>
+<li>ICPCとは?</li>
+<li>すべて英語でつらかった話</li>
+<li>プログラマーってめちゃくちゃ優遇されている件</li>
+</ul>
+</li>
+<li>今回の脱線ではCとC++の違い等について話しています
+<ul>
+<li>C++で動的な配列を使用したいときに巡り会った<code>vector型</code>について</li>
+<li>C言語知ってて良かった</li>
+</ul>
+</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://ja.wikipedia.org/wiki/ACM%E5%9B%BD%E9%9A%9B%E5%A4%A7%E5%AD%A6%E5%AF%BE%E6%8A%97%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%B3%E3%83%B3%E3%83%86%E3%82%B9%E3%83%88">ICPC(wiki)</a></li>
+<li><a href="https://icpc.iisf.or.jp/2018-yokohama/">ICPC(アジア地区横浜大会-2018)</a>
+<ul>
+<li>タイムスケジュールやルール等も見ることができます</li>
+</ul>
+</li>
+<li><a href="https://line.me/ja/">LINE</a></li>
+<li><a href="https://www.preferred-networks.jp/ja/">Preferred Networks</a>
+<ul>
+<li>名前間違ってしまいすみません</li>
+</ul>
+</li>
+<li><a href="https://mujin.co.jp/index.html">MUJIN</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&amp;linkname=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E3%82%88" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2019%2F01%2F07%2Fep4-yuki%25e3%2580%2581icpc%25e3%2581%25ab%25e5%2587%25ba%25e5%25a0%25b4%25e3%2581%2597%25e3%2581%259f%25e3%2581%25a3%25e3%2581%25a6%25e3%2582%2588%2F&#038;title=ep4.%20Yuki%E3%80%81ICPC%E3%81%AB%E5%87%BA%E5%A0%B4%E3%81%97%E3%81%9F%E3%81%A3%E3%81%A6%E]]></googleplay:description>
+											<itunes:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></itunes:image>
+						<googleplay:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></googleplay:image>
+										<enclosure url="https://www.kappa.info-engineer.jp/podcast-download/157/ep4-yuki%e3%80%81icpc%e3%81%ab%e5%87%ba%e5%a0%b4%e3%81%97%e3%81%9f%e3%81%a3%e3%81%a6%e3%82%88.mp3" length="1" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>0:00</itunes:duration>
+					<itunes:author>Fuwari</itunes:author>
+				</item>
+							<item>
+					<title>ep.3 Yukiさんのインターン</title>
+					<link>https://www.kappa.info-engineer.jp/2018/12/19/ep-3-yuki%e3%81%95%e3%82%93%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%b3/</link>
+					<pubDate>Tue, 18 Dec 2018 15:43:10 +0000</pubDate>
+					<dc:creator>Fuwari</dc:creator>
+					<guid isPermaLink="false">https://www.kappa.info-engineer.jp/?p=154</guid>
+					<description><![CDATA[ほげほげfm 編集後記 こんにちはYukiです 第3回目のテーマは「Yukiのインターン」...]]></description>
+					<itunes:subtitle><![CDATA[ほげほげfm 編集後記 こんにちはYukiです 第3回目のテーマは「Yukiのインターン」...]]></itunes:subtitle>
+																<itunes:episodeType>full</itunes:episodeType>
+																<itunes:title><![CDATA[ep.3 Yukiさんのインターン]]></itunes:title>
+																<itunes:episode>3</itunes:episode>
+															<content:encoded><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはYukiです</li>
+<li>第3回目のテーマは<a href="https://www.kappa.info-engineer.jp">「Yukiのインターン」</a>でした
+<ul>
+<li>コロコロテーマが変わってしまいすみません</li>
+</ul>
+</li>
+<li>2年の冬から活動したYukiのインターンの記録です</li>
+<li>コードレビューしてもらった話やカレンダーの活用術等を話しました</li>
+<li>冒頭にはPodcastの運営方針等も話しています</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>訂正</h2>
+<ul>
+<li>やっぱり就活ルールは廃止らしいです。<a href="https://www.nikkei.com/article/DGXMZO36255980Z01C18A0000000/?n_cid=DSREA001">リンク</a>
+<ul>
+<li>21年春入社以降の学生が対象のようなのでふわりが就活ルール最後の世代ですね(進学しなければ)</li>
+</ul>
+</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://developer.android.com/studio/install?hl=ja">Android Studio</a></li>
+<li><a href="https://chihounomikata.com/">地方のミカタ</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&#038;title=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" data-a2a-url="https://www.kappa.info-engineer.jp/2018/12/19/ep-3-yuki%e3%81%95%e3%82%93%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%b3/" data-a2a-title="ep.3 Yukiさんのインターン"></a></p>]]></content:encoded>
+					<itunes:summary><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはYukiです</li>
+<li>第3回目のテーマは<a href="https://www.kappa.info-engineer.jp">「Yukiのインターン」</a>でした
+<ul>
+<li>コロコロテーマが変わってしまいすみません</li>
+</ul>
+</li>
+<li>2年の冬から活動したYukiのインターンの記録です</li>
+<li>コードレビューしてもらった話やカレンダーの活用術等を話しました</li>
+<li>冒頭にはPodcastの運営方針等も話しています</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>訂正</h2>
+<ul>
+<li>やっぱり就活ルールは廃止らしいです。<a href="https://www.nikkei.com/article/DGXMZO36255980Z01C18A0000000/?n_cid=DSREA001">リンク</a>
+<ul>
+<li>21年春入社以降の学生が対象のようなのでふわりが就活ルール最後の世代ですね(進学しなければ)</li>
+</ul>
+</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://developer.android.com/studio/install?hl=ja">Android Studio</a></li>
+<li><a href="https://chihounomikata.com/">地方のミカタ</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&#038;title=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" data-a2a-url="https://www.kappa.info-engineer.jp/2018/12/19/ep-3-yuki%e3%81%95%e3%82%93%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%b3/" data-a2a-title="ep.3 Yukiさんのインターン"></a></p>]]></itunes:summary>
+					<googleplay:description><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはYukiです</li>
+<li>第3回目のテーマは<a href="https://www.kappa.info-engineer.jp">「Yukiのインターン」</a>でした
+<ul>
+<li>コロコロテーマが変わってしまいすみません</li>
+</ul>
+</li>
+<li>2年の冬から活動したYukiのインターンの記録です</li>
+<li>コードレビューしてもらった話やカレンダーの活用術等を話しました</li>
+<li>冒頭にはPodcastの運営方針等も話しています</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>訂正</h2>
+<ul>
+<li>やっぱり就活ルールは廃止らしいです。<a href="https://www.nikkei.com/article/DGXMZO36255980Z01C18A0000000/?n_cid=DSREA001">リンク</a>
+<ul>
+<li>21年春入社以降の学生が対象のようなのでふわりが就活ルール最後の世代ですね(進学しなければ)</li>
+</ul>
+</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://developer.android.com/studio/install?hl=ja">Android Studio</a></li>
+<li><a href="https://chihounomikata.com/">地方のミカタ</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&amp;linkname=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F19%2Fep-3-yuki%25e3%2581%2595%25e3%2582%2593%25e3%2581%25ae%25e3%2582%25a4%25e3%2583%25b3%25e3%2582%25bf%25e3%2583%25bc%25e3%2583%25b3%2F&#038;title=ep.3%20Yuki%E3%81%95%E3%82%93%E3%81%AE%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%B3" data-a2a-url="https://www.kappa.info-engineer.jp/2018/12/19/ep-3-yuki%e3%81%95%e3%82%93%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%b3/" data-a2a-title="ep.3 Yukiさんのインターン"></a></p>]]></googleplay:description>
+											<itunes:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></itunes:image>
+						<googleplay:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></googleplay:image>
+										<enclosure url="https://www.kappa.info-engineer.jp/podcast-download/154/ep-3-yuki%e3%81%95%e3%82%93%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%b3.mp3" length="1" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>0:00</itunes:duration>
+					<itunes:author>Fuwari</itunes:author>
+				</item>
+							<item>
+					<title>ep.2 開発合宿の色々</title>
+					<link>https://www.kappa.info-engineer.jp/2018/12/13/ep-2-%e9%96%8b%e7%99%ba%e5%90%88%e5%ae%bf%e3%81%ae%e8%89%b2%e3%80%85/</link>
+					<pubDate>Thu, 13 Dec 2018 03:55:51 +0000</pubDate>
+					<dc:creator>Fuwari</dc:creator>
+					<guid isPermaLink="false">https://www.kappa.info-engineer.jp/?p=147</guid>
+					<description><![CDATA[ほげほげfm 編集後記 こんにちはYukiです 第2回目のテーマは「開発合宿」でした 前回...]]></description>
+					<itunes:subtitle><![CDATA[ほげほげfm 編集後記 こんにちはYukiです 第2回目のテーマは「開発合宿」でした 前回...]]></itunes:subtitle>
+																<itunes:episodeType>full</itunes:episodeType>
+																<itunes:title><![CDATA[ep.2 開発合宿の色々]]></itunes:title>
+																<itunes:episode>2</itunes:episode>
+															<content:encoded><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはYukiです</li>
+<li>第2回目のテーマは<a href="">「開発合宿」</a>でした</li>
+<li>前回話す話す詐欺をしたテーマです</li>
+<li>開発合宿のテーマは<code>「サークルホームページのリニューアルと新機能について」</code>でした</li>
+<li>夏休みに1~3年生の会員が参加者で4年生がメンターとして参加しました</li>
+<li>大枠で開発合宿について話していますがその中からGitやJavaScriptの事まで話しました</li>
+<li>鼻をすする音が入ってしまっていて申し訳ありません!</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>訂正</h2>
+<ul>
+<li>11:53 <code>Bracket</code>ではなく<code>Bitbucket</code>でした。プライベートレポジトリが使えるので使用しました</li>
+<li>14:27 <code>syntax highlight</code>ではなく<code>split view</code>or<code>diff view</code>とかのようです(サイトによって違うよう)
+<ul>
+<li>ちなみに<code>syntax highlight</code>はeditor等で行われる文字色が変わる機能です</li>
+<li><code>split view</code>はiPadの機能が検索上位に出てきてしまいますね…</li>
+</ul>
+</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="http://bizsysd.enpit.jp/">enPit BizSysD</a></li>
+<li><a href="https://bitbucket.org/product">BitBukect</a></li>
+<li><a href="https://amzn.to/2zG8CEP">わかばちゃんと学ぶ Git使い方入門</a></li>
+<li><a href="https://ja.atlassian.com/software/sourcetree">Sourcetree</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">Git History</a></li>
+<li><a href="https://trello.com/">Trello</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&#038;title=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" data-a2a-url="https://www.kappa.info-engineer.jp/2018/12/13/ep-2-%e9%96%8b%e7%99%ba%e5%90%88%e5%ae%bf%e3%81%ae%e8%89%b2%e3%80%85/" data-a2a-title="ep.2 開発合宿の色々"></a></p>]]></content:encoded>
+					<itunes:summary><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはYukiです</li>
+<li>第2回目のテーマは<a href="">「開発合宿」</a>でした</li>
+<li>前回話す話す詐欺をしたテーマです</li>
+<li>開発合宿のテーマは<code>「サークルホームページのリニューアルと新機能について」</code>でした</li>
+<li>夏休みに1~3年生の会員が参加者で4年生がメンターとして参加しました</li>
+<li>大枠で開発合宿について話していますがその中からGitやJavaScriptの事まで話しました</li>
+<li>鼻をすする音が入ってしまっていて申し訳ありません!</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>訂正</h2>
+<ul>
+<li>11:53 <code>Bracket</code>ではなく<code>Bitbucket</code>でした。プライベートレポジトリが使えるので使用しました</li>
+<li>14:27 <code>syntax highlight</code>ではなく<code>split view</code>or<code>diff view</code>とかのようです(サイトによって違うよう)
+<ul>
+<li>ちなみに<code>syntax highlight</code>はeditor等で行われる文字色が変わる機能です</li>
+<li><code>split view</code>はiPadの機能が検索上位に出てきてしまいますね…</li>
+</ul>
+</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="http://bizsysd.enpit.jp/">enPit BizSysD</a></li>
+<li><a href="https://bitbucket.org/product">BitBukect</a></li>
+<li><a href="https://amzn.to/2zG8CEP">わかばちゃんと学ぶ Git使い方入門</a></li>
+<li><a href="https://ja.atlassian.com/software/sourcetree">Sourcetree</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">Git History</a></li>
+<li><a href="https://trello.com/">Trello</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&#038;title=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" data-a2a-url="https://www.kappa.info-engineer.jp/2018/12/13/ep-2-%e9%96%8b%e7%99%ba%e5%90%88%e5%ae%bf%e3%81%ae%e8%89%b2%e3%80%85/" data-a2a-title="ep.2 開発合宿の色々"></a></p>]]></itunes:summary>
+					<googleplay:description><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはYukiです</li>
+<li>第2回目のテーマは<a href="">「開発合宿」</a>でした</li>
+<li>前回話す話す詐欺をしたテーマです</li>
+<li>開発合宿のテーマは<code>「サークルホームページのリニューアルと新機能について」</code>でした</li>
+<li>夏休みに1~3年生の会員が参加者で4年生がメンターとして参加しました</li>
+<li>大枠で開発合宿について話していますがその中からGitやJavaScriptの事まで話しました</li>
+<li>鼻をすする音が入ってしまっていて申し訳ありません!</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>訂正</h2>
+<ul>
+<li>11:53 <code>Bracket</code>ではなく<code>Bitbucket</code>でした。プライベートレポジトリが使えるので使用しました</li>
+<li>14:27 <code>syntax highlight</code>ではなく<code>split view</code>or<code>diff view</code>とかのようです(サイトによって違うよう)
+<ul>
+<li>ちなみに<code>syntax highlight</code>はeditor等で行われる文字色が変わる機能です</li>
+<li><code>split view</code>はiPadの機能が検索上位に出てきてしまいますね…</li>
+</ul>
+</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="http://bizsysd.enpit.jp/">enPit BizSysD</a></li>
+<li><a href="https://bitbucket.org/product">BitBukect</a></li>
+<li><a href="https://amzn.to/2zG8CEP">わかばちゃんと学ぶ Git使い方入門</a></li>
+<li><a href="https://ja.atlassian.com/software/sourcetree">Sourcetree</a></li>
+<li><a href="https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory">Git History</a></li>
+<li><a href="https://trello.com/">Trello</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&amp;linkname=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F12%2F13%2Fep-2-%25e9%2596%258b%25e7%2599%25ba%25e5%2590%2588%25e5%25ae%25bf%25e3%2581%25ae%25e8%2589%25b2%25e3%2580%2585%2F&#038;title=ep.2%20%E9%96%8B%E7%99%BA%E5%90%88%E5%AE%BF%E3%81%AE%E8%89%B2%E3%80%85" data-a2a-url="https://www.kappa.info-engineer.jp/2018/12/13/ep-2-%e9%96%8b%e7%99%ba%e5%90%88%e5%ae%bf%e3%81%ae%e8%89%b2%e3%80%85/" data-a2a-title="ep.2 開発合宿の色々"></a></p>]]></googleplay:description>
+											<itunes:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></itunes:image>
+						<googleplay:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></googleplay:image>
+										<enclosure url="https://www.kappa.info-engineer.jp/podcast-download/147/ep-2-%e9%96%8b%e7%99%ba%e5%90%88%e5%ae%bf%e3%81%ae%e8%89%b2%e3%80%85.mp3" length="1" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>0:00</itunes:duration>
+					<itunes:author>Fuwari</itunes:author>
+				</item>
+							<item>
+					<title>ep.1 私達のサークルで触った技術</title>
+					<link>https://www.kappa.info-engineer.jp/2018/11/24/ep-1-%e7%a7%81%e9%81%94%e3%81%ae%e3%82%b5%e3%83%bc%e3%82%af%e3%83%ab%e3%81%a7%e8%a7%a6%e3%81%a3%e3%81%9f%e6%8a%80%e8%a1%93/</link>
+					<pubDate>Fri, 23 Nov 2018 20:01:28 +0000</pubDate>
+					<dc:creator>Fuwari</dc:creator>
+					<guid isPermaLink="false">https://www.kappa.info-engineer.jp/?p=126</guid>
+					<description><![CDATA[ほげほげfm 編集後記 こんにちはYukiです 第1回目のテーマは「サークル」でした 私た...]]></description>
+					<itunes:subtitle><![CDATA[ほげほげfm 編集後記 こんにちはYukiです 第1回目のテーマは「サークル」でした 私た...]]></itunes:subtitle>
+																<itunes:episodeType>full</itunes:episodeType>
+																									<content:encoded><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはYukiです</li>
+<li>第1回目のテーマは<a href="https://www.kappa.info-engineer.jp/2018/11/24/ep-1-%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93/">「サークル」</a>でした</li>
+<li>私たちの所属しているサークルの紹介を冒頭に行いました
+<ul>
+<li>前半:プログラミング,マルチメディア,ネットワーク班の紹介</li>
+<li>後半:LTやリモートやら課題をどういう環境でこなすか的な話をしています</li>
+</ul>
+</li>
+<li>YukiがIDEやエディタでターミナルがほしいのはGitは<code>コンソール派</code>だからです
+<ul>
+<li>Gitのプレフィックスについてはリンク集に<a href="https://qiita.com/numanomanu/items/45dd285b286a1f7280ed"><code>Qiita</code></a>の記事を載せたので見てみてください</li>
+</ul>
+</li>
+<li>ふわりはサークルの会長を務めていたので長としての話とかも聞ければ良かったですね
+<ul>
+<li>その話はまたどこかで&#8230;</li>
+</ul>
+</li>
+<li>どうやら第２回は<code>「開発合宿」</code>になりそうなのでお楽しみに~</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>訂正</h2>
+<ul>
+<li>今回から訂正欄を追加しました
+<ul>
+<li>前回に引き続きYukiがミスしていますので…</li>
+<li>ShowNote担当だからここで訂正すればいいと思って甘えながら話しますw</li>
+</ul>
+</li>
+<li><code>21:20</code>:emacsの設定ファイルは<code>.emacsrc</code>ではなくて<code>.emacs.el</code>でした</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li>多分最初だから多めに載せてます(ソフトの名前とかはいらないと思いますが…)</li>
+<li><a href="https://ja.wikipedia.org/wiki/Windows_Subsystem_for_Linux">WSL</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/RLogin">RLogin</a></li>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+<li><a href="https://atom.io/">Atom</a></li>
+<li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a></li>
+<li><a href="https://qiita.com/numanomanu/items/45dd285b286a1f7280ed">プレフィックスについて</a></li>
+<li><a href="https://unity3d.com/jp">Unity</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25ab%25e3%2581%25a7%25e8%25a7%25a6%25e3%2581%25a3%25e3%2581%259f%25e6%258a%2580%25e8%25a1%2593%2F&amp;linkname=ep.1%20%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25ab%25e3%2581%25a7%25e8%25a7%25a6%25e3%2581%25a3%25e3%2581%259f%25e6%258a%2580%25e8%25a1%2593%2F&amp;linkname=ep.1%20%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25ab%25e3%2581%25a7%25e8%25a7%25a6%25e3%2581%25a3%25e3%2581%259f%25e6%258a%2580%25e8%25a1%2593%2F&amp;linkname=ep.1%20%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25ab%25e3%2581%25a7%25e8%25a7%25a6%25e3%2581%25a3%25e3%2581%259f%25e6%258a%2580%25e8%25a1%2593%2F&amp;linkname=ep.1%20%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25ab%25e3%2581%25a7%25e8%25a7%25a6%25e3%2581%25a3%25e3%2581%259f%25e6%258a%2580%25e8%25a1%2593%2F&#038;title=ep.1%20%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93" data-a2a-url="https://www.kappa.info-engineer.jp/2018/11/24/ep-1-%e7%a7%81%e9%81%94%e3%81%ae%e3%82%b5%e3%83%bc%e3%82%af%e3%83%ab%e3%81%a7%e8%a7%a6%e3%81%a3%e3%81%9f%e6%8a%80%e8%a1%93/" data-a2a-title="ep.1 私達のサークルで触った技術"></a></p>]]></content:encoded>
+					<itunes:summary><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはYukiです</li>
+<li>第1回目のテーマは<a href="https://www.kappa.info-engineer.jp/2018/11/24/ep-1-%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93/">「サークル」</a>でした</li>
+<li>私たちの所属しているサークルの紹介を冒頭に行いました
+<ul>
+<li>前半:プログラミング,マルチメディア,ネットワーク班の紹介</li>
+<li>後半:LTやリモートやら課題をどういう環境でこなすか的な話をしています</li>
+</ul>
+</li>
+<li>YukiがIDEやエディタでターミナルがほしいのはGitは<code>コンソール派</code>だからです
+<ul>
+<li>Gitのプレフィックスについてはリンク集に<a href="https://qiita.com/numanomanu/items/45dd285b286a1f7280ed"><code>Qiita</code></a>の記事を載せたので見てみてください</li>
+</ul>
+</li>
+<li>ふわりはサークルの会長を務めていたので長としての話とかも聞ければ良かったですね
+<ul>
+<li>その話はまたどこかで&#8230;</li>
+</ul>
+</li>
+<li>どうやら第２回は<code>「開発合宿」</code>になりそうなのでお楽しみに~</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>訂正</h2>
+<ul>
+<li>今回から訂正欄を追加しました
+<ul>
+<li>前回に引き続きYukiがミスしていますので…</li>
+<li>ShowNote担当だからここで訂正すればいいと思って甘えながら話しますw</li>
+</ul>
+</li>
+<li><code>21:20</code>:emacsの設定ファイルは<code>.emacsrc</code>ではなくて<code>.emacs.el</code>でした</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li>多分最初だから多めに載せてます(ソフトの名前とかはいらないと思いますが…)</li>
+<li><a href="https://ja.wikipedia.org/wiki/Windows_Subsystem_for_Linux">WSL</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/RLogin">RLogin</a></li>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+<li><a href="https://atom.io/">Atom</a></li>
+<li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a></li>
+<li><a href="https://qiita.com/numanomanu/items/45dd285b286a1f7280ed">プレフィックスについて</a></li>
+<li><a href="https://unity3d.com/jp">Unity</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25ab%25e3%2581%25a7%25e8%25a7%25a6%25e3%2581%25a3%25e3%2581%259f%25e6%258a%2580%25e8%25a1%2593%2F&amp;linkname=ep.1%20%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25ab%25e3%2581%25a7%25e8%25a7%25a6%25e3%2581%25a3%25e3%2581%259f%25e6%258a%2580%25e8%25a1%2593%2F&amp;linkname=ep.1%20%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25ab%25e3%2581%25a7%25e8%25a7%25a6%25e3%2581%25a3%25e3%2581%259f%25e6%258a%2580%25e8%25a1%2593%2F&amp;linkname=ep.1%20%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%2]]></itunes:summary>
+					<googleplay:description><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>こんにちはYukiです</li>
+<li>第1回目のテーマは<a href="https://www.kappa.info-engineer.jp/2018/11/24/ep-1-%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93/">「サークル」</a>でした</li>
+<li>私たちの所属しているサークルの紹介を冒頭に行いました
+<ul>
+<li>前半:プログラミング,マルチメディア,ネットワーク班の紹介</li>
+<li>後半:LTやリモートやら課題をどういう環境でこなすか的な話をしています</li>
+</ul>
+</li>
+<li>YukiがIDEやエディタでターミナルがほしいのはGitは<code>コンソール派</code>だからです
+<ul>
+<li>Gitのプレフィックスについてはリンク集に<a href="https://qiita.com/numanomanu/items/45dd285b286a1f7280ed"><code>Qiita</code></a>の記事を載せたので見てみてください</li>
+</ul>
+</li>
+<li>ふわりはサークルの会長を務めていたので長としての話とかも聞ければ良かったですね
+<ul>
+<li>その話はまたどこかで&#8230;</li>
+</ul>
+</li>
+<li>どうやら第２回は<code>「開発合宿」</code>になりそうなのでお楽しみに~</li>
+</ul>
+<h2>お願い</h2>
+<ul>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>訂正</h2>
+<ul>
+<li>今回から訂正欄を追加しました
+<ul>
+<li>前回に引き続きYukiがミスしていますので…</li>
+<li>ShowNote担当だからここで訂正すればいいと思って甘えながら話しますw</li>
+</ul>
+</li>
+<li><code>21:20</code>:emacsの設定ファイルは<code>.emacsrc</code>ではなくて<code>.emacs.el</code>でした</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li>多分最初だから多めに載せてます(ソフトの名前とかはいらないと思いますが…)</li>
+<li><a href="https://ja.wikipedia.org/wiki/Windows_Subsystem_for_Linux">WSL</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/RLogin">RLogin</a></li>
+<li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
+<li><a href="https://atom.io/">Atom</a></li>
+<li><a href="https://www.jetbrains.com/idea/">IntelliJ IDEA</a></li>
+<li><a href="https://qiita.com/numanomanu/items/45dd285b286a1f7280ed">プレフィックスについて</a></li>
+<li><a href="https://unity3d.com/jp">Unity</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25ab%25e3%2581%25a7%25e8%25a7%25a6%25e3%2581%25a3%25e3%2581%259f%25e6%258a%2580%25e8%25a1%2593%2F&amp;linkname=ep.1%20%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25ab%25e3%2581%25a7%25e8%25a7%25a6%25e3%2581%25a3%25e3%2581%259f%25e6%258a%2580%25e8%25a1%2593%2F&amp;linkname=ep.1%20%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%25e3%2583%25bc%25e3%2582%25af%25e3%2583%25ab%25e3%2581%25a7%25e8%25a7%25a6%25e3%2581%25a3%25e3%2581%259f%25e6%258a%2580%25e8%25a1%2593%2F&amp;linkname=ep.1%20%E7%A7%81%E9%81%94%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB%E3%81%A7%E8%A7%A6%E3%81%A3%E3%81%9F%E6%8A%80%E8%A1%93" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F24%2Fep-1-%25e7%25a7%2581%25e9%2581%2594%25e3%2581%25ae%25e3%2582%25b5%2]]></googleplay:description>
+											<itunes:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></itunes:image>
+						<googleplay:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></googleplay:image>
+										<enclosure url="https://www.kappa.info-engineer.jp/podcast-download/126/ep-1-%e7%a7%81%e9%81%94%e3%81%ae%e3%82%b5%e3%83%bc%e3%82%af%e3%83%ab%e3%81%a7%e8%a7%a6%e3%81%a3%e3%81%9f%e6%8a%80%e8%a1%93.mp3" length="36034405" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>37:32</itunes:duration>
+					<itunes:author>Fuwari</itunes:author>
+				</item>
+							<item>
+					<title>ep.0 自己紹介</title>
+					<link>https://www.kappa.info-engineer.jp/2018/11/23/ep0-%e8%87%aa%e5%b7%b1%e7%b4%b9%e4%bb%8b/</link>
+					<pubDate>Thu, 22 Nov 2018 18:45:29 +0000</pubDate>
+					<dc:creator>Fuwari</dc:creator>
+					<guid isPermaLink="false">https://www.kappa.info-engineer.jp/?p=122</guid>
+					<description><![CDATA[ほげほげfm 編集後記 初めまして、ほげほげ.fm パーソナリティYukiです 第０回目の...]]></description>
+					<itunes:subtitle><![CDATA[ほげほげfm 編集後記 初めまして、ほげほげ.fm パーソナリティYukiです 第０回目の...]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>初めまして、<a href="https://itunes.apple.com/jp/podcast/%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92-fm/id1444410120?mt=2">ほげほげ.fm</a> パーソナリティYukiです</li>
+<li>第０回目のテーマは<a href="https://www.kappa.info-engineer.jp/2018/11/23/ep0-%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/">「自己紹介」</a>でした</li>
+<li>とりあえず簡単な自己紹介や最近行ったイベントや研究について話しました</li>
+<li>毎回のShowNoteは私が担当いたします</li>
+<li>冒頭第1回と話していますが相談して0回になりました</li>
+<li>14:05辺りの<code>エンドユーザー</code>は意味が正しくありません訂正しておきます</li>
+<li>編集・公開についてはふわり君が担当してくれています
+<ul>
+<li>ふわり君ありがとう</li>
+</ul>
+</li>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://mobileact.connpass.com/">mobileact-フェンリルさんのイベント</a></li>
+<li><a href="https://www.fenrir-inc.com/jp/sleipnir/">Sleipnir-フェンリルさんのチェスのマークのブラウザ</a></li>
+<li><a href="https://www.microsoft.com/ja-jp/hololens/buy">Hololens</a></li>
+<li><a href="https://cloud.watch.impress.co.jp/docs/column/infostand/1086190.html">WindowsMobile終了のお知らせ</a></li>
+</ul>
+<h2>リスペクトしているPodcastさん</h2>
+<ul>
+<li><a href="https://rebuild.fm">rebuild.fm</a></li>
+<li><a href="http://backspace.fm/">backspace.fm</a></li>
+<li><a href="https://shiganai.org/">しがないラジオ</a></li>
+<li><a href="https://www.oshigotoam.com/">おしごとam</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&#038;title=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" data-a2a-url="https://www.kappa.info-engineer.jp/2018/11/23/ep0-%e8%87%aa%e5%b7%b1%e7%b4%b9%e4%bb%8b/" data-a2a-title="ep.0 自己紹介"></a></p>]]></content:encoded>
+					<itunes:summary><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>初めまして、<a href="https://itunes.apple.com/jp/podcast/%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92-fm/id1444410120?mt=2">ほげほげ.fm</a> パーソナリティYukiです</li>
+<li>第０回目のテーマは<a href="https://www.kappa.info-engineer.jp/2018/11/23/ep0-%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/">「自己紹介」</a>でした</li>
+<li>とりあえず簡単な自己紹介や最近行ったイベントや研究について話しました</li>
+<li>毎回のShowNoteは私が担当いたします</li>
+<li>冒頭第1回と話していますが相談して0回になりました</li>
+<li>14:05辺りの<code>エンドユーザー</code>は意味が正しくありません訂正しておきます</li>
+<li>編集・公開についてはふわり君が担当してくれています
+<ul>
+<li>ふわり君ありがとう</li>
+</ul>
+</li>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://mobileact.connpass.com/">mobileact-フェンリルさんのイベント</a></li>
+<li><a href="https://www.fenrir-inc.com/jp/sleipnir/">Sleipnir-フェンリルさんのチェスのマークのブラウザ</a></li>
+<li><a href="https://www.microsoft.com/ja-jp/hololens/buy">Hololens</a></li>
+<li><a href="https://cloud.watch.impress.co.jp/docs/column/infostand/1086190.html">WindowsMobile終了のお知らせ</a></li>
+</ul>
+<h2>リスペクトしているPodcastさん</h2>
+<ul>
+<li><a href="https://rebuild.fm">rebuild.fm</a></li>
+<li><a href="http://backspace.fm/">backspace.fm</a></li>
+<li><a href="https://shiganai.org/">しがないラジオ</a></li>
+<li><a href="https://www.oshigotoam.com/">おしごとam</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&#038;title=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" data-a2a-url="https://www.kappa.info-engineer.jp/2018/11/23/ep0-%e8%87%aa%e5%b7%b1%e7%b4%b9%e4%bb%8b/" data-a2a-title="ep.0 自己紹介"></a></p>]]></itunes:summary>
+					<googleplay:description><![CDATA[<h1>ほげほげfm</h1>
+<h2>編集後記</h2>
+<ul>
+<li>初めまして、<a href="https://itunes.apple.com/jp/podcast/%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92-fm/id1444410120?mt=2">ほげほげ.fm</a> パーソナリティYukiです</li>
+<li>第０回目のテーマは<a href="https://www.kappa.info-engineer.jp/2018/11/23/ep0-%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B/">「自己紹介」</a>でした</li>
+<li>とりあえず簡単な自己紹介や最近行ったイベントや研究について話しました</li>
+<li>毎回のShowNoteは私が担当いたします</li>
+<li>冒頭第1回と話していますが相談して0回になりました</li>
+<li>14:05辺りの<code>エンドユーザー</code>は意味が正しくありません訂正しておきます</li>
+<li>編集・公開についてはふわり君が担当してくれています
+<ul>
+<li>ふわり君ありがとう</li>
+</ul>
+</li>
+<li>フィードバックは<code>Twitter</code>で募集しています
+<ul>
+<li><a href="https://twitter.com/search?f=tweets&amp;q=%23%E3%81%BB%E3%81%92%E3%81%BB%E3%81%92fm&amp;src=typd">こちらから#ほげほげfm</a>をつけてツイートしてください</li>
+<li>私たちの活動の励みにもつながります</li>
+</ul>
+</li>
+<li>もちろんiTunesレビューもお待ちしております</li>
+</ul>
+<h2>話題に上がったもののリンク集</h2>
+<ul>
+<li><a href="https://mobileact.connpass.com/">mobileact-フェンリルさんのイベント</a></li>
+<li><a href="https://www.fenrir-inc.com/jp/sleipnir/">Sleipnir-フェンリルさんのチェスのマークのブラウザ</a></li>
+<li><a href="https://www.microsoft.com/ja-jp/hololens/buy">Hololens</a></li>
+<li><a href="https://cloud.watch.impress.co.jp/docs/column/infostand/1086190.html">WindowsMobile終了のお知らせ</a></li>
+</ul>
+<h2>リスペクトしているPodcastさん</h2>
+<ul>
+<li><a href="https://rebuild.fm">rebuild.fm</a></li>
+<li><a href="http://backspace.fm/">backspace.fm</a></li>
+<li><a href="https://shiganai.org/">しがないラジオ</a></li>
+<li><a href="https://www.oshigotoam.com/">おしごとam</a></li>
+</ul>
+<h1>パーソナリティ</h1>
+<ul>
+<li><a href="https://twitter.com/Fuwari_WE">ふわり@Fuwari_WE</a>
+<ul>
+<li>某大学学部3年</li>
+<li>編集・公開担当</li>
+</ul>
+</li>
+<li><a href="https://twitter.com/djotkyuki">Yuki@djotkyuki</a>
+<ul>
+<li>某大学学部4年</li>
+<li>ShowNote担当</li>
+</ul>
+</li>
+</ul>
+<h2>機材</h2>
+<ul>
+<li>MacBookPro</li>
+</ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_line" href="https://www.addtoany.com/add_to/line?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Line" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_google_plus" href="https://www.addtoany.com/add_to/google_plus?linkurl=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&amp;linkname=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" title="Google+" rel="nofollow noopener" target="_blank"></a><a class="a2a_dd addtoany_share_save addtoany_share" href="https://www.addtoany.com/share#url=https%3A%2F%2Fwww.kappa.info-engineer.jp%2F2018%2F11%2F23%2Fep0-%25e8%2587%25aa%25e5%25b7%25b1%25e7%25b4%25b9%25e4%25bb%258b%2F&#038;title=ep.0%20%E8%87%AA%E5%B7%B1%E7%B4%B9%E4%BB%8B" data-a2a-url="https://www.kappa.info-engineer.jp/2018/11/23/ep0-%e8%87%aa%e5%b7%b1%e7%b4%b9%e4%bb%8b/" data-a2a-title="ep.0 自己紹介"></a></p>]]></googleplay:description>
+											<itunes:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></itunes:image>
+						<googleplay:image href="https://www.kappa.info-engineer.jp/wp-content/uploads/2018/11/hogehoge-icatch-1.jpg"></googleplay:image>
+										<enclosure url="https://www.kappa.info-engineer.jp/podcast-download/122/ep0-%e8%87%aa%e5%b7%b1%e7%b4%b9%e4%bb%8b.mp3" length="16773592" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>17:28</itunes:duration>
+					<itunes:author>Fuwari</itunes:author>
+				</item>
+				</channel>
+</rss>

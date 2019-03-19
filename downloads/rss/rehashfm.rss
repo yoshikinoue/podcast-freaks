@@ -1,0 +1,419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>rehash.fm</title>
+    <description>rehash.fmは酒をこよなく愛する @smile_0yen と釣りに人生を懸ける @azihsoyn の２人のエンジニアが最近気になっている技術情報などをお送りするまったり系Tech Podcastです。</description>
+    <link>https://rehash.fm/</link>
+    <atom:link href="https://rehash.fm/feed.xml" rel="self" type="application/rss+xml"/>
+      <pubDate>Sun, 17 Mar 2019 06:30:39 +0000</pubDate>
+    <lastBuildDate>Sun, 17 Mar 2019 06:30:39 +0000</lastBuildDate>
+    <generator>Jekyll v3.7.4</generator>
+    
+      <item>
+        <title>#63 Learned A Lot</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/591327966&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=false&amp;amp;show_artwork=false&amp;amp;default_height=75&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;最近のニュースや読んだ本の感想などについて話しました。&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itmedia.co.jp/news/articles/1903/12/news062.html&quot; target=&quot;_blank&quot;&gt;WWW誕生から30周年　Googleもロゴで祝福 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/03/04/microsoft/&quot; target=&quot;_blank&quot;&gt;『新元号公表までにすべきこと』マイクロソフトが特設サイト公開 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.microsoft.com/ja-jp/mscorp/newera/default.aspx&quot; target=&quot;_blank&quot;&gt;新元号への対応について - Microsoft mscorp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/hololens-2-2019-02/&quot; target=&quot;_blank&quot;&gt;マイクロソフトの新型MRデバイス「HoloLens 2」最新情報まとめ | Mogura VR - 国内外のVR/AR/MR最新情報&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/hololens-2-report/&quot; target=&quot;_blank&quot;&gt;【体験レポ】HoloLens 2は“正統進化”だ——性能は大幅強化、操作性は驚くほど自然に | Mogura VR - 国内外のVR/AR/MR最新情報&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/02/24/mozilla-hololens-2-firefox-reality/&quot; target=&quot;_blank&quot;&gt;MozillaがHoloLens 2対応ウェブブラウザー「Firefox Reality」発表。マイクロソフトと提携 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozvr.com/bringing-firefox-reality-to-hololens-2/&quot; target=&quot;_blank&quot;&gt;Bringing Firefox Reality to HoloLens 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/02/25/azure-kinect-dk-kinect/&quot; target=&quot;_blank&quot;&gt;米マイクロソフト、Azure Kinect DK発表。ビジネス向けにKinectが復活 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/deeplens/&quot; target=&quot;_blank&quot;&gt;AWS DeepLens – 深層学習に対応した開発者向けビデオカメラ – AWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.zdnet.com/article/35133858/&quot; target=&quot;_blank&quot;&gt;グーグルがエッジでAIを利用するためのワンボードコンピュータを発表 - ZDNet Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ai.googleblog.com/2019/03/real-time-ar-self-expression-with.html&quot; target=&quot;_blank&quot;&gt;Google AI Blog: Real-Time AR Self-Expression with Machine Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itmedia.co.jp/news/articles/1903/07/news093.html&quot; target=&quot;_blank&quot;&gt;Google、“ローカルAI”構築用ワンボードコンピュータやカメラを「Coral」ブランドで発売 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35133193/&quot; target=&quot;_blank&quot;&gt;ファーウェイ、折りたたみスマホ「Mate X」発表--5G対応、約29万円 - CNET Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/02/24/huawei-5g-mate-x-mwc2019/&quot; target=&quot;_blank&quot;&gt;HUAWEI、折りたたみ5Gスマホ「Mate X」発表 #MWC2019 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/03/04/macbook-air-9-matebook-13-3-15/&quot; target=&quot;_blank&quot;&gt;ファーウェイ、新MacBook Air対抗で9万円台の「MateBook 13」を3月15日に発売 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/02/25/oppo-huawei-mate-x/&quot; target=&quot;_blank&quot;&gt;OPPOも折りたたみスマホ。見た目はHUAWEI Mate Xそっくり - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.techcrunch.com/2019/02/22/2019-02-20-samsung-galaxy-unpacked-event/&quot; target=&quot;_blank&quot;&gt;サムスンがイベントで発表したGalaxy S10/Foldの総まとめ | TechCrunch Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.galaxymobile.jp/galaxy-fold/&quot; target=&quot;_blank&quot;&gt;Galaxy Fold | スマートフォン - Galaxy Mobile Japan 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/03/15/1-galaxy-harajuku/&quot; target=&quot;_blank&quot;&gt;1億円オーバーの壁から狂気のインスタ部屋まで〜テーマパーク「Galaxy Harajuku」全フロアを満喫してきた - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/02/26/woz/&quot; target=&quot;_blank&quot;&gt;ウォズニアック、折りたたみiPhoneが出ないことに懸念を表明。「私は本当に欲しいんだ」 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/03/08/ar-2019-iphone/&quot; target=&quot;_blank&quot;&gt;アップルのARメガネは早ければ2019年末にも量産開始? iPhoneに依存して軽量化を実現か - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/qualcomm-snapdragon-855-2/&quot; target=&quot;_blank&quot;&gt;クアルコム、スマホでVR/ARデバイスを動作させる計画を発表 | MoguraVR News - VRの「いま」を掘りだすニュースメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/nreal-light-2/&quot; target=&quot;_blank&quot;&gt;わずか85gのARグラス「nreal light」 スマホでも動作 | Mogura VR - 国内外のVR/AR/MR最新情報&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B07FSBHS2V/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1&quot; target=&quot;_blank&quot;&gt;Clean Architecture　達人に学ぶソフトウェアの構造と設計 (アスキードワンゴ) | Ｒｏｂｅｒｔ Ｃ．Ｍａｒｔｉｎ, 角 征典, 高木 正弘 | 工学 | Kindleストア | Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/FACTFULNESS-%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%95%E3%83%AB%E3%83%8D%E3%82%B9-10%E3%81%AE%E6%80%9D%E3%81%84%E8%BE%BC%E3%81%BF%E3%82%92%E4%B9%97%E3%82%8A%E8%B6%8A%E3%81%88%E3%80%81%E3%83%87%E3%83%BC%E3%82%BF%E3%82%92%E5%9F%BA%E3%81%AB%E4%B8%96%E7%95%8C%E3%82%92%E6%AD%A3%E3%81%97%E3%81%8F%E8%A6%8B%E3%82%8B%E7%BF%92%E6%85%A3-%E3%83%8F%E3%83%B3%E3%82%B9%E3%83%BB%E3%83%AD%E3%82%B9%E3%83%AA%E3%83%B3%E3%82%B0/dp/4822289605/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1552749811&amp;amp;sr=1-1&amp;amp;keywords=%E3%83%95%E3%82%A1%E3%82%AF%E3%83%88%E3%83%95%E3%83%AB%E3%83%8D%E3%82%B9&quot; target=&quot;_blank&quot;&gt;FACTFULNESS(ファクトフルネス)　10の思い込みを乗り越え、データを基に世界を正しく見る習慣 | ハンス・ロスリング, オーラ・ロスリング, アンナ・ロスリング・ロンランド, 上杉 周作, 関 美和 |本 | 通販 | Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/WTF%E7%B5%8C%E6%B8%88-%E2%80%95%E7%B5%B6%E6%9C%9B%E3%81%BE%E3%81%9F%E3%81%AF%E9%A9%9A%E7%95%B0%E3%81%AE%E6%9C%AA%E6%9D%A5%E3%81%A8%E6%88%91%E3%80%85%E3%81%AE%E9%81%B8%E6%8A%9E-Tim-OReilly/dp/487311859X/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1552749843&amp;amp;sr=1-1&amp;amp;keywords=WTF%E7%B5%8C%E6%B8%88&quot; target=&quot;_blank&quot;&gt;WTF経済 ―絶望または驚異の未来と我々の選択 | Tim O’Reilly, 山形 浩生 |本 | 通販 | Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E5%A4%B1%E6%95%97%E3%81%8B%E3%82%89%E5%AD%A6%E3%81%B6RDB%E3%81%AE%E6%AD%A3%E3%81%97%E3%81%84%E6%AD%A9%E3%81%8D%E6%96%B9-Software-Design-plus-%E6%9B%BD%E6%A0%B9/dp/4297104083/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1552749875&amp;amp;sr=1-1&amp;amp;keywords=RDB&quot; target=&quot;_blank&quot;&gt;失敗から学ぶRDBの正しい歩き方 (Software Design plus) | 曽根 壮大 |本 | 通販 | Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.ycombinator.com/item?id=19279489&quot; target=&quot;_blank&quot;&gt;Vim.dev is redirected to Emacs website | Hacker News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/18/lenovo-2-3888/&quot; target=&quot;_blank&quot;&gt;Lenovoスマートウォッチ2機種日本上陸へ、クラウドファウンディングで3888円の特別価格で展開 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/02/27/apple-watch-2020/&quot; target=&quot;_blank&quot;&gt;Apple Watch、2020年までに睡眠トラッカー機能を搭載へ？アップルがテスト中とのうわさ - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/03/06/fitbit-inspire-inspire-hr-ace-2/&quot; target=&quot;_blank&quot;&gt;Fitbit、低価格になった新型フィットネストラッカーInspire / Inspire HR / Ace 2発表 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/03/07/fitbit-versa-lite-160/&quot; target=&quot;_blank&quot;&gt;Fitbitが廉価版スマートウォッチVersa Lite海外発表。音楽再生機能やジャイロ、高度計省略で約160ドル - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.itmedia.co.jp/pcuser/articles/1902/24/news016.html&quot; target=&quot;_blank&quot;&gt;Apple WatchになくてGalaxy Watch Activeにはある「血圧測定」機能とは？ - ITmedia PC USER&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.techcrunch.com/2019/02/19/2019-02-18-apple-could-release-a-16-inch-macbook-pro-and-a-a-31-inch-6k-display/&quot; target=&quot;_blank&quot;&gt;Apple、16インチMacBook Proと31インチ6Kディスプレイを発売か | TechCrunch Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wired.jp/2019/03/13/apple-event-march-2019-services/&quot; target=&quot;_blank&quot;&gt;アップルが3月25日に発表する「まったく新しい何か」の中身｜WIRED.jp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 17 Mar 2019 06:00:00 +0000</pubDate>
+        <link>https://rehash.fm/63</link>
+        <guid isPermaLink="true">https://rehash.fm/63</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>#62 Programmable Pet</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/565361463&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=false&amp;amp;show_artwork=false&amp;amp;default_height=75&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;VR やガジェットなど最近のニュースについて話しました。&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://internet.watch.impress.co.jp/docs/yajiuma/1165894.html&quot; target=&quot;_blank&quot;&gt;インフルエンザ、「大流行」の去年超え？　ヤフーがビッグデータに基づく予測を公開【やじうまWatch】 - INTERNET Watch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slackhq.com/intl-ja-jp-slack-new-logo&quot; target=&quot;_blank&quot;&gt;Slack のロゴが新しくなりました！ | The Official Slack Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fishingshow.jp/&quot; target=&quot;_blank&quot;&gt;ジャパンフィッシングショー2019｜みなとみらい・パシフィコ横浜&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/yuni-1st-vr-live-2/&quot; target=&quot;_blank&quot;&gt;透明な歌声が“可視化”された日「YuNi 1st VR LIVE! ～VeRy Merry X’mas～」レポ | MoguLive - バーチャルを「楽しむ」ためのエンタメメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/vtuber-fuji-aoi-13/&quot; target=&quot;_blank&quot;&gt;富士葵、カバーアルバムのリリース決定！収録曲リクエストも受付中 | MoguLive - バーチャルを「楽しむ」ためのエンタメメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/3d-avatar-post-share-summary/&quot; target=&quot;_blank&quot;&gt;3Dアバター投稿・共有サービスまとめ、連携サービス紹介も | MoguLive - バーチャルを「楽しむ」ためのエンタメメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/morikura-en-exhibition/&quot; target=&quot;_blank&quot;&gt;キズナアイのデザイナー・森倉円氏の初個展「Girl Friend」が開催！ 東京・表参道で2月15日から | MoguLive - バーチャルを「楽しむ」ためのエンタメメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1901/16/news112.html&quot; target=&quot;_blank&quot;&gt;2月2日は「VRの日」　なぜ？ - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/vive-cosmos-interview/&quot; target=&quot;_blank&quot;&gt;新VRデバイス「VIVE Cosmos」の正体とは HTCのキーパーソンに突撃インタビュー | MoguraVR News - VRの「いま」を掘りだすニュースメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trendy.nikkeibp.co.jp/atcl/pickup/15/1003590/011002047/&quot; target=&quot;_blank&quot;&gt;PCやスマホに接続不要の「Oculus Quest」でVRゲームは広がる？ - 日経トレンディネット&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/17/mr-hololens-2-2-ms-mwc/&quot; target=&quot;_blank&quot;&gt;次世代MRヘッドセットHoloLens 2は2月発表か、 MSのMWC直前講演者から高まる期待 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35131537/&quot; target=&quot;_blank&quot;&gt;アップル、圧力センサーで指の動きを得るスマート手袋--VRグローブ向け特許を取得 - CNET Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35131572/&quot;&gt;「iPhone SE」販売が再開、数日で売り切れ--米国向けストアで - CNET Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.techcrunch.com/2019/01/15/2019-01-14-rumor-suggests-apples-airpower-mat-has-finally-gone-into-production/&quot;&gt;Appleの充電マットAirPowerが生産開始とのうわさ | TechCrunch Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/19/airpower-ipad-mini-5-2019/&quot; target=&quot;_blank&quot;&gt;「AirPower」ついに製造開始？ から「iPad mini 5（仮）」2019年前半に登場？ まで。最新アップルの噂まとめ - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1901/18/news067.html&quot; target=&quot;_blank&quot;&gt;Google、Fossilのスマートウォッチ関連知財と人材を4000万ドルで買収 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/17/google-pixel-3-lite/&quot; target=&quot;_blank&quot;&gt;Google Pixel 3 Liteのほぼ全情報を網羅した実機動画がリークか - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/16/windows/&quot; target=&quot;_blank&quot;&gt;マイクロソフトが折りたたみ式Windowsデバイスを開発中？ - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/16/Samsung-docking/&quot; target=&quot;_blank&quot;&gt;折りたたみスマホの「次」は合体・分離式に? サムスンの新特許が判明 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/18/lenovo-2-3888/&quot; target=&quot;_blank&quot;&gt;Lenovoスマートウォッチ2機種日本上陸へ、クラウドファウンディングで3888円の特別価格で展開 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.techcrunch.com/2019/01/16/2019-01-15-the-square-off-chess-board-melds-the-classical-with-the-robotic/&quot; target=&quot;_blank&quot;&gt;本物のチェス盤の上で本物の駒が動いて対戦してくれる一人遊びチェスSquare Off | TechCrunch Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/22/alexa/&quot; target=&quot;_blank&quot;&gt;Alexaの会話継続モードが日本でも利用可能に。ホットワード不要で続けて質問できます - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/23/aibo-api/&quot; target=&quot;_blank&quot;&gt;aiboが「操作できるロボット」に、ソフトウェアAPI公開へ - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/23/aibo-2-ai/&quot; target=&quot;_blank&quot;&gt;「aibo 育成チャレンジ」2月開始、オーナーみんなの力でAIに学習させるプロジェクト - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/22/aibo/&quot; target=&quot;_blank&quot;&gt;柔らか系見守り機能「aiboのおまわりさん」、セコムと提携も - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.mynavi.jp/article/20190122-760274/&quot; target=&quot;_blank&quot;&gt;ヤフー、飲食店の空席情報をリアルタイムに掲出するIoT実証実験 | マイナビニュース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35131691/&quot; target=&quot;_blank&quot;&gt;パナソニック、手持ちの家電を声で操作--Google アシスタント搭載の「コエリモ」 - CNET Japan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sun, 27 Jan 2019 14:00:00 +0000</pubDate>
+        <link>https://rehash.fm/62</link>
+        <guid isPermaLink="true">https://rehash.fm/62</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>#61 Vitamin VR</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/558751677&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=false&amp;amp;show_artwork=false&amp;amp;default_height=75&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;新年に関連したニュースや今年の目標などについて話しました。&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/02/apple-2/&quot; target=&quot;_blank&quot;&gt;オンラインでも開催　Appleの初売りは2万円超のギフトカードがもらえる！　本日限定 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/oculus-sale-2019-1/&quot; target=&quot;_blank&quot;&gt;まだまだ続くOculusセール。Riftは5,000円引き、Goは購入で公式ケースプレゼント 1月15日まで | MoguLive - バーチャルを「楽しむ」ためのエンタメメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://internet.watch.impress.co.jp/docs/yajiuma/1160935.html&quot; target=&quot;_blank&quot;&gt;新元号アップデートでExcel 2010が起動しない不具合、Microsoftが削除を呼び掛け【やじうまWatch】 - INTERNET Watch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/03/xiaomi/&quot; target=&quot;_blank&quot;&gt;今度は「三つ折り画面スマホ」、小米もフォルダブルを開発中？ - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/01/5-nokia-9-pure-view-android-one/&quot; target=&quot;_blank&quot;&gt;5眼スマホ「Nokia 9 Pure View」プレス画像流出。Android Oneに画面内指紋センサ採用 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.phileweb.com/review/column/201901/07/641.html&quot; target=&quot;_blank&quot;&gt;アップル方針転換の衝撃。他社製テレビへiTunes提供、「サービス重視」戦略が顕著に - PHILE WEB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1901/04/news022.html&quot; target=&quot;_blank&quot;&gt;App Store元旦売上高が最高記録 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/05/2019-iphone-usb-c-touch-id/&quot;&gt;2019年iPhoneはUSB-Cと画面埋め込み型Touch ID採用、ノッチ小型化？有名アナリストが予測 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2019/01/07/ar/&quot; target=&quot;_blank&quot;&gt;メルカリが「ARスマートグラス」を用いた実証実験を開始 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/vuzix-blade/&quot; target=&quot;_blank&quot;&gt;スマートグラス「Vuzix Blade」コンシューマ向けモデルが約1,000ドルで発売 | MoguraVR News - VRの「いま」を掘りだすニュースメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/hololens-out-of-stock/&quot; target=&quot;_blank&quot;&gt;HoloLensが在庫切れ 次世代モデル登場はあるのか | MoguraVR News - VRの「いま」を掘りだすニュースメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/htc-ces2019/&quot; target=&quot;_blank&quot;&gt;HTCがCESで新VRデバイス発表か 持ち込む機材の写真を投稿 | MoguraVR News - VRの「いま」を掘りだすニュースメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wired.jp/2019/01/07/what-is-xr/&quot; target=&quot;_blank&quot;&gt;CES 2019で「XR」の時代が幕を開ける｜WIRED.jp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/google-soli/&quot; target=&quot;_blank&quot;&gt;レーダーで細かいジェスチャ操作が可能に Googleの新技術が認可 | MoguraVR News - VRの「いま」を掘りだすニュースメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35130040/&quot; target=&quot;_blank&quot;&gt;「Magic Leap One」で体験したMRゲームの圧倒的な没入感--リアルに微笑むAIも - CNET Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5ZPEOgmIm7Y&amp;amp;feature=youtu.be&quot; target=&quot;_blank&quot;&gt;【技術】 #CES で「Invisible-to-Visible」技術を発表 - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://edition.cnn.com/2018/12/28/health/rise-of-digisexuals-intl/index.html&quot; target=&quot;_blank&quot;&gt;The man who married an anime hologram - CNN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1712/11/news029.html&quot; target=&quot;_blank&quot;&gt;5Gで実現する未来のゲーム　ドコモの「ソードアート・オンライン」コラボに1万4000人の応募 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/mobile/articles/1901/07/news069.html&quot; target=&quot;_blank&quot;&gt;「5G元年」「楽天参入」の2019年　携帯キャリアが年頭所感で決意表明 - ITmedia Mobile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spice.eplus.jp/articles/222925&quot; target=&quot;_blank&quot;&gt;Perfume、テクノロジーで魅せた年末年始　NHK紅白歌合戦、ドコモとコラボしたカウントダウンとは？ | SPICE - エンタメ特化型情報メディア スパイス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/virtual-nodojiman-report/&quot; target=&quot;_blank&quot;&gt;人気VTuber総出演、新年の「NHKバーチャルのど自慢」徹底レポート！ MVPに輝いたのは…… | MoguLive - バーチャルを「楽しむ」ためのエンタメメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/mobile/articles/1901/07/news103.html&quot;&gt;コード決済と非接触決済の満足度はどちらが高い？　ICT総研が調査 - ITmedia Mobile&lt;/a&gt;”&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://news.livedoor.com/article/detail/15839036/&quot; target=&quot;_blank&quot;&gt;セブン銀、ＡＴＭで口座開設へ　高精細カメラで本人確認 - ライブドアニュース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.techcrunch.com/2019/01/05/2019-01-04-more-than-100-million-alexa-devices-have-been-sold/&quot; target=&quot;_blank&quot;&gt;これまでに売れたAlexaデバイスが1億台を突破した、まだ製品のないEcho Autoにもすでに100万人が殺到 | TechCrunch Japan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 14 Jan 2019 07:00:00 +0000</pubDate>
+        <link>https://rehash.fm/61</link>
+        <guid isPermaLink="true">https://rehash.fm/61</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>#60 We Wish You A Happy New Year</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/550804698&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=false&amp;amp;show_artwork=false&amp;amp;default_height=75&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;2018年の振り返りなどについて話しました。&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.techcrunch.com/2018/12/26/engadget-2019-1-2/&quot; target=&quot;_blank&quot;&gt;アップルの初売り、2019年も1月2日に実施。当日限り | TechCrunch Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1812/21/news133.html&quot; target=&quot;_blank&quot;&gt;PayPay、クレカ決済の上限5万円に　不正対策整うまでの「暫定的措置」 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://headlines.yahoo.co.jp/hl?a=20181214-00010004-engadgetj-sci&quot; target=&quot;_blank&quot;&gt;PayPay、100億円祭りは「孫さんを中心に決めた」ヤフー執行役員が明かす（Engadget 日本版） - Yahoo!ニュース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1812/20/news099.html&quot; target=&quot;_blank&quot;&gt;ビックカメラ2割還元、今度はLINE Payで - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/12/26/au-pay-paypay-1000-kddi/&quot; target=&quot;_blank&quot;&gt;新決済『au PAY』に自信～「すでに1000億ある」KDDI高橋社長 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/12/26/au/&quot; target=&quot;_blank&quot;&gt;au、来春にも携帯値下げ　ドコモに対抗『競争なので当然』──高橋社長 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1812/26/news079.html&quot; target=&quot;_blank&quot;&gt;自撮りも“3Dアバター”の時代に？　若者がハマる「ZEPETO」アプリとは - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1812/21/news140.html&quot; target=&quot;_blank&quot;&gt;3Dキャラを投稿・共有できる「Vroid Hub」提供開始　プロフィール画面で動作確認も可 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1812/25/news080.html&quot; target=&quot;_blank&quot;&gt;「電気もエアコンもつけられない」　スマートリモコン「Nature Remo」で障害相次ぐ - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/blogs/news/amazon-eks-tokyo-region/&quot; target=&quot;_blank&quot;&gt;Amazon EKS が 東京リージョンに対応しました。 | Amazon Web Services ブログ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.gunosy.io/entry/gunosy-sports4&quot; target=&quot;_blank&quot;&gt;AppSyncベースのフルサーバーレスアーキテクチャ【グノスポ連載第四回】 - Gunosy Tech Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kubeless/kubeless&quot; target=&quot;_blank&quot;&gt;kubeless/kubeless: Kubernetes Native Serverless Framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.classmethod.jp/cloud/aws/reinvent2018-srv409/&quot; target=&quot;_blank&quot;&gt;2019年VPC Lambdaが高速に！！ AWS Lambdaの内部構造に迫るセッション 「SRV409 A Serverless Journey: AWS Lambda Under the Hood」 #reinvent ｜ DevelopersIO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/%E3%82%B0%E3%83%8E%E3%82%B7%E3%83%BC%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84-%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84%E5%A5%BD%E3%81%8D%E3%81%AE%E3%81%82%E3%81%AA%E3%81%9F%E3%82%92%E3%82%82%E3%81%A3%E3%81%A8%E7%86%B1%E3%81%8F%E3%81%99%E3%82%8B%E3%82%A2%E3%83%97%E3%83%AA/id1444029346?mt=8&quot; target=&quot;_blank&quot;&gt;グノスポ(iOS版)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://job-draft.jp/articles/311&quot; target=&quot;_blank&quot;&gt;転職ドラフト結果報告レポート2018 ー 2018年のプログラミング言語別の市場人気や年収の集計結果 ー｜転職ドラフトReport&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.konosumi.net/entry/2018/02/24/205322&quot; target=&quot;_blank&quot;&gt;2017年とテック系Podcast(ポッドキャスト)を、紹介しつつ振り返る - このすみろぐ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azihsoyn.hatenablog.com/&quot; target=&quot;_blank&quot;&gt;azihsoyn’s blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azihsoyn.hatenablog.com/entry/lovelive_adventcalendar_2018_day1&quot; target=&quot;_blank&quot;&gt;自分とラブライブ振り返り2018 - azihsoyn’s blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azihsoyn.hatenablog.com/entry/2017_to_2018&quot; target=&quot;_blank&quot;&gt;2017年振り返りと2018年抱負とか - azihsoyn’s blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/smile-0yen/items/941033078eea1b584393&quot; target=&quot;_blank&quot;&gt;Nature Remo miniと SORACOM LTE-M Buttonで家電を簡単操作する - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Thu, 27 Dec 2018 21:00:00 +0000</pubDate>
+        <link>https://rehash.fm/60</link>
+        <guid isPermaLink="true">https://rehash.fm/60</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>#59 On Air</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/549414204&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=false&amp;amp;show_artwork=false&amp;amp;default_height=75&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;祝・初生放送！AWS re:Invent 2018 などについて話しました。&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.apple.com/ja-jp/HT202190&quot; target=&quot;_blank&quot;&gt;ホームシェアリングを使って iTunes のコンテンツをほかのデバイスと共有する - Apple サポート&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://corriente.top/appstore-christmas-holiday/&quot; target=&quot;_blank&quot;&gt;｢App Store Connect｣のクリスマス休暇、2018年は12月23日〜27日 | CoRRiENTE.top&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://reinvent.awseventsjapan.com/&quot; target=&quot;_blank&quot;&gt;AWS re:Invent 2018 | アマゾン ウェブ サービス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/new/reinvent/&quot; target=&quot;_blank&quot;&gt;AWS re:Invent 2018 で発表された新サービスと機能 | AWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/blogs/news/reinvent-2018-andy-keynote-amazon-timestream/&quot; target=&quot;_blank&quot;&gt;re:Invent 2018 / Andy Jassy Keynote / Amazon Timestream | Amazon Web Services ブログ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/blogs/news/reinvent-2018-werner-vogels-keynote-serverless-updates/?nc1=b_rp&quot; target=&quot;_blank&quot;&gt;re:Invent 2018 / Werner Vogels Keynote / Serverless Updates | Amazon Web Services ブログ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/blogs/news/reinvent-2018-werner-vogels-keynote-amazon-msk/?nc1=b_rp&quot; target=&quot;_blank&quot;&gt;re:Invent 2018 / Werner Vogels Keynote / Amazon MSK | Amazon Web Services ブログ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/firecracker-microvm/firecracker&quot; target=&quot;_blank&quot;&gt;firecracker-microvm/firecracker: Secure and fast microVMs for serverless computing.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/blogs/aws/aws-deepracer-go-hands-on-with-reinforcement-learning-at-reinvent/&quot; target=&quot;_blank&quot;&gt;AWS DeepRacer – Go Hands-On with Reinforcement Learning at re:Invent | AWS News Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bang-dream.com/&quot; target=&quot;_blank&quot;&gt;BanG Dream!（バンドリ！）公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://open.spotify.com/show/566MddJLEJH7FCmGfMJSoH&quot; target=&quot;_blank&quot;&gt;rehash.fm on Spotify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 24 Dec 2018 08:00:00 +0000</pubDate>
+        <link>https://rehash.fm/59</link>
+        <guid isPermaLink="true">https://rehash.fm/59</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>#58 The Room Of Spirit And Time</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/535672542&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=false&amp;amp;show_artwork=false&amp;amp;default_height=75&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;グノシースポーツ開発の内幕, 最近のニュース, 今期アニメなどについて話しました。&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.shinyusha.co.jp/media/mq1804/&quot; target=&quot;_blank&quot;&gt;MONOQLO 2018年4月号 [モノクロ] | 晋遊舎ONLINE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.asus.com/jp/Networking/RT-AC85U/&quot; target=&quot;_blank&quot;&gt;RT-AC85U | Wi-Fi | ASUS 日本&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/800Mbps-%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%AA%E3%83%83%E3%82%B7%E3%83%A5%E3%81%AA%E3%83%87%E3%83%A5%E3%82%A2%E3%83%AB%E3%83%90%E3%83%B3%E3%83%89%E3%82%AE%E3%82%AC%E3%83%93%E3%83%83%E3%83%88Wi-Fi%E9%AB%98%E9%80%9F%E7%84%A1%E7%B7%9A%E3%83%AB%E3%83%BC%E3%82%BF%E3%83%BC-RT-AC85U-%E5%88%A9%E7%94%A8%E7%9B%AE%E5%AE%89%E7%92%B0%E5%A2%83-3%E9%9A%8E%E5%BB%BA%E3%83%BB4LDK/dp/B01LX0WM1U/ref=sr_1_1?ie=UTF8&amp;amp;qid=1543148415&amp;amp;sr=8-1&amp;amp;keywords=RT-AC85U&quot; target=&quot;_blank&quot;&gt;Amazon | ASUS 1734+800Mbps(11a/b/g/n/ac) スタイリッシュなデュアルバンドギガビットWi-Fi高速無線ルーター RT-AC85U(利用目安環境 最大15台/3階建・4LDK) | ASUSTek | 無線・有線LANルーター 通販&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/connect%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA-WTR-M2133HP-%E7%8B%AC%E8%87%AA%E3%83%A1%E3%83%83%E3%82%B7%E3%83%A5%E6%A9%9F%E8%83%BD%E6%90%AD%E8%BC%89-%E3%80%90iPhone8-%E3%83%A1%E3%83%BC%E3%82%AB%E3%83%BC%E5%8B%95%E4%BD%9C%E7%A2%BA%E8%AA%8D%E6%B8%88%E3%81%BF%E3%80%91/dp/B077X2SVMF/ref=pd_sbs_147_44?_encoding=UTF8&amp;amp;pd_rd_i=B077X2SVMF&amp;amp;pd_rd_r=7a5ebbf7-f0ac-11e8-827b-5bd42fc1c9b6&amp;amp;pd_rd_w=gW1Qs&amp;amp;pd_rd_wg=e2Umx&amp;amp;pf_rd_i=desktop-dp-sims&amp;amp;pf_rd_m=AN1VRQENFRJN5&amp;amp;pf_rd_p=cda7018a-662b-401f-9c16-bd4ec317039e&amp;amp;pf_rd_r=RC5WYZCS03M454CTFZHY&amp;amp;pf_rd_s=desktop-dp-sims&amp;amp;pf_rd_t=40701&amp;amp;psc=1&amp;amp;refRID=RC5WYZCS03M454CTFZHY&quot; target=&quot;_blank&quot;&gt;Amazon | BUFFALO WiFi 無線LAN connectシリーズ 親機 WTR-M2133HP 11ac 866+866+400Mbps 独自メッシュ機能搭載 最大27台 4LDK 【iPhone8/iPhoneX/Echo メーカー動作確認済み】 | バッファロー | パソコン・周辺機器 通販&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/Google-GA00157-JP-Wi-Fi-1%E5%8F%B0/dp/B07FDRY4VG/ref=sr_1_5?s=computers&amp;amp;ie=UTF8&amp;amp;qid=1543148612&amp;amp;sr=1-5&amp;amp;keywords=google+wifi&quot; target=&quot;_blank&quot;&gt;Amazon | GA00157-JP Google Wi-Fi 1台 | Google | 無線・有線LANルーター 通販&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%90%E3%83%83%E3%83%95%E3%82%A1%E3%83%AD%E3%83%BC-11ac%E5%AF%BE%E5%BF%9C-1733%EF%BC%8B800Mbps-%E7%84%A1%E7%B7%9ALAN%E3%83%AB%E3%83%BC%E3%82%BF%EF%BC%88%E3%82%B7%E3%83%A3%E3%83%B3%E3%83%91%E3%83%B3%E3%82%B4%E3%83%BC%E3%83%AB%E3%83%89%EF%BC%89%EF%BC%88%E8%A6%AA%E6%A9%9F%E5%8D%98%E4%BD%93%EF%BC%89-WSR-2533DHP2-CG/dp/B07G2WTGT6/ref=pd_sbs_147_6?_encoding=UTF8&amp;amp;pd_rd_i=B07G2WTGT6&amp;amp;pd_rd_r=477ca739-f0ad-11e8-9351-635a7a6b78d5&amp;amp;pd_rd_w=HW4nZ&amp;amp;pd_rd_wg=DTkSY&amp;amp;pf_rd_i=desktop-dp-sims&amp;amp;pf_rd_m=AN1VRQENFRJN5&amp;amp;pf_rd_p=cda7018a-662b-401f-9c16-bd4ec317039e&amp;amp;pf_rd_r=S0SQZM7X71TWQVJCEK71&amp;amp;pf_rd_s=desktop-dp-sims&amp;amp;pf_rd_t=40701&amp;amp;psc=1&amp;amp;refRID=S0SQZM7X71TWQVJCEK71&quot; target=&quot;_blank&quot;&gt;Amazon | バッファロー 11ac対応 1733＋800Mbps 無線LANルータ（シャンパンゴールド）（親機単体） WSR-2533DHP2-CG | ＢＵＦＦＡＬＯ | 無線・有線LANルーター 通販&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.techcrunch.com/2018/11/15/gunosy-sports/&quot; target=&quot;_blank&quot;&gt;グノシーから“スポーツ特化”の情報アプリ登場、今後もバーティカル領域のサービス拡充へ | TechCrunch Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.gunosy.io/entry/gunosy-sports1&quot; target=&quot;_blank&quot;&gt;グノシースポーツ (グノスポ) とは? 【グノスポ連載第一回】 - Gunosy Tech Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1811/15/news076.html&quot; target=&quot;_blank&quot;&gt;グノシー、スポーツ情報アプリ提供へ　東京五輪に向けて - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=sport.gunosy&quot; target=&quot;_blank&quot;&gt;グノシースポーツ - Google Play のアプリ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/vr-guillotine/amp/&quot; target=&quot;_blank&quot;&gt;VRで断頭台に……刃が落とされた瞬間ユーザーに起きた“異変”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/ZONE-%E3%82%B7%E3%83%AA%E3%82%B3%E3%83%B3%E3%83%90%E3%83%AC%E3%83%BC%E6%B5%81-%E7%A7%91%E5%AD%A6%E7%9A%84%E3%81%AB%E8%87%AA%E5%88%86%E3%82%92%E5%A4%89%E3%81%88%E3%82%8B%E6%96%B9%E6%B3%95-%E3%82%B9%E3%83%86%E3%82%A3%E3%83%BC%E3%83%B4%E3%83%B3-%E3%82%B3%E3%83%88%E3%83%A9%E3%83%BC-ebook/dp/B07GND6WZM/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;amp;qid=1543151562&amp;amp;sr=8-3&quot; target=&quot;_blank&quot;&gt;Amazon.co.jp： ZONE シリコンバレー流 科学的に自分を変える方法 eBook: スティーヴン・コトラー, ジェイミー・ウィール, 野津智子: Kindleストア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/11/15/60-gpu-macbook-pro-15-radeon-pro-vega-2-7500/&quot; target=&quot;_blank&quot;&gt;「60%速い」GPUがMacBook Pro(15インチ)で選択可能に。Radeon Pro Vega、2万7500円～ - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/jp/trade-in/&quot; target=&quot;_blank&quot;&gt;Apple GiveBackの下取りプログラム - Apple（日本）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/11/13/airpods-w3-hey-siri/&quot; target=&quot;_blank&quot;&gt;新型AirPodsの年内発売の噂。W3チップ搭載でHey Siri対応は確実か - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/11/01/flexpai-7-8-15/&quot; target=&quot;blank&quot;&gt;世界初の折りたたみ画面スマホ「FlexPai」発表。広げて7.8インチ、価格は約15万円から - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35128296/&quot; target=&quot;blank&quot;&gt;グーグル、「Android」で折りたたみ式スマホをサポートへ - CNET Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/11/14/youtube-music-google-play-music/&quot; target=&quot;_blank&quot;&gt;YouTube Musicが日本上陸　Google Play Musicも統合予定（石野純也） - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theverge.com/2015/7/8/8913105/spotify-apple-app-store-email&quot; target=&quot;_blank&quot;&gt;Spotify urges iPhone customers to stop paying through Apple’s App Store - The Verge&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gunosy.co.jp/news/133&quot; target=&quot;_blank&quot;&gt;「グノシー」に「VTuber」タブを新設｜株式会社Gunosy（グノシー）｜情報を世界中の人に最適に届ける&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 26 Nov 2018 12:00:00 +0000</pubDate>
+        <link>https://rehash.fm/58</link>
+        <guid isPermaLink="true">https://rehash.fm/58</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>#57 Innovation As A Result</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/524438460&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=false&amp;amp;show_artwork=false&amp;amp;default_height=75&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;技術書展, 本読み企画「最高のイノベーション」, Apple イベントなどについて話しました。&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf05&quot; target=&quot;_blank&quot;&gt;技術書典５ | 技術書典&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www3.nhk.or.jp/news/html/20181011/k10011667311000.html&quot; target=&quot;_blank&quot;&gt;News Up 文系も知りたい「技術書典」 | NHKニュース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B07BF9GHS4/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1&quot; target=&quot;_blank&quot;&gt;Amazon.co.jp： シリコンバレー式　最高のイノベーション eBook: スティーブン・S・ホフマン, 関美和: Kindleストア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/Clean-Architecture-%E9%81%94%E4%BA%BA%E3%81%AB%E5%AD%A6%E3%81%B6%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%81%AE%E6%A7%8B%E9%80%A0%E3%81%A8%E8%A8%AD%E8%A8%88-%E3%82%A2%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%89%E3%83%AF%E3%83%B3%E3%82%B4-%EF%BC%B2%EF%BD%8F%EF%BD%82%EF%BD%85%EF%BD%92%EF%BD%94-%EF%BC%A3%EF%BC%8E%EF%BC%AD%EF%BD%81%EF%BD%92%EF%BD%94%EF%BD%89%EF%BD%8E-ebook/dp/B07FSBHS2V/ref=sr_1_1?ie=UTF8&amp;amp;qid=1541259760&amp;amp;sr=8-1&amp;amp;keywords=%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%A2%E3%83%BC%E3%82%AD%E3%83%86%E3%82%AF%E3%83%81%E3%83%A3&quot; target=&quot;_blank&quot;&gt;Clean Architecture　達人に学ぶソフトウェアの構造と設計 (アスキードワンゴ) | Ｒｏｂｅｒｔ Ｃ．Ｍａｒｔｉｎ, 角 征典, 高木 正弘 | 工学 | Kindleストア | Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gizmodo.jp/2018/10/apple-special-event-october-2018-live-blog.html&quot; target=&quot;_blank&quot;&gt;MacBook Air、Mac mini、iPad Proがでた！豊作の秋のApple Event！【更新終了】 | ギズモード・ジャパン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.techcrunch.com/2018/10/31/2018-10-30-heres-everything-apple-announced-today-at-its-big-hardware-event/&quot; target=&quot;_blank&quot;&gt;これが今日のイベントで発表されたAppleの新ハードウェアだ | TechCrunch Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://northwood.blog.fc2.com/blog-entry-9569.html&quot; target=&quot;_blank&quot;&gt;北森瓦版 - 新型MacBook ProでRadeon Pro Vega 20, 16が選択できる模様&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/07/25/fire-echo-show-show-mode-dock/&quot; target=&quot;_blank&quot;&gt;FireタブレットをEcho Showのように使える「Show Mode Dock」を試す - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2018&quot; target=&quot;_blank&quot;&gt;Advent Calendar 2018 - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/&quot; target=&quot;_blank&quot;&gt;Adventar&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Sat, 03 Nov 2018 15:00:00 +0000</pubDate>
+        <link>https://rehash.fm/57</link>
+        <guid isPermaLink="true">https://rehash.fm/57</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>#56 100 Million Listeners</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/521656950&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=false&amp;amp;show_artwork=false&amp;amp;default_height=75&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Made By Google イベントなどについて話しました。&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/09/google-home-hub-google-home/&quot; target=&quot;_blank&quot;&gt;速報: Google Home Hub発表。家電ハブになるスマートディスプレイ - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/09/facebook-portal-alexa/&quot; target=&quot;_blank&quot;&gt;Facebook、ビデオ通話に特化した「Portal」発表。Alexaも搭載したスマートディスプレイ - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/09/chrome-os-pixel-slate-core-m3-i5-2018/&quot; target=&quot;_blank&quot;&gt;Chrome OSタブレット「Pixel Slate」発表。Core M3 / i5 / i7搭載で2018年後半発売 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.techcrunch.com/2018/10/10/2018-10-09-hands-on-with-googles-pixel-slate/&quot; target=&quot;_blank&quot;&gt;GoogleのPixel Slate（ハイブリッド・タブレット）ハンズオン | TechCrunch Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wired.jp/2018/10/05/microsoft-updates-surface-pro/&quot; target=&quot;_blank&quot;&gt;「Surface」の新モデル発表に見た、マイクロソフトの決意｜WIRED.jp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/09/google-pixel-3-felica-ai/&quot; target=&quot;_blank&quot;&gt;Google Pixel 3日本上陸、FeliCa対応の衝撃──強みはAI - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wired.jp/2018/10/11/google-pixel-3/&quot; target=&quot;_blank&quot;&gt;グーグルは「Pixel 3」でソフトウェアの威力を見せつけた：ハンズオンレヴュー｜WIRED.jp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/11/au-pixel-3/&quot; target=&quot;_blank&quot;&gt;au、Pixel 3を見送りも「次回は検討」──担当者 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/09/pixel-3-google/&quot; target=&quot;_blank&quot;&gt;Pixel 3発売に合わせGoogleレンズが日本語対応。リアルタイム認識も可能に - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/09/google-ai-call-screen-pixel-3/&quot; target=&quot;_blank&quot;&gt;Google、AIが電話の用件を訊く機能Call Screen発表。迷惑電話撃退、新スマホPixel 3から提供 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/09/google-ai-duplex-pixel/&quot; target=&quot;_blank&quot;&gt;Google、AIが喋って電話予約するDuplexを来月提供。米国のPixelユーザーから順次拡大 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/09/pixel-3-3-xl-pixel-stand/&quot; target=&quot;_blank&quot;&gt;Pixel 3 / 3 XL向けワイヤレス充電台Pixel Stand発表。充電中は簡易スマートディスプレイに - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/09/3-chromecast-15-4000/&quot; target=&quot;_blank&quot;&gt;新型Chromecast(第3世代)発売。性能向上、旧型との区別に注意 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/02/chrome-project-stream/&quot; target=&quot;_blank&quot;&gt;Chromeでアサシンクリード最新作が無料プレイできる「Project Stream」発表。ただし米国在住者のみ - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1810/08/news007.html&quot; target=&quot;_blank&quot;&gt;Spotify、ポッドキャスト配信のβテスト開始 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/04/2019-wsj/&quot; target=&quot;_blank&quot;&gt;新型ニンテンドースイッチは2019年？ディスプレイ改良を検討、「関係者」が証言（WSJ） - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/04/razer-lan/&quot; target=&quot;_blank&quot;&gt;Razerの次なる戦場は「ゲーミング無線LANルーター」。自動でゲームの通信を優先しレスポンス向上 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.juliet-anime.com/&quot; target=&quot;_blank&quot;&gt;TVアニメ「寄宿学校のジュリエット」公式サイト&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 29 Oct 2018 15:00:00 +0000</pubDate>
+        <link>https://rehash.fm/56</link>
+        <guid isPermaLink="true">https://rehash.fm/56</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>#55 Living In A Golden Age</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/511105557&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=false&amp;amp;show_artwork=false&amp;amp;default_height=75&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;OC5, Google ハードウェアイベントなどについて話しました。&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/oculus-quest-rift-go/&quot; target=&quot;_blank&quot;&gt;Oculusの基調講演でのQuest、Rift、Goに関する発表まとめ【OC5】 | Mogura VR - 国内外のVR/AR/MR最新情報&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.moguravr.com/oculus-quest-2/&quot; target=&quot;_blank&quot;&gt;【徹底レポ】PC不要でハイエンドVR、しかも399ドル 衝撃のOculus Quest | Mogura VR - 国内外のVR/AR/MR最新情報&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35126157/&quot; target=&quot;_blank&quot;&gt;スタンドアロン型VRヘッドセット「Oculus Quest」、399ドルで2019年春発売へ - CNET Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35126159/&quot; target=&quot;_blank&quot;&gt;VRヘッドセット「Oculus Go」向けに「YouTube VR」アプリ--まもなく登場へ - CNET Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/01/google-cm-google-pixel/&quot; target=&quot;_blank&quot;&gt;Google、新スマホの先行CM「Google Pixel: ぎゅっ、から始まる。篇」公開　アクティブ・エッジ搭載示唆か - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35126169/&quot; target=&quot;_blank&quot;&gt;グーグル、「Pixel 3/3 XL」向けワイヤレス充電スタンド「Pixel Stand」を準備か - CNET Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1809/24/news013.html&quot; target=&quot;_blank&quot;&gt;「Pixel 3」と同時にスマートウォッチも発表？　Made by Googleイベントに期待 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35126315/&quot; target=&quot;_blank&quot;&gt;グーグルの新「Wear OS」アップデート、より使いやすく進化 - CNET Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/09/29/10/&quot; target=&quot;_blank&quot;&gt;レノボの「折れ曲がるスマホ」10月発表の可能性？ リストバンド風のスリムスタイル - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/02/google-pc-pixel-slate-nocturne-windows-10/&quot; target=&quot;_blank&quot;&gt;Googleの新タブレットPC「Pixel Slate（Nocturne）」、Windows 10とのデュアルブートをサポート？ - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35126035/&quot; target=&quot;_blank&quot;&gt;20周年のグーグル、新機能やニュースフィードで検索エンジンを刷新へ - CNET Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://internet.watch.impress.co.jp/docs/news/1144334.html&quot; target=&quot;_blank&quot;&gt;来場者16万人を目指す「CEATEC JAPAN 2018」の新企画が明らかに、10月16日～19日に幕張メッセで開催 - INTERNET Watch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japan.cnet.com/article/35126132/&quot; target=&quot;_blank&quot;&gt;LIXIL、荷物受け取りや集荷依頼ができる「スマート宅配ポスト」 - CNET Japan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://internet.watch.impress.co.jp/docs/interview/1142548.html&quot; target=&quot;_blank&quot;&gt;LIXILの「スマート宅配ポスト」は、いま手に入る未来？ CEATECの展示予定を聞いてみた - INTERNET Watch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://internet.watch.impress.co.jp/docs/interview/1142507.html&quot; target=&quot;_blank&quot;&gt;「IoT は “Internet of Toys” だ！（バンダイ社内では）」、CEATECではハロに続く「新型ロボット」？ - INTERNET Watch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svrinfo.jp/detail?p=220165&quot; target=&quot;_blank&quot;&gt;EXPVR、TGS2018に VRマンガヒーローACT『BE THE HERO』を出展　MR合成を利用した記念写真も!! | Social VR Info – VR総合情報サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jp.square-enix.com/kingdom/episode/&quot; target=&quot;_blank&quot;&gt;KINGDOM HEARTS 「IIIに繋がる物語たち」 | SQUARE ENIX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/10/01/ps4-pro-bo4-5000/&quot; target=&quot;_blank&quot;&gt;PS4 Proが初の値下げ。BO4と同時購入でさらに5000円引きキャンペーンも実施 - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jp.playstation.com/psclassic/&quot; target=&quot;_blank&quot;&gt;PlayStation Classic | プレイステーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1809/20/news083.html&quot; target=&quot;_blank&quot;&gt;プレイステーション クラシックの先行抽選予約開始 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1809/20/news084.html&quot; target=&quot;_blank&quot;&gt;「プレステ クラシック」世界初披露　復刻は「前々から計画」 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wild-arms.com/img/top/mv/mv_copy.png&quot; target=&quot;_blank&quot;&gt;『ワイルドアームズ ミリオンメモリーズ』 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%A2%E3%83%B3%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%95%E3%82%A1%E3%83%BC%E3%83%A0%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot; target=&quot;_blank&quot;&gt;モンスターファームシリーズ - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%A9%E3%82%B5%E3%82%A4%E3%83%88%E3%83%BB%E3%82%A4%E3%83%B4_(%E3%82%B2%E3%83%BC%E3%83%A0)&quot; target=&quot;_blank&quot;&gt;パラサイト・イヴ (ゲーム) - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1810/01/news061.html&quot; target=&quot;_blank&quot;&gt;前代未聞の“巨大コンパクトカメラ”　ニコン「P1000」で月を狙う (1/5) - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1809/26/news081.html&quot; target=&quot;_blank&quot;&gt;富士フイルム、1億画素の中判ミラーレスを開発中 - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Mon, 08 Oct 2018 01:00:00 +0000</pubDate>
+        <link>https://rehash.fm/55</link>
+        <guid isPermaLink="true">https://rehash.fm/55</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+      <item>
+        <title>#54 Team #rehashfm</title>
+        <description>&lt;iframe width=&quot;100%&quot; height=&quot;50&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/505414155&amp;amp;auto_play=false&amp;amp;hide_related=false&amp;amp;show_user=true&amp;amp;show_reposts=false&amp;amp;visual=false&amp;amp;show_artwork=false&amp;amp;default_height=75&quot;&gt;&lt;/iframe&gt;
+&lt;p&gt;Apple イベント, flutter_mlkit, ISUCON 2018 参加などについて話しました。&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/jp/apple-events/september-2018/&quot; target=&quot;_blank&quot;&gt;Appleのイベント - Keynote 2018年9月 - Apple（日本）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gizmodo.jp/2018/09/apple-gather-round-realtime.html&quot; target=&quot;_blank&quot;&gt;【更新終了】新型iPhone XS／XS Max／XR発表！Appleスペシャルイベント | ギズモード・ジャパン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/09/17/apple-watch-series-4/&quot; target=&quot;_blank&quot;&gt;Apple Watch Series 4は「人間のインフラ」レベルですごい - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/mobile/articles/1809/16/news034.html&quot; target=&quot;_blank&quot;&gt;「iPhone XS」「iPhone XS Max」の端末価格を比較　最も安いキャリアは？ - ITmedia Mobile&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1809/14/news113.html&quot; target=&quot;_blank&quot;&gt;Google、新型スマホのティーザーサイト公開　「Pixel 3」日本発売か - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.businessinsider.jp/post-175425&quot; target=&quot;_blank&quot;&gt;iPhone XRの｢R｣の意味は？ ── たぶんアップルも知らない | BUSINESS INSIDER JAPAN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://japanese.engadget.com/2018/09/17/airpower/&quot; target=&quot;_blank&quot;&gt;ワイヤレス充電マットAirPowerは来春まで発売されない？過熱問題や通信バグが解決困難とのうわさ - Engadget 日本版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wired.jp/2018/09/18/goodbye-iphone-se-small-phones/&quot; target=&quot;_blank&quot;&gt;さようならiPhone SE。これで小型スマートフォンは絶滅した｜WIRED.jp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.businessinsider.jp/post-175247&quot; target=&quot;_blank&quot;&gt;iPhone Xのわずか1年での販売打ち切りは、良い戦略 | BUSINESS INSIDER JAPAN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.classmethod.jp/smartphone/iphone/behavior-of-splitviewcontroller-on-xs-max-and-xs/&quot; target=&quot;_blank&quot;&gt;iPhone XS Max/XR と iPhone XSではランドスケープ時のUISplitViewControllerの挙動が異なります ｜ Developers.IO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nlab.itmedia.co.jp/nl/articles/1809/08/news036.html&quot; target=&quot;_blank&quot;&gt;デレステにAR機能追加で全国のプロデューサーさん歓喜　Twitterに次元を突破した画像・動画が溢れる - ねとらぼ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/azihsoyn/flutter_mlkit&quot; target=&quot;_blank&quot;&gt;azihsoyn/flutter_mlkit: A Flutter plugin to use the Firebase ML Kit.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/Android-iOS%E3%82%AF%E3%83%AD%E3%82%B9%E9%96%8B%E7%99%BA%E3%83%95%E3%83%AC%E3%83%BC%E3%83%A0%E3%83%AF%E3%83%BC%E3%82%AF-Flutter%E5%85%A5%E9%96%80-%E6%8E%8C%E7%94%B0%E6%B4%A5%E8%80%B6%E4%B9%83/dp/4798055832/ref=sr_1_1?ie=UTF8&amp;amp;qid=1537856848&amp;amp;sr=8-1&amp;amp;keywords=flutter&quot; target=&quot;_blank&quot;&gt;Android/iOSクロス開発フレームワーク Flutter入門 | 掌田津耶乃 |本 | 通販 | Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azihsoyn.hatenablog.com/entry/isucon8-kpt&quot; target=&quot;_blank&quot;&gt;isucon8に参加して予選敗退してきました - azihsoyn’s blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.animatetimes.com/tag/details.php?id=5947&quot; target=&quot;_blank&quot;&gt;2018秋アニメ一覧｜今期（10月放送開始）新作アニメ情報 | アニメイトタイムズ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <pubDate>Wed, 26 Sep 2018 11:00:00 +0000</pubDate>
+        <link>https://rehash.fm/54</link>
+        <guid isPermaLink="true">https://rehash.fm/54</guid>
+        
+        <category>blog</category>
+        
+        
+        <category>Blog</category>
+        
+      </item>
+    
+  </channel>
+</rss>

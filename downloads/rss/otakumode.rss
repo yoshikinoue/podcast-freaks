@@ -1,0 +1,103 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:361589768/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:361589768/sounds.rss?before=366594515" rel="next" type="application/rss+xml"/>
+        <title>otakumode Tech Podcast</title>
+        <link>http://blog.otakumode.com/</link>
+        <pubDate>Tue, 22 May 2018 00:00:07 +0000</pubDate>
+        <lastBuildDate>Tue, 22 May 2018 00:00:07 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Podcast by Tokyo Otaku Mode</description>
+        <itunes:subtitle>Podcast by Tokyo Otaku Mode</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>otakumode Tech Podcast</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Tokyo Otaku Mode</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000365521061-37s2tj-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000365521061-37s2tj-original.jpg</url>
+          <title>otakumode Tech Podcast</title>
+          <link>http://blog.otakumode.com/</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/447333867</guid>
+      <title>#4: otakumode Tech Podcast</title>
+      <pubDate>Tue, 22 May 2018 00:00:07 +0000</pubDate>
+      <link>https://soundcloud.com/otakumodetechpodcast/4-otakumode-tech-podcast</link>
+      <itunes:duration>00:35:51</itunes:duration>
+      <itunes:author>Tokyo Otaku Mode</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>otakumode Tech Podcast talk show episode 4.
+MC: @pchw
+Guest: @FiNGAHOLiC</itunes:summary>
+      <itunes:subtitle>otakumode Tech Podcast talk show episode 4.
+MC: @…</itunes:subtitle>
+      <description>otakumode Tech Podcast talk show episode 4.
+MC: @pchw
+Guest: @FiNGAHOLiC</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/447333867-otakumodetechpodcast-4-otakumode-tech-podcast.m4a" length="20491292"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000351072600-fbywaw-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/400347498</guid>
+      <title>#3: otakumode Tech Podcast</title>
+      <pubDate>Fri, 16 Feb 2018 02:19:52 +0000</pubDate>
+      <link>https://soundcloud.com/otakumodetechpodcast/3-otakumode-tech-podcast</link>
+      <itunes:duration>00:46:39</itunes:duration>
+      <itunes:author>Tokyo Otaku Mode</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>otakumode Tech Podcast talk show episode 3.
+MC: @pchw
+Guest: @yutosegoe</itunes:summary>
+      <itunes:subtitle>otakumode Tech Podcast talk show episode 3.
+MC: @…</itunes:subtitle>
+      <description>otakumode Tech Podcast talk show episode 3.
+MC: @pchw
+Guest: @yutosegoe</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/400347498-otakumodetechpodcast-3-otakumode-tech-podcast.m4a" length="46557079"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000302947881-glgzck-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/374904401</guid>
+      <title>#2: otakumode Tech Podcast</title>
+      <pubDate>Wed, 27 Dec 2017 00:28:28 +0000</pubDate>
+      <link>https://soundcloud.com/otakumodetechpodcast/otakumode-tech-podcast-2</link>
+      <itunes:duration>00:49:39</itunes:duration>
+      <itunes:author>Tokyo Otaku Mode</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>otakumode Tech Podcast talk show episode 2.
+Guest: @shimbaco
+MC: @pchw</itunes:summary>
+      <itunes:subtitle>otakumode Tech Podcast talk show episode 2.
+Guest…</itunes:subtitle>
+      <description>otakumode Tech Podcast talk show episode 2.
+Guest: @shimbaco
+MC: @pchw</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/374904401-otakumodetechpodcast-otakumode-tech-podcast-2.m4a" length="84615282"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000365521061-37s2tj-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/366594515</guid>
+      <title>#1: otakumode Tech Podcast</title>
+      <pubDate>Fri, 08 Dec 2017 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/otakumodetechpodcast/otakumode-tech-podcast-1</link>
+      <itunes:duration>00:33:34</itunes:duration>
+      <itunes:author>Tokyo Otaku Mode</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>otakumode Tech Podcast talk show episode 1.
+MC: @pchw
+Guest: @bakorer</itunes:summary>
+      <itunes:subtitle>otakumode Tech Podcast talk show episode 1.
+MC: @…</itunes:subtitle>
+      <description>otakumode Tech Podcast talk show episode 1.
+MC: @pchw
+Guest: @bakorer</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/366594515-otakumodetechpodcast-otakumode-tech-podcast-1.m4a" length="66692344"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000269428202-qd0vhv-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

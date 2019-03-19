@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://podcast.unifa-e.com/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://podcast.unifa-e.com/</link>
+    <title>UniFa Developer's Podcast</title>
+    <description>UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、&lt;br/&gt;技術トピックなどについてゆるく話していく Podcast です。</description>
+    <media:keywords>comma,separated,keywords</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、&lt;br/&gt;技術トピックなどについてゆるく話していく Podcast です。</itunes:subtitle>
+    <itunes:author>UniFa</itunes:author>
+    <itunes:summary>UniFa 開発メンバーが社内での開発の様子やサービス、参加したイベント、&lt;br/&gt;技術トピックなどについてゆるく話していく Podcast です。</itunes:summary>
+    <itunes:keywords>comma,separated,keywords</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>UniFa</itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://podcast.unifa-e.com/images/artwork.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>7. 結局はチームがすべて。本気で世界一を目指せるか（後編）</title>
+        <link>https://podcast.unifa-e.com/episode/7</link>
+        <pubDate>Mon, 11 Mar 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;収録日&quot;&gt;収録日&lt;/h2&gt;
+
+&lt;p&gt;2019/02/20 (Wed)&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://if-up2019.soracom.jp/&quot;&gt;if-up2019 IoT Technology Conference powered by SORACOM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soracom.jp/&quot;&gt;株式会社ソラコム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/ifup2019?src=hash&quot;&gt;#ifup2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://togetter.com/li/1319070&quot;&gt;IoT Technology Conference if-up 2019 まとめ&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/SORACOM/ifup-2019-x&quot;&gt;キーノート「テクノロジー x 情熱」が世界を変える&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;これからのプロダクト作りには妄想とも言えるパッションが必要&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/SORACOM/ifup-2019-x-131730705&quot;&gt;キーノートパネルセッション「プロダクト x テクノロジーｘ イノベーション」&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;1000人規模になってくると、自分でプロダクトを見ているというよりは組織づくりを見ている。どういう組織を作れば良いプロダクトができるか（メルカリ 濱田さん）&lt;/li&gt;
+      &lt;li&gt;本人達がグッとこないことを出島でやっても本丸はグッとこない（Panasonic HomeX 馬場さん）&lt;/li&gt;
+      &lt;li&gt;本気で世界一を目指すべき。自然に世界一になっていたということはありえない。一年ぐらい本気で考えていると、いける気がしてくる（Panasonic HomeX 馬場さん）&lt;/li&gt;
+      &lt;li&gt;世界一を目指さない企業には所属すべきではない。成長できるものもできなくなる（Panasonic HomeX 馬場さん）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/SORACOM/ifup-2019-c3&quot;&gt;C3. コンシューマープロダクトにおけるクラウド実践&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/NaokiFujiwara2/ifup2019aibo&quot;&gt;if-up2019_aibo&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;aibo企画書からクラウド開発スタート。そもそもaiboのクラウドとは何なのか。要件変更が日常だった。要件が固まらない、全体像が見えない、だから仕事が進まない。日々高まる不安&lt;/li&gt;
+      &lt;li&gt;「自分だけがわかっていないのでは？」という不安 -&amp;gt; 「みんなの不安」にする施策：モヤモヤ解消会。結論が出そうにないことのみ議論する会
+        &lt;ul&gt;
+          &lt;li&gt;会では議論のみに集中&lt;/li&gt;
+          &lt;li&gt;コメント痕跡は必ず残し、参加意識を高める&lt;/li&gt;
+          &lt;li&gt;メンバーの困りごとをなおざりにしない&lt;/li&gt;
+          &lt;li&gt;-&amp;gt; 議論空転が減り、挑戦的な課題に目が向くようになった&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/SORACOM/ifup-2019-a4&quot;&gt;A4. 「進化し続けるプロダクトを作るための開発チーム」&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;クックパッドでは2014年ごろからモノリシックアーキテクチャからマイクロサービスへの移行を決断。既存機能はビジネス上必要性のある単位で分割を進める（やりすぎない）&lt;/li&gt;
+      &lt;li&gt;うまくやれてそうな部分：現場ニーズからではなく、経営判断として進めている&lt;/li&gt;
+      &lt;li&gt;マイクロサービス化した方が良いかどうかについては、場合による。大抵の場合はやらなくて良い&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;結局はチームが全て&lt;/li&gt;
+  &lt;li&gt;世界一を目指すことに本気になれるか&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.unifa-e.com/episode/7</guid>
+        <enclosure url="https://podcast.unifa-e.com/audio/unifa_developers_podcast_007.mp3" length="14243977" type="audio/mp3"/>
+        <itunes:author>UniFa</itunes:author>
+        <itunes:subtitle>赤沼、田渕、保坂の3人で、ソラコムさん主催の if-up2019 IoT Technology Conference について話しました。今回は前後編に分けているうちの後編です。</itunes:subtitle>
+        <itunes:duration>21:40</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.unifa-e.com/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>6. 結局はチームがすべて。本気で世界一を目指せるか（前編）</title>
+        <link>https://podcast.unifa-e.com/episode/6</link>
+        <pubDate>Thu, 07 Mar 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;収録日&quot;&gt;収録日&lt;/h2&gt;
+
+&lt;p&gt;2019/02/20 (Wed)&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;前回からオープニングのジングルつけました&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://if-up2019.soracom.jp/&quot;&gt;if-up2019 IoT Technology Conference powered by SORACOM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soracom.jp/&quot;&gt;株式会社ソラコム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.nikkeibp.co.jp/it/article/COLUMN/20140122/531524/&quot;&gt;【ifup】ネットワーク・インターフェースを有効にする&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/ifup2019?src=hash&quot;&gt;#ifup2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1319070&quot;&gt;IoT Technology Conference if-up 2019 まとめ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://if-up2017.soracom.jp/&quot;&gt;if-up2017 IoT Technology Conference powered by SORACOM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.akanumahiroaki.com/entry/2017/04/30/001000&quot;&gt;if-up2017に参加してきました&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://twitter.com/akanuma/status/1095867467690196992&quot;&gt;ユニファの事例&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/SORACOM/ifup-2019-x&quot;&gt;キーノート「テクノロジー x 情熱」が世界を変える&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;モノ作りからモノゴト作りへ&lt;/li&gt;
+      &lt;li&gt;日本にはICTエンジニア100万人いる割にはプロダクトが少ない&lt;/li&gt;
+      &lt;li&gt;技術はあるけど何を作りたいかのパッションが不足している&lt;/li&gt;
+      &lt;li&gt;これからのプロダクト作りには妄想とも言えるパッションが必要&lt;/li&gt;
+      &lt;li&gt;チームメンバーに共通する特性は良い意味で無謀なところ（アストロスケール 伊藤さん）&lt;/li&gt;
+      &lt;li&gt;ロボットを作る上で一番難しいのは技術ではなくて組織。あらゆる部門が関わるので縦割りでは進まない（GROOVE X 林さん）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/SORACOM/ifup-2019-x-131730705&quot;&gt;キーノートパネルセッション「プロダクト x テクノロジーｘ イノベーション」&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;良いプロダクトを作っても売れないのではなく、良いプロダクトを作れてない。良いプロダクトの定義が変わってきている。（Panasonic HomeX 馬場さん）&lt;/li&gt;
+      &lt;li&gt;暮らしの多くでは問題を明確に言語化できない。ファクトを集めて問題を再定義する&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/SORACOM/ifup-2019-c3&quot;&gt;C3. コンシューマープロダクトにおけるクラウド実践&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/NaokiFujiwara2/ifup2019aibo&quot;&gt;if-up2019_aibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/SORACOM/ifup-2019-a4&quot;&gt;A4. 「進化し続けるプロダクトを作るための開発チーム」&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.unifa-e.com/episode/6</guid>
+        <enclosure url="https://podcast.unifa-e.com/audio/unifa_developers_podcast_006.mp3" length="15491782" type="audio/mp3"/>
+        <itunes:author>UniFa</itunes:author>
+        <itunes:subtitle>赤沼、田渕、保坂の3人で、ソラコムさん主催の if-up2019 IoT Technology Conference について話しました。今回は前後編に分けているうちの前編です。</itunes:subtitle>
+        <itunes:duration>23:31</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.unifa-e.com/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>5. 午睡チェックサービスのエンジニアリングとディレクション</title>
+        <link>https://podcast.unifa-e.com/episode/5</link>
+        <pubDate>Thu, 14 Feb 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;今週からオープニングのジングルつけてみました&lt;/li&gt;
+  &lt;li&gt;経歴自己紹介&lt;/li&gt;
+  &lt;li&gt;午睡チェックとは？ぜそれをやっているのか？&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lookmee.jp/gosui/&quot;&gt;ルクミー午睡チェック&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;午睡チェックがどうやってできたか&lt;/li&gt;
+  &lt;li&gt;技術的課題とどうやって解決したか&lt;/li&gt;
+  &lt;li&gt;ディレクターの役割&lt;/li&gt;
+  &lt;li&gt;ディレクターとエンジニアの関わり方&lt;/li&gt;
+  &lt;li&gt;ディレクターの仕事の流れ&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.unifa-e.com/episode/5</guid>
+        <enclosure url="https://podcast.unifa-e.com/audio/unifa_developers_podcast_005.mp3" length="17629332" type="audio/mp3"/>
+        <itunes:author>UniFa</itunes:author>
+        <itunes:subtitle>赤沼、趙、保坂の3人で、 午睡チェックサービスの技術的な事やディレクターの役割について話しました。</itunes:subtitle>
+        <itunes:duration>27:08</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.unifa-e.com/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>4. エンジニアのキャリアについて考えよう</title>
+        <link>https://podcast.unifa-e.com/episode/4</link>
+        <pubDate>Mon, 04 Feb 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;流行りに乗ってインフルエンザにかかってました&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mof-mof.co.jp/&quot;&gt;mofmof inc.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mofmof001.connpass.com/event/112305/&quot;&gt;ユニファ×mofmof共同開催！Railsエンジニアキャリアミートアップ！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ミートアップのパネルディスカッションテーマ
+    &lt;ul&gt;
+      &lt;li&gt;そもそもエンジニアのキャリアって、どんなキャリアがある？&lt;/li&gt;
+      &lt;li&gt;なぜエンジニアになったか？&lt;/li&gt;
+      &lt;li&gt;CTO／CEOのキャリアはそれぞれどうやって掴んだ？&lt;/li&gt;
+      &lt;li&gt;目指すキャリアを掴むために必要な条件は？&lt;/li&gt;
+      &lt;li&gt;技術以外に何を学ぶべきか？&lt;/li&gt;
+      &lt;li&gt;リアルな話、今のキャリアに至るまでどうだった？&lt;/li&gt;
+      &lt;li&gt;35歳定年説についてどう思うか？&lt;/li&gt;
+      &lt;li&gt;これからのエンジニアに求められることは？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;※貸し会議室で収録したため、隣の部屋のノイズが入っています。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.unifa-e.com/episode/4</guid>
+        <enclosure url="https://podcast.unifa-e.com/audio/unifa_developers_podcast_004.mp3" length="36127700" type="audio/mp3"/>
+        <itunes:author>UniFa</itunes:author>
+        <itunes:subtitle>赤沼、田渕、柿本の3人で、 mofmof さんと共同開催した Meetup やエンジニアのキャリアなどについて話しました。</itunes:subtitle>
+        <itunes:duration>55:24</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.unifa-e.com/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>3. ユニファR&amp;Dチームの面々</title>
+        <link>https://podcast.unifa-e.com/episode/3</link>
+        <pubDate>Thu, 10 Jan 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;収録用マイクを変えてみました: &lt;a href=&quot;https://www.amazon.co.jp/gp/product/B002VA464S/&quot;&gt;Blue Microphones Yeti USBマイク&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%B3%E3%82%B3%E3%82%A6%E3%83%81%E3%83%A7%E3%82%A6&quot;&gt;サンコウチョウ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ユニファR&amp;amp;Dチームの立ち上げからの取り組み&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lookmee.jp/gosui/&quot;&gt;ルクミー午睡チェック&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lookmee.jp/photo/&quot;&gt;ルクミーフォト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.comiket.co.jp/info-a/C95/C95info.html#N200&quot;&gt;コミックマーケット９５&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://webcatalog-free.circle.ms/Circle/14225168&quot;&gt;Lavieleaf vol.1（要ログイン）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/&quot;&gt;技術書典&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://booth.pm/ja/search/%E6%8A%80%E8%A1%93%E6%9B%B8&quot;&gt;BOOTH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://togetter.com/li/1303962&quot;&gt;今年もすごすぎたPerfumeのパフォーマンス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudplatform-jp.googleblog.com/2018/06/NHK-Perfume-TECHNOLOGY-Reframe-Your-Photo-Google-TensorFlow.html&quot;&gt;Perfume とライゾマティクスの新たな試みを支える Google の機械学習&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/PCBTZh41Ris&quot;&gt;Everybody Dance Now&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://perfume-dev.github.io/&quot;&gt;Perfume global site project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lovot.life/&quot;&gt;LOVOT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aibo.sony.jp/&quot;&gt;aibo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qoobo.info/&quot;&gt;Qoobo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://news.nicovideo.jp/watch/nw4568195&quot;&gt;ZOZOTOWN前澤社長「総額1億円のお年玉」ツイートがTwitter日本記録更新&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;今年R&amp;amp;Dでやっていきたいこと&lt;/li&gt;
+  &lt;li&gt;スマート保育園構想&lt;/li&gt;
+  &lt;li&gt;保育をハックする&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://recruit.jobcan.jp/unifa-e/show/2/17633&quot;&gt;R&amp;amp;Dエンジニア募集中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.unifa-e.com/episode/3</guid>
+        <enclosure url="https://podcast.unifa-e.com/audio/unifa_developers_podcast_003.mp3" length="32791365" type="audio/mp3"/>
+        <itunes:author>UniFa</itunes:author>
+        <itunes:subtitle>赤沼、浅野、志田の3人で、ユニファR&amp;Dチームでの取り組みや機械学習、深層学習、ロボットなどについて話しました。</itunes:subtitle>
+        <itunes:duration>49:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.unifa-e.com/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>2. CTO って大変そうですね</title>
+        <link>https://podcast.unifa-e.com/episode/2</link>
+        <pubDate>Fri, 28 Dec 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Podcast 初回配信してみた&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flxy.jp/article/3480&quot;&gt;【CTO meet up】CTOに求められる能力と限界&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;IVS CTONight &amp;amp; Day 2018&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.unifa-e.com/episode/2</guid>
+        <enclosure url="https://podcast.unifa-e.com/audio/unifa_developers_podcast_002.mp3" length="33009134" type="audio/mp3"/>
+        <itunes:author>UniFa</itunes:author>
+        <itunes:subtitle>赤沼、田渕、鶴岡の3人で、CTO Meetup や IVS CTO Night &amp; Day などについて話しました。</itunes:subtitle>
+        <itunes:duration>49:15</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.unifa-e.com/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>1. Podcast 始めました。</title>
+        <link>https://podcast.unifa-e.com/episode/1</link>
+        <pubDate>Mon, 17 Dec 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;この Podcast のコンセプト&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2018.pmconf.jp/&quot;&gt;Product Manager Conference 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.unifa-e.com/&quot;&gt;ユニファ開発者ブログ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://containerdays.jp/&quot;&gt;Japan Container Days v18.12&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2018/soracom&quot;&gt;SORACOM LTE-M Button powered by AWS Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;英語必要ですよね&lt;/li&gt;
+  &lt;li&gt;ネットワーキングって重要だけど難しいですよね&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jasst.jp/&quot;&gt;JaSST&lt;/a&gt; に登壇した時の話&lt;/li&gt;
+  &lt;li&gt;アウトプット重要ですね&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.akanumahiroaki.com/&quot;&gt;Tech Blog by Akanuma Hiroaki&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.unifa-e.com/episode/1</guid>
+        <enclosure url="https://podcast.unifa-e.com/audio/unifa_developers_podcast_001.mp3" length="32961244" type="audio/mp3"/>
+        <itunes:author>UniFa</itunes:author>
+        <itunes:subtitle>赤沼、田渕、鶴岡の3人で、この Podcast のコンセプトや開発者ブログ、Product Manager Conference などについて話しました。</itunes:subtitle>
+        <itunes:duration>50:13</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.unifa-e.com/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

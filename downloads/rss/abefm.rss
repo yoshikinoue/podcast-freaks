@@ -1,0 +1,111 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:213089033/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:213089033/sounds.rss?before=253181435" rel="next" type="application/rss+xml"/>
+        <title>Abe.fm</title>
+        <link>http://soundcloud.com/yuya-abe-895974203</link>
+        <pubDate>Sat, 19 Mar 2016 15:14:37 +0000</pubDate>
+        <lastBuildDate>Sat, 19 Mar 2016 15:14:37 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Podcast by Yuya Abe</description>
+        <itunes:subtitle>Podcast by Yuya Abe</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Yuya Abe</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Yuya Abe</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000211946195-y33l6d-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000211946195-y33l6d-original.jpg</url>
+          <title>Yuya Abe</title>
+          <link>http://soundcloud.com/yuya-abe-895974203</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/253181461</guid>
+      <title>Abe Fm 1</title>
+      <pubDate>Sat, 19 Mar 2016 14:43:46 +0000</pubDate>
+      <link>https://soundcloud.com/yuya-abe-895974203/abe-fm-1</link>
+      <itunes:duration>00:33:38</itunes:duration>
+      <itunes:author>Yuya Abe</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラミング言語、趣味プロジェクト等のお話をします。</itunes:summary>
+      <itunes:subtitle>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラ…</itunes:subtitle>
+      <description>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラミング言語、趣味プロジェクト等のお話をします。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/253181461-yuya-abe-895974203-abe-fm-1.mp3" length="48436998"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000152110435-ldvciq-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/253181459</guid>
+      <title>Abe Fm 2</title>
+      <pubDate>Sat, 19 Mar 2016 14:43:44 +0000</pubDate>
+      <link>https://soundcloud.com/yuya-abe-895974203/abe-fm-2</link>
+      <itunes:duration>00:29:52</itunes:duration>
+      <itunes:author>Yuya Abe</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラミング言語、趣味プロジェクト等のお話をします。</itunes:summary>
+      <itunes:subtitle>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラ…</itunes:subtitle>
+      <description>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラミング言語、趣味プロジェクト等のお話をします。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/253181459-yuya-abe-895974203-abe-fm-2.mp3" length="43015858"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000152110426-qkxot9-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/253181449</guid>
+      <title>Abe Fm 3</title>
+      <pubDate>Sat, 19 Mar 2016 14:43:41 +0000</pubDate>
+      <link>https://soundcloud.com/yuya-abe-895974203/abe-fm-3</link>
+      <itunes:duration>00:43:38</itunes:duration>
+      <itunes:author>Yuya Abe</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラミング言語、趣味プロジェクト等のお話をします。</itunes:summary>
+      <itunes:subtitle>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラ…</itunes:subtitle>
+      <description>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラミング言語、趣味プロジェクト等のお話をします。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/253181449-yuya-abe-895974203-abe-fm-3.mp3" length="62846559"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000152110413-v5i3nq-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/253181442</guid>
+      <title>Abe Fm 4</title>
+      <pubDate>Sat, 19 Mar 2016 14:43:39 +0000</pubDate>
+      <link>https://soundcloud.com/yuya-abe-895974203/abe-fm-4</link>
+      <itunes:duration>00:28:57</itunes:duration>
+      <itunes:author>Yuya Abe</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラミング言語、趣味プロジェクト等のお話をします。</itunes:summary>
+      <itunes:subtitle>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラ…</itunes:subtitle>
+      <description>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラミング言語、趣味プロジェクト等のお話をします。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/253181442-yuya-abe-895974203-abe-fm-4.mp3" length="41696152"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000152110401-5u0l28-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/253181435</guid>
+      <title>Abe Fm 5</title>
+      <pubDate>Sat, 19 Mar 2016 14:43:37 +0000</pubDate>
+      <link>https://soundcloud.com/yuya-abe-895974203/abe-fm-5</link>
+      <itunes:duration>00:30:44</itunes:duration>
+      <itunes:author>Yuya Abe</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラミング言語、趣味プロジェクト等のお話をします。</itunes:summary>
+      <itunes:subtitle>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラ…</itunes:subtitle>
+      <description>ソフトウェアエンジニアのabeyuyaのPodcastです。
+Web系技術、モバイル技術、プログラミング言語、趣味プロジェクト等のお話をします。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/253181435-yuya-abe-895974203-abe-fm-5.mp3" length="44264094"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000152110388-59ohn2-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

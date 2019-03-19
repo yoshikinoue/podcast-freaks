@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xml:lang="ja">
+  <channel>
+    <atom:link href="https://tarumaefm.com/feed.xml" rel="self" type="application/rss+xml" />
+    <title>樽前FM</title>
+    <description>苫小牧高専生による雑談Podcastです。学校行事ネタ、ローカルネタの他、アニメやゲーム、ガジェットなど。</description>
+    <link>https://tarumaefm.com</link>
+    <language>ja</language>
+    <managingEditor>takuya.mk96@gmail.com (Takuya Mukohira)</managingEditor>
+    <webMaster>takuya.mk96@gmail.com (Takuya Mukohira)</webMaster>
+    <copyright>2017 樽前FM</copyright>
+    <pubDate>Sat, 12 Jan 2019 18:59:12 +0000</pubDate>
+    <lastBuildDate>Sat, 12 Jan 2019 18:59:12 +0000</lastBuildDate>
+    <image>
+      <link>https://tarumaefm.com</link>
+      <url>https://tarumaefm.com/assets/tarumaefm.jpg</url>
+      <title>樽前FM</title>
+    </image>
+    <itunes:subtitle>苫小牧高専生による雑談Podcastです。学校行事ネタ、ローカルネタの他、アニメやゲーム、ガジェットなど。</itunes:subtitle>
+    <itunes:author>Takuya Mukohira</itunes:author>
+    <itunes:summary>苫小牧高専生による雑談Podcastです。学校行事ネタ、ローカルネタの他、アニメやゲーム、ガジェットなど。</itunes:summary>
+    <itunes:keywords>樽前FM,雑談,高専,苫小牧高専,苫小牧</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Takuya Mukohira</itunes:name>
+      <itunes:email>takuya.mk96@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+    <itunes:category text="Society &amp; Culture">
+      <itunes:category text="Personal Journals" />
+    </itunes:category>
+    <itunes:explicit>no</itunes:explicit>
+    
+    <item>
+      <title>EP21 やあ ようこそ、バーボンハウスへ。</title>
+      <link>https://tarumaefm.com/21</link>
+      <pubDate>Sat, 12 Jan 2019 00:00:00 +0000</pubDate>
+      <description>ふっくんと、BGM、2019年の目標、コミケ、VTuber、昔のインターネット、スマブラなどについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/21</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep21.mp3" length="35610748" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP21 やあ ようこそ、バーボンハウスへ。</itunes:subtitle>
+      <itunes:summary>ふっくんと、BGM、2019年の目標、コミケ、VTuber、昔のインターネット、スマブラなどについて話しました。</itunes:summary>
+      <itunes:duration>01:14:11</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP20 年末スペシャル 後半</title>
+      <link>https://tarumaefm.com/20</link>
+      <pubDate>Sat, 29 Dec 2018 00:00:00 +0000</pubDate>
+      <description>たにったさんと、「やっていき」という罪、2018年まとめ、2019年の目標などについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/20</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep20.mp3" length="39356707" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP20 年末スペシャル 後半</itunes:subtitle>
+      <itunes:summary>たにったさんと、「やっていき」という罪、2018年まとめ、2019年の目標などについて話しました。</itunes:summary>
+      <itunes:duration>01:22:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP19 年末スペシャル 前半</title>
+      <link>https://tarumaefm.com/19</link>
+      <pubDate>Fri, 28 Dec 2018 00:00:00 +0000</pubDate>
+      <description>たにったさんと、風邪、過去回、改元、東京Node学園祭2018、GGJ、苫小牧高専アドベントカレンダーなどについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/19</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep19.mp3" length="64614816" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP19 年末スペシャル 前半</itunes:subtitle>
+      <itunes:summary>たにったさんと、風邪、過去回、改元、東京Node学園祭2018、GGJ、苫小牧高専アドベントカレンダーなどについて話しました。</itunes:summary>
+      <itunes:duration>02:14:37</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP18 Podcaster Advent Calendar 2018</title>
+      <link>https://tarumaefm.com/18</link>
+      <pubDate>Sun, 09 Dec 2018 00:00:00 +0000</pubDate>
+      <description>ふっくんと、自己紹介、樽前FMについて、高専について、これまでのPodcast、VTuber、聞いているPodcast、お母さん乱入などについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/18</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep18.mp3" length="25677948" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP18 Podcaster Advent Calendar 2018</itunes:subtitle>
+      <itunes:summary>ふっくんと、自己紹介、樽前FMについて、高専について、これまでのPodcast、VTuber、聞いているPodcast、お母さん乱入などについて話しました。</itunes:summary>
+      <itunes:duration>00:53:30</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP17 本当にひどい○○</title>
+      <link>https://tarumaefm.com/17</link>
+      <pubDate>Wed, 28 Nov 2018 00:00:00 +0000</pubDate>
+      <description>てっぴーくんと、てっぴー、本当にひどい実験、進路、専攻科生活などについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/17</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep17.mp3" length="58164373" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP17 本当にひどい○○</itunes:subtitle>
+      <itunes:summary>てっぴーくんと、てっぴー、本当にひどい実験、進路、専攻科生活などについて話しました。</itunes:summary>
+      <itunes:duration>01:00:35</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP16 何もしないはできない</title>
+      <link>https://tarumaefm.com/16</link>
+      <pubDate>Mon, 24 Sep 2018 00:00:00 +0000</pubDate>
+      <description>たにったさんと、地震、停電、震災デマ、Unity講師、今後の方針などについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/16</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep16.mp3" length="83870121" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP16 何もしないはできない</itunes:subtitle>
+      <itunes:summary>たにったさんと、地震、停電、震災デマ、Unity講師、今後の方針などについて話しました。</itunes:summary>
+      <itunes:duration>01:56:29</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP15 ネーピア</title>
+      <link>https://tarumaefm.com/15</link>
+      <pubDate>Sun, 23 Sep 2018 00:00:00 +0000</pubDate>
+      <description>けんきちくんと、NZ語学研修、台風21号、平成30年北海道胆振東部地震、新型iPhone/Apple Watchなどについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/15</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep15.mp3" length="66078226" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP15 ネーピア</itunes:subtitle>
+      <itunes:summary>けんきちくんと、NZ語学研修、台風21号、平成30年北海道胆振東部地震、新型iPhone/Apple Watchなどについて話しました。</itunes:summary>
+      <itunes:duration>01:31:46</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP14 生存バイアス</title>
+      <link>https://tarumaefm.com/14</link>
+      <pubDate>Sun, 29 Apr 2018 00:00:00 +0000</pubDate>
+      <description>たにったさんと、逆求人、アピール、編集、3種の神器などについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/14</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep14.mp3" length="47463990" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP14 生存バイアス</itunes:subtitle>
+      <itunes:summary>たにったさんと、逆求人、アピール、編集、3種の神器などについて話しました。</itunes:summary>
+      <itunes:duration>01:38:52</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP13 人生は修行</title>
+      <link>https://tarumaefm.com/13</link>
+      <pubDate>Fri, 09 Mar 2018 00:00:00 +0000</pubDate>
+      <description>けんきち、とっしーと、アプリコンテスト、マイニング、iPhone X、JAL修行、高専カンファなどについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/13</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep13.mp3" length="37893561" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP13 人生は修行</itunes:subtitle>
+      <itunes:summary>けんきち、とっしーと、アプリコンテスト、マイニング、iPhone X、JAL修行、高専カンファなどについて話しました。</itunes:summary>
+      <itunes:duration>01:18:56</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP12 できないのが普通、やれる奴がすごすぎる</title>
+      <link>https://tarumaefm.com/12</link>
+      <pubDate>Tue, 27 Feb 2018 00:00:00 +0000</pubDate>
+      <description>ふっくんと、Skypeの着信音、2月、帰宅前勉強タイム、アプリコンテストなどについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/12</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep12.mp3" length="43917821" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP12 できないのが普通、やれる奴がすごすぎる</itunes:subtitle>
+      <itunes:summary>ふっくんと、Skypeの着信音、2月、帰宅前勉強タイム、アプリコンテストなどについて話しました。</itunes:summary>
+      <itunes:duration>01:01:00</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP11 どれだけ行動したかで好きが上乗せされていく</title>
+      <link>https://tarumaefm.com/11</link>
+      <pubDate>Sat, 20 Jan 2018 00:00:00 +0000</pubDate>
+      <description>ふっくん・とっしーと、ハンドルネーム、年末年始、専攻科、コミケ、2018年について話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/11</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep11.mp3" length="39266562" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP11 どれだけ行動したかで好きが上乗せされていく</itunes:subtitle>
+      <itunes:summary>ふっくん・とっしーと、ハンドルネーム、年末年始、専攻科、コミケ、2018年について話しました。</itunes:summary>
+      <itunes:duration>00:54:32</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP10 好きなことやっていくべき</title>
+      <link>https://tarumaefm.com/10</link>
+      <pubDate>Fri, 22 Dec 2017 00:00:00 +0000</pubDate>
+      <description>ぱくとまくんと、ぱくとま、研究室環境改善、AIスピーカー、編入、部活、2017年の振り返りと2018年の抱負について話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/10</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep10.mp3" length="63809961" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP10 好きなことやっていくべき</itunes:subtitle>
+      <itunes:summary>ぱくとまくんと、ぱくとま、研究室環境改善、AIスピーカー、編入、部活、2017年の振り返りと2018年の抱負について話しました。</itunes:summary>
+      <itunes:duration>01:28:37</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP09 オタクは高位のオタクを尊敬する</title>
+      <link>https://tarumaefm.com/9</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0000</pubDate>
+      <description>ふっくんと、高専祭、学科展、社会人生活、就活、趣味などについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/9</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep09.mp3" length="45622490" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP09 オタクは高位のオタクを尊敬する</itunes:subtitle>
+      <itunes:summary>ふっくんと、高専祭、学科展、社会人生活、就活、趣味などについて話しました。</itunes:summary>
+      <itunes:duration>01:03:22</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP08 昔話は老ける</title>
+      <link>https://tarumaefm.com/8</link>
+      <pubDate>Fri, 13 Oct 2017 00:00:00 +0000</pubDate>
+      <description>たにったさんと、MacBook Pro、Swift、プログラミング教育、学科再編、一人暮らし、VJ、高専祭などについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/8</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep08.mp3" length="75523361" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP08 昔話は老ける</itunes:subtitle>
+      <itunes:summary>たにったさんと、MacBook Pro、Swift、プログラミング教育、学科再編、一人暮らし、VJ、高専祭などについて話しました。</itunes:summary>
+      <itunes:duration>01:44:54</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP07 一人の寂しさと観葉植物</title>
+      <link>https://tarumaefm.com/7</link>
+      <pubDate>Tue, 05 Sep 2017 00:00:00 +0000</pubDate>
+      <description>ポメさんと、インターン、進路、大学生活、下宿生活、セキュリティ・キャンプ、観葉植物、Raspberry Piなどについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/7</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep07.mp3" length="66010721" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP07 一人の寂しさと観葉植物</itunes:subtitle>
+      <itunes:summary>ポメさんと、インターン、進路、大学生活、下宿生活、セキュリティ・キャンプ、観葉植物、Raspberry Piなどについて話しました。</itunes:summary>
+      <itunes:duration>01:08:45</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP06 こっそり一人回</title>
+      <link>https://tarumaefm.com/6</link>
+      <pubDate>Tue, 29 Aug 2017 00:00:00 +0000</pubDate>
+      <description>インターン、オープンキャンパス、Scratch、勝手に高専ラジオ、ハッシュタグについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/6</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep06.mp3" length="13391748" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP06 こっそり一人回</itunes:subtitle>
+      <itunes:summary>インターン、オープンキャンパス、Scratch、勝手に高専ラジオ、ハッシュタグについて話しました。</itunes:summary>
+      <itunes:duration>00:13:57</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP05 勝手に樽前FM</title>
+      <link>https://tarumaefm.com/5</link>
+      <pubDate>Thu, 10 Aug 2017 00:00:00 +0000</pubDate>
+      <description>勝手に高専ラジオのトモさん・ウミさんと、勝手に高専ラジオ、Podcastの収録、高専生活、寮生活、誕生日、卒業後の進路、卒業研究などについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/5</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep05.mp3" length="69149176" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP05 勝手に樽前FM</itunes:subtitle>
+      <itunes:summary>勝手に高専ラジオのトモさん・ウミさんと、勝手に高専ラジオ、Podcastの収録、高専生活、寮生活、誕生日、卒業後の進路、卒業研究などについて話しました。</itunes:summary>
+      <itunes:duration>01:12:01</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP04 新生活</title>
+      <link>https://tarumaefm.com/4</link>
+      <pubDate>Fri, 04 Aug 2017 00:00:00 +0000</pubDate>
+      <description>ふっくんと、誕生日、種田梨沙復帰、新生活始まって4ヶ月、ニコカレ、Java、Kotlin、Android開発、スマートウォッチダサい説、勝手に高専ラジオなどについて話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/4</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep04.mp3" length="68697362" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP04 新生活</itunes:subtitle>
+      <itunes:summary>ふっくんと、誕生日、種田梨沙復帰、新生活始まって4ヶ月、ニコカレ、Java、Kotlin、Android開発、スマートウォッチダサい説、勝手に高専ラジオなどについて話しました。</itunes:summary>
+      <itunes:duration>01:11:33</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP03 卒業</title>
+      <link>https://tarumaefm.com/3</link>
+      <pubDate>Mon, 20 Mar 2017 00:00:00 +0000</pubDate>
+      <description>とっしーと、卒業、学会発表、卒業研究、4月からの予定、高専での5年間、北海道のIT系イベント、PS4ゲームなどについてお話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/3</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep03.mp3" length="56930872" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP03 卒業</itunes:subtitle>
+      <itunes:summary>とっしーと、卒業、学会発表、卒業研究、4月からの予定、高専での5年間、北海道のIT系イベント、PS4ゲームなどについてお話しました。</itunes:summary>
+      <itunes:duration>01:19:04</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP02 アニメ・声優</title>
+      <link>https://tarumaefm.com/2</link>
+      <pubDate>Tue, 31 Jan 2017 00:00:00 +0000</pubDate>
+      <description>ふっくんと、Podcastの方針、アニメ、声優、成人式、高専関連時事ネタなどについてお話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/2</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep02.mp3" length="39149301" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP02 アニメ・声優</itunes:subtitle>
+      <itunes:summary>ふっくんと、Podcastの方針、アニメ、声優、成人式、高専関連時事ネタなどについてお話しました。</itunes:summary>
+      <itunes:duration>00:54:22</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+    <item>
+      <title>EP01 樽前FMやります</title>
+      <link>https://tarumaefm.com/1</link>
+      <pubDate>Tue, 10 Jan 2017 00:00:00 +0000</pubDate>
+      <description>たにったさんと、樽前FM、高専入試、学科再編、Amazon、JIS配列とUS配列、ニセコなどについてお話しました。</description>
+      <guid isPermaLink="true">https://tarumaefm.com/1</guid>
+      
+      <enclosure url="https://tarumaefm.com//audio/podcast-ep01.mp3" length="65066950" type="audio/mp3"/>
+      
+      <itunes:author>Takuya Mukohira</itunes:author>
+      <itunes:subtitle>樽前FM: EP01 樽前FMやります</itunes:subtitle>
+      <itunes:summary>たにったさんと、樽前FM、高専入試、学科再編、Amazon、JIS配列とUS配列、ニセコなどについてお話しました。</itunes:summary>
+      <itunes:duration>01:30:22</itunes:duration>
+      <itunes:keywords></itunes:keywords>
+      <itunes:image href="https://tarumaefm.com/assets/tarumaefm.jpg" />
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:block>false</itunes:block>
+    </item>
+    
+  </channel>
+</rss>

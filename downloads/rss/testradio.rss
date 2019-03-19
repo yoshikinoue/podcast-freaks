@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+
+<channel>
+	<title>テストラジオ</title>
+	<atom:link href="http://testradio.fm/feed/" rel="self" type="application/rss+xml" />
+	<link>http://testradio.fm</link>
+	<description></description>
+	<lastBuildDate>Sun, 17 Mar 2019 23:46:52 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.0.4</generator>
+
+<image>
+	<url>http://testradio.fm/wp/wp-content/uploads/2017/08/cropped-スタンプ-32x32.png</url>
+	<title>テストラジオ</title>
+	<link>http://testradio.fm</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.1" mode="advanced" feedslug="feed" -->
+	<itunes:summary>テストエンジニア向けのイベント、ソフトウェアテストのやり方、ソフトウェアテストに関することを語っていきます。</itunes:summary>
+	<itunes:author>テストラジオ</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="http://testradio.fm/wp/wp-content/uploads/2017/08/Podcast_artworks.png" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>テストラジオ</itunes:name>
+		<itunes:email>nasowani@gmail.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>nasowani@gmail.com (テストラジオ)</managingEditor>
+	<itunes:subtitle>～なそとオカウチワニがテストについて語ります～</itunes:subtitle>
+	<image>
+		<title>テストラジオ</title>
+		<url>http://testradio.fm/wp/wp-content/uploads/powerpress/なそ_と_オカウチワニ_のテストラジオ.png</url>
+		<link>http://testradio.fm</link>
+	</image>
+	<itunes:category text="Technology">
+		<itunes:category text="Podcasting"></itunes:category>
+	</itunes:category>
+<site xmlns="com-wordpress:feed-additions:1">136357680</site>	<item>
+		<title>第91回テストラジオ</title>
+		<link>http://testradio.fm/testradio-no/551/</link>
+		<pubDate>Sun, 17 Mar 2019 23:46:42 +0000</pubDate>
+		<dc:creator><![CDATA[なそ＠さとうひろゆき]]></dc:creator>
+				<category><![CDATA[Podcast配信]]></category>
+		<category><![CDATA[テストラジオ]]></category>
+
+		<guid isPermaLink="false">http://testradio.fm/?p=551</guid>
+		<description><![CDATA[今週のテストラジオは
+Agile QA Nightの資料の話とJaSST Tokyoの話です！
+ それでは、お楽しみください]]></description>
+<enclosure url="http://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2019/03/N91TestRadio.mp3" length="41555117" type="audio/mpeg" />
+		<itunes:subtitle>今週のテストラジオは Agile QA Nightの資料の話とJaSST Tokyoの話です！  それでは、お楽しみください</itunes:subtitle>
+		<itunes:summary>今週のテストラジオは&lt;br /&gt;
+Agile QA Nightの資料の話とJaSST Tokyoの話です！&lt;br /&gt;
+ それでは、お楽しみください</itunes:summary>
+		<itunes:author>テストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:51</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">551</post-id>	</item>
+		<item>
+		<title>第90回テストラジオ</title>
+		<link>http://testradio.fm/testradio-no/548/</link>
+		<pubDate>Sun, 10 Mar 2019 12:05:03 +0000</pubDate>
+		<dc:creator><![CDATA[なそ＠さとうひろゆき]]></dc:creator>
+				<category><![CDATA[Podcast配信]]></category>
+		<category><![CDATA[テストラジオ]]></category>
+
+		<guid isPermaLink="false">http://testradio.fm/?p=548</guid>
+		<description><![CDATA[今週のテストラジオは
+よしたけと一緒に「ChatOps」と先週話ができなかった
+「xxさんがいなかったら何が起こる？」について語ります。
+それでは、お楽しみください♪]]></description>
+<enclosure url="http://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2019/03/N90TestRadio.mp3" length="41716850" type="audio/mpeg" />
+		<itunes:subtitle>今週のテストラジオは よしたけと一緒に「ChatOps」と先週話ができなかった 「xxさんがいなかったら何が起こる？」について語ります。 それでは、お楽しみください♪</itunes:subtitle>
+		<itunes:summary>今週のテストラジオは&lt;br /&gt;
+よしたけと一緒に「ChatOps」と先週話ができなかった&lt;br /&gt;
+「xxさんがいなかったら何が起こる？」について語ります。&lt;br /&gt;
+それでは、お楽しみください♪</itunes:summary>
+		<itunes:author>テストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:58</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">548</post-id>	</item>
+		<item>
+		<title>第89回テストラジオ</title>
+		<link>http://testradio.fm/testradio-no/535/</link>
+		<pubDate>Sun, 03 Mar 2019 11:45:04 +0000</pubDate>
+		<dc:creator><![CDATA[なそ＠さとうひろゆき]]></dc:creator>
+				<category><![CDATA[Podcast配信]]></category>
+		<category><![CDATA[テストラジオ]]></category>
+
+		<guid isPermaLink="false">http://testradio.fm/?p=535</guid>
+		<description><![CDATA[今週のテストラジオは
+「要点で学ぶ デザインの法則150」について語ります！
+JaSST Tokyo のメディアスポンサーになりました♪
+それでは、お楽しみください♪]]></description>
+<enclosure url="http://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2019/03/N89TestRadio.mp3" length="39747053" type="audio/mpeg" />
+		<itunes:subtitle>今週のテストラジオは 「要点で学ぶ デザインの法則150」について語ります！ JaSST Tokyo のメディアスポンサーになりました♪ それでは、お楽しみください♪</itunes:subtitle>
+		<itunes:summary>今週のテストラジオは&lt;br /&gt;
+「要点で学ぶ デザインの法則150」について語ります！&lt;br /&gt;
+JaSST Tokyo のメディアスポンサーになりました♪&lt;br /&gt;
+それでは、お楽しみください♪</itunes:summary>
+		<itunes:author>テストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>27:36</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">535</post-id>	</item>
+		<item>
+		<title>第88回テストラジオ</title>
+		<link>http://testradio.fm/testradio-no/528/</link>
+		<pubDate>Sun, 24 Feb 2019 11:35:14 +0000</pubDate>
+		<dc:creator><![CDATA[なそ＠さとうひろゆき]]></dc:creator>
+				<category><![CDATA[Podcast配信]]></category>
+		<category><![CDATA[テストラジオ]]></category>
+
+		<guid isPermaLink="false">http://testradio.fm/?p=528</guid>
+		<description><![CDATA[・「マインドマップから始めるソフトウェアテスト」の改訂版発売決定！！
+・CRABINK、テストラジオで技術書典6に参加します！
+・Agile QA Nightを開催します！
+について語ります]]></description>
+<enclosure url="http://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2019/02/N88TestRadio_01.mp3" length="38249953" type="audio/mpeg" />
+		<itunes:subtitle>・「マインドマップから始めるソフトウェアテスト」の改訂版発売決定！！ ・CRABINK、テストラジオで技術書典6に参加します！ ・Agile QA Nightを開催します！ について語ります</itunes:subtitle>
+		<itunes:summary>・「マインドマップから始めるソフトウェアテスト」の改訂版発売決定！！&lt;br /&gt;
+・CRABINK、テストラジオで技術書典6に参加します！&lt;br /&gt;
+・Agile QA Nightを開催します！&lt;br /&gt;
+について語ります</itunes:summary>
+		<itunes:author>テストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>26:33</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">528</post-id>	</item>
+		<item>
+		<title>第87回テストラジオ</title>
+		<link>http://testradio.fm/testradio-no/524/</link>
+		<pubDate>Sun, 17 Feb 2019 12:15:13 +0000</pubDate>
+		<dc:creator><![CDATA[なそ＠さとうひろゆき]]></dc:creator>
+				<category><![CDATA[Podcast配信]]></category>
+		<category><![CDATA[テストラジオ]]></category>
+
+		<guid isPermaLink="false">http://testradio.fm/?p=524</guid>
+		<description><![CDATA[今週のテストラジオは、JaSST、技術書典といろいろなイベントに向けて語ります。]]></description>
+<enclosure url="http://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2019/02/N87TestRadio.mp3" length="40688391" type="audio/mpeg" />
+		<itunes:subtitle>今週のテストラジオは、JaSST、技術書典といろいろなイベントに向けて語ります。</itunes:subtitle>
+		<itunes:summary>今週のテストラジオは、JaSST、技術書典といろいろなイベントに向けて語ります。</itunes:summary>
+		<itunes:author>テストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:15</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">524</post-id>	</item>
+		<item>
+		<title>第86回テストラジオ よしたけと一緒にWhy Design Tokyo 2019を語る</title>
+		<link>http://testradio.fm/testradio-no/501/</link>
+		<pubDate>Wed, 13 Feb 2019 14:45:12 +0000</pubDate>
+		<dc:creator><![CDATA[なそ＠さとうひろゆき]]></dc:creator>
+				<category><![CDATA[Podcast配信]]></category>
+		<category><![CDATA[テストラジオ]]></category>
+
+		<guid isPermaLink="false">http://testradio.fm/?p=501</guid>
+		<description><![CDATA[今回のテストラジオは、テストから離れてデザインの勉強会のWhy Design Tokyo 2019について語ります。]]></description>
+<enclosure url="http://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2019/02/N86TestRadio.mp3" length="41890452" type="audio/mpeg" />
+		<itunes:subtitle>今回のテストラジオは、テストから離れてデザインの勉強会のWhy Design Tokyo 2019について語ります。</itunes:subtitle>
+		<itunes:summary>今回のテストラジオは、テストから離れてデザインの勉強会のWhy Design Tokyo 2019について語ります。</itunes:summary>
+		<itunes:author>テストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:05</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">501</post-id>	</item>
+		<item>
+		<title>第85回テストラジオ 北陸、転職、ふりかえり</title>
+		<link>http://testradio.fm/testradio-no/491/</link>
+		<pubDate>Sun, 03 Feb 2019 12:00:30 +0000</pubDate>
+		<dc:creator><![CDATA[なそ＠さとうひろゆき]]></dc:creator>
+				<category><![CDATA[Podcast配信]]></category>
+		<category><![CDATA[テストラジオ]]></category>
+
+		<guid isPermaLink="false">http://testradio.fm/?p=491</guid>
+		<description><![CDATA[今週のテストラジオは、北陸、転職して3年をふりかえっていきます。
+とある人たちとやりとりした時に「ふりかえり」VS「振り返り」になり頑張りました。
+当たり前だと思っていた言葉が当たり前じゃないのは当たり前なんだけど、すこぶる実感しました。]]></description>
+<enclosure url="http://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2019/02/N85TestRadio.mp3" length="39660110" type="audio/mpeg" />
+		<itunes:subtitle>今週のテストラジオは、北陸、転職して3年をふりかえっていきます。 とある人たちとやりとりした時に「ふりかえり」VS「振り返り」になり頑張りました。 当たり前だと思っていた言葉が当たり前じゃないのは当たり前なんだけど、すこぶる実感しました。</itunes:subtitle>
+		<itunes:summary>今週のテストラジオは、北陸、転職して3年をふりかえっていきます。&lt;br /&gt;
+とある人たちとやりとりした時に「ふりかえり」VS「振り返り」になり頑張りました。&lt;br /&gt;
+当たり前だと思っていた言葉が当たり前じゃないのは当たり前なんだけど、すこぶる実感しました。</itunes:summary>
+		<itunes:author>テストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>27:32</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">491</post-id>	</item>
+		<item>
+		<title>第84回テストラジオ 〇〇に名前をつけたいと思ったらすでにあった件</title>
+		<link>http://testradio.fm/testradio-no/489/</link>
+		<pubDate>Sun, 20 Jan 2019 11:35:55 +0000</pubDate>
+		<dc:creator><![CDATA[なそ＠さとうひろゆき]]></dc:creator>
+				<category><![CDATA[Podcast配信]]></category>
+		<category><![CDATA[テストラジオ]]></category>
+
+		<guid isPermaLink="false">http://testradio.fm/?p=489</guid>
+		<description><![CDATA[Twitterとかでよくある「〇〇に名前をつけたい」に遭遇したなそ。実は名前がついていたという。。。
+ゲームの音響に驚いたり、質問箱の質問に返信したりもしています！]]></description>
+<enclosure url="http://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2019/01/N84TestRadio.mp3" length="35589858" type="audio/mpeg" />
+		<itunes:subtitle>Twitterとかでよくある「〇〇に名前をつけたい」に遭遇したなそ。実は名前がついていたという。。。 ゲームの音響に驚いたり、質問箱の質問に返信したりもしています！</itunes:subtitle>
+		<itunes:summary>Twitterとかでよくある「〇〇に名前をつけたい」に遭遇したなそ。実は名前がついていたという。。。&lt;br /&gt;
+ゲームの音響に驚いたり、質問箱の質問に返信したりもしています！</itunes:summary>
+		<itunes:author>テストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>24:43</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">489</post-id>	</item>
+		<item>
+		<title>第83回 テストラジオ　新春テストラジオ</title>
+		<link>http://testradio.fm/testradio-no/483/</link>
+		<pubDate>Sun, 13 Jan 2019 11:30:12 +0000</pubDate>
+		<dc:creator><![CDATA[なそ＠さとうひろゆき]]></dc:creator>
+				<category><![CDATA[Podcast配信]]></category>
+		<category><![CDATA[テストラジオ]]></category>
+
+		<guid isPermaLink="false">http://testradio.fm/?p=483</guid>
+		<description><![CDATA[今週のテストラジオは、2019年初になります！今年の目標と新しく始めたことを語ります！]]></description>
+<enclosure url="http://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2019/01/N83TestRadio.mp3" length="23911828" type="audio/mpeg" />
+		<itunes:subtitle>今週のテストラジオは、2019年初になります！今年の目標と新しく始めたことを語ります！</itunes:subtitle>
+		<itunes:summary>今週のテストラジオは、2019年初になります！今年の目標と新しく始めたことを語ります！</itunes:summary>
+		<itunes:author>テストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>16:36</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">483</post-id>	</item>
+		<item>
+		<title>第82回テストラジオ WACATE夜の放送</title>
+		<link>http://testradio.fm/testradio-no/478/</link>
+		<pubDate>Sun, 23 Dec 2018 11:30:47 +0000</pubDate>
+		<dc:creator><![CDATA[なそ＠さとうひろゆき]]></dc:creator>
+				<category><![CDATA[Podcast配信]]></category>
+		<category><![CDATA[テストラジオ]]></category>
+
+		<guid isPermaLink="false">http://testradio.fm/?p=478</guid>
+		<description><![CDATA[今週のテストラジオは、前週に行ったWACATEの夜に収録したもののPodcast版の配信です！
+今年は最低でももう一回はながしたいなぁ]]></description>
+<enclosure url="http://media.blubrry.com/testradio/testradio.fm/wp/wp-content/uploads/2018/12/N82TestRadio.mp3" length="43212336" type="audio/mpeg" />
+		<itunes:subtitle>今週のテストラジオは、前週に行ったWACATEの夜に収録したもののPodcast版の配信です！ 今年は最低でももう一回はながしたいなぁ</itunes:subtitle>
+		<itunes:summary>今週のテストラジオは、前週に行ったWACATEの夜に収録したもののPodcast版の配信です！&lt;br /&gt;
+今年は最低でももう一回はながしたいなぁ</itunes:summary>
+		<itunes:author>テストラジオ</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:00</itunes:duration>
+<post-id xmlns="com-wordpress:feed-additions:1">478</post-id>	</item>
+	</channel>
+</rss>

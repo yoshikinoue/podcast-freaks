@@ -1,0 +1,841 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>デザアカラジオ | UIデザイン系ラジオ番組</title>
+	<atom:link href="http://design-academy.jp/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>http://design-academy.jp</link>
+	<description>デザアカラジオは、東京を中心に活動しているデザインコミュニティ「デザアカ（Design Academy）」の運営である広野萌と細見沙央梨のデザイナー2人が、IT界隈のニュースやデザインのお話をするUIデザイン系ラジオ番組です。</description>
+	<lastBuildDate>Mon, 25 Dec 2017 02:14:28 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=4.8.9</generator>
+<!-- podcast_generator="Blubrry PowerPress/7.1.1" mode="advanced" feedslug="podcast" -->
+	<itunes:summary>デザアカラジオは、東京を中心に活動するデザイン勉強会「デザアカ（Design Academy）」の主催である広野萌と細見沙央梨のデザイナー2人が、IT界隈のニュースやデザインのお話をするUIデザイン系ラジオ番組です。&lt;br /&gt;
+感想はTwitterで「#デザアカラジオ」、ご要望は「@DesignAcademyJP」にぜひお願いします！&lt;br /&gt;
+公式サイト：http://design-academy.jp/radio</itunes:summary>
+	<itunes:author>広野萌＆細見沙央梨</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png" />
+	<itunes:owner>
+		<itunes:name>広野萌＆細見沙央梨</itunes:name>
+		<itunes:email>hajipion@gmail.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>hajipion@gmail.com (広野萌＆細見沙央梨)</managingEditor>
+	<itunes:subtitle>UIデザイン系ラジオ番組</itunes:subtitle>
+	<image>
+		<title>デザアカラジオ | UIデザイン系ラジオ番組</title>
+		<url>http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png</url>
+		<link>http://design-academy.jp</link>
+	</image>
+	<itunes:category text="Technology">
+		<itunes:category text="Tech News"></itunes:category>
+	</itunes:category>
+	<itunes:category text="Technology">
+		<itunes:category text="Podcasting"></itunes:category>
+	</itunes:category>
+	<itunes:category text="Technology">
+		<itunes:category text="Software How-To"></itunes:category>
+	</itunes:category>
+	<googleplay:image href="http://design-academy.jp/podcast/wp-content/uploads/powerpress/icon_podcast-219.png" />
+	<rawvoice:subscribe feed="http://design-academy.jp/feed/podcast/" itunes="https://itunes.apple.com/podcast/デザインアカデミー/id1187712768"></rawvoice:subscribe>
+	<item>
+		<title>10: 出会い系で1年も出会わんことないやろ！！</title>
+		<link>http://design-academy.jp/radio/10/</link>
+		<pubDate>Mon, 25 Dec 2017 02:14:28 +0000</pubDate>
+		<guid isPermaLink="false">http://design-academy.jp/?p=82</guid>
+		<comments>http://design-academy.jp/radio/10/#respond</comments>
+		<wfw:commentRss>http://design-academy.jp/radio/10/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[デザアカラジオ（Design Academy Radio）｜UIデザイン系ラジオ番組]]></category>
+		<description>&lt;p&gt;近況 ARアプリ最近手伝っています（細見） 出会い系にめっちゃ課金してしまった…（広野） 2017年に話題にな … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;http://design-academy.jp/radio/10/&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;screen-reader-text&quot;&gt;&quot;10: 出会い系で1年も出会わんことないやろ！！&quot; の&lt;/span&gt;続きを読む&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp/radio/10/&quot;&gt;10: 出会い系で1年も出会わんことないやろ！！&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp&quot;&gt;デザアカ（Design Academy）&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<h5>近況</h5>
+<ul>
+<li class="p1">ARアプリ最近手伝っています（細見）</li>
+<li class="p1">出会い系にめっちゃ課金してしまった…（広野）</li>
+</ul>
+<h5 class="p1">2017年に話題になったサービスまとめ</h5>
+<ul>
+<li>任天堂系
+<ul>
+<li>Nintendo Switch Online</li>
+<li>みまもりスイッチ</li>
+<li>どうぶつの森 ポケットキャンプ</li>
+</ul>
+</li>
+<li>スマートホーム系
+<ul>
+<li>Google Home</li>
+<li>Clova</li>
+<li>Alexa（Amazon Echo）</li>
+</ul>
+</li>
+<li>AR・動画系
+<ul>
+<li>Tik Tok</li>
+<li>musical.ly</li>
+<li>PinQul</li>
+<li>Magic Leap</li>
+</ul>
+</li>
+<li>FinTech系
+<ul>
+<li>ONE PAY</li>
+<li>トラノコ</li>
+<li>しらたま</li>
+<li>Coincheck</li>
+<li>bitFlyer</li>
+<li>VALU</li>
+<li>Timebank</li>
+<li>paymo</li>
+<li>Kyash</li>
+<li>polca</li>
+<li>CASH</li>
+<li>（FOLIO）</li>
+</ul>
+</li>
+<li>SNS系
+<ul>
+<li>Sarahah</li>
+<li>マストドン</li>
+<li>Radiotalk</li>
+</ul>
+</li>
+<li>その他
+<ul>
+<li>Cotobox</li>
+<li>AutoDraw</li>
+<li>STUDIO</li>
+<li>タベリー</li>
+<li>ZOZOSUIT</li>
+</ul>
+</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://design-academy.jp/radio/10/">10: 出会い系で1年も出会わんことないやろ！！</a> appeared first on <a rel="nofollow" href="http://design-academy.jp">デザアカ（Design Academy）</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://design-academy.jp/wp/wp-content/uploads/2017/12/10.mp3" length="109523617" type="audio/mpeg" />
+		<itunes:subtitle>近況 ARアプリ最近手伝っています（細見） 出会い系にめっちゃ課金してしまった…（広野） 2017年に話題にな … &quot;10: 出会い系で1年も出会わんことないやろ！！&quot; の続きを読む</itunes:subtitle>
+		<itunes:summary>年末特集ということで1時間でお届け！&lt;br /&gt;
+&lt;br /&gt;
+▼近況&lt;br /&gt;
+・ARアプリ最近手伝っています（細見）&lt;br /&gt;
+・出会い系にめっちゃ課金してしまった…（広野）&lt;br /&gt;
+&lt;br /&gt;
+▼2017年に話題になったサービスまとめ&lt;br /&gt;
+&lt;br /&gt;
+任天堂系&lt;br /&gt;
+・Nintendo Switch Online&lt;br /&gt;
+・みまもりスイッチ&lt;br /&gt;
+・どうぶつの森 ポケットキャンプ&lt;br /&gt;
+&lt;br /&gt;
+スマートホーム系&lt;br /&gt;
+・Google Home&lt;br /&gt;
+・Clova&lt;br /&gt;
+・Alexa（Amazon Echo）&lt;br /&gt;
+&lt;br /&gt;
+AR・動画系&lt;br /&gt;
+・Tik Tok&lt;br /&gt;
+・musical.ly&lt;br /&gt;
+・PinQul&lt;br /&gt;
+・Magic Leap&lt;br /&gt;
+&lt;br /&gt;
+FinTech系&lt;br /&gt;
+・ONE PAY&lt;br /&gt;
+・トラノコ&lt;br /&gt;
+・しらたま&lt;br /&gt;
+・Coincheck&lt;br /&gt;
+・bitFlyer&lt;br /&gt;
+・VALU&lt;br /&gt;
+・Timebank&lt;br /&gt;
+・paymo&lt;br /&gt;
+・Kyash&lt;br /&gt;
+・polca&lt;br /&gt;
+・CASH&lt;br /&gt;
+・（FOLIO）&lt;br /&gt;
+&lt;br /&gt;
+SNS系&lt;br /&gt;
+・Sarahah&lt;br /&gt;
+・マストドン&lt;br /&gt;
+・Radiotalk&lt;br /&gt;
+&lt;br /&gt;
+その他&lt;br /&gt;
+・Cotobox&lt;br /&gt;
+・AutoDraw&lt;br /&gt;
+・STUDIO&lt;br /&gt;
+・タベリー&lt;br /&gt;
+・ZOZOSUIT&lt;br /&gt;
+&lt;br /&gt;
+============================&lt;br /&gt;
+&lt;br /&gt;
+▽Twitter&lt;br /&gt;
+#デザアカラジオ&lt;br /&gt;
+@DesignAcademyJP&lt;br /&gt;
+&lt;br /&gt;
+▽パーソナリティ&lt;br /&gt;
+広野 萌（@hajipion）&lt;br /&gt;
+細見 沙央梨（@shosomin）&lt;br /&gt;
+&lt;br /&gt;
+▽デザアカ公式サイト&lt;br /&gt;
+http://design-academy.jp/radio/</itunes:summary>
+		<itunes:author>広野萌＆細見沙央梨</itunes:author>
+		<itunes:image href="http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>57:02</itunes:duration>
+		</item>
+	<item>
+		<title>9: Sketchでええやんというのが個人的な感想です</title>
+		<link>http://design-academy.jp/radio/9/</link>
+		<pubDate>Mon, 23 Oct 2017 00:00:08 +0000</pubDate>
+		<guid isPermaLink="false">http://design-academy.jp/?p=75</guid>
+		<comments>http://design-academy.jp/radio/9/#respond</comments>
+		<wfw:commentRss>http://design-academy.jp/radio/9/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[デザアカラジオ（Design Academy Radio）｜UIデザイン系ラジオ番組]]></category>
+		<description>&lt;p&gt;近況 Switch買えました（細見） 夢が叶っていたさだこえの話（広野） freeeの組織デザインとオフィスデ … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;http://design-academy.jp/radio/9/&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;screen-reader-text&quot;&gt;&quot;9: Sketchでええやんというのが個人的な感想です&quot; の&lt;/span&gt;続きを読む&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp/radio/9/&quot;&gt;9: Sketchでええやんというのが個人的な感想です&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp&quot;&gt;デザアカ（Design Academy）&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<h5>近況</h5>
+<ul>
+<li class="p1"><span class="s1"> Switch</span>買えました（細見）</li>
+<li class="p1">夢が叶っていたさだこえの話（広野）</li>
+</ul>
+<h5 class="p1"><span class="s1">freee</span>の組織デザインとオフィスデザイン</h5>
+<ul>
+<li class="p1">「価値基準」は普段使われるような言葉がいい</li>
+<li class="p1">マネージャーを「ジャーマネ」と呼ぶ？！</li>
+<li class="p1">会議室の命名の工夫</li>
+</ul>
+<h5 class="p3">Adobe MAX<span class="s2">まとめ</span></h5>
+<ul>
+<li class="p3">Adobe XD<span class="s2">正式リリース</span></li>
+<li class="p3">Adobe Sensei<span class="s2">が人類の仕事を奪う</span></li>
+<li class="p1">急にエクセル推しになった細見</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://design-academy.jp/radio/9/">9: Sketchでええやんというのが個人的な感想です</a> appeared first on <a rel="nofollow" href="http://design-academy.jp">デザアカ（Design Academy）</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://design-academy.jp/wp/wp-content/uploads/2017/11/9-2.mp3" length="56405182" type="audio/mpeg" />
+		<itunes:subtitle>近況 Switch買えました（細見） 夢が叶っていたさだこえの話（広野） freeeの組織デザインとオフィスデ … &quot;9: Sketchでええやんというのが個人的な感想です&quot; の続きを読む</itunes:subtitle>
+		<itunes:summary>スポンサー応募お待ちしております！（ゲス顔）&lt;br /&gt;
+&lt;br /&gt;
+▼近況&lt;br /&gt;
+・Switch買えました（細見）&lt;br /&gt;
+・夢が叶っていたさだこえの話（広野）&lt;br /&gt;
+&lt;br /&gt;
+▼freeeの組織デザインとオフィスデザイン&lt;br /&gt;
+「価値基準」は普段使われるような言葉がいい&lt;br /&gt;
+マネージャーを「ジャーマネ」と呼ぶ？！&lt;br /&gt;
+会議室の命名の工夫&lt;br /&gt;
+&lt;br /&gt;
+▼Adobe MAXまとめ&lt;br /&gt;
+・Adobe XD正式リリース&lt;br /&gt;
+・Adobe Senseiが人類の仕事を奪う&lt;br /&gt;
+・急にエクセル推しになった細見&lt;br /&gt;
+&lt;br /&gt;
+============================&lt;br /&gt;
+&lt;br /&gt;
+▽Twitter&lt;br /&gt;
+#デザアカラジオ&lt;br /&gt;
+@DesignAcademyJP&lt;br /&gt;
+&lt;br /&gt;
+▽パーソナリティ&lt;br /&gt;
+広野 萌（@hajipion）&lt;br /&gt;
+細見 沙央梨（@shosomin）&lt;br /&gt;
+&lt;br /&gt;
+▽デザアカ公式サイト&lt;br /&gt;
+http://design-academy.jp/radio/</itunes:summary>
+		<itunes:author>広野萌＆細見沙央梨</itunes:author>
+		<itunes:image href="http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:23</itunes:duration>
+		</item>
+	<item>
+		<title>8: 最近雨が多いのも、あいつの涙なのかなぁ…</title>
+		<link>http://design-academy.jp/radio/8/</link>
+		<pubDate>Thu, 12 Oct 2017 09:13:07 +0000</pubDate>
+		<guid isPermaLink="false">http://design-academy.jp/?p=70</guid>
+		<comments>http://design-academy.jp/radio/8/#respond</comments>
+		<wfw:commentRss>http://design-academy.jp/radio/8/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[デザアカラジオ（Design Academy Radio）｜UIデザイン系ラジオ番組]]></category>
+		<description>&lt;p&gt;近況 UI Crunch登壇してから「デザインだ！」と言わされる（広野） 会社のお金でキャンプいってきた（細見 … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;http://design-academy.jp/radio/8/&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;screen-reader-text&quot;&gt;&quot;8: 最近雨が多いのも、あいつの涙なのかなぁ…&quot; の&lt;/span&gt;続きを読む&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp/radio/8/&quot;&gt;8: 最近雨が多いのも、あいつの涙なのかなぁ…&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp&quot;&gt;デザアカ（Design Academy）&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<h5>近況</h5>
+<ul>
+<li>UI Crunch登壇してから「デザインだ！」と言わされる（広野）</li>
+<li>会社のお金でキャンプいってきた（細見）</li>
+</ul>
+<h5>Google Home日本版発売</h5>
+<ul>
+<li>Google Homeとminiのデザイン</li>
+<li>日本語対応による使用体験の変化</li>
+<li>Google Homeはマウントとりにくる</li>
+</ul>
+<h5>iPhoneXとiOS11</h5>
+<ul>
+<li>iPhoneXの特徴と開発者の苦悩</li>
+<li>顔認証ロック解除の期待点と懸念点</li>
+<li>デザイナーはストア対応を頑張ろう</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://design-academy.jp/radio/8/">8: 最近雨が多いのも、あいつの涙なのかなぁ…</a> appeared first on <a rel="nofollow" href="http://design-academy.jp">デザアカ（Design Academy）</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://design-academy.jp/wp/wp-content/uploads/2017/10/8-2.mp3" length="58735723" type="audio/mpeg" />
+		<itunes:subtitle>近況 UI Crunch登壇してから「デザインだ！」と言わされる（広野） 会社のお金でキャンプいってきた（細見 … &quot;8: 最近雨が多いのも、あいつの涙なのかなぁ…&quot; の続きを読む</itunes:subtitle>
+		<itunes:summary>ツイッターアカウントつくったので、感想やこういう話してほしいとかの要望ぜひリプライください！&lt;br /&gt;
+https://twitter.com/DesignAcademyJP&lt;br /&gt;
+&lt;br /&gt;
+▼近況&lt;br /&gt;
+・UI Crunch登壇してから「デザインだ！」と言わされる（広野）&lt;br /&gt;
+・会社のお金でキャンプいってきた（細見）&lt;br /&gt;
+&lt;br /&gt;
+▼Google Home日本版発売&lt;br /&gt;
+・Google Homeとminiのデザイン&lt;br /&gt;
+・日本語対応による使用体験の変化&lt;br /&gt;
+・Google Homeはマウントとりにくる&lt;br /&gt;
+&lt;br /&gt;
+▼iPhoneXとiOS11&lt;br /&gt;
+・iPhoneXの特徴と開発者の苦悩&lt;br /&gt;
+・顔認証ロック解除の期待点と懸念点&lt;br /&gt;
+・デザイナーはストア対応を頑張ろう&lt;br /&gt;
+&lt;br /&gt;
+============================&lt;br /&gt;
+&lt;br /&gt;
+▽Twitter&lt;br /&gt;
+#デザアカラジオ&lt;br /&gt;
+@DesignAcademyJP&lt;br /&gt;
+&lt;br /&gt;
+▽パーソナリティ&lt;br /&gt;
+広野 萌（@hajipion）&lt;br /&gt;
+細見 沙央梨（@shosomin）&lt;br /&gt;
+&lt;br /&gt;
+▽デザアカ公式サイト&lt;br /&gt;
+http://design-academy.jp/radio/</itunes:summary>
+		<itunes:author>広野萌＆細見沙央梨</itunes:author>
+		<itunes:image href="http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:35</itunes:duration>
+		</item>
+	<item>
+		<title>7: 犯人じゃねえか！</title>
+		<link>http://design-academy.jp/radio/7/</link>
+		<pubDate>Sun, 07 May 2017 09:10:59 +0000</pubDate>
+		<guid isPermaLink="false">http://design-academy.jp/?p=68</guid>
+		<comments>http://design-academy.jp/radio/7/#respond</comments>
+		<wfw:commentRss>http://design-academy.jp/radio/7/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[デザアカラジオ（Design Academy Radio）｜UIデザイン系ラジオ番組]]></category>
+		<description>&lt;p&gt;近況 ヨガが続きそうにありません（細見） 入院したとき担当のナースと×××××した知人の話（広野） マストドン … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;http://design-academy.jp/radio/7/&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;screen-reader-text&quot;&gt;&quot;7: 犯人じゃねえか！&quot; の&lt;/span&gt;続きを読む&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp/radio/7/&quot;&gt;7: 犯人じゃねえか！&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp&quot;&gt;デザアカ（Design Academy）&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<h5>近況</h5>
+<ul>
+<li>ヨガが続きそうにありません（細見）</li>
+<li>入院したとき担当のナースと×××××した知人の話（広野）</li>
+</ul>
+<h5>マストドン</h5>
+<ul>
+<li>マストドンとは…？</li>
+<li>新しいSNSが最近でない</li>
+<li>「おじさんウケするサービスは流行らない」について</li>
+<li>まだキャズムを超える風は感じない</li>
+<li>ユーザーによって使われ方が変わるサービスの例</li>
+</ul>
+<h5>さいごに</h5>
+<ul>
+<li>CAMPFIRE Design開催します</li>
+<li>テーマは「デザインとビジネス」</li>
+<li>AirDrop痴漢に気をつけて！</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://design-academy.jp/radio/7/">7: 犯人じゃねえか！</a> appeared first on <a rel="nofollow" href="http://design-academy.jp">デザアカ（Design Academy）</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://design-academy.jp/wp/wp-content/uploads/2017/05/7.mp3" length="62587635" type="audio/mpeg" />
+		<itunes:subtitle>近況 ヨガが続きそうにありません（細見） 入院したとき担当のナースと×××××した知人の話（広野） マストドン … &quot;7: 犯人じゃねえか！&quot; の続きを読む</itunes:subtitle>
+		<itunes:summary>マストドンを中心に話すとは言ったがマストドンについて話すとは言ってない&lt;br /&gt;
+&lt;br /&gt;
+▼近況&lt;br /&gt;
+・ヨガが続きそうにありません（細見）&lt;br /&gt;
+・入院したとき担当のナースと×××××した知人の話（広野）&lt;br /&gt;
+&lt;br /&gt;
+▼マストドン&lt;br /&gt;
+・マストドンとは…？&lt;br /&gt;
+・新しいSNSが最近でない&lt;br /&gt;
+・「おじさんウケするサービスは流行らない」について&lt;br /&gt;
+・まだキャズムを超える風は感じない&lt;br /&gt;
+・ユーザーによって使われ方が変わるサービスの例&lt;br /&gt;
+&lt;br /&gt;
+▼さいごに&lt;br /&gt;
+・CAMPFIRE Design開催します&lt;br /&gt;
+・テーマは「デザインとビジネス」&lt;br /&gt;
+・AirDrop痴漢に気をつけて！&lt;br /&gt;
+&lt;br /&gt;
+============================&lt;br /&gt;
+&lt;br /&gt;
+▽Twitter&lt;br /&gt;
+#デザアカラジオ&lt;br /&gt;
+@DesignAcademyJP&lt;br /&gt;
+&lt;br /&gt;
+▽パーソナリティ&lt;br /&gt;
+広野 萌（@hajipion）&lt;br /&gt;
+細見 沙央梨（@shosomin）&lt;br /&gt;
+&lt;br /&gt;
+▽デザアカ公式サイト&lt;br /&gt;
+http://design-academy.jp/radio/</itunes:summary>
+		<itunes:author>広野萌＆細見沙央梨</itunes:author>
+		<itunes:image href="http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>32:36</itunes:duration>
+		</item>
+	<item>
+		<title>6: Facebookのおせっかいオバちゃん化が止まらない</title>
+		<link>http://design-academy.jp/radio/6/</link>
+		<pubDate>Mon, 10 Apr 2017 09:09:22 +0000</pubDate>
+		<guid isPermaLink="false">http://design-academy.jp/?p=66</guid>
+		<comments>http://design-academy.jp/radio/6/#respond</comments>
+		<wfw:commentRss>http://design-academy.jp/radio/6/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[デザアカラジオ（Design Academy Radio）｜UIデザイン系ラジオ番組]]></category>
+		<description>&lt;p&gt;近況 桜の季節ですね CreateJS使ってみたんです 細かいアニメーションの指定が楽 ”No JS” ！？  … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;http://design-academy.jp/radio/6/&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;screen-reader-text&quot;&gt;&quot;6: Facebookのおせっかいオバちゃん化が止まらない&quot; の&lt;/span&gt;続きを読む&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp/radio/6/&quot;&gt;6: Facebookのおせっかいオバちゃん化が止まらない&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp&quot;&gt;デザアカ（Design Academy）&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<h5>近況</h5>
+<ul>
+<li>桜の季節ですね</li>
+</ul>
+<h5>CreateJS使ってみたんです</h5>
+<ul>
+<li>細かいアニメーションの指定が楽</li>
+<li>”No JS” ！？</li>
+</ul>
+<h5>どうしたインスタ！</h5>
+<ul>
+<li>Snapがついに3兆円弱で上場</li>
+<li>MyDayでリアクションしたらMessengerが始まるナンナンUI</li>
+<li>最近のSNSは友達になったら新規メッセージ始めさせたがり</li>
+<li>それ、ジェスチャーバッティングしてますよ</li>
+<li>Instagramのライブ配信機能は…………</li>
+</ul>
+<h5>一般的なマーケティングとWebマーケィングの違い</h5>
+<ul>
+<li>「エンゲージメント」を追う</li>
+<li>アーティスティックとロジカルシンキング</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://design-academy.jp/radio/6/">6: Facebookのおせっかいオバちゃん化が止まらない</a> appeared first on <a rel="nofollow" href="http://design-academy.jp">デザアカ（Design Academy）</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://design-academy.jp/wp/wp-content/uploads/2017/04/6.mp3" length="57404105" type="audio/mpeg" />
+		<itunes:subtitle>近況 桜の季節ですね CreateJS使ってみたんです 細かいアニメーションの指定が楽 ”No JS” ！？  … &quot;6: Facebookのおせっかいオバちゃん化が止まらない&quot; の続きを読む</itunes:subtitle>
+		<itunes:summary>いつもに増してとりとめがない。春だからね。&lt;br /&gt;
+&lt;br /&gt;
+▼近況&lt;br /&gt;
+・桜の季節ですね&lt;br /&gt;
+&lt;br /&gt;
+▼CreateJS使ってみたんです&lt;br /&gt;
+・細かいアニメーションの指定が楽&lt;br /&gt;
+・”No JS” ！？&lt;br /&gt;
+&lt;br /&gt;
+▼どうしたインスタ！&lt;br /&gt;
+・Snapがついに3兆円弱で上場&lt;br /&gt;
+・MyDayでリアクションしたらMessengerが始まるナンナンUI&lt;br /&gt;
+・最近のSNSは友達になったら新規メッセージ始めさせたがり&lt;br /&gt;
+・それ、ジェスチャーバッティングしてますよ&lt;br /&gt;
+・Instagramのライブ配信機能は…………&lt;br /&gt;
+&lt;br /&gt;
+▼一般的なマーケティングとWebマーケィングの違い&lt;br /&gt;
+・「エンゲージメント」を追う&lt;br /&gt;
+・アーティスティックとロジカルシンキング&lt;br /&gt;
+&lt;br /&gt;
+============================&lt;br /&gt;
+&lt;br /&gt;
+▽Twitter&lt;br /&gt;
+#デザアカラジオ&lt;br /&gt;
+@DesignAcademyJP&lt;br /&gt;
+&lt;br /&gt;
+▽パーソナリティ&lt;br /&gt;
+広野 萌（@hajipion）&lt;br /&gt;
+細見 沙央梨（@shosomin）&lt;br /&gt;
+&lt;br /&gt;
+▽デザアカ公式サイト&lt;br /&gt;
+http://design-academy.jp/radio/</itunes:summary>
+		<itunes:author>広野萌＆細見沙央梨</itunes:author>
+		<itunes:image href="http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:54</itunes:duration>
+		</item>
+	<item>
+		<title>5: 脆弱性すごーい！</title>
+		<link>http://design-academy.jp/radio/5/</link>
+		<pubDate>Fri, 03 Mar 2017 09:06:04 +0000</pubDate>
+		<guid isPermaLink="false">http://design-academy.jp/?p=64</guid>
+		<comments>http://design-academy.jp/radio/5/#respond</comments>
+		<wfw:commentRss>http://design-academy.jp/radio/5/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[デザアカラジオ（Design Academy Radio）｜UIデザイン系ラジオ番組]]></category>
+		<description>&lt;p&gt;近況 デザアカイベントの反響 花澤香菜の子どもに転生するチャンス？！ 2017年に流行るデザイントレンドまとめ … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;http://design-academy.jp/radio/5/&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;screen-reader-text&quot;&gt;&quot;5: 脆弱性すごーい！&quot; の&lt;/span&gt;続きを読む&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp/radio/5/&quot;&gt;5: 脆弱性すごーい！&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp&quot;&gt;デザアカ（Design Academy）&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<h5>近況</h5>
+<ul>
+<li>デザアカイベントの反響</li>
+<li>花澤香菜の子どもに転生するチャンス？！</li>
+</ul>
+<h5>2017年に流行るデザイントレンドまとめに対するほそみんの見解</h5>
+<ul>
+<li>スプリッドスクリーンレイアウト</li>
+<li>グリッドレイアウト</li>
+<li>トップページのアニメーション</li>
+<li>ミニマルデザイン</li>
+<li>パララックスデザイン</li>
+<li>シネマグラフ</li>
+<li>ページ遷移のアニメーション化</li>
+<li>印象的な配色</li>
+</ul>
+<h5>デザイントレンドが参考にならなくなっている理由</h5>
+<ul>
+<li>ガイドライン重視の世界</li>
+<li>マイクロインタラクションが差別化になっていきそう</li>
+<li>フラッシュおじさんのパワー健在</li>
+</ul>
+<h5>Medium日本オペレーション終了</h5>
+<ul>
+<li>ビジネスがうまくいってないらしい</li>
+<li>増加する一方のマイクロブログサービス</li>
+<li>ほそみん、ポートフォリオをつくります宣言（といって3年）</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://design-academy.jp/radio/5/">5: 脆弱性すごーい！</a> appeared first on <a rel="nofollow" href="http://design-academy.jp">デザアカ（Design Academy）</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://design-academy.jp/wp/wp-content/uploads/2016/12/5_160303.mp3" length="57053225" type="audio/mpeg" />
+		<itunes:subtitle>近況 デザアカイベントの反響 花澤香菜の子どもに転生するチャンス？！ 2017年に流行るデザイントレンドまとめ … &quot;5: 脆弱性すごーい！&quot; の続きを読む</itunes:subtitle>
+		<itunes:summary>君はスクロールジャックするフレンズなんだね！？&lt;br /&gt;
+&lt;br /&gt;
+▼近況&lt;br /&gt;
+・デザアカイベントの反響&lt;br /&gt;
+・花澤香菜の子どもに転生するチャンス？！&lt;br /&gt;
+&lt;br /&gt;
+▼2017年に流行るデザイントレンドまとめに対するほそみんの見解&lt;br /&gt;
+・スプリッドスクリーンレイアウト&lt;br /&gt;
+・グリッドレイアウト&lt;br /&gt;
+・トップページのアニメーション&lt;br /&gt;
+・ミニマルデザイン&lt;br /&gt;
+・パララックスデザイン&lt;br /&gt;
+・シネマグラフ&lt;br /&gt;
+・ページ遷移のアニメーション化&lt;br /&gt;
+・印象的な配色&lt;br /&gt;
+&lt;br /&gt;
+▼デザイントレンドが参考にならなくなっている理由&lt;br /&gt;
+・ガイドライン重視の世界&lt;br /&gt;
+・マイクロインタラクションが差別化になっていきそう&lt;br /&gt;
+・フラッシュおじさんのパワー健在&lt;br /&gt;
+&lt;br /&gt;
+▼Medium日本オペレーション終了&lt;br /&gt;
+・ビジネスがうまくいってないらしい&lt;br /&gt;
+・増加する一方のマイクロブログサービス&lt;br /&gt;
+・ほそみん、ポートフォリオをつくります宣言（といって3年）&lt;br /&gt;
+&lt;br /&gt;
+============================&lt;br /&gt;
+&lt;br /&gt;
+▽Twitter&lt;br /&gt;
+#デザアカラジオ&lt;br /&gt;
+@DesignAcademyJP&lt;br /&gt;
+&lt;br /&gt;
+▽パーソナリティ&lt;br /&gt;
+広野 萌（@hajipion）&lt;br /&gt;
+細見 沙央梨（@shosomin）&lt;br /&gt;
+&lt;br /&gt;
+▽デザアカ公式サイト&lt;br /&gt;
+http://design-academy.jp/radio/</itunes:summary>
+		<itunes:author>広野萌＆細見沙央梨</itunes:author>
+		<itunes:image href="http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>29:43</itunes:duration>
+		</item>
+	<item>
+		<title>4: アプリって何がいいんすかサクサクすか！</title>
+		<link>http://design-academy.jp/radio/4/</link>
+		<pubDate>Mon, 30 Jan 2017 09:02:54 +0000</pubDate>
+		<guid isPermaLink="false">http://design-academy.jp/?p=62</guid>
+		<comments>http://design-academy.jp/radio/4/#respond</comments>
+		<wfw:commentRss>http://design-academy.jp/radio/4/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[デザアカラジオ（Design Academy Radio）｜UIデザイン系ラジオ番組]]></category>
+		<description>&lt;p&gt;著作権とクリエーターについて どこまでが引用でどこからが盗用？ 二次創作はどこまでが許されてる？ 商標登録おじ … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;http://design-academy.jp/radio/4/&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;screen-reader-text&quot;&gt;&quot;4: アプリって何がいいんすかサクサクすか！&quot; の&lt;/span&gt;続きを読む&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp/radio/4/&quot;&gt;4: アプリって何がいいんすかサクサクすか！&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp&quot;&gt;デザアカ（Design Academy）&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<h5>著作権とクリエーターについて</h5>
+<ul>
+<li>どこまでが引用でどこからが盗用？</li>
+<li>二次創作はどこまでが許されてる？</li>
+<li>商標登録おじさんには気をつけよう</li>
+</ul>
+<h5>財布なくした</h5>
+<ul>
+<li>女子大生ありがとう</li>
+<li>Mamorioの意味なし</li>
+<li>財布に名前つけるといいらしい…？</li>
+</ul>
+<h5>短絡的なWeb to Appに物申す</h5>
+<ul>
+<li>食べログやRettyと同じ轍を踏むヤフー知恵袋</li>
+<li>DAU至上主義の愚かな人間</li>
+<li>Webとアプリの境界をなくそうとしているGoogle</li>
+<li>長期的で俯瞰的なKPI設定が不可欠</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://design-academy.jp/radio/4/">4: アプリって何がいいんすかサクサクすか！</a> appeared first on <a rel="nofollow" href="http://design-academy.jp">デザアカ（Design Academy）</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://design-academy.jp/wp/wp-content/uploads/2016/12/4_160303.mp3" length="70224791" type="audio/mpeg" />
+		<itunes:subtitle>著作権とクリエーターについて どこまでが引用でどこからが盗用？ 二次創作はどこまでが許されてる？ 商標登録おじ … &quot;4: アプリって何がいいんすかサクサクすか！&quot; の続きを読む</itunes:subtitle>
+		<itunes:summary>相変わらず物申してます。&lt;br /&gt;
+&lt;br /&gt;
+▼著作権とクリエーターについて&lt;br /&gt;
+・どこまでが引用でどこからが盗用？&lt;br /&gt;
+・二次創作はどこまでが許されてる？&lt;br /&gt;
+・商標登録おじさんには気をつけよう&lt;br /&gt;
+&lt;br /&gt;
+▼財布なくした&lt;br /&gt;
+・女子大生ありがとう&lt;br /&gt;
+・Mamorioの意味なし&lt;br /&gt;
+・財布に名前つけるといいらしい…？&lt;br /&gt;
+&lt;br /&gt;
+▼短絡的なWeb to Appに物申す&lt;br /&gt;
+・食べログやRettyと同じ轍を踏むヤフー知恵袋&lt;br /&gt;
+・DAU至上主義の愚かな人間&lt;br /&gt;
+・Webとアプリの境界をなくそうとしているGoogle&lt;br /&gt;
+・長期的で俯瞰的なKPI設定が不可欠&lt;br /&gt;
+&lt;br /&gt;
+============================&lt;br /&gt;
+&lt;br /&gt;
+▽Twitter&lt;br /&gt;
+#デザアカラジオ&lt;br /&gt;
+@DesignAcademyJP&lt;br /&gt;
+&lt;br /&gt;
+▽パーソナリティ&lt;br /&gt;
+広野 萌（@hajipion）&lt;br /&gt;
+細見 沙央梨（@shosomin）&lt;br /&gt;
+&lt;br /&gt;
+▽デザアカ公式サイト&lt;br /&gt;
+http://design-academy.jp/radio/</itunes:summary>
+		<itunes:author>広野萌＆細見沙央梨</itunes:author>
+		<itunes:image href="http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>36:34</itunes:duration>
+		</item>
+	<item>
+		<title>3: ファービーは瞬きするのになぜペッパーはしないのか</title>
+		<link>http://design-academy.jp/radio/3/</link>
+		<pubDate>Wed, 25 Jan 2017 08:58:36 +0000</pubDate>
+		<guid isPermaLink="false">http://design-academy.jp/?p=60</guid>
+		<comments>http://design-academy.jp/radio/3/#respond</comments>
+		<wfw:commentRss>http://design-academy.jp/radio/3/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[デザアカラジオ（Design Academy Radio）｜UIデザイン系ラジオ番組]]></category>
+		<description>&lt;p&gt;近況報告 CGMとUGCの違い Androidのバックキーは奥が深いが闇も深い AndroidとiOSのアプリ … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;http://design-academy.jp/radio/3/&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;screen-reader-text&quot;&gt;&quot;3: ファービーは瞬きするのになぜペッパーはしないのか&quot; の&lt;/span&gt;続きを読む&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp/radio/3/&quot;&gt;3: ファービーは瞬きするのになぜペッパーはしないのか&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp&quot;&gt;デザアカ（Design Academy）&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<h5>近況報告</h5>
+<ul>
+<li>CGMとUGCの違い</li>
+<li>Androidのバックキーは奥が深いが闇も深い</li>
+<li>AndroidとiOSのアプリ間の統一感</li>
+<li>女子高生を抑えたら勝ちなアプリ業界</li>
+</ul>
+<h5>音声検索とAI</h5>
+<ul>
+<li>検索するように話しかけてる違和感</li>
+<li>音声AIは息継ぎをすればましになる？</li>
+<li>ファービーは瞬きをするのになぜペッパーはしないのか</li>
+</ul>
+<h5>割り勘アプリPaymo</h5>
+<ul>
+<li>個人間送金できるけど「個人間送金アプリ」ではない理由</li>
+<li>日本は安全だからこそIT革命が難しい</li>
+<li>各社「ポイント」にする理由</li>
+<li>仮想通貨と法整備</li>
+</ul>
+<h5>イベントやります</h5>
+<ul>
+<li><a href="https://design-academy.connpass.com/event/48434/" target="_blank" rel="noopener">https://design-academy.connpass.com/event/48434/</a></li>
+<li>2/10(金) 各業界の「伝える」スペシャリストたちに学ぶ、最高峰のプレゼン技術</li>
+<li>プレゼンとデザインは似てる</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://design-academy.jp/radio/3/">3: ファービーは瞬きするのになぜペッパーはしないのか</a> appeared first on <a rel="nofollow" href="http://design-academy.jp">デザアカ（Design Academy）</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://design-academy.jp/wp/wp-content/uploads/2016/12/3_160303.mp3" length="73548403" type="audio/mpeg" />
+		<itunes:subtitle>近況報告 CGMとUGCの違い Androidのバックキーは奥が深いが闇も深い AndroidとiOSのアプリ … &quot;3: ファービーは瞬きするのになぜペッパーはしないのか&quot; の続きを読む</itunes:subtitle>
+		<itunes:summary>あけましておめでとうございます。&lt;br /&gt;
+　&lt;br /&gt;
+▼近況報告&lt;br /&gt;
+- CGMとUGCの違い&lt;br /&gt;
+- Androidのバックキーは奥が深いが闇も深い&lt;br /&gt;
+- AndroidとiOSのアプリ間の統一感&lt;br /&gt;
+- 女子高生を抑えたら勝ちなアプリ業界&lt;br /&gt;
+　&lt;br /&gt;
+▼音声検索とAI&lt;br /&gt;
+- 検索するように話しかけてる違和感&lt;br /&gt;
+- 音声AIは息継ぎをすればましになる？&lt;br /&gt;
+- ファービーは瞬きをするのになぜペッパーはしないのか&lt;br /&gt;
+&lt;br /&gt;
+▼割り勘アプリPaymo&lt;br /&gt;
+- 個人間送金できるけど「個人間送金アプリ」ではない理由&lt;br /&gt;
+- 日本は安全だからこそIT革命が難しい&lt;br /&gt;
+- 各社「ポイント」にする理由&lt;br /&gt;
+- 仮想通貨と法整備&lt;br /&gt;
+　&lt;br /&gt;
+▼イベントやります&lt;br /&gt;
+- https://design-academy.connpass.com/event/48434/&lt;br /&gt;
+- 2/10(金) 各業界の「伝える」スペシャリストたちに学ぶ、最高峰のプレゼン技術&lt;br /&gt;
+- プレゼンとデザインは似てる&lt;br /&gt;
+　&lt;br /&gt;
+============================&lt;br /&gt;
+&lt;br /&gt;
+▽Twitter&lt;br /&gt;
+#デザアカラジオ&lt;br /&gt;
+@DesignAcademyJP&lt;br /&gt;
+&lt;br /&gt;
+▽パーソナリティ&lt;br /&gt;
+広野 萌（@hajipion）&lt;br /&gt;
+細見 沙央梨（@shosomin）&lt;br /&gt;
+&lt;br /&gt;
+▽デザアカ公式サイト&lt;br /&gt;
+http://design-academy.jp/radio/</itunes:summary>
+		<itunes:author>広野萌＆細見沙央梨</itunes:author>
+		<itunes:image href="http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>38:18</itunes:duration>
+		</item>
+	<item>
+		<title>2: 奮起せよ、日本のデザイナー</title>
+		<link>http://design-academy.jp/radio/2/</link>
+		<pubDate>Sat, 31 Dec 2016 08:53:52 +0000</pubDate>
+		<guid isPermaLink="false">http://design-academy.jp/?p=57</guid>
+		<comments>http://design-academy.jp/radio/2/#respond</comments>
+		<wfw:commentRss>http://design-academy.jp/radio/2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[デザアカラジオ（Design Academy Radio）｜UIデザイン系ラジオ番組]]></category>
+		<description>&lt;p&gt;近況報告 Yahoo!検索大賞2016 Macbook ProのTouch Bar すみませんでしたマリオラン … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;http://design-academy.jp/radio/2/&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;screen-reader-text&quot;&gt;&quot;2: 奮起せよ、日本のデザイナー&quot; の&lt;/span&gt;続きを読む&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp/radio/2/&quot;&gt;2: 奮起せよ、日本のデザイナー&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp&quot;&gt;デザアカ（Design Academy）&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<h5>近況報告</h5>
+<ul>
+<li>Yahoo!検索大賞2016</li>
+<li>Macbook ProのTouch Bar</li>
+<li>すみませんでしたマリオラン面白いです</li>
+</ul>
+<h5>シリコンバレーのIT事情</h5>
+<ul>
+<li>Uberが便利すぎる</li>
+<li>デザイナーの地位が高い</li>
+<li>Twitterがかつてのmixiみたいに…</li>
+</ul>
+<h5>Vineの裏エピソード</h5>
+<ul>
+<li>SNS or UGCの葛藤</li>
+<li>UGCにおける投稿者への報酬</li>
+<li>承認欲求だけでは通用しない時代</li>
+<li>動画の時代が来てるはずなのにプレイヤーが少ない</li>
+</ul>
+<h5>2017年の豊富</h5>
+<ul>
+<li>健康に生きます（細見）</li>
+<li>FOLIOリリースします（広野）</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://design-academy.jp/radio/2/">2: 奮起せよ、日本のデザイナー</a> appeared first on <a rel="nofollow" href="http://design-academy.jp">デザアカ（Design Academy）</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://design-academy.jp/wp/wp-content/uploads/2016/12/2_160303.mp3" length="108573384" type="audio/mpeg" />
+		<itunes:subtitle>近況報告 Yahoo!検索大賞2016 Macbook ProのTouch Bar すみませんでしたマリオラン … &quot;2: 奮起せよ、日本のデザイナー&quot; の続きを読む</itunes:subtitle>
+		<itunes:summary>年末スペシャルということで長めにおしゃべりしてます。&lt;br /&gt;
+　&lt;br /&gt;
+▼近況報告&lt;br /&gt;
+- Yahoo!検索大賞2016&lt;br /&gt;
+- Macbook ProのTouch Bar&lt;br /&gt;
+- すみませんでしたマリオラン面白いです&lt;br /&gt;
+　&lt;br /&gt;
+▼シリコンバレーのIT事情&lt;br /&gt;
+- Uberが便利すぎる&lt;br /&gt;
+- デザイナーの地位が高い&lt;br /&gt;
+- Twitterがかつてのmixiみたいに…&lt;br /&gt;
+　&lt;br /&gt;
+▼Vineの裏エピソード&lt;br /&gt;
+- SNS or UGCの葛藤&lt;br /&gt;
+- UGCにおける投稿者への報酬&lt;br /&gt;
+- 承認欲求だけでは通用しない時代&lt;br /&gt;
+- 動画の時代が来てるはずなのにプレイヤーが少ない&lt;br /&gt;
+　&lt;br /&gt;
+▼2017年の豊富&lt;br /&gt;
+- 健康に生きます（細見）&lt;br /&gt;
+- FOLIOリリースします（広野）&lt;br /&gt;
+　&lt;br /&gt;
+============================&lt;br /&gt;
+&lt;br /&gt;
+▽Twitter&lt;br /&gt;
+#デザアカラジオ&lt;br /&gt;
+@DesignAcademyJP&lt;br /&gt;
+&lt;br /&gt;
+▽パーソナリティ&lt;br /&gt;
+広野 萌（@hajipion）&lt;br /&gt;
+細見 沙央梨（@shosomin）&lt;br /&gt;
+&lt;br /&gt;
+▽デザアカ公式サイト&lt;br /&gt;
+http://design-academy.jp/radio/</itunes:summary>
+		<itunes:author>広野萌＆細見沙央梨</itunes:author>
+		<itunes:image href="http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>56:33</itunes:duration>
+		</item>
+	<item>
+		<title>1:「こんなのマリオじゃない」と老害の自分が言わせてる</title>
+		<link>http://design-academy.jp/radio/1/</link>
+		<pubDate>Mon, 19 Dec 2016 08:45:28 +0000</pubDate>
+		<guid isPermaLink="false">http://design-academy.jp/?p=55</guid>
+		<comments>http://design-academy.jp/radio/1/#respond</comments>
+		<wfw:commentRss>http://design-academy.jp/radio/1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[デザアカラジオ（Design Academy Radio）｜UIデザイン系ラジオ番組]]></category>
+		<description>&lt;p&gt;パーソナリティ紹介 「SUPER MARIO RUN」1200円は高いのか？ Pepperが流行っているのはな … &lt;/p&gt;
+&lt;p class=&quot;link-more&quot;&gt;&lt;a href=&quot;http://design-academy.jp/radio/1/&quot; class=&quot;more-link&quot;&gt;&lt;span class=&quot;screen-reader-text&quot;&gt;&quot;1:「こんなのマリオじゃない」と老害の自分が言わせてる&quot; の&lt;/span&gt;続きを読む&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;The post &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp/radio/1/&quot;&gt;1:「こんなのマリオじゃない」と老害の自分が言わせてる&lt;/a&gt; appeared first on &lt;a rel=&quot;nofollow&quot; href=&quot;http://design-academy.jp&quot;&gt;デザアカ（Design Academy）&lt;/a&gt;.&lt;/p&gt;</description>
+		<content:encoded><![CDATA[<ul>
+<li>パーソナリティ紹介</li>
+<li>「SUPER MARIO RUN」1200円は高いのか？</li>
+<li>Pepperが流行っているのはなぜ？</li>
+<li>CGデザインとWebデザインの違い</li>
+</ul>
+<p>The post <a rel="nofollow" href="http://design-academy.jp/radio/1/">1:「こんなのマリオじゃない」と老害の自分が言わせてる</a> appeared first on <a rel="nofollow" href="http://design-academy.jp">デザアカ（Design Academy）</a>.</p>
+]]></content:encoded>
+		<enclosure url="http://design-academy.jp/wp/wp-content/uploads/2016/12/1_160303.mp3" length="59354509" type="audio/mpeg" />
+		<itunes:subtitle>パーソナリティ紹介 「SUPER MARIO RUN」1200円は高いのか？ Pepperが流行っているのはな … &quot;1:「こんなのマリオじゃない」と老害の自分が言わせてる&quot; の続きを読む</itunes:subtitle>
+		<itunes:summary>マリオランについて好き勝手言ってます。熱くなってすみません。&lt;br /&gt;
+&lt;br /&gt;
+- パーソナリティ紹介&lt;br /&gt;
+-「SUPER MARIO RUN」1200円は高いのか？&lt;br /&gt;
+- Pepperが流行っているのはなぜ？&lt;br /&gt;
+- CGデザインとWebデザインの違い&lt;br /&gt;
+&lt;br /&gt;
+============================&lt;br /&gt;
+&lt;br /&gt;
+▽Twitter&lt;br /&gt;
+#デザアカラジオ&lt;br /&gt;
+@DesignAcademyJP&lt;br /&gt;
+&lt;br /&gt;
+▽パーソナリティ&lt;br /&gt;
+広野 萌（@hajipion）&lt;br /&gt;
+細見 沙央梨（@shosomin）&lt;br /&gt;
+&lt;br /&gt;
+▽デザアカ公式サイト&lt;br /&gt;
+http://design-academy.jp/radio/</itunes:summary>
+		<itunes:author>広野萌＆細見沙央梨</itunes:author>
+		<itunes:image href="http://design-academy.jp/wp/wp-content/uploads/powerpress/icon_podcast.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>30:55</itunes:duration>
+		</item>
+</channel>
+</rss>

@@ -1,0 +1,656 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://capitalp.jp/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+	
+	<channel>
+		<title>Capital P</title>
+		<atom:link href="https://capitalp.jp/feed/podcast" rel="self" type="application/rss+xml"/>
+		<link>https://capitalp.jp/</link>
+		<description>WordPressエキスパートによるデジタル・メディアハブ</description>
+		<lastBuildDate>Mon, 18 Mar 2019 01:30:06 +0000</lastBuildDate>
+		<language>ja</language>
+		<copyright>© 2017 Capital P</copyright>
+		<itunes:subtitle>WordPressエキスパートによるデジタル・メディアハブ</itunes:subtitle>
+		<itunes:author>Capital P</itunes:author>
+					<itunes:type>episodic</itunes:type>
+					<googleplay:author>Capital P</googleplay:author>
+		<googleplay:email>no-reply@capitalp.jp</googleplay:email>
+		<itunes:summary>WordPressエキスパートによるデジタル・メディアハブ</itunes:summary>
+		<googleplay:description>WordPressエキスパートによるデジタル・メディアハブ</googleplay:description>
+		<itunes:owner>
+			<itunes:name>Capital P</itunes:name>
+			<itunes:email>no-reply@capitalp.jp</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+		<googleplay:explicit>No</googleplay:explicit>
+					<itunes:image href="https://capitalp.jp/wp-content/uploads/2017/01/podcast-cover.png"></itunes:image>
+			<googleplay:image href="https://capitalp.jp/wp-content/uploads/2017/01/podcast-cover.png"></googleplay:image>
+			<image>
+				<url>https://capitalp.jp/wp-content/uploads/2017/01/podcast-cover.png</url>
+				<title>Capital P</title>
+				<link>https://capitalp.jp/</link>
+			</image>
+					<itunes:category text="Technology">
+									<itunes:category text="Tech News"></itunes:category>
+							</itunes:category>
+								<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">121252828</site>				<item>
+					<title>WordCamp US 2018参加感想ポッドキャスト</title>
+					<link>https://capitalp.jp/2019/02/04/wordcamp-us-2018-report/</link>
+					<pubDate>Sun, 03 Feb 2019 23:30:36 +0000</pubDate>
+					<dc:creator>高橋 文樹</dc:creator>
+					<guid isPermaLink="false">https://capitalp.jp/?p=10195</guid>
+					<description><![CDATA[今回はWordCamp US 2018に日本人スピーカーとして参加したToruさんをゲストに招き、「 [&#8230;]]]></description>
+					<itunes:subtitle><![CDATA[今回はWordCamp US 2018に日本人スピーカーとして参加したToruさんをゲストに招き、「 ]]></itunes:subtitle>
+											<itunes:keywords>WordCamp</itunes:keywords>
+																														<content:encoded><![CDATA[
+<p>今回はWordCamp US 2018に日本人スピーカーとして参加したToruさんをゲストに招き、「ぶっちゃけWordPress 5.0のリリースってどんな感じに受け止められてたの？」というお話を伺っています。</p>
+
+
+
+<p>また、どんな風にしてスピーカーになったのか、聴衆たちの反応はどんなだったかについても聞きました。ToruさんはMatt Mallenwegに質問してブログを書かせるという偉業を達成しているので、それについてのお話も少し。</p>
+
+
+
+<p>また、私、高橋文樹が新しく作った会社Kunoichiのマーケットプレースがβオープンしていますので、そのプレゼント企画として<a href="https://kunoichiwp.com/2019/02/01/344">WordCamp US 2018のお土産$300をプレゼント</a>いたします。0円の商品を購入していただくと、当選者に発送します。<strong>応募〆切は2/28まで</strong>！　ちなみにポッドキャストを最後まで聞くと、当選確率が上がる合言葉がわかります。</p>
+
+
+
+<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link" href="https://kunoichiwp.com/2019/02/01/344">応募ページを見る</a></div>
+]]></content:encoded>
+					<itunes:summary><![CDATA[
+<p>今回はWordCamp US 2018に日本人スピーカーとして参加したToruさんをゲストに招き、「ぶっちゃけWordPress 5.0のリリースってどんな感じに受け止められてたの？」というお話を伺っています。</p>
+
+
+
+<p>また、どんな風にしてスピーカーになったのか、聴衆たちの反応はどんなだったかについても聞きました。ToruさんはMatt Mallenwegに質問してブログを書かせるという偉業を達成しているので、それについてのお話も少し。</p>
+
+
+
+<p>また、私、高橋文樹が新しく作った会社Kunoichiのマーケットプレースがβオープンしていますので、そのプレゼント企画として<a href="https://kunoichiwp.com/2019/02/01/344">WordCamp US 2018のお土産$300をプレゼント</a>いたします。0円の商品を購入していただくと、当選者に発送します。<strong>応募〆切は2/28まで</strong>！　ちなみにポッドキャストを最後まで聞くと、当選確率が上がる合言葉がわかります。</p>
+
+
+
+<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link" href="https://kunoichiwp.com/2019/02/01/344">応募ページを見る</a></div>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[
+<p>今回はWordCamp US 2018に日本人スピーカーとして参加したToruさんをゲストに招き、「ぶっちゃけWordPress 5.0のリリースってどんな感じに受け止められてたの？」というお話を伺っています。</p>
+
+
+
+<p>また、どんな風にしてスピーカーになったのか、聴衆たちの反応はどんなだったかについても聞きました。ToruさんはMatt Mallenwegに質問してブログを書かせるという偉業を達成しているので、それについてのお話も少し。</p>
+
+
+
+<p>また、私、高橋文樹が新しく作った会社Kunoichiのマーケットプレースがβオープンしていますので、そのプレゼント企画として<a href="https://kunoichiwp.com/2019/02/01/344">WordCamp US 2018のお土産$300をプレゼント</a>いたします。0円の商品を購入していただくと、当選者に発送します。<strong>応募〆切は2/28まで</strong>！　ちなみにポッドキャストを最後まで聞くと、当選確率が上がる合言葉がわかります。</p>
+
+
+
+<div class="wp-block-button aligncenter is-style-outline"><a class="wp-block-button__link" href="https://kunoichiwp.com/2019/02/01/344">応募ページを見る</a></div>
+]]></googleplay:description>
+											<itunes:image href="https://capitalp.jp/wp-content/uploads/2019/02/UNADJUSTEDNONRAW_thumb_d14a.jpg"></itunes:image>
+						<googleplay:image href="https://capitalp.jp/wp-content/uploads/2019/02/UNADJUSTEDNONRAW_thumb_d14a.jpg"></googleplay:image>
+										<enclosure url="https://capitalp.jp/podcast-download/10195/wordcamp-us-2018-report.mp3" length="142169362" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>1:38:44</itunes:duration>
+					<itunes:author>高橋 文樹</itunes:author>
+				</item>
+							<item>
+					<title>宮内隆行WordPress卒業記念対談</title>
+					<link>https://capitalp.jp/2018/12/14/miyauchi-graduates-wordpress/</link>
+					<pubDate>Fri, 14 Dec 2018 03:33:47 +0000</pubDate>
+					<dc:creator>高橋 文樹</dc:creator>
+					<guid isPermaLink="false">https://capitalp.jp/?p=9713</guid>
+					<description><![CDATA[今回のポッドキャストはWordPressからの卒業を発表した宮内隆行をメインにすえてお送りする。収録 [&#8230;]]]></description>
+					<itunes:subtitle><![CDATA[今回のポッドキャストはWordPressからの卒業を発表した宮内隆行をメインにすえてお送りする。収録 ]]></itunes:subtitle>
+											<itunes:keywords>Advent Calendar 2018,WordPressコア,コミュニティ</itunes:keywords>
+																														<content:encoded><![CDATA[
+<p>今回のポッドキャストは<a href="https://firegoby.jp/archives/18202">WordPressからの卒業</a>を発表した宮内隆行をメインにすえてお送りする。収録時間3時間半に及ぶ大スペシャルなので、年の瀬の休みを利用してじっくり聞いて欲しい。いうなれば、AKBにおける卒業式みたいなものである。</p>
+
+
+
+<p>議題は下記の通り。</p>
+
+
+
+<ul><li>西川さん、約束の時間にあらわれず。やはり<a href="https://capitalp.jp/2018/11/15/humanmade-opens-japan-branch/">イケてる企業</a>（あ、GAFAではないです）に勤めている殿上人は下々の者を待たせることを厭わないのか？</li><li>宮内さん、WordCamp Pokharaに行く。ネパールのWordPressコミュニティの熱気とビジネスについて。</li><li>西川さん、Human Madeの仕事ってなにをしてるの？</li><li>宮内さん、WordPressコミュニティを卒業！　これからなにをするの？　結局パッチ送ってない？</li><li>宮内さんの新しいビジネスについて。</li></ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[
+<p>今回のポッドキャストは<a href="https://firegoby.jp/archives/18202">WordPressからの卒業</a>を発表した宮内隆行をメインにすえてお送りする。収録時間3時間半に及ぶ大スペシャルなので、年の瀬の休みを利用してじっくり聞いて欲しい。いうなれば、AKBにおける卒業式みたいなものである。</p>
+
+
+
+<p>議題は下記の通り。</p>
+
+
+
+<ul><li>西川さん、約束の時間にあらわれず。やはり<a href="https://capitalp.jp/2018/11/15/humanmade-opens-japan-branch/">イケてる企業</a>（あ、GAFAではないです）に勤めている殿上人は下々の者を待たせることを厭わないのか？</li><li>宮内さん、WordCamp Pokharaに行く。ネパールのWordPressコミュニティの熱気とビジネスについて。</li><li>西川さん、Human Madeの仕事ってなにをしてるの？</li><li>宮内さん、WordPressコミュニティを卒業！　これからなにをするの？　結局パッチ送ってない？</li><li>宮内さんの新しいビジネスについて。</li></ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[
+<p>今回のポッドキャストは<a href="https://firegoby.jp/archives/18202">WordPressからの卒業</a>を発表した宮内隆行をメインにすえてお送りする。収録時間3時間半に及ぶ大スペシャルなので、年の瀬の休みを利用してじっくり聞いて欲しい。いうなれば、AKBにおける卒業式みたいなものである。</p>
+
+
+
+<p>議題は下記の通り。</p>
+
+
+
+<ul><li>西川さん、約束の時間にあらわれず。やはり<a href="https://capitalp.jp/2018/11/15/humanmade-opens-japan-branch/">イケてる企業</a>（あ、GAFAではないです）に勤めている殿上人は下々の者を待たせることを厭わないのか？</li><li>宮内さん、WordCamp Pokharaに行く。ネパールのWordPressコミュニティの熱気とビジネスについて。</li><li>西川さん、Human Madeの仕事ってなにをしてるの？</li><li>宮内さん、WordPressコミュニティを卒業！　これからなにをするの？　結局パッチ送ってない？</li><li>宮内さんの新しいビジネスについて。</li></ul>
+]]></googleplay:description>
+											<itunes:image href="https://capitalp.jp/wp-content/uploads/2018/12/academy-accomplishment-celebrate-267885.jpg"></itunes:image>
+						<googleplay:image href="https://capitalp.jp/wp-content/uploads/2018/12/academy-accomplishment-celebrate-267885.jpg"></googleplay:image>
+										<enclosure url="https://capitalp.jp/podcast-download/9713/miyauchi-graduates-wordpress.mp3" length="305519515" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>3:32:10</itunes:duration>
+					<itunes:author>高橋 文樹</itunes:author>
+				</item>
+							<item>
+					<title>WordCamp Europe 2018についての感想ポッドキャスト</title>
+					<link>https://capitalp.jp/2018/07/03/wordcamp-europe-2018-podcast/</link>
+					<pubDate>Tue, 03 Jul 2018 00:00:06 +0000</pubDate>
+					<dc:creator>高橋 文樹</dc:creator>
+					<guid isPermaLink="false">https://capitalp.jp/?p=6231</guid>
+					<description><![CDATA[以前ちらっとお伝えしたWordCamp Europe 2018だが、Capital Pからは西川・宮 [&#8230;]]]></description>
+					<itunes:subtitle><![CDATA[以前ちらっとお伝えしたWordCamp Europe 2018だが、Capital Pからは西川・宮 ]]></itunes:subtitle>
+											<itunes:keywords>Gutenberg,WordCamp,コミュニティ</itunes:keywords>
+																														<content:encoded><![CDATA[<p>以前ちらっとお伝えした<a href="https://capitalp.jp/2018/06/16/wceu-contributor-day/">WordCamp Europe 2018</a>だが、Capital Pからは西川・宮内の両名が参加した。セルビアのベオグラードで行われたWordCampについて、二人の感想を詳しく聞いた。トピックは以下の通り。</p>
+<ul>
+<li>セルビアってどんなところ？</li>
+<li>WordCamp USとWordCamp Europeの違い</li>
+<li>日本から参加した二社（<a href="https://www.digitalcube.jp">デジタルキューブ</a>、<a href="https://readyship.co">ReadyShip</a>）はどんな感じだった？</li>
+<li>Gutenbergについての発表</li>
+<li>日本ワードプレス協会の反響</li>
+</ul>
+<h2>免責事項</h2>
+<p>これまでは<a href="https://www.zencastr.com">Zencastr</a>というサービスを利用していたが、辺境の地に住むネット環境の悪い参加者の音源で音ズレが発生し、タイミングを合わせるための膨大な編集作業を行っていた。その労力を軽減するため、今回よりSkypeでの録音となった。音質は悪化したが、サステナビリティのためとご理解いただきたい。</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>以前ちらっとお伝えした<a href="https://capitalp.jp/2018/06/16/wceu-contributor-day/">WordCamp Europe 2018</a>だが、Capital Pからは西川・宮内の両名が参加した。セルビアのベオグラードで行われたWordCampについて、二人の感想を詳しく聞いた。トピックは以下の通り。</p>
+<ul>
+<li>セルビアってどんなところ？</li>
+<li>WordCamp USとWordCamp Europeの違い</li>
+<li>日本から参加した二社（<a href="https://www.digitalcube.jp">デジタルキューブ</a>、<a href="https://readyship.co">ReadyShip</a>）はどんな感じだった？</li>
+<li>Gutenbergについての発表</li>
+<li>日本ワードプレス協会の反響</li>
+</ul>
+<h2>免責事項</h2>
+<p>これまでは<a href="https://www.zencastr.com">Zencastr</a>というサービスを利用していたが、辺境の地に住むネット環境の悪い参加者の音源で音ズレが発生し、タイミングを合わせるための膨大な編集作業を行っていた。その労力を軽減するため、今回よりSkypeでの録音となった。音質は悪化したが、サステナビリティのためとご理解いただきたい。</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>以前ちらっとお伝えした<a href="https://capitalp.jp/2018/06/16/wceu-contributor-day/">WordCamp Europe 2018</a>だが、Capital Pからは西川・宮内の両名が参加した。セルビアのベオグラードで行われたWordCampについて、二人の感想を詳しく聞いた。トピックは以下の通り。</p>
+<ul>
+<li>セルビアってどんなところ？</li>
+<li>WordCamp USとWordCamp Europeの違い</li>
+<li>日本から参加した二社（<a href="https://www.digitalcube.jp">デジタルキューブ</a>、<a href="https://readyship.co">ReadyShip</a>）はどんな感じだった？</li>
+<li>Gutenbergについての発表</li>
+<li>日本ワードプレス協会の反響</li>
+</ul>
+<h2>免責事項</h2>
+<p>これまでは<a href="https://www.zencastr.com">Zencastr</a>というサービスを利用していたが、辺境の地に住むネット環境の悪い参加者の音源で音ズレが発生し、タイミングを合わせるための膨大な編集作業を行っていた。その労力を軽減するため、今回よりSkypeでの録音となった。音質は悪化したが、サステナビリティのためとご理解いただきたい。</p>
+]]></googleplay:description>
+											<itunes:image href="https://capitalp.jp/wp-content/uploads/2018/06/IMG_7654.jpg"></itunes:image>
+						<googleplay:image href="https://capitalp.jp/wp-content/uploads/2018/06/IMG_7654.jpg"></googleplay:image>
+										<enclosure url="https://capitalp.jp/podcast-download/6231/wordcamp-europe-2018-podcast.mp3" length="115847964" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>1:20:27</itunes:duration>
+					<itunes:author>高橋 文樹</itunes:author>
+				</item>
+							<item>
+					<title>WordCamp Osaka 2018の見どころ紹介ポッドキャスト</title>
+					<link>https://capitalp.jp/2018/05/25/highlights-of-wordcamp-osaka-2018/</link>
+					<pubDate>Fri, 25 May 2018 03:31:44 +0000</pubDate>
+					<dc:creator>高橋 文樹</dc:creator>
+					<guid isPermaLink="false">https://capitalp.jp/?p=5833</guid>
+					<description><![CDATA[今回のポッドキャストでは、来週6月2日（土）に開催を控えたWordCamp Osaka 2018の実 [&#8230;]]]></description>
+					<itunes:subtitle><![CDATA[今回のポッドキャストでは、来週6月2日（土）に開催を控えたWordCamp Osaka 2018の実 ]]></itunes:subtitle>
+											<itunes:keywords>WordCamp</itunes:keywords>
+																														<content:encoded><![CDATA[<p>今回のポッドキャストでは、来週6月2日（土）に開催を控えた<a href="https://2018.osaka.wordcamp.org">WordCamp Osaka 2018</a>の実行委員長GOUTENさんをお招きして、イベントの魅力について語ってもらいました。</p>
+<p><a href="https://2018.osaka.wordcamp.org/schedule/">タイムテーブル</a>を眺めながらの会談となってますので、ぜひ一度お目通しを！　そのほかにも海外ゲストのためのビザ取得、GDPRやWordPressの新テーマTwenty Eighteen（出るのか？）の小ネタ、大阪の観光名所などについても語っていますので、ぜひご視聴ください。</p>
+<p>なお、WordCamp Osaka 2018には<a href="https://2018.osaka.wordcamp.org/session/source-of-wordpress-news/">Capital Pから西川さん</a>が登壇します。お楽しみに！</p>
+<p><a class="wpac-btn c-btn wpac-btn c-btn--full mceNonEditable" href="https://2018.osaka.wordcamp.org/ticket/"><span class="mceEditable">参加登録</span></a></p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>今回のポッドキャストでは、来週6月2日（土）に開催を控えた<a href="https://2018.osaka.wordcamp.org">WordCamp Osaka 2018</a>の実行委員長GOUTENさんをお招きして、イベントの魅力について語ってもらいました。</p>
+<p><a href="https://2018.osaka.wordcamp.org/schedule/">タイムテーブル</a>を眺めながらの会談となってますので、ぜひ一度お目通しを！　そのほかにも海外ゲストのためのビザ取得、GDPRやWordPressの新テーマTwenty Eighteen（出るのか？）の小ネタ、大阪の観光名所などについても語っていますので、ぜひご視聴ください。</p>
+<p>なお、WordCamp Osaka 2018には<a href="https://2018.osaka.wordcamp.org/session/source-of-wordpress-news/">Capital Pから西川さん</a>が登壇します。お楽しみに！</p>
+<p><a class="wpac-btn c-btn wpac-btn c-btn--full mceNonEditable" href="https://2018.osaka.wordcamp.org/ticket/"><span class="mceEditable">参加登録</span></a></p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>今回のポッドキャストでは、来週6月2日（土）に開催を控えた<a href="https://2018.osaka.wordcamp.org">WordCamp Osaka 2018</a>の実行委員長GOUTENさんをお招きして、イベントの魅力について語ってもらいました。</p>
+<p><a href="https://2018.osaka.wordcamp.org/schedule/">タイムテーブル</a>を眺めながらの会談となってますので、ぜひ一度お目通しを！　そのほかにも海外ゲストのためのビザ取得、GDPRやWordPressの新テーマTwenty Eighteen（出るのか？）の小ネタ、大阪の観光名所などについても語っていますので、ぜひご視聴ください。</p>
+<p>なお、WordCamp Osaka 2018には<a href="https://2018.osaka.wordcamp.org/session/source-of-wordpress-news/">Capital Pから西川さん</a>が登壇します。お楽しみに！</p>
+<p><a class="wpac-btn c-btn wpac-btn c-btn--full mceNonEditable" href="https://2018.osaka.wordcamp.org/ticket/"><span class="mceEditable">参加登録</span></a></p>
+]]></googleplay:description>
+											<itunes:image href="https://capitalp.jp/wp-content/uploads/2018/05/012b97a11f27a698c80160e674b608cf.png"></itunes:image>
+						<googleplay:image href="https://capitalp.jp/wp-content/uploads/2018/05/012b97a11f27a698c80160e674b608cf.png"></googleplay:image>
+										<enclosure url="https://capitalp.jp/podcast-download/5833/highlights-of-wordcamp-osaka-2018.mp3" length="151656826" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>1:45:19</itunes:duration>
+					<itunes:author>高橋 文樹</itunes:author>
+				</item>
+							<item>
+					<title>テーマBizVektor作者・石川さんに聞く最近のテーマ開発</title>
+					<link>https://capitalp.jp/2018/04/20/theme-wrangler-ishikawa/</link>
+					<pubDate>Fri, 20 Apr 2018 00:00:28 +0000</pubDate>
+					<dc:creator>高橋 文樹</dc:creator>
+					<guid isPermaLink="false">https://capitalp.jp/?p=5528</guid>
+					<description><![CDATA[約4ヶ月ぶりのPodcast収録はBizVektorやLightningなどのテーマ開発元として有名 [&#8230;]]]></description>
+					<itunes:subtitle><![CDATA[約4ヶ月ぶりのPodcast収録はBizVektorやLightningなどのテーマ開発元として有名 ]]></itunes:subtitle>
+											<itunes:keywords>テーマ</itunes:keywords>
+																														<content:encoded><![CDATA[<p>約4ヶ月ぶりのPodcast収録は<a href="https://bizvektor.com">BizVektor</a>や<a href="https://lightning.nagoya/ja/">Lightning</a>などのテーマ開発元として有名な株式会社ベクトルの石川さんをお招きしてテーマ開発の悩みや今後の展開などについてお伺いした。</p>
+<p>日本のWordPressユーザーならけっこうな割合で知っていると思われるテーマ作者がどんな風に開発し、ビジネス上の工夫をどうしているかなど、ざっくばらんにお話いただいた。</p>
+<h2>Podcastのテーマ</h2>
+<ul>
+<li>公式ディレクトリにテーマを掲載するとは</li>
+<li>どんな風にビジネスをしているのか</li>
+<li>今後の世界展開など</li>
+</ul>
+<h3>※お詫び</h3>
+<p>後半一時間ぐらい音源がうまく撮れていなかったので、カットとなってしまった。聞いていて、若干話のつなぎが悪い部分があるので、その点ご了承いただきたい。</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>約4ヶ月ぶりのPodcast収録は<a href="https://bizvektor.com">BizVektor</a>や<a href="https://lightning.nagoya/ja/">Lightning</a>などのテーマ開発元として有名な株式会社ベクトルの石川さんをお招きしてテーマ開発の悩みや今後の展開などについてお伺いした。</p>
+<p>日本のWordPressユーザーならけっこうな割合で知っていると思われるテーマ作者がどんな風に開発し、ビジネス上の工夫をどうしているかなど、ざっくばらんにお話いただいた。</p>
+<h2>Podcastのテーマ</h2>
+<ul>
+<li>公式ディレクトリにテーマを掲載するとは</li>
+<li>どんな風にビジネスをしているのか</li>
+<li>今後の世界展開など</li>
+</ul>
+<h3>※お詫び</h3>
+<p>後半一時間ぐらい音源がうまく撮れていなかったので、カットとなってしまった。聞いていて、若干話のつなぎが悪い部分があるので、その点ご了承いただきたい。</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>約4ヶ月ぶりのPodcast収録は<a href="https://bizvektor.com">BizVektor</a>や<a href="https://lightning.nagoya/ja/">Lightning</a>などのテーマ開発元として有名な株式会社ベクトルの石川さんをお招きしてテーマ開発の悩みや今後の展開などについてお伺いした。</p>
+<p>日本のWordPressユーザーならけっこうな割合で知っていると思われるテーマ作者がどんな風に開発し、ビジネス上の工夫をどうしているかなど、ざっくばらんにお話いただいた。</p>
+<h2>Podcastのテーマ</h2>
+<ul>
+<li>公式ディレクトリにテーマを掲載するとは</li>
+<li>どんな風にビジネスをしているのか</li>
+<li>今後の世界展開など</li>
+</ul>
+<h3>※お詫び</h3>
+<p>後半一時間ぐらい音源がうまく撮れていなかったので、カットとなってしまった。聞いていて、若干話のつなぎが悪い部分があるので、その点ご了承いただきたい。</p>
+]]></googleplay:description>
+											<itunes:image href="https://capitalp.jp/wp-content/uploads/2018/04/lightning-eyecatch.png"></itunes:image>
+						<googleplay:image href="https://capitalp.jp/wp-content/uploads/2018/04/lightning-eyecatch.png"></googleplay:image>
+										<enclosure url="https://capitalp.jp/podcast-download/5528/theme-wrangler-ishikawa.mp3" length="74724541" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>51:53</itunes:duration>
+					<itunes:author>高橋 文樹</itunes:author>
+				</item>
+							<item>
+					<title>ポッドキャスト忘年会、2017年の振り返り</title>
+					<link>https://capitalp.jp/2017/12/24/dont-look-back-in-anger-2017/</link>
+					<pubDate>Sun, 24 Dec 2017 01:00:00 +0000</pubDate>
+					<dc:creator>高橋 文樹</dc:creator>
+					<guid isPermaLink="false">https://capitalp.jp/?p=4077</guid>
+					<description><![CDATA[アドベントカレンダー2017の最終日を飾る今日は、2017年の振り返りということで忘年会を行いました [&#8230;]]]></description>
+					<itunes:subtitle><![CDATA[アドベントカレンダー2017の最終日を飾る今日は、2017年の振り返りということで忘年会を行いました ]]></itunes:subtitle>
+											<itunes:keywords>Advent Calendar 2017,WordBench,コミュニティ</itunes:keywords>
+																														<content:encoded><![CDATA[<p><a href="https://capitalp.jp/capital-p-advent-calendar-2017/">アドベントカレンダー2017</a>の最終日を飾る今日は、2017年の振り返りということで忘年会を行いました。収録日はちょうどCapital Pをはじめから一年ぐらいの時期でしたので、2017年はどうだったかということを中心にお届けしています。</p>
+<p>なお、当初は同日に開催されていたWordBench Tokyo 2017の懇親会会場と中継を行っていたのですが、うまく録音ができておらず、ばっさりカット。収録2時間が1時間にまでなってしまいました…….。楽しみにしてくれていた方々、ごめんなさい！</p>
+<p>コントリビューションや「あなたにとっての2017年」などなど、総勢10名近い方々とお話できたのはよい思い出です。Capital Pのリスナーのみなさんともお話できる機会は貴重なので、またこうした中継会をやりたいと思います。</p>
+<p>そんなわけで、中間がばっさりカットされた奇妙なポッドキャストになっておりますが、お楽しみください。話題はこんな感じ。</p>
+<ul>
+<li>三人の2017年はどうだったか</li>
+<li>燃え尽き症候群になった宮内</li>
+<li>来年は男木島ですごいイベントがあるかも？</li>
+<li>飛行機代とか出せないかなー。</li>
+<li>tideってどうなの？</li>
+</ul>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p><a href="https://capitalp.jp/capital-p-advent-calendar-2017/">アドベントカレンダー2017</a>の最終日を飾る今日は、2017年の振り返りということで忘年会を行いました。収録日はちょうどCapital Pをはじめから一年ぐらいの時期でしたので、2017年はどうだったかということを中心にお届けしています。</p>
+<p>なお、当初は同日に開催されていたWordBench Tokyo 2017の懇親会会場と中継を行っていたのですが、うまく録音ができておらず、ばっさりカット。収録2時間が1時間にまでなってしまいました…….。楽しみにしてくれていた方々、ごめんなさい！</p>
+<p>コントリビューションや「あなたにとっての2017年」などなど、総勢10名近い方々とお話できたのはよい思い出です。Capital Pのリスナーのみなさんともお話できる機会は貴重なので、またこうした中継会をやりたいと思います。</p>
+<p>そんなわけで、中間がばっさりカットされた奇妙なポッドキャストになっておりますが、お楽しみください。話題はこんな感じ。</p>
+<ul>
+<li>三人の2017年はどうだったか</li>
+<li>燃え尽き症候群になった宮内</li>
+<li>来年は男木島ですごいイベントがあるかも？</li>
+<li>飛行機代とか出せないかなー。</li>
+<li>tideってどうなの？</li>
+</ul>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p><a href="https://capitalp.jp/capital-p-advent-calendar-2017/">アドベントカレンダー2017</a>の最終日を飾る今日は、2017年の振り返りということで忘年会を行いました。収録日はちょうどCapital Pをはじめから一年ぐらいの時期でしたので、2017年はどうだったかということを中心にお届けしています。</p>
+<p>なお、当初は同日に開催されていたWordBench Tokyo 2017の懇親会会場と中継を行っていたのですが、うまく録音ができておらず、ばっさりカット。収録2時間が1時間にまでなってしまいました…….。楽しみにしてくれていた方々、ごめんなさい！</p>
+<p>コントリビューションや「あなたにとっての2017年」などなど、総勢10名近い方々とお話できたのはよい思い出です。Capital Pのリスナーのみなさんともお話できる機会は貴重なので、またこうした中継会をやりたいと思います。</p>
+<p>そんなわけで、中間がばっさりカットされた奇妙なポッドキャストになっておりますが、お楽しみください。話題はこんな感じ。</p>
+<ul>
+<li>三人の2017年はどうだったか</li>
+<li>燃え尽き症候群になった宮内</li>
+<li>来年は男木島ですごいイベントがあるかも？</li>
+<li>飛行機代とか出せないかなー。</li>
+<li>tideってどうなの？</li>
+</ul>
+]]></googleplay:description>
+											<itunes:image href="https://capitalp.jp/wp-content/uploads/2017/12/pexels-photo-225228.jpeg"></itunes:image>
+						<googleplay:image href="https://capitalp.jp/wp-content/uploads/2017/12/pexels-photo-225228.jpeg"></googleplay:image>
+										<enclosure url="https://capitalp.jp/podcast-download/4077/dont-look-back-in-anger-2017.mp3" length="81108659" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>56:19</itunes:duration>
+					<itunes:author>高橋 文樹</itunes:author>
+				</item>
+							<item>
+					<title>有料テーマを売ることについてのもろもろ w/ 北島さん、トロユニさん</title>
+					<link>https://capitalp.jp/2017/12/08/%e6%9c%89%e6%96%99%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e5%a3%b2%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%ae%e3%82%82%e3%82%8d%e3%82%82%e3%82%8d-w-%e5%8c%97%e5%b3%b6/</link>
+					<pubDate>Fri, 08 Dec 2017 00:00:18 +0000</pubDate>
+					<dc:creator>西川伸一</dc:creator>
+					<guid isPermaLink="false">https://capitalp.jp/?p=3748</guid>
+					<description><![CDATA[北島さんが、Snow Monkeyという国産プレミアムテーマを、満を持して発売開始！というニュースを受けて、テーマを作り、売るとはどういうことなのかを探るべく、ポッドキャストにご出演頂きました。マーケティングやアフィリエイトのことなどに話は広がりました。]]></description>
+					<itunes:subtitle><![CDATA[北島さんが、Snow Monkeyという国産プレミアムテーマを、満を持して発売開始！というニュースを受けて、テーマを作り、売るとはどういうことなのかを探るべく、ポッドキャストにご出演頂きました。マーケティングやアフィリエイトのことなどに話は広がりました。]]></itunes:subtitle>
+											<itunes:keywords>Advent Calendar 2017,お金,カスタムフィールド,テーマ,ビジネス,ライセンス</itunes:keywords>
+																														<content:encoded><![CDATA[<p>北島さん(<a href="https://twitter.com/inc2734">@inc2734</a>)が、<a href="https://snow-monkey.2inc.org/">Snow Monkeyという国産プレミアムテーマを、満を持して発売開始</a>！というニュースを受けて、テーマを作り、売るとはどういうことなのかを探るべく、ポッドキャストにご出演頂きました。マーケティングやアフィリエイトのことなどに話は広がりました。</p>
+<p>これまでにも、<a href="https://plugins.2inc.org/mw-wp-form/">MW WP Formというコンタクトフォームのプラグイン</a>や、<a href="https://2inc.org/blog/category/products/wordpress_plugins/smart-custom-fields/">Smart Custom Fieldsというカスタムフィールド製造業向けのプラグイン</a>などをリリースしてきた北島さんが、なぜ、どういう動機で有料のテーマの販売へと軸足を移したのか、などお話を伺いました。</p>
+<p><a href="https://snow-monkey.2inc.org/">Snow Monkey の購入とダウンロードはこちらからどうぞ</a>。</p>
+<p>ちなみに、カスタムフィールド製造業界についての話もだいぶ出ました。</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>北島さん(<a href="https://twitter.com/inc2734">@inc2734</a>)が、<a href="https://snow-monkey.2inc.org/">Snow Monkeyという国産プレミアムテーマを、満を持して発売開始</a>！というニュースを受けて、テーマを作り、売るとはどういうことなのかを探るべく、ポッドキャストにご出演頂きました。マーケティングやアフィリエイトのことなどに話は広がりました。</p>
+<p>これまでにも、<a href="https://plugins.2inc.org/mw-wp-form/">MW WP Formというコンタクトフォームのプラグイン</a>や、<a href="https://2inc.org/blog/category/products/wordpress_plugins/smart-custom-fields/">Smart Custom Fieldsというカスタムフィールド製造業向けのプラグイン</a>などをリリースしてきた北島さんが、なぜ、どういう動機で有料のテーマの販売へと軸足を移したのか、などお話を伺いました。</p>
+<p><a href="https://snow-monkey.2inc.org/">Snow Monkey の購入とダウンロードはこちらからどうぞ</a>。</p>
+<p>ちなみに、カスタムフィールド製造業界についての話もだいぶ出ました。</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>北島さん(<a href="https://twitter.com/inc2734">@inc2734</a>)が、<a href="https://snow-monkey.2inc.org/">Snow Monkeyという国産プレミアムテーマを、満を持して発売開始</a>！というニュースを受けて、テーマを作り、売るとはどういうことなのかを探るべく、ポッドキャストにご出演頂きました。マーケティングやアフィリエイトのことなどに話は広がりました。</p>
+<p>これまでにも、<a href="https://plugins.2inc.org/mw-wp-form/">MW WP Formというコンタクトフォームのプラグイン</a>や、<a href="https://2inc.org/blog/category/products/wordpress_plugins/smart-custom-fields/">Smart Custom Fieldsというカスタムフィールド製造業向けのプラグイン</a>などをリリースしてきた北島さんが、なぜ、どういう動機で有料のテーマの販売へと軸足を移したのか、などお話を伺いました。</p>
+<p><a href="https://snow-monkey.2inc.org/">Snow Monkey の購入とダウンロードはこちらからどうぞ</a>。</p>
+<p>ちなみに、カスタムフィールド製造業界についての話もだいぶ出ました。</p>
+]]></googleplay:description>
+											<itunes:image href="https://capitalp.jp/wp-content/uploads/2017/12/snow-monkey.jpg"></itunes:image>
+						<googleplay:image href="https://capitalp.jp/wp-content/uploads/2017/12/snow-monkey.jpg"></googleplay:image>
+										<enclosure url="https://capitalp.jp/podcast-download/3748/%e6%9c%89%e6%96%99%e3%83%86%e3%83%bc%e3%83%9e%e3%82%92%e5%a3%b2%e3%82%8b%e3%81%93%e3%81%a8%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%81%ae%e3%82%82%e3%82%8d%e3%82%82%e3%82%8d-w-%e5%8c%97%e5%b3%b6.mp3" length="101200795" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>1:45:25</itunes:duration>
+					<itunes:author>西川伸一</itunes:author>
+				</item>
+							<item>
+					<title>カスタムフィールド製造業界の現場から。ゲスト堀家隆弘</title>
+					<link>https://capitalp.jp/2017/11/03/custom-fields-manufacturing-industry/</link>
+					<pubDate>Thu, 02 Nov 2017 23:45:03 +0000</pubDate>
+					<dc:creator>西川伸一</dc:creator>
+					<guid isPermaLink="false">https://capitalp.jp/?p=2260</guid>
+					<description><![CDATA[「カスタムフィールド製造業界」で働く堀家氏を招いて、この業界について話し合ってみました。]]></description>
+					<itunes:subtitle><![CDATA[「カスタムフィールド製造業界」で働く堀家氏を招いて、この業界について話し合ってみました。]]></itunes:subtitle>
+											<itunes:keywords>Advent Calendar 2017,お金,カスタムフィールド,テーマ,ビジネス,ライセンス</itunes:keywords>
+																														<content:encoded><![CDATA[<p>先日公開された「<a href="https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/">カスタムフィールド製造業ならびにWebアセンブラーという職業について</a>」という記事には、大きな反響がありました。</p>
+<div class="js-wp-oembed-blog-card"><a class="js-wp-oembed-blog-card__link" href="https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/" target="_self">https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/</a></div>
+<p>今回のポッドキャストでは、<a href="https://serverless.com/framework/">Serverless Framework</a>のコミッターを務めつつ、カスタムフィールド製造業界の住人でもある<a href="https://twitter.com/horike37">堀家隆宏</a>さんをお迎えして、カスタムフィールド製造業についての話を2時間半にわたってお送りしています。</p>
+<p>私（<a href="https://twitter.com/shinichiN">西川</a>）としての感想は、カスタムフィールド製造業まだまだいけるわ、ということでした。<a href="https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/">前回の記事</a>で、以下の言葉、</p>
+<blockquote><p>この秀逸な言葉は西川伸一が半ば自嘲気味にWordPressコンサルタントとしての自分の仕事振りを説明するために使っている言葉なのだが、Capital Pファンからも受けが良かった。</p></blockquote>
+<p>がありましたが、今回のポッドキャストを経てもろもろと議論をしおわった今、私は自嘲している場合ではなく、これを擁護する立場となって、業界人はむしろ誇らしく生きていくべきだと思うようになりました。価値あるものを作ってお金にしていくという当たり前のことでした。</p>
+<h2>カスタムフィールド製造業の様子</h2>
+<p>今回のポッドキャストの中で、カスタムフィールド製造業そのものについての認識にもだいぶ隔たりがあることが分かり、整理してみたいと思いました。</p>
+<p>僕が思っていたこの業態の定義としては、以下のような感じになると思います。ポッドキャストの中で言及の合った、50万円〜300万円という価格帯も、以下の全部の作業が含まれるものとすれば、なるほどね、と思われるのではないでしょうか？</p>
+<ul>
+<li>カスタム投稿タイプが複数定義されている。つまり、コンテンツのタイプが普通のブログやシンプルな会社のサイトよりは多い。</li>
+<li>各カスタム投稿タイプのうち、特に、投稿や固定ページ以外のものに、複数のカスタムフィールドが定義されている。フィールドの数は、少ない場合だと5個位で、多いものでは100個位。</li>
+<li>実際にフィールドを埋める作業、つまりコンテンツを作る作業は、クリエイティブな作業というよりは、作成されているフォームへの入力作業であることが多い。</li>
+<li>その他、投稿タイプ同士だったり、ユーザーとだったり、カスタムタクソノミーとの紐付け、引用などもよくある。</li>
+<li>検索、複数のフィールド（投稿メタとタクソノミが使われる）による掛け合わせ検索、絞り込み検索などもよくある。</li>
+<li>仕事の流れとしては、以下を含む。
+<ul>
+<li>クライアント企業のビジネスの内容、表示させるべき内容、検索をするのかどうかなどをヒアリングする。</li>
+<li>その結果にもとづいて、投稿タイプ、タクソノミ、投稿メタといういわゆるカスタム三兄弟をどう組み合わせるのかを考える。</li>
+<li>管理画面の入力欄の作成（これと、フィールドの定義が同時に行われる）。</li>
+<li>その出力画面を作る（この段階で、別途行われてきたデザインやコーディングと組み合わさる）。</li>
+<li>検索を作る。</li>
+<li>検索結果や、トップやタクソノミーでの一覧ページを作る。</li>
+<li>実際の入力を実施してもらい、若干の修正を行う。</li>
+</ul>
+</li>
+</ul>
+<p>ポッドキャストの中でわかったのは、ヒアリングや設計などの上流の工程を行う人と、実際に定義をしたり出力のためのテーマの編集をしたりする人がバラバラである場合もあるということでした。その場合、決まったものを実現するだけの作業であるなら、たしかに20万円からのスタートでもできるのかもしれないなぁ、と思います。</p>
+<h2>グーテンベルクとカスタムフィールド製造業の未来</h2>
+<p>ポッドキャストの中でも触れましたが、グーテンベルクという新エディタがやってきたとき、カスタムフィールド製造業はどうなるのか？ということについて、僕の予想を書いておきたいと思います。</p>
+<ul>
+<li>基本的にはあんまり影響がない。</li>
+<li>カスタムフィールドと一言で言っても、実はいろいろな種類があり、特に以下の2つは大きく違う。
+<ul>
+<li>スライドショーやテキストエリア、特定の場所に表示される画像、テーブルなどの、表示に関わる部分。これは、グーテンベルクのブロックに吸収される。コンテンツエリアに内包されるようになる（編集画面での見え方と実際の表側の画面での見え方も一致するだろうし、テーマでは <code>the_content</code> で一気に出力される)。</li>
+<li>分類、価格、日付などの検索やソートに使われるデータは、引き続きメタボックスなのか、グーテンベルクの右側のエリアなのか場所はわからないけれども、カスタムフィールドに残る。</li>
+</ul>
+</li>
+<li>上記のうち、表示に関わる部分についてはグーテンベルクのブロックに取り込まれていくが、デフォルトでは実現できないもの、たとえばスライドショーだとか複雑な表組みだとかについては、プラグインからカスタムなブロックを追加できるようになる。</li>
+</ul>
+<p>表示や見た目、レイアウトに関わる部分が取り込まれるのは当然といえば当然です。グーテンベルクの目的のひとつに、「TinyMCEだとHTMLが分からないお客さんには入力できないものがあるけど、それがちゃんとできるようにしよう」というのがあります。これまでは、TinyMCEでたとえばカラムを2つにしたいだとかいうときに、それができないから、仕方なくカスタムフィールドを定義して、そこに入力すれば表側のHTMLが完成するようにしていたわけですが、これが必要ではなくなります。</p>
+<p>それとは別に、メタっぽいメタ、たとえば日付やSEO系のテキストなどについては、引き続きカスタムフィールドとして残るし、そもそも何をどう使うのかを考える作業だとか、検索をするところだとか、フロントを作り込むところなどはなくなりません。</p>
+<p>したがって、グーテンベルクのよいところを取り入れつつ、よりよいものを作っていくという形になるのではないでしょうか。</p>
+<p>&nbsp;</p>
+<h2>カスタムフィールドの作成に使われるプラグイン</h2>
+<p>ポッドキャストの中で触れたプラグインをいくつかご紹介します。</p>
+<ul>
+<li><a href="https://pods.io/">Home &#8211; Pods Framework</a>: これは便利そうです。次回からこれを使いたいと思っています。</li>
+<li><a href="https://github.com/humanmade/Custom-Meta-Boxes">humanmade/Custom-Meta-Boxes</a>: Human Made で開発・利用されているものです。詳しく見てみたいと思います。</li>
+<li><a href="https://wordpress.org/plugins/custom-field-suite/">Custom Field Suite</a>: 僕も使ったことがあります。</li>
+<li><a href="https://ja.wordpress.org/plugins/types/">Toolset Types</a>: これも一度利用したことがあります。</li>
+<li><a href="https://2inc.org/blog/category/products/wordpress_plugins/smart-custom-fields/">Smart Custom Fields – モンキーレンチ</a>: 北島さんのプラグインです。</li>
+<li><a href="https://github.com/tarosky/tscf/">tarosky/tscf</a>: CapitalP メンバーの<a href="https://twitter.com/takahashifumiki">高橋さん</a>が作成しているプラグイン。</li>
+</ul>
+<p>他にもおすすめのものがありましたら、お知らせください。</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>先日公開された「<a href="https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/">カスタムフィールド製造業ならびにWebアセンブラーという職業について</a>」という記事には、大きな反響がありました。</p>
+<div class="js-wp-oembed-blog-card"><a class="js-wp-oembed-blog-card__link" href="https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/" target="_self">https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/</a></div>
+<p>今回のポッドキャストでは、<a href="https://serverless.com/framework/">Serverless Framework</a>のコミッターを務めつつ、カスタムフィールド製造業界の住人でもある<a href="https://twitter.com/horike37">堀家隆宏</a>さんをお迎えして、カスタムフィールド製造業についての話を2時間半にわたってお送りしています。</p>
+<p>私（<a href="https://twitter.com/shinichiN">西川</a>）としての感想は、カスタムフィールド製造業まだまだいけるわ、ということでした。<a href="https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/">前回の記事</a>で、以下の言葉、</p>
+<blockquote><p>この秀逸な言葉は西川伸一が半ば自嘲気味にWordPressコンサルタントとしての自分の仕事振りを説明するために使っている言葉なのだが、Capital Pファンからも受けが良かった。</p></blockquote>
+<p>がありましたが、今回のポッドキャストを経てもろもろと議論をしおわった今、私は自嘲している場合ではなく、これを擁護する立場となって、業界人はむしろ誇らしく生きていくべきだと思うようになりました。価値あるものを作ってお金にしていくという当たり前のことでした。</p>
+<h2>カスタムフィールド製造業の様子</h2>
+<p>今回のポッドキャストの中で、カスタムフィールド製造業そのものについての認識にもだいぶ隔たりがあることが分かり、整理してみたいと思いました。</p>
+<p>僕が思っていたこの業態の定義としては、以下のような感じになると思います。ポッドキャストの中で言及の合った、50万円〜300万円という価格帯も、以下の全部の作業が含まれるものとすれば、なるほどね、と思われるのではないでしょうか？</p>
+<ul>
+<li>カスタム投稿タイプが複数定義されている。つまり、コンテンツのタイプが普通のブログやシンプルな会社のサイトよりは多い。</li>
+<li>各カスタム投稿タイプのうち、特に、投稿や固定ページ以外のものに、複数のカスタムフィールドが定義されている。フィールドの数は、少ない場合だと5個位で、多いものでは100個位。</li>
+<li>実際にフィールドを埋める作業、つまりコンテンツを作る作業は、クリエイティブな作業というよりは、作成されているフォームへの入力作業であることが多い。</li>
+<li>その他、投稿タイプ同士だったり、ユーザーとだったり、カスタムタクソノミーとの紐付け、引用などもよくある。</li>
+<li>検索、複数のフィールド（投稿メタとタクソノミが使われる）による掛け合わせ検索、絞り込み検索などもよくある。</li>
+<li>仕事の流れとしては、以下を含む。
+<ul>
+<li>クライアント企業のビジネスの内容、表示させるべき内容、検索をするのかどうかなどをヒアリングする。</li>
+<li>その結果にもとづいて、投稿タイプ、タクソノミ、投稿メタといういわゆるカスタム三兄弟をどう組み合わせるのかを考える。</li>
+<li>管理画面の入力欄の作成（これと、フィールドの定義が同時に行われる）。</li>
+<li>その出力画面を作る（この段階で、別途行われてきたデザインやコーディングと組み合わさる）。</li>
+<li>検索を作る。</li>
+<li>検索結果や、トップやタクソノミーでの一覧ページを作る。</li>
+<li>実際の入力を実施してもらい、若干の修正を行う。</li>
+</ul>
+</li>
+</ul>
+<p>ポッドキャストの中でわかったのは、ヒアリングや設計などの上流の工程を行う人と、実際に定義をしたり出力のためのテーマの編集をしたりする人がバラバラである場合もあるということでした。その場合、決まったものを実現するだけの作業であるなら、たしかに20万円からのスタートでもできるのかもしれないなぁ、と思います。</p>
+<h2>グーテンベルクとカスタムフィールド製造業の未来</h2>
+<p>ポッドキャストの中でも触れましたが、グーテンベルクという新エディタがやってきたとき、カスタムフィールド製造業はどうなるのか？ということについて、僕の予想を書いておきたいと思います。</p>
+<ul>
+<li>基本的にはあんまり影響がない。</li>
+<li>カスタムフィールドと一言で言っても、実はいろいろな種類があり、特に以下の2つは大きく違う。
+<ul>
+<li>スライドショーやテキストエリア、特定の場所に表示される画像、テーブルなどの、表示に関わる部分。これは、グーテンベルクのブロックに吸収される。コンテンツエリアに内包されるようになる（編集画面での見え方と実際の表側の画面での見え方も一致するだろうし、テーマでは <code>the_content</code> で一気に出力される)。</li>
+<li>分類、価格、日付などの検索やソートに使われるデータは、引き続きメタボックスなのか、グーテンベルクの右側のエリアなのか場所はわからないけれども、カスタムフィールドに残る。</li>
+</ul>
+</li>
+<li>上記のうち、表示に関わる部分についてはグーテンベルクのブロックに取り込まれていくが、デフォルトでは実現できないもの、たとえばスライドショーだとか複雑な表組みだとかについては、プラグインからカスタムなブロックを追加できるようになる。</li>
+</ul>
+<p>表示や見た目、レイアウトに関わる部分が取り込まれるのは当然といえば当然です。グーテンベルクの目的のひとつに、「TinyMCEだとHTMLが分からないお客さんには入力できないものがあるけど、それがちゃんとできるようにしよう」というのがあります。これまでは、TinyMCEでたとえばカラムを2つにしたいだとかいうときに、それができないから、仕方なくカスタムフィールドを定義して、そこに入力すれば表側のHTMLが完成するようにしていたわけですが、これが必要ではなくなります。</p>
+<p>それとは別に、メタっぽいメタ、たとえば日付やSEO系のテキストなどについては、引き続きカスタムフィールドとして残るし、そもそも何をどう使うのかを考える作業だとか、検索をするところだとか、フロントを作り込むところなどはなくなりません。</p>
+<p>したがって、グーテンベルクのよいところを取り入れつつ、よりよいものを作っていくという形になるのではないでしょうか。</p>
+<p>&nbsp;</p>
+<h2>カスタムフィールドの作成に使われるプラグイン</h2>
+<p>ポッドキャストの中で触れたプラグインをいくつかご紹介します。</p>
+<ul>
+<li><a href="https://pods.io/">Home &#8211; Pods Framework</a>: これは便利そうです。次回からこれを使いたいと思っています。</li>
+<li><a href="https://github.com/humanmade/Custom-Meta-Boxes">humanmade/Custom-Meta-Boxes</a>: Human Made で開発・利用されているものです。詳しく見てみたいと思います。</li>
+<li><a href="https://wordpress.org/plugins/custom-field-suite/">Custom Field Suite</a>: 僕も使ったことがあります。</li>
+<li><a href="https://ja.wordpress.org/plugins/types/">Toolset Types</a>: これも一度利用したことがあります。</li>
+<li><a href="https://2inc.org/blog/category/products/wordpress_plugins/smart-custom-fields/">Smart Custom Fields – モンキーレンチ</a>: 北島さんのプラグインです。</li>
+<li><a href="https://github.com/tarosky/t]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>先日公開された「<a href="https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/">カスタムフィールド製造業ならびにWebアセンブラーという職業について</a>」という記事には、大きな反響がありました。</p>
+<div class="js-wp-oembed-blog-card"><a class="js-wp-oembed-blog-card__link" href="https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/" target="_self">https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/</a></div>
+<p>今回のポッドキャストでは、<a href="https://serverless.com/framework/">Serverless Framework</a>のコミッターを務めつつ、カスタムフィールド製造業界の住人でもある<a href="https://twitter.com/horike37">堀家隆宏</a>さんをお迎えして、カスタムフィールド製造業についての話を2時間半にわたってお送りしています。</p>
+<p>私（<a href="https://twitter.com/shinichiN">西川</a>）としての感想は、カスタムフィールド製造業まだまだいけるわ、ということでした。<a href="https://capitalp.jp/2017/09/30/what-is-customfield-industory-and-web-assembler/">前回の記事</a>で、以下の言葉、</p>
+<blockquote><p>この秀逸な言葉は西川伸一が半ば自嘲気味にWordPressコンサルタントとしての自分の仕事振りを説明するために使っている言葉なのだが、Capital Pファンからも受けが良かった。</p></blockquote>
+<p>がありましたが、今回のポッドキャストを経てもろもろと議論をしおわった今、私は自嘲している場合ではなく、これを擁護する立場となって、業界人はむしろ誇らしく生きていくべきだと思うようになりました。価値あるものを作ってお金にしていくという当たり前のことでした。</p>
+<h2>カスタムフィールド製造業の様子</h2>
+<p>今回のポッドキャストの中で、カスタムフィールド製造業そのものについての認識にもだいぶ隔たりがあることが分かり、整理してみたいと思いました。</p>
+<p>僕が思っていたこの業態の定義としては、以下のような感じになると思います。ポッドキャストの中で言及の合った、50万円〜300万円という価格帯も、以下の全部の作業が含まれるものとすれば、なるほどね、と思われるのではないでしょうか？</p>
+<ul>
+<li>カスタム投稿タイプが複数定義されている。つまり、コンテンツのタイプが普通のブログやシンプルな会社のサイトよりは多い。</li>
+<li>各カスタム投稿タイプのうち、特に、投稿や固定ページ以外のものに、複数のカスタムフィールドが定義されている。フィールドの数は、少ない場合だと5個位で、多いものでは100個位。</li>
+<li>実際にフィールドを埋める作業、つまりコンテンツを作る作業は、クリエイティブな作業というよりは、作成されているフォームへの入力作業であることが多い。</li>
+<li>その他、投稿タイプ同士だったり、ユーザーとだったり、カスタムタクソノミーとの紐付け、引用などもよくある。</li>
+<li>検索、複数のフィールド（投稿メタとタクソノミが使われる）による掛け合わせ検索、絞り込み検索などもよくある。</li>
+<li>仕事の流れとしては、以下を含む。
+<ul>
+<li>クライアント企業のビジネスの内容、表示させるべき内容、検索をするのかどうかなどをヒアリングする。</li>
+<li>その結果にもとづいて、投稿タイプ、タクソノミ、投稿メタといういわゆるカスタム三兄弟をどう組み合わせるのかを考える。</li>
+<li>管理画面の入力欄の作成（これと、フィールドの定義が同時に行われる）。</li>
+<li>その出力画面を作る（この段階で、別途行われてきたデザインやコーディングと組み合わさる）。</li>
+<li>検索を作る。</li>
+<li>検索結果や、トップやタクソノミーでの一覧ページを作る。</li>
+<li>実際の入力を実施してもらい、若干の修正を行う。</li>
+</ul>
+</li>
+</ul>
+<p>ポッドキャストの中でわかったのは、ヒアリングや設計などの上流の工程を行う人と、実際に定義をしたり出力のためのテーマの編集をしたりする人がバラバラである場合もあるということでした。その場合、決まったものを実現するだけの作業であるなら、たしかに20万円からのスタートでもできるのかもしれないなぁ、と思います。</p>
+<h2>グーテンベルクとカスタムフィールド製造業の未来</h2>
+<p>ポッドキャストの中でも触れましたが、グーテンベルクという新エディタがやってきたとき、カスタムフィールド製造業はどうなるのか？ということについて、僕の予想を書いておきたいと思います。</p>
+<ul>
+<li>基本的にはあんまり影響がない。</li>
+<li>カスタムフィールドと一言で言っても、実はいろいろな種類があり、特に以下の2つは大きく違う。
+<ul>
+<li>スライドショーやテキストエリア、特定の場所に表示される画像、テーブルなどの、表示に関わる部分。これは、グーテンベルクのブロックに吸収される。コンテンツエリアに内包されるようになる（編集画面での見え方と実際の表側の画面での見え方も一致するだろうし、テーマでは <code>the_content</code> で一気に出力される)。</li>
+<li>分類、価格、日付などの検索やソートに使われるデータは、引き続きメタボックスなのか、グーテンベルクの右側のエリアなのか場所はわからないけれども、カスタムフィールドに残る。</li>
+</ul>
+</li>
+<li>上記のうち、表示に関わる部分についてはグーテンベルクのブロックに取り込まれていくが、デフォルトでは実現できないもの、たとえばスライドショーだとか複雑な表組みだとかについては、プラグインからカスタムなブロックを追加できるようになる。</li>
+</ul>
+<p>表示や見た目、レイアウトに関わる部分が取り込まれるのは当然といえば当然です。グーテンベルクの目的のひとつに、「TinyMCEだとHTMLが分からないお客さんには入力できないものがあるけど、それがちゃんとできるようにしよう」というのがあります。これまでは、TinyMCEでたとえばカラムを2つにしたいだとかいうときに、それができないから、仕方なくカスタムフィールドを定義して、そこに入力すれば表側のHTMLが完成するようにしていたわけですが、これが必要ではなくなります。</p>
+<p>それとは別に、メタっぽいメタ、たとえば日付やSEO系のテキストなどについては、引き続きカスタムフィールドとして残るし、そもそも何をどう使うのかを考える作業だとか、検索をするところだとか、フロントを作り込むところなどはなくなりません。</p>
+<p>したがって、グーテンベルクのよいところを取り入れつつ、よりよいものを作っていくという形になるのではないでしょうか。</p>
+<p>&nbsp;</p>
+<h2>カスタムフィールドの作成に使われるプラグイン</h2>
+<p>ポッドキャストの中で触れたプラグインをいくつかご紹介します。</p>
+<ul>
+<li><a href="https://pods.io/">Home &#8211; Pods Framework</a>: これは便利そうです。次回からこれを使いたいと思っています。</li>
+<li><a href="https://github.com/humanmade/Custom-Meta-Boxes">humanmade/Custom-Meta-Boxes</a>: Human Made で開発・利用されているものです。詳しく見てみたいと思います。</li>
+<li><a href="https://wordpress.org/plugins/custom-field-suite/">Custom Field Suite</a>: 僕も使ったことがあります。</li>
+<li><a href="https://ja.wordpress.org/plugins/types/">Toolset Types</a>: これも一度利用したことがあります。</li>
+<li><a href="https://2inc.org/blog/category/products/wordpress_plugins/smart-custom-fields/">Smart Custom Fields – モンキーレンチ</a>: 北島さんのプラグインです。</li>
+<li><a href="https://github.com/tarosky/t]]></googleplay:description>
+											<itunes:image href="https://capitalp.jp/wp-content/uploads/2017/11/5c32dfd25650fb23702b49348dc40ee2.png"></itunes:image>
+						<googleplay:image href="https://capitalp.jp/wp-content/uploads/2017/11/5c32dfd25650fb23702b49348dc40ee2.png"></googleplay:image>
+										<enclosure url="https://capitalp.jp/podcast-download/2260/custom-fields-manufacturing-industry.mp3" length="154414525" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>2:40:51</itunes:duration>
+					<itunes:author>西川伸一</itunes:author>
+				</item>
+							<item>
+					<title>WordCamp Tokyo 振り返りポッドキャスト</title>
+					<link>https://capitalp.jp/2017/09/24/remember-wordcamp-tokyo-2017/</link>
+					<pubDate>Sun, 24 Sep 2017 07:34:28 +0000</pubDate>
+					<dc:creator>高橋 文樹</dc:creator>
+					<guid isPermaLink="false">https://capitalp.jp/?p=2147</guid>
+					<description><![CDATA[今回は去る9月16, 17日に行われたWordCamp Tokyo 2017の感想戦です。それぞれ違 [&#8230;]]]></description>
+					<itunes:subtitle><![CDATA[今回は去る9月16, 17日に行われたWordCamp Tokyo 2017の感想戦です。それぞれ違 ]]></itunes:subtitle>
+											<itunes:keywords>WordCamp</itunes:keywords>
+																														<content:encoded><![CDATA[<p>今回は去る9月16, 17日に行われたWordCamp Tokyo 2017の感想戦です。それぞれ違った視点からWordCampを振り返りますが、今回は「熱気があった」という感想を持ったようです。</p>
+<p>その他、4.8.2で発生したプラグインの後方互換性についてのディスカッションについても触れられています。</p>
+<p>なお、途中で完全に無言になっている人がいますが、これはコントリビューションの最中だったようです。素晴らしいですね！</p>
+<p>※アイキャッチ画像がタクシーの領収書なのは、私が撮った写真がこれしかなかったからです。生まれて、すみません。</p>
+<h2>関連リンク</h2>
+<ul>
+<li><a href="https://github.com/WordPress/servehappy-resources/blob/master/tutorials/hosting-specific/tutorials-ja.md">Servehappy</a></li>
+<li><a href="https://core.trac.wordpress.org/ticket/41925">4.8.2のプラグイン後方互換性に付いての議論</a> Slackでも盛り上がっていたので、アカウントお持ちの方は検索してみるといいかもです。</li>
+</ul>
+<p>&nbsp;</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>今回は去る9月16, 17日に行われたWordCamp Tokyo 2017の感想戦です。それぞれ違った視点からWordCampを振り返りますが、今回は「熱気があった」という感想を持ったようです。</p>
+<p>その他、4.8.2で発生したプラグインの後方互換性についてのディスカッションについても触れられています。</p>
+<p>なお、途中で完全に無言になっている人がいますが、これはコントリビューションの最中だったようです。素晴らしいですね！</p>
+<p>※アイキャッチ画像がタクシーの領収書なのは、私が撮った写真がこれしかなかったからです。生まれて、すみません。</p>
+<h2>関連リンク</h2>
+<ul>
+<li><a href="https://github.com/WordPress/servehappy-resources/blob/master/tutorials/hosting-specific/tutorials-ja.md">Servehappy</a></li>
+<li><a href="https://core.trac.wordpress.org/ticket/41925">4.8.2のプラグイン後方互換性に付いての議論</a> Slackでも盛り上がっていたので、アカウントお持ちの方は検索してみるといいかもです。</li>
+</ul>
+<p>&nbsp;</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>今回は去る9月16, 17日に行われたWordCamp Tokyo 2017の感想戦です。それぞれ違った視点からWordCampを振り返りますが、今回は「熱気があった」という感想を持ったようです。</p>
+<p>その他、4.8.2で発生したプラグインの後方互換性についてのディスカッションについても触れられています。</p>
+<p>なお、途中で完全に無言になっている人がいますが、これはコントリビューションの最中だったようです。素晴らしいですね！</p>
+<p>※アイキャッチ画像がタクシーの領収書なのは、私が撮った写真がこれしかなかったからです。生まれて、すみません。</p>
+<h2>関連リンク</h2>
+<ul>
+<li><a href="https://github.com/WordPress/servehappy-resources/blob/master/tutorials/hosting-specific/tutorials-ja.md">Servehappy</a></li>
+<li><a href="https://core.trac.wordpress.org/ticket/41925">4.8.2のプラグイン後方互換性に付いての議論</a> Slackでも盛り上がっていたので、アカウントお持ちの方は検索してみるといいかもです。</li>
+</ul>
+<p>&nbsp;</p>
+]]></googleplay:description>
+											<itunes:image href="https://capitalp.jp/wp-content/uploads/2017/09/IMG_2440.jpg"></itunes:image>
+						<googleplay:image href="https://capitalp.jp/wp-content/uploads/2017/09/IMG_2440.jpg"></googleplay:image>
+										<enclosure url="https://capitalp.jp/podcast-download/2147/remember-wordcamp-tokyo-2017.mp3" length="124832227" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>2:28:37</itunes:duration>
+					<itunes:author>高橋 文樹</itunes:author>
+				</item>
+							<item>
+					<title>WordCamp Tokyo 2017直前ポッドキャスト</title>
+					<link>https://capitalp.jp/2017/09/07/podcast-for-wordcamp-tokyo-2017/</link>
+					<pubDate>Thu, 07 Sep 2017 02:04:22 +0000</pubDate>
+					<dc:creator>高橋 文樹</dc:creator>
+					<guid isPermaLink="false">https://capitalp.jp/?p=2090</guid>
+					<description><![CDATA[久しぶりのポッドキャスト更新です。今回は来週末に開催される WordCamp Tokyo 2017  [&#8230;]]]></description>
+					<itunes:subtitle><![CDATA[久しぶりのポッドキャスト更新です。今回は来週末に開催される WordCamp Tokyo 2017  ]]></itunes:subtitle>
+											<itunes:keywords>WordCamp,WordPressコア</itunes:keywords>
+																														<content:encoded><![CDATA[<p>久しぶりのポッドキャスト更新です。今回は来週末に開催される <a href="https://2017.tokyo.wordcamp.org">WordCamp Tokyo 2017</a> についてお送りいたします。参加にはチケット入手が必要なので、登録がまだの方は<a href="https://2017.tokyo.wordcamp.org/tickets">早めの入手</a>を！</p>
+<p><a href="https://capitalp.jp/2017/08/30/matt-talked-about-gutenberg-project-goal/">Gutenberg</a>や<a href="https://capitalp.jp/2017/08/21/does-facebook-license-affect-gutenberg/">Reactライセンス問題</a>、今回登壇者として話す3人（高橋・西川・宮内）それぞれのセッションについての解説、楽しみにしているセッションなどなど、いろんなお話で2時間盛り上がりました。</p>
+<p>男木島の鈴虫の音をBGMにお楽しみ下さい。</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>久しぶりのポッドキャスト更新です。今回は来週末に開催される <a href="https://2017.tokyo.wordcamp.org">WordCamp Tokyo 2017</a> についてお送りいたします。参加にはチケット入手が必要なので、登録がまだの方は<a href="https://2017.tokyo.wordcamp.org/tickets">早めの入手</a>を！</p>
+<p><a href="https://capitalp.jp/2017/08/30/matt-talked-about-gutenberg-project-goal/">Gutenberg</a>や<a href="https://capitalp.jp/2017/08/21/does-facebook-license-affect-gutenberg/">Reactライセンス問題</a>、今回登壇者として話す3人（高橋・西川・宮内）それぞれのセッションについての解説、楽しみにしているセッションなどなど、いろんなお話で2時間盛り上がりました。</p>
+<p>男木島の鈴虫の音をBGMにお楽しみ下さい。</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>久しぶりのポッドキャスト更新です。今回は来週末に開催される <a href="https://2017.tokyo.wordcamp.org">WordCamp Tokyo 2017</a> についてお送りいたします。参加にはチケット入手が必要なので、登録がまだの方は<a href="https://2017.tokyo.wordcamp.org/tickets">早めの入手</a>を！</p>
+<p><a href="https://capitalp.jp/2017/08/30/matt-talked-about-gutenberg-project-goal/">Gutenberg</a>や<a href="https://capitalp.jp/2017/08/21/does-facebook-license-affect-gutenberg/">Reactライセンス問題</a>、今回登壇者として話す3人（高橋・西川・宮内）それぞれのセッションについての解説、楽しみにしているセッションなどなど、いろんなお話で2時間盛り上がりました。</p>
+<p>男木島の鈴虫の音をBGMにお楽しみ下さい。</p>
+]]></googleplay:description>
+											<itunes:image href="https://capitalp.jp/wp-content/uploads/2017/09/FB-cover_speaker-2.jpg"></itunes:image>
+						<googleplay:image href="https://capitalp.jp/wp-content/uploads/2017/09/FB-cover_speaker-2.jpg"></googleplay:image>
+										<enclosure url="https://capitalp.jp/podcast-download/2090/podcast-for-wordcamp-tokyo-2017.mp3" length="117508798" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>2:19:53</itunes:duration>
+					<itunes:author>高橋 文樹</itunes:author>
+				</item>
+				</channel>
+</rss>

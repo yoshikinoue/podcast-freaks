@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0"><channel><description></description><title>clfreaks</title><generator>Tumblr (3.0; @common-lisp-freaks)</generator><link>http://clfreaks.org/</link><item><title>#17: 厄トリガー</title><description>&lt;p&gt;fukamachiの自宅にていつものメンバーの佐野とκeenに加え、久しぶりの岩崎さんに野望について聞きました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-17-yaku-trigger.mp3"&gt;Download MP3 (1:17:03 / 37MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://clfreaks.org/post/166271980259/14-tenkawamura-freaks-1"&gt;天川村フリークス (前編)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;岩崎さんの野望&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://opencollective.com/lem"&gt;lemへの寄付 (Open Collective)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/rove"&gt;fukamachi/rove&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/legion"&gt;fukamachi/legion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Roswellの動向&lt;/li&gt;
+&lt;li&gt;RustとSwaggerでAPIサーバー作ってる話&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://qiita.com/advent-calendar/2017/lisp"&gt;Lisp Advent Calendar 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/167658858729</link><guid>http://clfreaks.org/post/167658858729</guid><pubDate>Sun, 19 Nov 2017 22:44:15 +0900</pubDate><category>podcast</category></item><item><title>#16: 天川村フリークス (後編)</title><description>&lt;p&gt;三部構成となってしまいました。天川村フリークス、「後編」をどうぞ。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-16-tenkawamura-freaks-3.mp3"&gt;Download MP3 (1:15:31 / 36.3MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://github.com/gos-k"&gt;gos-k&lt;/a&gt;とは何者か&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/cxxxr/lem"&gt;cxxxr/lem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://electron.atom.io/"&gt;Electron&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/jsonrpc"&gt;fukamachi/jsonrpc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.bountysource.com/"&gt;Bountysource&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/jscl-project/jscl"&gt;JSCL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/167412389459</link><guid>http://clfreaks.org/post/167412389459</guid><pubDate>Mon, 13 Nov 2017 00:06:18 +0900</pubDate><category>podcast</category></item><item><title>#15: 天川村フリークス (中編)</title><description>&lt;p&gt;前回に引き続いて天川村TCOOLにて、管理人野口さんの野望を聞きました。&lt;/p&gt;
+
+&lt;p&gt;まだまだ続きます。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-15-tenkawamura-freaks-2.mp3"&gt;Download MP3 (1:35:04 / 43.6MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;野口さんの野望&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/cxxxr/lem"&gt;Lem&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/167152006869</link><guid>http://clfreaks.org/post/167152006869</guid><pubDate>Sun, 05 Nov 2017 19:06:24 +0900</pubDate><category>podcast</category></item><item><title>#14: 天川村フリークス (前編)</title><description>&lt;p&gt;なんと今回は奈良県天川村を訪問し、fukamachi、佐野、gos-kに加えて、TCOOLの館長ササキさん、管理人の野口さんでお送りします。&lt;/p&gt;
+
+&lt;p&gt;長いので、とりあえず前編！&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-14-tenkawamura-freaks-1.mp3"&gt;Download MP3 (1:22:54 / 39.8MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://github.com/cxxxr"&gt;cxxxr&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/cxxxr/lem"&gt;cxxxr/lem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;野口さんの野望&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://kansai-lisp-users.github.io/"&gt;関西Lispユーザ会&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.abetaya.com/hp/yutyou/kazenomori.html"&gt;風の森&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/166271980259</link><guid>http://clfreaks.org/post/166271980259</guid><pubDate>Wed, 11 Oct 2017 10:03:06 +0900</pubDate><category>podcast</category></item><item><title>#13: Throw Away Your Emacs</title><description>&lt;p&gt;今年最後のclfreaksは深町、佐野、κeenの3人でEmacs、Shibuya.lisp運営終了、ELS 2017、Roswellの話をしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-13-throw-away-your-emacs.mp3"&gt;Download MP3 (50:38 / 23.2MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://eudoxia.me/article/common-lisp-sotu-2015"&gt;State of the Common Lisp Ecosystem, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/cxxxr/lem"&gt;Lem&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/shibuya_lisp/status/803598808592461829"&gt;Shibuya.lisp運営終了のお知らせ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.european-lisp-symposium.org/editions/2017/"&gt;10th European Lisp Symposium 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/154877775924</link><guid>http://clfreaks.org/post/154877775924</guid><pubDate>Sat, 24 Dec 2016 13:06:36 +0900</pubDate><category>podcast</category></item><item><title>#12: Common Lisp Recipes 勝手に増補版</title><description>&lt;p&gt;明けましておめでとうございます。&lt;/p&gt;
+
+&lt;p&gt;今年初のclfreaksは、いつもの深町、κeen、佐野に加え、ゲストとして元Symbolicsの橋本和幸さんを迎えて、Common Lisp Recipesに物申したり、Lisp Meet Up 3周年の話をしました。Common Lispの未来はどうなるのか？&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-12-common-lisp-recipes-plus.mp3"&gt;Download MP3 (1:24:05 / 38.5MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Common Lisp Recipesを買う予定の方は電子書籍版がおすすめです。&lt;/p&gt;
+
+&lt;p&gt;&lt;img src="http://f.st-hatena.com/images/fotolife/n/nitro_idiot/20160124/20160124105149_original.jpg?1453600342" alt="鈍器"/&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.apress.com/9781484211779"&gt;Common Lisp Recipes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://weitz.de/cl-ppcre/"&gt;CL-PPCRE&lt;/a&gt;, &lt;a href="http://weitz.de/cl-who/"&gt;CL-WHO&lt;/a&gt;, &lt;a href="http://weitz.de/drakma/"&gt;Drakma&lt;/a&gt;, &lt;a href="http://weitz.de/hunchentoot/"&gt;Hunchentoot&lt;/a&gt;, &lt;a href="http://weitz.de/flexi-streams"&gt;flexi-streams&lt;/a&gt;, &lt;a href="http://weitz.de/cl-fad/"&gt;CL-FAD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/nitro_idiot/status/690047577295695872"&gt;fukamachi on Twitter: &amp;ldquo;Reading Common Lisp Recipes, I felt like Edi Weitz is living in the other Common Lisp world than mine.&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://clfreaks.org/post/127915262664/state-of-the-common-lisp-ecosystem-2015"&gt;#11: Common Lisp現状確認会2015 | #clfreaks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://eudoxia.me/article/common-lisp-sotu-2015"&gt;State of the Common Lisp Ecosystem, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.gigamonkeys.com/book/"&gt;Practical Common Lisp&lt;/a&gt; / &lt;a href="http://www.amazon.co.jp/dp/4274067211"&gt;実践Common Lisp (翻訳書)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://keens.github.io/blog/2016/01/17/dokugakudepuroguraminguwoyattekitanakadeyokattagijutsushowoageteiku/"&gt;独学でプログラミングをやってきた中で良かった技術書50選 | κeenのHappy Hacκing Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lisp.connpass.com/event/25546/"&gt;Lisp Meet Up presented by Shibuya.lisp #36&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/takagi/common-lisp-script"&gt;takagi/common-lisp-script&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/davazp/jscl"&gt;davazp/jscl&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://d.hatena.ne.jp/shi3z/20140123/1390429115"&gt;これがプログラミングの神髄だ! ファイナルファンタジーのプログラマーが明かす秘密とLispトークバトル! - shi3zの長文日記&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.8arrow.org/entry/2014/01/19/180013"&gt;高機能なCommon LispのO/Rマッパー「Integral」を作りました - 八発白中&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.8arrow.org/entry/2014/10/23/063044"&gt;Cより高速なCommon Lispコードを書く - 八発白中&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.emacswiki.org/emacs-test/ParEdit"&gt;ParEdit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://shaunlebron.github.io/parinfer/"&gt;Parinfer - simpler Lisp editing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/137885712779</link><guid>http://clfreaks.org/post/137885712779</guid><pubDate>Sun, 24 Jan 2016 01:42:45 +0900</pubDate><category>podcast</category></item><item><title>#11: Common Lisp現状確認会2015</title><description>&lt;p&gt;fukamachi、佐野、κeen、takagiの4人で、Native TravisCI supportの進捗、ECL 16.0.0、ISUCON、Zenekindarl、State of the Common Lisp Ecosystem, 2015の話をしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-11-state-of-the-common-lisp-ecosystem-2015.mp3"&gt;Download MP3 (1:29:05 / 40.8MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://blog.cddr.org/2015/07/28/native-travisci-support-for-common-lisp/"&gt;Native TravisCI Support&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lisp-travis"&gt;lisp-travis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://common-lisp.net/project/ecl/files/ecl-16.0.0-announcement.html"&gt;ECL 16.0.0&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://common-lisp.net/project/mkcl/"&gt;MKCL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://isucon.net/archives/45166655.html"&gt;ISUCON5 オンライン予選&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/woo"&gt;Woo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://8arrow.org/caveman/"&gt;Caveman2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://clacklisp.org"&gt;Clack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/myway"&gt;myway&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/KeenS/zenekindarl"&gt;Zenekindarl&lt;/a&gt;リリース&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://common-lisp.net/project/cl-emb/"&gt;CL-EMB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://mmontone.github.io/djula/doc/build/html/index.html"&gt;Djula&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/eudoxia0/eco"&gt;Eco&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://eudoxia.me/article/common-lisp-sotu-2015/"&gt;State of the Common Lisp Ecosystem, 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://common-lisp.net/project/osicat/"&gt;OSICAT&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://common-lisp.net/project/iolib/"&gt;IOLib&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://common-lisp.net/project/asdf"&gt;UIOP&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cliki.net/Current%20recommended%20libraries"&gt;CLiki: Current recommended libraries&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cliki.net/cl-launch"&gt;cl-launch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/dexador"&gt;Dexador&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/Rudolph-Miller/jonathan"&gt;Jonathan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://github.com/Rudolph-Miller/jonathan"&gt;Legion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://marijnhaverbeke.nl/postmodern/"&gt;Postmodern&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.weitz.de/cl-fad/"&gt;CL-FAD&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/capitaomorte/sly"&gt;Sly&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://common-lisp.net/project/xcvb/"&gt;XCVB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/cldm/cldm"&gt;CLDM&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/127915262664</link><guid>http://clfreaks.org/post/127915262664</guid><pubDate>Sun, 30 Aug 2015 12:51:10 +0900</pubDate><category>podcast</category></item><item><title>#10: その無職に継続性はあるか</title><description>&lt;p&gt;今回はいつもの3人と、久しぶりに名和田さんを迎えて、SourceForge、Ceramic、Quicklisp badge、Native TravisCI support、にゃわたさんの生存戦略、Shibuya.lispの話をしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-10-continuous-no-job.mp3"&gt;Download MP3 (1:43:35 / 47.5MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://twitter.com/nitro_idiot/status/625682677966856192"&gt;@nitro_idiot: もっと #clfreaks podcast のマイクの質を上げて欲しいというフィードバックをいただきました&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sourceforge.net/blog/sourceforge-infrastructure-and-service-restoration-update-for-728/"&gt;SourceForge Infrastructure and Service Restoration update for 7/28&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://sbcl.org"&gt;SBCL official web site&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/snmsts/roswell"&gt;Roswell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://travis-ci.org"&gt;Travis CI&lt;/a&gt;, &lt;a href="http://circleci.com"&gt;CircleCI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://helb.github.io/goodbye-sourceforge/"&gt;Goodbye, SourceForge!&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ecls.sourceforge.net"&gt;ECL: Embeddable Common Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/luismbo/cl-travis"&gt;cl-travis by luismbo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ceramic.github.io"&gt;Ceramic by Fernando&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://eudoxia.me/lucerne/"&gt;Lucerne by Fernando&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://electron.atom.io"&gt;Electron by GitHub&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://shinmera.github.io/qtools/"&gt;Qtools by Shinmera&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://quickdocs.org"&gt;Quickdocs.org&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://gist.github.com/fukamachi/104f19f3c61539edb24c"&gt;Quicklisp badge&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.cddr.org/2015/07/28/native-travisci-support-for-common-lisp/"&gt;Native TravisCI Support for Common Lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://clfreaks.org/post/108341635899/1-cim-vs-roswell"&gt;clfreaks #1: CIM vs Roswell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://shibuya.lisp-users.org"&gt;Shibuya.lisp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/126181736729</link><guid>http://clfreaks.org/post/126181736729</guid><pubDate>Sun, 09 Aug 2015 01:08:46 +0900</pubDate><category>podcast</category></item><item><title>#9: 殺したいライブラリ</title><description>&lt;p&gt;fukamachi、佐野 (snmsts)、Rudolph Millerの3人で、ハマりやすいライブラリとその問題、代替物について話をしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-9-libraries-that-should-die.mp3"&gt;Download MP3 (0:49:04 / 22.5MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://weitz.de/drakma/"&gt;Drakma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/gwkkwg/trivial-http"&gt;trivial-http&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://puri.b9.com"&gt;PURI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://clfreaks.org/post/110355575004/2-lispers-be-neat"&gt;clfreaks #2: Lisperよニートたれ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/dexador"&gt;Dexador&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/quri"&gt;QURI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/HansHuebner/status/619378693526433792"&gt;@HansHuebner: If you&amp;rsquo;re using DRAKMA, note that release 2.0.0 is out which replaces PURI by QURI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/madnificent/jsown"&gt;jsown&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Rudolph-Miller/jonathan"&gt;Jonathan&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://sites.google.com/site/sabraonthehill/home/json-libraries"&gt;Json libraries - SabraOnTheHill&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://common-lisp.net/project/asdf/"&gt;ASDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://common-lisp.net/project/xcvb/"&gt;XCVB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/123813673534</link><guid>http://clfreaks.org/post/123813673534</guid><pubDate>Sun, 12 Jul 2015 00:51:36 +0900</pubDate><category>podcast</category></item><item><title>#8: 本名は”Zenekindarl”</title><description>&lt;p&gt;fukamachi、佐野 (snmsts)、Rudolph、κeen、takagi、meymaoの6人で、実践Common Lisp増刷、プログラミング学習の難しさ、Arrows (a.k.a Zenekindarl)、Quicklispへのライブラリ登録方法、RoswellのGoへの移植、意外なShebangの話、キーボード配列 (Dvorak) やキー配置の話をしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-8-real-name-of-the-templating-engine.mp3"&gt;Download MP3 (1:43:42 / 47.5MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://shop.ohmsha.co.jp/shop/shopdetail.html?brandcode=000000001789&amp;amp;search=978-4-274-06721-1"&gt;実践Common Lisp&lt;/a&gt;増刷&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/KeenS/arrows"&gt;Arrows (a.k.a Zenekindarl) by κeen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/quicklisp/quicklisp-projects/blob/master/README"&gt;Quicklisp Projects README&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://blog.quicklisp.org/2010/11/devils-guide-to-quicklisp-projects.html"&gt;The devil&amp;rsquo;s guide to Quicklisp projects&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/qlot"&gt;Qlot by fukamachi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://clfreaks.org/post/111669970789/3-the-process-of-wooizing"&gt;clfreaks #3: 魂がウー化する過程&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://clfreaks.org/post/119683451969/7-who-are-you"&gt;clfreaks #7: お前は誰だ。&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/snmsts/roswell"&gt;Roswell by snmsts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/mattn_jp/status/609197424733655040"&gt;@mattn_jp: roswell はやく windows 対応しないかな&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://keens.github.io/blog/2015/06/26/anatanoshiranaishebang/"&gt;あなたの知らないShebang | κeenのHappy Hacκing Blog&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/Dvorak%E9%85%8D%E5%88%97"&gt;Dvorak配列&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/Kinesis"&gt;Kinesis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://bitbucket.org/lyro/evil/wiki/Home"&gt;Evil: An extensible vi layer for Emacs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://ja.wikipedia.org/wiki/SKK"&gt;SKK&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://emacswiki.org/emacs/ParEdit"&gt;Par Edit&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/purcell/ac-slime"&gt;ac-slime.el&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/.emacs.d"&gt;.emacs.d by fukamachi&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/122599802954</link><guid>http://clfreaks.org/post/122599802954</guid><pubDate>Sun, 28 Jun 2015 01:33:03 +0900</pubDate><category>podcast</category></item><item><title>#7: お前は誰だ。</title><description>&lt;p&gt;いつものメンバー、fukamachi、Rudolph、snmsts、高木に加えて、初参加で松山 (&lt;a href="https://twitter.com/m2ym"&gt;@m2ym&lt;/a&gt;)さんを招いてRoswell scriptやCL-LLVM、Qlotなどの話をしました。&lt;/p&gt;
+
+&lt;p&gt;clfreaksへのフィードバック&amp;mdash;&amp;mdash;意見、感想、次回聞きたいことなど&amp;mdash;&amp;mdash;はTwitterのハッシュタグ「&lt;a href="https://twitter.com/search?q=clfreaks&amp;amp;f=tweets"&gt;#clfreaks&lt;/a&gt;」にて募集しております。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-7-who-are-you.mp3"&gt;Download MP3 (1:14:06 / 35.6MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://twitter.com/search?q=clfreaks&amp;amp;f=tweets"&gt;Hashtag #clfreaks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/snmsts/roswell"&gt;Roswell&lt;/a&gt; Script&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/clack/blob/master/roswell/clackup.ros"&gt;clackup.ros&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://atnd.org/events/66264"&gt;Lisp Meet Up presented by Shibuya.lisp #28&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/KeenS/CIM"&gt;KeenS/CIM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/sellout/CL-LLVM"&gt;sellout/CL-LLVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Rudolph-Miller/CL-LLVM"&gt;Rudolph-Miller/CL-LLVM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/qlot"&gt;fukamachi/qlot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cldm.github.com/cldm"&gt;CLDM: Common Lisp Dependency Manager&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://common-lisp.net/project/asdf/"&gt;ASDF&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://common-lisp.net/project/xcvb/"&gt;XCVB&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.quicklisp.org/beta/bundles.html"&gt;Quicklisp library bundles&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.reddit.com/r/lisp/comments/3579m8/clisp_needs_maintainers/"&gt;CLISP needs maintainers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/drmeister/clasp"&gt;Clasp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/119683451969</link><guid>http://clfreaks.org/post/119683451969</guid><pubDate>Sun, 24 May 2015 00:04:26 +0900</pubDate><category>podcast</category></item><item><title>#6: Japanese geeks were in London</title><description>&lt;p&gt;fukamachi、snmsts、Rudolph、名和田、Masataro Asai、高木、岡田の7人で、先月ロンドンで開催されたEuropean Lisp Symposiumや、実践Common Lisp増刷の話をしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-6-japanese-geeks-were-in-london.mp3"&gt;Download MP3 (1:03:42 / 29.2MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.european-lisp-symposium.org"&gt;8th European Lisp Symposium&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lispnyc.org"&gt;LispNYC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.meetup.com/balisp/"&gt;Bay Area Lisp &amp;amp; Scheme Users Group&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.slideshare.net/fukamachi/woo-writing-a-fast-web-server-els2015"&gt;Woo: Writing a fast web server @ ELS2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/snmsts/roswell"&gt;Roswell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/KeenS/CIM"&gt;CIM&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/snmsts/status/586047998376939520"&gt;実践Common Lisp増刷&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://lispblog.xach.com/post/117680567688/edi-weitz-is-writing-a-common-lisp-book"&gt;Edi Weitz is writing a Common Lisp book&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/117946466164</link><guid>http://clfreaks.org/post/117946466164</guid><pubDate>Sun, 03 May 2015 01:16:01 +0900</pubDate><category>podcast</category></item><item><title>#5: 良いtagbody、悪いtagbody、最低なtagbody</title><description>&lt;p&gt;fukamachi、snmsts、Rudolph Miller、高木の4人で、来月行われるELS (ヨーロピアンLispシンポジウム)やClackなどの話をしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-5-the-good-tagbody-the-bad-tagbody-the-ugly-tagbody.mp3"&gt;Download MP3 (1:13:25 / 35.2MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://www.european-lisp-symposium.org"&gt;ELS 2015&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/clack"&gt;Clack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/lack"&gt;Lack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/proc-parse"&gt;Proc-Parse: Procedual vector parser&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://takagi.github.io/2015/03/01/pic/"&gt;PIC: A native compiler for 8-bit PIC micro controllers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.reddit.com/r/lisp_ja/comments/30cfn0/%E7%A7%81%E5%AE%B6%E7%89%88common_lisp_%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%AE%E3%83%AC%E3%83%99%E3%83%AB10/"&gt;Common Lispプログラマ レベル10&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.sampou.org/haskell/ll2005/"&gt;Haskellプログラマのレベル10&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/114846823754</link><guid>http://clfreaks.org/post/114846823754</guid><pubDate>Sun, 29 Mar 2015 00:26:14 +0900</pubDate><category>podcast</category></item><item><title>#4: 鴨川フリークス</title><description>&lt;p&gt;fukamachi、Rudolph Miller、岩崎の3人で鴨川沿いに座って、「読むと面白いCommon Lispライブラリ」や「Clack v2.0.0」の話をしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-4-kamogawa-freaks.mp3"&gt;Download MP3 (56:09 / 25.8MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="https://github.com/fukamachi/sxql"&gt;SxQL&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/integral"&gt;Integral&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Rudolph-Miller/dyna"&gt;Dyna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/cl-cookie/blob/master/src/util.lisp"&gt;cl-cookie の util.lisp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/fast-http"&gt;fast-http&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/quri"&gt;QURI&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/cl-cookie"&gt;cl-cookie&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://weitz.de/hunchentoot/"&gt;Hunchentoot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://common-lisp.net/project/alexandria/"&gt;Alexandria&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/qlot"&gt;Qlot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/lack"&gt;Lack&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/clack/pull/102"&gt;Clackのv2.0.0開始&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://8arrow.org/caveman/"&gt;Caveman2&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://expressjs.com"&gt;Express&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/113868393439</link><guid>http://clfreaks.org/post/113868393439</guid><pubDate>Tue, 17 Mar 2015 21:14:22 +0900</pubDate><category>podcast</category></item><item><title>#3: 魂がウー化する過程</title><description>&lt;p&gt;fukamachi、κeen、Masataro Asai、Rudolph Millerの4人で怪獣の話をしました。ウー。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-3-the-process-of-wooizing.mp3"&gt;Download MP3 (1:22:03 / 39.4MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="https://gumroad.com/l/clfreaks-3-transcript"&gt;Transcript (Japanese/English)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://keens.github.io/blog/2015/02/10/mensetsudeLispwokuchinishiteochinaikigyouwatashikininarimasu/"&gt;面接でLispを口にして落ちない企業、私気になります！&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://atcoder.jp"&gt;AtCoder&lt;/a&gt;のCLサポート&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://www.hackerrank.com"&gt;HackerRank&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/Rudolph-Miller/dyna"&gt;Dyna&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%9E%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A"&gt;ウルトラマンダイナ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://f-shin.net/fsgarage/2837"&gt;Lenovo G50がWebSocketにつながらない由々しき話&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/dexador"&gt;Dexador&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%9E%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%81%AE%E7%99%BB%E5%A0%B4%E6%80%AA%E7%8D%A3#.E9.AB.98.E9.80.9F.E6.80.AA.E7.8D.A3_.E3.83.87.E3.82.AD.E3.82.B5.E3.83.89.E3.83.AB"&gt;高速怪獣 デキサドル&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/orthecreedence/carrier"&gt;carrier&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/orthecreedence/blackbird"&gt;blackbird&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E3%83%9E%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8A%E3%81%AE%E7%99%BB%E5%A0%B4%E6%80%AA%E7%8D%A3#.E5.BF.B5.E5.8A.9B.E7.A8.AE.E6.97.8F_.E3.82.BC.E3.83.8D.E3.82.AD.E3.83.B3.E3.83.80.E3.83.BC.E3.83.AB.E4.BA.BA"&gt;念力種族 ゼネキンダール人&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/legion"&gt;Legion&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%AC%E3%82%AE%E3%82%AA%E3%83%B3_(%E6%9E%B6%E7%A9%BA%E3%81%AE%E6%80%AA%E7%8D%A3)"&gt;宇宙怪獣 レギオン&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/lmj/lparallel"&gt;lparallel&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/zkat/cl-speedy-queue"&gt;cl-speedy-queue&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://clfreaks.org/post/110355575004/2-lispers-be-neat"&gt;Lisperよ、ニートたれ&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://atnd.org/events/62568"&gt;Lisp Meetup #25&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&amp;ldquo;Lisp&amp;quot;と言ったときに指すもの&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%83%BC_(%E3%82%A6%E3%83%AB%E3%83%88%E3%83%A9%E6%80%AA%E7%8D%A3)"&gt;ウー (ウルトラ怪獣)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/111669970789</link><guid>http://clfreaks.org/post/111669970789</guid><pubDate>Sun, 22 Feb 2015 02:21:00 +0900</pubDate><category>podcast</category></item><item><title>#2: Lisperよ、ニートたれ</title><description>&lt;p&gt;fukamachi、Rudolph Millerに加え、&lt;a href="http://guicho271828.github.io"&gt;Masataro Asai&lt;/a&gt;さんを新たにメンバーに迎えて最近のCommon LispのWeb開発の話や、Asaiさんが開発中の&lt;a href="https://github.com/guicho271828/eazy-process"&gt;eazy-process&lt;/a&gt;の話をしました。&lt;/p&gt;
+
+&lt;p&gt;&lt;a href="http://audio.clfreaks.org/clfreaks-2-lispers-be-neat.mp3"&gt;Download MP3 (1:06:27 / 30.5MB)&lt;/a&gt;&lt;/p&gt;
+
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+
+&lt;ul&gt;&lt;li&gt;&lt;a href="http://somewrite.connpass.com/event/11318/"&gt;Clack Meetup #1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/woo"&gt;Woo: A fast non-blocking HTTP server&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/legend_uu"&gt;伝説怪獣 ウー&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://twitter.com/nitro_idiot/status/563849731080605697"&gt;Ultraman vs Woo&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://engineer.typemag.jp/article/somewrite_cto"&gt;好きなCommon Lispで新しいWeb開発を～京大中退、22歳のサムライトCTOが取り組んだシステム再構築 - エンジニアtype&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://metahack.org/index-j.html"&gt;福永研究室&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Neats_vs._scruffies"&gt;Neats vs. scruffies - Wikipedia, the free encyclopedia&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/John_McCarthy_(computer_scientist)"&gt;John McCarthy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Steve_Russell"&gt;Steve Russell&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://en.wikipedia.org/wiki/Rodney_Brooks"&gt;Rodney Brooks&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/guicho271828/eazy-process"&gt;eazy-process by Masataro Asai&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.stackoverflow.com/questions/1724/"&gt;UNIXのパイプ処理のようにストリームを扱いたい - Stack Overflow&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cl21.org/"&gt;CL21&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://qiita.com/tags/%E5%B0%8F%E8%AA%AC%E5%AE%B6%E3%81%AB%E3%81%AA%E3%82%8D%E3%81%86"&gt;Qiita小説: 小説家になろう&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/110355575004</link><guid>http://clfreaks.org/post/110355575004</guid><pubDate>Sun, 08 Feb 2015 02:49:00 +0900</pubDate><category>podcast</category></item><item><title>#1: CIM vs Roswell</title><description>&lt;p&gt;snmstsさん、κeenさん、Rudolph Millerさんと4人で、Common Lispの処理系管理ツールである「CIM」と「Roswell」について話しました。&lt;/p&gt;
+&lt;p&gt;&lt;a class="download-link" href="http://audio.clfreaks.org/clfreaks-1-cim-vs-roswell.mp3"&gt;Download MP3 (1:10:58 / 34.1MB)&lt;/a&gt;&lt;/p&gt;
+&lt;h4&gt;Show Notes&lt;/h4&gt;
+&lt;ul class="shownotes"&gt;&lt;li&gt;&lt;a href="https://github.com/KeenS/CIM" title="CIM by κeen" target="_blank"&gt;CIM by κeen&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/snmsts/roswell" title="Roswell by snmsts" target="_blank"&gt;Roswell by snmsts&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/shelly" title="Shelly" target="_blank"&gt;Shelly by fukamachi&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/luismbo/cl-travis" target="_blank"&gt;cl-travis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://cliki.net/cl-launch" target="_blank"&gt;cl-launch&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://fare.tunes.org/files/asdf3/asdf3-2014.html" target="_blank"&gt;ASDF 3, or Why Lisp is Now an Acceptable Scripting Language&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://www.lisperati.com/logo.html" target="_blank"&gt;made with secret alien technology&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://ja.wikipedia.org/wiki/%E3%83%AD%E3%82%BA%E3%82%A6%E3%82%A7%E3%83%AB%E4%BA%8B%E4%BB%B6" target="_blank"&gt;ロズウェル事件&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/qlot" target="_blank"&gt;qlot&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="http://keens.github.io/blog/2014/11/30/quicklisp/" target="_blank"&gt;require, ASDF, quicklispを正しく使う&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href="https://github.com/fukamachi/woo/pull/6/files" target="_blank"&gt;Got a great pull request for Woo.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;</description><link>http://clfreaks.org/post/108341635899</link><guid>http://clfreaks.org/post/108341635899</guid><pubDate>Sat, 17 Jan 2015 21:43:00 +0900</pubDate><category>podcast</category></item></channel></rss>

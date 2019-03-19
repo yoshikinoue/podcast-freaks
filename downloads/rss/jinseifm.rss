@@ -1,0 +1,629 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://kirimin.github.io/jinseifm/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://kirimin.github.io/jinseifm/</link>
+    <title>人生fm</title>
+    <description>人生fmはきりみんちゃんの知り合いにゲストとして出演してもらい、主に生い立ちやエンジニアになった経緯、今後の人生について思っていることなどを自由に語ってもらうポッドキャストです。</description>
+    <media:keywords>podcast,エモい,人生,エンジニア,プログラマ,働き方,Android</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>人生fmはきりみんちゃんの知り合いにゲストとして出演してもらい、主に生い立ちやエンジニアになった経緯、今後の人生について思っていることなどを自由に語ってもらうポッドキャストです。</itunes:subtitle>
+    <itunes:author>kirimin</itunes:author>
+    <itunes:summary>人生fmはきりみんちゃんの知り合いにゲストとして出演してもらい、主に生い立ちやエンジニアになった経緯、今後の人生について思っていることなどを自由に語ってもらうポッドキャストです。</itunes:summary>
+    <itunes:keywords>podcast,エモい,人生,エンジニア,プログラマ,働き方,Android</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>kirimin</itunes:name>
+      <itunes:email>minkarakirimade@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://kirimin.github.io/jinseifm/images/artwork.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>8.「今入れているんだったらその立場を利用しない理由はない」</title>
+        <link>https://kirimin.github.io/jinseifm/episode/8</link>
+        <pubDate>Mon, 18 Mar 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h1 id=&quot;show-note&quot;&gt;Show note&lt;/h1&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;自己紹介
+    &lt;ul&gt;
+      &lt;li&gt;いろいろやっているエンジニア志望の大学2年生&lt;/li&gt;
+      &lt;li&gt;筑波大学情報学群情報メディア創成学類所属&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;これまでの経緯
+    &lt;ul&gt;
+      &lt;li&gt;アウトプットをし始めたのは高校2年生のとき&lt;/li&gt;
+      &lt;li&gt;小学生
+        &lt;ul&gt;
+          &lt;li&gt;親のパソコンを使ってインターネット&lt;/li&gt;
+          &lt;li&gt;DSiやWiiが最初の自分のインターネット閲覧環境&lt;/li&gt;
+          &lt;li&gt;小学校高学年になったときにノートパソコンを買ってもらう
+            &lt;ul&gt;
+              &lt;li&gt;「朝刊太郎」というソフトで学級新聞のようなものをつくる&lt;/li&gt;
+              &lt;li&gt;WordやExcelをちょっと使う&lt;/li&gt;
+              &lt;li&gt;Visual Basicの本を買ってもらうが挫折&lt;/li&gt;
+              &lt;li&gt;ビジュアルプログラミングのScratchを父親に勧められるが、プログラミングをしている感が薄くあまりやらない&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;はてブを見てプログラミングやプログラマに憧れていた&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;中学生
+        &lt;ul&gt;
+          &lt;li&gt;DTMに興味を持つ
+            &lt;ul&gt;
+              &lt;li&gt;オーディオインターフェースやマイクなど&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;デスクトップパソコンを買ってもらう&lt;/li&gt;
+          &lt;li&gt;AviUtlで動画編集&lt;/li&gt;
+          &lt;li&gt;Adobe Photoshop Elements &amp;amp; Adobe Premiere Elements を買ってもらうが機能不足を感じる&lt;/li&gt;
+          &lt;li&gt;Adobe CS6 Production Premiumを買ってもらう
+            &lt;ul&gt;
+              &lt;li&gt;AEをメインで使用&lt;/li&gt;
+              &lt;li&gt;後にCCへ移行することに……&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;この頃は映像クリエーターになりたかった&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;高校生
+        &lt;ul&gt;
+          &lt;li&gt;VOCALOIDやCeVIOとDAWをバイトして買う&lt;/li&gt;
+          &lt;li&gt;情報セキュリティスペシャリストを取る
+            &lt;ul&gt;
+              &lt;li&gt;何度か落ちた末の合格&lt;/li&gt;
+              &lt;li&gt;情報処理安全確保支援士に登録する
+                &lt;ul&gt;
+                  &lt;li&gt;高くね?&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;通信制高校に転入学してからは長野県内の高校の文化祭情報サイトに熱中する
+            &lt;ul&gt;
+              &lt;li&gt;最初はHTMLを人力で入力&lt;/li&gt;
+              &lt;li&gt;WordPressに移行
+                &lt;ul&gt;
+                  &lt;li&gt;関連キーワードでのGoogle検索1位&lt;/li&gt;
+                  &lt;li&gt;文化祭の集中する日にはアクセスユーザー1400人&lt;/li&gt;
+                  &lt;li&gt;累計PVは約15万&lt;/li&gt;
+                  &lt;li&gt;途中からAdSenseを導入し、合計で3万5千円ぐらいの収益&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;筑波大学のAC入試にこれについてのレポートを提出して合格&lt;/li&gt;
+              &lt;li&gt;大学進学後も更新を続けていたが、モチベーションがなくなりサイト削除&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;大学生
+        &lt;ul&gt;
+          &lt;li&gt;学類にSlackを導入する&lt;/li&gt;
+          &lt;li&gt;学園祭実行委員会に入る
+            &lt;ul&gt;
+              &lt;li&gt;全体で300人規模&lt;/li&gt;
+              &lt;li&gt;情報システム局
+                &lt;ul&gt;
+                  &lt;li&gt;2年生では局長&lt;/li&gt;
+                  &lt;li&gt;会社の情シスと似たことをしていた&lt;/li&gt;
+                  &lt;li&gt;Railsで学園祭に関わるアプリケーション開発
+                    &lt;ul&gt;
+                      &lt;li&gt;頑張ってはいたけどあまりうまくはいかなかったかも&lt;/li&gt;
+                    &lt;/ul&gt;
+                  &lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Railsdm#3の動画編集を手伝う
+            &lt;ul&gt;
+              &lt;li&gt;それがあってRailsdm2019運営スタッフになる&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;大学を卒業するか今すぐ就職するか悩んでる
+    &lt;ul&gt;
+      &lt;li&gt;大学の勉強は実務に役に立つのか&lt;/li&gt;
+      &lt;li&gt;自分のスキル感が分からない話&lt;/li&gt;
+      &lt;li&gt;インターン先をどうやって探すか&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;企業は学生にどういう能力を求めているのか&lt;/li&gt;
+  &lt;li&gt;セキュリティに興味がある話&lt;/li&gt;
+  &lt;li&gt;英語と数学を頑張りたいの話&lt;/li&gt;
+  &lt;li&gt;今の立場を利用しよう&lt;/li&gt;
+  &lt;li&gt;一歩一歩ステップアップしていこう&lt;/li&gt;
+  &lt;li&gt;やってきたことは無駄にならない&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://kirimin.github.io/jinseifm/episode/8</guid>
+        <enclosure url="https://kirimin.github.io/jinseifm/audio/8.mp3" length="" type="audio/mp3"/>
+        <itunes:author>kirimin</itunes:author>
+        <itunes:subtitle>Masato SUGIYAMAさんをゲストに迎え、生い立ち、大学、進路相談などについて話しました。</itunes:subtitle>
+        <itunes:duration>02:00:23</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://kirimin.github.io/jinseifm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>7.「今の組織でできることを100パーセントやってる？やってないよね？」</title>
+        <link>https://kirimin.github.io/jinseifm/episode/7</link>
+        <pubDate>Sun, 10 Mar 2019 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;#show note&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;エンジニアになった経緯
+    &lt;ul&gt;
+      &lt;li&gt;伊豆大島出身、全校生徒27人の中学校にいた
+        &lt;ul&gt;
+          &lt;li&gt;周りの友達が海で魚介類乱獲したり家に集まってWiiとかで遊んでる中、ひたすらポケモンの厳選作業に明け暮れるヤバイ中学生(≠友達がいなかった訳ではない)&lt;/li&gt;
+          &lt;li&gt;ズバットを76匹ひたすら倒し続ける、乱数調整から「乱数」の概念を知る&lt;/li&gt;
+          &lt;li&gt;「高校から島出たいなー」「モノづくりしたいなー」の軽い言葉を当時の校長が拾ってくれて、高専進学が決まる&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;高専5年間で色々ヤバイ人間と無限に接しながら、プログラミングの基礎知識を身に着ける&lt;/li&gt;
+      &lt;li&gt;高専卒業後の進路
+        &lt;ul&gt;
+          &lt;li&gt;大学編入学の予定
+            &lt;ul&gt;
+              &lt;li&gt;進路考えるのが嫌すぎて勉強から逃げていたら第一志望落ちる&lt;/li&gt;
+              &lt;li&gt;受かった第二志望は家庭の事情で授業料が払えず新年度初日から休学&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;プー太郎回避のため、先輩の伝手を頼り就職活動開始(卒業2ヶ月前)&lt;/li&gt;
+          &lt;li&gt;今の会社を紹介してもらい、面接もどきを3回くらいやって内定(弊社初の新卒社員)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;エンジニアになってからの話
+    &lt;ul&gt;
+      &lt;li&gt;新卒からずっとAndroidエンジニア(学生時代大きなコンテストで半年間ガッツリAndroidアプリを開発した)
+        &lt;ul&gt;
+          &lt;li&gt;先輩のAndroidエンジニアがv1前のKotlinを本番投入→頑張って習得&lt;/li&gt;
+          &lt;li&gt;新卒3ヶ月でメンバーが半分以上転職し組織崩壊&lt;/li&gt;
+          &lt;li&gt;先輩Androidエンジニアもいなくなり、なし崩し的にAndroidのリードエンジニアに&lt;/li&gt;
+          &lt;li&gt;「人も組織も自分の努力の範囲の外で死ぬんだな」と悟った瞬間&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;なんかよくわからない内にWebのタスクを振られるようになる
+        &lt;ul&gt;
+          &lt;li&gt;既存コードのコードリーディングで頑張って文法習得(Rails Tutorialちゃんとやるべきだった…)&lt;/li&gt;
+          &lt;li&gt;プレーンなJSとEcmaScriptの違いすら知らない状態でゴリゴリのReact Reduxプロジェクトに投入される&lt;/li&gt;
+          &lt;li&gt;つよつよな先輩エンジニアに山程レビューしてもらう&lt;/li&gt;
+          &lt;li&gt;もっと先輩エンジニアを質問攻めにすればよかった&lt;/li&gt;
+          &lt;li&gt;RailsとReactでサーバーサイド・フロントエンドもタスク消化できるように&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;瀕死の会社を凄まじい開発スピードとめちゃくちゃできる営業・CSの力で復活
+        &lt;ul&gt;
+          &lt;li&gt;組織崩壊から半年で単月黒字達成&lt;/li&gt;
+          &lt;li&gt;何回か大炎上もあったけど&lt;/li&gt;
+          &lt;li&gt;めちゃくちゃできる営業・CS(=文系方面の人)の凄まじさを実感した瞬間&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;たった2名のAndroidチームのリーダー
+        &lt;ul&gt;
+          &lt;li&gt;好き勝手にやっている(RxJava導入したりアーキ入れてみたり)&lt;/li&gt;
+          &lt;li&gt;人から聞く、本を読む→なかなか身にならない&lt;/li&gt;
+          &lt;li&gt;手を動かさないと覚えられないので気になった技術はできる限り自分で実装&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;2年目の終わりになんちゃって転職活動
+        &lt;ul&gt;
+          &lt;li&gt;2年やって天狗→初めて行ったDroidKaigi 2018で鼻をへし折られる&lt;/li&gt;
+          &lt;li&gt;今の会社でこれまで通り仕事してて大丈夫なのか…？と不安に&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;結局残る
+        &lt;ul&gt;
+          &lt;li&gt;創業メンバーからものすごい勢いで引き留められた&lt;/li&gt;
+          &lt;li&gt;割とすぐに採用目前まで行った、数年くらいなら突然会社が死んでも食いっぱぐれることはなさそう&lt;/li&gt;
+          &lt;li&gt;今のポジションが信じられないくらい自由
+            &lt;ul&gt;
+              &lt;li&gt;メガベンチャーでつよい人と囲まれながら成長vs自分が道を切り拓いて周りに説明できるよう深く学ぶ&lt;/li&gt;
+              &lt;li&gt;メガベンチャーのつよい人、イベントで会えるのでは？&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;「今の組織でできることを100%やってる？やってないよね？」と気づく&lt;/li&gt;
+          &lt;li&gt;外部イベントへの登壇、個人ブログ立ち上げ、友人のメディア事業の技術的なサポート&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;3年目の終わりにDroidKaigi 2019に登壇
+        &lt;ul&gt;
+          &lt;li&gt;めっちゃ自信になった&lt;/li&gt;
+          &lt;li&gt;鼻をへし折られてから1年でしゃべる側になれた、なんとか生きていけそう&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;フルスタックっぽいポジションはなかなか楽しい、大変だけど&lt;/li&gt;
+      &lt;li&gt;登壇、採用系イベントにも顔を出しがち
+        &lt;ul&gt;
+          &lt;li&gt;人事兼任ポジションになっているらしい&lt;/li&gt;
+          &lt;li&gt;楽しい&lt;/li&gt;
+          &lt;li&gt;外の人と接して常に自分の立ち位置を確認しておきたい、いつ会社死ぬかわからないし&lt;/li&gt;
+          &lt;li&gt;社内で積極的にやる人あまりいないので、エンジニアサイドの広告塔としていいポジションとれる&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;#after show&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アイマスは人生
+    &lt;ul&gt;
+      &lt;li&gt;収録日の前日もライブ&lt;/li&gt;
+      &lt;li&gt;アイマスからエンジニアとして生き残るための精神的な部分を全て学んだ&lt;/li&gt;
+      &lt;li&gt;エンジニアはアイドルでありプロデューサー&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;シンデレラガールズ
+    &lt;ul&gt;
+      &lt;li&gt;190〜200人くらいアイドルがいる&lt;/li&gt;
+      &lt;li&gt;個性が強すぎてやばい&lt;/li&gt;
+      &lt;li&gt;身長186cm、霊感もち、持ち歌が演歌、高校生プログラマー etc.&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ベンチャーの世界の社会人・学生も同じように個性が強い、経歴が理解不能な人ばかり&lt;/li&gt;
+  &lt;li&gt;シンデレラガールズのアニメ
+    &lt;ul&gt;
+      &lt;li&gt;視聴中、無限に号泣&lt;/li&gt;
+      &lt;li&gt;巨大な芸能事務所・346プロダクションで13人の新人アイドルが頑張る話&lt;/li&gt;
+      &lt;li&gt;個性豊かすぎる仲間、既に数多くの実績を積んでいる先輩アイドル&lt;/li&gt;
+      &lt;li&gt;「仕事」としてやっているので、めっちゃシビアな話がある
+        &lt;ul&gt;
+          &lt;li&gt;アメリカ帰りの専務の一声でアイドル事業の方針が180度変わる&lt;/li&gt;
+          &lt;li&gt;メインの13人を先輩ポジションで見守ってきた子の仕事も方針が変わる(ギャル路線→大人)&lt;/li&gt;
+          &lt;li&gt;仕事はやる、けど思い通りじゃなくてめっちゃもやもや&lt;/li&gt;
+          &lt;li&gt;その子の妹も同じことで悩む→姉よりも先に答えを見つけて実践→姉の方も実践、ちょっといい方向に向く&lt;/li&gt;
+          &lt;li&gt;ラストの方で弱い面を曝け出して泣き出すシーンとかあって死ぬ😇(17話)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;自分が持つ固有のスキル(ダンス、歌唱力とか)、人間的な魅力を自ら自覚して、自力で芸能界を渡り歩く
+        &lt;ul&gt;
+          &lt;li&gt;「ガールズ・イン・ザ・フロンティア」の歌詞(https://petitlyrics.com/lyrics/2761116)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;エンジニアも同じく、つよつよな人ほどスキル(特定言語、Android、サーバーサイドとか)と人間的な魅力(カンファレンスの懇親会で話したりすると特に感じる)を持っていて、それをシチュエーションに応じて出し分けられる
+        &lt;ul&gt;
+          &lt;li&gt;自分もそうなりたい&lt;/li&gt;
+          &lt;li&gt;アイドル達の活動をゲームやライブで追っていくと趣味も仕事も満たされる→最強では？？？？？？？&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;プリパラの話&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;after-showはpixivfanboxで視聴できます&quot;&gt;After showはpixivFANBOXで視聴できます。&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.pixiv.net/fanbox/creator/13627594/post/313180&quot;&gt;https://www.pixiv.net/fanbox/creator/13627594/post/313180&lt;/a&gt;&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://kirimin.github.io/jinseifm/episode/7</guid>
+        <enclosure url="https://kirimin.github.io/jinseifm/audio/7.mp3" length="" type="audio/mp3"/>
+        <itunes:author>kirimin</itunes:author>
+        <itunes:subtitle>にしこりさぶろーさんをゲストに迎え、エンジニアになった経緯、ベンチャー企業でのキャリアなどについて話しました。</itunes:subtitle>
+        <itunes:duration>01:00:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://kirimin.github.io/jinseifm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>6.やりたいことがあったら自分のすべてをそれにコミットする。</title>
+        <link>https://kirimin.github.io/jinseifm/episode/6</link>
+        <pubDate>Mon, 14 Jan 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-note&quot;&gt;show note&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;エンジニアになった経緯
+    &lt;ul&gt;
+      &lt;li&gt;小学校の授業で検索とかやった&lt;/li&gt;
+      &lt;li&gt;パソコンほしくなって親にねだった&lt;/li&gt;
+      &lt;li&gt;最初はネットに繋がってなかった&lt;/li&gt;
+      &lt;li&gt;検索のすごさに気づいた&lt;/li&gt;
+      &lt;li&gt;12歳くらいの時に初めてプログラミングやった&lt;/li&gt;
+      &lt;li&gt;友だちとWebサイトつくったりしてた&lt;/li&gt;
+      &lt;li&gt;プログラミングはお金も場所も関係ない&lt;/li&gt;
+      &lt;li&gt;大学はCSに進むことにした&lt;/li&gt;
+      &lt;li&gt;学校は決められたことをやらされるからあんまり好きじゃなかった&lt;/li&gt;
+      &lt;li&gt;大学では先生の大事さにも気付いた&lt;/li&gt;
+      &lt;li&gt;関数型プログラミングが好きになってテトリスを作った&lt;/li&gt;
+      &lt;li&gt;ゲームやアニメが好きで日本に興味があった&lt;/li&gt;
+      &lt;li&gt;CLANNADは神&lt;/li&gt;
+      &lt;li&gt;掲示板の話&lt;/li&gt;
+      &lt;li&gt;インターネットで意見を言うということ&lt;/li&gt;
+      &lt;li&gt;ブログを書きたい&lt;/li&gt;
+      &lt;li&gt;言語の話&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;エンジニアになってからの話
+    &lt;ul&gt;
+      &lt;li&gt;日本語を勉強して日本に行ってみたいとは思ってた&lt;/li&gt;
+      &lt;li&gt;就職活動してた時に、日本人の彼女と出会って日本に行くことにした&lt;/li&gt;
+      &lt;li&gt;やりたいことに対して深く考えず全力でコミットするのが大事&lt;/li&gt;
+      &lt;li&gt;日本人の先生と知り合って日本人のエンジニアを紹介してもらった&lt;/li&gt;
+      &lt;li&gt;日本でインターンシップした&lt;/li&gt;
+      &lt;li&gt;日本で就職できた&lt;/li&gt;
+      &lt;li&gt;Wearableの開発をしていたからAndroidエンジニアになった&lt;/li&gt;
+      &lt;li&gt;スタートアップに転職したくなって仮想通貨取引所に転職した&lt;/li&gt;
+      &lt;li&gt;チーム開発の考え方などいろんなことを学んだ&lt;/li&gt;
+      &lt;li&gt;いろいろあってメルペイに転職した&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;after-show&quot;&gt;after show&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Kotlin化の話&lt;/li&gt;
+  &lt;li&gt;Kotlin最高&lt;/li&gt;
+  &lt;li&gt;Kotlinは普及してる？&lt;/li&gt;
+  &lt;li&gt;エンジニアの未来の話&lt;/li&gt;
+  &lt;li&gt;人類の未来の話&lt;/li&gt;
+  &lt;li&gt;大きな組織と小さな組織&lt;/li&gt;
+  &lt;li&gt;Androidエンジニアで飲み会したい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After showはpixiv FANBOXで公開しています。&lt;br /&gt;
+https://www.pixiv.net/fanbox/creator/13627594/post/257681&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://kirimin.github.io/jinseifm/episode/6</guid>
+        <enclosure url="https://kirimin.github.io/jinseifm/audio/6.mp3" length="" type="audio/mp3"/>
+        <itunes:author>kirimin</itunes:author>
+        <itunes:subtitle>jujuさんをゲストに迎え、エンジニアになった経緯、日本に興味を持ったきっかけなどについて話しました。</itunes:subtitle>
+        <itunes:duration>01:30:38</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://kirimin.github.io/jinseifm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>5.自分でコード書けないと駄目だなってその時思った。</title>
+        <link>https://kirimin.github.io/jinseifm/episode/5</link>
+        <pubDate>Thu, 27 Dec 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-note&quot;&gt;show note&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;スーパードンキーコング２の話&lt;/li&gt;
+  &lt;li&gt;大学院時代&lt;/li&gt;
+  &lt;li&gt;データ分析をしていた&lt;/li&gt;
+  &lt;li&gt;小学生時代&lt;/li&gt;
+  &lt;li&gt;FLASH黄金時代だった&lt;/li&gt;
+  &lt;li&gt;高校生時代&lt;/li&gt;
+  &lt;li&gt;雄弁部の話&lt;/li&gt;
+  &lt;li&gt;コンピューター研究部の話&lt;/li&gt;
+  &lt;li&gt;DTPやフォントへの興味&lt;/li&gt;
+  &lt;li&gt;ニコ○コ動画で画像収集していた&lt;/li&gt;
+  &lt;li&gt;大学生時代&lt;/li&gt;
+  &lt;li&gt;近代文学を読む読書サークル&lt;/li&gt;
+  &lt;li&gt;アプリケーションコンテストに出た話&lt;/li&gt;
+  &lt;li&gt;「Webサービスのつくり方」を読んだ&lt;/li&gt;
+  &lt;li&gt;少しずつプログラミングの勉強を始めた&lt;/li&gt;
+  &lt;li&gt;エンジニアになってからの話&lt;/li&gt;
+  &lt;li&gt;初期配属でAndroidエンジニアへ&lt;/li&gt;
+  &lt;li&gt;父と出会う&lt;/li&gt;
+  &lt;li&gt;アプリ内課金の話&lt;/li&gt;
+  &lt;li&gt;おがぱんさんとの開発&lt;/li&gt;
+  &lt;li&gt;技術書典の話&lt;/li&gt;
+  &lt;li&gt;これからやっていきたいこと&lt;/li&gt;
+  &lt;li&gt;エンジニアという仕事について&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;after-show&quot;&gt;after show&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;自作キーボードの話&lt;/li&gt;
+  &lt;li&gt;中国が面白い話&lt;/li&gt;
+  &lt;li&gt;深セン留学の話&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After showはpixiv FANBOXで公開しています。&lt;br /&gt;
+https://www.pixiv.net/fanbox/creator/13627594/post/239977&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://kirimin.github.io/jinseifm/episode/5</guid>
+        <enclosure url="https://kirimin.github.io/jinseifm/audio/5.mp3" length="" type="audio/mp3"/>
+        <itunes:author>kirimin</itunes:author>
+        <itunes:subtitle>ymndさんをゲストに迎え、青春時代、エンジニアになったきっかけなどについて話しました。</itunes:subtitle>
+        <itunes:duration>01:21:15</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://kirimin.github.io/jinseifm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>4. 情熱を持てることは何か。</title>
+        <link>https://kirimin.github.io/jinseifm/episode/4</link>
+        <pubDate>Wed, 26 Sep 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-note&quot;&gt;show note&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;大学は文学部日本文学科&lt;/li&gt;
+  &lt;li&gt;元々雑誌の編集者になりたかった&lt;/li&gt;
+  &lt;li&gt;大学に入ってサークルで執筆や紙面レイアウトやらやって紙業界に見切りをつけた
+    &lt;ul&gt;
+      &lt;li&gt;たまたまWebサイト運用担当になってプログラミングを始めた&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;新卒でSIerに入社
+    &lt;ul&gt;
+      &lt;li&gt;SIerよくdisられるけど偶然コードをしっかり書く部署に配属された(自前でJavaのフレームワーク作ってる人たちがいた)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;中途(23歳)でリクルート
+    &lt;ul&gt;
+      &lt;li&gt;Androidはじめる&lt;/li&gt;
+      &lt;li&gt;きりみん氏とたまたま同じくらいに現場に居合わせる&lt;/li&gt;
+      &lt;li&gt;アプリの開発とかライブラリチームのリーダーとか&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;社内異動でQuipper
+    &lt;ul&gt;
+      &lt;li&gt;konifarさんとかだるまさんとかと働いていた&lt;/li&gt;
+      &lt;li&gt;iOSとReactNativeをはじめた&lt;/li&gt;
+      &lt;li&gt;マネージャーもはじめた&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;技術アウトプットをするようになったきっかけ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;after-show&quot;&gt;after show&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;若者転職しすぎ問題&lt;/li&gt;
+  &lt;li&gt;キャリアが不安な話&lt;/li&gt;
+  &lt;li&gt;感情&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After showはpixiv FANBOXで公開しています。&lt;br /&gt;
+&lt;a href=&quot;https://www.pixiv.net/fanbox/creator/13627594/post/160108&quot;&gt;https://www.pixiv.net/fanbox/creator/13627594/post/160108&lt;/a&gt;&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://kirimin.github.io/jinseifm/episode/4</guid>
+        <enclosure url="https://kirimin.github.io/jinseifm/audio/4.mp3" length="" type="audio/mp3"/>
+        <itunes:author>kirimin</itunes:author>
+        <itunes:subtitle>hotchemiさんをゲストに迎え、エンジニアになったきっかけ、感情などについて話しました。</itunes:subtitle>
+        <itunes:duration>00:50:30</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://kirimin.github.io/jinseifm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>3. ロールモデルをかき集めて自分ができてる。</title>
+        <link>https://kirimin.github.io/jinseifm/episode/3</link>
+        <pubDate>Fri, 20 Jul 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-note&quot;&gt;show note&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;大学の頃の話&lt;/li&gt;
+  &lt;li&gt;ソフトウェアエンジニアを職にした経緯&lt;/li&gt;
+  &lt;li&gt;最初の会社の時の思い出&lt;/li&gt;
+  &lt;li&gt;最初の転職の経緯&lt;/li&gt;
+  &lt;li&gt;Androidをメインでやり始めた経緯&lt;/li&gt;
+  &lt;li&gt;ブログや登壇を始めた経緯&lt;/li&gt;
+  &lt;li&gt;初めてのGitHub OSS公開&lt;/li&gt;
+  &lt;li&gt;DroidKaigiアプリ&lt;/li&gt;
+  &lt;li&gt;Quipper転職&lt;/li&gt;
+  &lt;li&gt;英語との付き合い方&lt;/li&gt;
+  &lt;li&gt;すごい人たちの話&lt;/li&gt;
+  &lt;li&gt;エンジニアのキャリアとスキルセットの話&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;after-show&quot;&gt;after show&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;病気の話&lt;/li&gt;
+  &lt;li&gt;日々の焦りと不安の話&lt;/li&gt;
+  &lt;li&gt;年収と転職の話&lt;/li&gt;
+  &lt;li&gt;Kyashの話&lt;/li&gt;
+  &lt;li&gt;投げ銭にかける想い&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After showはpixiv FANBOXで公開しています。&lt;br /&gt;
+&lt;a href=&quot;https://www.pixiv.net/fanbox/creator/13627594/post/107253&quot;&gt;https://www.pixiv.net/fanbox/creator/13627594/post/107253&lt;/a&gt;&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://kirimin.github.io/jinseifm/episode/3</guid>
+        <enclosure url="https://kirimin.github.io/jinseifm/audio/3.mp3" length="" type="audio/mp3"/>
+        <itunes:author>kirimin</itunes:author>
+        <itunes:subtitle>konifarさんをゲストに迎え、エンジニアになったきっかけ、ブログや登壇を始めた経緯、エンジニアのキャリアなどについて話しました。</itunes:subtitle>
+        <itunes:duration>01:02:42</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://kirimin.github.io/jinseifm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>2. １時間調べてみて分からなかったら聞け。</title>
+        <link>https://kirimin.github.io/jinseifm/episode/2</link>
+        <pubDate>Tue, 03 Jul 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-note&quot;&gt;show note&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;えあんぬがエンジニアになったきっかけ&lt;/li&gt;
+  &lt;li&gt;大学の研究室でプログラミング書き始めた話&lt;/li&gt;
+  &lt;li&gt;１人だけPythonを研究室で書いてた&lt;/li&gt;
+  &lt;li&gt;アルバイトから就職してエンジニアに&lt;/li&gt;
+  &lt;li&gt;レコメンドエンジンとかやってた話&lt;/li&gt;
+  &lt;li&gt;１時間調べてみて分からなかったら聞け&lt;/li&gt;
+  &lt;li&gt;業務でやると身につく説&lt;/li&gt;
+  &lt;li&gt;JavaScriptに感動した話&lt;/li&gt;
+  &lt;li&gt;プロマネで大失敗してストレス限界を知る&lt;/li&gt;
+  &lt;li&gt;ボードゲームにハマったきっかけの話&lt;/li&gt;
+  &lt;li&gt;六角形とかの模様が好きな話&lt;/li&gt;
+  &lt;li&gt;ダムが好きな話&lt;/li&gt;
+  &lt;li&gt;散歩の話&lt;/li&gt;
+  &lt;li&gt;海外旅行の話&lt;/li&gt;
+  &lt;li&gt;飲酒&amp;amp;散歩&lt;/li&gt;
+  &lt;li&gt;写真の話&lt;/li&gt;
+  &lt;li&gt;昔二人で会った話&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;after-show&quot;&gt;after show&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;作曲の話&lt;/li&gt;
+  &lt;li&gt;だんだん時間が取れなくなる話&lt;/li&gt;
+  &lt;li&gt;VTuber談義&lt;/li&gt;
+  &lt;li&gt;Redux辛い話&lt;/li&gt;
+  &lt;li&gt;ライブラリ戦争の話&lt;/li&gt;
+  &lt;li&gt;モチベがなくなった時にどうするか話&lt;/li&gt;
+  &lt;li&gt;Twitter飽きないね&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After showはpixiv FANBOXで公開しています。&lt;br /&gt;
+&lt;a href=&quot;https://www.pixiv.net/fanbox/creator/13627594/post/94266&quot;&gt;https://www.pixiv.net/fanbox/creator/13627594/post/94266&lt;/a&gt;&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://kirimin.github.io/jinseifm/episode/2</guid>
+        <enclosure url="https://kirimin.github.io/jinseifm/audio/2.mp3" length="" type="audio/mp3"/>
+        <itunes:author>kirimin</itunes:author>
+        <itunes:subtitle>airtoxinさんをゲストに迎え、大学の研究室でプログラミング書き始めた話、学び方、ボードゲームにハマったきっかけ、散歩などについて話しました。</itunes:subtitle>
+        <itunes:duration>59:01</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://kirimin.github.io/jinseifm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>1. 人生は１回なんですよね。</title>
+        <link>https://kirimin.github.io/jinseifm/episode/1</link>
+        <pubDate>Tue, 12 Jun 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;show notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;しろやまさんの半生&lt;/li&gt;
+  &lt;li&gt;スタートアップの話&lt;/li&gt;
+  &lt;li&gt;大学中退と復学の話&lt;/li&gt;
+  &lt;li&gt;アメリカの話&lt;/li&gt;
+  &lt;li&gt;就労ビザの話&lt;/li&gt;
+  &lt;li&gt;アメリカ企業の面接&lt;/li&gt;
+  &lt;li&gt;エンジニアとして成長する方法&lt;/li&gt;
+  &lt;li&gt;どうやってすごい人のいる組織に入るか&lt;/li&gt;
+  &lt;li&gt;子育ての話&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;after-show&quot;&gt;after show&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;pixiv FANBOXの話&lt;/li&gt;
+  &lt;li&gt;フリーランスと正社員の話&lt;/li&gt;
+  &lt;li&gt;スキルセットの話&lt;/li&gt;
+  &lt;li&gt;日本企業の就労規則の話&lt;/li&gt;
+  &lt;li&gt;エージェントの話&lt;/li&gt;
+  &lt;li&gt;ストックオプションの話&lt;/li&gt;
+  &lt;li&gt;エンジニアと年収の話&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;After showはpixiv FANBOXで公開しています。
+&lt;a href=&quot;https://www.pixiv.net/fanbox/creator/13627594/post/77461&quot;&gt;こちらからどうぞ&lt;/a&gt;&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://kirimin.github.io/jinseifm/episode/1</guid>
+        <enclosure url="https://kirimin.github.io/jinseifm/audio/1.mp3" length="" type="audio/mp3"/>
+        <itunes:author>kirimin</itunes:author>
+        <itunes:subtitle>fushiroyamaさんをゲストに迎え、しろやまさんの半生、仕事、エンジニアとして成長する方法などについて話しました。</itunes:subtitle>
+        <itunes:duration>54:40</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://kirimin.github.io/jinseifm/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

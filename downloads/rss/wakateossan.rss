@@ -1,0 +1,1106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://wakateossan.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://wakateossan.github.io/</link>
+    <title>若手とおっさん</title>
+    <description>young engineer and old engineer discuss about tech and etc..</description>
+    <media:keywords>tech,technology,programming,mobile,web,development,developer,software,minor</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>young engineer and old engineer discuss about tech and etc..</itunes:subtitle>
+    <itunes:author>furu8ma</itunes:author>
+    <itunes:summary>young engineer and old engineer discuss about tech and etc..</itunes:summary>
+    <itunes:keywords>tech,technology,programming,mobile,web,development,developer,software,minor</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>furu8ma</itunes:name>
+      <itunes:email>furu8ma@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://wakateossan.github.io/images/artwork.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>35. bitcoinと指数平滑移動平均</title>
+        <link>https://wakateossan.github.io/episode/35</link>
+        <pubDate>Sat, 16 Mar 2019 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://consumer.huawei.com/jp/tablets/mediapad-m5-8/&quot;&gt;HUAWEI MediaPad M5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sevendata.co.jp/shihyou/technical/heikatsuidou.html&quot;&gt;指数平滑移動平均線の見方・使い方&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://folio-sec.com/?utm_source=a&amp;amp;utm_medium=google&amp;amp;utm_campaign=lstg&amp;amp;utm_content=1#&quot;&gt;folio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B079TLW41L/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1&quot;&gt;エンジニアリング組織論&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techplay.jp/&quot;&gt;TECH PLAY&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hubtokyo.com/&quot;&gt;HUB Tokyo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.iibc-global.org/toeic/test/lr/guide01.html&quot;&gt;TOEIC&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/35</guid>
+        <enclosure url="https://wakateossan.github.io/audio/35.mp3" length="5.5MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>fukuharaとfuru8maの2人で、bitcoinで資産形成の話や、勉強会に出た話をしました。</itunes:subtitle>
+        <itunes:duration>20:50</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>34. Aftershow 走るエンジニア</title>
+        <link>https://wakateossan.github.io/episode/34</link>
+        <pubDate>Fri, 08 Mar 2019 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hitech-half-marathon.net/&quot;&gt;ハイテクハーフマラソン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.moriya-half.jp/&quot;&gt;守谷ハーフマラソン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ダイエットについてきく&lt;/li&gt;
+  &lt;li&gt;走るより歩いたほうがやせる説&lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/34</guid>
+        <enclosure url="https://wakateossan.github.io/audio/34.mp3" length="5.5MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>ゲストにbigplantsを迎えて、ハーフマラソンを走った感想やダイエットについて語りました。</itunes:subtitle>
+        <itunes:duration>20:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>33. APMのせちがらいはなし</title>
+        <link>https://wakateossan.github.io/episode/33</link>
+        <pubDate>Sun, 03 Mar 2019 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/xray/&quot;&gt;AWS X-Ray使ってます&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://newrelic.com/&quot;&gt;New Relic のプライシング厳しい&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.datadoghq.com/ja/tracing/&quot;&gt;DataDogもAPMやっている&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://golang.org/&quot;&gt;GoLang&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mackerel.io/ja/&quot;&gt;mackerel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kubernetes.io/&quot;&gt;kubernetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.jetbrains.com/idea/&quot;&gt;IntelliJ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nuraphone.com/&quot;&gt;nuraphone&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/33</guid>
+        <enclosure url="https://wakateossan.github.io/audio/33.mp3" length="8.9MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>ゲストにbigplantsを迎えて、APMやGoLang、nuraphoneについて語りました。</itunes:subtitle>
+        <itunes:duration>31:52</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>32. Aftershow おっさんはYoutubeあまり面白く感じない問題</title>
+        <link>https://wakateossan.github.io/episode/32</link>
+        <pubDate>Sat, 23 Feb 2019 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/Jabra-%E3%82%B3%E3%83%83%E3%83%91%E3%83%BC%E3%83%96%E3%83%AB%E3%83%BC-Alexa%E5%AF%BE%E5%BF%9C%E5%AE%8C%E5%85%A8%E3%83%AF%E3%82%A4%E3%83%A4%E3%83%AC%E3%82%B9%E3%82%A4%E3%83%A4%E3%83%9B%E3%83%B3-%E9%98%B2%E5%A1%B5%E9%98%B2%E6%B0%B4IP56-%E3%80%90%E5%9B%BD%E5%86%85%E6%AD%A3%E8%A6%8F%E5%93%81%E3%80%91/dp/B07DFM1KPB&quot;&gt;Jabra Elite Active 65t がよい&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kaguya.love/&quot;&gt;かぐや様は告らせたい&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yorimoi.com/&quot;&gt;宇宙よりも遠い場所&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E6%9C%80%E5%BE%8C%E3%81%AB%E3%81%97%E3%81%A6%E6%9C%80%E5%88%9D%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB-%E3%83%8F%E3%83%A4%E3%82%AB%E3%83%AF%E6%96%87%E5%BA%ABJA-%E8%8D%89%E9%87%8E-%E5%8E%9F%E3%80%85/dp/4150313148&quot;&gt;最後にして最初のアイドル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://virtualsan-looking.jp/&quot;&gt;バーチャルさんはみている&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;おっさんはYoutubeあまりおもしろく感じない問題&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC4YaOt1yT-ZeyB0OmxHgolA&quot;&gt;キズナアイ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;おっさんは明日ハーフマラソン走ってきます&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/32</guid>
+        <enclosure url="https://wakateossan.github.io/audio/32.mp3" length="4.7MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>fukuharaとfuru8maの2人で、最近見ているアニメなどについて語りました。</itunes:subtitle>
+        <itunes:duration>17:02</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>31. 2月も半ばを過ぎたので2019年の抱負を語る</title>
+        <link>https://wakateossan.github.io/episode/31</link>
+        <pubDate>Fri, 15 Feb 2019 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;インフルエンザの話&lt;/li&gt;
+  &lt;li&gt;2019年は確定申告するぞ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/SOFT-SKILLS-%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E8%80%85%E3%81%AE%E4%BA%BA%E7%94%9F%E3%83%9E%E3%83%8B%E3%83%A5%E3%82%A2%E3%83%AB-%E3%82%B8%E3%83%A7%E3%83%B3%E3%83%BB%E3%82%BD%E3%83%B3%E3%83%A1%E3%82%BA/dp/4822251551&quot;&gt;SOFT SKILLS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bitcoin.org/ja/&quot;&gt;bitcoin で自動売買&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://folio-sec.com/?utm_source=a&amp;amp;utm_medium=google&amp;amp;utm_campaign=lstg&amp;amp;utm_content=1#&quot;&gt;folio で株やるぞ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;2019年は英語で仕事するぞ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iknow.jp/&quot;&gt;iKnow&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://eikaiwa.dmm.com/&quot;&gt;DMM英会話&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/31</guid>
+        <enclosure url="https://wakateossan.github.io/audio/31.mp3" length="5.2MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>fukuharaとfuru8maの2人で、2019年の抱負について語りました。</itunes:subtitle>
+        <itunes:duration>18:31</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>30. Aftershow ゾンビランドサガの衝撃</title>
+        <link>https://wakateossan.github.io/episode/30</link>
+        <pubDate>Sun, 03 Feb 2019 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zombielandsaga.com/&quot;&gt;ゾンビランドサガ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gridman.net/&quot;&gt;SSSS.GRIDMAN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sao-alicization.net/&quot;&gt;ソードアート・オンライン・アリシゼーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yorimoi.com/&quot;&gt;宇宙よりも遠い場所&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ossan.fm/&quot;&gt;Ossan.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashbros.com/ja_JP/&quot;&gt;大乱闘スマッシュブラザーズSPECIAL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/30</guid>
+        <enclosure url="https://wakateossan.github.io/audio/30.mp3" length="3.6MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>fukuharaとfuru8maの2人で、最近見たアニメやゲームの話をしました。</itunes:subtitle>
+        <itunes:duration>11:24</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>29. 2018年を振り返る</title>
+        <link>https://wakateossan.github.io/episode/29</link>
+        <pubDate>Tue, 15 Jan 2019 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;若手に聞く。成長を実感できたポイント。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00GD6ES2Q/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1&quot;&gt;喜嶋先生の静かな世界&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;おっさんに聞く。何歳でいくらもらっていれば人権ある生活ができるのか。&lt;/li&gt;
+  &lt;li&gt;おっさんに聞く。家庭を持って自分の時間が無い中でどうやって学習したり開発していくのか。&lt;/li&gt;
+  &lt;li&gt;2018年を振り返る。&lt;/li&gt;
+  &lt;li&gt;つきいち美食會。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vive.com/jp/&quot;&gt;HTC VIVE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oculus.com/go/&quot;&gt;Oculus Go&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://beatsaber.com/&quot;&gt;BEAT SABER&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;若手、走る。&lt;/li&gt;
+  &lt;li&gt;専門書を読む習慣。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/red?gl=JP&amp;amp;hl=ja&quot;&gt;YouTube Premium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/music?hl=ja&quot;&gt;Google Play music&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/29</guid>
+        <enclosure url="https://wakateossan.github.io/audio/29.mp3" length="11.0MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>fukuharaとfuru8maの2人で、2018年成長したところを振り返ったり、お金の話をしたりしました。</itunes:subtitle>
+        <itunes:duration>36:59</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>28. 2018年、若手とおっさんと、コンテンツ。</title>
+        <link>https://wakateossan.github.io/episode/28</link>
+        <pubDate>Sun, 06 Jan 2019 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shonenjumpplus.com/episode/13932016480029133982&quot;&gt;サマータイムレンダ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dic.nicovideo.jp/a/%E3%81%B2%E3%81%A8%E3%81%8B%E3%81%9F&quot;&gt;ひとかた&lt;/a&gt;
+※番組中では「牛鬼」と勘違いして呼んでいます。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yorimoi.com/&quot;&gt;宇宙よりも遠い場所&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tbs.co.jp/anime/soremachi/&quot;&gt;それでも町は廻っている&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.dq11.jp/&quot;&gt;ドラゴンクエストXI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashbros.com/ja_JP/&quot;&gt;大乱闘スマッシュブラザース&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/28</guid>
+        <enclosure url="https://wakateossan.github.io/audio/28.mp3" length="7.5MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、2018年を振り返ってお勧めのコンテンツについて語りました。</itunes:subtitle>
+        <itunes:duration>23:54</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>27. おっさんの社内立ち回り術。そしてPayPay。</title>
+        <link>https://wakateossan.github.io/episode/27</link>
+        <pubDate>Tue, 25 Dec 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kubernetes.io/&quot;&gt;kubenetes&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;若手とおっさんにはなにが求められているのか&lt;/li&gt;
+  &lt;li&gt;フリーランスと確定申告&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://paypay.ne.jp/&quot;&gt;PayPay&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kyash.co/&quot;&gt;kyash&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/27</guid>
+        <enclosure url="https://wakateossan.github.io/audio/27.mp3" length="7.1MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、kubernetesやPayPayについて語りました。</itunes:subtitle>
+        <itunes:duration>24:41</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>26. 三十路を超えたエンジニアはフルマラソンに出たり帰宅ランしたりする</title>
+        <link>https://wakateossan.github.io/episode/26</link>
+        <pubDate>Sun, 16 Dec 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tsukuba-marathon.com/&quot;&gt;つくばマラソン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.asics.com/jp/ja-jp/mk/running/kayano&quot;&gt;アシックス GEL-KAYANO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.zamst.jp/tetsujin/knee/runners-knee/&quot;&gt;ランナー膝&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nhk.or.jp/kenko/atc_610.html&quot;&gt;ランニングによるひざ痛を解消する運動&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/bigplants/status/1070293284499537920&quot;&gt;帰宅ラン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/26</guid>
+        <enclosure url="https://wakateossan.github.io/audio/26.mp3" length="9.3MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>ゲストにbigplantsを迎えて、ランについて語りました。</itunes:subtitle>
+        <itunes:duration>34:12</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>25. 自社プロダクトのCI実行時間を2.5時間から10分に短縮した話</title>
+        <link>https://wakateossan.github.io/episode/25</link>
+        <pubDate>Sun, 09 Dec 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.all-in.xyz/2018/11/19/rrrspec/&quot;&gt;自社プロダクトのCI実行時間を2.5時間から10分に短縮した話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cookpad/rrrspec&quot;&gt;RRRSpec&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://circleci.com/&quot;&gt;Circle CI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/codebuild/&quot;&gt;AWS CodeBuild&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/cloud-build/&quot;&gt;GC Cloud Build&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/jp/ipad-pro/?afid=p238%7CsX2jUZ2k2-dc_mtid_20925kvq40403_pcrid_307932534656_&amp;amp;cid=wwa-jp-kwgo-ipad-slid-&quot;&gt;iPadPro 11inch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.duetdisplay.com/jp/&quot;&gt;Duet display&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/25</guid>
+        <enclosure url="https://wakateossan.github.io/audio/25.mp3" length="11MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>ゲストにbigplantsを迎えて、CIの実行時間を劇的に短縮した話、新型iPadProについて話しました。</itunes:subtitle>
+        <itunes:duration>40:42</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>24. 若手、ポートフォーリオ公開する。</title>
+        <link>https://wakateossan.github.io/episode/24</link>
+        <pubDate>Fri, 30 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;fukuharaくんのポートフォリオ
+https://www.ririli.net/&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ririli.net/&quot;&gt;ririli’s Portfolio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netlify.com/&quot;&gt;netlify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.nuxtjs.org/&quot;&gt;nuxt.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/&quot;&gt;Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qrunch.io/&quot;&gt;Qrunch&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/24</guid>
+        <enclosure url="https://wakateossan.github.io/audio/24.mp3" length="4.9MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>fukuharaとfuru8maの2人で、ポートフォーリオを作った話、Qiita、Qrunchなどについて語りました。</itunes:subtitle>
+        <itunes:duration>17:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>23. iPad Pro 11 inch の引きが強すぎる</title>
+        <link>https://wakateossan.github.io/episode/23</link>
+        <pubDate>Sun, 18 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;Appleが顧客が本当に欲しかったものを出してきたという話。
+Googleがやっと日本に気をかけてくれたという話。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/jp/shop/buy-ipad/ipad-pro/11%E3%82%A4%E3%83%B3%E3%83%81%E3%81%AE%E3%83%87%E3%82%A3%E3%82%B9%E3%83%97%E3%83%AC%E3%82%A4-64gb-%E3%82%B7%E3%83%AB%E3%83%90%E3%83%BC-wifi&quot;&gt;iPad Pro 11inch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.google.com/jp/product/pixel_3?hl=ja-JP&amp;amp;utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=japac-JP--ja-dr-bkws-all-all-buy-e-dr-1005572&amp;amp;utm_content=text-ad-none-none-DEV_c-CRE_300903433615-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+%7C+Exact+-+Pixel-KWID_43700038847379854-kwd-452053555650-userloc_9053340&amp;amp;utm_term=KW_pixel3-ST_pixel3&amp;amp;gclid=CjwKCAiAlb_fBRBHEiwAzMeEdrEiS_tybID-9ekgt13Ei38UbCQ-IR3PASxIPqr6M_nx1t5Ap8qvJBoChikQAvD_BwE&amp;amp;gclsrc=aw.ds&quot;&gt;Pixel3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.google.com/jp/product/google_home?hl=ja-JP&amp;amp;hl=ja-JP&amp;amp;utm_source=google&amp;amp;utm_medium=cpc&amp;amp;utm_campaign=japac-JP--jp-dr-bkws-super-all-buy-e-dr-1005572&amp;amp;utm_content=text-ad-none-none-DEV_c-CRE_294181708027-ADGP_Hybrid+%7C+AW+SEM+%7C+BKWS+~+Exact+%7C+Home+%7C+%5B1:1%5D+%7C+JP+%7C+ja+%7C+google+home-KWID_43700036734054352-kwd-158648117-userloc_9053340&amp;amp;utm_term=KW_google%20home-ST_google+home&amp;amp;gclid=CjwKCAiAlb_fBRBHEiwAzMeEdjPJzJDuvP4N1vS4aLGWp3jVsG9fd5eBKdbrDoUThkdRLmZiCfidohoCQ3sQAvD_BwE&amp;amp;gclsrc=aw.ds&quot;&gt;Google Home&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/23</guid>
+        <enclosure url="https://wakateossan.github.io/audio/23.mp3" length="4.9MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>fukuharaとfuru8maの2人で、AppleやGoogleの新製品について語りました。</itunes:subtitle>
+        <itunes:duration>19:16</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>22. まだプリキュアおじさんは名乗れない</title>
+        <link>https://wakateossan.github.io/episode/22</link>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;若手とおっさん共通の課題、英語についての話。
+GoFは若手にとってはもはや化石なのか？&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://studysapuri.jp/&quot;&gt;スタディサプリ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.techscore.com/tech/DesignPattern/index.html/&quot;&gt;GoF デザインパターン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sao-alicization.net/&quot;&gt;SAO アリシゼーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ifttt.com/&quot;&gt;IFTTT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/22</guid>
+        <enclosure url="https://wakateossan.github.io/audio/22.mp3" length="3.8MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>fukuharaとfuru8maの2人で、TOEIC対策、オブジェクト指向、アニメなどについて語りました。</itunes:subtitle>
+        <itunes:duration>12:55</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>21. 技術書典５にいってきた</title>
+        <link>https://wakateossan.github.io/episode/21</link>
+        <pubDate>Sat, 03 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;技術書典がめちゃくちゃ楽しかった話。
+若手とおっさんで1番の若手初登場。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf05&quot;&gt;技術書典５&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soussune.com/&quot;&gt;SOUSSUNE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/laravel/laravel&quot;&gt;laravel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/vuejs/vue&quot;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.seohacks.net/basic/terms/pwa/&quot;&gt;PWA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/21</guid>
+        <enclosure url="https://wakateossan.github.io/audio/21.mp3" length="4.3MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>fukuharaとfuru8maの2人で、技術書典５などについて語りました。</itunes:subtitle>
+        <itunes:duration>15:12</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>20.5. 50代以降のぱっとしないエンジニアのキャリアパスについて考える</title>
+        <link>https://wakateossan.github.io/episode/20_5</link>
+        <pubDate>Sun, 21 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/poly_soft/items/dbca28f166d07070e8eb&quot;&gt;プログラミングが大好きなWeb系エンジニアの50代以降のキャリアに関する考察&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/20_5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/20_5.mp3" length="3.3MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、50代以降のエンジニアのキャリアパスなどについて語りました。</itunes:subtitle>
+        <itunes:duration>11:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>20. 睡眠カイゼン</title>
+        <link>https://wakateossan.github.io/episode/20</link>
+        <pubDate>Wed, 10 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/s/ref=nb_sb_noss_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;url=search-alias%3Daps&amp;amp;field-keywords=fitbit&amp;amp;rh=i%3Aaps%2Ck%3Afitbitk&quot;&gt;Fitbit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/s/ref=nb_sb_noss_1?__mk_ja_JP=%E3%82%AB%E3%82%BF%E3%82%AB%E3%83%8A&amp;amp;url=search-alias%3Daps&amp;amp;field-keywords=garmin&amp;amp;rh=i%3Aaps%2Ck%3Agarmin&quot;&gt;Garmin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%AC%E3%83%A0%E7%9D%A1%E7%9C%A0&quot;&gt;レム睡眠,ノンレム睡眠&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dentsu-ho.com/articles/5514&quot;&gt;仕事の生産性を上げるべく『最高の睡眠』をとってみた。&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/20</guid>
+        <enclosure url="https://wakateossan.github.io/audio/20.mp3" length="7.4MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、睡眠カイゼンなどについて語りました。</itunes:subtitle>
+        <itunes:duration>24:13</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>19.5. 金剛筋シャツのステマ回</title>
+        <link>https://wakateossan.github.io/episode/19_5</link>
+        <pubDate>Tue, 25 Sep 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/s/?ie=UTF8&amp;amp;keywords=%E7%AD%8B%E9%87%91%E5%89%9B%E3%82%B7%E3%83%A3%E3%83%84&amp;amp;index=aps&amp;amp;jp-ad-ap=0&amp;amp;tag=googhydr-22&amp;amp;ref=pd_sl_86v6iz5ruc_b&amp;amp;adgrpid=56087342049&amp;amp;hvpone=&amp;amp;hvptwo=&amp;amp;hvadid=259173237562&amp;amp;hvpos=1t2&amp;amp;hvnetw=g&amp;amp;hvrand=536469089566587330&amp;amp;hvqmt=b&amp;amp;hvdev=c&amp;amp;hvdvcmdl=&amp;amp;hvlocint=&amp;amp;hvlocphy=1009255&amp;amp;hvtargid=aud-492029006128:kwd-472491010229&quot;&gt;金剛筋シャツ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/19_5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/19_5.mp3" length="4.1MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>ゲストにbigplantsを迎えて、ダイエットとランなどについて語りました。</itunes:subtitle>
+        <itunes:duration>14:58</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>19. Helmはべんり</title>
+        <link>https://wakateossan.github.io/episode/19</link>
+        <pubDate>Tue, 18 Sep 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://helm.sh/&quot;&gt;Helm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kubernetes/ingress-nginx&quot;&gt;ingress-nginx&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/load-balancing/&quot;&gt;Google Cloud Load Balanicing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/19</guid>
+        <enclosure url="https://wakateossan.github.io/audio/19.mp3" length="6.6MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>ゲストにbigplantsを迎えて、KubernetesのパッケージマネージャであるHelmの便利さについて話しました。</itunes:subtitle>
+        <itunes:duration>25:12</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>18. GKEで無限ステージング環境</title>
+        <link>https://wakateossan.github.io/episode/18</link>
+        <pubDate>Sat, 08 Sep 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/kubernetes-engine/&quot;&gt;GKE / Google Kubernetes Engine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/source-repositories&quot;&gt;Cloud Source Repositories&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/cloud-build/&quot;&gt;Cloud Build&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/18</guid>
+        <enclosure url="https://wakateossan.github.io/audio/18.mp3" length="4.9MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>bigplantsとfuru8maの2人で、ステージング環境を無限に構築する方法などについて語りました。</itunes:subtitle>
+        <itunes:duration>17:49</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>17. 早く帰ろう</title>
+        <link>https://wakateossan.github.io/episode/17</link>
+        <pubDate>Mon, 03 Sep 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.android.com/versions/pie-9-0/&quot;&gt;Android 9 Pie&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.com/Essential-Phone-Halo-Edge-Edge/dp/B078SQ7GWK/ref=sr_1_1?s=wireless&amp;amp;ie=UTF8&amp;amp;qid=1535955874&amp;amp;sr=1-1&amp;amp;keywords=essential+phone&quot;&gt;Essential Phone @ Amazon.com&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bookwalker.jp&quot;&gt;bookwalker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/product/B0186FESEE/ref=amb_link_1?pf_rd_m=AN1VRQENFRJN5&amp;amp;pf_rd_s=merchandised-search-1&amp;amp;pf_rd_r=9PKE1Z7Z4B42F8GAMNRE&amp;amp;pf_rd_r=9PKE1Z7Z4B42F8GAMNRE&amp;amp;pf_rd_t=101&amp;amp;pf_rd_p=32166d14-d179-44cf-9358-1d19a25210fd&amp;amp;pf_rd_p=32166d14-d179-44cf-9358-1d19a25210fd&amp;amp;pf_rd_i=2250738051&quot;&gt;kindle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/17</guid>
+        <enclosure url="https://wakateossan.github.io/audio/17.mp3" length="6.5MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、早く帰る方法、Android Pieなどについて語りました。</itunes:subtitle>
+        <itunes:duration>21:09</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>16.5. Aftershow シュタゲゼロと中二病</title>
+        <link>https://wakateossan.github.io/episode/16_5</link>
+        <pubDate>Thu, 16 Aug 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://steinsgate0-anime.com/&quot;&gt;シュタインズゲート ゼロ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://darli-fra.jp/&quot;&gt;ダーリン・イン・ザ・フランキス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/3%C3%973_EYES&quot;&gt;3X3 EYES&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/16_5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/16_5.mp3" length="5.7MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、シュタインズゲート ゼロ、中二病、漫画などについて語りました。</itunes:subtitle>
+        <itunes:duration>25:34</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>16. GCNext'18に行ってきた &amp; フリーランスになった</title>
+        <link>https://wakateossan.github.io/episode/16</link>
+        <pubDate>Mon, 06 Aug 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.withgoogle.com/next18/sf/&quot;&gt;GCNext’18&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/16</guid>
+        <enclosure url="https://wakateossan.github.io/audio/16.mp3" length="17MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、GCNext'18に行ってきた話やフリーランスになった話、などについて語りました。</itunes:subtitle>
+        <itunes:duration>46:48</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>15. YETIのマイクが壊れた話</title>
+        <link>https://wakateossan.github.io/episode/15</link>
+        <pubDate>Tue, 17 Jul 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.bluedesigns.jp/products/yeti/&quot;&gt;YETI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/product/B00I3VWQF0/ref=oh_aui_detailpage_o04_s00?ie=UTF8&amp;amp;psc=1&quot;&gt;サンワサプライ USBヘッドセット&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://aws.amazon.com/jp/blogs/news/aws-fargate-tokyo/&quot;&gt;AWS Fargate 東京リージョン サービス開始のお知らせ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/15</guid>
+        <enclosure url="https://wakateossan.github.io/audio/15.mp3" length="4.2MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、YETIのマイクが壊れた話、などについて語りました。</itunes:subtitle>
+        <itunes:duration>15:41</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>14. レガシーシステムとの付き合い方</title>
+        <link>https://wakateossan.github.io/episode/14</link>
+        <pubDate>Tue, 10 Jul 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;規模は大きいがリファクタできるほど稼げているわけではない。そんなシステムとの付き合い方。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://doocts.com/3403&quot;&gt;仮想通貨マイニング（Coinhive）で家宅捜索を受けた話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://coinhive.jp/&quot;&gt;Coinhiveで支援しよう&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/14</guid>
+        <enclosure url="https://wakateossan.github.io/audio/14.mp3" length="6.4MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、レガシーシステムとの付き合い方、などについて語りました。</itunes:subtitle>
+        <itunes:duration>21:31</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>13.5. Aftershowはアニメの話をする</title>
+        <link>https://wakateossan.github.io/episode/13_5</link>
+        <pubDate>Sun, 17 Jun 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://wotakoi-anime.com/&quot;&gt;オタクに恋は難しい&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://p5a.jp/&quot;&gt;ペルソナ5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bookwalker.jp/&quot;&gt;bookwalker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://magazinewalker.jp/&quot;&gt;マガジンwalker&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/13_5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/13_5.mp3" length="7.6MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、オタクに恋は難しい、などについて語りました。</itunes:subtitle>
+        <itunes:duration>22:41</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>13. Essential Phone をオススメする回</title>
+        <link>https://wakateossan.github.io/episode/13</link>
+        <pubDate>Thu, 14 Jun 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.essential.com/jp&quot;&gt;Essential Phone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.android.com/preview/devices/?hl=ja&quot;&gt;Android P Beta端末&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Effective Programming&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/13</guid>
+        <enclosure url="https://wakateossan.github.io/audio/13.mp3" length="12.5MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、Essential Phone,iPhone無限リスタートバグ,Effective Programmingなどについて語りました。</itunes:subtitle>
+        <itunes:duration>34:47</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>12.5. AfterShow 技術書典にいけなかった話</title>
+        <link>https://wakateossan.github.io/episode/12_5</link>
+        <pubDate>Tue, 05 Jun 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.anpanman.jp/&quot;&gt;アンパンマン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf04&quot;&gt;技術書典4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf04/circle/16530001&quot;&gt;今日からはじめる技術Podcast 完全入門&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yurucamp.jp/&quot;&gt;ゆるキャン△&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://news.nicovideo.jp/watch/nw3469467&quot;&gt;『SHIROBAKO』劇場版制作が決定&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.conan-movie.jp/&quot;&gt;コナン 劇場版&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/12_5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/12_5.mp3" length="7.5MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、アンパンマンのマーチ、技術書典への想い、ゆるキャン△などについて語りました。</itunes:subtitle>
+        <itunes:duration>24:11</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>12. 仲間を見送る心情</title>
+        <link>https://wakateossan.github.io/episode/12</link>
+        <pubDate>Wed, 16 May 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/exec/obidos/ASIN/B01MAW2294/amazletjp-22/ref=nosim/&quot;&gt;Google WiFi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.vim.org/&quot;&gt;Vim&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaoriya.net/software/vim/&quot;&gt;Kaoriya&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;仲間を見送る心情&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/12</guid>
+        <enclosure url="https://wakateossan.github.io/audio/12.mp3" length="8.9MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、自宅WiFi環境、vimの良さ、仲間を見送る心情について語りました。</itunes:subtitle>
+        <itunes:duration>29:46</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>11. Ubuntuの良さを語る</title>
+        <link>https://wakateossan.github.io/episode/11</link>
+        <pubDate>Mon, 07 May 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://insights.ubuntu.com/2018/04/26/ubuntu-18-04-lts-optimised-for-security-multi-cloud-containers-ai&quot;&gt;Ubuntu 18.04LTS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.co.jp/search?q=xcode+%E8%A4%87%E6%95%B0%E3%83%90%E3%83%BC%E3%82%B8%E3%83%A7%E3%83%B3&amp;amp;oq=xcode&amp;amp;aqs=chrome.0.69i59j69i57j69i61j69i60j69i61j0.2507j0j7&amp;amp;client=ubuntu&amp;amp;sourceid=chrome&amp;amp;ie=UTF-8&quot;&gt;Xcode 複数バージョン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.docker.com/&quot;&gt;サーバーサイドの救世主 Docker&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=TX173u2Ry7A&quot;&gt;Think different&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.archlinux.org/&quot;&gt;arch linux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;WindowManagerについて語る(WindowManagerというよりはデスクトップ環境の話)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kledgeb.blogspot.jp/2017/04/ubuntu-1804-1-unitygnomeubuntu-phone.html&quot;&gt;Unity その8 - Unityの終焉、デスクトップ環境がGNOMEに変わる・Ubuntu Phoneからも撤退&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.ubuntu.com/Unity/HUD&quot;&gt;Unity HUD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gihyo.jp/admin/serial/01/ubuntu-recipe/0204&quot;&gt;Unity Lens&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wiki.archlinux.jp/index.php/X_KeyBoard_extension&quot;&gt;xkb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;キーボードカスタマイズしすぎると他人のキーボードで生産性が落ちる問題&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/exec/obidos/ASIN/4798125229/amazletjp-22/ref=nosim/&quot;&gt;独習Linux&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://dex.fm/&quot;&gt;dex.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://support.google.com/youtube/answer/6373554?hl=ja&quot;&gt;YouTube 自動字幕起こし機能を使用する&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;英語でアニメ見る&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lang-8.com/&quot;&gt;Lang-8&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/11</guid>
+        <enclosure url="https://wakateossan.github.io/audio/11.mp3" length="8.6MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、Ubuntuの良さ、英語学習について語りました。</itunes:subtitle>
+        <itunes:duration>27:39</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>10.5 AfterShow おっさんが「恋は雨上がりのように」を語る</title>
+        <link>https://wakateossan.github.io/episode/10_5</link>
+        <pubDate>Fri, 04 May 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;収録していない時にいいこと語る問題&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.audacityteam.org/&quot;&gt;Audacity&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf04&quot;&gt;技術書典4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/video/offers/ref=dvm_jp_pv_sl_go_001_001_231036611717_mk_x4cmkbq1-dc_sd_?ie=UTF8&amp;amp;tag=pv-ps-gdni-pv-001_22&quot;&gt;Amazon prime video&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.koiame-anime.com/&quot;&gt;恋は雨上がりのように&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://hoshiiro.jp/&quot;&gt;ポプテピピック&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kokkoku-anime.com/&quot;&gt;刻刻&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tv.anime-eupho.com/&quot;&gt;響け! ユーフォニアムの聖地巡礼&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yorimoi.com/&quot;&gt;宇宙よりも遠い場所&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/10_5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/10_5.mp3" length="8.4MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、「恋は雨上がりのように」とオススメのアニメについて語りました。</itunes:subtitle>
+        <itunes:duration>27:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>10. 2017年度の振り返りと2018年度の抱負</title>
+        <link>https://wakateossan.github.io/episode/10</link>
+        <pubDate>Wed, 02 May 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/exec/obidos/ASIN/B01BV6UDE4/amazletjp-22/ref=nosim/&quot;&gt;XPS15にアンチグレアフィルムを貼りました&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;おっさんはGOを習得したかったが果たせなかった&lt;/li&gt;
+  &lt;li&gt;2018年度、おっさんはGAEでGO&lt;/li&gt;
+  &lt;li&gt;若手はPLの経験を得た&lt;/li&gt;
+  &lt;li&gt;３年後は自分が作ったサービスでグロースハックしていたい&lt;/li&gt;
+  &lt;li&gt;2018年度はちゃんとひとつサービスを作って公開まで持っていく&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/furu8ma/items/f909b8820c9d6d21897a&quot;&gt;強い意思で定時に帰る&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/%E7%A4%BE%E7%95%9C%E3%81%8C%E7%95%B0%E4%B8%96%E7%95%8C%E3%81%AB%E9%A3%9B%E3%81%B0%E3%81%95%E3%82%8C%E3%81%9F%E3%81%A8%E6%80%9D%E3%81%A3%E3%81%9F%E3%82%89%E3%83%9B%E3%83%AF%E3%82%A4%E3%83%88%E4%BC%81%E6%A5%AD%E3%81%A0%E3%81%A3%E3%81%9F&quot;&gt;#社畜が異世界に飛ばされたと思ったらホワイト企業だった&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/10</guid>
+        <enclosure url="https://wakateossan.github.io/audio/10.mp3" length="9.5MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、2017年度の振り返りと2018年度の抱負を語りました。</itunes:subtitle>
+        <itunes:duration>29:27</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>9.5. 仏教とブルーハーツ</title>
+        <link>https://wakateossan.github.io/episode/9_5</link>
+        <pubDate>Mon, 30 Apr 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;おぼうさんちあるある&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=QxUrumozgMI&quot;&gt;ブルーハーツ 夢&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;借り物の時間&lt;/li&gt;
+  &lt;li&gt;人生は旅行&lt;/li&gt;
+  &lt;li&gt;たてまえでもほんねでも&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%BC%E3%82%AF%E3%83%BB%E3%82%B6%E3%83%83%E3%82%AB%E3%83%BC%E3%83%90%E3%83%BC%E3%82%B0&quot;&gt;マークザッカーバーグ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.eikichiyazawa.com/&quot;&gt;矢沢永吉&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;俯瞰する&lt;/li&gt;
+  &lt;li&gt;自分のキャラを作る&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/9_5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/9_5.mp3" length="8.3MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>ゲストにbigplantsを迎えて、仏教とブルーハーツについて話しました。</itunes:subtitle>
+        <itunes:duration>30:41</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>9. 転職ビフォーアフター</title>
+        <link>https://wakateossan.github.io/episode/9</link>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;転職ビフォーアフター&lt;/li&gt;
+  &lt;li&gt;ランニングはじめました&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shop.adidas.jp/&quot;&gt;アディダス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bose.co.jp/ja_jp/products/headphones/earphones/soundsport-free-wireless.html?mc=26_PS_WH_BO_00_GO_&amp;amp;gclid=CjwKCAjwwuvWBRBZEiwALXqjw5aJFPSR_BoZkpcqpapFUTsQWXma2nG0hj1oQ87Y4XY45Q4oKk91tRoC0QcQAvD_BwE&amp;amp;gclsrc=aw.ds&quot;&gt;Bose SoundSport Free&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;心・技・体&lt;/li&gt;
+  &lt;li&gt;花見ラン&lt;/li&gt;
+  &lt;li&gt;ランニングで成功体験&lt;/li&gt;
+  &lt;li&gt;体力アップで集中力アップ&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/9</guid>
+        <enclosure url="https://wakateossan.github.io/audio/9.mp3" length="12.4MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>ゲストにbigplantsを迎えて、転職、エンジニアと健康について話しました。</itunes:subtitle>
+        <itunes:duration>45:17</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>8.5. こどもとネット</title>
+        <link>https://wakateossan.github.io/episode/8_5</link>
+        <pubDate>Sun, 15 Apr 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.precure-superstars.com/&quot;&gt;映画プリキュアスーパースターズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=gn1tRyZ2JDM&amp;amp;t=178s&quot;&gt;マインクラフトヒカクラ最終回！ありがとうヒカキンくん！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=uHeMT0Tp86w&quot;&gt;ホラーゲーム // トラブルが起きた潜水艦内で大絶叫しました&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scratch.mit.edu/&quot;&gt;Scratch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/higeponja&quot;&gt;higepon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://d.hatena.ne.jp/keyword/%A5%DD%A5%E2%A5%C9%A1%BC%A5%ED%A5%C6%A5%AF%A5%CB%A5%C3%A5%AF&quot;&gt;ポモドーロテクニックとは&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E4%BA%BA%E3%82%92%E5%8B%95%E3%81%8B%E3%81%99-%E6%96%B0%E8%A3%85%E7%89%88-D-%E3%82%AB%E3%83%BC%E3%83%8D%E3%82%AE%E3%83%BC-ebook/dp/B00UBSPBPA/ref=tmm_kin_swatch_0?_encoding=UTF8&amp;amp;qid=&amp;amp;sr=&quot;&gt;人を動かす&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://picocas.github.io/episode/5&quot;&gt;アメリカで焚き火を囲むトーク&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/8_5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/8_5.mp3" length="8.9MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、子供とYoutube,ネット,戦略的なプロダクティビティ、本や娯楽との向き合い方について話しました</itunes:subtitle>
+        <itunes:duration>28:16</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>8. 高速に消えていった技術たちを振り返る</title>
+        <link>https://wakateossan.github.io/episode/8</link>
+        <pubDate>Mon, 09 Apr 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://angularjs.org/&quot;&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;React + Redux の未来を心配してみる&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jquery.com/&quot;&gt;jQuery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;今の主流はSPA?&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://coffeescript.org/&quot;&gt;CoffeeScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/&quot;&gt;note.mu&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.to/&quot;&gt;dev.to&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wordpress.com/&quot;&gt;wordpress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jekyllrb.com/&quot;&gt;jekyll&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://java.com/ja/&quot;&gt;java&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kotlinlang.org/&quot;&gt;AndroidはKotlinなのか&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/ios/human-interface-guidelines/overview/themes/&quot;&gt;Appleのデザイン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://material.io/guidelines/&quot;&gt;Material Design&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cordova.apache.org/&quot;&gt;Apache Cordva&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ionicframework.com/&quot;&gt;IONIC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.onsen.io/&quot;&gt;OnsenUI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;React Native&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.xamarin.com/&quot;&gt;Xamarin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;おっさんも転職エージェントにあってきた。ちなみに収録後一週間ほど経った後、連絡がありました。&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/8</guid>
+        <enclosure url="https://wakateossan.github.io/audio/8.mp3" length="13.2MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、過去に使って高速に消えていった技術たち、WEBフロント、アプリのデザイン周りの話をしました。</itunes:subtitle>
+        <itunes:duration>45:47</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>7. 転職市場に飛び込む</title>
+        <link>https://wakateossan.github.io/episode/7</link>
+        <pubDate>Tue, 03 Apr 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/r7kamura/yattecast&quot;&gt;r7kamura/yattecast: Podcastサイトをつくるためのテンプレート&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://satoshi.blogs.com/&quot;&gt;Life is beautiful - Typepad&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/sql/docs/?hl=ja&quot;&gt;Google Cloud SQL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/7</guid>
+        <enclosure url="https://wakateossan.github.io/audio/7.mp3" length="17.8MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、転職エージェントに会って来たこと、フリーランスエンジニアの単価、定期的に自分の市場価値を確かめる活動、10年前のJava、GCPのWebインターフェース、Kubernetesについて話しました。</itunes:subtitle>
+        <itunes:duration>42:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>6.5. Aftershow LTしてきました</title>
+        <link>https://wakateossan.github.io/episode/6_5</link>
+        <pubDate>Fri, 23 Mar 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gcpug-tokyo.connpass.com/event/78667/&quot;&gt;酔いどれGCPUG 2018/03/02&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/6_5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/6_5.mp3" length="2.8MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、GCPUGのイベントでLTしてきたことについて話しました。</itunes:subtitle>
+        <itunes:duration>10:28</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>6. シンギュラリティについて</title>
+        <link>https://wakateossan.github.io/episode/6</link>
+        <pubDate>Thu, 22 Mar 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;シンギュラリティの定義&lt;/li&gt;
+  &lt;li&gt;超えたらどうなるの&lt;/li&gt;
+  &lt;li&gt;デストピア or ヘブン&lt;/li&gt;
+  &lt;li&gt;人間の役割は消費活動のみになるかも&lt;/li&gt;
+  &lt;li&gt;超かわいいUI&lt;/li&gt;
+  &lt;li&gt;脳にアップロードで学習&lt;/li&gt;
+  &lt;li&gt;アイデンティティについて&lt;/li&gt;
+  &lt;li&gt;人間の適応力はすごい&lt;/li&gt;
+  &lt;li&gt;AIが最適化していく先&lt;/li&gt;
+  &lt;li&gt;シンギュラリティと宇宙&lt;/li&gt;
+  &lt;li&gt;種を遠くまで拡散すべしという本能&lt;/li&gt;
+  &lt;li&gt;ターミネーター&lt;/li&gt;
+  &lt;li&gt;シンギュラリティと哲学&lt;/li&gt;
+  &lt;li&gt;記録としてのpodcast&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/6</guid>
+        <enclosure url="https://wakateossan.github.io/audio/6.mp3" length="9.5MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、シンギュラリティついて話しました。</itunes:subtitle>
+        <itunes:duration>33:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>5.5. Aftershow アニハラについて</title>
+        <link>https://wakateossan.github.io/episode/5_5</link>
+        <pubDate>Tue, 20 Mar 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;アニハラについて&lt;/li&gt;
+  &lt;li&gt;ポリティカル・コレクトネス&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/5_5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/5_5.mp3" length="5.6MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、アニハラについて話しました。</itunes:subtitle>
+        <itunes:duration>19:06</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>5. ベテランエンジニアのキャリアについて</title>
+        <link>https://wakateossan.github.io/episode/5</link>
+        <pubDate>Mon, 19 Mar 2018 12:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=tYXZn8lbd4k&quot;&gt;【mizchi×itopoid】生放送なら凍らないっ！ #01&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/takoratta&quot;&gt;及川卓也 / Takuya Oikawa (@takoratta)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/Joel-Software-Spolsky/dp/4274066304&quot;&gt;Joel on Software / Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kuranuki.sonicgarden.jp/&quot;&gt;Social Change! ソニックガーデン SonicGarden 倉貫義人のブログ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/5.mp3" length="11.1MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、エンジニア定年説、差別化、フリーランス、ロールモデル、マネージャー、受託開発などについて話しました。</itunes:subtitle>
+        <itunes:duration>23:08</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>4.5. Aftershow マッチョイズムについて</title>
+        <link>https://wakateossan.github.io/episode/4_5</link>
+        <pubDate>Sun, 18 Mar 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;マッチョイズムについて&lt;/li&gt;
+  &lt;li&gt;イーロン・マスクと火星にいっちゃう&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/4_5</guid>
+        <enclosure url="https://wakateossan.github.io/audio/4_5.mp3" length="5.1MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、マッチョイズムについて話しました。</itunes:subtitle>
+        <itunes:duration>10:33</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>4. エンジニアはどうやって学習していくか</title>
+        <link>https://wakateossan.github.io/episode/4</link>
+        <pubDate>Fri, 16 Mar 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;仕事で学習する&lt;/li&gt;
+  &lt;li&gt;既にあるサービスをトレースしてつくる。そこで学びたい技術を使う。&lt;/li&gt;
+  &lt;li&gt;日々の作業を楽にするツールをつくる。そこで学びたい技術を使う。&lt;/li&gt;
+  &lt;li&gt;おっさんはRailsを挫折しました&lt;/li&gt;
+  &lt;li&gt;仕事で使うためにレベルをあげる。レベルをあげるために仕事で使う。にわたま理論。&lt;/li&gt;
+  &lt;li&gt;PHP変数の型とスコープ&lt;/li&gt;
+  &lt;li&gt;動的な型か静的な型か&lt;/li&gt;
+  &lt;li&gt;Eclipse + ADT + Java = Android&lt;/li&gt;
+  &lt;li&gt;WEBサービスをつくって流行らなかった話&lt;/li&gt;
+  &lt;li&gt;睡眠よりコードを優先したくなる幸せ&lt;/li&gt;
+  &lt;li&gt;こだわった人がGoogle,FB,Amazonをつくった。一方おっさんは丸くなった。&lt;/li&gt;
+  &lt;li&gt;若者は次の人生の段階にきた&lt;/li&gt;
+  &lt;li&gt;時間は有限らしい&lt;/li&gt;
+  &lt;li&gt;いつか終る世界でどう生きるか&lt;/li&gt;
+  &lt;li&gt;自分の好きなように生きる&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=mFi4zNJ7AxQ&quot;&gt;Steve Jobs Speech at Stanford&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;他人の人生を生きない&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/4</guid>
+        <enclosure url="https://wakateossan.github.io/audio/4.mp3" length="11.0MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、エンジニアはどうやって学習していくか、について話しました。</itunes:subtitle>
+        <itunes:duration>37:27</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>3. エンジニア採用について</title>
+        <link>https://wakateossan.github.io/episode/3</link>
+        <pubDate>Fri, 09 Mar 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;エンジニアにとって魅力的な環境って？&lt;/li&gt;
+  &lt;li&gt;物理的な環境&lt;/li&gt;
+  &lt;li&gt;技術に集中できる環境&lt;/li&gt;
+  &lt;li&gt;アメリカと日本、雇用形態の違い&lt;/li&gt;
+  &lt;li&gt;採用する側もされる側もオープンにする&lt;/li&gt;
+  &lt;li&gt;自分の領域を守るために武装する&lt;/li&gt;
+  &lt;li&gt;心理的安全性&lt;/li&gt;
+  &lt;li&gt;エンジニアとメンタルケア&lt;/li&gt;
+  &lt;li&gt;運動する&lt;/li&gt;
+  &lt;li&gt;アニメを見る&lt;/li&gt;
+  &lt;li&gt;自分のメンタルの状態を知る指標を持つ&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/3</guid>
+        <enclosure url="https://wakateossan.github.io/audio/3.mp3" length="7.7MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、エンジニア採用について話しました。</itunes:subtitle>
+        <itunes:duration>22:19</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>2. インターネットで目立ってるエンジニアとの距離感について</title>
+        <link>https://wakateossan.github.io/episode/2</link>
+        <pubDate>Mon, 05 Mar 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;目立っている人たちのすごさ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/r7kamura&quot;&gt;r7kamuraさんすごい&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yatteiki.fm/&quot;&gt;yatteikifmのみなさますごい&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;対等に話せるようになりたい&lt;/li&gt;
+  &lt;li&gt;目立っている人にかかわらずできる人との距離感&lt;/li&gt;
+  &lt;li&gt;継続してやっていく&lt;/li&gt;
+  &lt;li&gt;仲間と一緒にやっていく&lt;/li&gt;
+  &lt;li&gt;小さく始める&lt;/li&gt;
+  &lt;li&gt;大きくやって失敗した経験談&lt;/li&gt;
+  &lt;li&gt;技術を学ぶための個人プロジェクト&lt;/li&gt;
+  &lt;li&gt;生産性の定義&lt;/li&gt;
+  &lt;li&gt;サービスを作る ≒ 目立つ&lt;/li&gt;
+  &lt;li&gt;GitHubの草を生やし続ける&lt;/li&gt;
+  &lt;li&gt;手を動かせない時間に考える&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rebuild.fm/&quot;&gt;rebuildfmの人たち&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;世界に目を向けてみる&lt;/li&gt;
+  &lt;li&gt;憧れるより憧れられる存在になる&lt;/li&gt;
+  &lt;li&gt;否定されても折れない心&lt;/li&gt;
+  &lt;li&gt;自分を信じてみる&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/2</guid>
+        <enclosure url="https://wakateossan.github.io/audio/2.mp3" length="14.3MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、インターネットで目立ってるエンジニアとの距離感について話しました。</itunes:subtitle>
+        <itunes:duration>30:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>1. エンジニアとやりたい仕事について</title>
+        <link>https://wakateossan.github.io/episode/1</link>
+        <pubDate>Thu, 01 Mar 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;エンジニアに事業的な成長を求めること&lt;/li&gt;
+  &lt;li&gt;1年でソフトウェアエンジニアになれる説&lt;/li&gt;
+  &lt;li&gt;CTOを隣の芝生から眺めてみる&lt;/li&gt;
+  &lt;li&gt;大事にされたいよね&lt;/li&gt;
+  &lt;li&gt;転職とマーケティング&lt;/li&gt;
+  &lt;li&gt;クサリじまん&lt;/li&gt;
+  &lt;li&gt;大手なら幸せなのか&lt;/li&gt;
+  &lt;li&gt;継続してマーケティング&lt;/li&gt;
+  &lt;li&gt;おっさんは採用でどこをみるのか&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://wakateossan.github.io/episode/1</guid>
+        <enclosure url="https://wakateossan.github.io/audio/1.mp3" length="10.1MB" type="audio/mp3"/>
+        <itunes:author>furu8ma</itunes:author>
+        <itunes:subtitle>saekisyとfuru8maの2人で、エンジニアとやりたい仕事について話しました。</itunes:subtitle>
+        <itunes:duration>21:03</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://wakateossan.github.io/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

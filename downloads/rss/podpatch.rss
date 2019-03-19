@@ -1,0 +1,731 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~files/feed.xsl"?>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+<rss xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:sy="http://purl.org/rss/1.0/modules/syndication/" xmlns:slash="http://purl.org/rss/1.0/modules/slash/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:feedpress="https://feed.press/xmlns" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <feedpress:locale>jp</feedpress:locale>
+    <feedpress:newsletterId>podpatch</feedpress:newsletterId>
+    <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
+    <media:rating>nonadult</media:rating>
+    <media:description type="plain"/>
+    <media:credit role="author"/>
+    <googleplay:explicit>no</googleplay:explicit>
+    <title>Podpatch</title>
+    <atom:link href="http://feedpress.me/podpatch" rel="self" type="application/rss+xml"/>
+    <link>http://pod.goodpatch.co</link>
+    <description>UIデザインカンパニーGoodpatchの代表土屋がGoodpatchメンバーやゲストと共に 新しいデザインニュースやアプリについて紹介しながらデザインについて語るPodcastです。</description>
+    <lastBuildDate>Fri, 21 Dec 2018 02:52:47 +0000</lastBuildDate>
+    <language>ja</language>
+    <sy:updatePeriod>hourly</sy:updatePeriod>
+    <sy:updateFrequency>1</sy:updateFrequency>
+    <!-- podcast_generator="Blubrry PowerPress/7.4" mode="advanced" feedslug="feed" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+    <itunes:summary>UIデザインカンパニーGoodpatchの代表土屋がGoodpatchメンバーやゲストと共に&lt;br /&gt;
+新しいデザインニュースやアプリについて紹介しながらデザインについて語るPodcastです。</itunes:summary>
+    <itunes:author>Goodpatch Inc.</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://pod.goodpatch.co/wp-content/uploads/powerpress/cover_1024.png"/>
+    <itunes:type>episodic</itunes:type>
+    <itunes:owner>
+      <itunes:name>Goodpatch Inc.</itunes:name>
+      <itunes:email>info@goodpatch.com</itunes:email>
+    </itunes:owner>
+    <managingEditor>info@goodpatch.com (Goodpatch Inc.)</managingEditor>
+    <copyright>Goodpatch Inc.</copyright>
+    <itunes:subtitle>Goodpatch Inc.</itunes:subtitle>
+    <image>
+      <title>Podpatch</title>
+      <url>http://pod.goodpatch.co/wp-content/uploads/powerpress/cover_1024.png</url>
+      <link>http://pod.goodpatch.co</link>
+    </image>
+    <itunes:category text="Arts">
+      <itunes:category text="Design"/>
+    </itunes:category>
+    <rawvoice:subscribe feed="http://pod.goodpatch.co/feed/?48e1=1545816289" itunes="https://itunes.apple.com/jp/podcast/podpatch-0/id907442285?i=317423555&amp;mt=2"/>
+    <item>
+      <title>#33 Reflection of 2018 With Katsuki Noda</title>
+      <link>http://pod.goodpatch.co/33-reflection-of-2018-with-katsuki-noda-2/</link>
+      <comments>http://pod.goodpatch.co/33-reflection-of-2018-with-katsuki-noda-2/#comments</comments>
+      <pubDate>Fri, 21 Dec 2018 02:52:47 +0000</pubDate>
+      <dc:creator><![CDATA[keo]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=344</guid>
+      <description><![CDATA[Podpatch#33を公開しました！2018年最後のPodpatchは、代表土屋とUXデザイナーの野田が今年の印象的だった出来事を振り返ります。Goodpatch社内での出来事もたっぷりご紹介します！]]></description>
+      <content:encoded><![CDATA[<p>Podpatch#33を公開しました！2018年最後のPodpatchは、代表土屋とUXデザイナーの野田が今年の印象的だった出来事を振り返ります。Goodpatch社内での出来事もたっぷりご紹介します！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/33-reflection-of-2018-with-katsuki-noda-2/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/10924790/31ea602b134b95b8f6705adb182ddca6.mp3" length="46029376" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch#33を公開しました！2018年最後のPodpatchは、代表土屋とUXデザイナーの野田が今年の印象的だった出来事を振り返ります。Goodpatch社内での出来事もたっぷりご紹介します！</itunes:subtitle>
+      <itunes:summary>Podpatch#33を公開しました！2018年最後のPodpatchは、代表土屋とUXデザイナーの野田が今年の印象的だった出来事を振り返ります。Goodpatch社内での出来事もたっぷりご紹介します！</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:16:43</itunes:duration>
+    </item>
+    <item>
+      <title>#32 with Brandon K. Hill btrax</title>
+      <link>http://pod.goodpatch.co/32-with-brandon-k-hill-btrax-2/</link>
+      <comments>http://pod.goodpatch.co/32-with-brandon-k-hill-btrax-2/#comments</comments>
+      <pubDate>Tue, 10 Jul 2018 06:00:37 +0000</pubDate>
+      <dc:creator><![CDATA[keo]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=333</guid>
+      <description><![CDATA[Podpatch #31のゲストは、クリエイティブエージェンシーbtraxのCEO ブランドンさん。サンフランシスコのスタートアップ事情や、海外と日本におけるデザイナーの役割の変化、組織デザインについてなどを幅広く語り合 [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch #31のゲストは、クリエイティブエージェンシーbtraxのCEO ブランドンさん。サンフランシスコのスタートアップ事情や、海外と日本におけるデザイナーの役割の変化、組織デザインについてなどを幅広く語り合う1時間。海外のスタートアップ、デザイン事情をキャッチアップしたい方はぜひお聴きください！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/32-with-brandon-k-hill-btrax-2/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/9702184/9e95401dfb017ac8070b05f0b05807f6.mp3" length="70670966" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch #31のゲストは、クリエイティブエージェンシーbtraxのCEO ブランドンさん。サンフランシスコのスタートアップ事情や、海外と日本におけるデザイナーの役割の変化、組織デザインについてなどを幅広く語り合 […]</itunes:subtitle>
+      <itunes:summary>Podpatch #31のゲストは、クリエイティブエージェンシーbtraxのCEO ブランドンさん。サンフランシスコのスタートアップ事情や、海外と日本におけるデザイナーの役割の変化、組織デザインについてなどを幅広く語り合 […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:13:37</itunes:duration>
+    </item>
+    <item>
+      <title>#31 with Takram Kinya Tagawa</title>
+      <link>http://pod.goodpatch.co/31-with-kinya-tagawa/</link>
+      <comments>http://pod.goodpatch.co/31-with-kinya-tagawa/#comments</comments>
+      <pubDate>Mon, 02 Jul 2018 09:53:04 +0000</pubDate>
+      <dc:creator><![CDATA[keo]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=325</guid>
+      <description><![CDATA[Podpatch #31を公開しました！今回はTakramの渡邉さんに続いて、Takram代表の田川さんをゲストにお迎えしました。田川さんが携わっていた「デザイン経営」宣言のお話を中心に、ビジネスや経営にデザインが必要な [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch #31を公開しました！今回はTakramの渡邉さんに続いて、Takram代表の田川さんをゲストにお迎えしました。田川さんが携わっていた「デザイン経営」宣言のお話を中心に、ビジネスや経営にデザインが必要な理由を紐解きます。さらに、現在のデザイン教育と、これからの日本で実現したいことを語っていただきました。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/31-with-kinya-tagawa/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/9621009/cc05355b73081090ce34e853dd339d1e.mp3" length="83392597" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch #31を公開しました！今回はTakramの渡邉さんに続いて、Takram代表の田川さんをゲストにお迎えしました。田川さんが携わっていた「デザイン経営」宣言のお話を中心に、ビジネスや経営にデザインが必要な […]</itunes:subtitle>
+      <itunes:summary>Podpatch #31を公開しました！今回はTakramの渡邉さんに続いて、Takram代表の田川さんをゲストにお迎えしました。田川さんが携わっていた「デザイン経営」宣言のお話を中心に、ビジネスや経営にデザインが必要な […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>57:55</itunes:duration>
+    </item>
+    <item>
+      <title>#30 with  Takram Kotaro Watanabe</title>
+      <link>http://pod.goodpatch.co/30-with-kotaro-watanabe/</link>
+      <comments>http://pod.goodpatch.co/30-with-kotaro-watanabe/#comments</comments>
+      <pubDate>Thu, 28 Jun 2018 10:36:07 +0000</pubDate>
+      <dc:creator><![CDATA[keo]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=318</guid>
+      <description><![CDATA[Podpatch #30を公開しました。Takramの渡邉さんをゲストにお迎えし、どのようにしてデザインと出会い、デザイナーを意識したのか紐解きます。「コンテクストデザイナー」という肩書きに、どのような想いが込められてい [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch #30を公開しました。Takramの渡邉さんをゲストにお迎えし、どのようにしてデザインと出会い、デザイナーを意識したのか紐解きます。「コンテクストデザイナー」という肩書きに、どのような想いが込められているのかについても伺うことができました。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/30-with-kotaro-watanabe/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/9586110/dcf4dd25df064f4d26d358f96bde99ec.mp3" length="66296605" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch #30を公開しました。Takramの渡邉さんをゲストにお迎えし、どのようにしてデザインと出会い、デザイナーを意識したのか紐解きます。「コンテクストデザイナー」という肩書きに、どのような想いが込められてい […]</itunes:subtitle>
+      <itunes:summary>Podpatch #30を公開しました。Takramの渡邉さんをゲストにお迎えし、どのようにしてデザインと出会い、デザイナーを意識したのか紐解きます。「コンテクストデザイナー」という肩書きに、どのような想いが込められてい […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>34:32</itunes:duration>
+    </item>
+    <item>
+      <title>#29 with Tsukuruba CCO Masahiro Nakamura</title>
+      <link>http://pod.goodpatch.co/29-with-tsukuruba-cco-masahiro-nakamura/</link>
+      <comments>http://pod.goodpatch.co/29-with-tsukuruba-cco-masahiro-nakamura/#comments</comments>
+      <pubDate>Thu, 26 Apr 2018 08:06:03 +0000</pubDate>
+      <dc:creator><![CDATA[keo]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=308</guid>
+      <description><![CDATA[Podpatch #29を公開しました！今回のゲストは、株式会社ツクルバCCOの中村 真広さんです。ツクルバは、中古在宅の流通プラットフォームcowcamo（カウカモ）や、コワーキングスペースのco-ba（コーバ）など複 [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch #29を公開しました！今回のゲストは、株式会社ツクルバCCOの中村 真広さんです。ツクルバは、中古在宅の流通プラットフォームcowcamo（カウカモ）や、コワーキングスペースのco-ba（コーバ）など複数の事業を展開しています。そんなツクルバのCCO中村さんがどのような経歴を経て、現在のキャリアにたどり着いたのか。また、CCOとしてどんな取り組みをされているのか伺いました。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/29-with-tsukuruba-cco-masahiro-nakamura/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/8974315/6c9b479ef6ec1f812afafd89c932aff2.mp3" length="75422281" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch #29を公開しました！今回のゲストは、株式会社ツクルバCCOの中村 真広さんです。ツクルバは、中古在宅の流通プラットフォームcowcamo（カウカモ）や、コワーキングスペースのco-ba（コーバ）など複 […]</itunes:subtitle>
+      <itunes:summary>Podpatch #29を公開しました！今回のゲストは、株式会社ツクルバCCOの中村 真広さんです。ツクルバは、中古在宅の流通プラットフォームcowcamo（カウカモ）や、コワーキングスペースのco-ba（コーバ）など複 […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:18:34</itunes:duration>
+    </item>
+    <item>
+      <title>#28 with FiNC CCO Seiya Koide</title>
+      <link>http://pod.goodpatch.co/with-finc-cco-seiya-koide/</link>
+      <comments>http://pod.goodpatch.co/with-finc-cco-seiya-koide/#comments</comments>
+      <pubDate>Mon, 09 Apr 2018 06:34:01 +0000</pubDate>
+      <dc:creator><![CDATA[keo]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=305</guid>
+      <description><![CDATA[Podpatch#28を公開しました！今回は、「スタートアップのCCO/CDOをゲストに招き、そのキャリアにたどり着くまでを辿る」シリーズ第三弾をお届けします。グッドパッチがデザインパートナーとしてお手伝いさせてもらって [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch#28を公開しました！今回は、「スタートアップのCCO/CDOをゲストに招き、そのキャリアにたどり着くまでを辿る」シリーズ第三弾をお届けします。グッドパッチがデザインパートナーとしてお手伝いさせてもらっている、株式会社FiNC CCOの小出誠也さんにお話を伺いました。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/with-finc-cco-seiya-koide/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/8800771/ddf0c72323c3d72960b316611cc67862.mp3" length="35285176" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch#28を公開しました！今回は、「スタートアップのCCO/CDOをゲストに招き、そのキャリアにたどり着くまでを辿る」シリーズ第三弾をお届けします。グッドパッチがデザインパートナーとしてお手伝いさせてもらって […]</itunes:subtitle>
+      <itunes:summary>Podpatch#28を公開しました！今回は、「スタートアップのCCO/CDOをゲストに招き、そのキャリアにたどり着くまでを辿る」シリーズ第三弾をお届けします。グッドパッチがデザインパートナーとしてお手伝いさせてもらって […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>58:48</itunes:duration>
+    </item>
+    <item>
+      <title>#27 with Koji Asano from Link and Motivation Inc.</title>
+      <link>http://pod.goodpatch.co/27-with-koji-asano-from-link-and-motivation-inc/</link>
+      <comments>http://pod.goodpatch.co/27-with-koji-asano-from-link-and-motivation-inc/#comments</comments>
+      <pubDate>Tue, 20 Feb 2018 11:38:11 +0000</pubDate>
+      <dc:creator><![CDATA[keo]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=292</guid>
+      <description><![CDATA[Podpatch#27のゲストは、株式会社リンクアンドモチベーションの麻野耕司さん。グッドパッチがUX・UIデザイン、開発をお手伝いさせてもらっている「モチベーションクラウド」の開発秘話のほか、麻野さんが考えるデザインと [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch#27のゲストは、株式会社リンクアンドモチベーションの麻野耕司さん。グッドパッチがUX・UIデザイン、開発をお手伝いさせてもらっている「モチベーションクラウド」の開発秘話のほか、麻野さんが考えるデザインとビジネスの関係について伺いました。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/27-with-koji-asano-from-link-and-motivation-inc/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/8330145/d25a11ebb07f86b32a15ee8e729817e51.mp3" length="100346069" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch#27のゲストは、株式会社リンクアンドモチベーションの麻野耕司さん。グッドパッチがUX・UIデザイン、開発をお手伝いさせてもらっている「モチベーションクラウド」の開発秘話のほか、麻野さんが考えるデザインと […]</itunes:subtitle>
+      <itunes:summary>Podpatch#27のゲストは、株式会社リンクアンドモチベーションの麻野耕司さん。グッドパッチがUX・UIデザイン、開発をお手伝いさせてもらっている「モチベーションクラウド」の開発秘話のほか、麻野さんが考えるデザインと […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>52:16</itunes:duration>
+    </item>
+    <item>
+      <title>#26 with FOLIO CDO Hajime Hirono</title>
+      <link>http://pod.goodpatch.co/26-folio-cdo/</link>
+      <comments>http://pod.goodpatch.co/26-folio-cdo/#comments</comments>
+      <pubDate>Thu, 01 Feb 2018 08:41:51 +0000</pubDate>
+      <dc:creator><![CDATA[keo]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=278</guid>
+      <description><![CDATA[Podpatch #26を公開しました！今回のPodpatchは、#24〜#25に引き続き「代表土屋が活躍中のCDO/CCOがどうやって現在のキャリアに辿り着いたのか、その秘密に迫る！」シリーズをお送りします。#26とな [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch #26を公開しました！今回のPodpatchは、#24〜#25に引き続き「代表土屋が活躍中のCDO/CCOがどうやって現在のキャリアに辿り着いたのか、その秘密に迫る！」シリーズをお送りします。#26となる今回は、株式会社FOLIOでCDOを務める広野さんをゲストに迎え、60分たっぷりとお話を伺いました！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/26-folio-cdo/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/8131142/94934f58c343b2754bbfa2474ece39491.mp3" length="34824376" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch #26を公開しました！今回のPodpatchは、#24〜#25に引き続き「代表土屋が活躍中のCDO/CCOがどうやって現在のキャリアに辿り着いたのか、その秘密に迫る！」シリーズをお送りします。#26とな […]</itunes:subtitle>
+      <itunes:summary>Podpatch #26を公開しました！今回のPodpatchは、#24〜#25に引き続き「代表土屋が活躍中のCDO/CCOがどうやって現在のキャリアに辿り着いたのか、その秘密に迫る！」シリーズをお送りします。#26とな […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>58:02</itunes:duration>
+    </item>
+    <item>
+      <title>#25 with Onedot CCO Tomo Tsubota part.2</title>
+      <link>http://pod.goodpatch.co/25-with-onedot-cco-tomo-tsubota-part-2-2/</link>
+      <comments>http://pod.goodpatch.co/25-with-onedot-cco-tomo-tsubota-part-2-2/#comments</comments>
+      <pubDate>Mon, 29 Jan 2018 05:58:28 +0000</pubDate>
+      <dc:creator><![CDATA[keo]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=271</guid>
+      <description><![CDATA[Podpatch#25を公開しました！前回に引き続き、Onedot株式会社CCOの坪田朋さんとのトークをお届けします。後編となる今回では、なぜデザイナーが経営層に必要なのか。デザイナーにおすすめのキャリアパスとはどんなも [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch#25を公開しました！前回に引き続き、Onedot株式会社CCOの坪田朋さんとのトークをお届けします。後編となる今回では、なぜデザイナーが経営層に必要なのか。デザイナーにおすすめのキャリアパスとはどんなものなのか。UX/UIデザインの教育についても語ります。CCOとしての考え方を理解できるようなお話が満載です。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/25-with-onedot-cco-tomo-tsubota-part-2-2/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/8090242/60b5d98d7be558a4aec7496467e2dc6a.mp3" length="70719449" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch#25を公開しました！前回に引き続き、Onedot株式会社CCOの坪田朋さんとのトークをお届けします。後編となる今回では、なぜデザイナーが経営層に必要なのか。デザイナーにおすすめのキャリアパスとはどんなも […]</itunes:subtitle>
+      <itunes:summary>Podpatch#25を公開しました！前回に引き続き、Onedot株式会社CCOの坪田朋さんとのトークをお届けします。後編となる今回では、なぜデザイナーが経営層に必要なのか。デザイナーにおすすめのキャリアパスとはどんなも […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>36:50</itunes:duration>
+    </item>
+    <item>
+      <title>#24 with Onedot CCO Tomo Tsubota</title>
+      <link>http://pod.goodpatch.co/24-onedot-cco/</link>
+      <comments>http://pod.goodpatch.co/24-onedot-cco/#comments</comments>
+      <pubDate>Mon, 22 Jan 2018 08:38:59 +0000</pubDate>
+      <dc:creator><![CDATA[keo]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=260</guid>
+      <description><![CDATA[Podpatch#24を公開しました！今回は、Onedot株式会社CCOの坪田朋さんが4年ぶりに登場。前編では、この4年間で坪田さんが取り組まれてきたことと、現在CCOとして携わっているOnedot株式会社立ち上げ時のエ [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch#24を公開しました！今回は、Onedot株式会社CCOの坪田朋さんが4年ぶりに登場。前編では、この4年間で坪田さんが取り組まれてきたことと、現在CCOとして携わっているOnedot株式会社立ち上げ時のエピソードなども伺うことができました。また、ユーザーインタビューのために合計で8ヶ月間いたという中国で目の当たりにしたスタートアップ／IT事情についても要チェックです！</p>
+<p>&nbsp;</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/24-onedot-cco/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/8067824/eab35c548fef3ca8b5a601d5d361b70f.mp3" length="95638176" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch#24を公開しました！今回は、Onedot株式会社CCOの坪田朋さんが4年ぶりに登場。前編では、この4年間で坪田さんが取り組まれてきたことと、現在CCOとして携わっているOnedot株式会社立ち上げ時のエ […]</itunes:subtitle>
+      <itunes:summary>Podpatch#24を公開しました！今回は、Onedot株式会社CCOの坪田朋さんが4年ぶりに登場。前編では、この4年間で坪田さんが取り組まれてきたことと、現在CCOとして携わっているOnedot株式会社立ち上げ時のエ […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>49:49</itunes:duration>
+    </item>
+    <item>
+      <title>#23 Business and design story</title>
+      <link>http://pod.goodpatch.co/23/</link>
+      <comments>http://pod.goodpatch.co/23/#comments</comments>
+      <pubDate>Thu, 07 Dec 2017 06:36:01 +0000</pubDate>
+      <dc:creator><![CDATA[keo]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=250</guid>
+      <description><![CDATA[Podpatch  #23を公開しました！今回は、グッドパッチのビジネスデベロップメント佐宗をゲストに迎え、ビジネスの現場とデザインの関係にどのような変化が起こっているのかお話ししています。]]></description>
+      <content:encoded><![CDATA[<p>Podpatch  #23を公開しました！今回は、グッドパッチのビジネスデベロップメント佐宗をゲストに迎え、ビジネスの現場とデザインの関係にどのような変化が起こっているのかお話ししています。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/23/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/7643315/ff33dca89130ad889d0151e65899c322.mp3" length="77239754" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch  #23を公開しました！今回は、グッドパッチのビジネスデベロップメント佐宗をゲストに迎え、ビジネスの現場とデザインの関係にどのような変化が起こっているのかお話ししています。</itunes:subtitle>
+      <itunes:summary>Podpatch  #23を公開しました！今回は、グッドパッチのビジネスデベロップメント佐宗をゲストに迎え、ビジネスの現場とデザインの関係にどのような変化が起こっているのかお話ししています。</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>53:36</itunes:duration>
+    </item>
+    <item>
+      <title>#22 Balto Design Process</title>
+      <link>http://pod.goodpatch.co/baltodesignprocess/</link>
+      <comments>http://pod.goodpatch.co/baltodesignprocess/#comments</comments>
+      <pubDate>Fri, 24 Mar 2017 06:00:39 +0000</pubDate>
+      <dc:creator><![CDATA[haco]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=242</guid>
+      <description><![CDATA[Podpatch#22を公開しました！今回は、グッドパッチが2017年1月に正式ローンチしたフィードバックツール「Balto」のデザインプロセスをデザイナーのカワマタ、プロダクトマネージャーの中村、そしてプロダクトオーナ [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch#22を公開しました！今回は、グッドパッチが2017年1月に正式ローンチしたフィードバックツール「Balto」のデザインプロセスをデザイナーのカワマタ、プロダクトマネージャーの中村、そしてプロダクトオーナーであるCEO土屋と正式ローンチまでの道のりを振り返りました！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/baltodesignprocess/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/5561011/podpatch_22.mp3" length="116319969" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch#22を公開しました！今回は、グッドパッチが2017年1月に正式ローンチしたフィードバックツール「Balto」のデザインプロセスをデザイナーのカワマタ、プロダクトマネージャーの中村、そしてプロダクトオーナ […]</itunes:subtitle>
+      <itunes:summary>Podpatch#22を公開しました！今回は、グッドパッチが2017年1月に正式ローンチしたフィードバックツール「Balto」のデザインプロセスをデザイナーのカワマタ、プロダクトマネージャーの中村、そしてプロダクトオーナ […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:00:14</itunes:duration>
+    </item>
+    <item>
+      <title>#21Prott interactionmap</title>
+      <link>http://pod.goodpatch.co/interactionmap/</link>
+      <comments>http://pod.goodpatch.co/interactionmap/#comments</comments>
+      <pubDate>Mon, 26 Sep 2016 09:17:18 +0000</pubDate>
+      <dc:creator><![CDATA[haco]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=236</guid>
+      <description><![CDATA[Podpatch#21を公開しました！今回は、グッドパッチの自社プロダクト「Prott」チームのエンジニアよしことプロダクトマネージャーの岡田がゼロから作り上げた「画面遷移図機能」の開発秘話をプロダクトオーナーであるCE [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch#21を公開しました！今回は、グッドパッチの自社プロダクト「Prott」チームのエンジニアよしことプロダクトマネージャーの岡田がゼロから作り上げた「画面遷移図機能」の開発秘話をプロダクトオーナーであるCEO土屋と一緒に紐解きます！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/interactionmap/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/4524892/podpatch-21.mp3" length="110234576" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch#21を公開しました！今回は、グッドパッチの自社プロダクト「Prott」チームのエンジニアよしことプロダクトマネージャーの岡田がゼロから作り上げた「画面遷移図機能」の開発秘話をプロダクトオーナーであるCE […]</itunes:subtitle>
+      <itunes:summary>Podpatch#21を公開しました！今回は、グッドパッチの自社プロダクト「Prott」チームのエンジニアよしことプロダクトマネージャーの岡田がゼロから作り上げた「画面遷移図機能」の開発秘話をプロダクトオーナーであるCE […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>57:12</itunes:duration>
+    </item>
+    <item>
+      <title>#20 designcompanyCEO×CEO</title>
+      <link>http://pod.goodpatch.co/20-designcompanyceoxceo/</link>
+      <comments>http://pod.goodpatch.co/20-designcompanyceoxceo/#comments</comments>
+      <pubDate>Fri, 27 May 2016 03:06:40 +0000</pubDate>
+      <dc:creator><![CDATA[haco]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=233</guid>
+      <description><![CDATA[Podpatch#20を公開しました！今回はスペシャルゲストとして、クリエイティブエージェンシーbtraxのCEOブランドンさんをお迎え。Goodpatch創業前からお互いを知るブランドンさんと土屋が「デザイン」を中心に [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch#20を公開しました！今回はスペシャルゲストとして、クリエイティブエージェンシーbtraxのCEOブランドンさんをお迎え。Goodpatch創業前からお互いを知るブランドンさんと土屋が「デザイン」を中心に幅広く語りあいます。様々な裏話も飛び出す１時間。最新のデザイン事情に興味がある方、ぜひお聞きください。</p>
+<p><span id="more-233"></span></p>
+<h2>今回のゲスト</h2>
+<p>今回のゲストは、サンフランシスコと日本に拠点を持つ、クリエイティブエージェンシー<a href="http://http://btrax.com/jp/">btrax</a>のCEOブランドンさん。今回で2度目のPodpatch出演（前回のPodpatchは、<a href="http://http://memo.goodpatch.co/2014/09/podpatch7/">こちら</a>）。Goodpatch創業前に、土屋はサンフランシスコにてbtraxでインターンを経験したことからブランドンさんとの交流が始まりました。今回は、両者がそれぞれの視点から「デザイン」について語ります。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/20-designcompanyceoxceo/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/3451899/designcompanyceo.mp3" length="126127685" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch#20を公開しました！今回はスペシャルゲストとして、クリエイティブエージェンシーbtraxのCEOブランドンさんをお迎え。Goodpatch創業前からお互いを知るブランドンさんと土屋が「デザイン」を中心に […]</itunes:subtitle>
+      <itunes:summary>Podpatch#20を公開しました！今回はスペシャルゲストとして、クリエイティブエージェンシーbtraxのCEOブランドンさんをお迎え。Goodpatch創業前からお互いを知るブランドンさんと土屋が「デザイン」を中心に […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:04:58</itunes:duration>
+    </item>
+    <item>
+      <title>#19 Goodpatch History201509-201603</title>
+      <link>http://pod.goodpatch.co/19-goodpatch-history201509-201603/</link>
+      <comments>http://pod.goodpatch.co/19-goodpatch-history201509-201603/#comments</comments>
+      <pubDate>Wed, 06 Apr 2016 09:50:27 +0000</pubDate>
+      <dc:creator><![CDATA[haco]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=227</guid>
+      <description><![CDATA[2016年一発目のPodpatch。お待たせ致しました！ CEOの土屋が「起業してから一番色々あった」と語る、2015年から2016年の半年間についてをCTOのひらいと対談形式でお届けします。2016年1月にジョインした [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p class="p1">2016年一発目のPodpatch。お待たせ致しました！<br />
+CEOの土屋が「起業してから一番色々あった」と語る、2015年から2016年の半年間についてをCTOのひらいと対談形式でお届けします。2016年1月にジョインしたばかりの広報の高野も相槌役で登場しております。「これがスタートアップか！」というできごとが毎日のように起こるグッドパッチ。できごとの数々を赤裸々にトークしていますので、スタートアップの成長期にご興味のある方、是非お聞きください！</p>
+<p class="p1">
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/19-goodpatch-history201509-201603/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/3014760/podpatch_CEOxCTO.mp3" length="73166076" type="audio/mpeg"/>
+      <itunes:subtitle>2016年一発目のPodpatch。お待たせ致しました！ CEOの土屋が「起業してから一番色々あった」と語る、2015年から2016年の半年間についてをCTOのひらいと対談形式でお届けします。2016年1月にジョインした […]</itunes:subtitle>
+      <itunes:summary>2016年一発目のPodpatch。お待たせ致しました！ CEOの土屋が「起業してから一番色々あった」と語る、2015年から2016年の半年間についてをCTOのひらいと対談形式でお届けします。2016年1月にジョインした […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>50:47</itunes:duration>
+    </item>
+    <item>
+      <title>#18 About Berlin office with Sada and Taniguchi</title>
+      <link>http://pod.goodpatch.co/18-about-berlin-office-with-sada-and-taniguchi/</link>
+      <comments>http://pod.goodpatch.co/18-about-berlin-office-with-sada-and-taniguchi/#comments</comments>
+      <pubDate>Thu, 26 Nov 2015 22:00:13 +0000</pubDate>
+      <dc:creator><![CDATA[kimio]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=218</guid>
+      <description><![CDATA[今年5月に開設したベルリンオフィスについて、現地に出張経験のあるエンジニアとざっくばらんに話しました。なぜ今ベルリンなのか、現地での仕事について、日本の方々との交流といった内容になっています。ここ数年スタートアップシーン [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p style="text-align: left;">今年5月に開設したベルリンオフィスについて、現地に出張経験のあるエンジニアとざっくばらんに話しました。なぜ今ベルリンなのか、現地での仕事について、日本の方々との交流といった内容になっています。ここ数年スタートアップシーンが盛り上がりをみせているベルリンについて興味がある方、海外に挑戦してみたいと思っている方、是非お聞きください！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/18-about-berlin-office-with-sada-and-taniguchi/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/2090074/podpatch_berlin_20151118_01.mp3" length="72786010" type="audio/mpeg"/>
+      <itunes:subtitle>今年5月に開設したベルリンオフィスについて、現地に出張経験のあるエンジニアとざっくばらんに話しました。なぜ今ベルリンなのか、現地での仕事について、日本の方々との交流といった内容になっています。ここ数年スタートアップシーン […]</itunes:subtitle>
+      <itunes:summary>今年5月に開設したベルリンオフィスについて、現地に出張経験のあるエンジニアとざっくばらんに話しました。なぜ今ベルリンなのか、現地での仕事について、日本の方々との交流といった内容になっています。ここ数年スタートアップシーン […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>50:31</itunes:duration>
+    </item>
+    <item>
+      <title>#17 The story of starting a Goodpatch</title>
+      <link>http://pod.goodpatch.co/17-the-story-of-starting-a-goodpatch/</link>
+      <comments>http://pod.goodpatch.co/17-the-story-of-starting-a-goodpatch/#comments</comments>
+      <pubDate>Fri, 31 Jul 2015 03:02:22 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=201</guid>
+      <description><![CDATA[Podpatch#17を公開しました！今回は、代表土屋が採用面接で毎回お話しているGoodpatchの起業ストーリーについて。起業しようと決意したきっかけ、そしてGoodpatchを起業してから今に至るまで、たっぷりとお [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>Podpatch#17を公開しました！今回は、代表土屋が採用面接で毎回お話しているGoodpatchの起業ストーリーについて。起業しようと決意したきっかけ、そしてGoodpatchを起業してから今に至るまで、たっぷりとお話しています。これからGoodpatchの採用面接を受ける方にはぜひ聞いてほしい内容になっています。 また、日頃から土屋のブログをチェックして頂いてる方はもちろん、まだブログを全部チェックしてない方もぜひこの機会にお聞きください！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/17-the-story-of-starting-a-goodpatch/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/1585231/Podpatch17-1.mp3" length="108115509" type="audio/mpeg"/>
+      <itunes:subtitle>Podpatch#17を公開しました！今回は、代表土屋が採用面接で毎回お話しているGoodpatchの起業ストーリーについて。起業しようと決意したきっかけ、そしてGoodpatchを起業してから今に至るまで、たっぷりとお […]</itunes:subtitle>
+      <itunes:summary>Podpatch#17を公開しました！今回は、代表土屋が採用面接で毎回お話しているGoodpatchの起業ストーリーについて。起業しようと決意したきっかけ、そしてGoodpatchを起業してから今に至るまで、たっぷりとお […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:02:38</itunes:duration>
+    </item>
+    <item>
+      <title>#16 About WWDC with Tonny Xu , Sakata and Goodpatch iOS Developers.</title>
+      <link>http://pod.goodpatch.co/16-about-wwdc-with-tonny-xu-sakata-and-goodpatch-ios-developers/</link>
+      <comments>http://pod.goodpatch.co/16-about-wwdc-with-tonny-xu-sakata-and-goodpatch-ios-developers/#comments</comments>
+      <pubDate>Mon, 06 Jul 2015 10:00:15 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=192</guid>
+      <description><![CDATA[今回は、2015年6月8日に開催されたWWDCについて、Apple製品大好きな弊社iOSエンジニアと、実際にWWDCに参加した特別ゲストを交えてふりかえりトークをしました。]]></description>
+      <content:encoded><![CDATA[<p>今回は、2015年6月8日に開催されたWWDCについて、Apple製品大好きな弊社iOSエンジニアと、実際にWWDCに参加した特別ゲストを交えてふりかえりトークをしました。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/16-about-wwdc-with-tonny-xu-sakata-and-goodpatch-ios-developers/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/1449747/podpatch16.mp3" length="96003441" type="audio/mpeg"/>
+      <itunes:subtitle>今回は、2015年6月8日に開催されたWWDCについて、Apple製品大好きな弊社iOSエンジニアと、実際にWWDCに参加した特別ゲストを交えてふりかえりトークをしました。</itunes:subtitle>
+      <itunes:summary>今回は、2015年6月8日に開催されたWWDCについて、Apple製品大好きな弊社iOSエンジニアと、実際にWWDCに参加した特別ゲストを交えてふりかえりトークをしました。</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:06:39</itunes:duration>
+    </item>
+    <item>
+      <title>#15 About Google I/O with Sugai from Yahoo Goodpatch’s Android Developers.</title>
+      <link>http://pod.goodpatch.co/podpatch15/</link>
+      <comments>http://pod.goodpatch.co/podpatch15/#comments</comments>
+      <pubDate>Wed, 17 Jun 2015 15:00:24 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=188</guid>
+      <description><![CDATA[2015年5月28日、29日に開催されたGoogle I/Oについて、ヤフーのスーパエンジニア菅井さんと実際に参加した弊社エンジニアを交えて振り返りトークをしました。]]></description>
+      <content:encoded><![CDATA[<p>2015年5月28日、29日に開催されたGoogle I/Oについて、ヤフーのスーパエンジニア菅井さんと実際に参加した弊社エンジニアを交えて振り返りトークをしました。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/podpatch15/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/1272244/podpatch15_1.mp3" length="68003021" type="audio/mpeg"/>
+      <itunes:subtitle>2015年5月28日、29日に開催されたGoogle I/Oについて、ヤフーのスーパエンジニア菅井さんと実際に参加した弊社エンジニアを交えて振り返りトークをしました。</itunes:subtitle>
+      <itunes:summary>2015年5月28日、29日に開催されたGoogle I/Oについて、ヤフーのスーパエンジニア菅井さんと実際に参加した弊社エンジニアを交えて振り返りトークをしました。</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>47:12</itunes:duration>
+    </item>
+    <item>
+      <title>#14 with Goodpatch’s UI Designers,3284 and Inujima.</title>
+      <link>http://pod.goodpatch.co/14-with-goodpatchs-ui-designers3284-and-inujima/</link>
+      <comments>http://pod.goodpatch.co/14-with-goodpatchs-ui-designers3284-and-inujima/#comments</comments>
+      <pubDate>Wed, 10 Dec 2014 22:30:26 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=185</guid>
+      <description><![CDATA[グッドパッチで活躍しているUIデザイナー三橋・犬嶋が登場！2人がグッドパッチに入った理由や誰のためにデザインをするべきか、人それぞれ違う「デザイン」の定義とはなど、代表土屋と共に約50分お届けします。]]></description>
+      <content:encoded><![CDATA[<p>グッドパッチで活躍しているUIデザイナー三橋・犬嶋が登場！2人がグッドパッチに入った理由や誰のためにデザインをするべきか、人それぞれ違う「デザイン」の定義とはなど、代表土屋と共に約50分お届けします。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/14-with-goodpatchs-ui-designers3284-and-inujima/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/399385/new14podpatch.mp3" length="72449836" type="audio/mpeg"/>
+      <itunes:subtitle>グッドパッチで活躍しているUIデザイナー三橋・犬嶋が登場！2人がグッドパッチに入った理由や誰のためにデザインをするべきか、人それぞれ違う「デザイン」の定義とはなど、代表土屋と共に約50分お届けします。</itunes:subtitle>
+      <itunes:summary>グッドパッチで活躍しているUIデザイナー三橋・犬嶋が登場！2人がグッドパッチに入った理由や誰のためにデザインをするべきか、人それぞれ違う「デザイン」の定義とはなど、代表土屋と共に約50分お届けします。</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>50:17</itunes:duration>
+    </item>
+    <item>
+      <title>#13 with all members from STANDARD inc.</title>
+      <link>http://pod.goodpatch.co/13-with-all-members-from-standard-inc/</link>
+      <comments>http://pod.goodpatch.co/13-with-all-members-from-standard-inc/#comments</comments>
+      <pubDate>Tue, 02 Dec 2014 22:30:38 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=177</guid>
+      <description><![CDATA[UIデザイン会社STANDARD Inc.のメンバー全員登場！起業のきっかけやデザインプロセス、UIデザイン不要論に関してなど、グッドパッチ代表土屋と共に代表鈴木健一さん、デザイナー鈴木智大さん・吉竹遼さん・川地真史さん [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>UIデザイン会社STANDARD Inc.のメンバー全員登場！起業のきっかけやデザインプロセス、UIデザイン不要論に関してなど、グッドパッチ代表土屋と共に代表鈴木健一さん、デザイナー鈴木智大さん・吉竹遼さん・川地真史さんで熱い1時間10分をお届けします！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/13-with-all-members-from-standard-inc/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/379105/131podpatch.mp3" length="111516272" type="audio/mpeg"/>
+      <itunes:subtitle>UIデザイン会社STANDARD Inc.のメンバー全員登場！起業のきっかけやデザインプロセス、UIデザイン不要論に関してなど、グッドパッチ代表土屋と共に代表鈴木健一さん、デザイナー鈴木智大さん・吉竹遼さん・川地真史さん […]</itunes:subtitle>
+      <itunes:summary>UIデザイン会社STANDARD Inc.のメンバー全員登場！起業のきっかけやデザインプロセス、UIデザイン不要論に関してなど、グッドパッチ代表土屋と共に代表鈴木健一さん、デザイナー鈴木智大さん・吉竹遼さん・川地真史さん […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:17:25</itunes:duration>
+    </item>
+    <item>
+      <title>#12 with Tomo Tsubota from DeNA Co.</title>
+      <link>http://pod.goodpatch.co/12-with-tomo-tsubota-from-dena-co/</link>
+      <comments>http://pod.goodpatch.co/12-with-tomo-tsubota-from-dena-co/#comments</comments>
+      <pubDate>Tue, 04 Nov 2014 22:30:05 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=164</guid>
+      <description><![CDATA[先日のUI Crunchに登壇したDeNA・UI/UXデザイナー坪田朋さん登場！坪田さんの経歴に沿い、幅広い話が展開されています！]]></description>
+      <content:encoded><![CDATA[<p>先日のUI Crunchに登壇したDeNA・UI/UXデザイナー坪田朋さん登場！坪田さんの経歴に沿い、幅広い話が展開されています！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/12-with-tomo-tsubota-from-dena-co/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/314813/12podpatch.mp3" length="106565238" type="audio/mpeg"/>
+      <itunes:subtitle>先日のUI Crunchに登壇したDeNA・UI/UXデザイナー坪田朋さん登場！坪田さんの経歴に沿い、幅広い話が展開されています！</itunes:subtitle>
+      <itunes:summary>先日のUI Crunchに登壇したDeNA・UI/UXデザイナー坪田朋さん登場！坪田さんの経歴に沿い、幅広い話が展開されています！</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:13:59</itunes:duration>
+    </item>
+    <item>
+      <title>#11 with INO Noriteru from ROLLCAKE Inc.Part2</title>
+      <link>http://pod.goodpatch.co/11-with-ino-noriteru-from-rollcake-inc-part2/</link>
+      <comments>http://pod.goodpatch.co/11-with-ino-noriteru-from-rollcake-inc-part2/#comments</comments>
+      <pubDate>Mon, 27 Oct 2014 22:12:23 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=158</guid>
+      <description><![CDATA[前回に引き続き、『レター』で有名なROLLCAKE株式会社より伊野亘輝さん登場！伊野さんの考える『レター』についてやチームでのコミュニケーションの仕方・デザインの考え方、グッドパッチが考える「デザインを投資する」ことにつ [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>前回に引き続き、『レター』で有名なROLLCAKE株式会社より伊野亘輝さん登場！伊野さんの考える『レター』についてやチームでのコミュニケーションの仕方・デザインの考え方、グッドパッチが考える「デザインを投資する」ことについて等充実な内容を代表土屋、UXデザイナー藤井の3人でお届けします。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/11-with-ino-noriteru-from-rollcake-inc-part2/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/294957/podpatch10B.mp3" length="70556565" type="audio/mpeg"/>
+      <itunes:subtitle>前回に引き続き、『レター』で有名なROLLCAKE株式会社より伊野亘輝さん登場！伊野さんの考える『レター』についてやチームでのコミュニケーションの仕方・デザインの考え方、グッドパッチが考える「デザインを投資する」ことにつ […]</itunes:subtitle>
+      <itunes:summary>前回に引き続き、『レター』で有名なROLLCAKE株式会社より伊野亘輝さん登場！伊野さんの考える『レター』についてやチームでのコミュニケーションの仕方・デザインの考え方、グッドパッチが考える「デザインを投資する」ことにつ […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>48:59</itunes:duration>
+    </item>
+    <item>
+      <title>#10 with INO Noriteru from ROLLCAKE Inc.Part1</title>
+      <link>http://pod.goodpatch.co/10-with-noriteru-from-rollcake-inc-part1/</link>
+      <comments>http://pod.goodpatch.co/10-with-noriteru-from-rollcake-inc-part1/#comments</comments>
+      <pubDate>Tue, 21 Oct 2014 22:00:57 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=151</guid>
+      <description><![CDATA[『レター』という毎月1枚写真を選んでカレンダーを送れる、「両親が喜ぶカレンダー便り」作成サービスで有名なROLLCAKE株式会社より伊野亘輝さん登場！伊野さんの今までのキャリア、クックパッドアプリリニューアル裏側、レター [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>『レター』という毎月1枚写真を選んでカレンダーを送れる、「両親が喜ぶカレンダー便り」作成サービスで有名なROLLCAKE株式会社より伊野亘輝さん登場！伊野さんの今までのキャリア、クックパッドアプリリニューアル裏側、レターができるまで等充実な内容を代表土屋、UXデザイナー藤井の3人でお届けします。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/10-with-noriteru-from-rollcake-inc-part1/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/281542/podpatch10A.mp3" length="72868171" type="audio/mpeg"/>
+      <itunes:subtitle>『レター』という毎月1枚写真を選んでカレンダーを送れる、「両親が喜ぶカレンダー便り」作成サービスで有名なROLLCAKE株式会社より伊野亘輝さん登場！伊野さんの今までのキャリア、クックパッドアプリリニューアル裏側、レター […]</itunes:subtitle>
+      <itunes:summary>『レター』という毎月1枚写真を選んでカレンダーを送れる、「両親が喜ぶカレンダー便り」作成サービスで有名なROLLCAKE株式会社より伊野亘輝さん登場！伊野さんの今までのキャリア、クックパッドアプリリニューアル裏側、レター […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>50:35</itunes:duration>
+    </item>
+    <item>
+      <title>#9 with the Prott development team</title>
+      <link>http://pod.goodpatch.co/9-with-the-prott-development-team-2/</link>
+      <comments>http://pod.goodpatch.co/9-with-the-prott-development-team-2/#comments</comments>
+      <pubDate>Mon, 06 Oct 2014 21:30:59 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=144</guid>
+      <description><![CDATA[先日正式リリースしたプロトタイピングツールProttの開発秘話や裏ワザ・Prottが目指すものや今後について、Prott開発メンバーと共にお送りします。]]></description>
+      <content:encoded><![CDATA[<p>先日正式リリースしたプロトタイピングツールProttの開発秘話や裏ワザ・Prottが目指すものや今後について、Prott開発メンバーと共にお送りします。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/9-with-the-prott-development-team-2/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/246862/Prottpatch.mp3" length="110829204" type="audio/mpeg"/>
+      <itunes:subtitle>先日正式リリースしたプロトタイピングツールProttの開発秘話や裏ワザ・Prottが目指すものや今後について、Prott開発メンバーと共にお送りします。</itunes:subtitle>
+      <itunes:summary>先日正式リリースしたプロトタイピングツールProttの開発秘話や裏ワザ・Prottが目指すものや今後について、Prott開発メンバーと共にお送りします。</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:16:56</itunes:duration>
+    </item>
+    <item>
+      <title>#8 with Front-End Engineers</title>
+      <link>http://pod.goodpatch.co/8-with-front-end-engineers/</link>
+      <comments>http://pod.goodpatch.co/8-with-front-end-engineers/#comments</comments>
+      <pubDate>Sun, 28 Sep 2014 22:00:15 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=136</guid>
+      <description><![CDATA[Goodpatchのフロントエンドエンジニアが登場！人気イベント『JSオジサン』の裏側に始まり、Goodpatchが求めるフロントエンドエンジニア像に至るまで、たっぷり語り合いました！]]></description>
+      <content:encoded><![CDATA[<p>Goodpatchのフロントエンドエンジニアが登場！人気イベント『JSオジサン』の裏側に始まり、Goodpatchが求めるフロントエンドエンジニア像に至るまで、たっぷり語り合いました！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/8-with-front-end-engineers/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/231684/podpatch08.mp3" length="71206048" type="audio/mpeg"/>
+      <itunes:subtitle>Goodpatchのフロントエンドエンジニアが登場！人気イベント『JSオジサン』の裏側に始まり、Goodpatchが求めるフロントエンドエンジニア像に至るまで、たっぷり語り合いました！</itunes:subtitle>
+      <itunes:summary>Goodpatchのフロントエンドエンジニアが登場！人気イベント『JSオジサン』の裏側に始まり、Goodpatchが求めるフロントエンドエンジニア像に至るまで、たっぷり語り合いました！</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>49:26</itunes:duration>
+    </item>
+    <item>
+      <title>#7 with Brandon K. Hill from btrax</title>
+      <link>http://pod.goodpatch.co/7-with-brandon-k-hill-from-btrax/</link>
+      <comments>http://pod.goodpatch.co/7-with-brandon-k-hill-from-btrax/#comments</comments>
+      <pubDate>Sun, 21 Sep 2014 22:30:12 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=128</guid>
+      <description><![CDATA[btraxCEOブランドンさんが登場！土屋がサンフランシスコで働いていた話から、JapanNight・スタートアップ界隈からグッドパッチといえばの「矢沢」トークなどなど幅広い内容となっております。]]></description>
+      <content:encoded><![CDATA[<p>btraxCEOブランドンさんが登場！土屋がサンフランシスコで働いていた話から、JapanNight・スタートアップ界隈からグッドパッチといえばの「矢沢」トークなどなど幅広い内容となっております。</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/7-with-brandon-k-hill-from-btrax/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/221583/77777.mp3" length="168741104" type="audio/mpeg"/>
+      <itunes:subtitle>btraxCEOブランドンさんが登場！土屋がサンフランシスコで働いていた話から、JapanNight・スタートアップ界隈からグッドパッチといえばの「矢沢」トークなどなど幅広い内容となっております。</itunes:subtitle>
+      <itunes:summary>btraxCEOブランドンさんが登場！土屋がサンフランシスコで働いていた話から、JapanNight・スタートアップ界隈からグッドパッチといえばの「矢沢」トークなどなど幅広い内容となっております。</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:40:26</itunes:duration>
+    </item>
+    <item>
+      <title>#6 with nanapi’s CCO Masayuki and Designer Mari.</title>
+      <link>http://pod.goodpatch.co/6-with-nanapis-cco-masayuki-and-designer-mari/</link>
+      <comments>http://pod.goodpatch.co/6-with-nanapis-cco-masayuki-and-designer-mari/#comments</comments>
+      <pubDate>Mon, 15 Sep 2014 23:08:38 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=122</guid>
+      <description><![CDATA[nanapiのCCO上谷さん、デザイナーの木村さんが登場！今話題の「アンサー」ができるまでのストーリーや実際のnanapiの雰囲気や採用についてたっぷり約1時間お届けします！]]></description>
+      <content:encoded><![CDATA[<p>nanapiのCCO上谷さん、デザイナーの木村さんが登場！今話題の「アンサー」ができるまでのストーリーや実際のnanapiの雰囲気や採用についてたっぷり約1時間お届けします！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/6-with-nanapis-cco-masayuki-and-designer-mari/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/214460/podpatch6nanapi.mp3" length="81215589" type="audio/mpeg"/>
+      <itunes:subtitle>nanapiのCCO上谷さん、デザイナーの木村さんが登場！今話題の「アンサー」ができるまでのストーリーや実際のnanapiの雰囲気や採用についてたっぷり約1時間お届けします！</itunes:subtitle>
+      <itunes:summary>nanapiのCCO上谷さん、デザイナーの木村さんが登場！今話題の「アンサー」ができるまでのストーリーや実際のnanapiの雰囲気や採用についてたっぷり約1時間お届けします！</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>56:23</itunes:duration>
+    </item>
+    <item>
+      <title>#5 about iPhone 6 &amp; 6 Plus with Designer and Engineers.</title>
+      <link>http://pod.goodpatch.co/5-about-iphone-66-plus-with-desinger-and-engineers/</link>
+      <comments>http://pod.goodpatch.co/5-about-iphone-66-plus-with-desinger-and-engineers/#comments</comments>
+      <pubDate>Thu, 11 Sep 2014 09:12:02 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=112</guid>
+      <description><![CDATA[先日のAppleの発表を受け、iPhone 6&#038;6 Plus、iOS8の新しい機能や対策の為にGoodpatchでは社内のiOSデザイナー・エンジニアを集めて緊急Podpatchを録音しました！]]></description>
+      <content:encoded><![CDATA[<p>先日のAppleの発表を受け、iPhone 6&#038;6 Plus、iOS8の新しい機能や対策の為にGoodpatchでは社内のiOSデザイナー・エンジニアを集めて緊急Podpatchを録音しました！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/5-about-iphone-66-plus-with-desinger-and-engineers/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/208761/podpatch_66.mp3" length="64974554" type="audio/mpeg"/>
+      <itunes:subtitle>先日のAppleの発表を受け、iPhone 6&amp;6 Plus、iOS8の新しい機能や対策の為にGoodpatchでは社内のiOSデザイナー・エンジニアを集めて緊急Podpatchを録音しました！</itunes:subtitle>
+      <itunes:summary>先日のAppleの発表を受け、iPhone 6&amp;6 Plus、iOS8の新しい機能や対策の為にGoodpatchでは社内のiOSデザイナー・エンジニアを集めて緊急Podpatchを録音しました！</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>45:06</itunes:duration>
+    </item>
+    <item>
+      <title>#4 with early members of Goodpatch</title>
+      <link>http://pod.goodpatch.co/4/</link>
+      <comments>http://pod.goodpatch.co/4/#comments</comments>
+      <pubDate>Sun, 07 Sep 2014 22:00:48 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=103</guid>
+      <description><![CDATA[現在のGoodpatchの今があるのは今回ゲストで登場する4人がいたからこそ！初期メンバーと土屋でそれぞれが何故Goodpatchにジョインしたかなどのストーリーを中心にGoodpatchの魅力がつまったPodpatch [&#8230;]]]></description>
+      <content:encoded><![CDATA[<p>現在のGoodpatchの今があるのは今回ゲストで登場する4人がいたからこそ！初期メンバーと土屋でそれぞれが何故Goodpatchにジョインしたかなどのストーリーを中心にGoodpatchの魅力がつまったPodpatchを配信します！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/4/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/203125/podpatch04.mp3" length="93217820" type="audio/mpeg"/>
+      <itunes:subtitle>現在のGoodpatchの今があるのは今回ゲストで登場する4人がいたからこそ！初期メンバーと土屋でそれぞれが何故Goodpatchにジョインしたかなどのストーリーを中心にGoodpatchの魅力がつまったPodpatch […]</itunes:subtitle>
+      <itunes:summary>現在のGoodpatchの今があるのは今回ゲストで登場する4人がいたからこそ！初期メンバーと土屋でそれぞれが何故Goodpatchにジョインしたかなどのストーリーを中心にGoodpatchの魅力がつまったPodpatch […]</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:04:43</itunes:duration>
+    </item>
+    <item>
+      <title>#3 with Strategy director Fumiya from BEENOS</title>
+      <link>http://pod.goodpatch.co/podpatch3/</link>
+      <comments>http://pod.goodpatch.co/podpatch3/#comments</comments>
+      <pubDate>Sun, 31 Aug 2014 21:30:57 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=97</guid>
+      <description><![CDATA[多くのスタートアップに関わってきているBEENOS戦略ディレクター山本郁也さん@fumyaが登場！広い意味でのデザインや受託ビジネスの醍醐味について充実の内容をお送りします！]]></description>
+      <content:encoded><![CDATA[<p>多くのスタートアップに関わってきているBEENOS戦略ディレクター山本郁也さん@fumyaが登場！広い意味でのデザインや受託ビジネスの醍醐味について充実の内容をお送りします！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/podpatch3/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/193607/podpatch3.mp3" length="43918573" type="audio/mpeg"/>
+      <itunes:subtitle>多くのスタートアップに関わってきているBEENOS戦略ディレクター山本郁也さん@fumyaが登場！広い意味でのデザインや受託ビジネスの醍醐味について充実の内容をお送りします！</itunes:subtitle>
+      <itunes:summary>多くのスタートアップに関わってきているBEENOS戦略ディレクター山本郁也さん@fumyaが登場！広い意味でのデザインや受託ビジネスの醍醐味について充実の内容をお送りします！</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:13:10</itunes:duration>
+    </item>
+    <item>
+      <title>#2 with UI Designer/Director Takimoto</title>
+      <link>http://pod.goodpatch.co/2-with-ui-designerdirector-takimoto/</link>
+      <comments>http://pod.goodpatch.co/2-with-ui-designerdirector-takimoto/#comments</comments>
+      <pubDate>Sun, 24 Aug 2014 22:15:05 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=89</guid>
+      <description><![CDATA[デザイナーとディレクターを兼任する意義やGoodpatchとAndroidについて、Goodpatchの社内恋愛事情などなどをUIデザイナー・ディレクターの瀧本@yuutakimotoとお届けします！]]></description>
+      <content:encoded><![CDATA[<p>デザイナーとディレクターを兼任する意義やGoodpatchとAndroidについて、Goodpatchの社内恋愛事情などなどをUIデザイナー・ディレクターの瀧本@yuutakimotoとお届けします！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/2-with-ui-designerdirector-takimoto/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/184665/podpatch2222.mp3" length="11629466" type="audio/mpeg"/>
+      <itunes:subtitle>デザイナーとディレクターを兼任する意義やGoodpatchとAndroidについて、Goodpatchの社内恋愛事情などなどをUIデザイナー・ディレクターの瀧本@yuutakimotoとお届けします！</itunes:subtitle>
+      <itunes:summary>デザイナーとディレクターを兼任する意義やGoodpatchとAndroidについて、Goodpatchの社内恋愛事情などなどをUIデザイナー・ディレクターの瀧本@yuutakimotoとお届けします！</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>38:42</itunes:duration>
+    </item>
+    <item>
+      <title>#1 with UI Designer Nobtaka.</title>
+      <link>http://pod.goodpatch.co/podpatch1/</link>
+      <comments>http://pod.goodpatch.co/podpatch1/#comments</comments>
+      <pubDate>Sun, 17 Aug 2014 23:00:02 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=75</guid>
+      <description><![CDATA[Pixar訪問の話やApple信者が語るiOS7・8の違い、2人の出会い〜入社に至るまでのストーリーなどをUIデザイナー貫井(@NobtakaJP)がゲストでお送りするGoodpatchらしさが詰まった第1回です！]]></description>
+      <content:encoded><![CDATA[<p>Pixar訪問の話やApple信者が語るiOS7・8の違い、2人の出会い〜入社に至るまでのストーリーなどをUIデザイナー貫井(@NobtakaJP)がゲストでお送りするGoodpatchらしさが詰まった第1回です！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/podpatch1/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/177092/Podpatch11_01.mp3" length="22642179" type="audio/mpeg"/>
+      <itunes:subtitle>Pixar訪問の話やApple信者が語るiOS7・8の違い、2人の出会い〜入社に至るまでのストーリーなどをUIデザイナー貫井(@NobtakaJP)がゲストでお送りするGoodpatchらしさが詰まった第1回です！</itunes:subtitle>
+      <itunes:summary>Pixar訪問の話やApple信者が語るiOS7・8の違い、2人の出会い〜入社に至るまでのストーリーなどをUIデザイナー貫井(@NobtakaJP)がゲストでお送りするGoodpatchらしさが詰まった第1回です！</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>53:52</itunes:duration>
+    </item>
+    <item>
+      <title>#0 with Yasuhisa from Automagic and UI Designer Mikihiro.</title>
+      <link>http://pod.goodpatch.co/podcast0/</link>
+      <comments>http://pod.goodpatch.co/podcast0/#comments</comments>
+      <pubDate>Fri, 08 Aug 2014 11:38:07 +0000</pubDate>
+      <dc:creator><![CDATA[mario]]></dc:creator>
+      <category><![CDATA[未分類]]></category>
+      <guid isPermaLink="false">http://pod.goodpatch.co/?p=58</guid>
+      <description><![CDATA[AppleやGoogleのデザインからウェアラブルデバイスまで、CEOの土屋とAutomagicの長谷川恭久さん(@yhassy)、UXデザイナー藤井(@mikihirocks)と共に白熱のトークを繰り広げます！]]></description>
+      <content:encoded><![CDATA[<p>AppleやGoogleのデザインからウェアラブルデバイスまで、CEOの土屋とAutomagicの長谷川恭久さん(@yhassy)、UXデザイナー藤井(@mikihirocks)と共に白熱のトークを繰り広げます！</p>
+]]></content:encoded>
+      <wfw:commentRss>http://pod.goodpatch.co/podcast0/feed/</wfw:commentRss>
+      <slash:comments>0</slash:comments>
+      <enclosure url="http://tracking.feedpress.it/link/8620/170174/podpatch0.mp3" length="20132103" type="audio/mpeg"/>
+      <itunes:subtitle>AppleやGoogleのデザインからウェアラブルデバイスまで、CEOの土屋とAutomagicの長谷川恭久さん(@yhassy)、UXデザイナー藤井(@mikihirocks)と共に白熱のトークを繰り広げます！</itunes:subtitle>
+      <itunes:summary>AppleやGoogleのデザインからウェアラブルデバイスまで、CEOの土屋とAutomagicの長谷川恭久さん(@yhassy)、UXデザイナー藤井(@mikihirocks)と共に白熱のトークを繰り広げます！</itunes:summary>
+      <itunes:author>Goodpatch Inc.</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1:07:04</itunes:duration>
+    </item>
+  </channel>
+</rss>

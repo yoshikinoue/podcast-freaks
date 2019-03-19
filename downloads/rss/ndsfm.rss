@@ -1,0 +1,947 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <atom:link href="https://nagaokadevelopersstudy.github.io/ndsfm/feed.xml" rel="self" type="application/rss+xml"/>
+
+    <title>NDS FM</title>
+    <link>https://nagaokadevelopersstudy.github.io/ndsfm</link>
+    <description>NDS 界隈の人々が語らうポッドキャストです</description>
+    <language>JA</language>
+    <copyright>NDSFM 2018</copyright>
+    <image>
+      <url>https://nagaokadevelopersstudy.github.io/ndsfm/artwork.png</url>
+    </image>
+		<itunes:author>Shintaro Abe</itunes:author>
+		<itunes:owner>
+			<itunes:name>Shintaro Abe</itunes:name>
+			<itunes:email>nfsfm@dictav.net</itunes:email>
+		</itunes:owner>
+    <itunes:category text="Technology"/>
+    <itunes:keywords>
+      nds,ndsfm,nagaoka,長岡,niigata,新潟,tech,it,programing,プログラミング,server,サーバー,backend,バックエンド,fontend,フロントエンド
+    </itunes:keywords>
+    <itunes:explicit>no</itunes:explicit>
+
+    
+    <item>
+      <pubDate>Tue, 05 Mar 2019 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_014.mp3" length="28644783" type="audio/mp3" />
+      <title>014. TDDBC 長岡を振り返る</title>
+      <description><![CDATA[<section class="description">
+  <p>第14回NDSFMはまさるさん(@masaru_b_cl) とTDDBC長岡の参加者をゲストにお迎えしてTDDBCを振り返りました。ゲストには以下の方々に来ていただきました。</p>
+
+<ul>
+  <li><a href="https://twitter.com/civic">civic</a> さん: python + pytest (PyCharm)</li>
+  <li><a href="https://twitter.com/kai_pop">kai_pop</a> さん: C# + MSTest (Visual Studio)</li>
+  <li><a href="https://twittercom/kasacchiful">カサハラ</a>さん: python + pytest</li>
+  <li><a href="https://twitter.com/meganezarudev/">ゴトウ</a> さん: JavaScript + Jest</li>
+</ul>
+
+<p>まさるさんは オーガナイザーとして遠方からTAの方々を呼んだり、会場の手配などイベント準備を1人で行ってくださいました。
+開催にあたって大変だったこと、どのように準備を始めたのかをお聞きしました。
+他のゲストの方々からは、実際に参加してみて良かったことや大変だったことなどを参加者の視点でお話ししていただきました。</p>
+
+<h2 id="お知らせ">💡お知らせ</h2>
+
+<ul>
+  <li>2019.03.09 (土) <a href="https://jawsug-niigata.connpass.com/event/118265/">JAWS-UG 新潟 #3 - 酒の陣 特別編 -</a> が開催されます。新潟酒の陣とセットの素晴らしいイベントなので、日本酒好きな人もぜひ。</li>
+</ul>
+
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="https://tddbc.connpass.com/event/112293/" target="_blank">TDDBC 長岡 2019-02</a></li>
+  <li><a href="http://devtesting.jp/tddbc/" target="_blank">TDDBC</a></li>
+  <li><a href="https://www.amazon.co.jp/dp/4274217884/" target="_blank">テスト駆動開発 (Kent Beck著、和田卓人監訳、オーム社、2017年)</a></li>
+  <li><a href="http://blog.yuhiisk.com/archive/2019/02/26/tddbc-nagaoka.html" target="_blank">#TDDBC 長岡に参加してTDDを入門しました - イソップブログ</a></li>
+  <li><a href="https://medium.com/@dictav/tddbc-%E9%95%B7%E5%B2%A1-%E3%81%AB-ta-%E3%81%A8%E3%81%97%E3%81%A6%E5%8F%82%E5%8A%A0%E3%81%97%E3%81%A6%E3%81%8D%E3%81%BE%E3%81%97%E3%81%9F-4e825d9a1ce5" target="_blank">TDDBC 長岡 に TA として参加してきました</a></li>
+  <li><a href="https://togetter.com/li/1318049" target="_blank">#TDDBC 長岡 2019-02 みんなのつぶやき - Togetter</a></li>
+  <li><a href="https://www.civic-apps.com/2019/02/11/tddbc-2019-02/" target="_blank">TDDBC 長岡に参加してきました | civic site</a></li>
+  <li><a href="https://dev.classmethod.jp/event/tddbc-nagaoka-2019-02-report/" target="_blank">「TDDBC 長岡 2019-02」を2019/2/9(土)に開催しました #tddbc ｜ DevelopersIO</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>第14回NDSFMはまさるさん(masaru_b_cl) とTDDBC長岡の参加者をゲストにお迎えしてTDDBCを振り返りました
+</itunes:summary>
+      <itunes:duration>3580.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Sat, 19 Jan 2019 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_013.mp3" length="29601068" type="audio/mp3" />
+      <title>013. TDDBC 長岡開催 - TDD とは何か？テストを開発に活用する</title>
+      <description><![CDATA[<section class="description">
+  <p>第13回NDSFMはまさるさん(masaru_b_cl) をゲストにお迎えしてTDDBC長岡の開催前情報としてTDDとは何か、TDDBCに参加するとどんなことが体験できるのかについて話しました。</p>
+
+<h2 id="お知らせ">💡お知らせ</h2>
+
+<ul>
+  <li>2019.02.09 (土) 長岡まちなかキャンパスで <a href="https://tddbc.connpass.com/event/112293/">TDDBC 長岡</a> が開催されます</li>
+  <li>2019.03.02 (土) 長岡まちなかキャンパスで <a href="http://nagaoka.techtalk.jp/no59">第59回NDS勉強会</a> が開催されます</li>
+</ul>
+
+<h2 id="内容">内容</h2>
+
+<blockquote>
+  <p>TDD とはなんでしょうか？</p>
+</blockquote>
+
+<p>Test Driven Development、テスト駆動開発などと日本語では訳しますが、プログラムの挙動を確認しながら開発を行おうという開発手法です。開発者の思い通りにプログラムが動作することを確認し、安全にコードを書き進めるためにテストを書きます。</p>
+
+<p><strong>TDDの「黄金の回転」(inspired by <a href="http://comic-bunko.shueisha.co.jp/plan/sbr/">STEEL BALL RUN</a>)</strong></p>
+
+<iframe src="//www.slideshare.net/slideshow/embed_code/key/GcQ7SzVAQNOpWU" width="595" height="485" frameborder="0" marginwidth="0" marginheight="0" scrolling="no" style="border:1px solid #CCC; border-width:1px; margin-bottom:5px; max-width: 100%;" allowfullscreen=""> </iframe>
+<div style="margin-bottom:5px"> <strong> <a href="//www.slideshare.net/t_wada/the-spirit-of-tdd" title="TDD のこころ" target="_blank">TDD のこころ</a> </strong> from <strong><a href="https://www.slideshare.net/t_wada" target="_blank">Takuto Wada</a></strong> </div>
+
+<ol>
+  <li>テストを書く</li>
+  <li>テストを実行して失敗させる(Red)</li>
+  <li>目的を達成するための最短のコードを書く</li>
+  <li>テストを実行して成功させる(Green)</li>
+  <li>テストが通ったまま本来あるべきコードに段階的に変更する(Refactoring)</li>
+  <li>1〜5を繰り返す</li>
+</ol>
+
+<!--
+> なぜテストが必要なんでしょうか？
+> ぼくはプログラムを書いている時、動作を確認するためにプログラムを実行し出力を確認したり、デバッグプリントで確認したことがあると思います。この行為が3回以上あるような時にテストを書いています。それは複数回行われることだし、毎回自分で確認するのは面倒だからです。
+
+
+> テストがなくて苦労したことはありますか
+> 人のコードや自分の古いコードの挙動を変更する時に困りました。どこに影響がでるか調べるのはとても難しいです。
+-->
+
+<blockquote>
+  <p>どんなテストを書くべきでしょうか？テストにも設計や仕様書は必要ですか？</p>
+</blockquote>
+
+<p>TDDで書くテストは「開発者テスト」です。つまり「開発者が思った通りに動くことを確認する」テストを書きます。
+したがって、テストとしての仕様書はなくても構いませんが、プログラムの設計書や仕様書はあった方が良いでしょう。あと、「思った通りに動くこと」を保証するには、どのような観点や条件のテストを行ったら良いかを知らなけれいけません。そのためには、基本的な「テスト技法」を知っていた方が良いでしょう。</p>
+
+<ul>
+  <li>同値分割</li>
+  <li>境界値分析</li>
+  <li>デシジョンテーブル</li>
+  <li>Pairwise法</li>
+  <li>etc…</li>
+</ul>
+
+<blockquote>
+  <p>TDDBC に出るとどんな良いことがありますか？</p>
+</blockquote>
+
+<p>日本におけるTDDの第一人者である和田卓人氏から、直にそのエッセンスを学ぶことができます。
+また、TDDを学びたいという同志と出会い、共に第一歩を踏み出せます。一人でもTDDは始められますが、一人よりは二人の方が気持ちの上でのハードルは下がりますからね</p>
+
+<blockquote>
+  <p>テストは必ず必要ですか？カバレッジは100％である必要はありますか？</p>
+</blockquote>
+
+<p>プログラムを構成するコードには、実際にはテストがしやすいものとそうでないものがあります。
+例えば、UIに関する動作については、そもそもUIの自動化自体のハードルが高いことに加え、UIはもっとも変更されやすい部分の一つであるため、せっかく書いたテストがすぐ陳腐化してしまうということがあります。したがって、UIに関するテストは、必ずしも書かないといけないものではありません。
+また、よくある質問に「プライベートメソッドのテストは必要か？」というものがあります。こちらについては、本来テストで確認すべきなのは、プログラムの入出力であるはずで、実際に「どのように」動作しているかはブラックボックスでも構わないはずです。したがって、プライベートメソッドはパブリックメソッドを通じてテストされるはずなので、無理をしてプライベートメソッドのテストはしなくても良いです。なお、プライベートメソッドは変更される頻度が高めであるということも、テストしないでも良い理由の一つです。
+それでもなおテストしたいプライベートメソッドが出てきたら、それはもうプライベートメソッドではなく、別の型やパッケージのメソッド、関数として切り出すべきです。その方が、テストをするコストも小さく済みます。
+どんな時にテストを書いて、どんな時に書かないかについては、ボブおじさんことロバート・C・マーチンが書いた「Pragmatic TDD」というブログエントリも参考になります。高野が意訳もりもりで訳したエントリもありますので、ぜひ見てみてください。</p>
+
+<ul>
+  <li><a href="https://blog.cleancoder.com/uncle-bob/2013/03/06/ThePragmaticsOfTDD.html">The Pragmatics of TDD - Clean Coder Blog</a></li>
+  <li><a href="https://takanosho.wordpress.com/2013/03/08/the-pragmatics-of-tdd-ja/">TDDしないケースについてのUncle Bobの考え - be free</a></li>
+</ul>
+
+<blockquote>
+  <p>テストにはどんなツールを使うのが良いでしょうか？</p>
+</blockquote>
+
+<p>最近の大抵のプログラミング言語には、デファクトスタンダードとなるような「テスティングフレームワーク」があるのでそれを使うのが良いでしょう。</p>
+
+<p><em>例</em></p>
+
+<ul>
+  <li>Java
+    <ul>
+      <li>JUnit</li>
+    </ul>
+  </li>
+  <li>C#
+    <ul>
+      <li>xUnit.net</li>
+      <li>NUnit</li>
+      <li>MSTest</li>
+    </ul>
+  </li>
+  <li>JavaScript
+    <ul>
+      <li>mocha</li>
+      <li>Jest</li>
+      <li>QUnit</li>
+      <li>Jasmine</li>
+    </ul>
+  </li>
+  <li>Python
+    <ul>
+      <li>pytest</li>
+    </ul>
+  </li>
+  <li>Go
+    <ul>
+      <li>testing</li>
+    </ul>
+  </li>
+</ul>
+
+<p>さらに、テストの中で行う「検証」をわかりやすく、簡単に描けるようなサポートライブラリもあるので、こういったものを使うのを検討しても良いでしょう。</p>
+
+<p><em>例</em></p>
+<ul>
+  <li>Java
+    <ul>
+      <li>AssertJ</li>
+    </ul>
+  </li>
+  <li>C#
+    <ul>
+      <li>Chaining Assertion</li>
+    </ul>
+  </li>
+  <li>JavaScript
+    <ul>
+      <li>power-assert</li>
+    </ul>
+  </li>
+</ul>
+
+<p>もしテスティングフレームワークがない環境だった時は、「入力」と「出力」の組を与えてプログラムの実行と検証を行うようなスクリプトを自分で書いてしまうのもありです。書籍：テスト駆動開発の第2章では、Pythonを使ってそのような仕組みをTDDで作る過程を扱っていますので、参考にすると良いでしょう。</p>
+
+<blockquote>
+  <p>おすすめの書籍やサイトはありますか？</p>
+</blockquote>
+
+<ul>
+  <li>書籍
+    <ul>
+      <li><a href="https://www.amazon.co.jp/dp/4274217884/">テスト駆動開発 (Kent Beck著、和田卓人監訳、オーム社、2017年) </a></li>
+    </ul>
+  </li>
+  <li>サイト
+    <ul>
+      <li><a href="https://www.slideshare.net/t_wada/the-spirit-of-tdd">TDD のこころ</a></li>
+      <li><a href="http://gihyo.jp/dev/serial/01/tdd?skip">-動画で解説- 和田卓人の“テスト駆動開発”講座：連載｜gihyo.jp … 技術評論社</a></li>
+      <li><a href="https://twop.agile.esm.co.jp/what-frustration-did-tdd-want-to-solve-about-programmer-a67dc28ad6ea">付録Cだけじゃない！付録Aに隠されたTDDの狙いとは？〜テスト駆動開発をやめて、なお残すべき習慣とは(10)</a></li>
+      <li><a href="https://twop.agile.esm.co.jp/what-do-we-need-for-growth-of-future-65c43b5a8fe2">希薄化したTDD、プロダクトの成長のために必要なものは？〜『健全なビジネスの継続的成長のためには健全なコードが必要だ』対談 （６）</a></li>
+      <li><a href="https://togetter.com/li/361483">privateメソッドのテストについて - Togetter</a></li>
+    </ul>
+  </li>
+</ul>
+
+<blockquote>
+  <p>テストを行うために本来必要なスコープを広げる必要があります。問題ないでしょうか？
+スコープを狭めることでコードを読む時に気にする範囲も狭めることができます。また、コードを書き換えたり削除する際にも外部に影響が出る心配をしなくて済みます。</p>
+</blockquote>
+
+<p>スコープを広げるくらいなら、「一つのことをうまくやる」型や関数に切り出し、それを利用するように変更してしまうと良いでしょう。そうすれば、切り出した部分について、別途テストを書いて開発を進めることができます。また、こうすることで、「処理」に必要なインターフェースや状態が明確になるので、結果としてコードがわかりやすくなることもよくあります。</p>
+
+<p>ただし、例外として既に既存の資産が膨大にあり、なおかつある「枠組み」に沿ってコードを書くことが強制されたような環境では、「テストコードからのみ参照できる」ようにスコープを広げることもあります。例えば、Javaの場合アクセス修飾子を書かなければパッケージプライベート(同一パッケージ内からは参照可能)になるので、テストコードと製品コードのパッケージを同じにして対処したりします。また、.NET言語ではInternalsVisibleToという属性をつけると、テストプロジェクトのみ参照可能な状態を作り出せます。</p>
+
+<style>
+blockquote {
+  font-family: italic;
+  background-color: #eee;
+  margin: 20px 0px;
+  padding: 4px 2em;
+}
+</style>
+
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="http://devtesting.jp/tddbc/" target="_blank">TDDBC</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>第13回NDSFMはまさるさん(masaru_b_cl) をゲストにお迎えしてTDDBC長岡の開催前情報としてTDDとは何か、TDDBCに参加するとどんなことが体験できるのかについて話しました。
+</itunes:summary>
+      <itunes:duration>3700.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Sun, 06 Jan 2019 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_012.mp3" length="28768497" type="audio/mp3" />
+      <title>012. React + Redux によるウェブフロントエンドの実装/より良いキーボードを求めて</title>
+      <description><![CDATA[<section class="description">
+  <p>第12回NDSFMはマツイさん(circled9) をゲストにお迎えして、ウォーターセル株式会社のサービス「アグリノート」のウェブフロントエンドについて聞きました。アグリノートでは早くから Web UI に React + Redux を使用しており、TypeScript や Flow を利用しているそうです。TypeScript や Flow の使い分けや React + Redux で良かったことや辛いことなどを話してくれました。
+また、キーボードにこだわりがあるとのことで Happy Hacking Keyboard や RealForce、Ergodox の使用感について教えていただきました。</p>
+
+<h2 id="お知らせ">💡お知らせ</h2>
+
+<ul>
+  <li>2019.01.19 (土) 長岡市社会福祉センター「トモシア」で<a href="https://pyml-niigata.connpass.com/event/112465/">Python機械学習勉強会</a>が開催されます。普段は新潟で行われている勉強会の長岡出張版です。ハンズオン形式で Tensorflow や Keras に触れることができそう。楽しみです。</li>
+  <li>2019.02.09 (土) 長岡まちなかキャンパスで <a href="https://tddbc.connpass.com/event/112293/">TDDBC 長岡</a> が開催されます!</li>
+</ul>
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="http://water-cell.jp" target="_blank">ウォーターセル株式会社</a></li>
+  <li><a href="https://www.agri-note.jp" target="_blank">アグリノート</a></li>
+  <li><a href="https://www.typescriptlang.org" target="_blank">TypeScript</a></li>
+  <li><a href="https://flow.org" target="_blank">Flow</a></li>
+  <li><a href="https://webpack.js.org" target="_blank">WebPack</a></li>
+  <li><a href="https://rollupjs.org" target="_blank">RollupJS</a></li>
+  <li><a href="https://eslint.org" target="_blank">ESLint</a></li>
+  <li><a href="https://reactjs.org" target="_blank">React</a></li>
+  <li><a href="https://redux.js.org" target="_blank">Redux</a></li>
+  <li><a href="https://vuejs.org" target="_blank">Vue</a></li>
+  <li><a href="https://www.pfu.fujitsu.com/hhkeyboard/" target="_blank">Happy Hacking Keyboard</a></li>
+  <li><a href="http://www.realforce.co.jp" target="_blank">RealForce</a></li>
+  <li><a href="https://ergodox-ez.com" target="_blank">Ergodox EZ</a></li>
+  <li><a href="https://www.massdrop.com/buy/infinity-ergodox" target="_blank">Infinity Ergodox</a></li>
+  <li><a href="https://qmk.fm/toolbox/" target="_blank">QMK Firmware</a></li>
+  <li><a href="https://github.com/MakotoKurauchi/helix" target="_blank">Helix</a></li>
+  <li><a href="https://yushakobo.jp/shop/helix-keyboard-kit/" target="_blank">遊舎工房</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>第12回NDSFMはマツイさん(circled9) をゲストにお迎えしてアグリノートのウェブフロントエンドについてお聴きしました。
+</itunes:summary>
+      <itunes:duration>3596.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Fri, 21 Dec 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_011.mp3" length="32686416" type="audio/mp3" />
+      <title>011. NDS第58回勉強会振り返り会</title>
+      <description><![CDATA[<section class="description">
+  <p>第11回NDSFMではmasaru_b_clさん、kai_popさんをゲストにお迎えしてNDS第58回勉強会の振り返りました。
+NDS58は Web Audio と電子デバイスを組み合わせて楽器を作った話や、書籍を出版したりイベントを主催した話、大地の芸術祭など盛りだくさんの内容となりました。いろんな環境で働く皆さんの知見が集まるとても面白い会でした。</p>
+
+<h2 id="お知らせ">💡お知らせ</h2>
+
+<ul>
+  <li>2019.01.19 (土) 長岡市社会福祉センター「トモシア」で<a href="https://pyml-niigata.connpass.com/event/112465/">Python機械学習勉強会</a>が開催されます。普段は新潟で行われている勉強会の長岡出張版です。ハンズオン形式で Tensorflow や Keras に触れることができそう。楽しみです。</li>
+  <li>2019.02.09 (土) 長岡まちなかキャンパスで <a href="https://tddbc.connpass.com/event/112293/">TDDBC 長岡</a> が開催されます!</li>
+</ul>
+
+<h3 id="トーク">トーク</h3>
+
+<p>トークのスライドなどはリンク先を参照してください。</p>
+
+<ul>
+  <li><a href="https://t.co/6jTL2VFfMn">「AWS、ソフトウェアテスト、機械学習など、いろいろふりかえる」(kasacchiful) 15分</a></li>
+  <li>「obnizとWeb Audio APIで楽器を作ってみた」(kai_pop) 15分</li>
+  <li><a href="https://docs.google.com/presentation/d/e/2PACX-1vS0Wcm_rSYyFsbMLjkMMYM3_JX0yjbo6im27miZSYAXnbSyQswxA0yL0WY5F6KgylpJXNWbsMYoZ75r/embed">「ブラウザでスクレイピングを考える」(civic) 15分</a></li>
+  <li>「1年間ベンチャーでアルバイトした話」(ゲイン) 10分</li>
+  <li><a href="https://www.slideshare.net/sakapun/2018-125353192">「サーバーレスでやったこと」(sakapun)</a></li>
+  <li><a href="https://speakerdeck.com/nkzn/output2019-nu-tao-false50lian-fa">「今年のアウトプット50連発（概算）」(なかざん) 15分</a></li>
+  <li>「2018年あなたのやったこと→転職」(bdpr) 10分</li>
+  <li>「転職&amp;在宅リモートワーク始めました」(masaru_b_cl) 15分</li>
+  <li>「大地の芸術祭に行ってみた」(icorokamoto) 15分</li>
+  <li>「モバイルアプリエンジニアが東京から地方へ転職しました(仮)」(うじ川) 10分</li>
+  <li>「JSのバンドルやトランスパイルの話」(circled9) LT5分</li>
+  <li>「Linuxサーバ研修の企画」(yamadoc) LT5分</li>
+  <li>「Python機械学習勉強会のご案内」(itagakim) LT5分</li>
+  <li>「【情シス in 新潟】のご案内」(HideKst) LT5分</li>
+</ul>
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="http://nagaoka.techtalk.jp/no58" target="_blank">NDS第58回勉強会 -</a></li>
+  <li><a href="https://www.civic-apps.com/2018/12/10/nds58/" target="_blank">第58回 長岡IT開発者勉強会に参加してきました</a></li>
+  <li><a href="http://gonchan93.hatenablog.jp/entry/2018/12/09/103748" target="_blank">第58回長岡IT開発者勉強会に参加してきました</a></li>
+  <li><a href="https://dev.classmethod.jp/study_meeting/nds58-report/" target="_blank">第58回長岡IT開発者勉強会(NDS) テーマ「2018年あなたのやったこと報告会」に参加＆登壇してきました</a></li>
+  <li><a href="https://www.hotpepper.jp/strJ000725637/" target="_blank">忘年会 大衆割烹 十字路</a></li>
+  <li><a href="https://www.amazon.co.jp/実践Expo-React-NativeとFirebaseで、SNSアプリを最速ストアリリース！-NextPublishing-前田-翼/dp/484439875X/ref=sr_1_fkmr1_3?ie=UTF8&qid=1545478151&sr=8-3-fkmr1&keywords=Expo+JavaScript" target="_blank">EXIPO</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>第11回NDSFMではmasaru_b_clさん、kai_popさんをゲストにお迎えしてNDS第58回勉強会の振り返りました。
+</itunes:summary>
+      <itunes:duration>4361.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Sat, 01 Dec 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_010.mp3" length="38274042" type="audio/mp3" />
+      <title>010. 技術書執筆, 農業IT, React Native</title>
+      <description><![CDATA[<section class="description">
+  <p>第10回NDSFMでは nkzn (なかざん) さんに農業IT, 技術書執筆, React Nativeについて話していただきました。
+普段あまり聞くことのできない農業とITについて、nkzn さんの働いているウォーターセルとそのプロダクトであるアグリノートのことや、他の農業ITとの連携についてなど、まさに農業ITの今を聴くことができました。
+最近、Android の入門書を執筆されたとのことで、その体験談も面白かったです。書籍についてはこのページの最後でプレゼント の案内がありますので、ぜひご応募ください。
+React Native for Web を実践投入した話などはとても興味深かったです。</p>
+
+<p><i>
+冒頭のジングルは kai_pop さんにご提供いただきました。ありがとうございます。
+</i></p>
+
+<p>
+<h2>💡お知らせ</h2>
+<ul>
+<li> 12月08日（土）14:00、長岡市まちなかキャンパス501会議室でNDS第58回勉強会が開催されます。面白そうな話がいっぱい聞けそう！
+<a href="http://nagaoka.techtalk.jp/no58">http://nagaoka.techtalk.jp/no58</a></li>
+<li> 12月08日（土）18:30 からは NDB 新潟デベロッパーズ忘年会です！お酒を飲みながらテックトークしましょう！
+<a href="https://nds.connpass.com/event/107743/">https://nds.connpass.com/event/107743/</a></li>
+</ul>
+</p>
+
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="https://www.amazon.co.jp/dp/B07HFTGG7R/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1" target="_blank">たった1日で基本が身に付く！Androidアプリ開発超入門</a></li>
+  <li><a href="https://vivliostyle.com/ja/" target="_blank">CSS組版 / VivlioStyle</a></li>
+  <li><a href="https://github.com/kmuto/review" target="_blank">ReVIEW (kmuto/review）</a></li>
+  <li><a href="https://techbookfest.org" target="_blank">技術書典</a></li>
+  <li><a href="http://redpen.cc/index.html" target="_blank">RedPen</a></li>
+  <li><a href="https://github.com/prh/prh" target="_blank">vvakame/prh</a></li>
+  <li><a href="https://github.com/textlint/textlint" target="_blank">textlint</a></li>
+  <li><a href="https://techbooster.org" target="_blank">TECHBOOSTER</a></li>
+  <li><a href="https://water-cell.jp" target="_blank">ウォーターセル株式会社</a></li>
+  <li><a href="https://www.agri-note.jp" target="_blank">アグリノート</a></li>
+  <li><a href="https://www.nhk.or.jp/gendai/articles/4202/index.html" target="_blank">クローズアップ現代</a></li>
+  <li><a href="https://jfaco.jp/column/714" target="_blank">自動水門</a></li>
+  <li><a href="https://www.nousouken.co.jp" target="_blank">農業総合研究所</a></li>
+  <li><a href="http://necolas.github.io/react-native-web/examples/" target="_blank">React Native for Web</a></li>
+  </ul>
+</section><h4>🎁プレゼント</h4>
+<div class="present">
+<div class="text">
+
+<p>
+nkznさんが執筆した「たった1日で基本が身に付く！Androidアプリ開発超入門」をごきぼうのかたにプレゼントします。特に締め切りはありませんのでご気軽にご応募ください。
+</p>
+
+<p>
+応募方法は簡単です。<a href="//twitter.com/search?q=%23ndsfm&f=tweets"><img class="twitter" src="img/twitter.png">#ndsfm</a> 、または <a href="//discord.gg/TvAWxWq"><img class="discord" src="img/discord.png" alt="discord"></a>まで<b>感想</b> に「たった1日で基本が身に付く！Androidアプリ開発超入門欲しい」と添えてコメントをください。
+当選者には<a href="//twitter.com/dictav">@dictav</a>からDMを送らせていただきます。
+</p>
+</div>
+<div class="item">
+  <iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&bc1=000000&IS2=1&bg1=FFFFFF&fc1=000000&lc1=0000FF&t=dictav-22&language=ja_JP&o=9&p=8&l=as4&m=amazon&f=ifr&ref=as_ss_li_til&asins=B07HFTGG7R&linkId=721514dcbd03ef643ac73bc35438b06"></iframe>
+</div>
+</div>]]></description>
+      <itunes:summary>第10回NDSFMでは nkzn (なかざん) さんに農業IT, 技術書執筆, React Nativeについて話していただきました
+</itunes:summary>
+      <itunes:duration>4784.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Wed, 21 Nov 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_009.mp3" length="32686416" type="audio/mp3" />
+      <title>009. NDS第57回勉強会振り返り会</title>
+      <description><![CDATA[<section class="description">
+  <p><b>収録内で「e プロファイル」と言っている部分がありますが、正しくは「e ポートフォリオ」です</b></p>
+
+<p>第9回NDSFMではcivicさん、masaru_b_clさん、hiro55bsさんをゲストにお迎えしてNDS第57回勉強会の振り返りました。
+実際に使っているツールをOSSとして公開し、様々なCIツールを使って管理している話や、中学生が自分のほしいものをセンサーやUnityを駆使して開発している話などとても刺激を受けました。またまさるさんとイシバシさんがゲストに来てくれたので、新人教育など会社という組織における教育について熱く話してもらいました。</p>
+
+<p>いろんな話が聞ける、話せる勉強会 NDS へぜひ遊びにきてみてください！忘年会NDBもあるのでより深く話し込みたい場合はこちらもおススメです！</p>
+
+<p>
+<h2>💡お知らせ</h2>
+<ul>
+<li> 11月24日（土）15:00、新潟市中央図書館ほんぽーとでJAWS-UG 新潟の発足イベントがあります。四半期に1度のペースで勉強会の開催を予定されているそうなので、魅力的なコミュニティになると思います。新潟市近郊にお住いの方でAWSに興味のある方はぜひ足を運んでみてください。
+<a href="https://jawsug-niigata.connpass.com/event/96087/">https://jawsug-niigata.connpass.com/event/96087/</a></li>
+<li> 12月08日（土）14:00、長岡市まちなかキャンパス501会議室でNDS第58回勉強会が開催されます。面白そうな話がいっぱい聞けそう！
+<a href="http://nagaoka.techtalk.jp/no58">http://nagaoka.techtalk.jp/no58</a></li>
+<li> 12月08日（土）18:30 からは NDB 新潟デベロッパーズ忘年会です！お酒を飲みながらテックトークしましょう！
+<a href="https://nds.connpass.com/event/107743/">https://nds.connpass.com/event/107743/</a></li>
+</ul>
+</p>
+
+<p>
+<h3>トーク</h3>
+
+トークのスライドなどはリンク先を参照してください。
+
+
+<ul>
+<li> 「新入社員研修の作り方～完全版～」(masaru_b_cl) 30分
+<li> 「ITマスターについて」(zhjhanda) 10分
+<li> 「Google Colabで試す、Kerasを使った画像認識」(kasacchiful) 20分
+<li> 「はじめてのOSSライブラリ開発記」(Watanabe) 20分
+<li> 「オンライン英会話ビジネス史」(civic) 20分
+<li> 「中学生エンジニアやってます」(wacode) 10分
+<li> 「レガシーWebシステムをどうにかしたい」(gonchan93) 15分
+<li> 「C#で、新入社員研修　～ ライブ版 ～」(ailight) 15分
+<li> 「学校教育の変革とそれを支えるICT、を支えるカオスモンキー業」(しんぺい a.k.a. 猫型蓄音機) 20分
+<li> 「おわびのLT」(ToruAbe) LT(5分)
+<li> 「Androidアプリ開発の入門本を書きながら気にしたこと」(なかざん) LT(5分)
+<li> 「オンライン学習被害者の会」(あな) LT(5分)
+<li> 「研修報告について」(yamaken) LT(5分) 
+&lt;/ul&gt;
+
+
+</li></li></li></li></li></li></li></li></li></li></li></li></li></ul></p>
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="http://nagaoka.techtalk.jp/no57" target="_blank">NDS第57回勉強会 - 学習・教育</a></li>
+  <li><a href="https://togetter.com/li/1271606" target="_blank">長岡 IT開発者 勉強会(NDS) 第57回勉強会 テーマ「学習・教育」まとめ　2018/09/29</a></li>
+  <li><a href="https://www.civic-apps.com/2018/09/30/nds57/" target="_blank">nds57 長岡IT開発者勉強会 NDS に参加してきました | civic site</a></li>
+  <li><a href="http://yuw27b.hatenablog.com/entry/2018/10/01/224733" target="_blank">NDS第57回勉強会に行ってきたよ - yuw27b’s blog</a></li>
+  <li><a href="https://nekogata.hatenablog.com/entry/2018/10/02/102233" target="_blank">NDS57 で発表してきました - 猫型の蓄音機は 1 分間に 45 回にゃあと鳴く</a></li>
+  <li><a href="https://www.washio.net/wacode/nds57/" target="_blank">NDS 長岡IT開発者勉強会 参加してきました – wacode</a></li>
+  <li><a href="https://dev.classmethod.jp/study_meeting/nds57-report/" target="_blank">あらゆる「学習・教育」がテーマの第57回 長岡IT開発者勉強会に参加しました＆私も新入社員研修の作り方について発表してきました</a></li>
+  <li><a href="https://jep.jp" target="_blank">e-Portfolio</a></li>
+  <li><a href="https://github.com/Netflix/SimianArmy/wiki/Chaos-Monkey" target="_blank">Chaos Monkey</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>第9回NDSFMではcivicさん、masaru_b_clさん、hiro55bsさんをゲストにお迎えしてNDS第57回勉強会の振り返りました。
+</itunes:summary>
+      <itunes:duration>4361.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Sat, 03 Nov 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_008.mp3" length="32686416" type="audio/mp3" />
+      <title>008. JAWS-UG新潟の発足と機械学習・ディープラーニングのための自己学習・資格取得</title>
+      <description><![CDATA[<section class="description">
+  <p>
+<h2>💡お知らせ</h2>
+11月24日（土）の15:00から新潟市中央図書館ほんぽーとでJAWS-UG 新潟の発足イベントがあります。四半期に1度のペースで勉強会の開催を予定されているそうなので、魅力的なコミュニティになると思います。新潟市近郊にお住いの方でAWSに興味のある方はぜひ足を運んでみてください。
+<a href="https://jawsug-niigata.connpass.com/event/96087/">https://jawsug-niigata.connpass.com/event/96087/</a>
+</p>
+
+<p>第8回NDSFMではカサハラさんをゲストにお迎えして JAWS-UG 新潟発足についてお話を伺いました。また、機械学習やディープラーニングを新潟でサービス展開するにあたり、資格取得などを活用しての学習が非常に重要になるのだなあとお話を聞いて思いました。
+カサハラさんは JAWS-UG 以外にも新潟市内で他のIT勉強会や企業向けのセミナーの講師を務めるなど非常に活発に活動されており、他の勉強会の話も非常に興味深かったです。特に合宿形式でテスト開発について学ぶWACATEという勉強会（ワークショップ）は24,000円と一見お高いですが、宿泊費、宴会費、食費を含んでの開催なので旅行気分で楽しめたらすごく面白そうです。新潟でも岩室のあたりで勉強会合宿できたら面白そう。興味のある方はぜひ声を聞かせてください！</p>
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="https://nem.connpass.com/" target="_blank">NEM - Niigata Engineers Meeting</a></li>
+  <li><a href="https://aws.amazon.com/sagemaker/" target="_blank">Amazon SageMaker</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/機械学習" target="_blank">機械学習</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/ディープラーニング" target="_blank">ディープラーニング</a></li>
+  <li><a href="https://tensorflow.org" target="_blank">TensorFlow</a></li>
+  <li><a href="https://js.tensorflow.org/" target="_blank">TensorFlow.js</a></li>
+  <li><a href="https://keras.io" target="_blank">Keras</a></li>
+  <li><a href="http://scikit-learn.org/stable" target="_blank">scikit-learn</a></li>
+  <li><a href="https://github.com/pytorch/pytorch" target="_blank">PyTorch</a></li>
+  <li><a href="https://www.python.org" target="_blank">Python</a></li>
+  <li><a href="https://www.r-project.org" target="_blank">R</a></li>
+  <li><a href="http://aster.or.jp" target="_blank">ソフトウェアテスト技術振興協会(ASTER)</a></li>
+  <li><a href="http://jasst.jp/attribute.html" target="_blank">JaSST新潟</a></li>
+  <li><a href="https://swanii.connpass.com" target="_blank">新潟ソフトウェア開発者勉強会（すわにい）</a></li>
+  <li><a href="http://wacate.jp" target="_blank">WACATE</a></li>
+  <li><a href="https://wacate.jp/workshops/2018winter/" target="_blank">WACATE2018 冬 〜C’mon baby ジドウカ〜</a></li>
+  <li><a href="https://aws.amazon.com/jp/certification/" target="_blank">AWS認定試験</a></li>
+  <li><a href="http://www.toukei-kentei.jp" target="_blank">統計検定</a></li>
+  <li><a href="http://www.oracle.com/jp/education/index-172250-ja.html" target="_blank">ORACLE MASTER</a></li>
+  <li><a href="http://jstqb.jp" target="_blank">JSTQB</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>第8回NDSFMではカサハラさんをゲストにお迎えして JAWS-UG 新潟発足についてお話を伺いました。また、機械学習やディープラーニングを新潟でサービス展開するにあたり、資格取得などを活用して学習されているそうで、自己学習が非常に重要になるのだなあとお話を聞いて感ました。
+</itunes:summary>
+      <itunes:duration>4085.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Sat, 20 Oct 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_007.mp3" length="24423363" type="audio/mp3" />
+      <title>007. IoT と新潟のクラフトビール</title>
+      <description><![CDATA[<section class="description">
+  <p>第7回NDSFMでは @yutacar さんをゲストにお迎えして IoT とビールについてお話していただきました。yutacar さんは新潟で IoT 関連のお仕事をされています。RaspberryPi を実業務で使われている話はとても興味深かったです。IoTにおいてはどのようなデータを扱うかが大事になると思うので、どんなセンサーがあるのか、ないのかに興味があります。
+yutacarさんは個人的にもIoT に興味をあるそうで、いろんなガジェットを試されていて、日常生活でどうやって使っているか聞けて面白かったです。
+最後にビール好きの yutacar さんから新潟の地ビールについて伺いました。最後にオススメの Bar を聞いたので良かったら遊びに行ってみてください。</p>
+
+<h2 id="新潟県内のクラフトビール">新潟県内のクラフトビール</h2>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1M86lVtuGr5jjz0qRtsShJvXcOat6FEzp" width="640" height="480"></iframe>
+
+<ul>
+  <li><a href="http://beer-cruise.net/beer/Koshin.html">新潟クラフトビール</a></li>
+  <li><a href="http://www.tainaibeer.com/">胎内</a></li>
+  <li><a href="http://www.swanlake.co.jp/main/brewery.htm">スワンレイク</a></li>
+  <li><a href="http://beer-cruise.net/beer/160716.html">沼垂ビール</a></li>
+  <li><a href="http://www.echigo-beer.jp/">エチゴビール</a></li>
+  <li><a href="http://www.niigatabeer.jp/">新潟麦酒</a></li>
+  <li><a href="http://www.hakkaisan.co.jp/sake/rydeenbeer">八海山　ライディーンビール（南魚沼の雷電から）</a></li>
+  <li><a href="https://www.facebook.com/tsumaribeer/">十日町　妻有ビール</a></li>
+  <li><a href="http://www.alpen-blick.com/blog/tatra/myokokogen-beer.php">妙高高原ビール</a></li>
+  <li><a href="http://www.docci.com/movement/makigoya/">カーブドッチ</a></li>
+  <li><a href="http://strangebrewing.jp/">ストレンジブルーイング</a></li>
+</ul>
+
+<h3 id="ぜひ飲んでみて欲しいビール">ぜひ飲んでみて欲しいビール</h3>
+
+<ul>
+  <li>エチゴビール（レッドエール）</li>
+  <li>ニイガタビア（新潟麦酒缶）</li>
+  <li>スワンレイク（アンバースワンエール）</li>
+</ul>
+
+<h2 id="新潟市のオススメbar">新潟市のオススメBar</h2>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1nWFtoPa8dDJ0JXC_Zsopr3nogEi5Yz09" width="640" height="480"></iframe>
+
+<ul>
+  <li><a href="https://beertripolive.owst.jp/">オリーブ</a></li>
+  <li><a href="http://rocksun63.com/site2/">SBR</a></li>
+</ul>
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="https://ja.wikipedia.org/wiki/モノのインターネット" target="_blank">IoT</a></li>
+  <li><a href="https://www.raspberrypi.org" target="_blank">RaspberryPi</a></li>
+  <li><a href="https://www.arduino.cc" target="_blank">Aruduino</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/PIC_(コントローラ)" target="_blank">PIC</a></li>
+  <li><a href="https://blog.builderscon.io/entry/2018/08/09/100000" target="_blank">電子名札開発での異常な努力 または私は如何にして心配するのを止めて『謎ガジェット』を作るようになったか</a></li>
+  <li><a href="https://sakura.io" target="_blank">さくらio</a></li>
+  <li><a href="https://nature.global" target="_blank">Remo</a></li>
+  <li><a href="https://www.ratocsystems.com/products/subpage/smartphone/wfirex3_tokutyo.html" target="_blank">ラトックシステム RS-WFIREX3</a></li>
+  <li><a href="https://aiyprojects.withgoogle.com" target="_blank">AIY Project</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>@yutacar さんをゲストにお迎えして IoT とビールについてお話していただきました。
+</itunes:summary>
+      <itunes:duration>3052.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Sat, 06 Oct 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_006.mp3" length="26872395" type="audio/mp3" />
+      <title>006. NDSで発表した内容を振り返る/勉強会のススメ/長岡の飲み屋紹介</title>
+      <description><![CDATA[<section class="description">
+  <p>第6回NDSFMではいしばしさんをゲストにお迎えしてお話を聞きました。
+いしばしさんはNDSに早い時期から参加されていてマネージメントの話をされることが多いです。
+今回はそんないしばしさんに自身の発表を振り返っていただき、NDSに参加する3つの理由として「発表の練習」「勉強した知識のアウトプット」「マインドセット」について話していただきました。また、長岡の居酒屋に詳しいいしばしさんにオススメのお店をお聞きしました。ぜひNDSFMを聞いて長岡にお酒を飲みに来てください！</p>
+
+<h2 id="長岡の居酒屋">長岡の居酒屋</h2>
+
+<iframe src="https://www.google.com/maps/d/embed?mid=1Hu4ncD6XSq4fX9pvkT-li6vwG3gUvDJt" width="640" height="480"></iframe>
+
+<ul>
+  <li><a href="http://uo-sen.jp">魚仙</a></li>
+  <li><a href="https://nagaoka.mypl.net/shop/00000343946/">茂</a></li>
+  <li><a href="http://otedori.jp/shop/category02/izakaya.html">居酒屋</a></li>
+  <li><a href="https://tabelog.com/niigata/A1502/A150201/15001403/">太陽</a></li>
+</ul>
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="http://nagaoka.techtalk.jp/system/app/pages/sitemap/hierarchy" target="_blank">NDSサイトマップ</a></li>
+  <li><a href="https://www.kaigyou-sougyou.com/category/1265539.html" target="_blank">ファイナンス - 銀行はいかに会社を評価するか～銀行格付けとは～</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/国際財務報告基準" target="_blank">IFRS 国際財務報告基準</a></li>
+  <li><a href="https://www.asb.or.jp/jp/accounting_standards/accounting_standards/y2018/2018-0330.html" target="_blank">企業会計基準第29号 「収益認識に関する会計基準」等の公表</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/一貫性の原理" target="_blank">交渉 - 一貫性の原理</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/アーンド・バリュー・マネジメント" target="_blank">Earned Value Management (EVM)</a></li>
+  <li><a href="http://www.juas.or.jp/library/research_rpt/swm/" target="_blank">JUASメトリクス</a></li>
+  <li><a href="http://bit-consul.com/wordpress/?p=8536" target="_blank">品質</a></li>
+  <li><a href="https://www.ipa.go.jp/security/vuln/10threats2018.html" target="_blank">セキュリティ</a></li>
+  <li><a href="http://www.it-innovation.co.jp/2014/10/07-153022/" target="_blank">修羅場 -【第３９回】トリアージでデスマーチを脱却せよ！</a></li>
+  <li><a href="http://d.hatena.ne.jp/takehikom/20081130/1227997585" target="_blank">修羅場 - デスマーチにおけるトリアー</a></li>
+  <li><a href="https://amzn.to/2y2RNTG" target="_blank">PM - なれる！SE4　誰でもできる？プロジェクト管理 (Amazon)</a></li>
+  <li><a href="https://gigazine.net/news/20140213-fixed-vs-growth-brain/" target="_blank">「成長する考え方」と「成長できない考え方」の違いが20年の研究で明らかに</a></li>
+  <li><a href="https://gigazine.net/news/20140213-fixed-vs-growth-brain/" target="_blank">マインドセット (Amazon)</a></li>
+  <li><a href="https://amzn.to/2Nm8LkJ" target="_blank">利己的な遺伝子 (Amazon)</a></li>
+  <li><a href="https://amzn.to/2xZx6b6" target="_blank">ホモ・サピエンス全史 (Amazon)</a></li>
+  <li><a href="https://amzn.to/2y2l3tA" target="_blank">銃・病原菌・鉄 (Amazon)</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>第6回NDSFMではいしばしさんをゲストにお迎えしてお話を聞きました。マネージメントの話をされることが多いいしばしさんに、NDSでの発表の振り返りと、NDSというコミュニティやいしばしさん流の勉強会の活用術、長岡の飲み屋さんについてお聞きしました。
+</itunes:summary>
+      <itunes:duration>3359.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Sat, 15 Sep 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_005.mp3" length="35515791" type="audio/mp3" />
+      <title>005. 私とコミュニティ活動とNDS</title>
+      <description><![CDATA[<section class="description">
+  <p>まさるさんをゲストにお迎えして地方のIT企業における新人教育の重要性や、ITコミュニティ、転職などについて話を聞きました。
+まさるさんはNDSだけでなく、わんくま同盟、Niigata.NET、TDDBC など多くのコミュニティに参加しています。この9月から長岡のIT企業から東京のIT企業に転職され、長岡でリモート勤務をされているそうです（補足：収録時は転職先が非公開でしたが、その後「クラスメソッド株式会社」へのジョインエントリがアップされましたので、参考リンクに追加しました）。
+長岡の企業では新人教育を担当されていたそうで、沢山の資料を共有してもらいました。
+資料に目を通しながら聞くとより楽しめると思います。
+特に新人研修用に書かれた資料は研修担当になっている人はオススメです。
+嬉しいお知らせとしてTDDBC長岡2.0の開催の話がありました🎉。
+TDDBC長岡2.0についてはNDSFMでも順次お知らせします。</p>
+
+<h3 id="プレゼント">🎁プレゼント</h3>
+
+<div class="present">
+<div class="text">
+
+<p>
+NDSFM#005 を聞いてくれた方の中からまさるさんの著書『Visual C# 入門書』を抽選で3名の方にプレゼントします。
+特に応募期間は設けませんので、いつでもご応募ください。
+</p>
+
+<p>
+応募方法は簡単です。<a href="//twitter.com/search?q=%23ndsfm&amp;f=tweets"><img class="twitter" src="img/twitter.png" />#ndsfm</a> 、または <a href="//discord.gg/TvAWxWq"><img class="discord" src="img/discord.png" alt="discord" /></a>まで<b>感想</b> に「Visual C# 入門書欲しい」と添えてコメントをください。
+当選者には<a href="//twitter.com/dictav">@dictav</a>からDMを送らせていただきます。
+</p>
+</div>
+<div class="item">
+<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//rcm-fe.amazon-adsystem.com/e/cm?lt1=_blank&amp;bc1=000000&amp;IS2=1&amp;bg1=FFFFFF&amp;fc1=000000&amp;lc1=0000FF&amp;t=dictav-22&amp;language=ja_JP&amp;o=9&amp;p=8&amp;l=as4&amp;m=amazon&amp;f=ifr&amp;ref=as_ss_li_til&amp;asins=4822253554&amp;linkId=d84d239e2f1afa7489df7ce81393b990"></iframe>
+</div>
+</div>
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="http://blogs.wankuma.com/masaru/archive/2007/04/25/73187.aspx" target="_blank">みなさんはじめまして - まさるblog</a></li>
+  <li><a href="http://blogs.wankuma.com/masaru/archive/2007/04/27/73449.aspx" target="_blank">私のスキルに関して - まさるblog</a></li>
+  <li><a href="http://groups.google.co.jp/group/nagaoka-dev-study" target="_blank">長岡 開発者 勉強会 (NDS) - Google Group</a></li>
+  <li><a href="https://togetter.com/li/1260095" target="_blank">NDSに参加した瞬間のTL</a></li>
+  <li><a href="http://blogs.wankuma.com/masaru/archive/2008/11/06/160617.aspx" target="_blank">近場で勉強会開催に向けての動きが！ - まさるblog</a></li>
+  <li><a href="http://blogs.wankuma.com/masaru/archive/2008/12/07/162920.aspx" target="_blank">第１回NDS行ってきたよ＆スピーカデビューしたよ - まさるblog</a></li>
+  <li><a href="http://blogs.wankuma.com/masaru/archive/2009/01/11/166165.aspx" target="_blank">第2回NDS(第1回イケテルRails勉強会＠長岡)参加したよ - まさるblog</a></li>
+  <li><a href="http://www.wankuma.com" target="_blank">わんくま同盟</a></li>
+  <li><a href="http://lllagoon.hatenablog.com/entry/2015/06/08/153401" target="_blank">2時間で書ける！職務記述書の作成方法 - エルの楽園</a></li>
+  <li><a href="http://kogolab.chillout.jp/textbook/2012_ID_text.pdf" target="_blank">2012年版「インストラクショナルデザイン」のテキスト</a></li>
+  <li><a href="http://www.ym56.net/meigen.html" target="_blank">山本五十六名言集｜山本五十六.net</a></li>
+  <li><a href="https://www.city.nagaoka.niigata.jp/kurashi/cate12/kome100/kome100.html" target="_blank">米百俵の精神</a></li>
+  <li><a href="https://github.com/masaru-b-cl/introduction-to-vcs" target="_blank">VCS入門</a></li>
+  <li><a href="https://github.com/masaru-b-cl/introduction-to-svn" target="_blank">Subversion入門 for Windows</a></li>
+  <li><a href="https://github.com/masaru-b-cl/introduction-to-winforms-programming" target="_blank">GUIプログラミング入門 for Windows Forms</a></li>
+  <li><a href="https://github.com/masaru-b-cl/introduction-to-db-programming-by-odp-dot-net" target="_blank">DBプログラミング入門 by ODP.NET</a></li>
+  <li><a href="https://github.com/masaru-b-cl/introduction-to-batch-programming-by-csharp" target="_blank">バッチプログラミング入門 by C#</a></li>
+  <li><a href="https://github.com/masaru-b-cl/stack-tdd-by-csharp" target="_blank">車窓からのTDD by C#</a></li>
+  <li><a href="https://github.com/masaru-b-cl/winforms-business-programming-tutorial" target="_blank">Windowsフォームによる業務プログラミングチュートリアル</a></li>
+  <li><a href="https://github.com/masaru-b-cl/introduction-to-network" target="_blank">システム開発者のためのネットワーク入門</a></li>
+  <li><a href="https://ngtnet.connpass.com/" target="_blank">Niigata.NET</a></li>
+  <li><a href="https://takanosho.wordpress.com/2015/10/14/ngtnet-2015-10/" target="_blank">Niigata.NETを開催してきました - be free</a></li>
+  <li><a href="http://devtesting.jp/tddbc/?TDDBC%E9%95%B7%E5%B2%A11.0" target="_blank">TDDBC長岡1.0</a></li>
+  <li><a href="https://takanosho.wordpress.com/2013/05/20/report-tddbc-nagaoka-1-0/" target="_blank">tddbc 長岡 1.0を開催しました – be free</a></li>
+  <li><a href="https://qiita.com/okoysm/items/abcad0b4aefa585bc50b" target="_blank">職務経歴書をGitHubで管理しよう</a></li>
+  <li><a href="https://github.com/masaru-b-cl/resume" target="_blank">職務経歴書</a></li>
+  <li><a href="https://azure.microsoft.com/ja-jp/services/visual-studio-team-services/" target="_blank">Visual Studio Team Services - クラウド開発ツール | Microsoft Azure</a></li>
+  <li><a href="https://blogs.msdn.microsoft.com/nakama/2018/06/20/testmanager/" target="_blank">VSTS/TFS Test Manager による手動テスト（打鍵テスト）の効率化</a></li>
+  <li><a href="https://wings.msn.to/" target="_blank">サーバサイド技術の学び舎 - WINGS</a></li>
+  <li><a href="https://classmethod.jp/" target="_blank">クラスメソッド株式会社</a></li>
+  <li><a href="https://dev.classmethod.jp/etc/join-takano/" target="_blank">クラスメソッド事業開発部にジョインした@masaru_b_clこと高野 将です | Developers.IO</a></li>
+  <li><a href="http://www.jmacsoft.co.jp/" target="_blank">株式会社ジェイマックソフト</a></li>
+  <li><a href="https://fuller-inc.com/" target="_blank">フラー株式会社</a></li>
+  <li><a href="https://nagaokamatsuri.com/app.html" target="_blank">「長岡花火 公式アプリ」｜「長岡花火」公式ウェブサイト 長岡花火財団</a></li>
+  <li><a href="http://www.niigata-nippo.co.jp/biyori/odekake/084477.html" target="_blank">長岡花火、アプリで渋滞情報を確認！　駐車場空き状況や道路混雑状況をリアルタイムで地図に表示 | おでかけ | にいがた、びより</a></li>
+  <li><a href="https://aiueo.co.jp/" target="_blank">株式会社AIUEO</a></li>
+  <li><a href="https://japanese.engadget.com/2018/08/01/30-python/" target="_blank">夏休みだから、30人の中高生にPythonを教えてハッカソンをやってみた | 情熱のミーム　清水亮</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>まさるさんをゲストにお迎えして地方のIT企業における業務や新人教育、ITコミュニティ、転職などについて話を聞きました。
+</itunes:summary>
+      <itunes:duration>4438.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_004.mp3" length="30831722" type="audio/mp3" />
+      <title>004. ServerlessconfとAWS Kinesis</title>
+      <description><![CDATA[<section class="description">
+  <p>8.15 に <a href="https://twitter.com/yuukigoodman">@tannai</a> くんをお迎えして Serverlessconf に登壇される tannai くんから、発表するセッションについて話してもらいました。
+ボードゲームの話では大鎌戦役などの駒やコインなどのアイテム（マテリアル）がたくさんあるゲームでは、マテリアルをよりリッチなものに変えることでゲーム体験が変わるというのは興味深い話でした。
+また、十年以上共同生活を体験している @tannai くんにギークハウス（シェアハウス）の良さや気をつけるべきことを聞きました。最後にErgoDoxというキーボードの話をしました。</p>
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="https://classmethod.jp" target="_blank">クラスメソッド株式会社</a></li>
+  <li><a href="http://tokyo.serverlessconf.io/speakers.html" target="_blank">Serverlessconf Tokyo</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/複合イベント処理" target="_blank">複合イベント処理 (CEP)</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/ランダムフォレスト" target="_blank">ランダムフォレスト</a></li>
+  <li><a href="https://spark.apache.org/streaming/" target="_blank">Spark Streaming</a></li>
+  <li><a href="https://github.com/apache/beam" target="_blank">Apach Beam</a></li>
+  <li><a href="https://cloud.google.com/dataflow/" target="_blank">Dataflow</a></li>
+  <li><a href="https://azure.microsoft.com/ja-jp/services/stream-analytics/" target="_blank">Stream Analytics</a></li>
+  <li><a href="https://www.ibm.com/support/knowledgecenter/ja/SSCRJU_4.2.1/com.ibm.streams.ref.doc/doc/tumblingwindows.html" target="_blank">タンブリングウィンドウ</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/スライディングウィンドウ" target="_blank">スライディングウィンドウ</a></li>
+  <li><a href="http://starrise-tower.com/<Paste>" target="_blank">サーバーレスなアプリのメリデメや設計と開発</a></li>
+  <li><a href="http://nicobodo.com/archives/25301063.html" target="_blank">大鎌戦役</a></li>
+  <li><a href="https://zoom.us/jp-jp/meetings.html" target="_blank">Zoom</a></li>
+  <li><a href="https://ergodox-ez.com/" target="_blank">ErgoDox</a></li>
+  <li><a href="https://github.com/Ergodox-io/ErgoDox/tree/master/ErgoDOX%20pcb" target="_blank">ErgoDox GitHub</a></li>
+  <li><a href="https://olkb.com/planck/" target="_blank">Planck</a></li>
+  <li><a href="https://qmk.fm/" target="_blank">QMK Firmware</a></li>
+  <li><a href="https://www.roomie.jp/2013/09/104321/" target="_blank">下敷きと間違えそうな世界一薄いキーボード</a></li>
+  <li><a href="https://pc.watch.impress.co.jp/docs/news/yajiuma/1014092.html" target="_blank">T-BLADE</a></li>
+  <li><a href="https://www.acm.org" target="_blank">ACM</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>tannai くんをゲストにお迎えして Serverlessconf、ボードゲーム、ギークハウス（シェアハウス）、ErgoDox (キーボード) について話しました
+</itunes:summary>
+      <itunes:duration>3853.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Fri, 24 Aug 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_003.mp3" length="22373064" type="audio/mp3" />
+      <title>003. Webフロントエンドとサーバレス</title>
+      <description><![CDATA[<section class="description">
+  <p><a href="https://aws.amazon.com/jp/appsync/">@sakapun</a> さんをゲストにお迎えして、Webフロントエンドの話やサーバレスについて話をしました。AWS Lambda や Netlify などのサーバー管理を必要とせずに機能を実装する方法について触れました。ポッドキャストの中ではあまり深くNetlifyに触れることはできませんでしたが、自分でサーバーを用意することなく、Single Page Application を作って公開できのはとても興味深いです。また、AWS AppSync は GraphQL よって DynamoDB のデータを Fetch できると便利そうに感じました。</p>
+
+<h3 id="補足">補足</h3>
+
+<ul>
+  <li>ポッドキャストの中では InteliJ IDEA をイデアと呼んでいますが、Wikipedia を見る感じだとアイディアの方が正しそうです。https://ja.wikipedia.org/wiki/IntelliJ_IDEA</li>
+</ul>
+
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="https://reactjs.org" target="_blank">React</a></li>
+  <li><a href="https://vuejs.org" target="_blank">Vue.js</a></li>
+  <li><a href="https://vuefes.jp" target="_blank">Vue Fes Japan</a></li>
+  <li><a href="https://www.typescriptlang.org" target="_blank">TypeScript</a></li>
+  <li><a href="https://flow.org" target="_blank">flow</a></li>
+  <li><a href="http://sakapun.hatenablog.com/entry/2018/07/16/080000" target="_blank">最近聞いている技術系Podcastについて</a>by </li>
+  <li><a href="http://jbpress.ismedia.jp/articles/-/53048" target="_blank">アマゾン、ついに音声アプリの収益化を開始</a></li>
+  <li><a href="https://laravel.com" target="_blank">Laravel</a></li>
+  <li><a href="https://www.netlify.com/docs/functions/" target="_blank">NetlifyのLambda Functionの機能</a></li>
+  <li><a href="https://aws.amazon.com/jp/appsync/" target="_blank">AWS AppSync</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>sakapunさんをゲストにお迎えしてWebフロントエンドの話やサーバーレスについて話しました
+</itunes:summary>
+      <itunes:duration>2796.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Sat, 11 Aug 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_002.mp3" length="33649394" type="audio/mp3" />
+      <title>002. SPAやSSR,そして転職について</title>
+      <description><![CDATA[<section class="description">
+  <p>しんぺいさんをゲストにお迎えしてSPA (Single Page Application) や SSR (Server Side Rendering) 、また転職のことなんかについて話しました。</p>
+
+<ul>
+  <li>SPA での開発時に Vue.js を採用した理由やその感想について</li>
+  <li>Reduxやその周辺の話</li>
+  <li>SSR はステート管理が大変</li>
+  <li>Angular + TypeScript が相性が良い</li>
+  <li>WebPackは大変</li>
+  <li>builderscon について</li>
+  <li>初めて転職エージェントを使った話</li>
+  <li>コミュニティ活動について</li>
+</ul>
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="http://nagaoka.techtalk.jp/no57" target="_blank">NDS#57</a></li>
+  <li><a href="https://ja.wikipedia.org/wiki/シングルページアプリケーション" target="_blank">SPA シングルページアプリケーション</a></li>
+  <li><a href="https://vuejs.org" target="_blank">Vue.js</a></li>
+  <li><a href="https://qiita.com/Takepepe/items/a79e767b38981c910c3f" target="_blank">Redux はもう辛くない。redux-aggregate - Qiita</a></li>
+  <li><a href="https://svelte.technology/" target="_blank">svelte</a></li>
+  <li><a href="https://rollupjs.org/guide/en" target="_blank">rollup.js</a></li>
+  <li><a href="https://github.com/Rich-Harris/buble" target="_blank">buble.js</a></li>
+  <li><a href="https://ssr.vuejs.org/ja/#どうして-ssr-なのか" target="_blank">SSR サーバーサイドレンダリング</a></li>
+  <li><a href="https://php-genba.shin1x1.com/21" target="_blank">PHPの現場 (ポッドキャスト)</a></li>
+  <li><a href="https://blog.shin1x1.com/entry/independent-core-layer-pattern" target="_blank">独立したコアレイヤパターン</a></li>
+  <li><a href="https://www.jetbrains.com/idea/" target="_blank">IntelliJ IDEA</a></li>
+  <li><a href="https://code.visualstudio.com" target="_blank">Visual Studio Code</a></li>
+  <li><a href="http://yapcjapan.org/2018tokyo/" target="_blank">YAPC::Asia Tokyo</a></li>
+  <li><a href="http://yokohama.pm.org" target="_blank">Yokohama Perl Monger</a></li>
+  <li><a href="http://hachiojipm.org" target="_blank">hachioji.pm</a></li>
+  <li><a href="https://kichijojipm.hatenablog.com" target="_blank">kichijojipm's blog</a></li>
+  <li><a href="https://twitter.com/hashtag/hachiojipm?f=tweets&vertical=default&src=hash" target="_blank">Twitter#hachiojipm</a></li>
+  <li><a href="https://medirom.co.jp" target="_blank">株式会社メディロム</a></li>
+  <li><a href="https://classi.jp" target="_blank">クラッシー株式会社</a></li>
+  <li><a href="https://www.bizreach.jp" target="_blank">ビズリーチ</a></li>
+  <li><a href="https://forstartups.com" target="_blank">for Startups</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>しんぺいさんをゲストにお迎えしてSPA (Single Page Application) や SSR (Server Side Rendering) 、また転職のことなんかについて話しました。
+</itunes:summary>
+      <itunes:duration>4206.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_001.mp3" length="24316783" type="audio/mp3" />
+      <title>001. NDS第56回勉強会振り返り</title>
+      <description><![CDATA[<section class="description">
+  <p><a href="https://twitter.com/civic" target="_blank">@civic</a> さんをゲストにお迎えして 7月7日（土）に行われたNDS第56回勉強会<a href="http://nagaoka.techtalk.jp/no56" target="_blank">NDS第56回勉強会</a>について話しました。
+発表者ではないので憶測が含まれています。
+気になった内容はググってみてください。</p>
+
+<h3 id="補足">補足</h3>
+
+<p>2018.07.24 - Windows の私しいアプリケーションの形式は UWP でした</p>
+<blockquote class="twitter-tweet" data-lang="en"><p lang="ja" dir="ltr">UWPだよ！ <a href="https://twitter.com/hashtag/ndsfm?src=hash&amp;ref_src=twsrc%5Etfw">#ndsfm</a></p>&mdash; 白い高野さん (@masaru_b_cl) <a href="https://twitter.com/masaru_b_cl/status/1021174721180721152?ref_src=twsrc%5Etfw">July 22, 2018</a></blockquote>
+<script async="" src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="https://www.slideshare.net/secret/4c4YXLkOtQSWFV" target="_blank">PMに役立つExcelの機能</a>by hiro_ishibashi</li>
+  <li><a href="https://speakerdeck.com/kasacchiful/nds56" target="_blank">オススメの機械学習関連サービス</a>by kasacchiful</li>
+  <li>わたしがオススメするUI Automation C#編by ailight</li>
+  <li>Kinesis Data Analyticsby たんない</li>
+  <li><a href="https://www.slideshare.net/sakapun/nuxtjsnetlifynds56" target="_blank">Nuxt.jsとNetlifyで作る</a>by sakapun</li>
+  <li><a href="https://onedrive.live.com/view.aspx?resid=EEA39B6D66F0BDE7!1218&ithint=file%2cpptx&app=PowerPoint&wdo=2&authkey=!ABzgEAfuANBWtDc" target="_blank">ソフトウェアの買い方</a>by gonchan93</li>
+  <li>CakePHPのすゝめby YamauraKentaro</li>
+  <li><a href="https://medium.com/@dictav/nds-fm-開局準備中-d83e59b7df03" target="_blank">ポッドキャスト開局のススメ</a>by dictav</li>
+  <li><a href="https://www.civic-apps.com/2018/07/08/nds56/" target="_blank">オンライン英会話体験記</a>by civic</li>
+  <li><a href="https://speakerdeck.com/kaminchu/nds56" target="_blank">Kyashはいいぞ</a>by kam1nchu</li>
+  <li><a href="http://www.yukilab.cc/?p=108" target="_blank">組み込みAI</a>by yukilab</li>
+  <li><a href="https://docs.google.com/presentation/d/1NhRiim-TUm1FVARpRwMobxKAghFX6e3B0F2p-rA0u84/edit?usp=sharing" target="_blank">わたしがみんなにオススメするleaflet</a>by gatabutsu</li>
+  <li><a href="https://togetter.com/li/1244493" target="_blank">Togetter - NDS 第56回勉強会(2018/07/07) わたしがみんなにオススメする○○ Vol.2まとめ</a>by yutacar</li>
+  <li><a href="http://scikit-learn.org" target="_blank">scikit</a></li>
+  <li><a href="https://aws.amazon.com/kinesis/data-analytics/" target="_blank">Amazon Kinesis Data Analytics</a></li>
+  <li><a href="https://nuxtjs.org" target="_blank">Nuxt.js</a></li>
+  <li><a href="https://www.netlify.com" target="_blank">Netlify</a></li>
+  <li><a href="https://www.tensorflow.org" target="_blank">Tensorflow</a></li>
+  <li><a href="https://leafletjs.com" target="_blank">Leaflet</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>@civic さんをゲストに迎えて7月7日に開催された第56回勉強会の振り返りを行いました。
+</itunes:summary>
+      <itunes:duration>3039.0</itunes:duration>
+    </item>
+    
+    <item>
+      <pubDate>Sat, 07 Jul 2018 00:00:00 +0900</pubDate>
+      <enclosure url="https://storage.googleapis.com/ndsfm/ndsfm_000.mp3" length="6152" type="audio/mp3" />
+      <title>000. NDS FM 開局に当たって</title>
+      <description><![CDATA[<section class="description">
+  <p>NDS FM#001 の収録を終えて、NDSの紹介と私 dictav の自己紹介もあった方が良いかと思い追録しました。</p>
+
+
+</section>
+  
+<section class="refs">
+<h4>🔗リンク</h4>
+  <ul>
+  <li><a href="http://nagaoka.techtalk.jp" target="_blank">長岡IT開発者勉強会</a></li>
+  <li><a href="https://www.m0mentum.co.jp" target="_blank">Momentum株式会社</a></li>
+  </ul>
+</section>]]></description>
+      <itunes:summary>NDSFM 第0回準備号としまして、dictavの自己紹介と、ポッドキャストを始めるきっかけなどについて話しました
+</itunes:summary>
+      <itunes:duration>288.0</itunes:duration>
+    </item>
+    
+
+  </channel>
+</rss>
+

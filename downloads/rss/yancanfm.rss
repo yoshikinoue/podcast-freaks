@@ -1,0 +1,281 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://www.yancan.tech/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://www.yancan.tech/</link>
+    <title>yancan.fm</title>
+    <description>エンジニアめっちゃ楽しい</description>
+    <media:keywords>comma,separated,keywords</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>エンジニアめっちゃ楽しい</itunes:subtitle>
+    <itunes:author>risacan</itunes:author>
+    <itunes:summary>エンジニアめっちゃ楽しい</itunes:summary>
+    <itunes:keywords>comma,separated,keywords</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>risacan</itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://www.yancan.tech/images/logo.png" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>4. 2019年の抱負</title>
+        <link>https://www.yancan.tech/episode/4</link>
+        <pubDate>Thu, 31 Jan 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;memo&quot;&gt;MEMO&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2019 年 1 月 24 日に収録しました 📆&lt;/li&gt;
+  &lt;li&gt;12月に収録を予定していたのですが、りさきゃんが予定をすっぽかしたため、間が空いてしまいました🙏&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.coursera.org/&quot;&gt;Coursera | 一流講師によるオンライン講座でスキルアップ。会員登録無料&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/safari/&quot;&gt;O’Reilly Japan - Safari Books Online&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://toomuchnotenough.site/&quot;&gt;Too Much Not Enough&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://toomuchnotenough.site/episodes/s02e03.html&quot;&gt;“Coding Layouts” In The Early 2000s&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.allearsenglish.com/episodes/&quot;&gt;Episodes | All Ears English Podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.hbo.com/game-of-thrones&quot;&gt;Game of Thrones - Official Website for the HBO Series&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.smarthr.jp/entry/2018/10/31/192705&quot;&gt;チームで成長！ 〜モブプロはじめました〜 - SmartHR Tech Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/peco/peco&quot;&gt;peco/peco: Simplistic interactive filtering tool&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/github/hub&quot;&gt;github/hub: A command-line tool that makes git easier to use with GitHub.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dependabot.com/&quot;&gt;Dependabot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://circleci.com/&quot;&gt;Continuous Integration and Delivery - CircleCI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://railsgirls.com/tokyo.html&quot;&gt;Tokyo, 22nd &amp;amp; 23rd February 2019&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://magazine.rubyist.net/articles/0059/0059-RailsGirlsTokyo10th.html&quot;&gt;Rails Girls Tokyo 10th レポート&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://railsdm.github.io/&quot;&gt;Rails Developers Meetup 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jnito.com/entry/2019/01/10/133717&quot;&gt;女性も参加しやすい（でも女性限定ではない）Ruby勉強会を企画中です #tokyogirlsrb - give IT a try&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/denkigai/n/nafff6bd87802&quot;&gt;文系でプログラマーになったけど色々失敗して３年半で会社を辞めた話｜denkigai｜note&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/ppworks/status/469732680431452161?ref_src=twsrc%5Etfw&quot;&gt;https://twitter.com/ppworks/status/469732680431452161?ref_src=twsrc^tfw&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E6%94%B9%E8%A8%82%E6%96%B0%E7%89%88-%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9E%E3%81%AE%E3%81%9F%E3%82%81%E3%81%AE%E6%96%87%E5%AD%97%E3%82%B3%E3%83%BC%E3%83%89%E6%8A%80%E8%A1%93%E5%85%A5%E9%96%80-WEB-PRESS-plus%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA/dp/4297102919/ref=dp_ob_title_bk&quot;&gt;[改訂新版]プログラマのための文字コード技術入門 (WEB+DB PRESS plusシリーズ) | 矢野 啓介 |本 | 通販 | Amazon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;:grin: 😁&lt;/li&gt;
+  &lt;li&gt;:thinking_face: 🤔&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.kamipo.net/entry/2015/03/23/093052&quot;&gt;MySQL と寿司ビール問題 - かみぽわーる&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;許可を求めるな Pull Request せよ&lt;/p&gt;— ppworks / KOSHiKAWA (@ppworks) &lt;a href=&quot;[https://twitter.com/ppworks/status/469732680431452161?ref_src=twsrc^tfw](https://twitter.com/ppworks/status/469732680431452161?ref_src=twsrc%5Etfw)&quot;&gt;May 23, 2014&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;[https://platform.twitter.com/widgets.js](https://platform.twitter.com/widgets.js)&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;夫が指輪っぽい小さな箱をうやうやしく差し出し開いたので、まさか結婚指輪か！？となったら中身はこれでした &lt;a href=&quot;https://t.co/MXeOd8sVU7&quot;&gt;pic.twitter.com/MXeOd8sVU7&lt;/a&gt;&lt;/p&gt;&amp;mdash; むらさき (@interestor) &lt;a href=&quot;https://twitter.com/interestor/status/1090643058377408514?ref_src=twsrc%5Etfw&quot;&gt;January 30, 2019&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/Kou_Ryo_0115&quot;&gt;荒涼（@Kou_Ryo_0115）さん / Twitter&lt;/a&gt; さんの 🤔 キーキャップ&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://www.yancan.tech/episode/4</guid>
+        <enclosure url="https://www.yancan.tech/audio/4.mp3" length="77 MB" type="audio/mp3"/>
+        <itunes:author>risacan</itunes:author>
+        <itunes:subtitle>2019年の抱負、健康の話、文系プログラマーの話、モブプロの話、来るイベントの話をしました。</itunes:subtitle>
+        <itunes:duration>80:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://www.yancan.tech/images/logo.png" />
+      </item>
+    
+      <item>
+        <title>3. esportsとRubyConfと私</title>
+        <link>https://www.yancan.tech/episode/3</link>
+        <pubDate>Fri, 07 Dec 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;memo&quot;&gt;MEMO&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2018 年 11 月 29 日に収録しました 📆&lt;/li&gt;
+  &lt;li&gt;音量注意！ 🚨&lt;/li&gt;
+  &lt;li&gt;初めてのセットアップで録音したため聞きづらいところが多々あります…🙏&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rijfes.jp/&quot;&gt;ROCK IN JAPAN FESTIVAL 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://countdownjapan.jp/&quot;&gt;COUNTDOWN JAPAN 18/19&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vivalarock.jp/2019/&quot;&gt;VIVA LA ROCK 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sweetloveshower.com/2018/&quot;&gt;SPACE SHOWER SWEET LOVE SHOWER 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://radiocrazy.fm/&quot;&gt;FM802 ROCK FESTIVAL [RADIO CRAZY 2018]&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://playoverwatch.com/ja-jp/&quot;&gt;オーバーウォッチ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ec.nintendo.com/JP/ja/titles/70010000000884&quot;&gt;Overcooked® - オーバークック スペシャルエディション| Nintendo Switch | 任天堂&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nintendo.co.jp/switch/aab6a/index.html&quot;&gt;スプラトゥーン 2 | Nintendo Switch | 任天堂&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nintendo.co.jp/switch/baawa/index.html&quot;&gt;いっしょにチョキッと スニッパーズ | Nintendo Switch | 任天堂&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.openrec.tv/&quot;&gt;OPENREC.tv (オープンレック) | ゲーム実況＆プレイ動画&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.twitch.tv/&quot;&gt;Twitch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/gaming&quot;&gt;YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nintendo.co.jp/switch/aaaca/index.html&quot;&gt;スーパーマリオ オデッセイ | Nintendo Switch | 任天堂&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://minecraft.net/ja-jp/&quot;&gt;公式サイト | Minecraft&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ea.com/ja-jp/games/simcity&quot;&gt;「SimCity™」シリーズ - EA 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sega.jp/history/hard/segasaturn/&quot;&gt;セガサターン | セガハード大百科 | セガ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sega.jp/special/hard_anniversary2018/&quot;&gt;メガドラ 30 周年・ドリキャス 20 周年 ポータルサイト | セガ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AC%E3%82%AF%E3%83%88%E3%83%AD%E3%83%8B%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%9D%E3%83%BC%E3%83%84&quot;&gt;エレクトロニック・スポーツ - Wikipedia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.leagueoflegends.com/ja/&quot;&gt;リーグ・オブ・レジェンド&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/kachofugetsu_sp&quot;&gt;KachoFugetsu 花鳥風月(@KachoFugetsu_sp)さん | Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pubg.com/ja/&quot;&gt;PLAYERUNKNOWN’S BATTLEGROUNDS - THIS IS BATTLE ROYALE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubyconf.org/&quot;&gt;RubyConf 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pycon.jp/&quot;&gt;PyCon JP 運営 — PyCon JP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://phpcon.php.gr.jp/2018/&quot;&gt;PHP Conference 2018 - #phpcon2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techplay.jp/community/railsdm&quot;&gt;Rails Developers Meetup のイベント・技術情報 - TECH PLAY［テックプレイ］&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techplay.jp/community/tp_girls&quot;&gt;TECH PLAY 女子部のイベント・技術情報 - TECH PLAY［テックプレイ］&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://brooklynjs.com/&quot;&gt;BrooklynJS | The world’s most popular programming language, in New York’s most popular borough&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techracho.bpsinc.jp/&quot;&gt;TechRacho - Ruby on Rails システム開発 情報サイト - BPS 株式会社&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://b.hatena.ne.jp/&quot;&gt;はてなブックマーク&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/ThePracticalDev&quot;&gt;DEV Community 👩‍💻👨‍💻(@ThePracticalDev)さん | Twitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dev.classmethod.jp/&quot;&gt;クラスメソッド発「やってみた」系技術メディア | Developers.IO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://adventar.org/calendars/3236&quot;&gt;TECH PLAY 女子部 Advent Calendar 2018 - Adventar&lt;/a&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://rlho.hatenablog.com/entry/2018/11/30/220937&quot;&gt;エンジニア女性にオススメしたいベストコスメ(2018 年版) - りほぶろぐ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://note.mu/krk85/n/n150f36b32e98&quot;&gt;オススメダイエットアプリ紹介するよー｜きりぽん｜ note&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.openrec.tv/user/techplaygirls&quot;&gt;TECH PLAY GIRLS | OPENREC.tv (オープンレック)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/shiba_ruby&quot;&gt;ShibaRuby🐕 柴犬ルビー(@shiba_ruby)さん | Twitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://www.yancan.tech/episode/3</guid>
+        <enclosure url="https://www.yancan.tech/audio/3.mp3" length="102 MB" type="audio/mp3"/>
+        <itunes:author>risacan</itunes:author>
+        <itunes:subtitle>ゲーム好きのきりぽんをゲストに大好きなゲームの話をしたり、りほやんがRubyConfの話をしたり、イベント運営について話したりしました。</itunes:subtitle>
+        <itunes:duration>85:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://www.yancan.tech/images/logo.png" />
+      </item>
+    
+      <item>
+        <title>2. 女性エンジニアにオススメの本</title>
+        <link>https://www.yancan.tech/episode/2</link>
+        <pubDate>Sat, 10 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;memo&quot;&gt;MEMO&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2018 年 11 月 2 日に収録しました 📆&lt;/li&gt;
+  &lt;li&gt;音量注意！ 🚨&lt;/li&gt;
+  &lt;li&gt;たんたんの LEAN IN は付箋がいっぱい！&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;&lt;img src=&quot;/images/episode2/1.jpg&quot; alt=&quot;&quot; /&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;自己紹介 1:40
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.shonenjump.com/j/rensai/haikyu.html&quot;&gt;『ハイキュー!!』｜集英社『週刊少年ジャンプ』公式サイト&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.shonenjump.com/j/rensai/drstone.html&quot;&gt;『Dr.STONE』｜集英社『週刊少年ジャンプ』公式サイト&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.shonenjump.com/j/rensai/kimetsu.html&quot;&gt;『鬼滅の刃』｜集英社『週刊少年ジャンプ』公式サイト&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://sp.shonenjump.com/j/sp_neverland/#/&quot;&gt;『約束のネバーランド』公式サイト｜集英社 - 週刊少年ジャンプ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://zombielandsaga.com/&quot;&gt;TV アニメ「ゾンビランドサガ」公式サイト&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://bananafish.tv/&quot;&gt;TV アニメ「BANANA FISH」公式サイト&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;たんたんの読書法 10:08
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://booklog.jp/release&quot;&gt;2018 年 11 月 08 日の新刊情報 &amp;gt; 本 - ブクログ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://fluflufluffy.hatenablog.com/entry/2017/12/23/180403&quot;&gt;図書館入荷おしらせアプリを作ってみた - たんたんのブログ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://fluflufluffy.hatenablog.com/entry/2017/12/23/220709&quot;&gt;図書館入荷おしらせアプリを作ってみた（レシピ） - たんたんのブログ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E8%9C%9C%E8%9C%82%E3%81%A8%E9%81%A0%E9%9B%B7-%E6%81%A9%E7%94%B0-%E9%99%B8/dp/4344030036/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1541771833&amp;amp;sr=1-1&amp;amp;keywords=%E8%9C%9C%E8%9C%82%E3%81%A8%E9%81%A0%E9%9B%B7&quot;&gt;蜜蜂と遠雷 | 恩田 陸&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;20:04
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00SIM19YS/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1&quot;&gt;仕事は楽しいかね？ (きこ書房) eBook: デイル・ドーテン, 野津智子&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;20:40
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E5%A5%B3%E3%81%AF%E8%A6%9A%E6%82%9F%E3%82%92%E6%B1%BA%E3%82%81%E3%81%AA%E3%81%95%E3%81%84-%E9%BB%92%E5%B7%9D-%E4%BC%8A%E4%BF%9D%E5%AD%90/dp/4591151689/ref=sr_1_1?ie=UTF8&amp;amp;qid=1541771668&amp;amp;sr=8-1&amp;amp;keywords=%E5%A5%B3%E3%81%AF%E8%A6%9A%E6%82%9F%E3%82%92%E6%B1%BA%E3%82%81%E3%81%AA%E3%81%95%E3%81%84&quot;&gt;女は覚悟を決めなさい | 黒川 伊保子&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/LEAN-%E3%83%AA%E3%83%BC%E3%83%B3%E3%83%BB%E3%82%A4%E3%83%B3-%E5%A5%B3%E6%80%A7%E3%80%81%E4%BB%95%E4%BA%8B%E3%80%81%E3%83%AA%E3%83%BC%E3%83%80%E3%83%BC%E3%81%B8%E3%81%AE%E6%84%8F%E6%AC%B2-%E3%82%B7%E3%82%A7%E3%83%AA%E3%83%AB%E3%83%BB%E3%82%B5%E3%83%B3%E3%83%89%E3%83%90%E3%83%BC%E3%82%B0/dp/4532318971/ref=sr_1_sc_9?s=books&amp;amp;ie=UTF8&amp;amp;qid=1541771798&amp;amp;sr=1-9-spell&amp;amp;keywords=LEAN+N&quot;&gt;LEAN IN(リーン・イン) 女性、仕事、リーダーへの意欲 | シェリル・サンドバーグ, 川本 裕子, 村井 章子&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;49:07
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%A9%E3%82%A4%E3%83%88%E3%80%81%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B%E2%80%95%E5%95%8F%E9%A1%8C%E7%99%BA%E8%A6%8B%E3%81%AE%E4%BA%BA%E9%96%93%E5%AD%A6-%E3%83%89%E3%83%8A%E3%83%AB%E3%83%89%E3%83%BBC%E3%83%BB%E3%82%B4%E3%83%BC%E3%82%B9/dp/4320023684/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1541771816&amp;amp;sr=1-1&amp;amp;keywords=%E3%83%A9%E3%82%A4%E3%83%88%E3%81%A4%E3%81%84%E3%81%A6%E3%81%BE%E3%81%99%E3%81%8B&quot;&gt;ライト、ついてますか―問題発見の人間学&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;55:13
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.theryokantokyo.com/&quot;&gt;湯河原 | THE RYOKAN TOKYO&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;1:09:50
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://railsgirls.com/&quot;&gt;Rails Girls&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/railsgirlstokyo&quot;&gt;Rails Girls Tokyo(@railsgirlstokyo)さん | Twitter&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;宣伝
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://suzuri.jp/risacan/802272/hoodie/s/ivygreen&quot;&gt;yak shaving for darker color / risacan のパーカー通販 ∞ SUZURI（スズリ）&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;おすすめの本をぜひ、ハッシュタグ &lt;code class=&quot;highlighter-rouge&quot;&gt;#yancanfm&lt;/code&gt; をつけてつぶやいてください！ 📚&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://www.yancan.tech/episode/2</guid>
+        <enclosure url="https://www.yancan.tech/audio/2.mp3" length="67.7 MB" type="audio/mp3"/>
+        <itunes:author>risacan</itunes:author>
+        <itunes:subtitle>年間100冊本を読む読書好きのたんたんをゲストにオススメの本を紹介したり、Rails Girlsの感想を話したりしました。</itunes:subtitle>
+        <itunes:duration>94:01</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://www.yancan.tech/images/logo.png" />
+      </item>
+    
+      <item>
+        <title>1. エンジニアになったきっかけ</title>
+        <link>https://www.yancan.tech/episode/1</link>
+        <pubDate>Tue, 30 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;memo&quot;&gt;MEMO&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2018 年 10 月 1 日に収録しました 📆&lt;/li&gt;
+  &lt;li&gt;会議室をレンタルして利用したため、隣の部屋の雑音が入っています 🙇&lt;/li&gt;
+  &lt;li&gt;音量注意！ 🚨&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rebuild.fm/&quot;&gt;Rebuild - Podcast by Tatsuhiko Miyagawa&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rebuild.fm/people/mayuko/&quot;&gt;Rebuild: mayuko (mayuko)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rebuild.fm/people/kosamari/&quot;&gt;Rebuild: Mariko Kosaka (kosamari)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/kosamari/items/d1e5adabccb9a0c435f7&quot;&gt;JSConf に登壇しよう！ - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2016.ffconf.org/&quot;&gt;ffconf :: JavaScript Conference :: 10th &amp;amp; 11th November 2016&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=9BaLTBTqHmw&amp;amp;list=PLXmT1r4krsTpDoGcdh1baZPIV6DtX9_rX&quot;&gt;5. Mariko Kosaka / Power of Emoji - YouTube&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.afpbb.com/articles/-/3111265&quot;&gt;絵文字の翻訳者求む！ 異文化間の相違や人間味を重視、英翻訳会社　写真 1 枚　国際ニュース：AFPBB News&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.justsystems.com/jp/software/dt/smile_hr3/&quot;&gt;製品情報/小学生向け学習支援ソフト「一太郎スマイル /R.3[家庭学習用]」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=WflkFUY9pHI&quot;&gt;ダイヤルアップ接続音 - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://niko.hateblo.jp/entry/2014/08/28/143354&quot;&gt;0574 Web Site Ranking が閉鎖 - niko life...&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.fumi23.com/&quot;&gt;フミコミュ｜毎日のときめきをみんなで見つける！人気 No.1 放課後クリエイティブ系 SNS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.rocketbbs.com/&quot;&gt;ロケット BBS - 無料・有料レンタル掲示板&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nlab.itmedia.co.jp/nl/articles/1706/22/news096.html&quot;&gt;2001 年から続くコミュニティーサイト「ぱどタウン」サービス終了へ　「昔やってた」「黒歴史がたっぷり」 - ねとらぼ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://info-geocities.yahoo.co.jp/close/index.html&quot;&gt;サービス終了のお知らせ - Yahoo!ジオシティーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ninja.co.jp/counter/&quot;&gt;無料で簡単に設置できるアクセスカウンター｜忍者カウンター&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lolipop.jp/&quot;&gt;ロリポップ！レンタルサーバー | 利用実績 170 万人突破！無料 SSL あり&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://site.nicovideo.jp/splatoon2019/venue/&quot;&gt;スプラトゥーン甲子園 2019 ｜会場情報&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.instagram.com/shibadogruby/&quot;&gt;ShibaDogRuby さん(@shibadogruby) • Instagram 写真と動画&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubykaigi.org/2019&quot;&gt;RubyKaigi 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/r7kamura/ruboty&quot;&gt;GitHub - r7kamura/ruboty: Ruby + Bot = Ruboty&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Summer500la/status/1027596271303897088&quot;&gt;https://twitter.com/Summer500la/status/1027596271303897088&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://www.yancan.tech/episode/1</guid>
+        <enclosure url="https://www.yancan.tech/audio/1.mp3" length="94.8 MB" type="audio/mp3"/>
+        <itunes:author>risacan</itunes:author>
+        <itunes:subtitle>エンジニアになったきっかけ、キラキラサイト、ロリポップ、金沢、好きなエディタ、女性エンジニア少ない問題などについて話しました。</itunes:subtitle>
+        <itunes:duration>51:11</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://www.yancan.tech/images/logo.png" />
+      </item>
+    
+  </channel>
+</rss>

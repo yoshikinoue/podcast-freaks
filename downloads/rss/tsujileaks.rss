@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>セキュリティのアレ（仮）</title>
+	<atom:link href="http://www.tsujileaks.com/?feed=podcast" rel="self" type="application/rss+xml" />
+	<link>http://www.tsujileaks.com</link>
+	<description>ゆるーいセキュリティのポッドキャストですよ。</description>
+	<lastBuildDate>Sat, 16 Feb 2019 14:34:49 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+		<generator>https://wordpress.org/?v=5.0.4</generator>
+<!-- podcast_generator="Blubrry PowerPress/7.4" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>サイバーでセキュリティな話題を取り上げるポッドキャストです！</itunes:summary>
+	<itunes:author>セキュリティのアレ（仮）</itunes:author>
+	<itunes:image href="http://www.tsujileaks.com/media/spclogo01.jpg" />
+	<itunes:owner>
+		<itunes:name>セキュリティのアレ（仮）</itunes:name>
+		<itunes:email>mtakeshi+spc@dpost.jp</itunes:email>
+	</itunes:owner>
+	<managingEditor>mtakeshi+spc@dpost.jp (セキュリティのアレ（仮）)</managingEditor>
+	<itunes:subtitle>セキュリティの『アレ』</itunes:subtitle>
+	<image>
+		<title>セキュリティのアレ（仮）</title>
+		<url>http://www.tsujileaks.com/media/spclogo01.jpg</url>
+		<link>http://www.tsujileaks.com</link>
+	</image>
+	<itunes:category text="Technology">
+	</itunes:category>
+	<itunes:category text="Technology">
+		<itunes:category text="Tech News"></itunes:category>
+	</itunes:category>
+	<item>
+		<title>第22回 318セキュリティ月間だ！ スペシャル</title>
+		<link>http://www.tsujileaks.com/?p=518</link>
+		<pubDate>Sat, 16 Feb 2019 14:34:49 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=518</guid>
+		<comments>http://www.tsujileaks.com/?p=518#respond</comments>
+		<wfw:commentRss>http://www.tsujileaks.com/?feed=rss2&#038;p=518</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>TweetNICT サイバーセキュリティシンポジウム 2019にも参加してきました！ でもって、ボクたちがこれ[...]</description>
+		<content:encoded><![CDATA[<div id="tweetbutton518" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D518&amp;text=%E7%AC%AC22%E5%9B%9E%20318%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%9C%88%E9%96%93%E3%81%A0%EF%BC%81%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB&amp;related=&amp;lang=en&amp;count=horizontal&amp;counturl=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D518" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p><a href="https://www.pco-prime.com/2019cybersympo/" rel="noopener" target="_blank">NICT サイバーセキュリティシンポジウム 2019</a>にも参加してきました！</p>
+<p>でもって、ボクたちがこれから登壇する月間中にあるイベントはこちら↓</p>
+<p>・<a href="https://itmedia.smartseminar.jp/public/application/add/1925" rel="noopener" target="_blank">＠IT セキュリティセミナー 東京・大阪・福岡 ロードショー</a></p>
+<p>・<a href="https://news.mynavi.jp/itsearch/seminar/260" rel="noopener" target="_blank">第4回 情報セキュリティ事故対応アワード</a></p>
+]]></content:encoded>
+		<enclosure url="http://tsujileaks.com/media/are_190217_xsd.m4a" length="49212144" type="audio/x-m4a" />
+		<itunes:subtitle>TweetNICT サイバーセキュリティシンポジウム 2019にも参加してきました！ でもって、ボクたちがこれ[...]</itunes:subtitle>
+		<itunes:summary>TweetNICT サイバーセキュリティシンポジウム 2019にも参加してきました！ でもって、ボクたちがこれ[...]</itunes:summary>
+		<itunes:author>セキュリティのアレ（仮）</itunes:author>
+		</item>
+	<item>
+		<title>第21回 あけおめ！ランサム！DDoS！艦Collection #1 スペシャル！</title>
+		<link>http://www.tsujileaks.com/?p=515</link>
+		<pubDate>Wed, 23 Jan 2019 16:36:41 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=515</guid>
+		<comments>http://www.tsujileaks.com/?p=515#respond</comments>
+		<wfw:commentRss>http://www.tsujileaks.com/?feed=rss2&#038;p=515</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet</description>
+		<content:encoded><![CDATA[<div id="tweetbutton515" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D515&amp;text=%E7%AC%AC21%E5%9B%9E%20%E3%81%82%E3%81%91%E3%81%8A%E3%82%81%EF%BC%81%E3%83%A9%E3%83%B3%E3%82%B5%E3%83%A0%EF%BC%81DDoS%EF%BC%81%E8%89%A6Collection%20%231%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81&amp;related=&amp;lang=en&amp;count=horizontal&amp;counturl=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D515" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div>]]></content:encoded>
+		<enclosure url="http://www.tsujileaks.com/media/are_190124_zxcoo.mp3" length="1835008" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ（仮）</itunes:author>
+		<itunes:duration>1:55</itunes:duration>
+		</item>
+	<item>
+		<title>第20回 室長スペシャル！</title>
+		<link>http://www.tsujileaks.com/?p=510</link>
+		<pubDate>Sun, 30 Dec 2018 02:04:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=510</guid>
+		<comments>http://www.tsujileaks.com/?p=510#respond</comments>
+		<wfw:commentRss>http://www.tsujileaks.com/?feed=rss2&#038;p=510</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet ※お食事中の方はお食事を終えてからご視聴くださいませ。</description>
+		<content:encoded><![CDATA[<div id="tweetbutton510" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D510&amp;text=%E7%AC%AC20%E5%9B%9E%20%E5%AE%A4%E9%95%B7%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB%EF%BC%81&amp;related=&amp;lang=en&amp;count=horizontal&amp;counturl=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D510" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div>
+<p></p>
+
+
+
+<p>※お食事中の方はお食事を終えてからご視聴くださいませ。</p>
+
+
+
+<p></p>
+]]></content:encoded>
+		<enclosure url="http://www.tsujileaks.com/media/are181228_djjaljda.mp3" length="75383175" type="audio/mpeg" />
+		<itunes:subtitle>Tweet ※お食事中の方はお食事を終えてからご視聴くださいませ。</itunes:subtitle>
+		<itunes:summary>Tweet ※お食事中の方はお食事を終えてからご視聴くださいませ。</itunes:summary>
+		<itunes:author>セキュリティのアレ（仮）</itunes:author>
+		<itunes:duration>1:18:31</itunes:duration>
+		</item>
+	<item>
+		<title>第19回 ポッドキャストを19回しただけなのに スペシャル</title>
+		<link>http://www.tsujileaks.com/?p=507</link>
+		<pubDate>Tue, 18 Dec 2018 07:12:53 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=507</guid>
+		<comments>http://www.tsujileaks.com/?p=507#respond</comments>
+		<wfw:commentRss>http://www.tsujileaks.com/?feed=rss2&#038;p=507</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet</description>
+		<content:encoded><![CDATA[<div id="tweetbutton507" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D507&amp;text=%E7%AC%AC19%E5%9B%9E%20%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%82%9219%E5%9B%9E%E3%81%97%E3%81%9F%E3%81%A0%E3%81%91%E3%81%AA%E3%81%AE%E3%81%AB%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB&amp;related=&amp;lang=en&amp;count=horizontal&amp;counturl=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D507" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div>]]></content:encoded>
+		<enclosure url="http://www.tsujileaks.com/media/are181217_987b.mp3" length="72161850" type="audio/mpeg" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ（仮）</itunes:author>
+		<itunes:duration>1:15:10</itunes:duration>
+		</item>
+	<item>
+		<title>第18回 ポッドキャストを18回しただけなのに スペシャル</title>
+		<link>http://www.tsujileaks.com/?p=503</link>
+		<pubDate>Thu, 01 Nov 2018 16:54:04 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=503</guid>
+		<comments>http://www.tsujileaks.com/?p=503#respond</comments>
+		<wfw:commentRss>http://www.tsujileaks.com/?feed=rss2&#038;p=503</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet</description>
+		<content:encoded><![CDATA[<div id="tweetbutton503" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D503&amp;text=%E7%AC%AC18%E5%9B%9E%20%E3%83%9D%E3%83%83%E3%83%89%E3%82%AD%E3%83%A3%E3%82%B9%E3%83%88%E3%82%9218%E5%9B%9E%E3%81%97%E3%81%9F%E3%81%A0%E3%81%91%E3%81%AA%E3%81%AE%E3%81%AB%20%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB&amp;related=&amp;lang=en&amp;count=horizontal&amp;counturl=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D503" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div>]]></content:encoded>
+		<enclosure url="http://www.tsujileaks.com/media/are_181102_taitai.m4a" length="45179470" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ（仮）</itunes:author>
+		</item>
+	<item>
+		<title>第17回 スクープ！スクープ！16億！スペシャル</title>
+		<link>http://www.tsujileaks.com/?p=498</link>
+		<pubDate>Fri, 21 Sep 2018 01:29:05 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=498</guid>
+		<comments>http://www.tsujileaks.com/?p=498#respond</comments>
+		<wfw:commentRss>http://www.tsujileaks.com/?feed=rss2&#038;p=498</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet</description>
+		<content:encoded><![CDATA[<div id="tweetbutton498" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D498&amp;text=%E7%AC%AC17%E5%9B%9E%20%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%97%EF%BC%81%E3%82%B9%E3%82%AF%E3%83%BC%E3%83%97%EF%BC%8116%E5%84%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB&amp;related=&amp;lang=en&amp;count=horizontal&amp;counturl=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D498" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div>]]></content:encoded>
+		<enclosure url="http://www.tsujileaks.com/media/are_180918_ujh4.m4a" length="57337717" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ（仮）</itunes:author>
+		</item>
+	<item>
+		<title>第16回 STOP！提供元不明インストール！！スペシャル</title>
+		<link>http://www.tsujileaks.com/?p=495</link>
+		<pubDate>Sun, 05 Aug 2018 12:32:46 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=495</guid>
+		<comments>http://www.tsujileaks.com/?p=495#respond</comments>
+		<wfw:commentRss>http://www.tsujileaks.com/?feed=rss2&#038;p=495</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweetポッドキャスト内で紹介していたイベントはこちら！ 8月22日開催！絶賛ご参加受付中！！</description>
+		<content:encoded><![CDATA[<div id="tweetbutton495" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D495&amp;text=%E7%AC%AC16%E5%9B%9E%20STOP%EF%BC%81%E6%8F%90%E4%BE%9B%E5%85%83%E4%B8%8D%E6%98%8E%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%88%E3%83%BC%E3%83%AB%EF%BC%81%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB&amp;related=&amp;lang=en&amp;count=horizontal&amp;counturl=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D495" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div><p>ポッドキャスト内で紹介していたイベントは<a href="https://news.mynavi.jp/itsearch/seminar/205" rel="noopener" target="_blank">こちら</a>！<br />
+8月22日開催！絶賛ご参加受付中！！</p>
+]]></content:encoded>
+		<enclosure url="http://www.tsujileaks.com/media/are_180803_akjdu.m4a" length="5242880" type="audio/x-m4a" />
+		<itunes:subtitle>Tweetポッドキャスト内で紹介していたイベントはこちら！ 8月22日開催！絶賛ご参加受付中！！</itunes:subtitle>
+		<itunes:summary>Tweetポッドキャスト内で紹介していたイベントはこちら！ 8月22日開催！絶賛ご参加受付中！！</itunes:summary>
+		<itunes:author>セキュリティのアレ（仮）</itunes:author>
+		</item>
+	<item>
+		<title>第15回 リスト型攻撃はなくなってないんだ！スペシャル</title>
+		<link>http://www.tsujileaks.com/?p=491</link>
+		<pubDate>Tue, 26 Jun 2018 14:33:57 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=491</guid>
+		<comments>http://www.tsujileaks.com/?p=491#respond</comments>
+		<wfw:commentRss>http://www.tsujileaks.com/?feed=rss2&#038;p=491</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet</description>
+		<content:encoded><![CDATA[<div id="tweetbutton491" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D491&amp;text=%E7%AC%AC15%E5%9B%9E%20%E3%83%AA%E3%82%B9%E3%83%88%E5%9E%8B%E6%94%BB%E6%92%83%E3%81%AF%E3%81%AA%E3%81%8F%E3%81%AA%E3%81%A3%E3%81%A6%E3%81%AA%E3%81%84%E3%82%93%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB&amp;related=&amp;lang=en&amp;count=horizontal&amp;counturl=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D491" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div>]]></content:encoded>
+		<enclosure url="http://tsujileaks.com/media/are_180626_jnbh.m4a" length="5242880" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ（仮）</itunes:author>
+		</item>
+	<item>
+		<title>第14回 カレーを食べながらSP 800-63B From USAだ！スペシャル</title>
+		<link>http://www.tsujileaks.com/?p=488</link>
+		<pubDate>Wed, 23 May 2018 10:53:52 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=488</guid>
+		<comments>http://www.tsujileaks.com/?p=488#respond</comments>
+		<wfw:commentRss>http://www.tsujileaks.com/?feed=rss2&#038;p=488</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet</description>
+		<content:encoded><![CDATA[<div id="tweetbutton488" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D488&amp;text=%E7%AC%AC14%E5%9B%9E%20%E3%82%AB%E3%83%AC%E3%83%BC%E3%82%92%E9%A3%9F%E3%81%B9%E3%81%AA%E3%81%8C%E3%82%89SP%20800-63B%20From%20USA%E3%81%A0%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB&amp;related=&amp;lang=en&amp;count=horizontal&amp;counturl=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D488" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div>]]></content:encoded>
+		<enclosure url="http://tsujileaks.com/media/are180520_jdajy.m4a" length="5242880" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ（仮）</itunes:author>
+		</item>
+	<item>
+		<title>第13回 雑談しすぎの定期変更強制しない！スペシャル</title>
+		<link>http://www.tsujileaks.com/?p=484</link>
+		<pubDate>Wed, 18 Apr 2018 15:30:39 +0000</pubDate>
+		<guid isPermaLink="false">http://www.tsujileaks.com/?p=484</guid>
+		<comments>http://www.tsujileaks.com/?p=484#respond</comments>
+		<wfw:commentRss>http://www.tsujileaks.com/?feed=rss2&#038;p=484</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<category><![CDATA[podcast]]></category>
+		<description>Tweet</description>
+		<content:encoded><![CDATA[<div id="tweetbutton484" class="tw_button" style="float:left;margin-right:10px;"><a href="http://twitter.com/share?url=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D484&amp;text=%E7%AC%AC13%E5%9B%9E%20%E9%9B%91%E8%AB%87%E3%81%97%E3%81%99%E3%81%8E%E3%81%AE%E5%AE%9A%E6%9C%9F%E5%A4%89%E6%9B%B4%E5%BC%B7%E5%88%B6%E3%81%97%E3%81%AA%E3%81%84%EF%BC%81%E3%82%B9%E3%83%9A%E3%82%B7%E3%83%A3%E3%83%AB&amp;related=&amp;lang=en&amp;count=horizontal&amp;counturl=http%3A%2F%2Fwww.tsujileaks.com%2F%3Fp%3D484" class="twitter-share-button"  style="width:55px;height:22px;background:transparent url('http://www.tsujileaks.com/wp-content/plugins/wp-tweet-button/tweetn.png') no-repeat  0 0;text-align:left;text-indent:-9999px;display:block;">Tweet</a></div>]]></content:encoded>
+		<enclosure url="http://www.tsujileaks.com/media/are_180413_vbn.m4a" length="5242880" type="audio/x-m4a" />
+		<itunes:subtitle>Tweet</itunes:subtitle>
+		<itunes:summary>Tweet</itunes:summary>
+		<itunes:author>セキュリティのアレ（仮）</itunes:author>
+		</item>
+</channel>
+</rss>

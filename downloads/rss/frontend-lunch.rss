@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://hatena.github.io/frontend-lunch/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://hatena.github.io/frontend-lunch</link>
+    <title>Frontend Lunch Podcast</title>
+    <description>株式会社はてなのエンジニアがフロントエンドについて雑談します。</description>
+    <media:keywords>js,javascript,frontend,hatena</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>株式会社はてなのエンジニアがフロントエンドについて雑談します。</itunes:subtitle>
+    <itunes:author>Hatena Co., Ltd.</itunes:author>
+    <itunes:summary>株式会社はてなのエンジニアがフロントエンドについて雑談します。</itunes:summary>
+    <itunes:keywords>js,javascript,frontend,hatena</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>Hatena Co., Ltd.</itunes:name>
+      <itunes:email>amagitakayosi@hatena.ne.jp</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://hatena.github.io/frontend-lunch/images/artwork.png" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>Frontend Lunch 29 - NOTA Inc.の方々をお招きしました</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl29</link>
+        <pubDate>Wed, 12 Apr 2017 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react/blog/2017/04/07/react-v15.5.0.html&quot;&gt;React v15.5.0 - React Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/reactjs/react-codemod&quot;&gt;GitHub - reactjs/react-codemod: React codemod scripts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/facebook/jscodeshift&quot;&gt;GitHub - facebook/jscodeshift: A JavaScript codemod toolkit.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qiita.com/mysticatea/items/3d01452d76ea6c943793&quot;&gt;ESLint v4.0.0 の変更点まとめ - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.twitter.com/2017/how-we-built-twitter-lite&quot;&gt;How we built Twitter Lite | Twitter Blogs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@paularmstrong/twitter-lite-and-high-performance-react-progressive-web-apps-at-scale-d28a00e780a3&quot;&gt;Twitter Lite and High Performance React Progressive Web Apps at Scale&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zeit.co/blog/next2&quot;&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.lacolaco.net/post/ng-conf-2017-day-1-note/&quot;&gt;ng-conf 2017 1日目 Keynoteメモ | &amp;lt;output type=&quot;laco&quot;&amp;gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://friends.o2p.jp/&quot;&gt;はじめに | Reset CSSフレンズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amagitakayosi.hatenablog.com/entry/2017/04/07/170000&quot;&gt;Scala入門としてCLIツールを作り、Scala.js, React, ScalaCSSでサイトを作った - マルシテイア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.scala-js.org/news/2017/03/21/announcing-scalajs-0.6.15/&quot;&gt;Announcing Scala.js 0.6.15 - Scala.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ukyo.github.io/wasm-usui-book/webroot/index.html&quot;&gt;WEBASSEMBLY USUI BOOK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/photopea/UTIF.js&quot;&gt;GitHub - photopea/UTIF.js: Fast and advanced TIFF decoder&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/addons/2017/04/05/compatibility-firefox-54/&quot;&gt;Add-on Compatibility for Firefox 54 | Mozilla Add-ons Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.windows.com/msedgedev/2017/04/11/introducing-edgehtml-15/&quot;&gt;Microsoft SVG Logo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developmentarc.gitbooks.io/react-indepth/content/&quot;&gt;Introduction · react-indepth&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react-vr/&quot;&gt;React VR | A framework for building VR apps using React&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl29</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl029.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunchは、株式会社はてな社員によるフロントエンド開発についてのPodcastです。今回はNOTA Inc.のakiroomさん、pastakさんをゲストにお招きしました。</itunes:subtitle>
+        <itunes:duration>35:39</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 27 - FRONTEND CONFERENCEレポート, CSS Containment</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl27</link>
+        <pubDate>Wed, 22 Mar 2017 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2017/03/19/jquery-3.2.0-sinon.js-2.0-testdouble.js-2.0-reactreduxcrud/&quot;&gt;2017-03-19のJS: jQuery 3.2.0、Sinon.JS 2.0、testdouble.js 2.0、React/Redux/CRUD - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ponyfoo.com/articles/observables-coming-to-ecmascript&quot;&gt;Observables Proposal for ECMAScript!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/fand/reactdexue-bu-imadokifalsewebkai-fa&quot;&gt;Reactで学ぶ！いまどきのWeb開発 // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ghostrick.hatenablog.com/entry/2017/03/19/233817&quot;&gt;FRONTEND CONFERENCE 2017に行って学生コンテストに出ました - Sleepy…&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ng-kyoto.connpass.com/event/51503/&quot;&gt;ng-kyoto Angular Meetup #5 - connpass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/pastak/webahurikesiyonte-60fpswo-ji-li-mu-zhi-su&quot;&gt;Webアプリケーションで 60fpsを(極力)目指す // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://havelog.ayumusato.com/develop/css/e724-css_containtment.html&quot;&gt;CSS Containment の制約と効能について覚え書き ::ハブろぐ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mil-tokyo.github.io/miljs.html&quot;&gt;MILJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nanto.asablo.jp/blog/2017/03/20/8411703&quot;&gt;D2D アクセシビリティ勉強会 ～WAI-ARIAでアクセシブルにしてみよう～: Days on the Moon&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl27</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl027.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunchは、株式会社はてな社員によるフロントエンド開発についてのPodcastです。今回はhatz48の司会でJavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>16:06</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 26 - CSS Grid, ScalaCSS, Snyk, Polymer</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl26</link>
+        <pubDate>Wed, 15 Mar 2017 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.mozilla.org/ja/Firefox/Releases/52&quot;&gt;Firefox 52 for developers - Mozilla | MDN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gridbyexample.com/&quot;&gt;Grid by Example&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tympanus.net/codrops/css_reference/grid/&quot;&gt;A Complete Guide to CSS Grid | Codrops CSS Reference&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2017/03/14/firefox-52.0-polymer-2.0-rc-component-refactoring/&quot;&gt;2017-03-14のJS: Firefox 52.0、Polymer 2.0 RC、コンポーネントのリファクタリング戦略 - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://developer.hatenastaff.com/entry/2017/03/10/190229&quot;&gt;薄いフレームワーク指向の Web クライアントサイドプログラミング - Hatena Developer Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/japgolly/scalacss&quot;&gt;GitHub - japgolly/scalacss: Super type-safe CSS for Scala and Scala.JS.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snyk.io/&quot;&gt;Fix and prevent known vulnerabilities in Node.js, Ruby and Java apps | Snyk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Snyk/snyk/issues/19&quot;&gt;Difference with Node Security Project? · Issue #19 · snyk/snyk · GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/wooorm/franc&quot;&gt;GitHub - wooorm/franc: Natural language detection&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/amilajack/eslint-plugin-compat&quot;&gt;GitHub - amilajack/eslint-plugin-compat: Lint the browser compatibility of your code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl26</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl026.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunchは、株式会社はてな社員によるフロントエンド開発についてのPodcastです。今回はamagitakayosiの司会でJavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>23:38</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 24 - Node.js v7.6.0, FRONTEND CONFERENCE, INSIDE FRONTEND</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl24</link>
+        <pubDate>Wed, 01 Mar 2017 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nodejs/node/blob/v7.6.0/doc/changelogs/CHANGELOG_V7.md#7.6.0&quot;&gt;node/CHANGELOG_V7.md at v7.6.0 · nodejs/node · GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2017/02/22/announcing-typescript-2-2/&quot;&gt;Announcing TypeScript 2.2 | TypeScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/angular/angular/blob/4.0.0-rc.1/CHANGELOG.md&quot;&gt;angular/CHANGELOG.md at 4.0.0-rc.1 · angular/angular · GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jxck.io/entries/2017-02-17/polyfill-implementation-guideline.html&quot;&gt;Polyfill のあり方と Web の進化と協調するためのガイドライン | blog.jxck.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jxck.io/entries/2016-09-29/vender-prefix-to-origin-trials.html&quot;&gt;Web 標準化のフィードバックサイクルを円滑にする Origin Trials について | blog.jxck.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kfug.jp/frontconf2017/&quot;&gt;FRONTEND CONFERENCE 2017 | 関西フロントエンドUG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://inside-frontend.com/&quot;&gt;Inside Frontend&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleChrome/lighthouse&quot;&gt;GitHub - GoogleChrome/lighthouse: Auditing, performance metrics, and best practices for Progressive Web Apps&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nicolaspanel/numjs&quot;&gt;GitHub - nicolaspanel/numjs: Like NumPy, in JavaScript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl24</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl024.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunchは、株式会社はてな社員によるフロントエンド開発についてのPodcastです。今回はitchynyの司会でJavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>18:59</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 23 - HTML Reference, ng-kyoto, dwitter</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl23</link>
+        <pubDate>Wed, 22 Feb 2017 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2017/02/20/babel-6.23.0-react-context-html/&quot;&gt;2017-02-20のJS: Babel 6.23.0、React Context、HTMLリファレンス - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://babeljs.io/blog/2017/02/13/6.23.0&quot;&gt;6.23.0 Released · Babel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://htmlreference.io/&quot;&gt;HTML Reference - A free guide to all HTML elements and attributes.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ng-kyoto.connpass.com/event/51503/&quot;&gt;ng-kyoto Angular Meetup #5 - connpass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dwitter.net/&quot;&gt;Dwitter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl23</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl023.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunchは、株式会社はてな社員によるフロントエンド開発についてのPodcastです。今回はhatz48の司会でJavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>13:24</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 22 - 片手間TypeScript, Performance, Mnemonist</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl22</link>
+        <pubDate>Wed, 15 Feb 2017 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2017/02/14/v8-5.7es2015-npm-typescript/&quot;&gt;2017-02-14のJS: V8 5.7とES2015+のパフォーマンス、npm入門、TypeScriptガイドライン - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yux3.hatenablog.com/entry/2017/02/05/000805&quot;&gt;私的TypeScriptとの関わり方ガイドライン - 角待ちは対空&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/betaorbust/progressive-transpilation-at-netflix-and-the-road-to-running-native-es2015-in-production&quot;&gt;Progressive Transpilation at Netflix and the road to running native ES2015 in production // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/dev-channel/javascript-start-up-performance-69200f43b201&quot;&gt;JavaScript Start-up Performance – Dev Channel – Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yosuke-furukawa.hatenablog.com/entry/2017/02/14/113910&quot;&gt;node の security checkをするなら nsp が便利 - from scratch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yomguithereal.github.io/mnemonist/&quot;&gt;Mnemonist&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://opentype.js.org/&quot;&gt;opentype.js – JavaScript parser/writer for OpenType and TrueType fonts.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl22</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl022.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunch は、株式会社はてな社員によるフロントエンド開発についての Podcast です。今回は6人の社員がJavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>14:44</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 21 - Modern JavaScript, Webpack2</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl21</link>
+        <pubDate>Wed, 08 Feb 2017 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hatena.github.io/frontend-lunch/&quot;&gt;Frontend Lunch Podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2017/02/05/ava-0.18.0-mithril-1.0-es-moduleswebpack/&quot;&gt;2017-02-05のJS: AVA 0.18.0、Mithril 1.0、ES modulesとwebpackのモジュール - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2017/01/31/bundler-testing-framework-report/&quot;&gt;JSerレポート #1 Bundlerの未来、テスティングフレームワークの現状 - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2017/02/02/announcing-typescript-2-2-rc/&quot;&gt;Announcing TypeScript 2.2 RC | TypeScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jsmantra.com/next-on-next-js-1a134505f346&quot;&gt;Next on Next.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jsmpeg.com/&quot;&gt;JSMpeg – Decode it like it’s 1999&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gomix.com/about/&quot;&gt;Gomix - The easiest way to build the app or bot of your dreams&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl21</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl021.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunch は、株式会社はてな社員によるフロントエンド開発についての Podcast です。今回は9人のはてな社員でJavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>27:03</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 19 - Modern JavaScript, Webpack2</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl19</link>
+        <pubDate>Wed, 25 Jan 2017 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kyotojs.connpass.com/event/46417/&quot;&gt;Kyoto.js 12 - connpass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://developer.hatenastaff.com/entry/2015/02/13/121217&quot;&gt;TypeScript で実現する MVP アーキテクチャパターン - Hatena Developer Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.satotaichi.info/modern-javascript_201701/&quot;&gt;Modern JavaScript概観、そしてElectronへ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qiita.com/knhr__/items/6c414aaaa441cc3a90c7&quot;&gt;謎だったJavaScriptのコードたち - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2017/01/24/webpack-2-javascript-2016-js-star/&quot;&gt;2017-01-24のJS: webpack 2正式リリース、JavaScriptの開発環境設定、2016 JS Stars - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/webpack/webpack-2-2-the-final-release-76c3d43bf144&quot;&gt;🎉 webpack 2.2: The Final Release 🎉 – webpack – Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yosuke-furukawa.hatenablog.com/entry/2017/01/24/110152&quot;&gt;Demystifying webpack2 tree shaking - from scratch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://risingstars2016.js.org/&quot;&gt;2016 JavaScript Rising Stars&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.meteor.com/&quot;&gt;Meteor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.cyberagent.co.jp/blog/archives/3513/&quot;&gt;アメブロ2016 ~ Isomorphic JavaScriptの詳しい話 | CyberAgent Developers Blog | サイバーエージェント デベロッパーズブログ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl19</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl019.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunch は、株式会社はてな社員によるフロントエンド開発についての Podcast です。今回は amagitakayosi, hatz48, takuya-a の3人で、JavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>15:11</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 18 - JSer.info, DataView, Webmention</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl18</link>
+        <pubDate>Wed, 18 Jan 2017 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2017/01/15/jser-info-6years/&quot;&gt;JSer.info 6周年記念イベントを開催しました - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://azu.github.io/slide/2017/jser_info/how_to_make_jser_info.html&quot;&gt;JSer.infoの作り方&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2017/01/17/safari-technology-preview-release-21-protractor-5.0.0/&quot;&gt;2017-01-17のJS: Safari Technology Preview Release 21、Protractor 5.0.0 - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://vividcode.hatenablog.com/entry/ecmascript/module-introduction&quot;&gt;ECMA-262 6th (ES 2015) のモジュールについて (入門編) - ひだまりソケットは壊れない&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nodejs/LTS&quot;&gt;GitHub - nodejs/LTS: Node.js Foundation Long-term Support Working Group&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@gabrielcatalin/side-effects-in-js-promise-chains-7db50b6302f3&quot;&gt;Side Effects in JS Promise chains – Gabriel C. Troia – Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2017/01/typedarray-or-dataview-understanding-byte-order/&quot;&gt;TypedArray or DataView: Understanding byte order ★&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://html5experts.jp/1000ch/21705/&quot;&gt;進化するWeb Componentsの今、2016年最新情報 | HTML5Experts.jp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mitsue.co.jp/knowledge/blog/frontend/201701/13_1201.html&quot;&gt;WebmentionがW3C勧告に | フロントエンドBlog | ミツエーリンクス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wordpress.org/plugins-wp/webmention/&quot;&gt;Webmention – Plugin Directory — WordPress&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl18</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl018.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunch は、株式会社はてな社員によるフロントエンド開発についての Podcast です。今回は amagitakayosi, nanto_vi, syou6162 の5人で、JavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>17:01</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 17 - Kyoto.js, PostCSS, Web Bluetooth API</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl17</link>
+        <pubDate>Wed, 11 Jan 2017 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kyotojs.connpass.com/event/46417/&quot;&gt;Kyoto.js 12 - connpass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2017/01/04/postcss-chrome-fusebox/&quot;&gt;2017-01-04のJS: PostCSS概要、Chrome開発者ツール、FuseBox - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qiita.com/morishitter/items/4a04eb144abf49f41d7d&quot;&gt;PostCSS まとめ - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://umaar.github.io/devtools-optimise-your-web-development-workflow-2016/#/&quot;&gt;Optimise your web development workflow 2016&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://fuse-box.org/&quot;&gt;Fuse-Box bundler / API Reference&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.risingstack.com/node-js-interview-questions-and-answers-2017/&quot;&gt;Node.js Interview Questions and Answers (2017 Edition) | @RisingStack&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[https://tylermcginnis.com/react-interview-questions/)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashingmagazine.com/2016/12/front-end-performance-checklist-2017-pdf-pages/&quot;&gt;Front-End Performance Checklist 2017 (PDF, Apple Pages) – Smashing Magazine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2017/01/11/Node.js-v7.4.0-npm-v4-PhantomJS-2.5.0-Beta-clean-code/&quot;&gt;2017-01-11のJS: Node.js v7.4.0とnpm v4、PhantomJS 2.5.0 Beta、クリーンコード - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/npm/npm/blob/v4.0.5/CHANGELOG.md&quot;&gt;npm/CHANGELOG.md at v4.0.5 · npm/npm · GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/annulen/webkit/wiki/Comparison-with-QtWebKit-5.6&quot;&gt;Comparison with QtWebKit 5.6 · annulen/webkit Wiki · GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tategaki.github.io/&quot;&gt;縦書きWeb普及委員会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tategaki.github.io/awards/&quot;&gt;たてよこWebアワード&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codemix.github.io/flow-runtime/#/&quot;&gt;Flow Runtime&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gitbook.com/book/frontendmasters/front-end-handbook-2017/details&quot;&gt;Front-end Handbook 2017 · GitBook&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://javascriptweekly.com/issues/316&quot;&gt;JavaScript Weekly Issue 316: January 5, 2017&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/google-developer-experts/the-web-bluetooth-module-for-angular-9336c9535d04&quot;&gt;The Web Bluetooth module for Angular – Google Developers Experts – Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.chromestatus.com/feature/5264933985976320&quot;&gt;Web Bluetooth API - Chrome Platform Status&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://read.klipse.tech/how-to-create-amazing-textures-in-javascript/&quot;&gt;Procedural Texture Generator in javascript&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl17</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl017.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunch は、株式会社はてな社員によるフロントエンド開発についての Podcast です。今回は amagitakayosi, itchyny, syou6162, nanto_vi, takuya-a の5人で、JavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>14:57</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 16 - SharedArrayBuffer, Vue.js</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl16</link>
+        <pubDate>Wed, 04 Jan 2017 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2016/12/27/sharedarraybuffer-javascript-obfuscator-node.js-stream/&quot;&gt;2016-12-27のJS: SharedArrayBufferとAtomics API、Node.js Stream、JavaScript obfuscator - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tc39/ecmascript_sharedmem&quot;&gt;GitHub - tc39/ecmascript_sharedmem: Shared memory and atomics for ECMAscript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/chikoski/20161113-nodefest&quot;&gt;20161113-nodefest // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tc39/ecma262/pull/522&quot;&gt;Add language to define Agents by lars-t-hansen · Pull Request #522 · tc39/ecma262 · GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/yeoman/generator/releases/tag/v1.0.0&quot;&gt;Release v1.0.0 · yeoman/generator · GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sao.js.org/&quot;&gt;SAO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://24ways.org/2016/css-writing-modes/&quot;&gt;CSS Writing Modes ◆ 24 ways&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.kazupon.jp/post/154903508388/vuejs-2016-closing-and-future&quot;&gt;かずぽんブログ • Vue.js 2016年まとめ &amp;amp; 今後&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.patreon.com/&quot;&gt;Best way for artists and creators to get sustainable income and connect with fans | Patreon&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hacks.mozilla.org/2016/12/firebug-lives-on-in-firefox-devtools/&quot;&gt;Firebug lives on in Firefox DevTools ★&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qiita.com/narirou/items/738a0fe6656d0f905e28&quot;&gt;ServiceWorker内にExpressサーバーを立てる - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://slides.com/bahmutov/browser-is-the-new-server-nodefest&quot;&gt;Browser is the new server - NodeFest Tokyo by Gleb Bahmutov&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/javascript-obfuscator/javascript-obfuscator&quot;&gt;GitHub - javascript-obfuscator/javascript-obfuscator: JavaScript obfuscator for Node.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl16</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl016.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunch は、株式会社はてな社員によるフロントエンド開発についての Podcast です。今回は amagitakayosi, itchyny, syou6162, nanto_vi, takuya-a の5人で、JavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>14:08</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 15 - RxJS5, AngularJS1.6, ES2017, hyper, はてなデベロッパーアドベントカレンダー</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl15</link>
+        <pubDate>Wed, 28 Dec 2016 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2016/12/20/rxjs-v5-angular-date-fns/&quot;&gt;2016-12-20のJS: RxJS v5、Angular、date-fns - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/ReactiveX/rxjs/blob/master/CHANGELOG.md#500-2016-12-13&quot;&gt;rxjs/CHANGELOG.md at master · ReactiveX/rxjs · GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.reactivemanifesto.org/ja&quot;&gt;リアクティブ宣言&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://angularjs.blogspot.jp/2016/12/angular-160-released.html&quot;&gt;Angular: Angular 1.6.0 released&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mozaic.fm/episodes/24/angular2.html&quot;&gt;ep24 Angular2 | mozaic.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://date-fns.org/&quot;&gt;date-fns - modern JavaScript date utility library&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/reactjs/react-redux/releases/tag/v5.0.0&quot;&gt;Release v5.0.0 · reactjs/react-redux · GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://techblog.reraku.co.jp/entry/2016/12/13/080000&quot;&gt;実況中継シリーズ Vue.jsで実現するMVVMパターン Fluxアーキテクチャとの距離 - Re.Ra.Ku アドベントカレンダー day 13 - Re.Ra.Ku tech blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@rajaraodv/the-inner-workings-of-virtual-dom-666ee7ad47cf&quot;&gt;The Inner Workings Of Virtual DOM – rajaraodv – Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://developer.telerik.com/topics/web-development/cross-browser-html5-form-validation-finally-now/&quot;&gt;Cross-Browser HTML5 Form Validation is Finally Here! Now What? -Telerik Developer Network&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/rauschma/ecmascript-latest-and-upcoming-features&quot;&gt;ECMAScript: latest and upcoming features // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://javascriptweekly.com/issues/314&quot;&gt;JavaScript Weekly Issue 314: December 15, 2016&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/zeit/hyper/releases/tag/1.0.0&quot;&gt;Release 1.0.0 · zeit/hyper · GitHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/michelson/dante2&quot;&gt;GitHub - michelson/dante2: A complete rewrite of dante editor in draft-js, demo:&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://developer.hatenastaff.com/entry/2016/12/16/120000&quot;&gt;フロントエンドPodcastはじめました - Hatena Developer Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://developer.hatenastaff.com/entry/2016/12/15/160000&quot;&gt;Mackerelにおけるフロントエンドのパフォーマンス改善の取り組み - Hatena Developer Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl15</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl015.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunch は、株式会社はてな社員によるフロントエンド開発についての Podcast です。今回は amagitakayosi, itchyny, syou6162 の3人で、JavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>19:18</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 14 - Onsen UI, GLSL</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl14</link>
+        <pubDate>Wed, 21 Dec 2016 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2016/12/20/rxjs-v5-angular-date-fns/&quot;&gt;2016-12-20のJS: RxJS v5、Angular、date-fns - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[https://blog.chromium.org/2016/12/chrome-56-beta-not-secure-warning-web.html)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://codepen.io/pen/&quot;&gt;Create a New Pen tv&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://babeljs.io/blog/2016/12/07/the-state-of-babel&quot;&gt;The State of Babel · Babel&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.microsoft.com/en-us/microsoft-edge/platform/changelog/desktop/14986/&quot;&gt;Microsoft Edge build 14986 changelog - Microsoft Edge Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://angularjs.blogspot.jp/2016/12/angular-230-now-available.html&quot;&gt;Angular: Angular 2.3.0 Now Available&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techblog.yahoo.co.jp/advent-calendar-2016/node_new_buffer/&quot;&gt;今年のうちに対応したい、Node.jsのBufferに潜む危険性 - Yahoo! JAPAN Tech Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://sadah.hatenablog.com/entry/variablefont&quot;&gt;Variable Fontについて - console.blog(self);&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://javascriptweekly.com/issues/313&quot;&gt;JavaScript Weekly Issue 313: December 8, 2016&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/date-fns/date-fns&quot;&gt;GitHub - date-fns/date-fns: ⏳ Modern JavaScript date utility library ⌛️&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/stutrek/scrollMonitor&quot;&gt;GitHub - stutrek/scrollMonitor: A simple and fast API to monitor elements as you scroll&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/mathisonian/premonish&quot;&gt;GitHub - mathisonian/premonish: Predict which DOM element a user will interact with next.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kyotojs.connpass.com/event/46417/&quot;&gt;Kyoto.js 12 - connpass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.anatoo.jp/entry/2016/12/09/201511&quot;&gt;JavaScriptのUIライブラリはどうあるべきかという話とOnsen UIのアーキテクチャ - id:anatooのブログ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.graphql.com/summit/&quot;&gt;GraphQL Summit 2017&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://glslsandbox.com/&quot;&gt;GLSL Sandbox Gallery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/stackgl/glslify&quot;&gt;GitHub - stackgl/glslify: A node.js-style module system for GLSL!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.moongift.jp/2016/12/irasutoya-%E3%81%84%E3%82%89%E3%81%99%E3%81%A8%E3%82%84%E6%A4%9C%E7%B4%A2%E3%82%B3%E3%83%9E%E3%83%B3%E3%83%89/&quot;&gt;Irasutoya - いらすとや検索コマンド MOONGIFT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://motemen.hatenablog.com/entry/2016/12/beautiful-graph-maker&quot;&gt;直感的なグラフを簡単に作れるウェブアプリ - 詩と創作・思索のひろば&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl14</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl014.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunch は、株式会社はてな社員によるフロントエンド開発についての Podcast です。今回は amagitakayosi, nanto_vi, hatz48 の3人で、JavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>15:46</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 13 - Firefox 0-day, Railsのフロントエンド</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl13</link>
+        <pubDate>Wed, 07 Dec 2016 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2016/12/06/ember.js-2.10-front-end-tooling-2016-svelte/&quot;&gt;2016-12-06のJS: Ember.js 2.10、Front-End Tooling 2016アンケート、Svelte - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ashleynolan.co.uk/blog/frontend-tooling-survey-2016-results&quot;&gt;The State of Front-End Tooling 2016 - Results - AshleyNolan.co.uk - Blog and Portfolio for Ashley Nolan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://svelte.technology/&quot;&gt;Svelte • The magical disappearing UI framework&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://developer.hatenastaff.com/entry/2016/12/05/102351&quot;&gt;一から始めるJavaScriptユニットテスト - Hatena Developer Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qiita.com/usagi-f/items/dc719a8fd18abcdee4df&quot;&gt;新しめのCSS設計まとめ 〜2016年冬〜 - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ssvvgg.net/post/153900731865/8%E7%A8%AE%E9%A1%9E%E3%81%82%E3%82%8Bsvg%E3%82%B9%E3%83%97%E3%83%A9%E3%82%A4%E3%83%88-%E3%81%9D%E3%82%8C%E3%81%9E%E3%82%8C%E3%81%AE%E7%89%B9%E5%BE%B4%E3%82%92%E6%AF%94%E8%BC%83%E3%81%97%E3%81%A6%E3%81%BF%E3%81%9F&quot;&gt;8種類あるSVGスプライト それぞれの特徴を比較してみた - 週刊SVG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codepen.io/fand/pen/EgGwjg&quot;&gt;Chromatic Aberration in CSS tv&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jvn.jp/vu/JVNVU93847769/&quot;&gt;JVNVU#93847769: Mozilla Firefox における解放済みメモリ使用 (use-after-free) の脆弱性&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.gdatasoftware.com/2016/11/29346-firefox-0-day-targeting-tor-users&quot;&gt;Firefox 0-Day targeting Tor-Users - G DATA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/trueadm/inferno&quot;&gt;GitHub - trueadm/inferno: An extremely fast, React-like JavaScript library for building modern user interfaces&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gdgkobe.doorkeeper.jp/events/54256&quot;&gt;GDG神戸&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://amagitakayosi.hatenablog.com/entry/reading-react&quot;&gt;React のソースコードを読んでみよう！ - マルシテイア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qiita.com/itkrt2y/items/7e999836f460fb9c005d&quot;&gt;Rails5.1に向けてフロントエンド周りで起こっている革命まとめ - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/rails/webpacker&quot;&gt;GitHub - rails/webpacker: Use Webpack to manage app-like JavaScript modules in Rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/clojure/clojurescript&quot;&gt;GitHub - clojure/clojurescript: Clojure to JS compiler&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/omcljs/om&quot;&gt;GitHub - omcljs/om: ClojureScript interface to Facebook's React&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl13</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl013.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>Frontend Lunch は、株式会社はてな社員によるフロントエンド開発についての Podcast です。今回は amagitakayosi, takuya-a, syou6162 の3人で、JavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>19:18</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 12 - TypeScript 2.1, React v15.4.0, katatema.js</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl12</link>
+        <pubDate>Wed, 30 Nov 2016 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2016/11/15/typescript-2.1rc-node.js-v7.1.0/&quot;&gt;2016-11-15のJS: TypeScript 2.1RC、Node.js v7.1.0リリース - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blogs.msdn.microsoft.com/typescript/2016/11/08/typescript-2-1-rc-better-inference-async-functions-and-more/&quot;&gt;TypeScript 2.1 RC: Better Inference, Async Functions, and More | TypeScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qiita.com/Atsss/items/4f9d98fb1d0546539c09&quot;&gt;FLOCSSを使ってCSSファイルを20,000行から9,000行にした話 - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hiloki/flocss&quot;&gt;GitHub - hiloki/flocss: CSS organization methodology.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/dafed/managing-css-projects-with-itcss&quot;&gt;Managing CSS Projects with ITCSS // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.g200kg.com/archives/2016/11/2016web-audio-a.html&quot;&gt;2016年、Web Audio API はどう変わったのか? | g200kg Music &amp;amp; Software&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://csswizardry.com/2016/10/improving-perceived-performance-with-multiple-background-images/&quot;&gt;Improving Perceived Performance with Multiple Background Images – CSS Wizardry – CSS, OOCSS, front-end architecture, performance and more, by Harry Roberts&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://uber.github.io/deck.gl/#/&quot;&gt;deck.gl&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2016/11/22/firefox-50-react-v15.4.0-custom-element-v1/&quot;&gt;2016-11-22のJS: Firefox 50、React v15.4.0、Custom Element v1 - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.mozilla.org/security/2016/08/26/mitigating-mime-confusion-attacks-in-firefox/&quot;&gt;Mitigating MIME Confusion Attacks in Firefox | Mozilla Security Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react/blog/2016/11/16/react-v15.4.0.html&quot;&gt;React v15.4.0 - React Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.html5rocks.com/ja/tutorials/webperformance/usertiming/&quot;&gt;User Timing API: あなたの Web アプリをもっと理解するために - HTML5 Rocks&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/paulirish/pwmetrics&quot;&gt;GitHub - paulirish/pwmetrics: Progressive web metrics at your fingertipz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2016/11/29/node.js-v7.2.0-yarn/&quot;&gt;2016-11-29のJS: Node.js v7.2.0、Yarnでオフラインインストール - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yarnpkg.com/blog/2016/11/24/offline-mirror&quot;&gt;Running Yarn offline | Yarn Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/wdstack/understanding-javascript-micro-templating-f37a37b3b40e&quot;&gt;Understanding JavaScript Micro-Templating – WDstack – Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.khanacademy.org/&quot;&gt;Khan Academy | Free Online Courses, Lessons &amp;amp; Practice&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://r7kamura.hatenablog.com/entry/2016/11/24/030101&quot;&gt;katatema.js - ✘╹◡╹✘&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nfl/react-helmet&quot;&gt;GitHub - nfl/react-helmet: A document head manager for React&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/rstankov/react-at-product-hunt&quot;&gt;React at Product Hunt // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dollarshaveclub.github.io/reframe.js/&quot;&gt;Reframe.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/nuxt/nuxt.js&quot;&gt;GitHub - nuxt/nuxt.js: A minimalistic framework for server-rendered Vue.js applications (inspired by Next.js)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/moroshko/react-autosuggest&quot;&gt;GitHub - moroshko/react-autosuggest: WAI-ARIA compliant React autosuggest component&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://shop.bradfrost.com/&quot;&gt;Brad Frost Online Store&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rockridge.hatenablog.com/entry/2016/11/25/004343&quot;&gt;デスクトップ版Firefox 57で拡張機能はWebExtensionsベースに限定化 - Mozilla Flux&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl12</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl012.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>amagitakayosi, hakobe932, takuya-a, niwatakoの4人で、JavaScript関連のニュースを読みながら雑談しました。</itunes:subtitle>
+        <itunes:duration>17:51</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 11 - JavaScript Award, 東京Node学園祭2016</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl11</link>
+        <pubDate>Wed, 16 Nov 2016 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://javascriptweekly.com/issues/309&quot;&gt;JavaScript Weekly Issue 309: November 10, 2016&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.infoworld.com/article/3139891/javascript/angular-3-is-hot-on-the-heels-of-angular-2.html&quot;&gt;Angular 3 is hot on the heels of Angular 2 | InfoWorld&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jsawards.org/&quot;&gt;JS Awards 2016&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://typeform.com/&quot;&gt;301 Moved Permanently&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sitepoint.com/logging-errors-client-side-apps/&quot;&gt;Logging Errors in Client-Side Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://trackjs.com/&quot;&gt;JavaScript Error Tracking from TrackJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://opbeat.com/&quot;&gt;Opbeat FEB3445A-001E-4DB6-84C2-D6C2EE562943 icon_nodejs icon_angularjs B44E8A41-D042-48CE-8320-0B9DF8103735 icon_nodejs icon_angularjs&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/WhitestormJS/whitestorm.js&quot;&gt;GitHub - WhitestormJS/whitestorm.js: Framework for developing 3D web apps with physics.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/FGRibreau/gron&quot;&gt;GitHub - FGRibreau/gron: gron - Make JSON greppable!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/dop251/goja&quot;&gt;GitHub - dop251/goja: ECMAScript 5.1(+) implementation written in Go&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/zoncoen/perl-meets-javascript-with-reactjs&quot;&gt;Perl でも React.js の server-side rendering がしたい！ / perl meets javascript with reactjs // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jorangreef/reed-solomon&quot;&gt;GitHub - jorangreef/reed-solomon: Reed-Solomon erasure coding in pure Javascript with an optional C++ binding for multi-core throughput.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://html5experts.jp/horo/21360/&quot;&gt;超詳解！Service Worker Deep Dive ── HTML5 Conference 2016セッションレポート | HTML5Experts.jp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nodefest.jp/2016/&quot;&gt;東京Node学園祭2016 | 11月12日,13日開催！ Twitter account&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/a0viedo/demystifying-js-engines&quot;&gt;GitHub - a0viedo/demystifying-js-engines: A list of resources about JavaScript engines&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.slideshare.net/teppeis/kaizen-68803503&quot;&gt;サイボウズの開発を支えるKAIZEN文化&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://qiita.com/takahashim/items/7838334d1451fb0a9811&quot;&gt;ゼロから始めるJavaScript生活 - Qiita&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl11</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl011.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>amagitakayosi, hakobe932, hatz48, nanto_vi, itchyny の5人で、JavaScript関連のニュースを読みつつ雑談しました。</itunes:subtitle>
+        <itunes:duration>17:51</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 10 - rollup.js, CrankShaft, アメリカ大統領選挙</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl10</link>
+        <pubDate>Wed, 09 Nov 2016 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2016/11/08/sitespeed.io-4.0-webpack-2-beta-javascript/&quot;&gt;2016-11-08のJS: sitespeed.io 4.0、webpack 2 beta入門、JavaScriptスタックチュートリアル - JSer.info&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sitespeed.io/sitespeed.io-4.0-is-released/&quot;&gt;Welcome sitespeed.io 4.0&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/takahashim/js-stack-from-scratch&quot;&gt;GitHub - takahashim/js-stack-from-scratch: Step-by-step tutorial to build a modern JavaScript stack from scratch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://triple-underscore.github.io/requestidlecallback-ja.html&quot;&gt;Cooperative Scheduling of Background Tasks（日本語訳）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/web/updates/2016/10/pointer-events&quot;&gt;Pointing the Way Forward | Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auth0.com/blog/building-universal-apps-with-nextjs/&quot;&gt;Build a Universal JavaScript App with Next.js Button - Close Learn More&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/vhf/v8-bailout-reasons&quot;&gt;GitHub - vhf/v8-bailout-reasons: A list of Crankshaft bailout reasons with examples&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://turbo.github.io/&quot;&gt;turbo.js - Easy GPGPU&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tfennelly/browserify-tree&quot;&gt;GitHub - tfennelly/browserify-tree: Generate a Browserify bundle dependency tree for bundled modules&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/hughsk/disc&quot;&gt;GitHub - hughsk/disc: Visualise the module tree of browserify project bundles and track down bloat.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/th0r/webpack-bundle-analyzer&quot;&gt;GitHub - th0r/webpack-bundle-analyzer: Webpack plugin and CLI utility that represents bundle content as convenient interactive zoomable treemap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vdata.nikkei.com/newsgraphics/president2016-live/&quot;&gt;米大統領選2016　開票ライブ：日本経済新聞&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://isucon.net/archives/48778066.html&quot;&gt;ISUCON6 本選問題の解説と講評 : ISUCON公式Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/transcranial/keras-js&quot;&gt;GitHub - transcranial/keras-js: Run Keras models (tensorflow backend) in the browser, with GPU support&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://javascript.kyoto/#slack&quot;&gt;Kyoto.js - JavaScript Community in Kyoto&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.sass-lang.com/posts/1022316-announcing-dart-sass&quot;&gt;Announcing Dart Sass « Sass Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dartlang.org/community/who-uses-dart&quot;&gt;Who Uses Dart | Dart&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl10</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl010.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>amagitakayosi, hatz48, nanto_vi がJavaScript関連のニュースを読みつつ雑談しました。</itunes:subtitle>
+        <itunes:duration>21:26</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>Frontend Lunch 9 - WHATWG URL, WebAssembly, ニコニコ動画HTML5プレイヤー</title>
+        <link>https://hatena.github.io/frontend-lunch/episode/fl9</link>
+        <pubDate>Wed, 02 Nov 2016 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jser.info/2016/11/01/node.js-v7-node.js-v0.10-eol-webassembly-browser-preview/&quot;&gt;JSer.info | 2016-11-01のJS: Node.js v7、Node.js v0.10 EOL、WebAssembly Browser Preview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.jxck.io/entries/2016-10-27/whatwg-url.html&quot;&gt;Node v7 で入った WHATWG URL 実装について&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://v8project.blogspot.jp/2016/10/webassembly-browser-preview.html&quot;&gt;WebAssembly Browser Preview&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/domenic/proposal-dynamic-import&quot;&gt;domenic/proposal-dynamic-import: import() proposal for JavaScript&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/pelotoncycle/resize-observer&quot;&gt;pelotoncycle/resize-observer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://about.gitlab.com/2016/10/20/why-we-chose-vue/&quot;&gt;Why We Chose Vue.js | GitLab&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Bilibili/flv.js&quot;&gt;Bilibili/flv.js: HTML5 FLV Player&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://azopcorp.com/ggvshop/&quot;&gt;GLITCH GIF VJ SHOP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kickstarter.com/projects/232193852/font-awesome-5&quot;&gt;Font Awesome 5 by Dave Gandy — Kickstarter&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://hatena.github.io/frontend-lunch/episode/fl9</guid>
+        <enclosure url="https://hatena.github.io/frontend-lunch/audio/fl009.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>Hatena Co., Ltd.</itunes:author>
+        <itunes:subtitle>amagitakayosi, nanto_vi, hakobe932, hatz48がJavaScript関連のニュースを読みつつ雑談しました。</itunes:subtitle>
+        <itunes:duration>19:30</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://hatena.github.io/frontend-lunch/images/artwork.png"/>
+      </item>
+    
+  </channel>
+</rss>

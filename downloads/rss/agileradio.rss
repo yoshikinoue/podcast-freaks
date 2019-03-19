@@ -1,0 +1,665 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:itunes="http://www.itunes.com/DTDs/Podcast-1.0.dtd">
+  <channel>
+    <title>アジャイルラジオ</title>
+    <description>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</description>
+    <link>http://agileradio.github.io/</link>
+    <pubDate>Tue, 19 Mar 2019 02:09:46 +0000</pubDate>
+    <lastBuildDate>Tue, 19 Mar 2019 02:09:46 +0000</lastBuildDate>
+    <generator>Jekyll v2.4.0</generator>
+    <itunes:subtitle>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げ、語り尽くす番組です</itunes:subtitle>
+    <itunes:author>AgileRadio</itunes:author>
+    <itunes:summary>アジャイルラジオは、アジャイル開発に関するありとあらゆる情報を取り上げる番組です。毎回、アジャイルにまつわる様々なテーマを掘り下げ、できる限り語り尽くします。</itunes:summary>
+    <itunes:owner>
+    <itunes:name>アジャイルラジオ</itunes:name>
+    <itunes:email/>
+    </itunes:owner>
+    <itunes:image href="http://agileradio.github.io/assets/img/agileradio_banner_1400x1400.jpg" />
+    <itunes:category text="Technology">
+    <itunes:category text="Software"/>
+    <itunes:category text="Agile"/>
+    </itunes:category>
+
+    
+      
+      <item>
+        <title>Scrum Fest Osaka 2019 トーク その１</title>
+        <description>&lt;p&gt;今回は、Scrum Fest Osaka 2019 の基調公演でご講演いただいた『きょん』さんにお越しいただき、
+Scrum Fest Osaka 2019 について語りました。  &lt;/p&gt;
+
+&lt;p&gt;Scrum Fest Osaka 2019 公式ホームページ&lt;br&gt;
+&lt;a href=&quot;https://www.scrumosaka.org/&quot;&gt;https://www.scrumosaka.org/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;きょん氏Twitter&lt;br&gt;
+&lt;a href=&quot;https://twitter.com/kyon_mm&quot;&gt;https://twitter.com/kyon_mm&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/03/18/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/03/18/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_083.mp3" length="15993350" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>ギャザリングトーク その４</title>
+        <description>&lt;p&gt;前回に引き続き Regional Scrum Gathering® Tokyo に参加したメンバーの感想を語っています。&lt;br&gt;
+&lt;a href=&quot;https://2019.scrumgatheringtokyo.org/&quot;&gt;https://2019.scrumgatheringtokyo.org/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Mar 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/03/04/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/03/04/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_082.mp3" length="21909046" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>ギャザリングトーク その３</title>
+        <description>&lt;p&gt;前回に引き続き Regional Scrum Gathering® Tokyo に参加したメンバーの感想を語っています。&lt;br&gt;
+&lt;a href=&quot;https://2019.scrumgatheringtokyo.org/&quot;&gt;https://2019.scrumgatheringtokyo.org/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Thu, 28 Feb 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/02/28/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/02/28/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_081.mp3" length="19880372" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>ギャザリングトーク その２</title>
+        <description>&lt;p&gt;前回に引き続き Regional Scrum Gathering® Tokyo に参加したメンバーの感想を語っています。&lt;br&gt;
+&lt;a href=&quot;https://2019.scrumgatheringtokyo.org/&quot;&gt;https://2019.scrumgatheringtokyo.org/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 04 Feb 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/02/04/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/02/04/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_080.mp3" length="17685150" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>ギャザリングトーク その１</title>
+        <description>&lt;p&gt;今回は Regional Scrum Gathering® Tokyo に参加したメンバーの感想を語っています。&lt;br&gt;
+&lt;a href=&quot;https://2019.scrumgatheringtokyo.org/&quot;&gt;https://2019.scrumgatheringtokyo.org/&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 29 Jan 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/01/29/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/01/29/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_079.mp3" length="18497554" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>森一樹さんとふりかえりの話 後半</title>
+        <description>&lt;p&gt;あけましておめでとうございます。&lt;br&gt;
+今年もアジャイルラジオをよろしくお願いします。  &lt;/p&gt;
+
+&lt;p&gt;前回に引き続き、森一樹さんにふりかえりのお話をしていただきました。  &lt;/p&gt;
+
+&lt;p&gt;森さんは Regional Scrum Gathering® Tokyo 2019 でご講演されます。&lt;br&gt;
+&lt;a href=&quot;https://confengine.com/regional-scrum-gathering-tokyo-2019/proposal/7829/effective-retrospective&quot;&gt;https://confengine.com/regional-scrum-gathering-tokyo-2019/proposal/7829/effective-retrospective&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;森一樹さんのTwitter&lt;br&gt;
+&lt;a href=&quot;https://twitter.com/viva_tweet_x&quot;&gt;https://twitter.com/viva_tweet_x&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;森さんが技術書典で出された「ふりかえり読本」の電子販売はこちら。
+ふりかえりで重要な「場作り」について書かれています。&lt;br&gt;
+&lt;a href=&quot;https://hurikaeri.booth.pm/items/1076615&quot;&gt;https://hurikaeri.booth.pm/items/1076615&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 07 Jan 2019 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2019/01/07/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2019/01/07/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_078.mp3" length="15124831" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>森一樹さんとふりかえりの話 前半</title>
+        <description>&lt;p&gt;メリークリスマス☆彡.。  &lt;/p&gt;
+
+&lt;p&gt;今回のアジャイルラジオは、森一樹さんにお越しいただき、
+ふりかえりのお話をしていただきました。  &lt;/p&gt;
+
+&lt;p&gt;森一樹さんのTwitter&lt;br&gt;
+&lt;a href=&quot;https://twitter.com/viva_tweet_x&quot;&gt;https://twitter.com/viva_tweet_x&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;森さんが技術書典で出された「ふりかえり読本」の電子販売はこちら。
+ふりかえりで重要な「場作り」について書かれています。&lt;br&gt;
+&lt;a href=&quot;https://hurikaeri.booth.pm/items/1076615&quot;&gt;https://hurikaeri.booth.pm/items/1076615&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 25 Dec 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/12/25/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/12/25/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_077.mp3" length="14659335" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>楽天の椎葉さん登場 後半</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://agileradio.github.io/2018/11/26/1/&quot;&gt;前回&lt;/a&gt;に引き続き、楽天株式会社 大阪支社におじゃまして、椎葉さんの社内での活動についてお話を聞いてきました。特に今回はチームとどのように関わるかを詳しく聞きました。  &lt;/p&gt;
+
+&lt;p&gt;椎葉さんのTwitter&lt;br&gt;
+&lt;a href=&quot;https://twitter.com/bufferings&quot;&gt;https://twitter.com/bufferings&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;椎葉さんのRSGTセッション&lt;br&gt;
+&lt;a href=&quot;https://confengine.com/regional-scrum-gathering-tokyo-2019/proposal/7915&quot;&gt;https://confengine.com/regional-scrum-gathering-tokyo-2019/proposal/7915&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 10 Dec 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/12/10/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/12/10/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_076.mp3" length="20922762" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>楽天の椎葉さん登場 前半</title>
+        <description>&lt;p&gt;今回は、楽天株式会社 大阪支社におじゃまして、椎葉さんの社内での活動についてお話を聞いてきました。  &lt;/p&gt;
+
+&lt;p&gt;椎葉さんのTwitter&lt;br&gt;
+&lt;a href=&quot;https://twitter.com/bufferings&quot;&gt;https://twitter.com/bufferings&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;椎葉さんのRSGTセッション&lt;br&gt;
+&lt;a href=&quot;https://confengine.com/regional-scrum-gathering-tokyo-2019/proposal/7915&quot;&gt;https://confengine.com/regional-scrum-gathering-tokyo-2019/proposal/7915&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 26 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/11/26/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/11/26/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_075.mp3" length="18066538" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>ワークショップを行う側が考えていること</title>
+        <description>&lt;p&gt;ワークショップを行う側が考えていることの話と、&lt;br&gt;
+スクラム道関西 大忘年会（11/24）の告知です。&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/104864/&quot;&gt;https://scrumdo-kansai.connpass.com/event/104864/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;タイムボックスなんて知らねぇ（笑）  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 12 Nov 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/11/12/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/11/12/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_074.mp3" length="12661072" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>やまもとさんとますだーさん</title>
+        <description>&lt;p&gt;大忘年会&lt;br&gt;
+スプリントのコミット&lt;br&gt;
+改善推進とは&lt;br&gt;
+ファシリテータとは  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Tue, 30 Oct 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/10/30/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/10/30/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_073.mp3" length="23009424" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>RSGT2019にプロポーザルを出そう！</title>
+        <description>&lt;p&gt;RSGTは、国内最大のスクラムに関するカンファレンスです。&lt;br&gt;
+公式URL：&lt;a href=&quot;https://2019.scrumgatheringtokyo.org/index.html&quot;&gt;https://2019.scrumgatheringtokyo.org/index.html&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;現在、RSGTのプロポーザルを受け付けているので、提出しているプロポーザルについて話しました。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 15 Oct 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/10/15/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/10/15/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_072.mp3" length="18790542" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>スクラム道関西のオープンジャムの話ほか</title>
+        <description>&lt;p&gt;スクラム道関西のオープンジャムって普段どんなことやってるの？という話と、認定スクラムマスター資格の更新手順の話題、キャリアパスって悩むよねの話&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/10/01/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/10/01/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_071.mp3" length="13653098" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>アジャイルジャパン大阪サテライトと社内読書会</title>
+        <description>&lt;p&gt;今回は、開原と和田で、アジャイルジャパン大阪サテライトと、社内読書会について話しました。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 17 Sep 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/09/17/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/09/17/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_070.mp3" length="18093079" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>人生の目標を見失っている男たちの巻</title>
+        <description>&lt;p&gt;JIN-SAY!の迷い人、開原と和田が台風と仕事における目標について語りました。結局、迷ってばかりなんですけどね。。。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 03 Sep 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/09/03/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/09/03/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_069.mp3" length="15476127" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>田口と増田と松尾で雑多な話</title>
+        <description>&lt;p&gt;今回はZOZOTOWNの働き方の話や、チャットの話をしました。&lt;br&gt;
+ゆるーく聴いていただけたらと思います。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 20 Aug 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/08/20/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/08/20/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_068.mp3" length="33036889" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>スクラム開発を短時間で説明する</title>
+        <description>&lt;p&gt;スクラム道関西のオープンジャムで出た『スクラム開発を短時間で説明する』を話しました。&lt;br&gt;
+みなさんだったらスクラム開発をどういう風に説明しますか？  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 06 Aug 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/08/06/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/08/06/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_067.mp3" length="18412923" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>ワールドカップと技術的負債</title>
+        <description>&lt;p&gt;今回は、ワールドカップと技術的負債の話です。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Jul 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/07/23/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/07/23/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_066.mp3" length="16236813" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>Scrum Boot Camp OSAKA 開催しました</title>
+        <description>&lt;p&gt;今回は、6/30(土)に開催した『Scrum Boot Camp OSAKA in June 2018』の話です。&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/89594/&quot;&gt;https://scrumdo-kansai.connpass.com/event/89594/&lt;/a&gt;&lt;br&gt;
+次回開催はおそらく秋頃を予定しています。  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Jul 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/07/09/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/07/09/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_065.mp3" length="19557713" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>エンジニア採用とモブプログラミング</title>
+        <description>&lt;p&gt;エンジニア採用とモブプログラミング、その他お金の話です。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 25 Jun 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/06/25/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/06/25/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_064.mp3" length="19680907" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>サラリーマン山本がアジャイルやってみた！</title>
+        <description>&lt;p&gt;サラリーマンに戻った山本が新天地でアジャイルをやってみた話です！&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 11 Jun 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/06/11/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/06/11/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_063.mp3" length="19635448" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>スプリント期間とリリースタイミング</title>
+        <description>&lt;p&gt;今回は、スプリント期間とリリースタイミングについて話してます。  &lt;/p&gt;
+
+&lt;p&gt;Scrum Boot Camp OSAKA は 6/30(土) を予定しています。
+connpassの方で告知しますのでお待ちください。&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/&quot;&gt;https://scrumdo-kansai.connpass.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 28 May 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/05/28/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/05/28/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_062.mp3" length="14517118" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>Scrum Boot Camp OSAKA の予告</title>
+        <description>&lt;p&gt;今回のアジャイルラジオは、Scrum Boot Camp OSAKA の話と、
+ドキュメントやコミュニケーションの話をしました。  &lt;/p&gt;
+
+&lt;p&gt;次回の Scrum Boot Camp OSAKA は 6/30(土) を予定しています。
+connpassの方で告知しますのでお待ちください。&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/&quot;&gt;https://scrumdo-kansai.connpass.com/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 14 May 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/05/14/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/05/14/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_061.mp3" length="13536488" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>Tech系Podcast</title>
+        <description>&lt;p&gt;アジャイルラジオぉぉぉ！おはようございまーす。  &lt;/p&gt;
+
+&lt;p&gt;今回はTech系Podcastの話です。Tech系だけでもほんといろいろありますね。&lt;br&gt;
+他のラジオの方々とコラボしたいです～。  &lt;/p&gt;
+
+&lt;p&gt;せろりんねさんのYouTubeはこちら。&lt;br&gt;
+&lt;a href=&quot;https://www.youtube.com/channel/UCxZ0BkYadR-0LtmkrHcFOvQ&quot;&gt;https://www.youtube.com/channel/UCxZ0BkYadR-0LtmkrHcFOvQ&lt;/a&gt;  &lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 23 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/04/23/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/04/23/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_060.mp3" length="15080638" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>オープンジャムでの話題あれこれ</title>
+        <description>&lt;p&gt;今回は、スクラム道関西の定例会(オープン・ジャム)で出た話題をピックアップして取り上げて話しました。&lt;br&gt;
+職場の問題カルタ、ふりかえり、非機能要件などなど。  &lt;/p&gt;
+
+&lt;p&gt;定例会にもぜひ遊びに来てください。&lt;br&gt;
+スクラム道関西 第103回定例会(オープン・ジャム)&lt;br&gt;
+&lt;a href=&quot;https://scrumdo-kansai.connpass.com/event/83479/&quot;&gt;https://scrumdo-kansai.connpass.com/event/83479/&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 09 Apr 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/04/09/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/04/09/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_059.mp3" length="17501557" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>自己組織化について</title>
+        <description>&lt;p&gt;今回は自己組織化についてです。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Mar 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/03/19/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/03/19/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_058.mp3" length="19831680" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>スクラム道関西定例会100回</title>
+        <description>&lt;p&gt;今回はスクラム道関西の定例会が100回を迎えたのでその話をしました。
+100回すごい。継続は力なりですね。  &lt;/p&gt;
+
+&lt;p&gt;これからもスクラム道関西は開発者のみなさんがいつも笑顔で開発できるような世界を目指して頑張って行きます。定例会にも遊びに来てくださいね。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Mar 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/03/05/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/03/05/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_057.mp3" length="14817115" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>Regional Scrum Gathering Tokyo 2018 参加報告 その３</title>
+        <description>&lt;p&gt;今回も前回に引き続き、先日開催されました
+&lt;a href=&quot;https://2018.scrumgatheringtokyo.org/&quot;&gt;Regional Scrum Gathering Tokyo 2018&lt;/a&gt;
+の参加報告です。&lt;/p&gt;
+
+&lt;p&gt;今回は２日目の話とグラフィックレコーディングについて話しました。  &lt;/p&gt;
+
+&lt;p&gt;清水淳子さんのCEDECでの講演資料はこちら（要アカウント）&lt;br&gt;
+&lt;a href=&quot;http://cedil.cesa.or.jp/cedil_sessions/view/1672&quot;&gt;http://cedil.cesa.or.jp/cedil_sessions/view/1672&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 19 Feb 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/02/19/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/02/19/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_056.mp3" length="16382681" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>Regional Scrum Gathering Tokyo 2018 参加報告 その２</title>
+        <description>&lt;p&gt;今回は前回に引き続き、先日開催されました
+&lt;a href=&quot;https://2018.scrumgatheringtokyo.org/&quot;&gt;Regional Scrum Gathering Tokyo 2018&lt;/a&gt;
+の参加報告です。&lt;/p&gt;
+
+&lt;p&gt;３日目のオープン・スペース・テクノロジーは非常に面白いやり方だと思いました。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 05 Feb 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/02/05/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/02/05/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_055.mp3" length="16353070" type="audio/mpeg"/>
+      </item>
+      
+    
+      
+      <item>
+        <title>Regional Scrum Gathering Tokyo 2018 参加報告</title>
+        <description>&lt;p&gt;今回は、先日開催されました
+&lt;a href=&quot;https://2018.scrumgatheringtokyo.org/&quot;&gt;Regional Scrum Gathering Tokyo 2018&lt;/a&gt;
+の参加報告です。&lt;/p&gt;
+
+&lt;p&gt;参加されていない方にも、RSGTの雰囲気が少しでも伝われば幸いです。&lt;/p&gt;
+
+&lt;p&gt;Twitter ハッシュタグ &lt;a href=&quot;https://twitter.com/intent/tweet?hashtags=agileradio&quot;&gt;#agileradio&lt;/a&gt; にご意見ご参考をお聞かせください。&lt;/p&gt;
+</description>
+        <pubDate>Mon, 22 Jan 2018 00:00:00 +0000</pubDate>
+        <link>http://agileradio.github.io/2018/01/22/1/</link>
+        <guid isPermaLink="true">http://agileradio.github.io/2018/01/22/1/</guid>
+        
+        <category>Radio</category>
+        
+        
+        <enclosure url="http://agileradio-assets1.s3-website-us-west-1.amazonaws.com/mp3/ar_054.mp3" length="23946134" type="audio/mpeg"/>
+      </item>
+      
+    
+  </channel>
+</rss>

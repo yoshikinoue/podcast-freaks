@@ -1,0 +1,69 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:253312552/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:253312552/sounds.rss?before=282089882" rel="next" type="application/rss+xml"/>
+        <title>Startup Radio</title>
+        <link>http://ops-in.com/</link>
+        <pubDate>Fri, 23 Sep 2016 08:10:10 +0000</pubDate>
+        <lastBuildDate>Fri, 23 Sep 2016 08:10:10 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>スタートアップ、テクノロジー、経営、Web開発、リモートワークなどの話題をお届けします。
+Web/App開発の(株)オプスイン 狸塚と、人工知能開発の(株)ジェニオ 石井がホスト。不定期に各分野からのゲストをお招きしてお話しします。
+Talking about startup life, technology, remote work and management.
+By Daiki(OPS-IN) and Daisuke(Jenio) with special guests from different businesses.</description>
+        <itunes:subtitle>スタートアップ、テクノロジー、経営、Web開発、リモートワークなどの話題をお届けします。
+Web/…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Startup Radio スタートアップラジオ</itunes:name>
+          <itunes:email>fashiontech23@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Daisuke Ishii</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000259035985-jz7sxo-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000259035985-jz7sxo-original.jpg</url>
+          <title>Startup Radio スタートアップラジオ</title>
+          <link>http://ops-in.com/</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/284255987</guid>
+      <title>Web/Appの開発を成功させるには？</title>
+      <pubDate>Fri, 23 Sep 2016 08:10:10 +0000</pubDate>
+      <link>https://soundcloud.com/user-410655413/webapp-1</link>
+      <itunes:duration>00:18:07</itunes:duration>
+      <itunes:author>Daisuke Ishii</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ジェニオの石井とオプスインの狸塚が、Web/App開発を成功させるには？というテーマでお話しします。
+コアタイムを決めてコミュニケーションを密に
+タスクやイシューを切り分けて期待値を明確化する
+常駐メンバーとリモートメンバーが混ざる場合は情報共有が大事
+デザイナーとバックエンドエンジニアの上手なコラボ方法</itunes:summary>
+      <itunes:subtitle>ジェニオの石井とオプスインの狸塚が、Web/App開発を成功させるには？というテーマでお話しします…</itunes:subtitle>
+      <description>ジェニオの石井とオプスインの狸塚が、Web/App開発を成功させるには？というテーマでお話しします。
+コアタイムを決めてコミュニケーションを密に
+タスクやイシューを切り分けて期待値を明確化する
+常駐メンバーとリモートメンバーが混ざる場合は情報共有が大事
+デザイナーとバックエンドエンジニアの上手なコラボ方法</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/284255987-user-410655413-webapp-1.m4a" length="15491756"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000184599895-cjqepm-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/282089882</guid>
+      <title>世界各国リモートワークぶっちゃけ事情</title>
+      <pubDate>Fri, 09 Sep 2016 09:50:02 +0000</pubDate>
+      <link>https://soundcloud.com/user-410655413/oe7j5lqfksfd</link>
+      <itunes:duration>00:25:16</itunes:duration>
+      <itunes:author>Daisuke Ishii</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>日本、アジア、ヨーロッパ、アフリカ各国エンジニアのリモートワーク事情とリモート成功のコツをぶっちゃけて話します。</itunes:summary>
+      <itunes:subtitle>日本、アジア、ヨーロッパ、アフリカ各国エンジニアのリモートワーク事情とリモート成功のコツをぶっちゃ…</itunes:subtitle>
+      <description>日本、アジア、ヨーロッパ、アフリカ各国エンジニアのリモートワーク事情とリモート成功のコツをぶっちゃけて話します。</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/282089882-user-410655413-oe7j5lqfksfd.m4a" length="21258070"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000181718711-nd5y8i-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

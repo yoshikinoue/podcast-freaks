@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://tonight-fm.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://tonight-fm.github.io/</link>
+    <title>Tonight FM</title>
+    <description>ゲストをお呼びして、近況を報告しながら音楽を聞く音楽番組です</description>
+    <media:keywords>music,proguramming</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>ゲストをお呼びして、近況を報告しながら音楽を聞く音楽番組です</itunes:subtitle>
+    <itunes:author>punchdrunker</itunes:author>
+    <itunes:summary>ゲストをお呼びして、近況を報告しながら音楽を聞く音楽番組です</itunes:summary>
+    <itunes:keywords>music,proguramming</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>punchdrunker</itunes:name>
+      <itunes:email>nanao.hhk@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://tonight-fm.github.io/images/artwork.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>2. punchdrunkerのロンリーガール</title>
+        <link>https://tonight-fm.github.io/episode/2</link>
+        <pubDate>Mon, 26 Feb 2018 20:00:00 +0900</pubDate>
+        <description>&lt;p&gt;ゲストは友達のkeithyokomaさんです。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;1曲目 punchdrunkerのロンリーガール&lt;/li&gt;
+  &lt;li&gt;この一週間の出来事
+    &lt;ul&gt;
+      &lt;li&gt;DroidKaigiレポート&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;旅行について
+    &lt;ul&gt;
+      &lt;li&gt;インド&lt;/li&gt;
+      &lt;li&gt;ニューヨーク&lt;/li&gt;
+      &lt;li&gt;キューバ&lt;/li&gt;
+      &lt;li&gt;ルクセンブルク&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2曲目 Ella Jane Fitzgerald “Misty”&lt;/li&gt;
+  &lt;li&gt;カンファレンスカメラマン&lt;/li&gt;
+  &lt;li&gt;趣味の買い物
+    &lt;ul&gt;
+      &lt;li&gt;葉巻&lt;/li&gt;
+      &lt;li&gt;自転車の部品&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;レース観戦
+    &lt;ul&gt;
+      &lt;li&gt;自転車&lt;/li&gt;
+      &lt;li&gt;F1&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3曲目 Sarah Vaughan “How high the moon”&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://gihyo.jp/news/report/2018/02/2301&quot;&gt;モバイルの枠を超えたAndroidの技術を語る DroidKaigi 2018参加レポート&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://tonight-fm.github.io/episode/2</guid>
+        <enclosure url="https://tonight-fm.github.io/audio/2.mp3" length="49MB" type="audio/mp3"/>
+        <itunes:author>punchdrunker</itunes:author>
+        <itunes:subtitle>keithyokomaさんを迎えて今週1週間を振りかえりました。旅行やカメラについて話しました。</itunes:subtitle>
+        <itunes:duration>40:42</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://tonight-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>1. エラーメッセージを読んでください</title>
+        <link>https://tonight-fm.github.io/episode/1</link>
+        <pubDate>Fri, 26 Jan 2018 20:00:00 +0900</pubDate>
+        <description>&lt;p&gt;ゲストは友達のoogattaさんです。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;この一週間の出来事
+    &lt;ul&gt;
+      &lt;li&gt;ペアプロ&lt;/li&gt;
+      &lt;li&gt;DroidKaigiの準備&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;1曲目 Duke Ellington “Take The A Train”&lt;/li&gt;
+  &lt;li&gt;アメリカンジョーク
+    &lt;ul&gt;
+      &lt;li&gt;カナダの英語&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;RxJavaが本当に必要な用途&lt;/li&gt;
+  &lt;li&gt;アプリ開発と日本語&lt;/li&gt;
+  &lt;li&gt;Larry Nassar&lt;/li&gt;
+  &lt;li&gt;AARRRの人(Dave McClure)の一件&lt;/li&gt;
+  &lt;li&gt;テストファースト
+    &lt;ul&gt;
+      &lt;li&gt;Unit test不要論&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2曲目 Bill Evans “Everything Happens To Me”&lt;/li&gt;
+  &lt;li&gt;寒波&lt;/li&gt;
+  &lt;li&gt;次回以降のゲスト&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.theguardian.com/sport/2018/jan/26/larry-nassar-abuse-gymnasts-scandal-culture&quot;&gt;How was Larry Nassar able to abuse so many gymnasts for so long?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://thebridge.jp/2017/07/500-startups-replaced-ceo-dave-mcclure-because-of-inappropriate-interactions-with-women&quot;&gt;500 Startups、「女性との不適切な対話」を理由にDave McClure氏を除名&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://tonight-fm.github.io/episode/1</guid>
+        <enclosure url="https://tonight-fm.github.io/audio/1.mp3" length="52MB" type="audio/mp3"/>
+        <itunes:author>punchdrunker</itunes:author>
+        <itunes:subtitle>oogattaさんを迎えて今週1週間を振りかえりました。ペアプロ、テストファースト、RxJavaやアメリカ体操連盟について話しました。</itunes:subtitle>
+        <itunes:duration>45:20</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://tonight-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

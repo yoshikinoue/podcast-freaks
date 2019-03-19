@@ -1,0 +1,525 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" version="2.0">
+<channel>
+<title>Modern Syntax Radio Show</title>
+<link>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/podcast/</link>
+<description>Modern Syntax、略してモダシンです。素直で優しくて合理的です。ポッドキャストは毎週日曜日にIT業界の方をゲストに迎えてお届けしています。</description>
+<language>ja</language>
+<itunes:author>モダシン</itunes:author>
+<itunes:image href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/MSSR-art-Work-500.jpg" />
+<copyright>Copyright 2019</copyright>
+<lastBuildDate>Tue, 19 Mar 2019 20:20:37 +0900</lastBuildDate>
+<generator>http://www.movabletype.org/?v=6.1.2</generator>
+<docs>http://blogs.law.harvard.edu/tech/rss</docs> 
+
+
+<item>
+<title>なぜか @mehori によるトレタの「Googleで予約」の解説のModern Syntax Radio Show 593回目 #MSRS</title>
+<description><![CDATA[<p>「<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4046023449/modernsyntax-22/ref=nosim/" name="amazletlink" target="_blank">知的生活の設計―――「10年後の自分」を支える83の戦略</a>」や「<a href="http://www.amazon.co.jp/exec/obidos/ASIN/B0779KV65Z/modernsyntax-22/ref=nosim/" name="amazletlink" target="_blank">ライフハック大全―――人生と仕事を変える小さな習慣250</a><br />
+」の著者にしてブログ<a href="https://lifehacking.jp/2018/11/intelife-preview0/">Lifehacking.jp</a>を運営する掘（<a href="https://twitter.com/mehori">@mehori</a>）さんによる飲食店向け予約／顧客台帳サービス「トレタ®」が「Googleで予約」に対応したという話の解説です。なぜ掘さんがトレタのサービスについて語るのかよくわかないのですが、面白いので是非しゃべりたいとのことでしたので録音させていただきました。今回は16分45秒ぐらいの番組になっています。</p>
+
+<p>まずは株式会社トレタによるプレスリリースです。</p>
+
+<p><a href="https://corp.toreta.in/news/2019-03-06/">トレタ、「Googleで予約」で 飲食店のオンライン即予約サービスを提供開始</a></p>
+
+<blockquote>トレタの正確でリアルタイムな席在庫情報をGoogleに提供することで、「Googleで予約」上で飲食店のオンライン即予約が完結できます。Googleユーザーは、Google検索やGoogleマップから飲食店を選択し、「席を予約する」ボタンから、人数・日付・時間を入力するだけで予約ができます。</blockquote>
+
+<p>まあなんというか、「知的生活の設計」や「ライフハック大全」を書かれている掘さんならではの考察って感じで面白いですよ。</p>
+
+<p>あ、堀さんと一緒に話しているのは先週も登場した小山さんです。今回はコンピュータに詳しい小山さんとして登場しています。</p>
+
+<p>さて、そんなモダシンラジオですが、以下のRSSのリンクをiTunesにドラッグ＆ドロップしておくと毎回自動で更新されるのでよろしければ購読よろしくお願いします。</p>
+
+<p>http://www.aivy.co.jp/BLOG_TEST/nagasawa/ms-radio.xml</p>
+
+<p>あと、iTunes Storeにも登録しているのでそこから購読することも可能です。iTunes StoreのURLはこの記事の最後の方で紹介しますね。</p>
+
+<p>今すぐ聞く、という方は以下のFlashプレイヤーかaudioタグによるプレイヤ−、またはリンクからファイルをダウンロードして聞いてみてください。Androidを使っててGoogleポッドキャストアプリを使っている人は<a href="https://www.google.com/podcasts?feed=aHR0cDovL3d3dy5haXZ5LmNvLmpwL0JMT0dfVEVTVC9uYWdhc2F3YS9tcy1yYWRpby54bWw%3D">ここをクリック</a>するとアプリで聴けます。</p>
+
+<p><span class="mt-enclosure mt-enclosure-mp3"><div class="mp3"><div class="mp3_player"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="250" height="50" id="mp3player" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190317.mp3" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190317.mp3" quality="high" bgcolor="#ffffff" width="250" height="50" name="mp3player" align="middle" allowScriptAcceMSSR_20190317.mp3ss="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div><br /><div class="audioTag"><audio src="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190317.mp3" preload="none" controls></div><br /><div class="mp3_link"><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190317.mp3" class="link_mp3" title="MSSR_20190317.mp3">MSSR_20190317.mp3</a></div></div><!-- [mp3:http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190317.mp3:MSSR_20190317.mp3] --></span></p>
+
+<p>過去のアーカイブはこちらです。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/podcast/">モダシンラジオカテゴリ</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/b/podcast/">95-234回目</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/podcasting/index.html">94回目までの過去アーカイブはこちら</a></p>
+
+<p>iTunes storeにも当番組を登録してあるのでアカウントを持っている人はそちらでレビューを書いていただけるととても嬉しいです。</p>
+
+<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=266089504">iTunes StoreのModern Syntax Radio Showのページ</a></p>
+
+<p>ではまた来週！</p>
+
+<p><br />
+</p>]]></description>
+<link>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/03/-mehori-googlemodern-syntax-radio-show-593-msrs.html</link>
+<guid>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/03/-mehori-googlemodern-syntax-radio-show-593-msrs.html</guid>
+<category>Podcast</category>
+<pubDate>Sun, 17 Mar 2019 20:33:09 +0900</pubDate>
+<enclosure url="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190317.mp3" length="13375161" type="audio/mpeg"/>
+
+</item>
+
+<item>
+<title>第12回「月刊小山( @koyhoge )のこの映画を観た」のModern Syntax Radio Show 592回目 #MSRS</title>
+<description><![CDATA[<p>はい、毎月お届けしている「月刊小山( @koyhoge )のこの映画を観た」です。お相手はいつもの<a href="https://twitter.com/koyhoge">@koyhoge</a>さんこと小山さんです。</p>
+
+<p>いやあ、もう12回目なんですね。毎月やっているのでもう1年って感じですか。まあ１回だけお休みした月があるんで実は1年以上なんですが。なにはともあれ、今年も続けるぞ！</p>
+
+<p>というわけで、小山さんが観た映画のレビューなんですが、今回取り上げている映画はこんな感じです。今回は24分30秒モノとなっております。</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/ugVJu5iG-Xw" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://yamato2202.net">宇宙戦艦ヤマト2202 愛の戦士たち　第七章</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/TXgp6KbeoUE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://touken-movie2019.jp">映画刀剣乱舞</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/8ds6lO6GNc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://www.fumiko-yeol.com">金子文子と朴烈（パクヨル）</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/jDz-d3voI7g" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="https://bokukano-maho.jp">僕の彼女は魔法使い</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/V4Qvw17HkoE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://dark-web.jp">アンフレンデッド ダークウェブ</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/eJ-4zk7WRu8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="https://gaga.ne.jp/greenbook/">グリーンブック</a></p>
+
+<p>これ以外にもアリータとかファーストマンとかアクアマンなどについても軽く触れておりますのでお楽しみください。</p>
+
+<p>さて、そんなモダシンラジオですが、以下のRSSのリンクをiTunesにドラッグ＆ドロップしておくと毎回自動で更新されるのでよろしければ購読よろしくお願いします。</p>
+
+<p>http://www.aivy.co.jp/BLOG_TEST/nagasawa/ms-radio.xml</p>
+
+<p>あと、iTunes Storeにも登録しているのでそこから購読することも可能です。iTunes StoreのURLはこの記事の最後の方で紹介しますね。</p>
+
+<p>今すぐ聞く、という方は以下のFlashプレイヤーかaudioタグによるプレイヤ−、またはリンクからファイルをダウンロードして聞いてみてください。Androidを使っててGoogleポッドキャストアプリを使っている人は<a href="https://www.google.com/podcasts?feed=aHR0cDovL3d3dy5haXZ5LmNvLmpwL0JMT0dfVEVTVC9uYWdhc2F3YS9tcy1yYWRpby54bWw%3D">ここをクリック</a>するとアプリで聴けます。</p>
+
+<p><span class="mt-enclosure mt-enclosure-mp3"><div class="mp3"><div class="mp3_player"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="250" height="50" id="mp3player" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190310.mp3" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190310.mp3" quality="high" bgcolor="#ffffff" width="250" height="50" name="mp3player" align="middle" allowScriptAcceMSSR_20190310.mp3ss="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div><br /><div class="audioTag"><audio src="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190310.mp3" preload="none" controls></div><br /><div class="mp3_link"><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190310.mp3" class="link_mp3" title="MSSR_20190310.mp3">MSSR_20190310.mp3</a></div></div><!-- [mp3:http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190310.mp3:MSSR_20190310.mp3] --></span></p>
+
+<p>過去のアーカイブはこちらです。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/podcast/">モダシンラジオカテゴリ</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/b/podcast/">95-234回目</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/podcasting/index.html">94回目までの過去アーカイブはこちら</a></p>
+
+<p>iTunes storeにも当番組を登録してあるのでアカウントを持っている人はそちらでレビューを書いていただけるととても嬉しいです。</p>
+
+<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=266089504">iTunes StoreのModern Syntax Radio Showのページ</a></p>
+
+<p>ではまた来週！<br />
+</p>]]></description>
+<link>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/03/12-koyhoge-modern-syntax-radio-show-592-msrs.html</link>
+<guid>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/03/12-koyhoge-modern-syntax-radio-show-592-msrs.html</guid>
+<category>Podcast</category>
+<pubDate>Sun, 10 Mar 2019 19:24:58 +0900</pubDate>
+<enclosure url="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190310.mp3" length="18559449" type="audio/mpeg"/>
+
+</item>
+
+<item>
+<title>親知らずを抜いて1週間入院した @masakiishitani にあれこれ聞いてみたModern Syntax Radio Show 591回目 #MSRS</title>
+<description><![CDATA[<p>やあ、久しぶりですね。2月11日ぶりですよ。</p>
+
+<p>そんなわけで久しぶりなモダシンラジオですが、今回は最近親知らずを抜いたというブログ「<a href="https://mitaimon.com">シン・みたいもん</a>」のいしたにまさき（<a href="https://twitter.com/masakiishitani">@masakiishitani</a>）さんをゲストに迎え、親知らずを抜いた時の話を伺いました。</p>
+
+<p>えっ、なんでまた親知らずを抜いた時の話なの？と思うかもしれませんが・・・。</p>
+
+<p>この「親知らずを抜く」という行為なんですが、普通の人の場合は歯医者さんで抜いたら基本的には終了で、あとは家に帰って麻酔が切れた後の痛みに耐える、というパターンかと思いますが、いしたにさんの場合はなんと1週間も入院されたとのこと。</p>
+
+<p>このあたりのことをいしたにさんのFacebookを読んでいて、「これは一体何が起こっているのだろう。一度詳しく聞いてみなければ！」と思っていたところにいしたにさんとお会いする機会があったので早速録音させてもらった次第です。</p>
+
+<p>なんで親知らずを抜いて1週間も入院することになったのか、それは明日のあなたの姿かもしれませんので是非興味深く聞いてみてください。</p>
+
+<p>さて、そんなモダシンラジオですが、以下のRSSのリンクをiTunesにドラッグ＆ドロップしておくと毎回自動で更新されるのでよろしければ購読よろしくお願いします。</p>
+
+<p>http://www.aivy.co.jp/BLOG_TEST/nagasawa/ms-radio.xml</p>
+
+<p>あと、iTunes Storeにも登録しているのでそこから購読することも可能です。iTunes StoreのURLはこの記事の最後の方で紹介しますね。</p>
+
+<p>今すぐ聞く、という方は以下のFlashプレイヤーかaudioタグによるプレイヤ−、またはリンクからファイルをダウンロードして聞いてみてください。Androidを使っててGoogleポッドキャストアプリを使っている人は<a href="https://www.google.com/podcasts?feed=aHR0cDovL3d3dy5haXZ5LmNvLmpwL0JMT0dfVEVTVC9uYWdhc2F3YS9tcy1yYWRpby54bWw%3D">ここをクリック</a>するとアプリで聴けます。</p>
+
+<p><span class="mt-enclosure mt-enclosure-mp3"><div class="mp3"><div class="mp3_player"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="250" height="50" id="mp3player" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190303.mp3" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190303.mp3" quality="high" bgcolor="#ffffff" width="250" height="50" name="mp3player" align="middle" allowScriptAcceMSSR_20190303.mp3ss="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div><br /><div class="audioTag"><audio src="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190303.mp3" preload="none" controls></div><br /><div class="mp3_link"><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190303.mp3" class="link_mp3" title="MSSR_20190303.mp3">MSSR_20190303.mp3</a></div></div><!-- [mp3:http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190303.mp3:MSSR_20190303.mp3] --></span></p>
+
+<p>過去のアーカイブはこちらです。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/podcast/">モダシンラジオカテゴリ</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/b/podcast/">95-234回目</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/podcasting/index.html">94回目までの過去アーカイブはこちら</a></p>
+
+<p>iTunes storeにも当番組を登録してあるのでアカウントを持っている人はそちらでレビューを書いていただけるととても嬉しいです。</p>
+
+<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=266089504">iTunes StoreのModern Syntax Radio Showのページ</a></p>
+
+<p>ではまた来週！<br />
+</p>]]></description>
+<link>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/03/1-masakiishitani-modern-syntax-radio-show-591-msrs.html</link>
+<guid>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/03/1-masakiishitani-modern-syntax-radio-show-591-msrs.html</guid>
+<category>Podcast</category>
+<pubDate>Sun, 03 Mar 2019 19:56:45 +0900</pubDate>
+<enclosure url="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190303.mp3" length="17110233" type="audio/mpeg"/>
+
+</item>
+
+<item>
+<title>【後編】2019年1月-3月のドラマについて @yumikingdiary と語るModern Syntax Radio Show 590回目 #MSRS</title>
+<description><![CDATA[<p>前編はこちらです。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/02/20191-3-yumikingdiary-modern-syntax-radio-show-589-msrs.html">【前編】2019年1月-3月のドラマについて @yumikingdiary と語るModern Syntax Radio Show 589回目 #MSRS</a></p>
+
+<p>ということで、三ヶ月に一度お届けしている2019年1月-3月期のドラマについて<a href="https://twitter.com/yumikingdiary">@yumikingdiary</a>と語る回の後半は木曜日から日曜日のドラマについて語っています。今回はなぜか長く、41分ものとなっております。</p>
+
+<p>さて、そんなモダシンラジオですが、以下のRSSのリンクをiTunesにドラッグ＆ドロップしておくと毎回自動で更新されるのでよろしければ購読よろしくお願いします。</p>
+
+<p>http://www.aivy.co.jp/BLOG_TEST/nagasawa/ms-radio.xml</p>
+
+<p>あと、iTunes Storeにも登録しているのでそこから購読することも可能です。iTunes StoreのURLはこの記事の最後の方で紹介しますね。</p>
+
+<p>今すぐ聞く、という方は以下のFlashプレイヤーかaudioタグによるプレイヤ−、またはリンクからファイルをダウンロードして聞いてみてください。Androidを使っててGoogleポッドキャストアプリを使っている人は<a href="https://www.google.com/podcasts?feed=aHR0cDovL3d3dy5haXZ5LmNvLmpwL0JMT0dfVEVTVC9uYWdhc2F3YS9tcy1yYWRpby54bWw%3D">ここをクリック</a>するとアプリで聴けます。</p>
+
+<p><span class="mt-enclosure mt-enclosure-mp3"><div class="mp3"><div class="mp3_player"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="250" height="50" id="mp3player" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211-1.mp3" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211-1.mp3" quality="high" bgcolor="#ffffff" width="250" height="50" name="mp3player" align="middle" allowScriptAcceMSSR_20190211-1.mp3ss="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div><br /><div class="audioTag"><audio src="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211-1.mp3" preload="none" controls></div><br /><div class="mp3_link"><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211-1.mp3" class="link_mp3" title="MSSR_20190211-1.mp3">MSSR_20190211-1.mp3</a></div></div><!-- [mp3:http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211-1.mp3:MSSR_20190211-1.mp3] --></span></p>
+
+<p>過去のアーカイブはこちらです。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/podcast/">モダシンラジオカテゴリ</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/b/podcast/">95-234回目</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/podcasting/index.html">94回目までの過去アーカイブはこちら</a></p>
+
+<p>iTunes storeにも当番組を登録してあるのでアカウントを持っている人はそちらでレビューを書いていただけるととても嬉しいです。</p>
+
+<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=266089504">iTunes StoreのModern Syntax Radio Showのページ</a></p>
+
+<p>ということで連休中に3本も公開してしまったのでモダシンラジオはしばらくお休みです。</p>
+
+<p>ではまた3月ぐらいに！</p>]]></description>
+<link>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/02/20191-3-yumikingdiary-modern-syntax-radio-show-590-msrs.html</link>
+<guid>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/02/20191-3-yumikingdiary-modern-syntax-radio-show-590-msrs.html</guid>
+<category>Podcast</category>
+<pubDate>Mon, 11 Feb 2019 21:44:51 +0900</pubDate>
+<enclosure url="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211-1.mp3" length="30432971" type="audio/mpeg"/>
+
+</item>
+
+<item>
+<title>【前編】2019年1月-3月のドラマについて @yumikingdiary と語るModern Syntax Radio Show 589回目 #MSRS</title>
+<description><![CDATA[<p>今回のモダシンラジオは恒例となっている三ヶ月に一度お届けしている2019年1月-3月期のドラマについて<a href="https://twitter.com/yumikingdiary">@yumikingdiary</a>と語る回です。</p>
+
+<p>今回も月曜日〜水曜日の前編と木曜日〜日曜日の後半って感じで2回の分けてお届けします。で、これは前編です。前半は19分40秒ものとなっております。</p>
+
+<p>あ、今ね、まさに「トレース〜科捜研の男〜」を見ながらこの記事かいているんですよ。「トレース〜科捜研の男〜」についてももちろんしゃべってますよ！どんなふうに評価しているのかなあ。楽しみだなあ。</p>
+
+<p>さて、そんなモダシンラジオですが、以下のRSSのリンクをiTunesにドラッグ＆ドロップしておくと毎回自動で更新されるのでよろしければ購読よろしくお願いします。</p>
+
+<p>http://www.aivy.co.jp/BLOG_TEST/nagasawa/ms-radio.xml</p>
+
+<p>あと、iTunes Storeにも登録しているのでそこから購読することも可能です。iTunes StoreのURLはこの記事の最後の方で紹介しますね。</p>
+
+<p>今すぐ聞く、という方は以下のFlashプレイヤーかaudioタグによるプレイヤ−、またはリンクからファイルをダウンロードして聞いてみてください。Androidを使っててGoogleポッドキャストアプリを使っている人は<a href="https://www.google.com/podcasts?feed=aHR0cDovL3d3dy5haXZ5LmNvLmpwL0JMT0dfVEVTVC9uYWdhc2F3YS9tcy1yYWRpby54bWw%3D">ここをクリック</a>するとアプリで聴けます。</p>
+
+<p><span class="mt-enclosure mt-enclosure-mp3"><div class="mp3"><div class="mp3_player"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="250" height="50" id="mp3player" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211.mp3" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211.mp3" quality="high" bgcolor="#ffffff" width="250" height="50" name="mp3player" align="middle" allowScriptAcceMSSR_20190211.mp3ss="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div><br /><div class="audioTag"><audio src="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211.mp3" preload="none" controls></div><br /><div class="mp3_link"><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211.mp3" class="link_mp3" title="MSSR_20190211.mp3">MSSR_20190211.mp3</a></div></div><!-- [mp3:http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211.mp3:MSSR_20190211.mp3] --></span></p>
+
+<p>過去のアーカイブはこちらです。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/podcast/">モダシンラジオカテゴリ</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/b/podcast/">95-234回目</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/podcasting/index.html">94回目までの過去アーカイブはこちら</a></p>
+
+<p>iTunes storeにも当番組を登録してあるのでアカウントを持っている人はそちらでレビューを書いていただけるととても嬉しいです。</p>
+
+<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=266089504">iTunes StoreのModern Syntax Radio Showのページ</a></p>
+
+<p>ではこのあとすぐ後編を公開します。</p>
+
+<p>【追記】後編公開しました。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/02/20191-3-yumikingdiary-modern-syntax-radio-show-590-msrs.html">【後編】2019年1月-3月のドラマについて @yumikingdiary と語るModern Syntax Radio Show 590回目 #MSRS</a></p>]]></description>
+<link>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/02/20191-3-yumikingdiary-modern-syntax-radio-show-589-msrs.html</link>
+<guid>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/02/20191-3-yumikingdiary-modern-syntax-radio-show-589-msrs.html</guid>
+<category>Podcast</category>
+<pubDate>Mon, 11 Feb 2019 21:26:41 +0900</pubDate>
+<enclosure url="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190211.mp3" length="15465825" type="audio/mpeg"/>
+
+</item>
+
+<item>
+<title>第11回「月刊小山( @koyhoge )のこの映画を観た」のModern Syntax Radio Show 588回目 #MSRS</title>
+<description><![CDATA[<p>いつもは月曜日がお休みの連休の日曜日はモダシンラジオはお休みなんですが、さすがにこれだけははやいうちに公開しておかないとまずいよね、ってことで今日と明日で映画とドラマのレビューの回を公開します。</p>
+
+<p>ということで、今日はいつものように<a href="https://twitter.com/koyhoge">@koyhoge</a>さんこと小山さんと一緒に映画のお話をお届けします。今回は23分ものとなっております。</p>
+
+<p>で、今回取り上げている映画はこんなところです。</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/cVGyQmF3PLI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="https://ashitasekaiga.jp">あした世界が終わるとしても</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/K4W6kbVTyEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://wwws.warnerbros.co.jp/creed/index.html">クリード 炎の宿敵</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/LKZ2Ejkh7AI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="https://gaga.ne.jp/maryshelley/">メアリーの総て</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/W75tPAotJFk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="https://www.disney.co.jp/movie/mr-glass.html">ミスター・ガラス</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/vTLrAJmq-5A" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="https://www.fami-geki.com/kinkyu/themovie/">緊急検証！THE MOVIE ネッシーvsノストラダムスvsユリ・ゲラー</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/H3SLFQvgfGY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://wwws.warnerbros.co.jp/shinitai12/">十二人の死にたい子どもたち</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/3F7acULfiD4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://shinjuku.musashino-k.jp/movies/8263/">西遊記 女人国の戦い</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/-ecADLw8YBI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://ten-tsuma.jp">天才作家の妻 40年目</a></p>
+
+<p>さて、そんなモダシンラジオですが、以下のRSSのリンクをiTunesにドラッグ＆ドロップしておくと毎回自動で更新されるのでよろしければ購読よろしくお願いします。</p>
+
+<p>http://www.aivy.co.jp/BLOG_TEST/nagasawa/ms-radio.xml</p>
+
+<p>あと、iTunes Storeにも登録しているのでそこから購読することも可能です。iTunes StoreのURLはこの記事の最後の方で紹介しますね。</p>
+
+<p>今すぐ聞く、という方は以下のFlashプレイヤーかaudioタグによるプレイヤ−、またはリンクからファイルをダウンロードして聞いてみてください。Androidを使っててGoogleポッドキャストアプリを使っている人は<a href="https://www.google.com/podcasts?feed=aHR0cDovL3d3dy5haXZ5LmNvLmpwL0JMT0dfVEVTVC9uYWdhc2F3YS9tcy1yYWRpby54bWw%3D">ここをクリック</a>するとアプリで聴けます。</p>
+
+<p><span class="mt-enclosure mt-enclosure-mp3"><div class="mp3"><div class="mp3_player"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="250" height="50" id="mp3player" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190210.mp3" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190210.mp3" quality="high" bgcolor="#ffffff" width="250" height="50" name="mp3player" align="middle" allowScriptAcceMSSR_20190210.mp3ss="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div><br /><div class="audioTag"><audio src="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190210.mp3" preload="none" controls></div><br /><div class="mp3_link"><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190210.mp3" class="link_mp3" title="MSSR_20190210.mp3">MSSR_20190210.mp3</a></div></div><!-- [mp3:http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190210.mp3:MSSR_20190210.mp3] --></span></p>
+
+<p>過去のアーカイブはこちらです。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/podcast/">モダシンラジオカテゴリ</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/b/podcast/">95-234回目</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/podcasting/index.html">94回目までの過去アーカイブはこちら</a></p>
+
+<p>iTunes storeにも当番組を登録してあるのでアカウントを持っている人はそちらでレビューを書いていただけるととても嬉しいです。</p>
+
+<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=266089504">iTunes StoreのModern Syntax Radio Showのページ</a></p>
+
+<p>ではまた明日。明日は今期のドラマについて語る回です。<br />
+</p>]]></description>
+<link>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/02/11-koyhoge-modern-syntax-radio-show-588-msrs.html</link>
+<guid>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/02/11-koyhoge-modern-syntax-radio-show-588-msrs.html</guid>
+<category>Podcast</category>
+<pubDate>Sun, 10 Feb 2019 18:54:26 +0900</pubDate>
+<enclosure url="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190210.mp3" length="17919657" type="audio/mpeg"/>
+
+</item>
+
+<item>
+<title>最近のお仕事についてなど @knnkanda に色々聞いてみたModern Syntax Radio Show 587回目 #MSRS</title>
+<description><![CDATA[<p>今回のモダシンラジオはKNN神田さんこと神田敏晶さんをゲストに迎え最近のお仕事などについていろいろ聞いてきました。</p>
+
+<p>が、とにかく周りがうるさくてどうしようもない感じです。なのでこういうガヤガヤした感じが嫌いな人はパスしてください。まあ、神田さんのお話は面白いので慣れればその面白さの方が勝って周りのノイズは気にならなくなってしまうのですが。</p>
+
+<p>で、今回の録音は12月の頭ぐらいに行われているんで多少時間が経ってしまったため現在の状況とちょっと合わない部分もあるんですが、とりあえず番組中で現在作成中といっていた電卓アプリはすでに完成してリリースされているようなので興味ある人はダウンロードして使ってみてください。</p>
+
+<p><a href="https://itunes.apple.com/app/id1443248865">億兆電卓</a>（app store）</p>
+
+<p>この電卓に関する記事はこちらをご参考ください。</p>
+
+<p><a href="https://news.yahoo.co.jp/byline/kandatoshiaki/20190107-00110269/">『 #億兆電卓』を作ってみた! ZOZO1億円お年玉、初マグロの競りから国家予算まで計算力で読み解く</a></p>
+
+<p>さて、そんなモダシンラジオですが、以下のRSSのリンクをiTunesにドラッグ＆ドロップしておくと毎回自動で更新されるのでよろしければ購読よろしくお願いします。</p>
+
+<p>http://www.aivy.co.jp/BLOG_TEST/nagasawa/ms-radio.xml</p>
+
+<p>あと、iTunes Storeにも登録しているのでそこから購読することも可能です。iTunes StoreのURLはこの記事の最後の方で紹介しますね。</p>
+
+<p>今すぐ聞く、という方は以下のFlashプレイヤーかaudioタグによるプレイヤ−、またはリンクからファイルをダウンロードして聞いてみてください。Androidを使っててGoogleポッドキャストアプリを使っている人は<a href="https://www.google.com/podcasts?feed=aHR0cDovL3d3dy5haXZ5LmNvLmpwL0JMT0dfVEVTVC9uYWdhc2F3YS9tcy1yYWRpby54bWw%3D">ここをクリック</a>するとアプリで聴けます。</p>
+
+<p><span class="mt-enclosure mt-enclosure-mp3"><div class="mp3"><div class="mp3_player"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="250" height="50" id="mp3player" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190203.mp3" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190203.mp3" quality="high" bgcolor="#ffffff" width="250" height="50" name="mp3player" align="middle" allowScriptAcceMSSR_20190203.mp3ss="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div><br /><div class="audioTag"><audio src="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190203.mp3" preload="none" controls></div><br /><div class="mp3_link"><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190203.mp3" class="link_mp3" title="MSSR_20190203.mp3">MSSR_20190203.mp3</a></div></div><!-- [mp3:http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190203.mp3:MSSR_20190203.mp3] --></span></p>
+
+<p>過去のアーカイブはこちらです。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/podcast/">モダシンラジオカテゴリ</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/b/podcast/">95-234回目</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/podcasting/index.html">94回目までの過去アーカイブはこちら</a></p>
+
+<p>iTunes storeにも当番組を登録してあるのでアカウントを持っている人はそちらでレビューを書いていただけるととても嬉しいです。</p>
+
+<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=266089504">iTunes StoreのModern Syntax Radio Showのページ</a></p>
+
+<p>ではまた来週！</p>
+
+<p><br />
+</p>]]></description>
+<link>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/02/-knnkanda-modern-syntax-radio-show-587-msrs.html</link>
+<guid>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/02/-knnkanda-modern-syntax-radio-show-587-msrs.html</guid>
+<category>Podcast</category>
+<pubDate>Sun, 03 Feb 2019 18:01:54 +0900</pubDate>
+<enclosure url="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190203.mp3" length="15093153" type="audio/mpeg"/>
+
+</item>
+
+<item>
+<title>英国から帰国した @ooba に色々聞いてみたModern Syntax Radio Show 586回目 #MSRS</title>
+<description><![CDATA[<p>今回のモダシンラジオは1年10ヶ月のロンドン赴任から最近帰国した友達の大場君（<a href="https://twitter.com/ooba">@ooba</a>）をゲストに迎え、ロンドン生活のあれこれを聞いてみました。個人的に聞くのを楽しみにしておりましたので録音できて嬉しいです。</p>
+
+<p>今回は20分ものとなっております。</p>
+
+<p>さて、そんなモダシンラジオですが、以下のRSSのリンクをiTunesにドラッグ＆ドロップしておくと毎回自動で更新されるのでよろしければ購読よろしくお願いします。</p>
+
+<p>http://www.aivy.co.jp/BLOG_TEST/nagasawa/ms-radio.xml</p>
+
+<p>あと、iTunes Storeにも登録しているのでそこから購読することも可能です。iTunes StoreのURLはこの記事の最後の方で紹介しますね。</p>
+
+<p>今すぐ聞く、という方は以下のFlashプレイヤーかaudioタグによるプレイヤ−、またはリンクからファイルをダウンロードして聞いてみてください。Androidを使っててGoogleポッドキャストアプリを使っている人は<a href="https://www.google.com/podcasts?feed=aHR0cDovL3d3dy5haXZ5LmNvLmpwL0JMT0dfVEVTVC9uYWdhc2F3YS9tcy1yYWRpby54bWw%3D">ここをクリック</a>するとアプリで聴けます。</p>
+
+<p><span class="mt-enclosure mt-enclosure-mp3"><div class="mp3"><div class="mp3_player"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="250" height="50" id="mp3player" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190127.mp3" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190127.mp3" quality="high" bgcolor="#ffffff" width="250" height="50" name="mp3player" align="middle" allowScriptAcceMSSR_20190127.mp3ss="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div><br /><div class="audioTag"><audio src="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190127.mp3" preload="none" controls></div><br /><div class="mp3_link"><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190127.mp3" class="link_mp3" title="MSSR_20190127.mp3">MSSR_20190127.mp3</a></div></div><!-- [mp3:http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190127.mp3:MSSR_20190127.mp3] --></span></p>
+
+<p>過去のアーカイブはこちらです。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/podcast/">モダシンラジオカテゴリ</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/b/podcast/">95-234回目</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/podcasting/index.html">94回目までの過去アーカイブはこちら</a></p>
+
+<p>iTunes storeにも当番組を登録してあるのでアカウントを持っている人はそちらでレビューを書いていただけるととても嬉しいです。</p>
+
+<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=266089504">iTunes StoreのModern Syntax Radio Showのページ</a></p>
+
+<p>ではまた来週！</p>]]></description>
+<link>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/01/-ooba-modern-syntax-radio-show-586-msrs.html</link>
+<guid>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/01/-ooba-modern-syntax-radio-show-586-msrs.html</guid>
+<category>Podcast</category>
+<pubDate>Sun, 27 Jan 2019 18:27:24 +0900</pubDate>
+<enclosure url="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190127.mp3" length="15599817" type="audio/mpeg"/>
+
+</item>
+
+<item>
+<title>2019年1月-3月のアニメについて語るModern Syntax Radio Show 585回目 #MSRS</title>
+<description><![CDATA[<p>今回のモダシンラジオは3ヶ月に1度お送りしている今期のアニメ番組について語る回です。今回は26分ぐらいとなっております。だいたい30分を目指して喋ったので狙い通りって感じです。</p>
+
+<p>今回紹介している（観ている）アニメはこんな感じです。おすすめには★をつけてみました。</p>
+
+<p><a href="http://wz-anime.net">W'z《ウィズ》</a><br />
+★<a href="http://egaonodaika.com">エガオノダイカ</a><br />
+<a href="http://endro.jp">えんどろ～！</a><br />
+★<a href="https://kaguya.love">かぐや様は告らせたい〜天才たちの恋愛頭脳戦〜</a><br />
+★<a href="https://kakegurui-anime.com">賭ケグルイ××</a><br />
+<a href="http://gaf-anime.jp">ガーリー・エアフォース</a><br />
+<a href="http://www.tbs.co.jp/anime/grimmsnotes/">グリムノーツ The Animation</a><br />
+<a href="http://kemurikusa.com">ケムリクサ</a><br />
+<a href="https://kemono-friends.jp">けものフレンズ2</a><br />
+★<a href="https://kotobuki-anime.com">荒野のコトブキ飛行隊</a><br />
+<a href="http://www.tbs.co.jp/anime/5hanayome/">五等分の花嫁</a><br />
+<a href="https://cirpri-anime.jp">サークレット・プリンセス</a><br />
+<a href="http://www.3dkanojo-anime.com">3D彼女 リアルガール(第2シーズン)</a><br />
+★<a href="http://shieldhero-anime.jp">盾の勇者の成り上がり</a><br />
+<a href="https://hizaue.com">同居人はひざ、時々、頭のうえ。</a><br />
+<a href="http://domekano-anime.com">ドメスティックな彼女</a><br />
+<a href="https://dororo-anime.com">どろろ</a><br />
+<a href="https://pasumemotv.com">ぱすてるメモリーズ</a><br />
+<a href="http://piano-anime.jp">ピアノの森(第2シリーズ)</a><br />
+<a href="http://mononokean.tv">不機嫌なモノノケ庵 續</a><br />
+★<a href="http://boogiepop-anime.com">ブギーポップは笑わない</a><br />
+<a href="http://magical-five.jp">魔法少女特殊戦あすか</a><br />
+★<a href="http://mobpsycho100.com">モブサイコ100 II（第2期）</a><br />
+★<a href="https://neverland-anime.com">約束のネバーランド</a><br />
+<a href="http://revisions.jp">revisions リヴィジョンズ</a><br />
+<a href="http://ekodachan.com">臨死!! 江古田ちゃん</a><br />
+<a href="http://watatentv.com">私に天使が舞い降りた！</a></p>
+
+<p>さて、そんなモダシンラジオですが、以下のRSSのリンクをiTunesにドラッグ＆ドロップしておくと毎回自動で更新されるのでよろしければ購読よろしくお願いします。</p>
+
+<p>http://www.aivy.co.jp/BLOG_TEST/nagasawa/ms-radio.xml</p>
+
+<p>あと、iTunes Storeにも登録しているのでそこから購読することも可能です。iTunes StoreのURLはこの記事の最後の方で紹介しますね。</p>
+
+<p>今すぐ聞く、という方は以下のFlashプレイヤーかaudioタグによるプレイヤ−、またはリンクからファイルをダウンロードして聞いてみてください。Androidを使っててGoogleポッドキャストアプリを使っている人は<a href="https://www.google.com/podcasts?feed=aHR0cDovL3d3dy5haXZ5LmNvLmpwL0JMT0dfVEVTVC9uYWdhc2F3YS9tcy1yYWRpby54bWw%3D">ここをクリック</a>するとアプリで聴けます。</p>
+
+<p><span class="mt-enclosure mt-enclosure-mp3"><div class="mp3"><div class="mp3_player"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="250" height="50" id="mp3player" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190120.mp3" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190120.mp3" quality="high" bgcolor="#ffffff" width="250" height="50" name="mp3player" align="middle" allowScriptAcceMSSR_20190120.mp3ss="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div><br /><div class="audioTag"><audio src="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190120.mp3" preload="none" controls></div><br /><div class="mp3_link"><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190120.mp3" class="link_mp3" title="MSSR_20190120.mp3">MSSR_20190120.mp3</a></div></div><!-- [mp3:http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190120.mp3:MSSR_20190120.mp3] --></span></p>
+
+<p>過去のアーカイブはこちらです。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/podcast/">モダシンラジオカテゴリ</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/b/podcast/">95-234回目</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/podcasting/index.html">94回目までの過去アーカイブはこちら</a></p>
+
+<p>iTunes storeにも当番組を登録してあるのでアカウントを持っている人はそちらでレビューを書いていただけるととても嬉しいです。</p>
+
+<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=266089504">iTunes StoreのModern Syntax Radio Showのページ</a></p>
+
+<p>ではまた来週！</p>]]></description>
+<link>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/01/20191-3modern-syntax-radio-show-585-msrs.html</link>
+<guid>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/01/20191-3modern-syntax-radio-show-585-msrs.html</guid>
+<category>Podcast</category>
+<pubDate>Sun, 20 Jan 2019 19:21:54 +0900</pubDate>
+<enclosure url="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190120.mp3" length="22237641" type="audio/mpeg"/>
+
+</item>
+
+<item>
+<title>第10回「月刊小山( @koyhoge )のこの映画を観た」のModern Syntax Radio Show 584回目 #MSRS</title>
+<description><![CDATA[<p>いつもは月曜日がお休みの連休の日曜日はモダシンラジオはお休みなんですが、さすがにこれだけははやいうちに公開しておかないとまずいよね、ってことでお届けするのが最近は毎月やっている「月刊小山( @koyhoge )のこの映画を観た」です。もう10回目ですよ。ってことはもうすぐ1年かあ。早いなあ。</p>
+
+<p>ということで、いつものように<a href="https://twitter.com/koyhoge">@koyhoge</a>さんこと小山さんと一緒にお届けしております。小山さんに「私は今月5本映画見ましたよ」と言った時に4本までは思い出せたのですが残りの1本が思い出せなかったのですが、ようやく思い出しました。残りの1本はこれでした。非常によかったですよ！特に「プラスチックラブ」の山下達郎は圧巻でした。</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/Rg2Co-cfZVU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+souvenir the movie 〜MARIYA TAKEUCHI Theater Live〜</p>
+
+<p>それはさておき、今回番組中に登場した映画はこんな感じです。今回は「アリー　スター誕生」について結構喋ったので38分30秒ものとなっております。長くてすみません。</p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/tjRhdOcz9f0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="https://www.disney.co.jp/movie/kurumiwari.html">くるみ割り人形と秘密の王国</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/UJGlPXEw3j8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://www.transformer.co.jp/m/APBD/">暁に祈れ</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/sK0mP7n4518" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://www.padman.jp/site/">パッドマン 5億人の女性を救った男</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/yI_muheBCDc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="https://www.disney.co.jp/movie/sugarrush-ol.html">シュガー・ラッシュ：オンライン</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/0I6z8Hn9zPg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://whitneymovie.jp">ホイットニー ～オールウェイズ・ラヴ・ユー～</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/6HZ27Hohtdk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://wwws.warnerbros.co.jp/starisborn/">アリー/ スター誕生</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/LKZ2Ejkh7AI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="https://gaga.ne.jp/maryshelley/">メアリーの総て</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/K4W6kbVTyEU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="http://wwws.warnerbros.co.jp/creed/index.html">クリード　炎の宿敵</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/Joe-ZM4elF8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="https://www.fami-geki.com/kinkyu/themovie/">緊急検証！THE MOVIE　ネッシーvsノストラダムスvsユリ・ゲラー</a></p>
+
+<p><iframe width="640" height="360" src="https://www.youtube.com/embed/UaFobIQpw0c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br />
+<a href="https://www.rebelintherye-movie.com">ライ麦畑の反逆児 ひとりぼっちのサリンジャー</a></p>
+
+<p>さて、こんなモダシンラジオですが、以下のRSSのリンクをiTunesにドラッグ＆ドロップしておくと毎回自動で更新されるのでよろしければ購読よろしくお願いします。</p>
+
+<p>http://www.aivy.co.jp/BLOG_TEST/nagasawa/ms-radio.xml</p>
+
+<p>あと、iTunes Storeにも登録しているのでそこから購読することも可能です。iTunes StoreのURLはこの記事の最後の方で紹介しますね。</p>
+
+<p>今すぐ聞く、という方は以下のFlashプレイヤーかaudioタグによるプレイヤ−、またはリンクからファイルをダウンロードして聞いてみてください。Androidを使っててGoogleポッドキャストアプリを使っている人は<a href="https://www.google.com/podcasts?feed=aHR0cDovL3d3dy5haXZ5LmNvLmpwL0JMT0dfVEVTVC9uYWdhc2F3YS9tcy1yYWRpby54bWw%3D">ここをクリック</a>するとアプリで聴けます。</p>
+
+<p><span class="mt-enclosure mt-enclosure-mp3"><div class="mp3"><div class="mp3_player"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="250" height="50" id="mp3player" align="middle"><param name="allowScriptAccess" value="sameDomain" /><param name="movie" value="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190113.mp3" /><param name="quality" value="high" /><param name="bgcolor" value="#ffffff" /><embed src="/BLOG_TEST/mt4-static/plugins/EasyPodcasting/mp3player.swf?mp3url=http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190113.mp3" quality="high" bgcolor="#ffffff" width="250" height="50" name="mp3player" align="middle" allowScriptAcceMSSR_20190113.mp3ss="sameDomain" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" /></object></div><br /><div class="audioTag"><audio src="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190113.mp3" preload="none" controls></div><br /><div class="mp3_link"><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190113.mp3" class="link_mp3" title="MSSR_20190113.mp3">MSSR_20190113.mp3</a></div></div><!-- [mp3:http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190113.mp3:MSSR_20190113.mp3] --></span></p>
+
+<p>過去のアーカイブはこちらです。</p>
+
+<p><a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/podcast/">モダシンラジオカテゴリ</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/b/podcast/">95-234回目</a><br /><br />
+<a href="http://www.aivy.co.jp/BLOG_TEST/nagasawa/a/archives/podcasting/index.html">94回目までの過去アーカイブはこちら</a></p>
+
+<p>iTunes storeにも当番組を登録してあるのでアカウントを持っている人はそちらでレビューを書いていただけるととても嬉しいです。</p>
+
+<p><a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=266089504">iTunes StoreのModern Syntax Radio Showのページ</a></p>
+
+<p>お休みの日に公開したのでほんとは来週は休みたいのですが、今期のアニメについてしゃべる回をやらなきゃいけないので、来週もよろしくお願いします。アニメについて語る予定です。</p>
+
+<p>ではでは！</p>]]></description>
+<link>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/01/10-koyhoge-modern-syntax-radio-show-584-msrs.html</link>
+<guid>http://www.aivy.co.jp/BLOG_TEST/nagasawa/c/2019/01/10-koyhoge-modern-syntax-radio-show-584-msrs.html</guid>
+<category>Podcast</category>
+<pubDate>Sun, 13 Jan 2019 17:40:32 +0900</pubDate>
+<enclosure url="http://www.aivy.co.jp/BLOG_TEST/nagasawa/podcast/MSSR_20190113.mp3" length="29011113" type="audio/mpeg"/>
+
+</item>
+
+
+</channel>
+</rss>

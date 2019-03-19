@@ -1,0 +1,445 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:anchor="https://anchor.fm/xmlns">
+	<channel>
+		<title><![CDATA[プログラム雑談]]></title>
+		<description><![CDATA[プログラム雑談はkarino2が、主にプログラムに関わる事について、雑談するpodcastです。たまにプログラムと関係ない近況とかも話します。]]></description>
+		<link>https://anchor.fm/karino2</link>
+		<image>
+			<url>https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg</url>
+			<title>プログラム雑談</title>
+			<link>https://anchor.fm/karino2</link>
+		</image>
+		<generator>Anchor Podcasts</generator>
+		<lastBuildDate>Tue, 19 Mar 2019 15:58:26 GMT</lastBuildDate>
+		<atom:link href="https://anchor.fm/68ce140/podcast/rss" rel="self" type="application/rss+xml"/>
+		<copyright><![CDATA[Kazuma Arino]]></copyright>
+		<language><![CDATA[en-us]]></language>
+		<itunes:author>Kazuma Arino</itunes:author>
+		<itunes:summary>プログラム雑談はkarino2が、主にプログラムに関わる事について、雑談するpodcastです。たまにプログラムと関係ない近況とかも話します。</itunes:summary>
+		<itunes:type>episodic</itunes:type>
+		<itunes:owner>
+			<itunes:name>Kazuma Arino</itunes:name>
+			<itunes:email>podcasts7+68ce140@anchor.fm</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>No</itunes:explicit>
+		<itunes:category text="Technology"/>
+		<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		<item>
+			<title><![CDATA[第39回 酷いAPIの文句は、自分のアウトプットを晒してからやるべき、という雑談]]></title>
+			<description><![CDATA[物を作る時には失敗や不完全さはつきものだよなぁ、という雑談です。]]></description>
+			<link>https://anchor.fm/karino2/episodes/39-API-e3eguv</link>
+			<guid isPermaLink="false">13324c04-47c3-e80c-4cf7-113f23b2d9be</guid>
+			<pubDate>Wed, 13 Mar 2019 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/2621855/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-13%2F-39----API---------------------c8733112da153.m4a" length="25802055" type="audio/x-m4a"/>
+			<itunes:summary>物を作る時には失敗や不完全さはつきものだよなぁ、という雑談です。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1562</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[第38回 あとこれだけ試して終わりにしよう、が続くという雑談]]></title>
+			<description><![CDATA[<p>「あとこれだけ試して終わりにしよう」と思いつつ続いてしまうというのがあるよなぁ、という雑談です。</p>]]></description>
+			<link>https://anchor.fm/karino2/episodes/38-e3b657</link>
+			<guid isPermaLink="false">344c361e-bb32-bded-b05b-7e4ac012d195</guid>
+			<pubDate>Wed, 06 Mar 2019 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/2512487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-2-6%2F-38----------------------------127d494c0f263.m4a" length="19930992" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;「あとこれだけ試して終わりにしよう」と思いつつ続いてしまうというのがあるよなぁ、という雑談です。&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1207</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[第37回 最近読んでる情報理論の本の話]]></title>
+			<description><![CDATA[<p>最近読んでる情報理論の教科書についての雑談です。</p>
+<p>具体的には以下のブログにノートを書いているCover and Thomasの教科書です。</p>
+<p>https://karino2.github.io/2019/02/10/143600.html</p>]]></description>
+			<link>https://anchor.fm/karino2/episodes/37-e3ai4a</link>
+			<guid isPermaLink="false">98148afd-3e3d-fa86-3381-f32666373fbe</guid>
+			<pubDate>Wed, 27 Feb 2019 11:03:47 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/2491978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-1-27%2F-37-----------------aa1155ac0310c.m4a" length="30417657" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;最近読んでる情報理論の教科書についての雑談です。&lt;/p&gt;
+&lt;p&gt;具体的には以下のブログにノートを書いているCover and Thomasの教科書です。&lt;/p&gt;
+&lt;p&gt;https://karino2.github.io/2019/02/10/143600.html&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1846</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第36回 機械学習屋としての自分の話]]></title>
+			<description><![CDATA[<p>今回は機械学習屋としての自分とか思ってる事についての雑感をいろいろ語る回です。</p>]]></description>
+			<link>https://anchor.fm/karino2/episodes/36-e384je</link>
+			<guid isPermaLink="false">e31064a5-096f-2cc0-aa24-8e170e12f5d7</guid>
+			<pubDate>Wed, 20 Feb 2019 12:21:12 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/2412590/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-1-20%2F-36----------------a3bf6180f0c89.m4a" length="15114056" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;今回は機械学習屋としての自分とか思ってる事についての雑感をいろいろ語る回です。&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>915</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[第35回 kotlinのinlineが良いという話]]></title>
+			<description><![CDATA[<p>kotlinの良い所を語っていこう、と思って選んだのがinlineの話。もうちょっとみんなどこがいいのか語ろうぜ、という気持ちで作ってみました。</p>]]></description>
+			<link>https://anchor.fm/karino2/episodes/35-kotlininline-e36om7</link>
+			<guid isPermaLink="false">8b9a02cb-73c8-6d86-0c71-04a9c255c816</guid>
+			<pubDate>Wed, 13 Feb 2019 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/2367623/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-1-13%2F-35--kotlin-inline--------ca32d8cf6e3f3.m4a" length="17986916" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;kotlinの良い所を語っていこう、と思って選んだのがinlineの話。もうちょっとみんなどこがいいのか語ろうぜ、という気持ちで作ってみました。&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1110</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[第34回 S.R.K.氏と対談 何故私の技術同人誌は全然売れないのか？]]></title>
+			<description><![CDATA[<p>私は年末に技術同人誌を書いたのですが、全然売れませんでした。</p>
+<p>そこで今回はその同人誌の委託先でもあり、売れっ子同人作家のS.R.K.先生をゲストに、なんで自分の同人誌が売れなかったのか？という対談をしました。</p>
+<p>なお、その同人誌を少し手直ししたKindle版はこちら。</p>
+<p>https://www.amazon.co.jp/dp/B07MDXF3YZ</p>]]></description>
+			<link>https://anchor.fm/karino2/episodes/34-S-R-K-e34fmq</link>
+			<guid isPermaLink="false">7f1377b3-a110-9fff-29de-502bc36c36cf</guid>
+			<pubDate>Wed, 06 Feb 2019 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/2292890/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-1-6%2F-34--S-R-K---------------------b385780e670d5.m4a" length="31385774" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;私は年末に技術同人誌を書いたのですが、全然売れませんでした。&lt;/p&gt;
+&lt;p&gt;そこで今回はその同人誌の委託先でもあり、売れっ子同人作家のS.R.K.先生をゲストに、なんで自分の同人誌が売れなかったのか？という対談をしました。&lt;/p&gt;
+&lt;p&gt;なお、その同人誌を少し手直ししたKindle版はこちら。&lt;/p&gt;
+&lt;p&gt;https://www.amazon.co.jp/dp/B07MDXF3YZ&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1938</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[第33回 戦場の設定の雑談と近況の話]]></title>
+			<description><![CDATA[<p>今回は、自分が「戦場の設定」と呼んでいる概念についての雑談と、それが今年何やるか決まらないでいる、という話とどう関係あるのか、という話です。</p>
+<p>ついでに近況の話もします（思ったよりも長くなってしまった…）</p>]]></description>
+			<link>https://anchor.fm/karino2/episodes/33-e32k02</link>
+			<guid isPermaLink="false">550faa40-b772-1add-1806-26e13c800779</guid>
+			<pubDate>Wed, 30 Jan 2019 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/2231746/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-0-30%2F-33----------------6f80a46152d19.m4a" length="20876489" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;今回は、自分が「戦場の設定」と呼んでいる概念についての雑談と、それが今年何やるか決まらないでいる、という話とどう関係あるのか、という話です。&lt;/p&gt;
+&lt;p&gt;ついでに近況の話もします（思ったよりも長くなってしまった…）&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1289</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第32回 いろんな人に話を聞いている]]></title>
+			<description><![CDATA[今年何やるかが決まらなくていろんな人に話を聞いている、という雑談です。]]></description>
+			<link>https://anchor.fm/karino2/episodes/32-e30so1</link>
+			<guid isPermaLink="false">84fb9982-6ab6-9841-444a-23e0581fc4e2</guid>
+			<pubDate>Wed, 23 Jan 2019 11:11:19 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/2175169/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-0-23%2F-32----------------46dc007a7f547.m4a" length="16176535" type="audio/x-m4a"/>
+			<itunes:summary>今年何やるかが決まらなくていろんな人に話を聞いている、という雑談です。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>999</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第31回 移植についての雑談]]></title>
+			<description><![CDATA[<p>今回は移植についてです。移植って結構ノウハウあってやる機会も多いけれど、あまり語られてないよなぁ、と思い話してみました。</p>]]></description>
+			<link>https://anchor.fm/karino2/episodes/31-e2v41u</link>
+			<guid isPermaLink="false">5c80ca45-a2f5-479b-5853-f2fd7426b0b9</guid>
+			<pubDate>Wed, 16 Jan 2019 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/2117118/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-0-16%2F-31------------3c6b6ac45c229.m4a" length="28566151" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;今回は移植についてです。移植って結構ノウハウあってやる機会も多いけれど、あまり語られてないよなぁ、と思い話してみました。&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1764</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[第30回 技術書を書く事についての雑談]]></title>
+			<description><![CDATA[<p>技術書を書く事についての雑談です。</p>]]></description>
+			<link>https://anchor.fm/karino2/episodes/30-e2tbu0</link>
+			<guid isPermaLink="false">6bc00bed-59ea-6216-9ce9-e21565eeab50</guid>
+			<pubDate>Wed, 09 Jan 2019 11:05:43 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/2059648/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-0-9%2F-30-----------------e03b719ae1fba.m4a" length="21284778" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;技術書を書く事についての雑談です。&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1314</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第29回 2018年を振り返って]]></title>
+			<description><![CDATA[<p>自分のプログラム関連の事について振り返ってみる雑談です。</p>]]></description>
+			<link>https://anchor.fm/karino2/episodes/29-2018-e2s72c</link>
+			<guid isPermaLink="false">32efbe01-c9ea-cfc1-ef67-174c1d8d776e</guid>
+			<pubDate>Wed, 02 Jan 2019 11:32:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/2021900/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2019-0-2%2F-29--2018--------d084196794d54.m4a" length="17427176" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;自分のプログラム関連の事について振り返ってみる雑談です。&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1076</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[第28回 小さく始める難しさ]]></title>
+			<description><![CDATA[<p>何か新しい物を作る時には、小さく始めるのが良いのだけど、これがなかなか難しい、という話と、最近は時間をたくさん掛けるのがいいんじゃないかと思ってるという話です。</p>]]></description>
+			<link>https://anchor.fm/karino2/episodes/28-e2r0e3</link>
+			<guid isPermaLink="false">6ba5f3c1-9e4f-be5f-3aed-297a1a387849</guid>
+			<pubDate>Wed, 26 Dec 2018 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1982339/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-25%2F-28------------1b2569f04a139.m4a" length="21235660" type="audio/x-m4a"/>
+			<itunes:summary>&lt;p&gt;何か新しい物を作る時には、小さく始めるのが良いのだけど、これがなかなか難しい、という話と、最近は時間をたくさん掛けるのがいいんじゃないかと思ってるという話です。&lt;/p&gt;</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1286</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第27回 近況とsuspending function]]></title>
+			<description><![CDATA[最近書いてるコードの話とsuspending functionについての話です。]]></description>
+			<link>https://anchor.fm/karino2/episodes/27-suspending-function-e2pg6q</link>
+			<guid isPermaLink="false">d92facfb-ae58-8a29-4eb8-cd76cf17d1d0</guid>
+			<pubDate>Wed, 19 Dec 2018 11:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1932954/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-17%2F-27-----suspending-function-bbd905b5fe62e.m4a" length="22408843" type="audio/x-m4a"/>
+			<itunes:summary>最近書いてるコードの話とsuspending functionについての話です。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1357</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第26回 プログラマ的な自由な時間の作り方]]></title>
+			<description><![CDATA[プログラマが出来る自由な時間の作り方についての雑談です。]]></description>
+			<link>https://anchor.fm/karino2/episodes/26-e2ognk</link>
+			<guid isPermaLink="false">6ac34fb1-a965-6722-7b27-fe044c38a618</guid>
+			<pubDate>Wed, 12 Dec 2018 13:53:20 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1900724/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-12%2F-26-------------------ef36843488102.m4a" length="17876029" type="audio/x-m4a"/>
+			<itunes:summary>プログラマが出来る自由な時間の作り方についての雑談です。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1082</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第25回 新しい技術とキャッチアップ]]></title>
+			<description><![CDATA[新しい技術は油断してるとやってきて、意外とみんなキャッチアッブはしないもんだ、みたいな話をしました。]]></description>
+			<link>https://anchor.fm/karino2/episodes/25-e2mjt6</link>
+			<guid isPermaLink="false">aa5b3084-7165-2c58-37af-c930029085cc</guid>
+			<pubDate>Wed, 05 Dec 2018 19:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1838438/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-11-4%2F-25----------------8980c4a3aec15.m4a" length="14109493" type="audio/x-m4a"/>
+			<itunes:summary>新しい技術は油断してるとやってきて、意外とみんなキャッチアッブはしないもんだ、みたいな話をしました。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>871</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[第24回 低レベルプログラミングの雑談]]></title>
+			<description><![CDATA[低レベルプログラミングの特殊さとか難しさとかについての雑談です。
+アプリのエラーとかで録り直しが続いてやさぐれつつ録りました。]]></description>
+			<link>https://anchor.fm/karino2/episodes/24-e2le2v</link>
+			<guid isPermaLink="false">51554d64-8699-2938-c311-36400c4db7fb</guid>
+			<pubDate>Wed, 28 Nov 2018 19:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1799711/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-10-28%2F-24-----------------c13913bd8a3ce.m4a" length="21092995" type="audio/x-m4a"/>
+			<itunes:summary>低レベルプログラミングの特殊さとか難しさとかについての雑談です。
+アプリのエラーとかで録り直しが続いてやさぐれつつ録りました。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1302</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+			<itunes:season>1</itunes:season>
+			<itunes:episodeType>full</itunes:episodeType>
+		</item>
+		<item>
+			<title><![CDATA[第23回 発明の必要な設計についての雑談]]></title>
+			<description><![CDATA[今回は設計の中でも、発明の必要がある時がたまにある。
+でもその場合に頑張って発明するのは難しい（が頑張ろう）という雑談です。]]></description>
+			<link>https://anchor.fm/karino2/episodes/23-e2kd99</link>
+			<guid isPermaLink="false">9186ea95-5f0b-49b9-74dc-7964d2301acb</guid>
+			<pubDate>Wed, 21 Nov 2018 19:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1766121/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-10-21%2F-23------------------110b33b0b032b.m4a" length="19706373" type="audio/x-m4a"/>
+			<itunes:summary>今回は設計の中でも、発明の必要がある時がたまにある。
+でもその場合に頑張って発明するのは難しい（が頑張ろう）という雑談です。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1217</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第22回 デバッガを使おう]]></title>
+			<description><![CDATA[デバッガについての雑談です。
+だいたい使った方がいいけどなんか使わない言語もあること、なんにせよ最初は使ってみよう、みたいな事を話しました。]]></description>
+			<link>https://anchor.fm/karino2/episodes/22-e2j7ch</link>
+			<guid isPermaLink="false">11d9ea81-99c9-6224-9973-b32323a5f742</guid>
+			<pubDate>Wed, 14 Nov 2018 19:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1727313/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-10-14%2F-22-----------898199663b0a1.m4a" length="19628464" type="audio/x-m4a"/>
+			<itunes:summary>デバッガについての雑談です。
+だいたい使った方がいいけどなんか使わない言語もあること、なんにせよ最初は使ってみよう、みたいな事を話しました。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1212</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第21回 作るものが無い！についての雑談]]></title>
+			<description><![CDATA[作るものが無いって事あるよな〜というのと、その原因みたいな話をしました。
+時代のせい、働きすぎ、働かなすぎなど。
+
+なお、椅子は直りました。]]></description>
+			<link>https://anchor.fm/karino2/episodes/21-e2hlot</link>
+			<guid isPermaLink="false">eeae37ba-c385-61ae-d484-fbb2396c623f</guid>
+			<pubDate>Wed, 07 Nov 2018 19:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1676509/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-10-7%2F-21------------------79222483b5772.m4a" length="17442013" type="audio/x-m4a"/>
+			<itunes:summary>作るものが無いって事あるよな〜というのと、その原因みたいな話をしました。
+時代のせい、働きすぎ、働かなすぎなど。
+
+なお、椅子は直りました。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1077</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第20回 webの忘却と語り継ぐ事]]></title>
+			<description><![CDATA[webから最近、blogが盛んだった頃やその前の議論が失われている事、それに対してもう一度語り直すのを繰り返す事で対抗していくのがwebっぽい草の根感があっていいんじゃないか、みたいな話をしました。]]></description>
+			<link>https://anchor.fm/karino2/episodes/20-web-e2giln</link>
+			<guid isPermaLink="false">7ed46767-2b36-ec63-001d-76ef0abbb6dc</guid>
+			<pubDate>Wed, 31 Oct 2018 19:00:00 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1640567/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-9-30%2F-20--web----------a3222372d5032.m4a" length="15222292" type="audio/x-m4a"/>
+			<itunes:summary>webから最近、blogが盛んだった頃やその前の議論が失われている事、それに対してもう一度語り直すのを繰り返す事で対抗していくのがwebっぽい草の根感があっていいんじゃないか、みたいな話をしました。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>940</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第19回 一人分働けるプログラマのその後]]></title>
+			<description><![CDATA[一人分働けるようになった後、プログラマは伸び悩みがちと思うけど、ただプログラマ続けるだけが意外と良いという話をしました。]]></description>
+			<link>https://anchor.fm/karino2/episodes/19-e2fiu5</link>
+			<guid isPermaLink="false">fad3f552-fa95-7f3a-c7d4-8e55d6daff8e</guid>
+			<pubDate>Wed, 24 Oct 2018 19:37:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1608069/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-9-24%2F-19------------------6312d1ca685e.m4a" length="18499456" type="audio/x-m4a"/>
+			<itunes:summary>一人分働けるようになった後、プログラマは伸び悩みがちと思うけど、ただプログラマ続けるだけが意外と良いという話をしました。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1142</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第18回 web上のプログラマの存在とアウトプット]]></title>
+			<description><![CDATA[web上の存在は文章とか絵とか動画とかとにかくアウトプットで生まれる物で、プログラマはプログラムについてweb上で語らないと存在出来ない、という話をしました。]]></description>
+			<link>https://anchor.fm/karino2/episodes/18-web-e2do34</link>
+			<guid isPermaLink="false">9b67001c-426b-1e05-0a9d-0296f52884d1</guid>
+			<pubDate>Wed, 17 Oct 2018 19:03:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1547812/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-9-17%2F-18--web------------------4b70675542af1.m4a" length="23988840" type="audio/x-m4a"/>
+			<itunes:summary>web上の存在は文章とか絵とか動画とかとにかくアウトプットで生まれる物で、プログラマはプログラムについてweb上で語らないと存在出来ない、という話をしました。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1481</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第17回 一つの言語に入れ込む事についての雑談]]></title>
+			<description><![CDATA[一つの言語に入れ込むという事について、自分は良くないと思ってるがそう簡単なものでも無いよな、みたいな雑談です。]]></description>
+			<link>https://anchor.fm/karino2/episodes/17-e2c50e</link>
+			<guid isPermaLink="false">48d77e09-749d-36d6-662f-15ebf2aec11d</guid>
+			<pubDate>Wed, 10 Oct 2018 18:03:29 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1495502/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-9-10%2F-17---------------------98815efaa5da3.m4a" length="12546424" type="audio/x-m4a"/>
+			<itunes:summary>一つの言語に入れ込むという事について、自分は良くないと思ってるがそう簡単なものでも無いよな、みたいな雑談です。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>760</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第16回 Androidアプリのビルドを通し続ける作業についての雑談]]></title>
+			<description><![CDATA[11月1日までにtarget SDKを26に上げる作業をしてて大変なので、こうしてAndroidStudio上げてビルド通し続けるの結構たいへんだよね、という話をしました。]]></description>
+			<link>https://anchor.fm/karino2/episodes/16-Android-e2ath6</link>
+			<guid isPermaLink="false">d0e9e2b4-9efa-85ba-2416-c42399145121</guid>
+			<pubDate>Wed, 03 Oct 2018 11:13:55 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1455078/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-9-3%2F-16--Android-------------------bdc792f9e7fd5.m4a" length="18716363" type="audio/x-m4a"/>
+			<itunes:summary>11月1日までにtarget SDKを26に上げる作業をしてて大変なので、こうしてAndroidStudio上げてビルド通し続けるの結構たいへんだよね、という話をしました。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1134</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第15回 習作言語処理系にはPostScriptだ！という雑談]]></title>
+			<description><![CDATA[C言語で簡単な言語の処理系を作るのは勉強になるし、何より楽しい。その時オススメなのはPostScriptのサブセットだ！という話です。]]></description>
+			<link>https://anchor.fm/karino2/episodes/15-PostScript-e29aup</link>
+			<guid isPermaLink="false">eb86462d-af93-ee0a-a047-d7131dacf391</guid>
+			<pubDate>Wed, 26 Sep 2018 11:41:54 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1403289/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-8-26%2F-15-----------PostScript-------a6f149a832ab.m4a" length="25671627" type="audio/x-m4a"/>
+			<itunes:summary>C言語で簡単な言語の処理系を作るのは勉強になるし、何より楽しい。その時オススメなのはPostScriptのサブセットだ！という話です。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1554</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第14回 プログラムと肩こり]]></title>
+			<description><![CDATA[プログラムしてると肩こるよね、という話です。]]></description>
+			<link>https://anchor.fm/karino2/episodes/14-e27skq</link>
+			<guid isPermaLink="false">295f45ba-a299-e2fd-651f-fb08622635f5</guid>
+			<pubDate>Wed, 19 Sep 2018 11:25:15 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1355866/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-8-19%2F-14------------d86db9aa0a39e.m4a" length="20922557" type="audio/x-m4a"/>
+			<itunes:summary>プログラムしてると肩こるよね、という話です。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1267</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第13回 自分で作ろう！]]></title>
+			<description><![CDATA[Latest episode of プログラム雑談
+
+関連リンク: 作ったインデクサ https://karino2.github.io/2018/09/10/160110.html]]></description>
+			<link>https://anchor.fm/karino2/episodes/13-e2604d</link>
+			<guid isPermaLink="false">ed976eee-7710-4d20-bb2c-38d26989850c</guid>
+			<pubDate>Wed, 12 Sep 2018 14:34:36 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1293901/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-8-12%2F-14----------c5196e9a10e5b.m4a" length="25243653" type="audio/x-m4a"/>
+			<itunes:summary>Latest episode of プログラム雑談
+
+関連リンク: 作ったインデクサ https://karino2.github.io/2018/09/10/160110.html</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1529</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第12回 でかいテキストデータの処理についての雑談]]></title>
+			<description><![CDATA[第12回ではでかいテキストデータを自然言語処理で扱う時、みんなどうしてるの？という雑談です。]]></description>
+			<link>https://anchor.fm/karino2/episodes/12-e24te2</link>
+			<guid isPermaLink="false">a7e39030-4eee-2e79-4a60-bba5c4145267</guid>
+			<pubDate>Wed, 05 Sep 2018 13:05:10 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1258370/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-8-5%2F-12-----------------------984e10d6b98d6.m4a" length="32296352" type="audio/x-m4a"/>
+			<itunes:summary>第12回ではでかいテキストデータを自然言語処理で扱う時、みんなどうしてるの？という雑談です。</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1955</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第11回 次なにやろっかな？的雑談]]></title>
+			<description><![CDATA[自分が最近プログラマとして次なんの分野やろうかなぁ、と思ってる事についての雑談です。
+第9回の最近の分野雑感、と関連の深い話題です。
+
+https://youtu.be/senixNpNjEI
+https://youtu.be/oTPFpecO5nk]]></description>
+			<link>https://anchor.fm/karino2/episodes/11-e23h02</link>
+			<guid isPermaLink="false">f7d6bc64-b04a-9c0a-b1a1-498c2496c29b</guid>
+			<pubDate>Wed, 29 Aug 2018 13:36:17 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1212866/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-7-29%2F-11---------------fb7ee40d99e03.m4a" length="21860000" type="audio/x-m4a"/>
+			<itunes:summary>自分が最近プログラマとして次なんの分野やろうかなぁ、と思ってる事についての雑談です。
+第9回の最近の分野雑感、と関連の深い話題です。
+
+https://youtu.be/senixNpNjEI
+https://youtu.be/oTPFpecO5nk</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>1324</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+		<item>
+			<title><![CDATA[第10.5回 youtuberからpodcasterへ]]></title>
+			<description><![CDATA[youtubeでやってたプログラム雑談をpodcastに引っ越ししよう！という回です。
+anchorというpodcastサービスの評価も兼ねて、youtubeとpodcastについて5分くらい語ってみました。
+
+プログラム雑談 https://www.youtube.com/channel/UC_yAglH9EDaGvJ5NPByI6oQ]]></description>
+			<link>https://anchor.fm/karino2/episodes/10-5-youtuberpodcaster-e23fnd</link>
+			<guid isPermaLink="false">4b17a813-589e-3652-d49a-cfcf999f5827</guid>
+			<pubDate>Sat, 25 Aug 2018 15:49:38 GMT</pubDate>
+			<enclosure url="https://anchor.fm/s/68ce140/podcast/play/1211565/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2018-7-25%2F-10-5--youtuber--podcaster--7ad84aa9b3993.m4a" length="4647080" type="audio/x-m4a"/>
+			<itunes:summary>youtubeでやってたプログラム雑談をpodcastに引っ越ししよう！という回です。
+anchorというpodcastサービスの評価も兼ねて、youtubeとpodcastについて5分くらい語ってみました。
+
+プログラム雑談 https://www.youtube.com/channel/UC_yAglH9EDaGvJ5NPByI6oQ</itunes:summary>
+			<itunes:explicit>No</itunes:explicit>
+			<itunes:duration>281</itunes:duration>
+			<itunes:image href="https://s3-us-west-2.amazonaws.com/anchor-generated-image-bank/production/podcast_uploaded/998960/998960-1535212397504-93ed2911e3e38.jpg"/>
+		</item>
+	</channel>
+</rss>

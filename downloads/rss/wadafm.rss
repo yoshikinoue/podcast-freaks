@@ -1,0 +1,751 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:134132881/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:134132881/sounds.rss?before=187062326" rel="next" type="application/rss+xml"/>
+        <title>wada.fm</title>
+        <link>http://wada.fm/</link>
+        <pubDate>Sat, 21 May 2016 03:02:43 +0000</pubDate>
+        <lastBuildDate>Sat, 21 May 2016 03:02:43 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>ゆーすけべーの独り語りPodcast Webエンジニアがサクッと聴ける短いエピソードを配信 http://wada.fm/ #wadafm</description>
+        <itunes:subtitle>ゆーすけべーの独り語りPodcast Webエンジニアがサクッと聴ける短いエピソードを配信 htt…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>wada.fm</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>ゆーすけべー</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png</url>
+          <title>wada.fm</title>
+          <link>http://wada.fm/</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/265160147</guid>
+      <title>54. 言い訳</title>
+      <pubDate>Sat, 21 May 2016 03:02:43 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep054</link>
+      <itunes:duration>00:38:50</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>プライベートの事情で、忙しくて、色んなプログラミング言語を触って混乱していて、LINE Botをつくっていて、iMacをクリーンインストールしてて、髪の毛を切りに行っていて... 2ヶ月間番組を更新出来なかった言い訳をひたすらしました。</itunes:summary>
+      <itunes:subtitle>プライベートの事情で、忙しくて、色んなプログラミング言語を触って混乱していて、LINE Botをつ…</itunes:subtitle>
+      <description>プライベートの事情で、忙しくて、色んなプログラミング言語を触って混乱していて、LINE Botをつくっていて、iMacをクリーンインストールしてて、髪の毛を切りに行っていて... 2ヶ月間番組を更新出来なかった言い訳をひたすらしました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/265160147-wadafm-ep054.mp3" length="20907991"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/253390061</guid>
+      <title>53. ラーメンSNS「Mentomo」開発開始</title>
+      <pubDate>Sun, 20 Mar 2016 04:59:52 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep053</link>
+      <itunes:duration>00:30:54</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Podcastやる人にとって寒さと花粉症が辛い件、Slideckをつくった話、新感覚ラーメンSNS「Mentomo」企画などについて話しました。ShowNotesはこちら http://www.wada.fm/entry/ep053</itunes:summary>
+      <itunes:subtitle>Podcastやる人にとって寒さと花粉症が辛い件、Slideckをつくった話、新感覚ラーメンSNS…</itunes:subtitle>
+      <description>Podcastやる人にとって寒さと花粉症が辛い件、Slideckをつくった話、新感覚ラーメンSNS「Mentomo」企画などについて話しました。ShowNotesはこちら http://www.wada.fm/entry/ep053</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/253390061-wadafm-ep053.mp3" length="17105736"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/250421632</guid>
+      <title>52. Chef Presentation Officer</title>
+      <pubDate>Sun, 06 Mar 2016 02:18:25 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep052</link>
+      <itunes:duration>00:36:07</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>JSONを手で書くのは辛い件、プレゼンで心がけてること、Chiefと書こうと思ったらChefだったこと、僕だけがいない街のアニメの良さなどについて話しました。Show Notes はこちら http://wada.fm/entry/ep052</itunes:summary>
+      <itunes:subtitle>JSONを手で書くのは辛い件、プレゼンで心がけてること、Chiefと書こうと思ったらChefだった…</itunes:subtitle>
+      <description>JSONを手で書くのは辛い件、プレゼンで心がけてること、Chiefと書こうと思ったらChefだったこと、僕だけがいない街のアニメの良さなどについて話しました。Show Notes はこちら http://wada.fm/entry/ep052</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/250421632-wadafm-ep052.mp3" length="19607093"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/245825586</guid>
+      <title>51. Golangの人？</title>
+      <pubDate>Sun, 07 Feb 2016 03:20:13 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep051</link>
+      <itunes:duration>00:26:50</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Golangのイベントでいきなり2連チャン発表してくる件、revealgoなどについて話しました。今回はPeriscopeを使って収録の様子をライブ中継しました。Show Notesはこちら http://wada.fm/entry/ep051</itunes:summary>
+      <itunes:subtitle>Golangのイベントでいきなり2連チャン発表してくる件、revealgoなどについて話しました。…</itunes:subtitle>
+      <description>Golangのイベントでいきなり2連チャン発表してくる件、revealgoなどについて話しました。今回はPeriscopeを使って収録の様子をライブ中継しました。Show Notesはこちら http://wada.fm/entry/ep051</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/245825586-wadafm-ep051.mp3" length="15150604"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/244509659</guid>
+      <title>50. 初ライブ配信実験</title>
+      <pubDate>Sat, 30 Jan 2016 03:20:41 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep050</link>
+      <itunes:duration>00:28:21</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Facebookの「ライブ動画」機能を使って「初めて」収録と同時にライブ配信をする実験をしました。主にこの新機能について語っています。Show Notesは http://wada.fm/ で見れます。</itunes:summary>
+      <itunes:subtitle>Facebookの「ライブ動画」機能を使って「初めて」収録と同時にライブ配信をする実験をしました。…</itunes:subtitle>
+      <description>Facebookの「ライブ動画」機能を使って「初めて」収録と同時にライブ配信をする実験をしました。主にこの新機能について語っています。Show Notesは http://wada.fm/ で見れます。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/244509659-wadafm-ep050.mp3" length="15876599"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/243496098</guid>
+      <title>49. 新春合宿ウィーク</title>
+      <pubDate>Sun, 24 Jan 2016 06:02:56 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep049</link>
+      <itunes:duration>00:36:05</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>2連チャンで合宿へ行った件などを話しました。今回は、初めて「スポンサー」が付きました。スタートアップウィークエンド東京さん、ありがとうございました。また、凪＆恵本将裕のスープは「カツオ」と言ってますが「煮干しが強い」と表現するのが正しいです。Show Notesはこちら http://wada.fm/entry/ep049</itunes:summary>
+      <itunes:subtitle>2連チャンで合宿へ行った件などを話しました。今回は、初めて「スポンサー」が付きました。スタートアッ…</itunes:subtitle>
+      <description>2連チャンで合宿へ行った件などを話しました。今回は、初めて「スポンサー」が付きました。スタートアップウィークエンド東京さん、ありがとうございました。また、凪＆恵本将裕のスープは「カツオ」と言ってますが「煮干しが強い」と表現するのが正しいです。Show Notesはこちら http://wada.fm/entry/ep049</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/243496098-wadafm-ep049.mp3" length="19593928"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/240168427</guid>
+      <title>48. ロンドンからあけおめ</title>
+      <pubDate>Sun, 03 Jan 2016 05:23:02 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep048</link>
+      <itunes:duration>00:34:38</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>あけましておめでとうございます。昨年大晦日から旅行で来ているロンドンからの収録です。現地の模様を伝えます。Show Notes: http://www.wada.fm/entry/ep048
+</itunes:summary>
+      <itunes:subtitle>あけましておめでとうございます。昨年大晦日から旅行で来ているロンドンからの収録です。現地の模様を伝…</itunes:subtitle>
+      <description>あけましておめでとうございます。昨年大晦日から旅行で来ているロンドンからの収録です。現地の模様を伝えます。Show Notes: http://www.wada.fm/entry/ep048
+</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/240168427-wadafm-ep048.mp3" length="18892801"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/239523667</guid>
+      <title>47. 2015年を振り返る</title>
+      <pubDate>Tue, 29 Dec 2015 08:14:15 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep047</link>
+      <itunes:duration>00:17:50</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>テイクスリーに深い意味はございません。今年最後の収録ということでベタに2015年を振り返ってみました。ShowNotesは http://wada.fm/ にて。
+</itunes:summary>
+      <itunes:subtitle>テイクスリーに深い意味はございません。今年最後の収録ということでベタに2015年を振り返ってみまし…</itunes:subtitle>
+      <description>テイクスリーに深い意味はございません。今年最後の収録ということでベタに2015年を振り返ってみました。ShowNotesは http://wada.fm/ にて。
+</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/239523667-wadafm-ep047.mp3" length="10832249"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/236781239</guid>
+      <title>46. IVS #CTOnight へ行ってきた「2」</title>
+      <pubDate>Wed, 09 Dec 2015 13:55:19 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep046</link>
+      <itunes:duration>00:28:07</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>先ほどまで行われていた「IVS CTO Night &amp; Day 2015 Winter powered by AWS」の話をしました。京都からの収録＆配信です。
+
+http://www.wada.fm/entry/ep046
+</itunes:summary>
+      <itunes:subtitle>先ほどまで行われていた「IVS CTO Night &amp; Day 2015 Winter power…</itunes:subtitle>
+      <description>先ほどまで行われていた「IVS CTO Night &amp; Day 2015 Winter powered by AWS」の話をしました。京都からの収録＆配信です。
+
+http://www.wada.fm/entry/ep046
+</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/236781239-wadafm-ep046.mp3" length="15768266"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/236285789</guid>
+      <title>45. 第9回ハチイチ忘年会報告 #1981s</title>
+      <pubDate>Sun, 06 Dec 2015 04:39:34 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep045</link>
+      <itunes:duration>00:30:25</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>収録時の今朝までやっていた「ハチイチ忘年会#09」の話をしました。</itunes:summary>
+      <itunes:subtitle>収録時の今朝までやっていた「ハチイチ忘年会#09」の話をしました。</itunes:subtitle>
+      <description>収録時の今朝までやっていた「ハチイチ忘年会#09」の話をしました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/236285789-wadafm-ep045.mp3" length="16867968"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036831</guid>
+      <title>44. Podcastのつくり方 2015 Later</title>
+      <pubDate>Thu, 19 Nov 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep044</link>
+      <itunes:duration>00:27:38</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>久しぶりの収録は新機材で挑みました。それに関連して今回の「Podcastのつくり方」について話しています。
+
+Show Note: http://www.wada.fm/entry/ep044
+</itunes:summary>
+      <itunes:subtitle>久しぶりの収録は新機材で挑みました。それに関連して今回の「Podcastのつくり方」について話して…</itunes:subtitle>
+      <description>久しぶりの収録は新機材で挑みました。それに関連して今回の「Podcastのつくり方」について話しています。
+
+Show Note: http://www.wada.fm/entry/ep044
+</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036831-wadafm-ep044.mp3" length="15534418"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036815</guid>
+      <title>43. Go言語ファーストインプレッション</title>
+      <pubDate>Sun, 04 Oct 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep043</link>
+      <itunes:duration>00:26:36</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>最近書き始めたgolangの素朴さなどについて話しました。</itunes:summary>
+      <itunes:subtitle>最近書き始めたgolangの素朴さなどについて話しました。</itunes:subtitle>
+      <description>最近書き始めたgolangの素朴さなどについて話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036815-wadafm-ep043.mp3" length="15040896"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036791</guid>
+      <title>42. リモートワークの話</title>
+      <pubDate>Sun, 20 Sep 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep042</link>
+      <itunes:duration>00:33:14</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>久しぶり？の自宅での 落ち着いた収録。 YAPC行脚終了、リジェクトコンでの発表、リモートワークとアーキテクチャ、Googleに委ねるとひたすら便利な件などについて話しました。</itunes:summary>
+      <itunes:subtitle>久しぶり？の自宅での 落ち着いた収録。 YAPC行脚終了、リジェクトコンでの発表、リモートワークと…</itunes:subtitle>
+      <description>久しぶり？の自宅での 落ち着いた収録。 YAPC行脚終了、リジェクトコンでの発表、リモートワークとアーキテクチャ、Googleに委ねるとひたすら便利な件などについて話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036791-wadafm-ep042.mp3" length="18223552"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036761</guid>
+      <title>41. タパスの話</title>
+      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep041</link>
+      <itunes:duration>00:24:40</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>初の海外からの配信。スペインのバルセロナから、タパスが旨い件、YAPC::Asia Tokyo 2015での発表について、Android端末とSIMフリーなどについて話しました。</itunes:summary>
+      <itunes:subtitle>初の海外からの配信。スペインのバルセロナから、タパスが旨い件、YAPC::Asia Tokyo 2…</itunes:subtitle>
+      <description>初の海外からの配信。スペインのバルセロナから、タパスが旨い件、YAPC::Asia Tokyo 2015での発表について、Android端末とSIMフリーなどについて話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036761-wadafm-ep041.mp3" length="14114692"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036735</guid>
+      <title>40. YAPC::Asia直前号</title>
+      <pubDate>Sun, 16 Aug 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep040</link>
+      <itunes:duration>00:27:12</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>YAPC::Asia Tokyo 2015 がもうすぐで「Podcastを支える技術、エンジニアのためのWebメディア、そしてCPAN」というトークをする件。 新メディアを立ち上げたことなどを話しました。</itunes:summary>
+      <itunes:subtitle>YAPC::Asia Tokyo 2015 がもうすぐで「Podcastを支える技術、エンジニアの…</itunes:subtitle>
+      <description>YAPC::Asia Tokyo 2015 がもうすぐで「Podcastを支える技術、エンジニアのためのWebメディア、そしてCPAN」というトークをする件。 新メディアを立ち上げたことなどを話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036735-wadafm-ep040.mp3" length="15331584"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036561</guid>
+      <title>39. くるまの話</title>
+      <pubDate>Sun, 09 Aug 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep039</link>
+      <itunes:duration>00:30:53</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>SEO対策？というか、Google検索結果やFacebookやTwitterのシェアに有効なチューニング施策について。 今乗っているスイフトスポーツを中心に車の話をしました。</itunes:summary>
+      <itunes:subtitle>SEO対策？というか、Google検索結果やFacebookやTwitterのシェアに有効なチュー…</itunes:subtitle>
+      <description>SEO対策？というか、Google検索結果やFacebookやTwitterのシェアに有効なチューニング施策について。 今乗っているスイフトスポーツを中心に車の話をしました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036561-wadafm-ep039.mp3" length="17093056"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036523</guid>
+      <title>38. リアル店舗に手を出す</title>
+      <pubDate>Fri, 24 Jul 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep038</link>
+      <itunes:duration>00:25:05</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>夏風邪、ボケて台湾版、新型MacBookその後、などを話した後、リアルな店舗を手がけることになった件について話しました。</itunes:summary>
+      <itunes:subtitle>夏風邪、ボケて台湾版、新型MacBookその後、などを話した後、リアルな店舗を手がけることになった…</itunes:subtitle>
+      <description>夏風邪、ボケて台湾版、新型MacBookその後、などを話した後、リアルな店舗を手がけることになった件について話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036523-wadafm-ep038.mp3" length="14309824"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036498</guid>
+      <title>37. Apple Musicを試してみた！みたいな...</title>
+      <pubDate>Wed, 01 Jul 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep037</link>
+      <itunes:duration>00:23:02</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Amazon EC2「t2.large」インスタンスの活用、iOS8.4アップデート、新型MacBookが慣れない件、YAPC::Asiaのトークが採択されたことについて話しました。</itunes:summary>
+      <itunes:subtitle>Amazon EC2「t2.large」インスタンスの活用、iOS8.4アップデート、新型MacB…</itunes:subtitle>
+      <description>Amazon EC2「t2.large」インスタンスの活用、iOS8.4アップデート、新型MacBookが慣れない件、YAPC::Asiaのトークが採択されたことについて話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036498-wadafm-ep037.mp3" length="13331904"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036465</guid>
+      <title>36. IVS #CTOnight へ行ってきた</title>
+      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep036</link>
+      <itunes:duration>00:27:07</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>東京に帰ってきての収録です。先日宮崎で行われた「 IVS CTO Night &amp; Day 2015 Spring powered by AWS 」についての報告、感想などを話しました。</itunes:summary>
+      <itunes:subtitle>東京に帰ってきての収録です。先日宮崎で行われた「 IVS CTO Night &amp; Day 2015…</itunes:subtitle>
+      <description>東京に帰ってきての収録です。先日宮崎で行われた「 IVS CTO Night &amp; Day 2015 Spring powered by AWS 」についての報告、感想などを話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036465-wadafm-ep036.mp3" length="15290688"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036441</guid>
+      <title>35. Podcastフロム宮崎</title>
+      <pubDate>Thu, 11 Jun 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep035</link>
+      <itunes:duration>00:19:56</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>初めての出張先からの収録！南国「 宮崎 」から「 IVS CTO Night &amp; Day powered by AWS 2015 Spring 」の1日目に参加した感想や、マエノリして何をして何を食べたか？などを話しました。</itunes:summary>
+      <itunes:subtitle>初めての出張先からの収録！南国「 宮崎 」から「 IVS CTO Night &amp; Day powe…</itunes:subtitle>
+      <description>初めての出張先からの収録！南国「 宮崎 」から「 IVS CTO Night &amp; Day powered by AWS 2015 Spring 」の1日目に参加した感想や、マエノリして何をして何を食べたか？などを話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036441-wadafm-ep035.mp3" length="11840994"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036391</guid>
+      <title>34. 壊れたPebbleとAppleWatch</title>
+      <pubDate>Fri, 29 May 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep034</link>
+      <itunes:duration>00:29:37</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>SHIROBAKOみてねーのかよ！発言、Ctrl-mを知らなかった件、スマートウォッチなどについて話しました。 あ、宣伝忘れてたけど、YAPCにトーク応募しているので応援して下さいね！</itunes:summary>
+      <itunes:subtitle>SHIROBAKOみてねーのかよ！発言、Ctrl-mを知らなかった件、スマートウォッチなどについて…</itunes:subtitle>
+      <description>SHIROBAKOみてねーのかよ！発言、Ctrl-mを知らなかった件、スマートウォッチなどについて話しました。 あ、宣伝忘れてたけど、YAPCにトーク応募しているので応援して下さいね！</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036391-wadafm-ep034.mp3" length="16491456"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036365</guid>
+      <title>33. ランギロアバカンス</title>
+      <pubDate>Tue, 19 May 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep033</link>
+      <itunes:duration>00:25:09</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>タヒチランギロア島へバカンスへ行って、サメと一緒に泳いだ件などについて話しました。</itunes:summary>
+      <itunes:subtitle>タヒチランギロア島へバカンスへ行って、サメと一緒に泳いだ件などについて話しました。</itunes:subtitle>
+      <description>タヒチランギロア島へバカンスへ行って、サメと一緒に泳いだ件などについて話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036365-wadafm-ep033.mp3" length="14341504"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036274</guid>
+      <title>32. 私的記者会見</title>
+      <pubDate>Fri, 01 May 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep032</link>
+      <itunes:duration>00:15:09</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>扁桃腺腫れからの薬疹とやれている中、 めでたい話 をネット初公開しました。</itunes:summary>
+      <itunes:subtitle>扁桃腺腫れからの薬疹とやれている中、 めでたい話 をネット初公開しました。</itunes:subtitle>
+      <description>扁桃腺腫れからの薬疹とやれている中、 めでたい話 をネット初公開しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036274-wadafm-ep032.mp3" length="9544000"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036243</guid>
+      <title>31. 悪いのは自分</title>
+      <pubDate>Tue, 14 Apr 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep031</link>
+      <itunes:duration>00:19:53</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>JR秋葉原駅での支柱倒壊事故に触れつつ、障害やバグについての捉え方を話しました。</itunes:summary>
+      <itunes:subtitle>JR秋葉原駅での支柱倒壊事故に触れつつ、障害やバグについての捉え方を話しました。</itunes:subtitle>
+      <description>JR秋葉原駅での支柱倒壊事故に触れつつ、障害やバグについての捉え方を話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036243-wadafm-ep031.mp3" length="11813440"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036253</guid>
+      <title>30. iPhoneと焼肉</title>
+      <pubDate>Thu, 09 Apr 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/30-iphone</link>
+      <itunes:duration>00:24:07</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>iPhoneを譲ったら焼肉をおごってもらった1日について、それから派生した話をしました。ちなみにラーメンはお休みです。</itunes:summary>
+      <itunes:subtitle>iPhoneを譲ったら焼肉をおごってもらった1日について、それから派生した話をしました。ちなみにラ…</itunes:subtitle>
+      <description>iPhoneを譲ったら焼肉をおごってもらった1日について、それから派生した話をしました。ちなみにラーメンはお休みです。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036253-wadafm-30-iphone.mp3" length="25420672"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036114</guid>
+      <title>29. 9月にグラナダへ</title>
+      <pubDate>Fri, 03 Apr 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep029</link>
+      <itunes:duration>00:18:19</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>9月2日から4日に行われる「YAPC::Europe 2015」へ行く計画を立てている件などについての話題です。 ちなみに冒頭のOPでは「ワダエフエェ〜ム」ボタンを連打しています。バグではなく仕様です。</itunes:summary>
+      <itunes:subtitle>9月2日から4日に行われる「YAPC::Europe 2015」へ行く計画を立てている件などについ…</itunes:subtitle>
+      <description>9月2日から4日に行われる「YAPC::Europe 2015」へ行く計画を立てている件などについての話題です。 ちなみに冒頭のOPでは「ワダエフエェ〜ム」ボタンを連打しています。バグではなく仕様です。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036114-wadafm-ep029.mp3" length="19854592"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036093</guid>
+      <title>28. 歯医者の話</title>
+      <pubDate>Tue, 31 Mar 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep028</link>
+      <itunes:duration>00:17:56</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>最近 歯医者 が楽しい件について話しました。 途中「クリアクリーンを使っている」と言っていますが 正しくは「クリニカ」 です。 新スポットジングル収録。</itunes:summary>
+      <itunes:subtitle>最近 歯医者 が楽しい件について話しました。 途中「クリアクリーンを使っている」と言っていますが …</itunes:subtitle>
+      <description>最近 歯医者 が楽しい件について話しました。 途中「クリアクリーンを使っている」と言っていますが 正しくは「クリニカ」 です。 新スポットジングル収録。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036093-wadafm-ep028.mp3" length="19489792"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036075</guid>
+      <title>27. デザインは妥協だ</title>
+      <pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep027</link>
+      <itunes:duration>00:11:51</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>デザインは sign を外に出す行為、ビジュアルだけではない、妥協や折衷だ。ということについて語りました。</itunes:summary>
+      <itunes:subtitle>デザインは sign を外に出す行為、ビジュアルだけではない、妥協や折衷だ。ということについて語り…</itunes:subtitle>
+      <description>デザインは sign を外に出す行為、ビジュアルだけではない、妥協や折衷だ。ということについて語りました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036075-wadafm-ep027.mp3" length="13651840"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036035</guid>
+      <title>26. AWSの本当のこと</title>
+      <pubDate>Fri, 27 Mar 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep026</link>
+      <itunes:duration>00:19:24</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>冒頭で「25回」と言ってますが、正しくは「26回目」の配信です。 AWSはスケールアップが容易な件、至高の家系ラーメンはやはり！！について話しました。 そしてたぶん今回は音質がいいはずです。</itunes:summary>
+      <itunes:subtitle>冒頭で「25回」と言ってますが、正しくは「26回目」の配信です。 AWSはスケールアップが容易な件…</itunes:subtitle>
+      <description>冒頭で「25回」と言ってますが、正しくは「26回目」の配信です。 AWSはスケールアップが容易な件、至高の家系ラーメンはやはり！！について話しました。 そしてたぶん今回は音質がいいはずです。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036035-wadafm-ep026.mp3" length="20896768"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234036017</guid>
+      <title>25. 2歩下がって技術を見る</title>
+      <pubDate>Mon, 16 Mar 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep025</link>
+      <itunes:duration>00:16:48</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>真新しい技術ではなく少し枯れた技術を使う件、PodcastとShow Notesによるアフィリエイト、せたが屋 京急鶴見駅店閉店の悲しみなどについてガラガラ声で話しました。</itunes:summary>
+      <itunes:subtitle>真新しい技術ではなく少し枯れた技術を使う件、PodcastとShow Notesによるアフィリエイ…</itunes:subtitle>
+      <description>真新しい技術ではなく少し枯れた技術を使う件、PodcastとShow Notesによるアフィリエイト、せたが屋 京急鶴見駅店閉店の悲しみなどについてガラガラ声で話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234036017-wadafm-ep025.mp3" length="10336960"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234035972</guid>
+      <title>24. AngularJS の功罪</title>
+      <pubDate>Mon, 09 Mar 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep024</link>
+      <itunes:duration>00:16:22</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Webのフロントエンド周りについて、CSS FrameworkやAngularJSについて話しました。</itunes:summary>
+      <itunes:subtitle>Webのフロントエンド周りについて、CSS FrameworkやAngularJSについて話しまし…</itunes:subtitle>
+      <description>Webのフロントエンド周りについて、CSS FrameworkやAngularJSについて話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234035972-wadafm-ep024.mp3" length="10129920"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234035891</guid>
+      <title>23. バリュー出してる？</title>
+      <pubDate>Wed, 04 Mar 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep023</link>
+      <itunes:duration>00:15:48</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>今更「バリュー出してる？」って言葉など、について眠気を覚ますために話しました。</itunes:summary>
+      <itunes:subtitle>今更「バリュー出してる？」って言葉など、について眠気を覚ますために話しました。</itunes:subtitle>
+      <description>今更「バリュー出してる？」って言葉など、について眠気を覚ますために話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234035891-wadafm-ep023.mp3" length="9857920"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234035873</guid>
+      <title>22. その机は何？</title>
+      <pubDate>Sun, 01 Mar 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep022</link>
+      <itunes:duration>00:16:37</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>リスナーからのお便りの紹介と「机自身」と無印地獄について話しました。</itunes:summary>
+      <itunes:subtitle>リスナーからのお便りの紹介と「机自身」と無印地獄について話しました。</itunes:subtitle>
+      <description>リスナーからのお便りの紹介と「机自身」と無印地獄について話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234035873-wadafm-ep022.mp3" length="10244224"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234035837</guid>
+      <title>21. 創造のプロセスを語ってみる</title>
+      <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep021</link>
+      <itunes:duration>00:16:09</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>企画をつくる時に使っている「創造のプロセス」について語ってみました。</itunes:summary>
+      <itunes:subtitle>企画をつくる時に使っている「創造のプロセス」について語ってみました。</itunes:subtitle>
+      <description>企画をつくる時に使っている「創造のプロセス」について語ってみました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234035837-wadafm-ep021.mp3" length="10022592"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034944</guid>
+      <title>20. ワダエフェ〜ムボタン</title>
+      <pubDate>Wed, 25 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep020</link>
+      <itunes:duration>00:18:57</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Rebuild出演、ワダエフェ〜ムボタンなど適当に話しました。</itunes:summary>
+      <itunes:subtitle>Rebuild出演、ワダエフェ〜ムボタンなど適当に話しました。</itunes:subtitle>
+      <description>Rebuild出演、ワダエフェ〜ムボタンなど適当に話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034944-wadafm-ep020.mp3" length="11365312"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034919</guid>
+      <title>19. 机の上には何がある？</title>
+      <pubDate>Fri, 20 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep019</link>
+      <itunes:duration>00:16:16</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>タイトル通りデジタル関連グッズ以外で机の上には何があるか？を話しました。</itunes:summary>
+      <itunes:subtitle>タイトル通りデジタル関連グッズ以外で机の上には何があるか？を話しました。</itunes:subtitle>
+      <description>タイトル通りデジタル関連グッズ以外で机の上には何があるか？を話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034919-wadafm-ep019.mp3" length="10079488"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034892</guid>
+      <title>18. コードを見る、見られること</title>
+      <pubDate>Tue, 17 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep018</link>
+      <itunes:duration>00:23:57</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>お便りから。コードを見る/見られる行為について話しました。新コーナー開始。</itunes:summary>
+      <itunes:subtitle>お便りから。コードを見る/見られる行為について話しました。新コーナー開始。</itunes:subtitle>
+      <description>お便りから。コードを見る/見られる行為について話しました。新コーナー開始。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034892-wadafm-ep018.mp3" length="13767168"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034877</guid>
+      <title>17. Are these Microservices?</title>
+      <pubDate>Sat, 14 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep017</link>
+      <itunes:duration>00:14:48</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>WebのアーキテクチャからのMicroservicesについて言及しました。お便りからのピックアップです。</itunes:summary>
+      <itunes:subtitle>WebのアーキテクチャからのMicroservicesについて言及しました。お便りからのピックアッ…</itunes:subtitle>
+      <description>WebのアーキテクチャからのMicroservicesについて言及しました。お便りからのピックアップです。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034877-wadafm-ep017.mp3" length="9373504"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034843</guid>
+      <title>16. 怖いのは霊じゃない</title>
+      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep016</link>
+      <itunes:duration>00:15:30</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>心霊スポットにまつわる話をして「結論」を出しました。微グロ注意。</itunes:summary>
+      <itunes:subtitle>心霊スポットにまつわる話をして「結論」を出しました。微グロ注意。</itunes:subtitle>
+      <description>心霊スポットにまつわる話をして「結論」を出しました。微グロ注意。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034843-wadafm-ep016.mp3" length="9712768"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034811</guid>
+      <title>15. Podcast公開企画会議</title>
+      <pubDate>Fri, 13 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep015</link>
+      <itunes:duration>00:19:04</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>振り返りつつこれからwada.fmをどうしていこうか？を独りでだべりました。新OP収録。</itunes:summary>
+      <itunes:subtitle>振り返りつつこれからwada.fmをどうしていこうか？を独りでだべりました。新OP収録。</itunes:subtitle>
+      <description>振り返りつつこれからwada.fmをどうしていこうか？を独りでだべりました。新OP収録。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034811-wadafm-ep015.mp3" length="11424192"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034533</guid>
+      <title>14. 神様がくれたナタミ</title>
+      <pubDate>Thu, 05 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep014</link>
+      <itunes:duration>00:15:37</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>学部生時代の話が聴きたい、というリクエストにおこたえして「ナタミ」のお話をしました。</itunes:summary>
+      <itunes:subtitle>学部生時代の話が聴きたい、というリクエストにおこたえして「ナタミ」のお話をしました。</itunes:subtitle>
+      <description>学部生時代の話が聴きたい、というリクエストにおこたえして「ナタミ」のお話をしました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034533-wadafm-ep014.mp3" length="9767872"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034284</guid>
+      <title>13. 生存戦略</title>
+      <pubDate>Tue, 03 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep013</link>
+      <itunes:duration>00:26:03</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>起業したてで仕事が無い！って時からどうしたか？の話をしました。「バブの泡」というネタも収録。</itunes:summary>
+      <itunes:subtitle>起業したてで仕事が無い！って時からどうしたか？の話をしました。「バブの泡」というネタも収録。</itunes:subtitle>
+      <description>起業したてで仕事が無い！って時からどうしたか？の話をしました。「バブの泡」というネタも収録。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034284-wadafm-ep013.mp3" length="14774080"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034243</guid>
+      <title>12. 起業ばなし</title>
+      <pubDate>Sun, 01 Feb 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep012</link>
+      <itunes:duration>00:18:39</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>会社を起てる、そして「小さく継続可能に」していくことなどについて話しました。出落ちがあります。</itunes:summary>
+      <itunes:subtitle>会社を起てる、そして「小さく継続可能に」していくことなどについて話しました。出落ちがあります。</itunes:subtitle>
+      <description>会社を起てる、そして「小さく継続可能に」していくことなどについて話しました。出落ちがあります。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034243-wadafm-ep012.mp3" length="11224000"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034198</guid>
+      <title>11. 富豪的解決</title>
+      <pubDate>Fri, 30 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep011</link>
+      <itunes:duration>00:11:28</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Test::JSON::RPC::Autodocからの〜「富豪的解決」について話しました。</itunes:summary>
+      <itunes:subtitle>Test::JSON::RPC::Autodocからの〜「富豪的解決」について話しました。</itunes:subtitle>
+      <description>Test::JSON::RPC::Autodocからの〜「富豪的解決」について話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034198-wadafm-ep011.mp3" length="7772608"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034161</guid>
+      <title>10. 英語で座禅</title>
+      <pubDate>Tue, 27 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/10a</link>
+      <itunes:duration>00:17:45</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>京都にある「妙心寺 春光院」で行った座禅体験、そして、副住職がすごい件について話しました。</itunes:summary>
+      <itunes:subtitle>京都にある「妙心寺 春光院」で行った座禅体験、そして、副住職がすごい件について話しました。</itunes:subtitle>
+      <description>京都にある「妙心寺 春光院」で行った座禅体験、そして、副住職がすごい件について話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034161-wadafm-10a.mp3" length="10790080"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034126</guid>
+      <title>9. 最近の「Podcastのつくり方」録音編</title>
+      <pubDate>Mon, 26 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep009</link>
+      <itunes:duration>00:16:55</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>いかにしてPodcastをつくるか？シリーズとして、今回は「Podcastの録音」について話しました。ダイナミックマイクを使う場合はSHURE X2Uが僕的にはオススメです。</itunes:summary>
+      <itunes:subtitle>いかにしてPodcastをつくるか？シリーズとして、今回は「Podcastの録音」について話しまし…</itunes:subtitle>
+      <description>いかにしてPodcastをつくるか？シリーズとして、今回は「Podcastの録音」について話しました。ダイナミックマイクを使う場合はSHURE X2Uが僕的にはオススメです。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034126-wadafm-ep009.mp3" length="10389120"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034093</guid>
+      <title>8. Is App::revealup the one of best 2014 CPAN modules?</title>
+      <pubDate>Fri, 23 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep008</link>
+      <itunes:duration>00:12:11</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>App::revealupが「The best of what’s new on CPAN 2014」に掲載された件について話しました。</itunes:summary>
+      <itunes:subtitle>App::revealupが「The best of what’s new on CPAN 201…</itunes:subtitle>
+      <description>App::revealupが「The best of what’s new on CPAN 2014」に掲載された件について話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034093-wadafm-ep008.mp3" length="8117952"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234034002</guid>
+      <title>7. Noel Gallagher's High Flying Birds / JAPAN TOUR 2015</title>
+      <pubDate>Wed, 21 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep007</link>
+      <itunes:duration>00:17:47</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>元Oasis、Noel Gallagherのソロバンドのライブチケットを手に入れたことなどについて話しました。</itunes:summary>
+      <itunes:subtitle>元Oasis、Noel Gallagherのソロバンドのライブチケットを手に入れたことなどについて…</itunes:subtitle>
+      <description>元Oasis、Noel Gallagherのソロバンドのライブチケットを手に入れたことなどについて話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234034002-wadafm-ep007.mp3" length="10810176"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234033936</guid>
+      <title>6. 最近の「Podcastのつくり方」配信編その2</title>
+      <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/6-podcast2</link>
+      <itunes:duration>00:12:06</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>本Podcastの配信の仕組みを「ごっそり」変更したので、JekyllやさくらVPSなどについて話しました。</itunes:summary>
+      <itunes:subtitle>本Podcastの配信の仕組みを「ごっそり」変更したので、JekyllやさくらVPSなどについて話…</itunes:subtitle>
+      <description>本Podcastの配信の仕組みを「ごっそり」変更したので、JekyllやさくらVPSなどについて話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234033936-wadafm-6-podcast2.mp3" length="8080704"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234033775</guid>
+      <title>5. 家内制手IT企業</title>
+      <pubDate>Tue, 20 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/5-it</link>
+      <itunes:duration>00:11:23</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>所属している「小さな会社」が家内制手工業っぽく「家内制手IT企業」な件について話しました。</itunes:summary>
+      <itunes:subtitle>所属している「小さな会社」が家内制手工業っぽく「家内制手IT企業」な件について話しました。</itunes:subtitle>
+      <description>所属している「小さな会社」が家内制手工業っぽく「家内制手IT企業」な件について話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234033775-wadafm-5-it.mp3" length="7737280"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000136854519-c3hjzn-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234033743</guid>
+      <title>4. CPAN pull request challenge</title>
+      <pubDate>Sat, 17 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/4-cpan-pull-request-challenge</link>
+      <itunes:duration>00:12:25</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>CPANとGitHub、CPAN pull request challenge について軽く話しました。</itunes:summary>
+      <itunes:subtitle>CPANとGitHub、CPAN pull request challenge について軽く話しま…</itunes:subtitle>
+      <description>CPANとGitHub、CPAN pull request challenge について軽く話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234033743-wadafm-4-cpan-pull-request-challenge.mp3" length="8234368"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000126403084-v72txv-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234033552</guid>
+      <title>3. 最近の「Podcastのつくり方」配信編</title>
+      <pubDate>Fri, 16 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/3-podcast</link>
+      <itunes:duration>00:12:43</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>いかにしてPodcastをつくるか？シリーズとして、今回は「Podcastの配信」について話しました。</itunes:summary>
+      <itunes:subtitle>いかにしてPodcastをつくるか？シリーズとして、今回は「Podcastの配信」について話しまし…</itunes:subtitle>
+      <description>いかにしてPodcastをつくるか？シリーズとして、今回は「Podcastの配信」について話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234033552-wadafm-3-podcast.mp3" length="8374912"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000136854435-wfgid9-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234033496</guid>
+      <title>2. ボケてEpsilon版リリースの話</title>
+      <pubDate>Thu, 15 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep002</link>
+      <itunes:duration>00:23:00</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>収録日前日の1月13日にリリースした「ボケてEpsilon版」について話しました。</itunes:summary>
+      <itunes:subtitle>収録日前日の1月13日にリリースした「ボケてEpsilon版」について話しました。</itunes:subtitle>
+      <description>収録日前日の1月13日にリリースした「ボケてEpsilon版」について話しました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234033496-wadafm-ep002.mp3" length="12176640"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000136854292-ncspj4-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/187062326</guid>
+      <title>1. wada.fmを始めます</title>
+      <pubDate>Wed, 14 Jan 2015 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/wadafm/ep001</link>
+      <itunes:duration>00:09:36</itunes:duration>
+      <itunes:author>ゆーすけべー</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ゆーすけべーが独り語りをする新Podcast「wada.fm」の始まったキッカケなどについて話しました。
+</itunes:summary>
+      <itunes:subtitle>ゆーすけべーが独り語りをする新Podcast「wada.fm」の始まったキッカケなどについて話しま…</itunes:subtitle>
+      <description>ゆーすけべーが独り語りをする新Podcast「wada.fm」の始まったキッカケなどについて話しました。
+</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/187062326-wadafm-ep001.mp3" length="5746176"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000136851519-ooqv0z-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

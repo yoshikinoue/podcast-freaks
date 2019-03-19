@@ -1,0 +1,1177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://noracast.jp/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://noracast.jp/</link>
+    <title>noracast</title>
+    <description>&quot;noracast&quot;（ノラキャスト）は、オンラインコミュニティ&quot;DevelopersJP&quot;周辺にたむろするノラ猫エンジニアたちが、近頃流行りのテック系ポッドキャストを“サカナ“ 🐟 に話す番組です。</description>
+    <media:keywords>comma,separated,keywords</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>&quot;noracast&quot;（ノラキャスト）は、オンラインコミュニティ&quot;DevelopersJP&quot;周辺にたむろするノラ猫エンジニアたちが、近頃流行りのテック系ポッドキャストを“サカナ“ 🐟 に話す番組です。</itunes:subtitle>
+    <itunes:author>noracats</itunes:author>
+    <itunes:summary>&quot;noracast&quot;（ノラキャスト）は、オンラインコミュニティ&quot;DevelopersJP&quot;周辺にたむろするノラ猫エンジニアたちが、近頃流行りのテック系ポッドキャストを“サカナ“ 🐟 に話す番組です。</itunes:summary>
+    <itunes:keywords>comma,separated,keywords</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>noracats</itunes:name>
+      <itunes:email>noracast.podcast@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://noracast.jp/images/artwork-2.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>17. 画期的ですね！</title>
+        <link>https://noracast.jp/17/</link>
+        <pubDate>Sat, 16 Mar 2019 19:45:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;podcast-freaksをリリースしました&quot;&gt;「Podcast Freaks」をリリースしました！&lt;/h2&gt;
+
+&lt;p&gt;日本語テック系ポッドキャストのまとめサイトを作りました！&lt;/p&gt;
+
+&lt;p&gt;↓↓↓&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;&lt;a href=&quot;https://podcastfreaks.com&quot;&gt;Podcast Freaks&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+
+&lt;p&gt;番組の追加や編集・削除リクエストなどは、&lt;a href=&quot;https://podcastfreaks.com/request/&quot;&gt;Requestページ&lt;/a&gt;からご連絡ください。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/noracast/podcast-freaks/blob/2f525b7ff8119a60a93701396ce85a311c30c4a7/data/rss.json&quot;&gt;podcast-freaks/data/rss.json&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/suginoy/items/dada11eef775b883320f&quot;&gt;日本語Tech系Podcastいろいろ - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/3068&quot;&gt;Podcaster Advent Calendar 2018 - ADVENTAR&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/noracast/podcast-freaks/issues/5&quot;&gt;RSS不明で登録できなかった番組 #5&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;英語のポッドキャストで勉強しよう&quot;&gt;英語のポッドキャストで勉強しよう！&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yancan.tech/episode/4&quot;&gt;yancan.fm - 4. 2019年の抱負&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.heavybit.com/library/podcasts/jamstack-radio/&quot;&gt;JAMstack Radio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://toomuchnotenough.site/&quot;&gt;TOO MUCH NOT ENOUGH&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://emmawinston.me/2018/08/24/ixi-lang-getting-started/&quot;&gt;Getting started with ixi lang&lt;/a&gt;(Emmaさんによるixi lang入門のためのまとめ)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://supercollider.github.io/&quot;&gt;SuperCollider&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://chuck.cs.princeton.edu/&quot;&gt;ChucK&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;【話者注】Dariusさんはアメリカ人で、プログラマーではなく「インターネットアーティスト」でした 🙇
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://tinysubversions.com/&quot;&gt;Darius Kazemi&lt;/a&gt; : すごい数のいろんなインターネット作品を公開していて、&lt;a href=&quot;http://tinysubversions.com/stuff/isogloss-regex/#!&quot;&gt;これ&lt;/a&gt;とか面白かったです。&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://emmawinston.me/&quot;&gt;Emma Winston&lt;/a&gt; : イギリスの大学の博士課程で音楽を専攻&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCnUYZLuoy1rq1aVMwx4aTzw&quot;&gt;Google Chrome Developers&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://youtu.be/uddZX9ZK6wY&quot;&gt;Chrome 73 - What’s New in DevTools&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=obtCN3Goaw4&amp;amp;list=PLNYkxOF6rcICCxAiogddzLoyL9Zedi3s5&amp;amp;index=86&quot;&gt;Supercharged&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;おっさんの胸に刺さる物語がほんとに刺さった話&quot;&gt;「おっさんの胸に刺さる物語」がほんとに刺さった話&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;【とにかく聞いて！】&lt;a href=&quot;https://ossan.fm/episode/21&quot;&gt;おっさんFM - 21. おっさんの胸に刺さる物語&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;konmariさんをみてストーリーが大事だと思った&quot;&gt;KONMARIさんをみて、ストーリーが大事だと思った&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/stillrendering/episodes/12-KONMARI-e3bdv6&quot;&gt;still rendering - エピソード12: KONMARI 世界中がスパークジョイ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gimletmedia.com/&quot;&gt;Gimlet&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://studio.bosocbase.com/&quot;&gt;STUDIO BOSO C BASE カリフォルニアスタイル撮影スタジオ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://studio.design/&quot;&gt;STUDIO | Design to live website in one click.&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/miyaoka/status/1101164013717676033?s=12&quot;&gt;HeadlessCMS連携機能のデモ・ビデオ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://noracast.jp/17/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/17.mp3" length="41617558" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>日本語テック系ポッドキャストのまとめサイト「Podcast Freaks」を作った話、JAMstack Radioが僕らの英語教材として完璧なんじゃないか説、「おっさんの胸に刺さる物語」がほんとに胸に刺さった話、KONMARIさんすごい、サービスを使ってもらうにはストーリーが大事、これから面白い仕事をとっていくには、などについて話しました。</itunes:subtitle>
+        <itunes:duration>1:22:54</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>16. 何時でも、既読マークつくからなぁ</title>
+        <link>https://noracast.jp/16/</link>
+        <pubDate>Sat, 09 Mar 2019 19:45:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;近況報告&quot;&gt;近況報告&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://greenz.jp/&quot;&gt;greenz&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nuro-ac.jp/&quot;&gt;NURO 光&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ユカオフ&quot;&gt;ユカオフ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yuka2019.peatix.com/?lang=ja&quot;&gt;ユカオフ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/yahsan2/status/997963234047967234&quot;&gt;記念すべき１回目のボイスメッセージ採用された！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://help.anchor.fm/hc/en-us/articles/360001018972-Voice-messages&quot;&gt;Voice messages - Anchor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC1JMhM9TJT7yMLx8ZtbDO8g&quot;&gt;Yuka Ohishi - YouTube&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ポッドキャストコミュニティ&quot;&gt;ポッドキャストコミュニティ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://discordapp.com/invite/YVrqJT7&quot;&gt;すぱきゃす - Discord&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rebuild-1&quot;&gt;Rebuild #1&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rebuild.fm/1/&quot;&gt;Rebuild #1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scrapbox.io/admin-guild-pr/%E9%81%8B%E5%96%B6%E8%80%85%E3%82%AE%E3%83%AB%E3%83%89&quot;&gt;運営者ギルド&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.rubymotion.com/jp/&quot;&gt;RUBYMOTION&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.appcelerator.com/Titanium/&quot;&gt;Titanium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://expo.io/&quot;&gt;Expo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.weblio.jp/content/%E3%82%AC%E3%83%AF%E3%83%8D%E3%82%A4%E3%83%86%E3%82%A3%E3%83%96&quot;&gt;ガワネイティブ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://phonegap.com/&quot;&gt;PhoneGap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.zaim.co.jp/n/nd82e0fbee58c&quot;&gt;アーキテクチャから見直した Android 版 Zaim の大規模リファクタリング #Zaim&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nuxtjs.org/&quot;&gt;Nuxt.js - The Vue.js Framework&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;フリーランスかインハウスか働き方に見る夫々の価値観&quot;&gt;フリーランスかインハウスか働き方に見る夫々の価値観&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://automagic.fm/tagged/amp236&quot;&gt;Automagic Podcast #236 事業会社でデザインするってそんなに違うの？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.omnigroup.com/omnifocus/&quot;&gt;OmniFocus&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Getting_Things_Done&quot;&gt;Getting Things Done - ウィキペディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.businessinsider.jp/post-34471&quot;&gt;ジェフ・ベゾスの秘策｢ピザ2枚｣ルール。 アマゾンはこれで無駄をなくした&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://xn--bck2ad3dwftfrc.jp/%E8%B3%87%E9%87%91%E8%AA%BF%E9%81%94/series.html&quot;&gt;資金調達のシリーズA・シリーズB・シリーズCとは？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;デザインツール&quot;&gt;デザインツール&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.figma.com/&quot;&gt;Figma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://studio.design/ja&quot;&gt;STUDIO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/sixa_nao/n/n7603a9bc7580&quot;&gt;FigmaではじめるUI（Web）デザイン｜Part1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://avocode.com/&quot;&gt;Avocode: Hand-off and Inspect Sketch, PSD, XD, AI, &amp;amp; Figma designs&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/16/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/16.mp3" length="89404511" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>ユカオフに行った話、ポッドキャストコミュニティの可能性、2013年のRebuild第一回を聞き直してトレンドの移り変わりについて考えた話、アプリの敷居が高くなり一人じゃ何もできなくなったという話、ガワネイティブ、フリーランスかインハウスか働き方に見る夫々の価値観について、Figma、リアルタイム共同編集機能、デザインファイルの共通化などについて話しました。</itunes:subtitle>
+        <itunes:duration>1:42:46</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>15. ２人回はゆるゆる回でいいですか？</title>
+        <link>https://noracast.jp/15/</link>
+        <pubDate>Mon, 24 Dec 2018 12:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;2週間分の-podcast-まとめ&quot;&gt;2週間分の podcast まとめ&lt;/h2&gt;
+
+&lt;h4 id=&quot;1221-金&quot;&gt;12/21 (金)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://php-genba.shin1x1.com/25&quot;&gt;PHPの現場 - 25. PHP カンファレンス 2018（omoon / tanakahisateru）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer.xrea.jp/2107&quot;&gt;テクフリ - 042.LaunchPad／言い換えのご提案／個人開発で食う■ぬるま湯脱出計画&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ossan.fm/episode/11&quot;&gt;Ossan.fm - 11. マイクが来たりて泡を飲む&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://feeds.lean-agile.fm/~r/omoiyarifm/~3/TOPXqkTX4Yg/40&quot;&gt;omoiyari.fm - #40 うれしい！たのしい！大好き！&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1220-木&quot;&gt;12/20 (木)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/em-fm&quot;&gt;EM.FM - as5. ボルダリングもエンジニアリング　ゲスト: 小賀昌法(@makoga)さん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/yukaneradio&quot;&gt;そこまでゆうかねラジオ #6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1219-水&quot;&gt;12/19 (水)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tracking.feedpress.it/link/6091/10917175&quot;&gt;backspace.fm - #273:自由の身になったユカさんが今考えていること&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://corklab.seesaa.net/article/corklab086.html&quot;&gt;コルクラボの温度 - 086【テーマトーク】私の変態なところ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kappa.info-engineer.jp/2018/12/19/ep-3-yuki%e3%81%95%e3%82%93%e3%81%ae%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%b3/&quot;&gt;「かっぱ」はIT界隈を除きたい - ep.3 Yukiさんのインターン&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1218-火&quot;&gt;12/18 (火)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tsujileaks.com/?p=507&quot;&gt;podcast - #セキュリティのアレ - 第19回 ポッドキャストを19回しただけなのに スペシャル&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1217-月&quot;&gt;12/17 (月)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/takramcast/d2clondon&quot;&gt;Takram Cast - ロンドンD2Cストア訪問記&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/takramcast/cookpad-product-kitchen&quot;&gt;Takram Cast - 越境を生む環境&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer.xrea.jp/2102&quot;&gt;テクフリ - 041.Podcastテクフリの2018年ふりかえり&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/dongurifm/343a&quot;&gt;donguri.fm - 343 声が低いとどれだけ生きづらいか説明しよう。&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1216-日&quot;&gt;12/16 (日)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mozaic.fm/episodes/46/yearly-web-2018.html&quot;&gt;mozaic.fm - ep46 Yearly Web 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1215-土&quot;&gt;12/15 (土)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cast-for.fun/&quot;&gt;Cast for Fun - Episode 10&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://h2plus.biz/another-dawn/2018/12/episode-31/&quot;&gt;Another Dawn - Episode#31: 「gullらじ。」の表と裏（ゲスト：アニー）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1214-金&quot;&gt;12/14 (金)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://capitalp.jp/2018/12/14/miyauchi-graduates-wordpress/&quot;&gt;Capital P - 宮内隆行WordPress卒業記念対談&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/user-194620696/sp47-hiyoko_taisa&quot;&gt;しがないラジオ - sp.47【ゲスト: hiyoko_taisa】ひよこ大佐に聞く、楽しい「Twitter転職」とRed Hatサポートエンジニアの日常&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer.xrea.jp/2093&quot;&gt;テクフリ - 040.副業元年／だらさんインタビューVol.4■Micro Hardening&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://corklab.seesaa.net/article/corklab085.html&quot;&gt;コルクラボの温度 - 085【特別編】「悲しみ」について　4/4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ossan.fm/episode/10&quot;&gt;Ossan.fm - 10. アグレッシブな両親&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1213-木&quot;&gt;12/13 (木)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/dongurifm/342a&quot;&gt;donguri.fm - 3342 「スネ夫が自慢話をするときの曲」がめちゃくちゃ癒される&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kappa.info-engineer.jp/2018/12/13/ep-2-%e9%96%8b%e7%99%ba%e5%90%88%e5%ae%bf%e3%81%ae%e8%89%b2%e3%80%85/&quot;&gt;「かっぱ」はIT界隈を除きたい - ep.2 開発合宿の色々&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1212-水&quot;&gt;12/12 (水)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rebuild.fm/223/&quot;&gt;Rebuild - 223: Ear Bleeding Pods (higepon)&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;【お詫びと訂正】&lt;a href=&quot;https://speakerdeck.com/ikedaosushi/rebuild-dot-fmfalsetong-ji-xue&quot;&gt;rebuild.fmの統計学&lt;/a&gt; は、&lt;a href=&quot;https://lifull.connpass.com/event/111262/&quot;&gt;Ltech#3 【podcast × IT】LT Night !&lt;/a&gt;で発表された資料でした。 &lt;a href=&quot;https://shiganai.connpass.com/event/106153/&quot;&gt;しがないラジオmeetup 2&lt;/a&gt; と勘違いしておりました。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://corklab.seesaa.net/article/corklab084.html&quot;&gt;コルクラボの温度 - 084【テーマトーク】映画「みんなの学校」をみて&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/em-fm&quot;&gt;EM.FM - ep10. 小賀さんは1on1をどう活用しているか ゲスト: 小賀昌法(@makoga)さん&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1211-火&quot;&gt;12/11 (火)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/dongurifm/341a&quot;&gt;donguri.fm - 341 かっこいいパーカー見つけた。heyって知ってる？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kakakikikeke.com/podcast/17/&quot;&gt;kakakikikeke - Ep17: Soy Source Coffee (@YOMOGItanpop)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noracast.jp/14/&quot;&gt;noracast - 14. 境界ないからヤバイんすよね&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://strobo.fm/episode/35/&quot;&gt;strobo.fm - ep.35 千葉ニュータウン (@pocotan001)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://automagic.fm/post/180998678230/henyorico&quot;&gt;Automagic - #235 千貫 りこさん（KICKS Web）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;1210-月&quot;&gt;12/10 (月)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/engineer-meeting/vol125-2018&quot;&gt;engineer meeting podcast - vol.125 2018年に買ってよかったもの&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://feeds.lean-agile.fm/~r/omoiyarifm/~3/i7-yzzW36B0/39&quot;&gt;omoiyari.fm - #39 アジャイルリーダーシップ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;129-日&quot;&gt;12/9 (日)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/lnlp-ninja&quot;&gt;Leading NLP Ninja - ep16: Contextual Topic Modeling For Dialog Systems&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tracking.feedpress.it/link/6091/10887895&quot;&gt;backspace.fm - #272:ブラウザエンジン三国志に激変　甲斐さんと初期メンバーまったりトーク&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://feedproxy.google.com/~r/matchy/noedge/~3/kQPb1VHp0Hs/685&quot;&gt;エッジのたたないポッドキャスト - 130:Spotify+Mopidy+mpc@Raspberry Piで自分専用ラジオ局を手に入れたカンジ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;128-土&quot;&gt;12/8 (土)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://feedproxy.google.com/~r/dexfm/~3/EcoT9ucazEQ/180917603593&quot;&gt;dex.fm - 063: CQRS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tracking.feedpress.it/link/6091/10886099&quot;&gt;backspace.fm - #271:Osmo Pocket予約した？　善司さん4K/8K放送語る&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;【お詫びと訂正】12月1日から始まったのは、地上波ではなく、BS・CSチャンネルでの「新4K・8K衛星放送（新4K・8K放送）」でした。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://strobo.fm/episode/34/&quot;&gt;strobo.fm - ep.34 ニューアルバム (@kitak)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cast-for.fun/&quot;&gt;Cast for Fun - Episode9&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://feedproxy.google.com/~r/Yatteikifm/~3/TyJFHEt2t-4/58&quot;&gt;yatteiki.fm - 58. 最強のwikiとは【提供:Scrapbox】&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h4 id=&quot;127-金&quot;&gt;12/7 (金)&lt;/h4&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/yukaneradio&quot;&gt;そこまでゆうかねラジオ #5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/dongurifm/340a&quot;&gt;donguri.fm - 340 このあいだ話題になった「アー写」って何なんだ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/15/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/15.mp3" length="51797378" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>noracast 今年の振り返りと、12月前半の２週間分の podcast に色々触れてみる回をやってみました。</itunes:subtitle>
+        <itunes:duration>0:57:48</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>14. 境界ないからヤバイんすよね</title>
+        <link>https://noracast.jp/14/</link>
+        <pubDate>Tue, 11 Dec 2018 12:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;strong&gt;このエピソードは、&lt;a href=&quot;https://adventar.org/calendars/3068&quot;&gt;Podcaster Advent Calendar 2018&lt;/a&gt;の11日目として配信しました。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;-podcaster-advent-calendar-2018&quot;&gt;🐟 Podcaster Advent Calendar 2018&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/3068&quot;&gt;Podcaster Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://crieit.net/advent-calendars/2018/crieit&quot;&gt;Creeit - アドベントカレンダー Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;【話者注】熊谷と繪面がプログラミングコードの内から聴こえてくる声に耳を傾けて楽しむラジオ #56 は、きちんと予定どおり配信されていました！12/10の収録時に見ていたので、まだ未来の日付だったのにとんだ勘違いをしていました…。申し訳ありません！ 🙇&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;とにかく聴いて欲しいオススメ&quot;&gt;とにかく聴いて欲しいオススメ！&lt;/h2&gt;
+
+&lt;h3 id=&quot;-のぼりーさんのクラウドインフラpodcast---ep27&quot;&gt;🐟 のぼりーさんのクラウドインフラPodcast - ep27&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudinfra.audio/track27-6c78e0634c2a&quot;&gt;のぼりーさんのクラウドインフラPodcast - Track-27 Github 池田さんはソリューションエンジニア&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-drikin-vlog---ep633&quot;&gt;🐟 DRIKIN VLOG - ep633&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=sZs8XbbT2kA&quot;&gt;DRIKIN VLOG - 清水さんと語るRISC-Vからみるコンピューターの未来についての難しい話 #633&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://backspace.fm/episode/272/&quot;&gt;Backsface.fm - #272:ブラウザエンジン三国志に激変　甲斐さんと初期メンバーまったりトーク&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.puipro.com/&quot;&gt;BSフジ ちちんぷいぷいプログラミング&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;wikiと情報整理とdropboxとtime-machine&quot;&gt;wikiと情報整理とDropboxとTime Machine&lt;/h2&gt;
+
+&lt;h3 id=&quot;-yatteikifm---ep58&quot;&gt;🐟 yatteiki.fm - ep58&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yatteiki.fm/episode/58&quot;&gt;yatteiki.fm - 58. 最強のwikiとは【提供:Scrapbox】&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wikihub.io/&quot;&gt;WikiHub&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://editaro.com/&quot;&gt;エディ太郎 - 下書き専用テキストエディタ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://misreading.chat/2018/10/22/episode-36-bleak-automatically-debugging-memory-leaks-in-web-applications/&quot;&gt;Misreading Chat - Episode 36 – BLeak: Automatically Debugging Memory Leaks in Web Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://1password.com/&quot;&gt;1Password&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://esa.io/&quot;&gt;esa - 自律的なチームのための情報共有サービス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kibe.la/ja&quot;&gt;Kibela - a new communication tool to fuel the team&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scrapbox.io/&quot;&gt;Scrapbox - Realtime Knowledge Base - Capture ideas in context&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Dropbox
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/paper&quot;&gt;Dropbox Paper - Paper - Dropbox&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/ja/business&quot;&gt;Dropbox Business&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.dropbox.com/smartsync&quot;&gt;Smart Sync - Dropbox&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;【訂正とお詫び】Buisinessプラン以外の場合のDropbox Paperのデフォルトの公開設定が「公開」であると言っていますが、2018.12.24 現在、無料アカウントで「自分のみ」になっていることを確認しました。おそらく途中で変更が入ったものと思いますが、お詫びして訂正します。 🙇&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Macの復旧が大変だった話
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://support.apple.com/ja-jp/HT201250&quot;&gt;Time Machine で Mac をバックアップする - Apple サポート - Apple Support&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1804/27/news070.html&quot;&gt;Apple、WiFiルーターのAirMacを終了&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;境界線はないっ&quot;&gt;境界線はないっ！？&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/em-fm/episodes/ep8--CTOVPoE--takoratta-e2kko3&quot;&gt;🐟 EM.FM - ep8. CTOとVPoE体制の組織課題とは？　ゲスト: 及川卓也(@takoratta)さん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/engineer-meeting/vol124&quot;&gt;🐟 engineer meeting podcast - vol.124 フロントエンドエンジニアが思うデザイナーに求めること&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://automagic.fm/post/180532082565/webdirection&quot;&gt;🐟 Automagic - #233 田口 真行さん（株式会社デスクトップワークス）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/14/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/14.mp3" length="84821856" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>Podcaster Advent Calendar 2018や、のぼりーさんのクラウドインフラPodcastのGitHub回、DRIKIN VLOGの清水亮さん回を強くオススメしたり、Wikiとかメモの話、Dropbox Paper や esa、Kibelaなどの使い方、フロー情報とストック情報への移行が難しい話、Macの移行ツールからの復元が大変だった話、肩書問題、などについて話しました。</itunes:subtitle>
+        <itunes:duration>1:16:52</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>13. 家にサーバー置いてどうするんすか？</title>
+        <link>https://noracast.jp/13/</link>
+        <pubDate>Wed, 28 Nov 2018 00:16:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;新規調達&quot;&gt;新規調達&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://cast-for.fun/&quot;&gt;Cast for Fun&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://kakakikikeke.com/podcast&quot;&gt;kakakikikeke&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://www.kappa.info-engineer.jp/&quot;&gt;『かっぱ』はIT界隈をのぞきたい&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-cast-for-fun---ep2&quot;&gt;🐟 Cast for Fun - ep2&lt;/h2&gt;
+
+&lt;h3 id=&quot;オンラインコミュニティの心理的安全性&quot;&gt;オンラインコミュニティの心理的安全性&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://irie-dev.co/&quot;&gt;入江開発室&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/em-fm/episodes/as3-e2j5si&quot;&gt;EM.FM - as3. 共通言語はコミュニケーションを加速する&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://duckduckgo.com/&quot;&gt;DuckDuckGo — Privacy, simplified.&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;testing-effect&quot;&gt;Testing Effect&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cast-for.fun/episodes/2&quot;&gt;Cast for Fun - episode 2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%B9%E3%83%88%E5%8A%B9%E6%9E%9C&quot;&gt;テスト効果（Testing Effect）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B07BMNGXFC/&quot;&gt;わかばちゃんと学ぶ Googleアナリティクス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.booqs.net/&quot;&gt;BooQs - 本のテスト＆復習アプリ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-dongurifm---ep335&quot;&gt;🐟 donguri.fm - ep335&lt;/h2&gt;
+
+&lt;h3 id=&quot;所有してると思わないことが大事&quot;&gt;所有してると思わないことが大事&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/dongurifm/nux0n9kymedl&quot;&gt;donguri.fm - 335 家で毎日サウナに入る画期的な方法を発見した&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-エッジのたたないポッドキャスト---ep127&quot;&gt;🐟 エッジのたたないポッドキャスト - ep127&lt;/h2&gt;
+
+&lt;h3 id=&quot;家にサーバー置いてどうするんすか&quot;&gt;家にサーバー置いてどうするんすか？&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noedge.matchy.net/archives/669&quot;&gt;エッジのたたないポッドキャスト - 127:SpotifyとAlexaとRaspberry PiとDjayと&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tbsradio.jp/denpa/&quot;&gt;粋な夜電波&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ifttt.com/&quot;&gt;IFTTT helps your apps and devices work together&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/13/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/13.mp3" length="65653949" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>Cast for Fun、オンラインコミュニティの心理的安全性とGoogleの検索結果の関連やアウトプットの重要性、Testing Effect、donguri.fm、趣味が浪費にならない時代、所有してると思わないほうが良い、エッジのたたないポッドキャスト、Spotifyの無駄にすごい機能、粋な夜電波が終わって残念、外出先から冷蔵庫の中身を知りたいなどについて話しました。</itunes:subtitle>
+        <itunes:duration>1:16:39</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>12. 僕が一発ギャグで繋いでおけばいいですか？</title>
+        <link>https://noracast.jp/12/</link>
+        <pubDate>Mon, 12 Nov 2018 13:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;新規調達&quot;&gt;新規調達&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://www.yancan.tech/&quot;&gt;yancan.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://anchor.fm/yukaneradio&quot;&gt;そこまでゆうかねラジオ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://booklog.jp/&quot;&gt;ブクログ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-ラジオについて&quot;&gt;🐟 ラジオについて&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://radiko.jp/share/?sid=FMJ&amp;amp;t=20181109090000&amp;amp;noreload=1&quot;&gt;ジョン・カビラのラジオ&lt;/a&gt;（&lt;a href=&quot;http://radiko.jp/share/?sid=FMJ&amp;amp;t=20181109090000&amp;amp;noreload=1&quot;&gt;JK RADIO TOKYO UNITED&lt;/a&gt;）&lt;/li&gt;
+  &lt;li&gt;元気が出る &lt;a href=&quot;https://yatteiki.fm/&quot;&gt;yatteiki.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ピストン西沢の &lt;a href=&quot;https://www.j-wave.co.jp/original/grooveline/&quot;&gt;&lt;strong&gt;GROOVELINE&lt;/strong&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-とにかく聞いてほしい-podcast-エピソード&quot;&gt;🐟 とにかく聞いてほしい podcast エピソード&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://backspace.fm/episode/g009/&quot;&gt;backspace.fm: G-side #009:松澤亜美さんと語る、シリコンバレーで感じた矛盾と発見&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;アファーマティブアクション&quot;&gt;🐟アファーマティブ・アクション&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yancan.tech/episode/1&quot;&gt;エンジニアになったきっかけ@yancan.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yancan.tech/episode/2&quot;&gt;女性エンジニアにオススメの本@yancan.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://railsgirls.jp/&quot;&gt;Rails Girls&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;投書ハガキはこちらまで 〒299-4102 千葉県茂原市御蔵芝１７６１ 「noracast 宮本涼輔宛」&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-マネージメントやtodoリストの話&quot;&gt;🐟 マネージメントやTODOリストの話&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/stillrendering/episodes/8-e2h6m0&quot;&gt;エピソード8: プロジェクト・マネージメント＠An episode of still rendering // スティル・レンダリング&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/12/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/12.mp3" length="151494750" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>podcast とラジオについて、日本の社会問題のわかりづらさ、体育会系の生存者バイアス、歴史ある差別に対するアファーマティブ・アクション、マネージメントやTODOリスト、などについて話しました。</itunes:subtitle>
+        <itunes:duration>1:49:59</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>11. あれ、チーズじゃないの？</title>
+        <link>https://noracast.jp/11/</link>
+        <pubDate>Sun, 28 Oct 2018 20:42:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;-しがないラジオのpotato4dさん回&quot;&gt;🐟 しがないラジオのPotato4dさん回&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shiganai.org/ep/sp41b-potato4d&quot;&gt;しがないラジオ sp.41b【ゲスト: potato4d】フリーランスのやめ時問題と、「1.5歩先の技術」に投資する楽しいエンジニアの生存戦略&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://potato4d.me/&quot;&gt;Potato4dさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/yahsan2/items/a70c4c8f617ee9b1f9ff/revisions/2&quot;&gt;miyamotoがもらった修正リクエスト&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-jsのメモリーリーク検知ツールbleakについて&quot;&gt;🐟 JSのメモリーリーク検知ツール「BLeak」について&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://misreading.chat/2018/10/22/episode-36-bleak-automatically-debugging-memory-leaks-in-web-applications/&quot;&gt;Misreading Chat - Episode 36 – BLeak: Automatically Debugging Memory Leaks in Web Applications&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/plasma-umass/bleak&quot;&gt;plasma-umass/BLeak&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chrome.google.com/webstore/detail/the-great-suspender/klbibkeccnjlkjkiokjodocebajanakg&quot;&gt;The Great Suspender&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://php-genba.shin1x1.com/22&quot;&gt;PHPの現場 - 22. パフォーマンス・チューニング（yugo_tak）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/GoogleChrome/puppeteer&quot;&gt;Puppeteer&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-いたずらとクリエイティビティ&quot;&gt;🐟 いたずらとクリエイティビティ&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/em-fm/episodes/ep4--ohbarye-e2ev2v&quot;&gt;EM.FM - ep4. @ohbaryeさんとジュニアなメンバーとは何かを語る&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;クリエイティブ性を問う面接でどんな質問をするか？&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://js.tensorflow.org/&quot;&gt;TensorFlow.js&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-miyamotoのチキンバーガー屋さん&quot;&gt;🐟 miyamotoのチキンバーガー屋さん&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nishida.lol/post/our-chicken-burger-shop/&quot;&gt;チキンバーガーを配りまくるチキンバーガー屋さんを目指して&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/nishidalol&quot;&gt;にしだけ 🍔チキンバーガー夫婦&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-teradaがテクフリにゲスト出演しました&quot;&gt;🐟 teradaがテクフリにゲスト出演しました&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer.xrea.jp/1956&quot;&gt;テクフリ - 032.音声入力デバイス「SilentVoice」／TeradaさんインタビューVol.1■ペンタブ購入&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noracast.jp/9/&quot;&gt;9. @import 仕返してやる！ | noracast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer.xrea.jp/1797&quot;&gt;テクフリ - 028.最近の大型調達／SugiさんインタビューVol.1■スプラッター&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;strong&gt;ゲスト出演したい方募集中！&lt;/strong&gt; → &lt;a href=&quot;https://twitter.com/@noracast_&quot;&gt;@noracast_&lt;/a&gt;までmentionお願いします。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gridsome.org/&quot;&gt;Gridsome - Build blazing fast websites for any CMS or data with Vue.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://graphql.org/&quot;&gt;GraphQL | A query language for your API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://misreading.chat/2018/05/29/episode-12-semantics-and-complexity-of-graphql/&quot;&gt;Misreading Chat - Episode 12 – Semantics and Complexity of GraphQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soussune.com/episode/43&quot;&gt;そうっすね - 43. 技術書典振り返り、Netlifyの構想するWebの未来&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/11/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/11.mp3" length="68339963" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>しがないラジオに出演されたPotato4dさんにmiyamotoが感銘を受けた話、JSのメモリーリーク検知ツール「Bleak」について、いたずらとクリエイティビティ、miyamotoのチキンバーガー屋さん、GraphQLの位置づけがよくわかってない、などについて話しました。</itunes:subtitle>
+        <itunes:duration>1:46:23</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>10. JAMstackの“M”は・・・何だっけ？</title>
+        <link>https://noracast.jp/10/</link>
+        <pubDate>Mon, 15 Oct 2018 11:35:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;フォローアップと新規調達番組&quot;&gt;フォローアップと新規調達番組&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cat&lt;/code&gt;でつないだmp3は、プレーヤーによって所要時間が正しく表示されない&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chaptersapp.com/&quot;&gt;Podcast Chapters&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://auphonic.com/&quot;&gt;Auphonic&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;新規調達&quot;&gt;新規調達&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://ossan.fm/&quot;&gt;おっさんfm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://anchor.fm/em-fm/&quot;&gt;EM.FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://monorazi.hateblo.jp/&quot;&gt;ものラジ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-のぼりークラウドで話題に上がったshifterについて&quot;&gt;🐟 のぼりークラウドで話題に上がったshifterについて&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloudinfra.audio/track26-b3680a037a34&quot;&gt;のぼりーさんのクラウドインフラPodcast - Track-26 新原さんとPHPの現場っぽく&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.getshifter.io/&quot;&gt;shifter&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;【お詫びと訂正】shifterの開発に関わっておられたのは&lt;a href=&quot;https://twitter.com/shin1x1&quot;&gt;Masashi Shinbara&lt;/a&gt;さんではなく&lt;a href=&quot;https://twitter.com/sawanoboly&quot;&gt;sawanoboly&lt;/a&gt;さんでした。申し訳ありませんでした 🙇&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://ja.staticpress.net/&quot;&gt;StaticPress&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://disqus.com/&quot;&gt;Disqus&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-jamstackからはじまるエトセトラ&quot;&gt;🐟 JAMstackからはじまるエトセトラ…&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soussune.com/episode/41/&quot;&gt;そうっすね 41. 楽しくて仕方がないラジオ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soussune.com/episode/42/&quot;&gt;そうっすね 42. JAMstack 完全入門 ハイパフォーマンス Web サイト構築&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://booth.pm/ja/items/1035934&quot;&gt;JAMstack 完全入門 ハイパフォーマンス Web サイト構築&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jamstack.org/&quot;&gt;JAMstack | JavaScript, APIs, and Markup&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/LAMP_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E3%83%90%E3%83%B3%E3%83%89%E3%83%AB)&quot;&gt;LAMP (ソフトウェアバンドル)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://mean.io/&quot;&gt;MEAN&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techracho.bpsinc.jp/shibachan/2014_07_17/18195&quot;&gt;LAMPは古い、GUNDAM？？ これからはVガンダム(VGUNDAM)エンジニアの時代だ！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gatsbyjs.org/&quot;&gt;GatsbyJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;JAMstackのビルド時間問題&lt;/li&gt;
+  &lt;li&gt;ページ数多い場合は、Ruby製よりNode製のSSGの方が速そう&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gohugo.io/&quot;&gt;Hugo: The world’s fastest framework for building websites&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://haml.info/&quot;&gt;Haml&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://slim-lang.com/&quot;&gt;Slim - A Fast, Lightweight Template Engine for Ruby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pugjs.org&quot;&gt;pug&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sass-lang.com/libsass&quot;&gt;Sass: LibSass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/eagletmt/faml&quot;&gt;eagletmt/faml&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/k0kubun/hamlit&quot;&gt;k0kubun/hamlit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://firebase.google.com/&quot;&gt;Firebase: Build, Improve, Grow | Mobile App Success Made Simple&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nextjs.org/&quot;&gt;Next.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.contentful.com/&quot;&gt;Contentful: Content Infrastructure for Digital Teams&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pushtable.com/&quot;&gt;PushTable&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-エンジニアリング組織論への招待について&quot;&gt;🐟 「エンジニアリング組織論への招待」について&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/em-fm/&quot;&gt;EM.FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/4774196053&quot;&gt;エンジニアリング組織論への招待 ~不確実性に向き合う思考と組織のリファクタリング&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noracast.jp/3.1/&quot;&gt;3.1. アンラーニング／Netlify&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-the-startup-podcast&quot;&gt;🐟 THE STARTUP PODCAST&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://podcast.no-new-folk.com/podcast/07-kousei-mitsuishi/&quot;&gt;THE STARTUP PODCAST #7 三石晃生さん&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;【お詫びと訂正】「ミイシ」さんではなく「&lt;strong&gt;ミツイシ&lt;/strong&gt;」さんでした。申し訳ありませんでした 🙇&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%9D%82%E5%8F%A3%E6%81%AD%E5%B9%B3&quot;&gt;坂口恭平さん&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/10/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/10.mp3" length="50178564" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>のぼりークラウドで話題に上がったshifterのWordPress静的化の話、JAMstackにおけるビルド時間問題、SSG、テンプレートエンジン、「エンジニアリング組織論への招待」について、THE STARTUP PODCASTなどについて話しました。</itunes:subtitle>
+        <itunes:duration>1:10:38</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>9. @import 仕返してやる！</title>
+        <link>https://noracast.jp/9/</link>
+        <pubDate>Fri, 12 Oct 2018 10:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;-takram-cast-が-takram-radio-として-j-waveに進出した話&quot;&gt;🐟 Takram Cast が TAKRAM RADIO として J-WAVEに進出した話&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cast.takram.com/podcast/j-wave-takram-radio&quot;&gt;J-WAVE TAKRAM RADIOにむけて、ラジオのこと&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.j-wave.co.jp/&quot;&gt;J-WAVE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www4.nhk.or.jp/wrn/&quot;&gt;ワールドロックナウ&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;【話者注】まだ番組続いててすごい…&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;戸田恵梨香の&lt;a href=&quot;https://www.tfm.co.jp/lock/girls/onair/070423/&quot;&gt;Girls Locks!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-catでmp3がくっついた&quot;&gt;🐟 catでmp3がくっついた！&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;code class=&quot;highlighter-rouge&quot;&gt;cat 2.mp3 &amp;gt;&amp;gt; 1.mp3&lt;/code&gt;&lt;/li&gt;
+  &lt;li&gt;Anchorで配信している&lt;a href=&quot;https://anchor.fm/lnlp-ninja&quot;&gt;Leading NLP Ninja&lt;/a&gt;は&lt;a href=&quot;https://itunes.apple.com/us/podcast/leading-nlp-ninja/id1430833772?mt=2&quot;&gt;iTunesに登録できてる&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;【話者注】NLP Ninjaではなく&lt;strong&gt;LNLP Ninja&lt;/strong&gt;でした 🙇&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Podcastエピソードのブックマーク方法に関する悩み
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://overcast.fm&quot;&gt;Overcast&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.pocketcasts.com&quot;&gt;Pocket Casts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/app/podcruncher-podcast-player/id421894356?l=en&amp;amp;mt=8&quot;&gt;‎PodCruncher Podcast Player&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.stitcher.com/&quot;&gt;STITCHER&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/app/podcasts/id525463029?mt=8&quot;&gt;Apple Podcasts&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-他人が書いたコードを触ることについて&quot;&gt;🐟 他人が書いたコードを触ることについて&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ajito.fm/31/&quot;&gt;ajitofm 31: Farmed and Wild&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.redhat.com/ja/understanding-microservices&quot;&gt;マイクロサービスについて&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gulpjs.com/&quot;&gt;gulp.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://nuxtjs.org/&quot;&gt;nuxt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;サービス開発と受託開発による違い&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-meishiキーボードを組み立てた話&quot;&gt;🐟 Meishiキーボードを組み立てた話&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://biacco42.hatenablog.com/entry/2018/01/21/204749&quot;&gt;Meishi keyboard 組み立て方ガイド&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.edikun.co.jp/kinesis_footswitch/index.htm&quot;&gt;Kinesis フットスイッチ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-esfm-について&quot;&gt;🐟 es/FM について&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://podtail.com/en/podcast/es-fm-sf-%E3%81%AA%E3%83%88%E3%83%BC%E3%82%AF%E7%95%AA%E7%B5%84-%E3%82%A8%E3%82%B9%E3%83%8E%E3%82%A8%E3%83%95%E3%82%A8%E3%83%A0/&quot;&gt;es/FM - SF なトーク番組 : エスノエフエム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://theocorp.jp/&quot;&gt;セオ商事&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;【話者注】閑歳さんの会社は、Zaifではなく&lt;strong&gt;Zaim&lt;/strong&gt;でした 🙇&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.imdb.com/title/tt0816692/&quot;&gt;Interstellar&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.imdb.com/title/tt2543164/&quot;&gt;Arrival&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-gopro-hero-7とapple製品&quot;&gt;🐟 GoPro HERO 7とApple製品&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shop.gopro.com/APAC/cameras/hero7-black/CHDHX-701-master.html&quot;&gt;GoPro Hero 7&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.macworld.co.uk/news/apple/airpower-release-3664127/&quot;&gt;Apple AirPower&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://spire.io/pages/stone&quot;&gt;Spire Stone&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gizmodo.jp/2018/04/put-that-sensor-on-my-tooth.html&quot;&gt;もうズルできない。歯に貼り付けるセンサーで、食べたものぜーんぶトラッキングする未来&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.co.jp/search?q=%E3%82%A4%E3%83%B3%E3%82%B9%E3%83%AA%E3%83%B3%E3%83%9D%E3%83%B3%E3%83%97&amp;amp;num=50&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=0ahUKEwjhu7KL4f7dAhXFx7wKHUPID0UQ_AUIDigB&amp;amp;biw=1280&amp;amp;bih=667&quot;&gt;インスリンポンプ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.apple.com/healthkit/&quot;&gt;HealthKit&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sleepcycle.com/&quot;&gt;Sleep Cycle alarm clock&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Google_Health&quot;&gt;Google Health&lt;/a&gt; （2008〜2011）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;-阿川佐和子さんの聞く力&quot;&gt;🐟 阿川佐和子さんの「聞く力」&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer.xrea.jp/1797&quot;&gt;テクフリ 028.最近の大型調達／SugiさんインタビューVol.1■スプラッター&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B0099O0ERW/&quot;&gt;聞く力 心をひらく35のヒント&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/9/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/9.mp3" length="160986297" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>Takram Castのラジオ進出や、ajitofm - 31で話されていた「他人が書いたコードを触ること」について、サービス開発と受託開発による違いと自らの成長、キーボード自作、ポッドキャスト「es/FM」、GoPro Hero 7、Appleのヘルスケアに期待、阿川佐和子さんの「聞く力」などについて話しました。</itunes:subtitle>
+        <itunes:duration>1:49:01</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>8. noracast引越しました！</title>
+        <link>https://noracast.jp/8/</link>
+        <pubDate>Sun, 30 Sep 2018 21:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;strong&gt;noracastは、今回のエピソードから、今までのAnchor配信をやめて生まれ変わりました！&lt;/strong&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noracast.jp&quot;&gt;noracast.jp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noracast.jp/feed.xml&quot;&gt;noracastのRSSフィード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;noracastの今後の配信方法について&quot;&gt;noracastの今後の配信方法について&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noracast.jp&quot;&gt;noracast.jp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://netlify.com&quot;&gt;netlify&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zeit.co/now&quot;&gt;now&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.netlifycms.org/&quot;&gt;netlify CMS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;wordpress関係の脱線ネタ&quot;&gt;WordPress関係の脱線ネタ&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wordpress.org/plugins/wp-migrate-db/&quot;&gt;WP Migrate DB&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wordpress.org/gutenberg/&quot;&gt;Gutenberg&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://capitalp.jp/2017/08/21/does-facebook-license-affect-gutenberg/&quot;&gt;Facebookライセンス問題はGutenbergにも飛び火するのか&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-ワイヤーフレームは誰が作るについて&quot;&gt;🐟 ワイヤーフレームは誰が作る？について&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://automagic.fm/post/178011664320/whodoeswireframs&quot;&gt;Automagic #225 ワイヤーフレームは誰が作る？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://whimsical.co/&quot;&gt;Whimsical&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://whimsical.co/&quot;&gt;RealtimeBoard&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.invisionapp.com/feature/freehand&quot;&gt;Freehand | InVision&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ailab.microsoft.com/experiments/30c61484-d081-4072-99d6-e132d362b99d&quot;&gt;Sketch 2 Code&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-新しいiphoneについて&quot;&gt;🐟 新しいiPhoneについて&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/lae/iphone-xs/&quot;&gt;iPhone XS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.apple.com/lae/watch/&quot;&gt;Apple Watch Series 4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://iphone-mania.jp/news-198561/&quot;&gt;Apple Watchの針を使わない血糖値測定機能、実現は「数年先」？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;iphoneの話題が聞けるポッドキャスト&quot;&gt;iPhoneの話題が聞けるポッドキャスト&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://backspace.fm/episode/d034/&quot;&gt;backspace #034&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rebuild.fm/218/&quot;&gt;rebuild #218&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://radio.voiceofonebutton.net/article/ANR20180913M662J.html&quot;&gt;ワンボタンの声 #1662&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/us/podcast/apple-keynotes/id275834665?mt=2&quot;&gt;Apple Keynotes&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-engineer-meeting-podcastが一旦終了--キーボードについて&quot;&gt;🐟 engineer meeting podcastが一旦終了 / キーボードについて&lt;/h2&gt;
+
+&lt;h3 id=&quot;engineer-meeting-podcastが一旦終了&quot;&gt;engineer meeting podcastが一旦終了&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/engineer-meeting/wmla5lbezw5z&quot;&gt;engineer meeting podcast 今後について&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;キーボードについて&quot;&gt;キーボードについて&lt;/h3&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ergodox-ez.com/&quot;&gt;ErgoDox EZ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kinesis-ergo.com/shop/advantage2/&quot;&gt;KINESIS Advantage2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.pfu.fujitsu.com/hhkeyboard/hhkbpro2/nokeytop.html&quot;&gt;HHKB Professional2 無刻印モデル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://biacco42.booth.pm/items/736796&quot;&gt;Meishi&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tanoshii-life.booth.pm/items/952695&quot;&gt;Ergo42 Towel&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;【話者注】&lt;a href=&quot;https://www.arduino.cc/&quot;&gt;Arduino&lt;/a&gt;はJavaじゃなくてC言語のサブセットでした。（Javaなのは&lt;a href=&quot;https://processing.org/&quot;&gt;Processing&lt;/a&gt;でした。すみません…）&lt;/p&gt;
+
+&lt;h2 id=&quot;outro&quot;&gt;Outro&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noracast.jp&quot;&gt;noracast.jp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noracast.jp/feed.xml&quot;&gt;noracastのRSSフィード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/8/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/8.mp3" length="91197077" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>noracastの配信方法の変更や、ワイヤーフレーム作り、iPhoneXS、engineer meeting podcast、キーボードなどについて話しました。</itunes:subtitle>
+        <itunes:duration>1:48:34</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>7. noracast引越します！</title>
+        <link>https://noracast.jp/7/</link>
+        <pubDate>Tue, 18 Sep 2018 14:38:44 +0900</pubDate>
+        <description>&lt;p&gt;これまでAnchorにて配信してきたnoracastですが、
+諸般の事情により、次回のエピソードからはAnchorでの配信をやめて、
+下記のURLにて配信していくことになりました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noracast.jp&quot;&gt;https://noracast.jp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://noracast.jp/feed.xml&quot;&gt;RSSフィード&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;RSSフィードも変わりますので、ポッドキャストアプリにご登録頂いていた方は、
+申し訳ありませんが、再度登録をお願いします。&lt;/p&gt;
+
+&lt;p&gt;Anchorアプリでご視聴していただいていた方には申し訳ありませんが、
+ポッドキャストアプリ、またはウェブサイト上でのご視聴をお願いいたします。&lt;/p&gt;
+
+&lt;p&gt;なお、配信はこれまで通り２週間に一度を予定しております。
+今後とも、どうぞよろしくお願いいたします！&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/7/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/7.mp3" length="858338" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:duration>01:01</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>6. ノラネコたちの家探し</title>
+        <link>https://noracast.jp/6/</link>
+        <pubDate>Fri, 24 Aug 2018 10:10:56 +0900</pubDate>
+        <description>&lt;p&gt;&lt;strong&gt;今回、接続トラブルにより会話が途切れている部分があります。申し訳ありません。音ズレもいつもの通りあります…。&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;新規調達&quot;&gt;新規調達&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://www.wantedly.com/companies/mazrica/post_articles/124711&quot;&gt;Mazrica.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://anchor.fm/tarutokun&quot;&gt;Tarutokunの日常Podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://fukabori.fm/&quot;&gt;Fukabori.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://anitech.fm/&quot;&gt;AnitechFM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://bkkcast.me/&quot;&gt;bkkcast.me&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://mookmookradio.com/original-contents/a0005/&quot;&gt;熊谷と繪面がプログラミングコードの内から聴こえてくる声に耳を傾けて楽しむラジオ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://noedge.matchy.net/&quot;&gt;エッジのたたないポッドキャスト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;🐟 &lt;a href=&quot;https://h2plus.biz/another-dawn/&quot;&gt;Another Dawn&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-復活ポッドキャスト&quot;&gt;🐟 復活ポッドキャスト&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;それはそう &lt;a href=&quot;https://biacco-radio.tumblr.com/post/177063909211/season-2-keyboards-ep-1-%E5%88%9D%E5%BF%83%E8%80%85%E3%81%A8%E8%87%AA%E4%BD%9C%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89&quot;&gt;Season 2: Keyboards Ep. 1 初心者と自作キーボード&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;「かっぱうち」&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;PROTOTYPE.FM &lt;a href=&quot;http://www.prototype.fm/blog/2018/8/16/w87usejwu9q4jymamh24tm7p2eapuw&quot;&gt;16-1: 熱量のあるコミュニティの作り方（大底春菜 @harunaosoko）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Admins Bar &lt;a href=&quot;http://admins.bar/7/&quot;&gt;7: Water Hammer (Itkq)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-ワタナベさん半端ないって&quot;&gt;🐟 ワタナベさん半端ないって！&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://scrapbox.io/admin-guild-pr/%E9%81%8B%E5%96%B6%E8%80%85%E3%82%AE%E3%83%AB%E3%83%89&quot;&gt;運営者ギルド&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wp.infra-workshop.tech/&quot;&gt;インフラ勉強会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mosa.fm/9&quot;&gt;mosa.fm 9. Collective Personal Projects&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/nabettu&quot;&gt;@nabettu&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-新しいお家探し&quot;&gt;🐟 新しいお家探し？&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rebuild.fm/216/&quot;&gt;rebuild 216: Russian Meddling (N)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm&quot;&gt;Anchor&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ノラキャストの構成&lt;/li&gt;
+  &lt;li&gt;最強のポッドキャスト配信サービス作りたい&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://r7kamura.github.io/yattecast/&quot;&gt;Yattecast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/soussune/soussune.com&quot;&gt;soussune&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/6/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/6.m4a" length="54710617" type="audio/m4a"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>最近見つけたポッドキャスト、最近復活したポッドキャスト、ワタナベさんが半端ない話、noracastの今後の配信の仕方などについて話しました。</itunes:subtitle>
+        <itunes:duration>56:23</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>5. テクフリのS(えす)さんと色々お話しました！</title>
+        <link>https://noracast.jp/5/</link>
+        <pubDate>Tue, 07 Aug 2018 00:45:31 +0900</pubDate>
+        <description>&lt;p&gt;noracast初のゲスト回！「Tech系フリーランスの気になるホットトピックス」を配信されているS(えす)さんをゲストにお迎えしてお話ししました。&lt;/p&gt;
+
+&lt;h2 id=&quot;-sさんのサカナ&quot;&gt;🐟 Sさんのサカナ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yatteiki.fm/episode/50&quot;&gt;50. 若手ウェブディレクターが考える個人制作とVtuberのおもしろさの秘密&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yatteiki.fm/episode/51&quot;&gt;51. 4月からはAIバーチャルポッドキャスター「愛衣乃こえ」がお送りします&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://podcast.freeex.jp&quot;&gt;岡田斗司夫のPODCAST&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.nicovideo.jp/watch/1375680159&quot;&gt;ジブリ最新作公開記念特番 「岡田斗司夫が“風立ちぬ”の感想を語るよ!」&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-sさんのpodcastスタイル&quot;&gt;🐟 Sさんのpodcastスタイル&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/podcastaddict&quot;&gt;Podcast Addict&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-sさんのブログ&quot;&gt;🐟 Sさんのブログ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer.xrea.jp/&quot;&gt;フリーランスエンジニア実体験ブログ(5年目)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-sさんのpodcast&quot;&gt;🐟 Sさんのpodcast&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer.xrea.jp/techfree-podcast&quot;&gt;Tech系フリーランスの気になるホットトピックス&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-sさんの本&quot;&gt;🐟 Sさんの本&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer.xrea.jp/498&quot;&gt;いまフリーエンジニアになろうとしているあなたへ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-sさんのイベント&quot;&gt;🐟 Sさんのイベント&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer-nagoya.connpass.com/event/95471/&quot;&gt;「フリーランスエンジニアMeetUp名古屋#03」 8/22(水)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/5/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/5.m4a" length="52859700" type="audio/m4a"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>noracast初のゲスト回！「Tech系フリーランスの気になるホットトピックス」を配信されているS(えす)さんをゲストにお迎えしてお話ししました。</itunes:subtitle>
+        <itunes:duration>54:28</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>4. 「noracastは二週間分のテック系podcastニュースをお届けするpodcastです」</title>
+        <link>https://noracast.jp/4/</link>
+        <pubDate>Mon, 23 Jul 2018 01:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;-podcast-of-the-week&quot;&gt;🐟 Podcast of the week!&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunespartner.apple.com/en/podcasts/faq#67333021&quot;&gt;AnchorのRSSがiTunesに登録できない問題&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://backspace.fm/episode/d031/&quot;&gt;Backspace Danbo-side #031&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-スギさんのポッドキャストアプリ使い分けを深掘り&quot;&gt;🐟 スギさんのポッドキャストアプリ使い分けを深掘り&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Backspace.fm専用クライアント&lt;/li&gt;
+  &lt;li&gt;Podcastのまとめ聞きプレイリスト&lt;/li&gt;
+  &lt;li&gt;各種のトリビア&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-tdd-is-dead&quot;&gt;🐟 TDD is dead?&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rebuild.fm/29/&quot;&gt;29: Rate My App (Naoya Ito)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rebuild.fm/43/&quot;&gt;43: Kent is More Professional (Kenn Ejima)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rebuild.fm/137/&quot;&gt;137: Tested In Production (naoya)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://devtesting.jp/tddbc/&quot;&gt;TDD Boot Camp&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-dark-mode&quot;&gt;🐟 dark mode&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rebuild.fm/214/&quot;&gt;rebuild #214&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gizmodo.jp/2018/06/wwdc18_darkmode.html&quot;&gt;｢Mojave｣のダークモード&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/tbpgr/items/2a31a8d529ba6c7ee5de&quot;&gt;iTerm2でColorsにJapanesqueを設定する&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-jasperがossに&quot;&gt;🐟 JasperがOSSに！&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.h13i32maru.jp/entry/2018/07/17/083215&quot;&gt;Jasper(GitHub用のIssue Reader)を無料にしました&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codelunch.fm/20/&quot;&gt;CodeLunch.fm #20 Jasper開発秘話が聞ける&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/4/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/4.m4a" length="76423004" type="audio/m4a"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>2週間分のポッドキャストのふりかえり</itunes:subtitle>
+        <itunes:duration>01:18:45</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>3.1. アンラーニング／Netlify</title>
+        <link>https://noracast.jp/3.1/</link>
+        <pubDate>Tue, 17 Jul 2018 00:00:00 +0900</pubDate>
+        <description>&lt;ul&gt;
+  &lt;li&gt;モブプログラミング&lt;/li&gt;
+  &lt;li&gt;アンラーニング&lt;/li&gt;
+  &lt;li&gt;小規模な開発現場におけるリリーススピード&lt;/li&gt;
+  &lt;li&gt;何を学ぶべきか&lt;/li&gt;
+  &lt;li&gt;技術が好きなエンジニアに向いてる環境&lt;/li&gt;
+  &lt;li&gt;NetlifyやFirebaseについて話してるポッドキャストってありますか？&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/yahsan2/items/39eb9e3e19f72257084c&quot;&gt;【コードある】Nuxt + WordPress で netlify 運用が爆速すぎて神だった&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ミヤモトが最近気付いた Netlify x WordPress の神機能&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/3.1/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/3-1.m4a" length="39500455" type="audio/m4a"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>アンラーニング／Netlifyについて</itunes:subtitle>
+        <itunes:duration>40:42</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>3. スギさんがいっぱい🐟持ってきました！</title>
+        <link>https://noracast.jp/3/</link>
+        <pubDate>Mon, 09 Jul 2018 13:51:40 +0900</pubDate>
+        <description>&lt;h2 id=&quot;新しいポッドキャスト番組の探し方&quot;&gt;新しいポッドキャスト番組の探し方&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/suginoy/items/dada11eef775b883320f&quot;&gt;日本語Tech系Podcastいろいろ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer.xrea.jp/1515&quot;&gt;テック系ポッドキャストの一覧から選択式でOPMLとしてDLできるページ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-ミヤモトのサカナ&quot;&gt;🐟 ミヤモトのサカナ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mosa.fm/6&quot;&gt;mosa.fm #6&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-テラダのサカナ&quot;&gt;🐟 テラダのサカナ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://free-engineer.xrea.jp/1531&quot;&gt;Tech系フリーランスの気になるホットトピックス #15&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Boostnote https://boostnote.io/&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-スギのサカナ&quot;&gt;🐟 スギのサカナ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;「backspace沼」
+    &lt;ul&gt;
+      &lt;li&gt;http://backspace.fm/&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Turing Complete FM
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://turingcomplete.fm/25&quot;&gt;25. Chromeのローディングの最適化、脆弱性報奨システム、ブラウザとマイクロカーネル&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://turingcomplete.fm/24&quot;&gt;24. 細胞内の物質の濃度を測る研究、ヒトゲノム計画、害虫の根絶 ゲスト: Shiro Kadowaki&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;rebuild.fm #212
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://rebuild.fm/212/&quot;&gt;212: Max Speed Tetris (kosamari)&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/3/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/3.m4a" length="64067956" type="audio/m4a"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>新しいポッドキャスト番組の探し方などについて</itunes:subtitle>
+        <itunes:duration>01:06:01</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>2.ノラキャストあつまりました！</title>
+        <link>https://noracast.jp/2/</link>
+        <pubDate>Sun, 10 Jun 2018 13:41:13 +0900</pubDate>
+        <description>&lt;h2 id=&quot;podcastアプリについて&quot;&gt;Podcastアプリについて&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.shiftyjelly.com/pocketcasts/&quot;&gt;Pocketcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://overcast.fm/&quot;&gt;Overcast&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;【話者注】チャプターはRSS側の仕様ではなく音声ファイルにつけるものでした 🙇&lt;/p&gt;
+
+&lt;h2 id=&quot;-ミヤモトのサカナ&quot;&gt;🐟 ミヤモトのサカナ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/engineer-meeting/vol114-atomic-design-ui&quot;&gt;engineer meeting podcast vol.114&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/stillrendering/episodes/3-e1j5o6/a-a3qt1m&quot;&gt;still rendering エピソード3&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-テラダのサカナ&quot;&gt;🐟 テラダのサカナ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://bit.ly/2MfJ3iu&quot;&gt;mozaic ep38&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-スギのサカナ&quot;&gt;🐟 スギのサカナ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://backspace.fm/episode/b127/&quot;&gt;backspace b-side #127&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ajito.fm/25/&quot;&gt;ajito #25&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lean-agile.fm/episode/31-1&quot;&gt;omoiyari.fm #31&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;紙パンツでrubykaigi-行ってきました&quot;&gt;紙パンツでrubykaigi 行ってきました。&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.family.co.jp/company/news_releases/2018/20180427_01.html&quot;&gt;ファミマの紙パンツ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;コミットログの話&quot;&gt;コミットログの話&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@katzchang/%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA%E3%81%A7%E5%AD%A6%E3%82%93%E3%81%A0%E3%81%8C%E4%BD%BF%E3%82%8F%E3%81%AA%E3%81%8B%E3%81%A3%E3%81%9F%E3%82%82%E3%81%AE-88fbe9fe01ce&quot;&gt;ソフトウェア開発で学んだが使わなかったもの – @katzchang – Medium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/@katzchang/%E3%83%89%E3%82%AD%E3%83%A5%E3%83%A1%E3%83%B3%E3%83%88%E3%82%92%E6%AE%8B%E3%81%95%E3%81%AA%E3%81%84-6fc772877b55&quot;&gt;ドキュメントを残さない – @katzchang – Medium&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/2/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/2.m4a" length="86960300" type="audio/m4a"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>Podcastアプリについてなどについて</itunes:subtitle>
+        <itunes:duration>01:29:37</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+      <item>
+        <title>1.「ノラキャスト」はじまりました！</title>
+        <link>https://noracast.jp/1/</link>
+        <pubDate>Mon, 28 May 2018 00:06:43 +0900</pubDate>
+        <description>&lt;h2 id=&quot;podcastいいよねという話&quot;&gt;Podcastいいよねという話&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.developersjp.online&quot;&gt;DevelopersJp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.karappo.net/569&quot;&gt;孤独なエンジニアとポッドキャスト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mstdn.guru/about&quot;&gt;グルドン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/dskst9/status/999254292367163392/photo/1&quot;&gt;色々以外！日本のPodcast #しがないラジオmeetup&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://backspace.fm/episode/245/&quot;&gt;Backspace FM #245:プロダクトハンター三浦茜さんと考える、新しい暮らし方とポッドキャスト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/stillrendering&quot;&gt;STILL RENDERING&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.edisonresearch.com/the-podcast-consumer-2017/&quot;&gt;the podcast consumer 2017  &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://voicy.jp&quot;&gt;Voicy（ボイシー）- 今日を彩るボイスメディア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/yahsan2&quot;&gt;にしだけの宮本さんとあやかさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zencastr.com/&quot;&gt;Zencastr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-ミヤモトのサカナ&quot;&gt;🐟 ミヤモトのサカナ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cast.takram.com/podcast/o8mlztjyqsrv&quot;&gt;Takram Cast - リモートコーディング&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-テラダのサカナ&quot;&gt;🐟 テラダのサカナ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://codelunch.fm&quot;&gt;CodeLunch.fm&lt;/a&gt; （復活希望！）&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;-スギのサカナ&quot;&gt;🐟 スギのサカナ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://rebuild.fm/207/&quot;&gt;Rebuild - 207: API Calls Over The Phone (kansai_takako)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;その他のリンク&quot;&gt;その他のリンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubyist.club/7/&quot;&gt;rebyist.club 7: We’re rebuild children (h13i32maru)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jasperapp.io&quot;&gt;Jasper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.publickey1.jp/blog/18/slackactionsslack.html&quot;&gt;Top 開発ツール / 言語 / プログラミング
+Slackが新機能「Actions」を発表、Slack上からほかのツールへの書き込みや操作を可能に&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.asana.com&quot;&gt;The Asana Blog&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://noracast.jp/1/</guid>
+        <enclosure url="https://storage.googleapis.com/noracast/1.mp3" length="149445613" type="audio/mp3"/>
+        <itunes:author>noracats</itunes:author>
+        <itunes:subtitle>Podcastいいよねという話</itunes:subtitle>
+        <itunes:duration>01:43:46</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://noracast.jp/images/artwork-2.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

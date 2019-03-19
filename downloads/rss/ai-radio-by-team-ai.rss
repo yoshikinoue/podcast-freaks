@@ -1,0 +1,135 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:102623686/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:102623686/sounds.rss?before=496628514" rel="next" type="application/rss+xml"/>
+        <title>人工知能ラジオ Team AI Channel</title>
+        <link>http://www.team-ai.com/</link>
+        <pubDate>Thu, 18 Oct 2018 09:45:07 +0000</pubDate>
+        <lastBuildDate>Thu, 18 Oct 2018 09:45:07 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>5000人がメンバーのAI研究会・Team AI 代表石井大輔が、毎回様々なゲストをお迎えし人工知能・機械学習・ディープラーニングとそれらの応用例をお話しします。Talking about A.I., Machine Learning, Deep Learning and their business cases. With great guest everytime.</description>
+        <itunes:subtitle>5000人がメンバーのAI研究会・Team AI 代表石井大輔が、毎回様々なゲストをお迎えし人工知…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>人工知能ラジオ Team AI Channel</itunes:name>
+          <itunes:email>daiearth22@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>人工知能ラジオ Team AI Channel</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000501002523-hhmgn4-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000501002523-hhmgn4-original.jpg</url>
+          <title>人工知能ラジオ Team AI Channel</title>
+          <link>http://www.team-ai.com/</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/516101973</guid>
+      <title>AIビジネスの技術的注意点 Team AI 石井大輔 &amp; 石田レオナルド</title>
+      <pubDate>Thu, 18 Oct 2018 09:45:06 +0000</pubDate>
+      <link>https://soundcloud.com/ai-radio-by-team-ai/ai-team-ai-2</link>
+      <itunes:duration>00:29:47</itunes:duration>
+      <itunes:author>人工知能ラジオ Team AI Channel</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>AIビジネスの技術的注意点 Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ Team AI Channel</itunes:summary>
+      <itunes:subtitle>AIビジネスの技術的注意点 Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ T…</itunes:subtitle>
+      <description>AIビジネスの技術的注意点 Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ Team AI Channel</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/516101973-ai-radio-by-team-ai-ai-team-ai-2.m4a" length="12156539"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000423224616-oificg-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/510444903</guid>
+      <title>Y Combinator Startup School 15のセオリー 3/3 Team AI 石井 大輔</title>
+      <pubDate>Sat, 06 Oct 2018 16:41:44 +0000</pubDate>
+      <link>https://soundcloud.com/ai-radio-by-team-ai/y-combinator-startup-school-15-33-team-ai</link>
+      <itunes:duration>00:20:53</itunes:duration>
+      <itunes:author>人工知能ラジオ Team AI Channel</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Y Combinator Startup School 15のセオリー 3/3 Team AI 石井 大輔 by 人工知能ラジオ Team AI Channel</itunes:summary>
+      <itunes:subtitle>Y Combinator Startup School 15のセオリー 3/3 Team AI 石…</itunes:subtitle>
+      <description>Y Combinator Startup School 15のセオリー 3/3 Team AI 石井 大輔 by 人工知能ラジオ Team AI Channel</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/510444903-ai-radio-by-team-ai-y-combinator-startup-school-15-33-team-ai.m4a" length="8491320"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000415857540-caff5o-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/510444357</guid>
+      <title>Y Combinator Startup School 15のセオリー 2/3 Team AI 石井 大輔</title>
+      <pubDate>Sat, 06 Oct 2018 16:40:10 +0000</pubDate>
+      <link>https://soundcloud.com/ai-radio-by-team-ai/y-combinator-startup-school-15-23-team-ai</link>
+      <itunes:duration>00:15:58</itunes:duration>
+      <itunes:author>人工知能ラジオ Team AI Channel</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Y Combinator Startup School 15のセオリー 2/3 Team AI 石井 大輔 by 人工知能ラジオ Team AI Channel</itunes:summary>
+      <itunes:subtitle>Y Combinator Startup School 15のセオリー 2/3 Team AI 石…</itunes:subtitle>
+      <description>Y Combinator Startup School 15のセオリー 2/3 Team AI 石井 大輔 by 人工知能ラジオ Team AI Channel</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/510444357-ai-radio-by-team-ai-y-combinator-startup-school-15-23-team-ai.m4a" length="6504719"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000415857084-ybpc5s-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/510443613</guid>
+      <title>Y Combinator Startup School 15のセオリー 1/3 Team AI 石井 大輔</title>
+      <pubDate>Sat, 06 Oct 2018 16:38:15 +0000</pubDate>
+      <link>https://soundcloud.com/ai-radio-by-team-ai/y-combinator-startup-school-15-13-team-ai</link>
+      <itunes:duration>00:22:16</itunes:duration>
+      <itunes:author>人工知能ラジオ Team AI Channel</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Y Combinator Startup School 15のセオリー 1/3 Team AI 石井 大輔 by 人工知能ラジオ Team AI Channel</itunes:summary>
+      <itunes:subtitle>Y Combinator Startup School 15のセオリー 1/3 Team AI 石…</itunes:subtitle>
+      <description>Y Combinator Startup School 15のセオリー 1/3 Team AI 石井 大輔 by 人工知能ラジオ Team AI Channel</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/510443613-ai-radio-by-team-ai-y-combinator-startup-school-15-13-team-ai.m4a" length="9078917"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000415855770-wpiu58-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/506443257</guid>
+      <title>海外で悩む人が多いAI業界の詐欺師症候群 Team AI 石井大輔 &amp; 石田レオナルド</title>
+      <pubDate>Fri, 28 Sep 2018 11:51:15 +0000</pubDate>
+      <link>https://soundcloud.com/ai-radio-by-team-ai/ai-team-ai-1</link>
+      <itunes:duration>00:29:03</itunes:duration>
+      <itunes:author>人工知能ラジオ Team AI Channel</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>海外で悩む人が多いAI業界の詐欺師症候群 Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ Team AI Channel</itunes:summary>
+      <itunes:subtitle>海外で悩む人が多いAI業界の詐欺師症候群 Team AI 石井大輔 &amp; 石田レオナルド by 人工…</itunes:subtitle>
+      <description>海外で悩む人が多いAI業界の詐欺師症候群 Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ Team AI Channel</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/506443257-ai-radio-by-team-ai-ai-team-ai-1.m4a" length="11863965"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000412115256-faznsq-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/503472666</guid>
+      <title>最新AI技術の情報収集法 Team AI 石井大輔 &amp; 石田レオナルド</title>
+      <pubDate>Sat, 22 Sep 2018 08:42:10 +0000</pubDate>
+      <link>https://soundcloud.com/ai-radio-by-team-ai/ai-team-ai</link>
+      <itunes:duration>00:30:57</itunes:duration>
+      <itunes:author>人工知能ラジオ Team AI Channel</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>最新AI技術の情報収集法 Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ Team AI Channel</itunes:summary>
+      <itunes:subtitle>最新AI技術の情報収集法 Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ Te…</itunes:subtitle>
+      <description>最新AI技術の情報収集法 Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ Team AI Channel</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/503472666-ai-radio-by-team-ai-ai-team-ai.m4a" length="12634970"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000409372443-mxvaek-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/499245627</guid>
+      <title>AI論文の提出方法ってどんな感じ？Team AI 石井大輔 &amp; 石田レオナルド</title>
+      <pubDate>Thu, 13 Sep 2018 07:58:51 +0000</pubDate>
+      <link>https://soundcloud.com/ai-radio-by-team-ai/aiteam-ai-1</link>
+      <itunes:duration>00:12:23</itunes:duration>
+      <itunes:author>人工知能ラジオ Team AI Channel</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>AI論文の提出方法ってどんな感じ？Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ Team AI Channel</itunes:summary>
+      <itunes:subtitle>AI論文の提出方法ってどんな感じ？Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジ…</itunes:subtitle>
+      <description>AI論文の提出方法ってどんな感じ？Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ Team AI Channel</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/499245627-ai-radio-by-team-ai-aiteam-ai-1.m4a" length="5062846"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000404607198-b5msmy-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/496628514</guid>
+      <title>AIの博士課程ってどんな感じ？Team AI 石井大輔 &amp; 石田レオナルド</title>
+      <pubDate>Fri, 07 Sep 2018 15:42:10 +0000</pubDate>
+      <link>https://soundcloud.com/ai-radio-by-team-ai/aiteam-ai</link>
+      <itunes:duration>00:17:55</itunes:duration>
+      <itunes:author>人工知能ラジオ Team AI Channel</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>AIの博士課程ってどんな感じ？Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ Team AI Channel</itunes:summary>
+      <itunes:subtitle>AIの博士課程ってどんな感じ？Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ …</itunes:subtitle>
+      <description>AIの博士課程ってどんな感じ？Team AI 石井大輔 &amp; 石田レオナルド by 人工知能ラジオ Team AI Channel</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/496628514-ai-radio-by-team-ai-aiteam-ai.m4a" length="7318256"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000401333898-7fv305-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

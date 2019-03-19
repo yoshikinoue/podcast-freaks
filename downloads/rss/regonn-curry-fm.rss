@@ -1,0 +1,2783 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://regonn-curry-fm.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://regonn-curry-fm.github.io/</link>
+    <title>regonn&amp;curry.fm</title>
+    <description>regonnとcurrypurinがデータサイエンス・機械学習(主にKaggle)について話します。新しい働き方や量子コンピュータ、VR等寄り道もしていきます。</description>
+    <media:keywords>データサイエンス, AI, Kaggle, 機械学習, 量子コンピュータ, VR</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <googleplay:author>regonn&amp;curry</googleplay:author>
+    <googleplay:image href="https://regonn-curry-fm.github.io/images/artwork.jpg" />
+    <itunes:subtitle>regonnとcurrypurinがデータサイエンス・機械学習(主にKaggle)について話します。新しい働き方や量子コンピュータ、VR等寄り道もしていきます。</itunes:subtitle>
+    <itunes:author>regonn&amp;curry</itunes:author>
+    <itunes:summary>regonnとcurrypurinがデータサイエンス・機械学習(主にKaggle)について話します。新しい働き方や量子コンピュータ、VR等寄り道もしていきます。</itunes:summary>
+    <itunes:keywords>データサイエンス, AI, Kaggle, 機械学習, 量子コンピュータ, VR</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>regonn&amp;curry</itunes:name>
+      <itunes:email>info@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://regonn-curry-fm.github.io/images/artwork.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>25. Kaggleでのモチベーション</title>
+        <link>https://regonn-curry-fm.github.io/episode/25</link>
+        <pubDate>Thu, 14 Mar 2019 15:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;scrapbox&quot;&gt;&lt;a href=&quot;https://scrapbox.io/regonn-curry/2019%E5%B9%B43%E6%9C%889%E6%97%A5(%E5%9C%9F)20:30%E3%81%8B%E3%82%89%E5%8F%8E%E9%8C%B2%E9%96%8B%E5%A7%8B%E4%BA%88%E5%AE%9A&quot;&gt;Scrapbox&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;お題&quot;&gt;お題&lt;/h2&gt;
+
+&lt;h2 id=&quot;リスナーからの質問&quot;&gt;リスナーからの質問&lt;/h2&gt;
+&lt;p&gt;podキャスト収録前に、２人で打ち合わせはしているのですか？&lt;/p&gt;
+
+&lt;h2 id=&quot;今週のtips&quot;&gt;今週のtips&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;kaggleでのモチベーションの保ち方
+    &lt;ul&gt;
+      &lt;li&gt;ワンアイデアで勝てることがあるので、最後まで諦めない（仮説検証を続ける）ことが大事だと実感した&lt;/li&gt;
+      &lt;li&gt;リーダーボードの上位の人と技術的な差は大きいかもしれないけれど、そのコンペに関して知っていることは必ずしも大きくない
+        &lt;ul&gt;
+          &lt;li&gt;ディスカッションで分かったようなことを言っていても、後からシェイクダウンすることが数多くある&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;パブリックリーダーボードは目安でしかない&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggleの講師を毎週やっています&quot;&gt;Kaggleの講師を毎週やっています&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;来週は、3/12に初級編の講座( &lt;a href=&quot;https://connpass.com/event/123322/&quot;&gt;AI・機械学習ハンズオン 〜実践Kaggle 初級編〜 - connpass&lt;/a&gt; )を、3/13にもくもく会( &lt;a href=&quot;https://connpass.com/event/123660/&quot;&gt;もくもくKaggle #1 - connpass&lt;/a&gt; )をやるので是非参加ください
+    &lt;ul&gt;
+      &lt;li&gt;勉強会で聞かれることが多いのは
+        &lt;ul&gt;
+          &lt;li&gt;初めてコンペする時にどう始めるか&lt;/li&gt;
+          &lt;li&gt;銅メダルをどのように取るか&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggleのkernelのgpuがk80からp100になったらしい&quot;&gt;kaggleのKernelのGPUが、k80からp100になったらしい&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/c/petfinder-adoption-prediction/discussion/83274#485963&quot;&gt;Kernel GPU device changed! | Kaggle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;denaテックコンのパネルディスカッションの動画がアップロードされていた&quot;&gt;DeNAテックコンのパネルディスカッションの動画がアップロードされていた&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=2SN3qktMLAA&quot;&gt;パネルディスカッション：データサイエンスの競技者、Kagglerたちが活躍する職場とは - YouTube&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;最近-scraivスクライブ-を始めた&quot;&gt;最近 &lt;a href=&quot;https://scraiv.com/&quot;&gt;scraiv(スクライブ)&lt;/a&gt; を始めた&lt;/h2&gt;
+&lt;h2 id=&quot;バーチャルマーケット2が開催された&quot;&gt;バーチャルマーケット2が開催された&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1103825749348245504&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;量子コンピュータsdkの-blueqat-をベンチャーから分離してoss化した経緯&quot;&gt;&lt;a href=&quot;https://qiita.com/YuichiroMinato/items/8df9c793e984420ab5c8&quot;&gt;量子コンピュータSDKの Blueqat をベンチャーから分離してOSS化した経緯&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;今週のkaggle&quot;&gt;今週のkaggle&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;カレー
+    &lt;ul&gt;
+      &lt;li&gt;PetFinder
+        &lt;ul&gt;
+          &lt;li&gt;0.442まできた。Kernelのbestスコアが0.453なのでもう少し&lt;/li&gt;
+          &lt;li&gt;Eloが終わってからの10日間でようやく、bestカーネルまでキャッチアップできた感じ&lt;/li&gt;
+          &lt;li&gt;ディスカッションやKernelはそれほど見ていないので、見ながら実験を重ねる予定&lt;/li&gt;
+          &lt;li&gt;今回から、A4サイズの紙のノートを１冊用意して、それにメモを書いていってる。ノートと、先週話したようにgithubuのissueでの管理でとても良い&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;polar_bear の ludwig 対応&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/25</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/25.mp3" length="42551534" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、Kaggleでのモチベーション、Kaggleの講師、scraiv(スクライブ)、バーチャルマーケット2について話しています。</itunes:subtitle>
+        <itunes:duration>44:18</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>24. 1人Discord</title>
+        <link>https://regonn-curry-fm.github.io/episode/24</link>
+        <pubDate>Tue, 05 Mar 2019 11:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;scrapbox&quot;&gt;&lt;a href=&quot;https://scrapbox.io/regonn-curry/2019%E5%B9%B43%E6%9C%881%E6%97%A5(%E9%87%91)20:30%E3%81%8B%E3%82%89%E5%8F%8E%E9%8C%B2%E9%96%8B%E5%A7%8B%E4%BA%88%E5%AE%9A&quot;&gt;Scrapbox&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;お題&quot;&gt;お題&lt;/h2&gt;
+
+&lt;h2 id=&quot;リスナーからの質問&quot;&gt;リスナーからの質問&lt;/h2&gt;
+
+&lt;amp-img alt=&quot;comment&quot; src=&quot;/images/2019-03-05-1.png&quot; width=&quot;600&quot; height=&quot;381&quot; layout=&quot;responsive&quot;&gt;
+&lt;/amp-img&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;MacBookAirから、デスクトップにsshして、kaggleの作業をやっています。&lt;/li&gt;
+  &lt;li&gt;Macを使う１番のメリットは、トラックパッドが使えるので、マウスを使わなくて良いことです&lt;/li&gt;
+  &lt;li&gt;外出時など、全て同じ環境でできるというメリットもある&lt;/li&gt;
+  &lt;li&gt;れごんは Google file stream をファイル置き場で使ってる&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;特徴量の本届いた&quot;&gt;特徴量の本届いた&lt;/h2&gt;
+
+&lt;h2 id=&quot;polar_bear-のバグレポートも届いてる&quot;&gt;polar_bear のバグレポートも届いてる&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/regonn/polar_bear/issues/4&quot;&gt;TypeError: data type “float128” not understood · Issue #4 · regonn/polar_bear&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggle-メンテナンスあったけど何か変更点あった&quot;&gt;Kaggle メンテナンスあったけど、何か変更点あった?&lt;/h2&gt;
+
+&lt;h2 id=&quot;chainer-meetup-09-で-lt-する予定&quot;&gt;Chainer Meetup #09 で LT する予定&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chainer.connpass.com/event/120796/&quot;&gt;Chainer Meetup #09 - connpass&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;LT5分なので Chainer + Julia でもやってみる?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週のtips&quot;&gt;今週のtips&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;１人Discord&lt;/li&gt;
+  &lt;li&gt;メモとかを１人Slackでやっている人が多いと思いますが、カレー(currypurin)はDiscordでやっています&lt;/li&gt;
+  &lt;li&gt;Discordのメリットは以下
+    &lt;ul&gt;
+      &lt;li&gt;チャンネルのカテゴリを作れる、チャンネルを動かせる&lt;/li&gt;
+      &lt;li&gt;メッセージ数の制限がない&lt;/li&gt;
+      &lt;li&gt;画像を貼るとURLが与えられて、githubやscrapboxにurlを貼ると画像になる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週のkaggle&quot;&gt;今週のkaggle&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;カレー
+    &lt;ul&gt;
+      &lt;li&gt;Eloコンペ銅メダル
+        &lt;ul&gt;
+          &lt;li&gt;サブミット選択に失敗してしまい、銅メダルとなってしまった&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;PetFinder始めました
+        &lt;ul&gt;
+          &lt;li&gt;初サブミット&lt;/li&gt;
+          &lt;li&gt;０から自分でコードを書いて(過去コンペのコードを使って)やることにした&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;polar_bear の windows 環境構築 と debug&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/24</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/24.mp3" length="42838881" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、KaggleをMacBookAirでやるときの環境、polar_bearのバグレポート、1人Discordについて話しています。</itunes:subtitle>
+        <itunes:duration>44:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>23. 台風コンペの入賞式</title>
+        <link>https://regonn-curry-fm.github.io/episode/23</link>
+        <pubDate>Mon, 25 Feb 2019 21:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;scrapbox&quot;&gt;&lt;a href=&quot;https://scrapbox.io/regonn-curry/2019%E5%B9%B42%E6%9C%8822%E6%97%A5(%E9%87%91)20:30%E3%81%8B%E3%82%89%E5%8F%8E%E9%8C%B2%E9%96%8B%E5%A7%8B%E4%BA%88%E5%AE%9A&quot;&gt;Scrapbox&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;お題&quot;&gt;お題&lt;/h2&gt;
+
+&lt;h2 id=&quot;台風コンペの入賞式に行ってきました&quot;&gt;台風コンペの入賞式に行ってきました&lt;/h2&gt;
+&lt;amp-img alt=&quot;comment&quot; src=&quot;/images/2019-02-25-1.jpg&quot; width=&quot;852&quot; height=&quot;640&quot; layout=&quot;responsive&quot;&gt;
+&lt;/amp-img&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;台風コンペの概要
+    &lt;ul&gt;
+      &lt;li&gt;台風あり、台風なし画像の二値分類&lt;/li&gt;
+      &lt;li&gt;不均衡データ
+        &lt;ul&gt;
+          &lt;li&gt;台風あり：71,779枚&lt;/li&gt;
+          &lt;li&gt;台風なし：2,172,444枚&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;総参加者(規約への同意者)653名、総投稿者209名&lt;/li&gt;
+      &lt;li&gt;１位の方の手法
+        &lt;ul&gt;
+          &lt;li&gt;２値化した画像と生画像を標準化した画像との２channelの入力&lt;/li&gt;
+          &lt;li&gt;110層のPyramidNet&lt;/li&gt;
+          &lt;li&gt;ミニバッチ作成時、正例のうまく分類できていない画像が多くサンプリングされるようにし、その割合を変えてアンサンブル&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;懇親会&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggleもくもく会麹町に行ってきました&quot;&gt;kaggleもくもく会@麹町に行ってきました&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://globis.connpass.com/event/117702/&quot;&gt;第1回 kaggleもくもく会@麹町 - connpass&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;30人もの人が参加していた&lt;/li&gt;
+      &lt;li&gt;初心者、過去コンペをやる人、開催中のコンペをやる人に別れて作業をした&lt;/li&gt;
+      &lt;li&gt;作業は２時間程度、その後懇親会&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週のtips&quot;&gt;今週のtips&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873118680/&quot;&gt;機械学習のための特徴量エンジニアリング&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;amp-img alt=&quot;comment&quot; src=&quot;/images/2019-02-25-2.png&quot; width=&quot;579&quot; height=&quot;499&quot; layout=&quot;responsive&quot;&gt;
+&lt;/amp-img&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ひと通り読みました
+    &lt;ul&gt;
+      &lt;li&gt;知らないことが多くあり、網羅的に学べるのでとても良い本です&lt;/li&gt;
+      &lt;li&gt;ただ、例えば勾配ブースティングを使う場合にどの特徴量エンジニアリングが必要かということは書いていないので、実務やKaggleなどで実践をつんだことがない人だと、どのエンジニアリングを使えば良いのかということになりそうです&lt;/li&gt;
+      &lt;li&gt;既にデータ分析をされている人が網羅的な知識を得るためとか、この本を読みながらデータ分析に取り組むなどの用途にとてもオススメです。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;polar_bearが成長している&quot;&gt;polar_bearが成長している&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;wakameさんがプルリク送ってくれて圧倒的な成長を実感する
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/regonn/polar_bear/pull/2&quot;&gt;Functionalization of extracting target column and data from training data by wakamezake · Pull Request #2 · regonn/polar_bear&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;github上でコミットしてくれた人に投げ銭できる仕組みが欲しくなったので、NEMとかで作りたい&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;v0.0.5 から optuna と sklearn を導入して、one_hot の閾値も勝手に良い値にして欲しかった&lt;/li&gt;
+  &lt;li&gt;ちょっと、2月中は忙しいので、3月からちゃんとCIの設定とかやっていきたい&lt;/li&gt;
+  &lt;li&gt;あと、julia版も作りたいけど、juliaだとpandas関係なくなるので、ライブラリ名考え中&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;先週紹介した-ludwig-を触ってみた&quot;&gt;先週紹介した &lt;a href=&quot;https://github.com/uber/ludwig&quot;&gt;Ludwig&lt;/a&gt; を触ってみた&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;ただ、データの情報を渡すだけで、titanic のスコアが 0.76
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://gist.github.com/regonn/7e10a93a83940100dfd2e5f280c54a64&quot;&gt;ludwig.ipynb&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;新たな時代を感じた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;steamaim-lab&quot;&gt;&lt;a href=&quot;https://store.steampowered.com/app/714010/Aim_Lab/&quot;&gt;Steam：Aim Lab&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;AI等がFPSのエイム力を鍛えてくれるらしい&lt;/li&gt;
+  &lt;li&gt;お昼にテスト配信してたらカレーちゃんに練習風景を見られた&lt;/li&gt;
+  &lt;li&gt;機械学習つかったサービスで能力がつくようになると面白い
+    &lt;ul&gt;
+      &lt;li&gt;語学学習とか絵の練習とか&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週のkaggle&quot;&gt;今週のkaggle&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;カレー
+    &lt;ul&gt;
+      &lt;li&gt;Eloコンペ
+        &lt;ul&gt;
+          &lt;li&gt;60位くらいになりました&lt;/li&gt;
+          &lt;li&gt;外れ値の影響をもろに受けるコンペなので、Shakeup、Shakedownがありそうですが、最後まで頑張りたい&lt;/li&gt;
+          &lt;li&gt;2/27(水)までのコンペでありもう少し&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Malware
+        &lt;ul&gt;
+          &lt;li&gt;Eloが終わったらやっていきたい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;polar_bearメンテしつつ、性能評価でタイタニックコンペとかにサブミットしたりしてた。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/23</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/23.mp3" length="40953794" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は台風コンペの入賞式、kaggleもくもく会@麹町、機械学習のための特徴量エンジニアリング、polar_bearの成長について話しています。</itunes:subtitle>
+        <itunes:duration>56:52</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>22. Pythonライブラリを作ってみる</title>
+        <link>https://regonn-curry-fm.github.io/episode/22</link>
+        <pubDate>Mon, 18 Feb 2019 16:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;scrapbox&quot;&gt;&lt;a href=&quot;https://scrapbox.io/regonn-curry/2019%E5%B9%B42%E6%9C%8815%E6%97%A5(%E9%87%91)20:30%E3%81%8B%E3%82%89%E5%8F%8E%E9%8C%B2%E9%96%8B%E5%A7%8B%E4%BA%88%E5%AE%9A&quot;&gt;Scrapbox&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;お題&quot;&gt;お題&lt;/h2&gt;
+
+&lt;h2 id=&quot;fastaifastprogress&quot;&gt;&lt;a href=&quot;https://github.com/fastai/fastprogress&quot;&gt;fastai/fastprogress&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;fastaiのプログレスバー&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;特徴量エンジニアリングの書籍がでるっぽい&quot;&gt;特徴量エンジニアリングの書籍がでるっぽい&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1094473293623570432&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;uberludwig&quot;&gt;&lt;a href=&quot;https://github.com/uber/ludwig&quot;&gt;uber/ludwig&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mag.osdn.jp/19/02/15/160000&quot;&gt;米Uber、コードを書かずに深層学習モデルのトレーニングができるツール「Ludwig」を発表 | OSDN Magazine&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;uberが出してきた、コードを書かずに機械学習ができるツール&lt;/li&gt;
+  &lt;li&gt;まだ、あまり情報や記事は出てきてない&lt;/li&gt;
+  &lt;li&gt;今後こういうのが増えてきたら、Kaggleのスコアがベースアップしてきて、より厳しい戦いになっていくのか。それとも、onedayコンペみたいな、いかに早く精度良く作りあげるのができるかみたいな戦いになりそう。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pythonパッケージ作成中&quot;&gt;Pythonパッケージ作成中&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;とりあえず公開できた
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/regonn/polar_bear&quot;&gt;regonn/polar_bear&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Kaggleとかで、csvから読み取ったpandasのデータをそのまま渡すだけで、ワンホットとかnan値をいい感じで処理してくれるライブラリが欲しかった&lt;/li&gt;
+      &lt;li&gt;使用感 &lt;a href=&quot;https://gist.github.com/regonn/9fee0d759afcbe15523685e5ad9b55a3&quot;&gt;polar_bear.ipynb&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;とりあえずタイタニックで、そのまま csv_read した dataframe を渡せば、light_gbm とかで処理できる形にできる&lt;/li&gt;
+          &lt;li&gt;現状タイタニックで正答率6割ぐらいで低めだけど敷居は下がった感じ&lt;/li&gt;
+          &lt;li&gt;他のテーブルデータのコンテストでも試してみたい&lt;/li&gt;
+          &lt;li&gt;名前はpandasをクレンジングしてくれるので白熊(polar_bear)と名付けた&lt;/li&gt;
+          &lt;li&gt;テストとかあんまりなくて、コードも汚いので特徴量エンジニアリング勉強しながらメンテしていきたい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;googleポッドキャストを使ってregonncurryfmを購読してみる---わかめの備忘録&quot;&gt;&lt;a href=&quot;https://wakame1367.hatenablog.com/entry/2019/02/12/003428&quot;&gt;Googleポッドキャストを使ってregonn&amp;amp;curry.fmを購読してみる - わかめの備忘録&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Googleポッドキャストは3倍速で聴ける&lt;/li&gt;
+  &lt;li&gt;iphoneのポッドキャストは最大2倍速なので、より早く聴けると思った&lt;/li&gt;
+  &lt;li&gt;自分もGoogleポッドキャスト使ってる。
+    &lt;ul&gt;
+      &lt;li&gt;そのまま記事部分も表示してくれるのでリンクも飛びやすい&lt;/li&gt;
+      &lt;li&gt;“Trim silence” を使うと無音を飛ばしてくれるからより早く聞けるけど、小さい”っ”とかも無音とみなされるので、ツイッターがツイターって聞こえてしまう。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;signateのランキング&quot;&gt;&lt;a href=&quot;https://signate.jp/rankings&quot;&gt;Signateのランキング&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://signate.jp/rankings-help&quot;&gt;総合ランキング説明 | SIGNATE - Data Science Competition&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週のkaggle&quot;&gt;今週のkaggle&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;新コンペ
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/c/santander-customer-transaction-prediction&quot;&gt;Santander Customer Transaction Prediction | Kaggle&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;特徴も少なく、匿名化されており誰でも参加しやすいコンペ&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/c/santander-customer-transaction-prediction/discussion/80555&quot;&gt;ディスカッション&lt;/a&gt; では、8000人を超える参加者になるのではという予想もされていた&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;カレー
+    &lt;ul&gt;
+      &lt;li&gt;Eloコンペ
+        &lt;ul&gt;
+          &lt;li&gt;Kernelをようやくこえることができた&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;Kaggle の勉強会開催とライブラリ作って終わってた。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/22</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/22.mp3" length="37849648" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は録音失敗して最初のほうが撮れていません。Uberが出してきたLudwigやPythonパッケージの公開、Googleポッドキャスト、Signateランキングについて話しています。</itunes:subtitle>
+        <itunes:duration>52:32</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>21. Podcast生配信はじめました</title>
+        <link>https://regonn-curry-fm.github.io/episode/21</link>
+        <pubDate>Mon, 11 Feb 2019 12:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;scrapbox&quot;&gt;&lt;a href=&quot;https://scrapbox.io/regonn-curry/2019%E5%B9%B42%E6%9C%888%E6%97%A520:30%E3%81%8B%E3%82%89%E5%8F%8E%E9%8C%B2%E9%96%8B%E5%A7%8B%E4%BA%88%E5%AE%9A&quot;&gt;Scrapbox&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;お題&quot;&gt;お題&lt;/h2&gt;
+&lt;h2 id=&quot;今週から始めたこと&quot;&gt;今週から始めたこと&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;twitterでのライブ配信開始&lt;/li&gt;
+  &lt;li&gt;scrapboxを公開&lt;/li&gt;
+  &lt;li&gt;事前に話す内容を公開した&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;dena-tech-conに行ってきました&quot;&gt;&lt;a href=&quot;https://techcon.dena.com/2019/&quot;&gt;DeNA Tech Con&lt;/a&gt;に行ってきました&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1093052626239873024&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Kagglerが入って、既存事業でも新規事業でもできることの幅が広がった。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kepco.co.jp/corporate/pr/2019/0205_1j.html&quot;&gt;関西電力とDeNAが、石炭火力発電所の燃料運用最適化を行うAIソリューションの共同開発等に関して基本合意｜2019｜プレスリリース｜企業情報｜関西電力&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1093057394081320960&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Show RoomのVTuberブースとかVTuberLTもあったみたいですね&lt;/li&gt;
+&lt;/ul&gt;
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1093077409086074880&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;リスナーからのコメント&quot;&gt;リスナーからのコメント&lt;/h2&gt;
+&lt;amp-img alt=&quot;comment&quot; src=&quot;/images/2019021121.png&quot; width=&quot;600&quot; height=&quot;557&quot; layout=&quot;responsive&quot;&gt;
+&lt;/amp-img&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;コメントありがとうございます。#1から聴いてきてもらえるなんて嬉しいです！&lt;/li&gt;
+  &lt;li&gt;今週のtipsとかいいですね！&lt;/li&gt;
+  &lt;li&gt;kaggler-jaで流れてくるtipsも&lt;/li&gt;
+  &lt;li&gt;過去のソリューション
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/EliotAndres/kaggle-past-solutions&quot;&gt;EliotAndres/kaggle-past-solutions&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;過去コンペの上位チームの解法を解説は、私（カレー）のyoutube放送でやりたいですが、勉強の時間がかかりそうなので実力がついたらやりたいです&lt;/li&gt;
+  &lt;li&gt;となりのkagglerもいいですね。是非コメントとかもらいたいので、生放送中の時とかに募集してみましょうかね&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;signateで招待制コンペが開始&quot;&gt;signateで招待制コンペが開始&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://signate.jp/competitions/158&quot;&gt;コンペティション詳細／経済産業省 | SIGNATE - Data Science Competition&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;linuxやwindowswslでbrewが使えるようになった&quot;&gt;LinuxやWindows(wsl)でBrewが使えるようになった&lt;/h2&gt;
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1092231084077506560&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;現状-kite--pycharmwindows--wslbrew-で入れた-python-で動くようにしてある&quot;&gt;現状 Kite + PyCharm(Windows) + wsl(brew で入れた python) で動くようにしてある&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Windows の PyCharm が wsl に対応してくれているので、brewで入れたpythonも動いてくれる&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kite.com/&quot;&gt;Kite - AI-Powered Python Copilot&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;開発にもAIの力を使っていきたい&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;PyCharmのバグでマークダウン表示されなかったり、pandasのデータが表示されないみたいなので、普通にpyファイルで編集している。
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://youtrack.jetbrains.com/issue/PY-25931&quot;&gt;Jupyter Notebook not rendering pandas dataframes properly : PY-25931&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://plugins.jetbrains.com/plugin/7858-pycharm-cell-mode&quot;&gt;pycharm cell mode plugin&lt;/a&gt; を入れればほとんど jupyter みたいに使える&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;julia-academy&quot;&gt;&lt;a href=&quot;https://academy.juliabox.com&quot;&gt;Julia Academy&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Juliaを使ったコースが用意されている(今の所無料)&lt;/li&gt;
+  &lt;li&gt;Julia Computing が提供しているので、そのまま Julia Box が使えて Jupyter Notebook が利用できる&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;量子コンピュータのコンテスト&quot;&gt;量子コンピュータのコンテスト&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;BlueQatも第二回目開催決定&lt;/li&gt;
+&lt;/ul&gt;
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1093484499495612416&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Codeforces で Q# の二回目コンテストも開催
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://codeforces.com/blog/entry/65063&quot;&gt;Announcement: Microsoft Q# Coding Contest – Winter 2019 - Codeforces&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;lightgbmドキュメントを読む生放送完全理解-vrアカデミア---youtube&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=gQgsqW7GEvs&quot;&gt;【LightGBM】ドキュメントを読む生放送【完全理解】 #VRアカデミア - YouTube&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;LightGBMのドキュメントを読むという硬派な生放送が行われていた&lt;/li&gt;
+  &lt;li&gt;コミッターの方がコメントされていたり、とても有益な放送であった&lt;/li&gt;
+  &lt;li&gt;放送者が完全に理解していなくても、放送中に学ぶというコンテンツもあるということがわかった&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週のkaggle&quot;&gt;今週のkaggle&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;新コンペ
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/c/gendered-pronoun-resolution&quot;&gt;Gendered Pronoun Resolution&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/c/dont-overfit-ii&quot;&gt;Don’t Overfit! II&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;カレー
+    &lt;ul&gt;
+      &lt;li&gt;電線コンペ&lt;/li&gt;
+      &lt;li&gt;Eloコンペ&lt;/li&gt;
+      &lt;li&gt;kaggle関連の動画をいくつか作成しyoutubeにアップしました&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;ペットコンペ&lt;/li&gt;
+      &lt;li&gt;kaggle/docker-julia のプルリクにコメントついてきた &lt;a href=&quot;https://github.com/Kaggle/docker-julia/pull/7&quot;&gt;Update to 1.1.0 by regonn · Pull Request #7 · Kaggle/docker-julia&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/343023319881030/&quot;&gt;Kaggle勉強会@Shimane&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;質問や感想は以下のマシュマロよりください&quot;&gt;質問や感想は以下のマシュマロよりください&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://marshmallow-qa.com/regonn_curry&quot;&gt;regonn&amp;amp;curry.fmにマシュマロを投げる | マシュマロ&lt;/a&gt;&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/21</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/21.mp3" length="43708177" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、前回の振り返りで出てきた、Podcastの生配信やScrapboxで先に内容を公開するなど行いました。Dena Tech Con、リスナーからのコメント紹介、Windowsでの開発環境について話しています。</itunes:subtitle>
+        <itunes:duration>01:00:38</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>20. KPTで振り返る</title>
+        <link>https://regonn-curry-fm.github.io/episode/20</link>
+        <pubDate>Mon, 04 Feb 2019 18:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;振り返り&quot;&gt;振り返り&lt;/h2&gt;
+&lt;p&gt;20回目なのでKPTフレームワークで振り返る&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://seleck.cc/kpt&quot;&gt;【徹底解説】正しい「KPT」が仕事の成果を生み出す！進め方のコツ、現場の事例を紹介 | SELECK [セレック]&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;なぜKPT
+        &lt;ul&gt;
+          &lt;li&gt;頻度高いならPDCAとかで数値目標も持っていいかもしれないけど、何回かに1回の頻度とかだったらKPTで問題点とか、何を対応していくかを考えた方が良さそう&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;kkeep&quot;&gt;K(keep)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;Kaggleに触れる機会は増えている&lt;/li&gt;
+  &lt;li&gt;podcastは続けていきたい
+    &lt;ul&gt;
+      &lt;li&gt;勉強会などで、podcast聴いていますという感想はかなりもらえている&lt;/li&gt;
+      &lt;li&gt;podcastで話すことが自分の情報取得という観点から有益&lt;/li&gt;
+      &lt;li&gt;ニュースとかをメモするようになった&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;pproblem&quot;&gt;P(problem)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;今日の一句の俳句欲が最近17Liveで発散されているので必要無くなってきた&lt;/li&gt;
+  &lt;li&gt;毎週だとコンテンツを準備するのが結構しんどい
+    &lt;ul&gt;
+      &lt;li&gt;今週やったことの報告だけになりがち&lt;/li&gt;
+      &lt;li&gt;ゲストを呼んでみる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Kaggleの公開できない制限が発生する&lt;/li&gt;
+  &lt;li&gt;発信の場所はPodcastだけで十分か?&lt;/li&gt;
+  &lt;li&gt;dropbox paper 同時書き込みができない&lt;/li&gt;
+  &lt;li&gt;kagglerのリスナーに聴いてもらえるコンテンツをどのように作っていくか&lt;/li&gt;
+  &lt;li&gt;収益化がなっていない
+    &lt;ul&gt;
+      &lt;li&gt;スポンサー?&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;タイムラグが発生している気がする&lt;/li&gt;
+  &lt;li&gt;ポッドキャストの音声だけだと解説ができない
+    &lt;ul&gt;
+      &lt;li&gt;動画みたいな見せるものがあってもいいのかも&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ポッドキャスト再生数がどれくらいが普通なのかわから&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h3 id=&quot;ttry&quot;&gt;T(try)&lt;/h3&gt;
+&lt;ul&gt;
+  &lt;li&gt;動画コンテンツ&lt;/li&gt;
+  &lt;li&gt;音声での生配信
+    &lt;ul&gt;
+      &lt;li&gt;Discord&lt;/li&gt;
+      &lt;li&gt;YouTube生配信&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Scrapboxで公開してみる&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;気になったニュース&quot;&gt;気になったニュース&lt;/h2&gt;
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1090304738321588224&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;量子コンピュータの日本版プログラミングコンテストも開催されそう
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://blueqat.com/contest1/&quot;&gt;Blueqat | 量子コンピュータソフトウェア開発キット&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jp.techcrunch.com/2019/02/01/jij-fundraising/&quot;&gt;大学発、量子コンピュータ用ソフト開発のJijがANRIから資金調達 | TechCrunch Japan&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週のkaggle&quot;&gt;今週のkaggle&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;カレー
+    &lt;ul&gt;
+      &lt;li&gt;オレシカナイトのコンペ（abematvのデータを分析するコンペ）に出るも入賞できなかった&lt;/li&gt;
+      &lt;li&gt;電線の実験を主に進めた&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCF_3GKr98gkLer3iXJHA0RQ&quot;&gt;youtube始めました&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;自己紹介動画とKaggleのKernelの説明動画を作った&lt;/li&gt;
+          &lt;li&gt;生配信をやってみた&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;Kaggle勉強会開催
+        &lt;ul&gt;
+          &lt;li&gt;県事業の機械学習導入担当の人とか高専の機械学習を研究している人もいて、Kaggle以外の話とかも色々できた&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://github.com/Kaggle/docker-julia/pull/7&quot;&gt;KaggleのJuliaカーネルDockerプルリク Ver1.1 対応&lt;/a&gt;
+            &lt;ul&gt;
+              &lt;li&gt;反応はない&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;Kernelも少し更新&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;unityaiをテストするゲーム障害物タワーを発表ゲームaiの新たなベンチマークへ&quot;&gt;&lt;a href=&quot;https://ledge.ai/unity-obstacle-tower-challenge/&quot;&gt;Unity、AIをテストするゲーム「障害物タワー」を発表。ゲームAIの新たなベンチマークへ&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;macbookairを購入した&quot;&gt;MacBookAirを購入した&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;練習のために、Kaggleは全てこれでやっているけれどとても快適&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/20</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/20.mp3" length="47685349" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、20回を迎えたということで、KPTというフレームワークを使って振り返りを行って今後のコンテンツ等について話しました。</itunes:subtitle>
+        <itunes:duration>01:06:11</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>19. 使ってるツール</title>
+        <link>https://regonn-curry-fm.github.io/episode/19</link>
+        <pubDate>Tue, 29 Jan 2019 09:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;kaggleでsilver取るためにどういう段階を踏んでいけばよいですか&quot;&gt;&lt;a href=&quot;https://note.mu/currypurin/n/n6a3c2bfd27c0&quot;&gt;KaggleでSilver取るためにどういう段階を踏んでいけばよいですか？&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;もう少し詳しくという要望があったので、前回に続きもう一度&lt;/li&gt;
+  &lt;li&gt;kaggleで銀メダルを取るのは難しいと思う
+    &lt;ul&gt;
+      &lt;li&gt;「銀メダル安定までに４年かかった」というツイートがあった&lt;/li&gt;
+      &lt;li&gt;一方で、「全期間（約3ヵ月）公開カーネルをしっかり読んで真面目に参加すれば取れる」とのツイートも&lt;/li&gt;
+      &lt;li&gt;全期間、公開カーネルをしっかり読んで理解するのは、はじめのうちは時間がかかって難しいけれど、慣れてくるとやっていることがわかるようになるので時間がかからなくなる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;テーブルデータのコンペと画像データのコンペは別物（一部共通点もある）
+    &lt;ul&gt;
+      &lt;li&gt;テーブルデータの場合は、kaggleのソリューションからほぼ全てを学ぶことができる
+        &lt;ul&gt;
+          &lt;li&gt;LightGBMなど、ツールのドキュメントは読む必要がある&lt;/li&gt;
+          &lt;li&gt;画像コンペの場合は論文を読むとか、強い人に教えてもらうとかする必要がある&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;画像データのコンペはディープラーニングが必須だと思う&lt;/li&gt;
+      &lt;li&gt;テーブルデータのコンペはLightGBＭだけでも戦える。
+        &lt;ul&gt;
+          &lt;li&gt;戦えるが、ＮＮ系とアンサンブルすると更に強くなる&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;チームマージは本当にお勧め
+    &lt;ul&gt;
+      &lt;li&gt;チームマージするデメリットはほとんどない&lt;/li&gt;
+      &lt;li&gt;お互いのモデルのアンサンブルでスコアが改善する&lt;/li&gt;
+      &lt;li&gt;テクニックを交換できる&lt;/li&gt;
+      &lt;li&gt;チーム戦は楽しい&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;カレーちゃんは本を書く時にどんなツール使ってる&quot;&gt;カレーちゃんは本を書く時にどんなツール使ってる?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/kmuto/review&quot;&gt;Re:VIEW&lt;/a&gt; とか?&lt;/li&gt;
+  &lt;li&gt;reviewは使わずにPages（appleのワープロソフト）で書いています
+    &lt;ul&gt;
+      &lt;li&gt;Pagesの良い所
+        &lt;ul&gt;
+          &lt;li&gt;図や写真のレイアウトが簡単。好きな場所に挿入できる。&lt;/li&gt;
+          &lt;li&gt;簡単に他の人にレビューしてもらえる（共有できて、コメントもしてもらえる）&lt;/li&gt;
+          &lt;li&gt;共同作成も可能&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;reviewの使い勝手
+        &lt;ul&gt;
+          &lt;li&gt;gitで差分を管理できるので、複数人でインタラクティブに書くならreviewなどのツールは必須だと思う&lt;/li&gt;
+          &lt;li&gt;１人で書くとか、章ごとに分担して書くとかなら、PagesやWordの方が図や写真を自由にレイアウトできるなど使いやすい点もある&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;plotライブラリは何使ってる&quot;&gt;plotライブラリは何使ってる?&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Kaggle Python Dockerにあるもの(れごんがわかる範囲で)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://bokeh.pydata.org/en/latest/&quot;&gt;Bokeh&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://plot.ly/python/&quot;&gt;Python Graphing Library, Plotly&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://matplotlib.org/&quot;&gt;Matplotlib&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://seaborn.pydata.org/&quot;&gt;seaborn&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/yhat/ggpy&quot;&gt;yhat/ggpy: ggplot port for python&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ストレングスファインダーの結果をjuliaで主成分分析して似た人を探す&quot;&gt;ストレングス・ファインダーの結果をJuliaで主成分分析して似た人を探す&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.regonn.tokyo/julia/2019/01/22/sf-pca.html&quot;&gt;Strengths Finderで上位の強みが似ている人を見つけるためにJuliaでPCA(主成分分析)をしてみた&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;初めて機械学習関連の仕事がもらえそうれごん&quot;&gt;初めて機械学習関連の仕事がもらえそう(れごん)&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;詳しくは話せないけど、3月納品で納品物は公開されるのでそこで話せそう&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggleの講師をすることになりましたカレー&quot;&gt;kaggleの講師をすることになりました(カレー)&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://connpass.com/event/116999/&quot;&gt;【初心者OK】AI・機械学習ハンズオン 〜実践Kaggle〜 - connpass&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;noteで&lt;a href=&quot;https://note.mu/currypurin/n/n82ddbc384091?current_menu_id=1606&amp;amp;creator_urlname=currypurin&quot;&gt;お仕事依頼&lt;/a&gt;を書いていたら、声をかけてもらえた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;東京でkaggleもくもく会の開催が告知されていた&quot;&gt;東京でkaggleもくもく会の開催が告知されていた&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://globis.connpass.com/event/117702/&quot;&gt;第1回 kaggleもくもく会@麹町 - connpass&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週のkaggle&quot;&gt;今週のkaggle&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;引き続き解析ノート更新
+        &lt;ul&gt;
+          &lt;li&gt;やっとグラフ表示ぐらい&lt;/li&gt;
+          &lt;li&gt;コメントと up vote もらえてる&lt;/li&gt;
+          &lt;li&gt;読んでるカーネルの表記が間違ってるところをコメントで指摘したり&lt;/li&gt;
+          &lt;li&gt;kernel と discussion で銅メダル1枚ずつもらえた&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;カレー
+    &lt;ul&gt;
+      &lt;li&gt;Eloコンペに主に取り組んでいる
+        &lt;ul&gt;
+          &lt;li&gt;あまり印象が良くないコンペだったが、取り組んでみて良いコンペかもしれないと思った&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;オレシカナイト用のコードの準備もした&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;寒の内点滅続く赤信号 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/19</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/19.mp3" length="34577352" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、「KaggleでSilverを取るために」の続き、本を書くときのツール、グラフ描画ライブラリについて話しました。</itunes:subtitle>
+        <itunes:duration>47:58</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>18. KaggleでSilver取るために</title>
+        <link>https://regonn-curry-fm.github.io/episode/18</link>
+        <pubDate>Sat, 19 Jan 2019 10:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;kaggleでsilver取るためにどういう段階を踏んでいけばよいですかカレーちゃんnote&quot;&gt;&lt;a href=&quot;https://note.mu/currypurin/n/n6a3c2bfd27c0&quot;&gt;KaggleでSilver取るためにどういう段階を踏んでいけばよいですか？｜カレーちゃん｜note&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Kaggleに取り組みながら、少しづつ実力をつけるのが良いと思う&lt;/li&gt;
+  &lt;li&gt;最近kaggle参加人数が増えているので、難易度が上がっているのか。それともコンペ数が増えているので易化しているのか興味がある&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;リスナーからのコメント&quot;&gt;リスナーからのコメント&lt;/h2&gt;
+
+&lt;amp-img alt=&quot;comment&quot; src=&quot;/images/2019-01-19-18-comment.jpg&quot; width=&quot;600&quot; height=&quot;329&quot; layout=&quot;responsive&quot;&gt;
+&lt;/amp-img&gt;
+
+&lt;p&gt;今回から毎回続けていきたい&lt;/p&gt;
+
+&lt;h2 id=&quot;今週のkaggle&quot;&gt;今週のkaggle&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;カレー
+    &lt;ul&gt;
+      &lt;li&gt;帰省していたのであまりkaggleができていない&lt;/li&gt;
+      &lt;li&gt;Eloコンペやマルウェアコンペにも手をつけつつ、電線コンペに取り組んでいる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/regonn/analysis-note-by-regonn&quot;&gt;恋言の解析のーと(Analysis note by regonn) 随時更新 | Kaggle&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;日本語でカーネル書いてる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggler-jaの質問が止まっているので答えてあげたい&quot;&gt;kaggler-jaの質問が止まっているので答えてあげたい&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Kaggle画像コンペだと、どれくらいのGPU使っているか？
+    &lt;ul&gt;
+      &lt;li&gt;カレー
+        &lt;ul&gt;
+          &lt;li&gt;1080ti 1枚&lt;/li&gt;
+          &lt;li&gt;以前の台風コンペでのチームの人達もだいたい1枚&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;新ロゴ作成で機械学習系の処理してみた&quot;&gt;新ロゴ作成で機械学習系の処理してみた&lt;/h2&gt;
+
+&lt;p&gt;amp対応で1200px以上のロゴ画像が欲しかった。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.whatfontis.com/&quot;&gt;What Font Is - the best font finder tool&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;画像からフォントを探してくれるサービス&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/movehand/raisr&quot;&gt;GitHub - movehand/raisr: A Python implementation of RAISR&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;googleが発表した解像度を上げるraisrのpython実装&lt;/li&gt;
+      &lt;li&gt;高解像度の画像をトレーニングデータで学習させる必要がある&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;できたもの&lt;/li&gt;
+&lt;/ul&gt;
+&lt;amp-img alt=&quot;Logo&quot; src=&quot;/images/logo.png&quot; width=&quot;300&quot; height=&quot;300&quot; layout=&quot;fixed&quot;&gt;
+&lt;/amp-img&gt;
+
+&lt;h2 id=&quot;オレシカナイトデータコンペティションvol2に参加します&quot;&gt;&lt;a href=&quot;https://cyberagent.connpass.com/event/114300/&quot;&gt;オレシカナイトデータコンペティションvol.2&lt;/a&gt;に参加します&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;1月26日（土）の１日で開催&lt;/li&gt;
+  &lt;li&gt;AbemaTVのデータをもとに、配信される広告が実際にどれくらい閲覧されるか予測&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;勉強会開催&quot;&gt;勉強会開催&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/2254753044766864/&quot;&gt;Kaggle Knight Matsue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kaggleのもくもく会&lt;/li&gt;
+  &lt;li&gt;松江のオープンソースラボで1/27(日)開催&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+&lt;p&gt;足早に雪の降る街通りすぐ 恋言&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/18</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/18.mp3" length="30492094" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、KaggleでSilverを取るために、今週のKaggle、GPUの数、新しいロゴ作成で使った機械学習系処理について話しました。</itunes:subtitle>
+        <itunes:duration>31:43</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>17. 受験の思い出</title>
+        <link>https://regonn-curry-fm.github.io/episode/17</link>
+        <pubDate>Mon, 14 Jan 2019 16:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;リスナーからの質問&quot;&gt;リスナーからの質問&lt;/h2&gt;
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1081006178925080576&quot;&gt;
+&lt;/amp-twitter&gt;
+&lt;ul&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;あんまり真剣に取り組めてなかったかも&lt;/li&gt;
+      &lt;li&gt;数学は好きで数学の先生から数学の面白い問題とか個別に出してもらって解いてたりした&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;カレー
+    &lt;ul&gt;
+      &lt;li&gt;勉強は、高校３年生の時に代ゼミのパーフェクＴＶで見ることができるやつで頑張った。&lt;/li&gt;
+      &lt;li&gt;北海道の大学と東京の大学のどちらに行くか、とても悩みました。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;技術者はどこでアウトプットすると幸せになれるか&quot;&gt;技術者はどこでアウトプットすると幸せになれるか？&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;はてブロかnoteか、技術者はどこで技術ブログを書くと幸せになれる？
+    &lt;ul&gt;
+      &lt;li&gt;Qiita、はてなブログ、note、個人ブログを使い分け&lt;/li&gt;
+      &lt;li&gt;はてなブログとnoteの違い
+        &lt;ul&gt;
+          &lt;li&gt;markdownで書けるか、コードが綺麗にかけるか、課金等&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;技術ブログと私的なことを書く場所を分けるという動きが観測される&lt;/li&gt;
+  &lt;li&gt;noteは課金してプライベートなこともかきやすい&lt;/li&gt;
+  &lt;li&gt;kagglerはどうしてもブログでのアウトプットよりも、kaggleへのアウトプットを優先しがち&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;alis&quot;&gt;&lt;a href=&quot;https://alis.to/&quot;&gt;ALIS&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;全カテゴリの記事を投稿できるようになった&lt;/li&gt;
+  &lt;li&gt;今年は暗号通貨関連の技術サービスが増えそう。暗号通貨下落でDappsのトランザクション手数料が下がったりして、サービスが参入しやすくなっている&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;2018年量子コンピュータ総集編&quot;&gt;&lt;a href=&quot;https://blog.mdrft.com/post/1070&quot;&gt;2018年量子コンピュータ総集編&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;IBMの発表もあったので2018年のまとめと2019年の動き確認しとく&lt;/li&gt;
+  &lt;li&gt;1回目の時に話していたslackも現在は Blueqat という名前になった。&lt;/li&gt;
+  &lt;li&gt;このMDR社が作ってる Blueqat というライブラリが最初の汎用量子プログラミングシミュレータとして丁度良い。
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/mdrft/Blueqat&quot;&gt;mdrft/Blueqat&lt;/a&gt; が量子ゲートモデル&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/mdrft/Wildqat&quot;&gt;mdrft/Wildqat&lt;/a&gt; が量子アニーリングモデル&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;現状だと数独が解けるレベル
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/gyu-don/items/dbe005fd5099bfd8e946&quot;&gt;以前作った4x4の数独を新しいWildqatに移植してみた - Qiita&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;numerai&quot;&gt;&lt;a href=&quot;https://numer.ai/homepage&quot;&gt;Numerai&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;機械学習エンジニアが儲けるにはの話&lt;/li&gt;
+  &lt;li&gt;早い話がスタッキングで色んなデータサイエンティストが作ったモデルで投資すれば儲かりそうじゃない?というプロジェクト&lt;/li&gt;
+  &lt;li&gt;最初の方は良いモデルを作ればお金がもらえていたが、現在のルールだと実際にNMRをベットして、実際のライブLoglossが自分の設定した基準を超えたらお金が貰える。だめだったら、そのNMRは溶けてしまう。https://numer.ai/learn&lt;/li&gt;
+  &lt;li&gt;以前、Kaggleユーザ相手にNMRをエアードロップして問題にもなってた&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;optuna-v06-リリース&quot;&gt;&lt;a href=&quot;https://github.com/pfnet/optuna/releases&quot;&gt;Optuna v0.6 リリース&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Optuna v0.6 リリース
+    &lt;ul&gt;
+      &lt;li&gt;Lightgbm.py のクロスバリデーション対応&lt;/li&gt;
+      &lt;li&gt;Keras対応の向上&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;KaggleのDockerにも取り込まれるPRはある
+    &lt;ul&gt;
+      &lt;li&gt;現在 Optuna 開発メンバーが引き継ごうとしているみたい&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/Kaggle/docker-python/pull/411&quot;&gt;install optuna by suk1yak1 · Pull Request #411 · Kaggle/docker-python&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;今年は python 側は chainer と optuna 触っていきたい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;17live&quot;&gt;17Live&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;れごんさんの配信を視聴した&lt;/li&gt;
+  &lt;li&gt;れごんさんの配信は、下半分がキャラで、上半分が俳句を書くエリアになっていて独特&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;技術書典６&quot;&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf06&quot;&gt;技術書典６&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;4月14日(日)11:00~17:00&lt;/li&gt;
+  &lt;li&gt;池袋サンシャインシティ２階&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;勉強会開催&quot;&gt;勉強会開催&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/events/2254753044766864/&quot;&gt;Kaggle Knight Matsue&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Kaggleのもくもく会&lt;/li&gt;
+  &lt;li&gt;松江のオープンソースラボという無料で使えるスペースが改修工事でできてなかったけど再開&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;atcoder-caddi-2018-for-beginners-c問題を-julia-言語で解いてみた&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=5YQNeeY2chM&amp;amp;t=1s&quot;&gt;AtCoder CADDi 2018 for Beginners C問題を Julia 言語で解いてみた&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;冬の朝声援聞こえ散歩道  恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/17</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/17.mp3" length="44308867" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、受験時代の思い出、アウトプットの場所、量子コンピュータについて話しました。</itunes:subtitle>
+        <itunes:duration>01:01:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>16. 新年の抱負</title>
+        <link>https://regonn-curry-fm.github.io/episode/16</link>
+        <pubDate>Mon, 07 Jan 2019 21:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;今年の目標&quot;&gt;今年の目標&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;Julia ライブラリ開発&lt;/li&gt;
+      &lt;li&gt;Kaggle
+        &lt;ul&gt;
+          &lt;li&gt;メダル圏内に一度でも入る(最終的な順位は別)&lt;/li&gt;
+          &lt;li&gt;カーネルでメダルを取る
+            &lt;ul&gt;
+              &lt;li&gt;実は日本語でも日本人 Kaggler もそれなりに多いので、メダルは取れるのでは？&lt;/li&gt;
+              &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/kiyo22/eda-script-67-analyst-in-japanese&quot;&gt;eda script 67 analyst in Japanese | Kaggle&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;VR
+        &lt;ul&gt;
+          &lt;li&gt;Web エンジニアの収入の 3 割を VR からの収入にしたい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;俳句
+        &lt;ul&gt;
+          &lt;li&gt;一日一句&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;カレー
+    &lt;ul&gt;
+      &lt;li&gt;Kaggle
+        &lt;ul&gt;
+          &lt;li&gt;Kaggle マスターになるべく早くなる&lt;/li&gt;
+          &lt;li&gt;Kaggle グランドマスターになる&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;新しいことに挑戦したい&lt;/li&gt;
+      &lt;li&gt;お金を稼ぐ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週読んだブログ&quot;&gt;今週読んだブログ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wakame1367.hatenablog.com/entry/2018/12/30/172446&quot;&gt;Google トレンド(Kaggle)を見て１年を振り返ってみる - わかめの備忘録&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Kaggle 関連の出来事があった時に、Google トレンドでピークになっていて面白い&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://wakame1367.hatenablog.com/entry/2018/12/30/172446#%E6%8A%80%E8%A1%93%E6%9B%B8%E5%85%B8%EF%BC%94%E3%81%AB%E3%81%A6Kaggle%E3%83%81%E3%83%A5%E3%83%BC%E3%83%88%E3%83%AA%E3%82%A2%E3%83%AB%E6%9C%AC%E3%81%8C%E3%83%90%E3%82%BA%E3%82%8B&quot;&gt;Google トレンド(Kaggle)を見て１年を振り返ってみる - わかめの備忘録&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;Kaggle のチュートリアルを note で公開したときに THEGUILD 代表の深津さんが twitter でつぶやいてくれて、ばずった。インフルエンサーに紹介してもらったのは初で、こんなに影響力があるんだと感じる体験だった。&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;カレーのフォロワー数の推移もトレンドと重なって面白い&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1079343458584678400&quot;&gt;
+
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;そういえば、qrunch.io と qrunch.net に分裂した
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qrunch.net/&quot;&gt;https://qrunch.net/&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;習慣化アプリ&quot;&gt;習慣化アプリ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://play.google.com/store/apps/details?id=com.despdev.quitzilla&amp;amp;hl=ja&quot;&gt;Quitzilla:　悪い癖や依存症を解消 - Google Play のアプリ&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;悪い習慣を見えるようにして、どれだけ達成しているかを見えるようにしてくれる
+        &lt;ul&gt;
+          &lt;li&gt;布団にスマホ持って寝る時間が遅くなるのでこれで意識するようにしている&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週よんだ本&quot;&gt;今週よんだ本&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2F9ug8w&quot;&gt;深層学習 (アスキードワンゴ)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.clippings.io/&quot;&gt;clippings.io&lt;/a&gt; っていうサービスを使い出した
+    &lt;ul&gt;
+      &lt;li&gt;Kindle のハイライトやメモをテキストや EverNote に書き出してくれる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.regonn.tokyo/amazon/2018/12/15/amazon.html&quot;&gt;2018 年に Amazon で買った 271 件を公開する&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2TAV1pQ&quot;&gt;現場で使える！PyTorch 開発入門 深層学習モデルの作成とアプリケーションへの実装&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Jupyter Notebook のサンプルコードがあり、ディープラーニングを学んだことがあれば、あっという間に読める&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;daigo-のニコニコ動画に契約しているけど動画溜まってたので見てた&quot;&gt;DaiGo のニコニコ動画に契約しているけど、動画溜まってたので見てた&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;生産性を上げる作業部屋
+    &lt;ul&gt;
+      &lt;li&gt;リラックスと作業するものを変える等&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;input の適した時間帯
+    &lt;ul&gt;
+      &lt;li&gt;10 時～ 14 時&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;カレーも DaiGo さん動画を見始めました&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週の-kaggle&quot;&gt;今週の kaggle&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ほとんどできなかった&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;julia-v11-の-rc-版リリース&quot;&gt;Julia v1.1 の rc 版リリース&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/JuliaLang/julia/releases/tag/v1.1.0-rc1&quot;&gt;Release v1.1.0-rc1 · JuliaLang/julia&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;そこまで破壊的な変更はない感じ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;競技プログラミングatcoder-beginner-contest-115-d-問題を-julia-で解く&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=1ONpCPN-IR8&quot;&gt;【競技プログラミング】AtCoder Beginner Contest 115 D 問題を Julia で解く&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;vtuber-17live-も無事始まった&quot;&gt;&lt;a href=&quot;http://17.media/share/profile/51c30330-68ec-4ae3-a74d-08f7c6dd8c60?lang=ja-JP&quot;&gt;VTuber 17Live も無事始まった&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;p&gt;お正月水鳥達の声高く 恋言&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/16</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/16.mp3" length="48314727" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、2019年の目標、読んだ記事・書籍について話しました。</itunes:subtitle>
+        <itunes:duration>01:07:04</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>15. 2018年を振り返る</title>
+        <link>https://regonn-curry-fm.github.io/episode/15</link>
+        <pubDate>Sat, 29 Dec 2018 18:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;今年１年を振り返る&quot;&gt;今年１年を振り返る&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;3月島根移住&lt;/li&gt;
+      &lt;li&gt;4月 Kaggle Knight Matsue 開催&lt;/li&gt;
+      &lt;li&gt;5月初の海外技術カンファレンス Ruby X Elixir Conf Taiwan 2018&lt;/li&gt;
+      &lt;li&gt;7月フリーランスになる&lt;/li&gt;
+      &lt;li&gt;8月VRに目覚める&lt;/li&gt;
+      &lt;li&gt;9月ポッドキャスト開始&lt;/li&gt;
+      &lt;li&gt;11月Vnos加入&lt;/li&gt;
+      &lt;li&gt;12月VTuberハッカソン全国大会 + コルクラボ &amp;amp;TAG加入&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;カレー
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://note.mu/currypurin/n/n159a2b50736a&quot;&gt;2018年の自分を振り返ってみる｜カレーちゃん｜note&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週のkaggle&quot;&gt;今週のKaggle&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;電線コンペ
+    &lt;ul&gt;
+      &lt;li&gt;金メダル圏に入った&lt;/li&gt;
+      &lt;li&gt;良いコンペだと思うが参加者がすくない&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;メモの魔力前田裕二&quot;&gt;&lt;a href=&quot;https://amzn.to/2EU2SdZ&quot;&gt;メモの魔力（前田裕二）&lt;/a&gt;&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1078570320791912448&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://toyokeizai.net/articles/-/253257&quot;&gt;前田裕二氏｢GAFAには､弱点があると思う｣ | 東洋経済オンライン&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;コミュニティについての話がある
+        &lt;blockquote&gt;
+          &lt;p&gt;また、あまりにコミュニティー規模が大きくなってきてリーダーとファンの間の双方向性が成立しなくなってきた場合においては、今度は「ファン同士の双方向性」によって、コミュニティーのエンゲージメントを保つこともできます。&lt;/p&gt;
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+      &lt;li&gt;あとは、GAFAの先に来るものの話&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SHOWROOMはTech Labという研究部署があって、ここにすごい人達が揃ってる&lt;/li&gt;
+  &lt;li&gt;バーチャル蠱毒みたいなえげつない事もしてたり&lt;/li&gt;
+  &lt;li&gt;前田さん最近バ美肉してVTuberになってた&lt;/li&gt;
+&lt;/ul&gt;
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1078189902540361728&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;vtuber&quot;&gt;VTuber&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;https://17media.jp/&quot;&gt;17Live&lt;/a&gt; というところで VLiver として活動できるようになりました。&lt;/p&gt;
+
+&lt;h2 id=&quot;チョコ入りマシュマロ&quot;&gt;チョコ入りマシュマロ&lt;/h2&gt;
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1077107964866002944&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+&lt;p&gt;見つめれど何も言わぬや冬林檎 恋言&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/15</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/15.mp3" length="42346099" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、2018年振り返り、Kaggleのコンペ、メモの魔力(前田裕二)について話しました。</itunes:subtitle>
+        <itunes:duration>50:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>14. PLAsTiCCコンペを終えて</title>
+        <link>https://regonn-curry-fm.github.io/episode/14</link>
+        <pubDate>Sun, 23 Dec 2018 12:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;コルクラボの話&quot;&gt;コルクラボの話&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.regonn.tokyo/cork/2018/12/09/cork.html&quot;&gt;コルクラボの5期生になれたので、初回説明会の内容と今後やっていきたいこと&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;the-agile-guild&quot;&gt;The Agile Guild&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2QKl4xN&quot;&gt;カイゼン・ジャーニー&lt;/a&gt; も書いてる 市川さんが立ち上げているギルド&lt;/li&gt;
+  &lt;li&gt;今年できたらしい&lt;/li&gt;
+  &lt;li&gt;アドベントカレンダーもやってる
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2018/the-agile-guild&quot;&gt;The Agile Guild(TAG) Advent Calendar 2018 - Qiita&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;アドベントカレンダー&quot;&gt;アドベントカレンダー&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;kaggleAdventCalenderのその１が全て埋まり、その２ができた&lt;/li&gt;
+  &lt;li&gt;kaggleの人が、AdventCalenderについて、twitterでつぶやいていた。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1075889335994605570&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;plasticcコンペ&quot;&gt;plasticcコンペ&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;銀メダルを獲得&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1074819157093343232&quot;&gt;
+&lt;/amp-twitter&gt;
+&lt;ul&gt;
+  &lt;li&gt;チームマージ後の１週間でスコアが0.902から0.826まで上がり、学びが大きかった。&lt;/li&gt;
+  &lt;li&gt;コンペの反省会&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggleの新コンペ&quot;&gt;kaggleの新コンペ&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/c/vsb-power-line-fault-detection/kernels&quot;&gt;VSB Power Line Fault Detection | Kaggle&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;１日２サブミットの制限が特殊&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;将棋の竜王戦第７局が終了&quot;&gt;将棋の竜王戦第７局が終了&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;私が将棋を真剣にやっていた、２０年くらいまえと何もかも違いすぎた。&lt;/li&gt;
+  &lt;li&gt;ネット配信、ソフトの評価値、色々な人がリアルタイムで解説している&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週の活動&quot;&gt;今週の活動&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;一応1日1カーネルやってる
+    &lt;ul&gt;
+      &lt;li&gt;少しアウトプットを意識してTODOとかコメントも書いてる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=ODwSNHCWKEA&quot;&gt;自然言語処理を学ぼう #7 サービスデプロイ編 - YouTube&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.regonn.tokyo/julia/2018/12/19/hyperopt.html&quot;&gt;Optuna使いたいけど、Juliaなので Hyperopt.jl でハイパーパラメータの最適な値を探す(Julia 1.0)&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;Julia メジャーどころのライブラリは 1.0 対応してるんだけど、未対応のも多くて結構大変だった&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vr界隈&quot;&gt;VR界隈&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/news/articles/1812/20/news131.html&quot;&gt;VR向け3Dアバターフォーマット「VRM」、国内13社が推進コンソーシアムを発足　任天堂もオブザーバーに - ITmedia NEWS&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;冬の月灯台点かずとも白し 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/14</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/14.mp3" length="43309692" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、コミュニティ、KaggleのPLAsTiCCコンペ、将棋の竜王戦について話しています。</itunes:subtitle>
+        <itunes:duration>45:05</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>13. インプット&amp;アウトプット</title>
+        <link>https://regonn-curry-fm.github.io/episode/13</link>
+        <pubDate>Fri, 14 Dec 2018 23:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;rebuildfm-で-higepon-さんが-kaggle-の話と-kaggler-ja-についても触れてた&quot;&gt;rebuild.fm で higepon さんが kaggle の話と kaggler-ja についても触れてた&lt;/h2&gt;
+&lt;h2 id=&quot;知的生活の設計&quot;&gt;&lt;a href=&quot;https://amzn.to/2CcG3Ah&quot;&gt;知的生活の設計&lt;/a&gt;&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;インプットのまとめ方を色々考えてる
+    &lt;ul&gt;
+      &lt;li&gt;Linuxでもネイティブアプリを動かしたい(Evernoteが動かない)
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://turtlapp.com/&quot;&gt;Turtl&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.karelie.net/vscode-notes/&quot;&gt;VSNotes&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://scrapbox.io&quot;&gt;scrapbox&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://inkdrop.app/&quot;&gt;Inkdrop&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://boostnote.io/&quot;&gt;Boostnote&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Amazonで2018年に買った商品(271件)を棚卸し中
+    &lt;ul&gt;
+      &lt;li&gt;積読も多い&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ブログがamp対応完全amp化しました&quot;&gt;ブログがamp対応(完全amp化)しました&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://regonn-curry-fm.github.io/&quot;&gt;regonn&amp;amp;curry.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Yattecastを改造して amp 対応
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://blog.regonn.tokyo/podcast/2018/12/12/regonn-cast.html&quot;&gt;Yattecastをamp対応させてPodcastを配信していく&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;以前話してていた機械学習をapiとして公開する方法&quot;&gt;以前話してていた機械学習をAPIとして公開する方法&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;結局サーバーにそのままデプロイしてみることに
+    &lt;ul&gt;
+      &lt;li&gt;Digital Ocean
+        &lt;ul&gt;
+          &lt;li&gt;VPS&lt;/li&gt;
+          &lt;li&gt;結構昔から使ってて使い心地がいい&lt;/li&gt;
+          &lt;li&gt;定額なのでアクセスが集中しても大丈夫&lt;/li&gt;
+          &lt;li&gt;ドメイン設定とかも楽&lt;/li&gt;
+          &lt;li&gt;Amazon Lightsail みたいなもの&lt;/li&gt;
+          &lt;li&gt;あと、環境構築記事が公開されていて、メンテもされているので助かる
+            &lt;ul&gt;
+              &lt;li&gt;&lt;a href=&quot;https://www.digitalocean.com/community/tutorials/initial-server-setup-with-ubuntu-18-04&quot;&gt;Initial Server Setup with Ubuntu 18.04 | DigitalOcean&lt;/a&gt;&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Flask, Nginx, uWSGI&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;作業ログはqrunch.ioでまとめた
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://regonn.qrunch.io/logs/0v0Xr669mh24MChy&quot;&gt;Digital Ocean (Ubuntu) Flask, Nginx, uWSGI&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;また、動画にする予定&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;勝手に自分の振り返り-自分の性格とkaggleの相性実は悪いのかも&quot;&gt;勝手に自分の振り返り) 自分の性格とKaggleの相性実は悪いのかも？&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;毎日アウトプットが出しにくく手を付けるのが億劫になっている可能性もある
+    &lt;ul&gt;
+      &lt;li&gt;カーネルを毎日出していく？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週のkaggle&quot;&gt;今週のkaggle&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;Plasticcコンペチームを組みました&lt;/li&gt;
+  &lt;li&gt;Plasticcコンペ反省会12/19（水）に決定&lt;/li&gt;
+  &lt;li&gt;新コンペ→Microsoft Malware Prediction&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;paypayのキャンペーン終了&quot;&gt;paypayのキャンペーン終了&lt;/h2&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;イヤホンの結び目ほどけ冬日差す 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/13</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/13.mp3" length="35253686" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、知的生活の設計、 インプットとアウトプットのツール、 Kaggleのコンペについて話しています。</itunes:subtitle>
+        <itunes:duration>36:41</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>12. オフ会後</title>
+        <link>https://regonn-curry-fm.github.io/episode/12</link>
+        <pubDate>Wed, 12 Dec 2018 22:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;２人でオフ会しました&quot;&gt;２人でオフ会しました&lt;/h2&gt;
+
+&lt;h2 id=&quot;kaggle-tokyo-meetup-5&quot;&gt;&lt;a href=&quot;https://connpass.com/event/105298/&quot;&gt;Kaggle Tokyo Meetup #5&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.currypurin.com/entry/2018/12/01/133755&quot;&gt;Kaggle Tokyo Meetup #5 参加レポート＆資料のリンク - kaggle 全力でやります&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggle-advent-calendar-2018&quot;&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2018/kaggle&quot;&gt;kaggle Advent Calendar 2018&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;25 日間全部埋まった&lt;/li&gt;
+  &lt;li&gt;どの記事も楽しみ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;vtuber-ハッカソン全国大会&quot;&gt;&lt;a href=&quot;https://panora.tokyo/81964/&quot;&gt;VTuber ハッカソン全国大会&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ツクモ／ASK 賞を受賞&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;コルクラボの-5-期メンバーになれた&quot;&gt;コルクラボの 5 期メンバーになれた&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;これからもコミュニティ運営についてブログとか書いていきたい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;アドベントカレンダーのブログとか書いてる&quot;&gt;アドベントカレンダーのブログとか書いてる&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://blog.regonn.tokyo/programmer/2018/12/05/matsue.html&quot;&gt;島根県松江市に 2018 年 3 月に I ターンしてフリーランスになりました&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ハイパーパラメータ自動最適化ツールoptuna公開&quot;&gt;&lt;a href=&quot;https://research.preferred.jp/2018/12/optuna-release/&quot;&gt;ハイパーパラメータ自動最適化ツール「Optuna」公開&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;これまでやってきた勉強会運営が変わって新しくはじまります&quot;&gt;これまでやってきた勉強会、運営が変わって新しくはじまります&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://data-refinement.connpass.com/event/111486/&quot;&gt;第一回 Ｒによる実証分析・読書会＠渋谷 - connpass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;隔週での開催見込み&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;競技プログラミングも少しコンテンツ作り始めた&quot;&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=edd8gWGJE_g&quot;&gt;競技プログラミングも少しコンテンツ作り始めた&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;怠け癖けふも顔出す小六月 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/12</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/12.mp3" length="43144764" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、Kaggle Tokyo Meetup、 VTuberハッカソン、 アドベントカレンダーについて話しています。</itunes:subtitle>
+        <itunes:duration>45:01</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>11. Vlogはじめました</title>
+        <link>https://regonn-curry-fm.github.io/episode/11</link>
+        <pubDate>Fri, 23 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;三江線アイデアソン&quot;&gt;三江線アイデアソン&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;今年廃線になった三江線&lt;/li&gt;
+  &lt;li&gt;なかなか普段立ち入ることのできない線路とかトンネル内に入ることができる&lt;/li&gt;
+  &lt;li&gt;ドローンは自分のは民家とかも近くて飛ばせなかったけど、事業でドローンを飛ばしている人が本格的なドローンを飛ばしている所を見ることができた&lt;/li&gt;
+  &lt;li&gt;安定してサービスを提供できてお金にも結びつけるアイデアって難しい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;oss-gate-東京ミートアップ-for-red-data-tools-in-speee&quot;&gt;&lt;a href=&quot;https://speee.connpass.com/event/105237/&quot;&gt;OSS Gate 東京ミートアップ for Red Data Tools in Speee&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;朝vr-夜データサイエンス-という風に自分の中で区切ってみたけど良さげ&quot;&gt;朝:VR 夜:データサイエンス という風に自分の中で区切ってみたけど良さげ&lt;/h2&gt;
+
+&lt;h2 id=&quot;vlog-始めてみた&quot;&gt;&lt;a href=&quot;https://medium.com/%E3%83%90%E3%83%BC%E3%83%81%E3%83%A3%E3%83%AB%E4%BF%B3%E4%BA%BA%E6%81%8B%E8%A8%80-%E3%82%8C%E3%81%94%E3%82%93-%E3%81%AEvlog/2018-11-22-vlog-virtual-log-%E3%81%AF%E3%81%98%E3%82%81%E3%81%BE%E3%81%97%E3%81%9F-16cbb2a63ba8&quot;&gt;Vlog 始めてみた&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;海外だと Video + Log で Vlog といって、日記感覚で YouTube に投稿している&lt;/li&gt;
+  &lt;li&gt;それを VTuber で Virtual + Log で Vlog&lt;/li&gt;
+  &lt;li&gt;VTuber で作業しているところも今後上げていきたい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggle-のスコアが上がらなくてつらい&quot;&gt;kaggle のスコアが上がらなくてつらい&lt;/h2&gt;
+
+&lt;h2 id=&quot;pandas-の小技&quot;&gt;pandas の小技&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/nannoki/items/2a8934de31ad2258439d&quot;&gt;Pandas.DataFrame のメモリサイズを削減する（最大で 8 分の 1） [Python] - Qiita&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;特徴を作るときに、pandas をやめて、numpy で処理するようにしたら早くなった&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ポケットに手を入れ横に寒雀 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/11</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/11.mp3" length="21742942" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は、三江線アイデアソン、Apache Arrow、Vlog、Pandasの小技について話しています。</itunes:subtitle>
+        <itunes:duration>30:08</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>10. カレーちゃんの財務省時代の話</title>
+        <link>https://regonn-curry-fm.github.io/episode/10</link>
+        <pubDate>Sun, 18 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;リスナーからの質問&quot;&gt;リスナーからの質問&lt;/h2&gt;
+
+&lt;amp-img alt=&quot;マシュマロ&quot; src=&quot;https://pbs.twimg.com/media/DrxjcLfU0AAFaIx.jpg&quot; width=&quot;600&quot; height=&quot;329&quot; layout=&quot;responsive&quot;&gt;
+&lt;/amp-img&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2PtfgIc&quot;&gt;Ryze トイドローン Tello&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;やすいのと Amazon の評価が良かった&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://amzn.to/2TjivjE&quot;&gt;コントローラー&lt;/a&gt;も一緒に購入&lt;/li&gt;
+      &lt;li&gt;Scrach, Python, Swift でプログラミングもできるらしい&lt;/li&gt;
+      &lt;li&gt;他のドローン触ってないので、比較はできないが安定して飛ばせる
+        &lt;ul&gt;
+          &lt;li&gt;今週末は島根の廃線になった三江線のアイデアソンに参加予定&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://itoc.connpass.com/event/105627/&quot;&gt;11／17-18 　三江線でのＶＲやドローン等の機器を活用したアイディアソンの開催 - connpass&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-img alt=&quot;マシュマロ&quot; src=&quot;https://pbs.twimg.com/media/DrxjkX5U0AA17Qw.jpg&quot; width=&quot;600&quot; height=&quot;329&quot; layout=&quot;responsive&quot;&gt;
+&lt;/amp-img&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ネタは割とあるのですが、何を話して良いか難しい。自分のことなら話しやすいので、遅くに返ってゲームしていた話を。
+    &lt;ul&gt;
+      &lt;li&gt;財務省ではタクシー代金の節約のために、深夜に宿舎へ向かうバスがある( 私が働いていた頃はあった、今はあるか不明。)&lt;/li&gt;
+      &lt;li&gt;バスの発車時刻は、24:30、25:45、27:00 の 3 回&lt;/li&gt;
+      &lt;li&gt;財務省には仮眠スペースがあるので、バスで家に帰って寝るか、仮眠スペースで眠って財務省に泊まるか、大きな決断&lt;/li&gt;
+      &lt;li&gt;私はある意味でとっても勤勉なので、24:30 発のバスで帰って家に着いて 25:30 くらい、そこから桃鉄 2010 やスプラトゥーンをするという生活を送っていた時期があった。&lt;/li&gt;
+      &lt;li&gt;最後の１年は忙しすぎて仮眠室で泊まることも多かった。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggle-の特徴量の管理の仕方&quot;&gt;kaggle の特徴量の管理の仕方&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1062730520696578053&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;特徴のファイルは feather 形式で管理する&lt;/li&gt;
+  &lt;li&gt;csv ファイルは、読み込みがとても遅いので csv は使わないようにする&lt;/li&gt;
+  &lt;li&gt;feather 又は npy 又は pickle&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;特徴量をグループごとに feather のファイルを作って管理する&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;class をつくって、特徴量の作成と特徴量の読み込みは全てそこでやる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;最近リリースされたトリクルを使ってみました&quot;&gt;最近リリースされたトリクルを使ってみました。&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1062996058194595840&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;トリクルでは、トピックごとにアクティビティ（ログ）を書けるサービス&lt;/li&gt;
+  &lt;li&gt;トピックは自分で設定する&lt;/li&gt;
+  &lt;li&gt;私は、kaggle、サブミット、日記、掃除というアクテビティを作ってみた&lt;/li&gt;
+  &lt;li&gt;トピックごとに、github でいう「草を生やす」ことができるので、毎日やろうという気になる
+    &lt;ul&gt;
+      &lt;li&gt;習慣化のためには、毎日継続することが大事（続ける習慣より）&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;基本的には個人でアクティビティを記録するだけで、他社との関わりは知り合いのアクティビティのうち気になるものをサブスクライブする程度だと思われる。&lt;/li&gt;
+  &lt;li&gt;収益化の仕組みが現状なさそうなので、心配。&lt;/li&gt;
+  &lt;li&gt;Twitter から流入があるといいけど、mastodon と同じ様に追いかけたい人が Twitter のままだとなかなか移行に踏み込めない。&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://minchalle.com/&quot;&gt;みんチャレ - 三日坊主防止アプリ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1062627468169818113&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;ちょっと話はずれるけど、複数のプラットフォームへ投稿するのが面倒問題&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;特に Valu みたいな外部 API 公開してない場合なども面倒&lt;/li&gt;
+      &lt;li&gt;ifttt みたいに自動化もできるけど、元の投稿をどこにするかも迷う&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;voicy-のチャンネル開設申し込みしてみました２回目&quot;&gt;voicy のチャンネル開設申し込みしてみました（２回目）&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1062613698919882752&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;たまに voicy のようなメディアで、思いっきり話したくなる&lt;/li&gt;
+  &lt;li&gt;過去の遺産が残っている &lt;a href=&quot;https://voicy.jp/channel/413&quot;&gt;れごん / Voicy（ボイシー）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;れごんはコルクラボの 5 期生に応募&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1063308508769148928&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;新世界読みました&quot;&gt;&lt;a href=&quot;https://amzn.to/2zeiNjp&quot;&gt;新世界&lt;/a&gt;読みました&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1063308909463490560&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;西野さんが良く書いている、貯信時代という信用の話やクラウドファウンディングの話は１度は読むと良い。&lt;/li&gt;
+  &lt;li&gt;日本最大のオンラインサロンの話も読める&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;python-環境どうしてる&quot;&gt;Python 環境どうしてる？&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;最近 pyenv + anaconda から &lt;a href=&quot;https://pipenv-ja.readthedocs.io/ja/translate-ja/&quot;&gt;Pipenv&lt;/a&gt; に乗り換えた&lt;/li&gt;
+  &lt;li&gt;Ruby の Gemfile みたいにパッケージ管理ができるようになったので良さげ&lt;/li&gt;
+  &lt;li&gt;私は anaconda のみで、適当にインストールしちゃっています&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;冬帽子朝の苦手な君を待つ 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/10</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/10.mp3" length="44939754" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回はドローン、カレーちゃんの財務省時代の話、トリクル、Voicy、西野 亮廣の新著 新世界、pipenvについて話しています。</itunes:subtitle>
+        <itunes:duration>1:02:28</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>9. カレーちゃんのイベント報告</title>
+        <link>https://regonn-curry-fm.github.io/episode/9</link>
+        <pubDate>Fri, 09 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;台風コンペ反省会やりました&quot;&gt;台風コンペ反省会やりました&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;９人が参加し、情報交換&lt;/li&gt;
+  &lt;li&gt;主催者の方にも参加してもらえて、どうしてこのコンペを参加することになったのかや、データの概要などを教えてもらった&lt;/li&gt;
+  &lt;li&gt;参加者の多くの方がこの podcast のリスナーだった&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;データサイエンティスト養成読本ビジネス活用編刊行記念イベントに参加&quot;&gt;データサイエンティスト養成読本ビジネス活用編刊行記念イベントに参加&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;kaggler の業務への活用
+    &lt;ul&gt;
+      &lt;li&gt;Kaggle マスターの方は引き出しがものすごく多い&lt;/li&gt;
+      &lt;li&gt;Kaggle マスターは、PoC（概念実証）のフェーズにいてもらえると、示唆が得られる。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ピープルアナリティクス&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mgram.me/ja/&quot;&gt;超精密な性格診断 | 自分を構成する 8 性格をエムグラムで診断&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.16personalities.com/ja&quot;&gt;無料性格診断テスト、性格タイプ詳細説明、人間関係およびキャリアのアドバイス | 16Personalities&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;農家の手伝い&quot;&gt;農家の手伝い&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1060397374428741632&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;確率プログラミング&quot;&gt;確率プログラミング&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tensorflow/probability/blob/master/tensorflow_probability/python/edward2/README.md&quot;&gt;probability/README.md at master · tensorflow/probability&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;TensorFlow にとりことりこまれ取り込まれた&lt;/li&gt;
+  &lt;li&gt;ベイジアンニューラルネットワーク構築中&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggle-の新コンペ&quot;&gt;kaggle の新コンペ&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1059953240010383360&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;julia-102-リリース&quot;&gt;&lt;a href=&quot;https://github.com/JuliaLang/julia/releases/tag/v1.0.2&quot;&gt;julia 1.0.2 リリース&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;2018-kaggle-ml--ds-survey-challenge&quot;&gt;2018 Kaggle ML &amp;amp; DS Survey Challenge&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1060853371370754048&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;回答者は、アメリカ、インド、中国の順に多い&lt;/li&gt;
+  &lt;li&gt;日本は１０番目&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/aakashnain/is-it-better-than-2017&quot;&gt;Is it better than 2017?&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;振り込みはいつものところ冬の入 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/9</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/9.mp3" length="25106159" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回はカレーちゃんのイベント報告、確率プログラミング、新Kaggleコンペについて話してます。</itunes:subtitle>
+        <itunes:duration>34:53</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>8. 二人の名前の由来</title>
+        <link>https://regonn-curry-fm.github.io/episode/8</link>
+        <pubDate>Sat, 03 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;台風コンペ終了&quot;&gt;台風コンペ終了&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;スコアなしの最下位&lt;/li&gt;
+  &lt;li&gt;やったこと → &lt;a href=&quot;https://scrapbox.io/typhoon-currypurin/%E5%8F%B0%E9%A2%A8%E3%82%B3%E3%83%B3%E3%83%9A@currypurin%E3%81%AE%E3%82%84%E3%81%A3%E3%81%9F%E3%81%93%E3%81%A8&quot;&gt;台風コンペ@currypurin のやったこと - typhoon@currypurin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;台風コンペの反省会やります。
+    &lt;ul&gt;
+      &lt;li&gt;将棋でいう感想戦のように、反省会でみんなで振り返りることによって kaggle の実力があがるはず&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggle-advent-calendar-2018---qiita&quot;&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2018/kaggle&quot;&gt;kaggle Advent Calendar 2018 - Qiita&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2017 年版は regonn が作ったけど宣伝とかしてなかったので全然埋まらなかった。。。しかも、Qiita 退会したので作成者が Ghost になってる。&lt;/li&gt;
+  &lt;li&gt;今年は埋まって、ノウハウが共有されることを期待&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kaggle-tokyo-meetup-5---connpass-が-12-月１日に開催されることが決定&quot;&gt;&lt;a href=&quot;https://connpass.com/event/105298/&quot;&gt;Kaggle Tokyo Meetup #5 - connpass&lt;/a&gt; が 12 月１日に開催されることが決定&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Santander コンペについて、15 分間ほど発表することに&lt;/li&gt;
+  &lt;li&gt;何を話すか非常に難しい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;plasticc-コンペ&quot;&gt;PLAsTiCC コンペ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;宇宙&lt;/li&gt;
+  &lt;li&gt;テーブルデータ&lt;/li&gt;
+  &lt;li&gt;Class 分類
+    &lt;ul&gt;
+      &lt;li&gt;14 個 + その他の 15 個&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Two Sigma&lt;/li&gt;
+  &lt;li&gt;「kaggle のチュートリアル」＆「Kaggle 挑戦記」の１０月の結果
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://note.mu/currypurin/n/n830f74bd22cd&quot;&gt;2018 年 10 月の note 売上の結果｜カレーちゃん｜ note&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;読んでいる本
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://amzn.to/2P7a4tt&quot;&gt;データサイエンティスト養成読本 ビジネス活用編&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;11/6 の刊行記念イベントに参加するので、それまでに読み終えて参加したい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1056139964449079298&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;リスナーからの質問&quot;&gt;リスナーからの質問&lt;/h2&gt;
+
+&lt;amp-img alt=&quot;note&quot; src=&quot;https://d2mxuefqeaa7sj.cloudfront.net/s_1A36BD3B27679793857A29AA83B0DD954F721EA2490841DE4986B8F4071205A1_1541140834339_Dq-jr0NU0AUL8LM.jpg&quot; width=&quot;600&quot; height=&quot;381&quot; layout=&quot;responsive&quot;&gt;
+&lt;/amp-img&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;regonn は中学生の時に ハンゲーム に登録するときに、レゴブロックにハマっていて、レゴで登録しようとしたら既に ID が取られていたので、怪獣っぽくていいかなと思い レゴン になった。なので、ローマ字打ちで regonn(n が重なる)&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;カレーパンマンが小さい頃から好きなこともあり、勉強会に参加するときにハンドルネームをカレーちゃんにした。twitter の@currypurin は、カレーパンマンと同じくらい好きなポムポムプリンから purin をもらって、@currypurin にした。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;データサイエンティストはフリーランスでも活躍できるか?&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;できるし、やっている人もいる。実際に人は足りていない。けど、データサイエンティストも色々と分野があるので、強みを持てると複数案件とかもできるのかも。データサイエンティストはどこも足りてないので、複数案件持つ人も求められていそう。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;今後はフリーランスが集合するようなギルド的な存在が出てくるのかなと考えている&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://milieu.ink/interview/moripro&quot;&gt;「ライターになりたい！」というニーズが急増する今。労働集約型モデルを、どう変えていく？&lt;/a&gt; - 少し前の記事だけど、WEB ライターの話でどう活躍していくかの話。 - ウェブエンジニアでもデータサイエンティストでもある程度同じ話ができそう。 - inquire という団体がでてくるが、ここがフリーランスの団体で、企業としてまとまらず、それぞれが独立していて、個人で活躍できるレベルの人たちの集まり。
+        &lt;ul&gt;
+          &lt;li&gt;技術の共有がある程度できる&lt;/li&gt;
+          &lt;li&gt;仕事もその団体として受けて評価もその団体として評価される&lt;/li&gt;
+          &lt;li&gt;これのデータサイエンティスト版を作りたいけど、色々問題も多そう。&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;最近 vnos という団体に入った。ここは VTuber を扱う人たちのギルド。&lt;/li&gt;
+      &lt;li&gt;思想が自分の理想のギルドの形に近くメンバー募集もしていたので参加した。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1058219475055534080&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;VTuber 界隈の話も今後していきたい。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;workshop-in-vr-3-lt-とか&quot;&gt;&lt;a href=&quot;https://workshop-in-vr.connpass.com/event/105826/&quot;&gt;Workshop in VR #3 LT とか&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;秋寒し電気ブランのほろ苦さ 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/8</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/8.mp3" length="44461194" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。Signateの台風コンペ、アドベントカレンダーや二人の名前の由来などを話しています。</itunes:subtitle>
+        <itunes:duration>1:01:48</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>7. 台風コンペ追い込み</title>
+        <link>https://regonn-curry-fm.github.io/episode/7</link>
+        <pubDate>Wed, 24 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;pydatatokyo-one-day-conference-2018---connpass-に参加しました&quot;&gt;&lt;a href=&quot;https://pydatatokyo.connpass.com/event/87511/&quot;&gt;PyData.tokyo One-day Conference 2018 - connpass&lt;/a&gt; に参加しました。&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;どのセッションもとても勉強になった&lt;/li&gt;
+  &lt;li&gt;「kaggle のススメ」という LT を実施&lt;/li&gt;
+  &lt;li&gt;NVIDIA&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1053551182541598720&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;この日は、「PyData.tokyo」、「&lt;a href=&quot;https://tokyor.connpass.com/event/103553/&quot;&gt;TokyoR&lt;/a&gt;」、「&lt;a href=&quot;https://juliatokyo.connpass.com/event/100780/&quot;&gt;JuliaTokyo&lt;/a&gt;」が同日開催という珍しい日だった。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週の１週間&quot;&gt;今週の１週間&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;台風コンペ１０位まで上がりました。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1054699952796880897&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;最近読んでる本&quot;&gt;最近読んでる本&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;マルチ・ポテンシャライト 好きなことを次々と仕事にして、一生食っていく方法 https://amzn.to/2SdVr5C
+    &lt;ul&gt;
+      &lt;li&gt;一つのことに専念していくためにはどうすればいいかという本が多い中、この本は専門家で一つのことをやりとげるのではなく、色々と興味が移る人(マルチポテンシャライト)向けの話し&lt;/li&gt;
+      &lt;li&gt;どのような人生設計をすればいいのか 4 つの働き方(ワークモデル)を提示してくれている
+        &lt;ul&gt;
+          &lt;li&gt;どの働き方も「お金」「意義」「多様性」を大事にしている
+            &lt;ul&gt;
+              &lt;li&gt;グループハグアプローチ&lt;/li&gt;
+              &lt;li&gt;スラッシュアプローチ
+                &lt;ul&gt;
+                  &lt;li&gt;自分はこれに一番近い&lt;/li&gt;
+                  &lt;li&gt;ニッチなテーマに魅力を感じるが、それをフルタイムでやろうとはせず、名詞の肩書が多くなるタイプ(フリーランスの掛け持ち)&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+              &lt;li&gt;アインシュタインアプローチ&lt;/li&gt;
+              &lt;li&gt;フェニックスアプローチ&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;最近気になってる新しいサービス&quot;&gt;最近気になってる新しいサービス&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://blog.takuya-andou.com/entry/mizuhanome_v2&quot;&gt;みずはのめ&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;競艇予想人工知能
+        &lt;ul&gt;
+          &lt;li&gt;SNS 要素を入れていくみたい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qrunch.io/&quot;&gt;Qrunch&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;技術ブログを書くハードルを下げるサービス&lt;/li&gt;
+      &lt;li&gt;ログという形で気軽に残せる&lt;/li&gt;
+      &lt;li&gt;クロス投稿で自分のブログ記事を投稿することもできる
+        &lt;ul&gt;
+          &lt;li&gt;Qiita よりも良い&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;デザインもしっかりしている&lt;/li&gt;
+      &lt;li&gt;タスクが &lt;a href=&quot;https://trello.com/b/VQL4OKxL/%E3%82%AF%E3%83%A9%E3%83%B3%E3%83%81-%E9%96%8B%E7%99%BA%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97&quot;&gt;Trello&lt;/a&gt; で公開している&lt;/li&gt;
+      &lt;li&gt;早速自分の Julia の記事をクロス投稿しておいた&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;最近、個人がクオリティの高いサービスを出してくるようになったイメージ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;julia-の動き&quot;&gt;Julia の動き&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Gadfly.jl が v1.0 で動くようになった&lt;/li&gt;
+  &lt;li&gt;XGboost.jl も master ブランチが v1.0 対応したっぽい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1053850546761658368&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;take-kaggles-2018-machine-learning-and-data-science-survey-やってる&quot;&gt;Take Kaggle’s 2018 Machine Learning and Data Science Survey! やってる&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;データサイエンスの最前線がわかる調査&lt;/li&gt;
+  &lt;li&gt;収集データは CSV で公開される &lt;a href=&quot;https://www.kaggle.com/kaggle/kaggle-survey-2017&quot;&gt;Kaggle Machine Learning &amp;amp; Data Science Survey 2017&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;two-sigma&quot;&gt;Two Sigma&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;せっかく Python で書くのでなにか学びながらやりたい&lt;/li&gt;
+  &lt;li&gt;ベイズ統計で解いてみる(&lt;a href=&quot;https://github.com/StanJulia/Stan.jl&quot;&gt;Stan.jl&lt;/a&gt; 等もあるので、Julia でも知見を活かせそう)&lt;/li&gt;
+  &lt;li&gt;Two Sigma のカーネルで Bayesian とかで検索しても出てこない。
+    &lt;ul&gt;
+      &lt;li&gt;人気が無いのか&lt;/li&gt;
+      &lt;li&gt;このコンペには適さないのか&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://px.a8.net/svt/ejp?a8mat=2ZJCFL+GE0L9U+3L4M+BW8O2&amp;amp;a8ejpredirect=https%3A%2F%2Fwww.udemy.com%2Fpythonstan%2F%3Fdeal_code%3DJPA8DEAL2PERCENTAGE%26aEightID%3Ds00000016735001&quot;&gt;【Python と Stan で学ぶ】仕組みが分かるベイズ統計学入門&lt;/a&gt; で学んでる&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;アイスからホットに変はり松手入れ 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/7</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/7.mp3" length="43274704" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回はSignateの台風コンペの追い込み、最近気になっているWebサービス、Julia言語の近況について話しています。</itunes:subtitle>
+        <itunes:duration>45:06</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>6. Juliaの多重ディスパッチ</title>
+        <link>https://regonn-curry-fm.github.io/episode/6</link>
+        <pubDate>Tue, 16 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;リスナーからの質問&quot;&gt;リスナーからの質問&lt;/h2&gt;
+
+&lt;amp-img alt=&quot;peing.net&quot; src=&quot;/images/2018-10-16-6-question.jpg&quot; width=&quot;600&quot; height=&quot;492&quot; layout=&quot;responsive&quot;&gt;
+&lt;/amp-img&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;言語屋さんではないので詳しくは話せないけど、Julia が Class を使わない理由は多重ディスパッチと呼ばれる仕組みを採用しているから。おそらく、Go とか Rust は別の理由(未調査)&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;多重ディスパッチは関数の全ての引数の型マッチングで対応するメソッドを呼ぶ方法&lt;/li&gt;
+      &lt;li&gt;同じ関数名で複数のメソッドが定義される
+        &lt;ul&gt;
+          &lt;li&gt;科学計算等で、型によって処理を変えられるため重宝する(引数が Int Int の場合と Float Float の場合とで別の処理を定義することができる)&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;オブジェクト一つ一つがメソッドを持っているわけではなく、関数オブジェクトがまとめてメソッドを持っている&lt;/li&gt;
+      &lt;li&gt;似たように多重ディスパッチを採用しているのは Common Lisp&lt;/li&gt;
+      &lt;li&gt;
+        &lt;p&gt;なので、Julia は Ruby や Python のような 純粋オブジェクト指向言語ではないが、疑似的なオブジェクト指向の書き方ができる&lt;/p&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%A4%9A%E9%87%8D%E3%83%87%E3%82%A3%E3%82%B9%E3%83%91%E3%83%83%E3%83%81&quot;&gt;多重ディスパッチ - Wikipedia&lt;/a&gt;
+        &lt;blockquote&gt;
+          &lt;p&gt;多重ディスパッチがあると、クラスがあって、そこにメソッドが属しているという考え方はあまり意味を持たない。collide-with という名前のメソッドは、引数ごとにそれぞれ 2 つのクラスと関連付けられている「普通の関数呼び出し」に過ぎなくなる。結果として、メソッドを呼び出す際の特殊な構文を必要としない。&lt;/p&gt;
+        &lt;/blockquote&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://stackoverflow.com/questions/33755737/julia-oop-or-not&quot;&gt;class - julia: OOP or not - Stack Overflow&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;疑似 OOP&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;978716550268993536&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;note-の継続課金マガジンの読者が-5-人になりました&quot;&gt;note の継続課金マガジンの読者が 5 人になりました&lt;/h2&gt;
+
+&lt;amp-img alt=&quot;note&quot; src=&quot;/images/2018-10-16-6-note.jpg&quot; width=&quot;400&quot; height=&quot;686&quot; layout=&quot;responsive&quot;&gt;
+&lt;/amp-img&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;CtoC と言われる、個人向けの販売やっていきたい&lt;/li&gt;
+  &lt;li&gt;データ分析の鬼、けいすけさんから私の twitter の分析を 100 円で買いました。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1048332040683237377&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;１年半にわたり毎週開催していた勉強会の最終回と打ち上げをやりました&quot;&gt;１年半にわたり毎週開催していた勉強会の最終回と打ち上げをやりました&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;次は Kaggle の勉強会を開催していきたい。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週の１週間&quot;&gt;今週の１週間&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;currypurin
+    &lt;ul&gt;
+      &lt;li&gt;画像のディープのモデルをいろいろ作りました。
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://qiita.com/yu4u/items/7e93c454c9410c4b5427&quot;&gt;畳み込みニューラルネットワークの最新研究動向 (〜2017)&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;塩コンペのディスカッションを見ていました。&lt;/li&gt;
+      &lt;li&gt;消費税が増税されることが発表された&lt;/li&gt;
+      &lt;li&gt;成長ジャーニー読みました。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;regonn
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/c/two-sigma-financial-news&quot;&gt;Two Sigma: Using News to Predict Stock Movements | Kaggle&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;引き続き調べてる
+            &lt;ul&gt;
+              &lt;li&gt;完全 Kernel-Only&lt;/li&gt;
+              &lt;li&gt;ConfidenceValue&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;iPad 買ったけど Goodnote の使い方が分からない&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;川沿いをただ彷徨ふや草の花 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/6</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/6.mp3" length="33221200" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今週は質問にあったJulia言語の多重ディスパッチについてや、noteでのマネタイズ、勉強会、今週やったことについて話しています。</itunes:subtitle>
+        <itunes:duration>46:05</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>5. 技術書典を終えて</title>
+        <link>https://regonn-curry-fm.github.io/episode/5</link>
+        <pubDate>Thu, 11 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;技術書典終わりました&quot;&gt;技術書典終わりました&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;何人か「podcast 聴いています」と声をかけてくれた方がいました&lt;/li&gt;
+  &lt;li&gt;来場者１万人超え。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1049208448372465664&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://note.mu/currypurin/n/n731dce1b1cbe&quot;&gt;データリファインメントの技術書典５開催レポート｜カレーちゃん｜ note&lt;/a&gt;&lt;/p&gt;
+
+    &lt;blockquote&gt;
+      &lt;p&gt;Kaggle 本は、紙と pdf で合計 280 冊くらい売れて、合同会社本は pdf のみで 90 冊ほど売ることができました。&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;http://shu223.hatenablog.com/entry/2018/10/09/222341&quot;&gt;技術書でご飯は食べられるのか？ #技術書典 - その後のその後&lt;/a&gt;&lt;/p&gt;
+    &lt;blockquote&gt;
+      &lt;p&gt;とにかく、「技術の発信」でも収入が得られる時代が到来しつつあることが嬉しいです。お客さんの課題に対して技術力をふるう「案件」も好きですが、その仕込みフェーズ自体でも稼げるとなると、より自由に生きるための選択肢が増えたような、そんなワクワク感があります。&lt;/p&gt;
+    &lt;/blockquote&gt;
+    &lt;ul&gt;
+      &lt;li&gt;技術の発信でも収入が得られる時代&lt;/li&gt;
+      &lt;li&gt;参加者も増えて全体的なクオリティが上がっているので売る方のハードルも上がりそう&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;慶応大学の量子コンピュータ講義が無料で受けられる-mooc&quot;&gt;慶応大学の量子コンピュータ講義が無料で受けられる MOOC&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.futurelearn.com/courses/intro-to-quantum-computing&quot;&gt;Online Quantum Computing Course - FutureLearn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;動画は英語だけど日本語スクリプトも見えるので良い&lt;/li&gt;
+  &lt;li&gt;4 週間のコンテンツ&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ai-系の日本語ポッドキャスト見つけた&quot;&gt;AI 系の日本語ポッドキャスト見つけた&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/podcast/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%A9%E3%83%82%E3%82%AA-a-i-radio-by-team-ai/id1155907019?mt=2&quot;&gt;「人工知能ラジオ Team AI Channel」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Team AI 自体は何度か Qiita 記事とかで見かけてたけど、Podcast やってるのは知らなかった
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/daisuke-team-ai&quot;&gt;daisuke-team-ai - Qiita&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;話の内容的にはアカデミックでのキャリアパスやビジネスについて&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;regonn&amp;amp;curry.fm の１回目の時にリプもらっていました。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1037751733856817152&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;落合陽一の塾に入った&quot;&gt;落合陽一の塾に入った&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;きっかけ Weekly Ochiai &lt;a href=&quot;https://newspicks.com/news/3326701&quot;&gt;コミュニティをアップデートせよ&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;最近は kaggler-ja とか VR アカデミア みたいに専門のコミュニティが出来上がってきている気がして、そこらへんに興味があった&lt;/li&gt;
+      &lt;li&gt;今後は大学という枠ではなくコミュニティという枠で学ぶ機会が増えるのではないか？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lounge.dmm.com/detail/48/&quot;&gt; 落合陽一塾 - DMM オンラインサロン&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;中で研究室という概念があり、そこで自分の興味がある分野を他の人とディスカッションできる&lt;/li&gt;
+      &lt;li&gt;VR 研究室を立ち上げ中&lt;/li&gt;
+      &lt;li&gt;AI 研究室も立ち上げてみたいけど、何を研究するのかが明確にならないので、諦めた&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;doc2vec-の-youtube-動画上げました&quot;&gt;Doc2Vec の YouTube 動画上げました&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1049208454240301056&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;two-sigma-using-news-to-predict-stock-movements&quot;&gt;&lt;a href=&quot;https://www.kaggle.com/c/two-sigma-financial-news&quot;&gt;Two Sigma: Using News to Predict Stock Movements&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;取り組もうと思ってる&lt;/li&gt;
+  &lt;li&gt;ニュース情報から株価の動きを予測するコンペ(チーム最大 3 人)&lt;/li&gt;
+  &lt;li&gt;Kernels only
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/dster/two-sigma-news-official-getting-started-kernel&quot;&gt;Two Sigma News Official Getting Started Kernel | Kaggle&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;You can only submit from Kaggle Kernels.&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Submission Instructions を見れば Kernels only について書いてあった&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;pubg-finish-placement-prediction-kernels-only--kaggle&quot;&gt;&lt;a href=&quot;https://www.kaggle.com/c/pubg-finish-placement-prediction&quot;&gt;PUBG Finish Placement Prediction (Kernels Only) | Kaggle&lt;/a&gt;&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1047998434047754240&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;kaggle-の新コンペ&quot;&gt;kaggle の新コンペ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/c/human-protein-atlas-image-classification&quot;&gt;Human Protein Atlas Image Classification | Kaggle&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1047679361732624384&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;リスナーからの質問&quot;&gt;リスナーからの質問&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;画像系のコンペティションでは DNN1 強という印象ですが、それ以外の手法をどの程度調べるべきと考えていますか？&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1048585976644165637&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;p&gt;爽籟やレッカー車待つ二人組　恋言&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/5</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/5.mp3" length="28831608" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は技術書典を終えての話し、専門コミュニティ、Kaggle新コンペについて話しています。</itunes:subtitle>
+        <itunes:duration>39:53</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>4. 技術書典5来てね</title>
+        <link>https://regonn-curry-fm.github.io/episode/4</link>
+        <pubDate>Tue, 02 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;108-の技術書典サークル参加します&quot;&gt;10/8 の技術書典サークル参加します&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;「Kaggle のチュートリアル」と「代表１人の小さな合同会社の作り方」を販売予定&lt;/li&gt;
+  &lt;li&gt;グッズとして扇子も作成中
+    &lt;ul&gt;
+      &lt;li&gt;twitter でどういう文字・画像が良いか聞いたが反応なし&lt;/li&gt;
+      &lt;li&gt;note.mu の継続課金マガジンを購読している方には、扇子をプレゼント&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;10/8 の天気が気になる&lt;/li&gt;
+  &lt;li&gt;podcast 聞いていますで ○○ プレゼントをやりたい&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週の一週間を簡単に振り返る&quot;&gt;今週の一週間を簡単に振り返る&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;台風コンペ&lt;/li&gt;
+  &lt;li&gt;チームメンバーの家に行って打ち合わせをしたり、チームメンバーが使う、train.py と test.py を書いていました。&lt;/li&gt;
+  &lt;li&gt;海外旅行中に読んだ本(3 冊)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://amzn.to/2RaA3h6&quot;&gt;機械学習入門 ボルツマン機械学習から深層学習まで&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;以前ベイズ推定入門の本は読んでいたので、こちらも読みたかった&lt;/li&gt;
+          &lt;li&gt;作者は量子コンピュータの書籍もだしているので、ちょくちょくそこら辺の話題が出てくる&lt;/li&gt;
+          &lt;li&gt;シリーズは続いているみたい(公式ではないけど、本人 Twitter では呟いていた)で量子コンピュータの話とかも今後出てくるかも&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://amzn.to/2DH5Ymy&quot;&gt;10 年後の仕事図鑑&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;古代ローマ市民&lt;/li&gt;
+          &lt;li&gt;好きなことに没頭&lt;/li&gt;
+          &lt;li&gt;発信が大事&lt;/li&gt;
+          &lt;li&gt;カレーちゃんが影響受けている人はいる？
+            &lt;ul&gt;
+              &lt;li&gt;ホリエモン、西野亮廣、ゆうこす、ハヤカワ五味など&lt;/li&gt;
+              &lt;li&gt;若い方とか、違う分野の方に学べるようになりたいと思っている&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;自分は落合陽一、森博嗣、土屋賢二の影響が大きい&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://amzn.to/2xKsQMI&quot;&gt;一生リバウンドしないパレオダイエットの教科書&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;鈴木祐&lt;/li&gt;
+          &lt;li&gt;メンタリスト DaiGo
+            &lt;ul&gt;
+              &lt;li&gt;最近この二人の本を読んでて、色々と論文の内容を紹介してくれる&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;量子コンピュータの手軽に触れるイジングエディタが出てきた&quot;&gt;量子コンピュータの手軽に触れるイジングエディタが出てきた&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://annealing-cloud.com/play/ising-editor.html&quot;&gt;イジングエディタ - Annealing Cloud Web&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ここやってるフィックスターズ株式会社は積極的に量子コンピュータを使った研究開発をやっていて勉強会とかも定期的に開催している
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://quantum-study.connpass.com/&quot;&gt;次世代計算機講座 - connpass&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;あとは、企業だと MDR が有名
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qnn.connpass.com/&quot;&gt;量子コンピュータアプリ（ゲートモデル＆アニーリングモデル） - connpass&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;こちらは kaggler-ja みたいに Slack コミュニティがある
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://mdrft.com/#community&quot;&gt;MDR | 量子コンピュータ&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;最近-kaggle-の新規コンペが増えてきた&quot;&gt;最近 Kaggle の新規コンペが増えてきた&lt;/h2&gt;
+
+&lt;h2 id=&quot;julia-v101-リリース&quot;&gt;Julia v1.0.1 リリース&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Bugfix がメイン&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;リスナーからの質問&quot;&gt;リスナーからの質問&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1045530518136078337&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1044599323030241280&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://marshmallow-qa.com/messages/4a0cfaaa-3ee5-456b-948b-f60034476c2e&quot;&gt;最近 Kaggle を始めた者です。素晴らしいポッドキャストありがとうございます。（各エピソード 3 回ずつは聞きました。）GA コンペで R を使っているせいもあるのか、モデリングのトライ&amp;amp;エラーを高速で行うことができずに困っています。（XGBoost 回すだけで 1 時間はかかってしまいます。）何かいい方法は無いでしょうか？&lt;/a&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;Python の場合は、LightGBM の方が XGBoost よりも数倍はやい
+        &lt;ul&gt;
+          &lt;li&gt;R の場合はどうなんだろう&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;私の場合は早く回すために特に利いたのは次の３つ
+        &lt;ul&gt;
+          &lt;li&gt;Learning Late を小さくし過ぎない&lt;/li&gt;
+          &lt;li&gt;多く分割しすぎない（3 分割ぐらい）&lt;/li&gt;
+          &lt;li&gt;GPU を使う&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;クロスバリデーションや主成分分析でトライアンドエラーの時間を減らせるかも&lt;/li&gt;
+      &lt;li&gt;LightGBM 公式の &lt;a href=&quot;https://lightgbm.readthedocs.io/en/latest/Parameters-Tuning.html#parameters-tuning&quot;&gt;Parameters Tuning&lt;/a&gt; にも、For Faster Speed という項目があるので参考にすると良い&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;イベント情報&quot;&gt;イベント情報&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://workshop-in-vr.connpass.com/event/101802/&quot;&gt;Workshop in VR #2 LT 会 - connpass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf05&quot;&gt;技術書典５ | 技術書典&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;流星やラジオの会話途切れたり 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/4</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/4.mp3" length="45139171" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回は技術書典、海外旅行中で読んだ本、コンペを行う上での使ってるツール等について話しています。</itunes:subtitle>
+        <itunes:duration>1:15:10</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>3. Twitterの質問に答えていきます</title>
+        <link>https://regonn-curry-fm.github.io/episode/3</link>
+        <pubDate>Mon, 17 Sep 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;質問&quot;&gt;質問&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ポッドキャスト聞いてから Signate の存在を知りました。Kaggle 関連の話が面白かったのでもっと聞きたいです。例えば、最近コンピティションで話題の技術や、自分が参加したコンピティションではどういうことを考えてモデル作成の戦略を立てているか、などなど @ハシビロコウさんより
+    &lt;ul&gt;
+      &lt;li&gt;最近話題の技術（どちらも最新ではないが、必須？）
+        &lt;ul&gt;
+          &lt;li&gt;LightGBM
+            &lt;ul&gt;
+              &lt;li&gt;マイクロソフト作成&lt;/li&gt;
+              &lt;li&gt;早い！！精度が高い、大量の特徴量も入れられる、&lt;/li&gt;
+              &lt;li&gt;kaggle-ja で共有されていた xgboost LightGBM CatBoost の比較記事
+                &lt;ul&gt;
+                  &lt;li&gt;&lt;a href=&quot;https://www.kdnuggets.com/2018/03/catboost-vs-light-gbm-vs-xgboost.html&quot;&gt;CatBoost vs. Light GBM vs. XGBoost&lt;/a&gt;&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;アンサンブル
+            &lt;ul&gt;
+              &lt;li&gt;相関が低い予想をアンサンブルし、スコアを上げる&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Santander コンペで金メダルをとった戦略
+        &lt;ul&gt;
+          &lt;li&gt;失点を減らす
+            &lt;ul&gt;
+              &lt;li&gt;フォーラムをつねにチェック&lt;/li&gt;
+              &lt;li&gt;リークを見つける&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+          &lt;li&gt;加点を狙う
+            &lt;ul&gt;
+              &lt;li&gt;他の人が見つけていないことをみつける&lt;/li&gt;
+              &lt;li&gt;ポイントを絞る
+                &lt;ul&gt;
+                  &lt;li&gt;時間は有限なので、キーとなりそうなところに集中&lt;/li&gt;
+                &lt;/ul&gt;
+              &lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;画像のコンペは好きじゃない、と思われるのはなぜですか？優秀なモデルを持ってきて力技勝負になっちゃうとかでしょうか（マシュマロ）
+    &lt;ul&gt;
+      &lt;li&gt;画像のコンペを真剣にやろうとすると、GPU が必須になる&lt;/li&gt;
+      &lt;li&gt;GPU が必要なためか参加人数は増えない傾向にある&lt;/li&gt;
+      &lt;li&gt;個人的には画像のコンペは楽しい
+        &lt;ul&gt;
+          &lt;li&gt;技術の進歩すごいって感じられる&lt;/li&gt;
+          &lt;li&gt;人間の認識能力もすごいと感じる&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;前処理とかも難しいブログ記事なども少ない
+        &lt;ul&gt;
+          &lt;li&gt;少ないという意味は、殆どがサンプルコードを動かして Mnist 解析するだけみたいな気もしてる&lt;/li&gt;
+          &lt;li&gt;論文を読んでいく必要がある&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;jupyter-の-tips&quot;&gt;jupyter の tips&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Jupyter Tips 募集中への回答です。PyCharm + Jupyter NoteBook を使うことによって PyCharm の強力なコードの自動補完が利用出来て便利です。
+    &lt;ul&gt;
+      &lt;li&gt;jupyter notebook と PyCharm
+        &lt;ul&gt;
+          &lt;li&gt;Jetbrains 系は Professional 版(お値段高め)と Community 版(無料)がある
+            &lt;ul&gt;
+              &lt;li&gt;違いは web 開発機能とかなので機械学習で利用するのであればいけそう&lt;/li&gt;
+            &lt;/ul&gt;
+          &lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;気になるニュース&quot;&gt;気になるニュース&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://cloud.watch.impress.co.jp/docs/news/1143163.html&quot;&gt;AI／機械学習の利用がストレージ支出に大きな影響を与えると 70％の企業が判断、IDC Japan 調査 - クラウド Watch&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;機械学習のストレージ問題&lt;/li&gt;
+      &lt;li&gt;なんか対処してる？
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.box.com/ja-jp/pricing/individual&quot;&gt;Box Japan&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://cloud.google.com/bigquery/?hl=ja&quot;&gt;BigQuery - アナリティクス データ ウェアハウス  |  BigQuery  |  Google Cloud&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;田中-tom&quot;&gt;田中 TOM&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tanaka-tom.github.io/natural/2018/09/17/natural5.html&quot;&gt;自然言語処理を学ぼう #5 doc2vec 理論編 - 田中 TOM と愉快な仲間たち&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;量子コンピュータ関連&quot;&gt;量子コンピュータ関連&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;メルカリのインターンシップに出ている学生達のブログ記事が出ている
+    &lt;ul&gt;
+      &lt;li&gt;D-wave を触っている&lt;/li&gt;
+      &lt;li&gt;現状の量子コンピューターでの限界(妥協点)や問題がなんとなくわかる&lt;/li&gt;
+      &lt;li&gt;メルカリがこういう分野にもすでにお金を出している&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://tech.mercari.com/entry/2018/09/11/171607&quot;&gt;D-Wave マシンで Graph Golf に挑戦した話 - Mercari Engineering Blog&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://tech.mercari.com/entry/2018/09/13/165921&quot;&gt;D-wave マシンで最大カット問題を解く - Mercari Engineering Blog&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;オレオレ機械学習ライブラリ構想機械学習名古屋第１-7-回勉強会&quot;&gt;&lt;a href=&quot;https://qiita.com/n_kats_/items/d1bb601378efe8ab6b8d&quot;&gt;オレオレ機械学習ライブラリ構想（機械学習名古屋第１ 7 回勉強会）&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;機械学習のアルゴリズムに関係ない部分多すぎ問題
+    &lt;ul&gt;
+      &lt;li&gt;試したものがちゃんと記録される・再現できる&lt;/li&gt;
+      &lt;li&gt;煩わしいデータ管理をどうにかしたい&lt;/li&gt;
+      &lt;li&gt;モデル管理をちゃんとしたい&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;オレオレライブラリって結構大事でみんな Kaggle に夢中すぎてやってない分野も多い気がする&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;自分も Julia から &lt;a href=&quot;https://dl.sony.com/ja/&quot;&gt;Neural Network Console&lt;/a&gt; フォーマット向けのオレオレライブラリとか書いてる&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;抜け道を先ゆく風や彼岸花 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/3</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/3.mp3" length="32991414" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。今回はTwitterやマシュマロで飛んできた質問などに答えていきます。</itunes:subtitle>
+        <itunes:duration>45:44</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>2. 未来のプログラミング</title>
+        <link>https://regonn-curry-fm.github.io/episode/2</link>
+        <pubDate>Tue, 11 Sep 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;ハッシュタグの紹介&quot;&gt;ハッシュタグの紹介&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/hashtag/regonn_curry_fm&quot;&gt;#regonn_curry_fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/regonn_curry&quot;&gt;@regonn_curry&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;初回収録公開の感想&quot;&gt;初回収録・公開の感想&lt;/h2&gt;
+
+&lt;h2 id=&quot;今-kaggle-で開催中の賞金もあるコンペって画像系しかない&quot;&gt;今 Kaggle で開催中の賞金もあるコンペって画像系しかない&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;playground コンペが充実している
+    &lt;ul&gt;
+      &lt;li&gt;あと 2 週間程度でおわるのが 7 つある&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;今週の専業 Kaggler
+    &lt;ul&gt;
+      &lt;li&gt;技術書典５の原稿を執筆。&lt;/li&gt;
+      &lt;li&gt;レビュアーに依頼できるところまでほぼ書き上げた。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;質問箱&quot;&gt;質問箱&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;カレーちゃんは現在どのように生計を立てているのですか。扶養親族はいますか。私も現在公務員で家庭持ちなのですが機械学習界隈にキャリアチェンジを狙っているのでその辺り気になります。
+    &lt;ul&gt;
+      &lt;li&gt;勉強方法も気になる
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://data-refinement.connpass.com/&quot;&gt;connpass での勉強会&lt;/a&gt;を 1 年半、週１で開催&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://techfeed.io/&quot;&gt;TechFeed&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;合同会社とフリーランス&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;技術書典５&quot;&gt;技術書典５&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2N3DSGw&quot;&gt;わかばちゃんと学ぶ Git 使い方入門&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;松江の-vtuber-ハッカソン参戦して最優秀チームに選ばれたので東京大会への参加券をゲットしました&quot;&gt;松江の VTuber ハッカソン参戦して最優秀チームに選ばれたので東京大会への参加券をゲットしました&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://chiikiokoshi-vr.connpass.com/event/86808/&quot;&gt;VTuber ハッカソン 全国ツアー 2018【島根会場】&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CUI-GUI-SUI(SPATIAL-USER-INTERFACE)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;atcoder-参戦&quot;&gt;&lt;a href=&quot;https://atcoder.jp/&quot;&gt;AtCoder&lt;/a&gt; 参戦&lt;/h2&gt;
+
+&lt;h2 id=&quot;jupyter-使ってて-tips-あったら教えて欲しい&quot;&gt;jupyter 使ってて Tips あったら教えて欲しい&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://github.com/tqdm/tqdm&quot;&gt;tqdm: A fast, extensible progress bar for Python and CLI&lt;/a&gt;&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;for 文を回す時に、 tqdm を挟んでくるプログレスバーを出す&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://marshmallow-qa.com/regonn_curry&quot;&gt;マシュマロ&lt;/a&gt;で質問や Jupyter Tips 募集中&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句&quot;&gt;今日の一句&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;秋の蚊や雨音響く独り部屋 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/2</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/2.mp3" length="41476960" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。合同会社設立とフリーランスの違いや技術書典、VTuberハッカソンでの気付き、競技プログラミング等も話しています。</itunes:subtitle>
+        <itunes:duration>57:37</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>1. データサイエンス界隈Podcastはじめました</title>
+        <link>https://regonn-curry-fm.github.io/episode/1</link>
+        <pubDate>Thu, 06 Sep 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;この Podcast ではデータサイエンティスト界隈で話題の Kaggle について話していこうと思います&lt;/p&gt;
+
+&lt;h2 id=&quot;自己紹介近況&quot;&gt;自己紹介・近況&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;れごん
+    &lt;ul&gt;
+      &lt;li&gt;フリーランス、2018 年 3 月から松江に移住。Julia 言語が好き。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;カレーちゃん&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;2018 年７月から専業で Kaggle をやっている。それまでは公務員。2018 年 4 月に「Kaggle のチュートリアル」という同人誌を作成&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;機械学習や-kaggle-を知人に伝えるのが難しい問題&quot;&gt;機械学習や Kaggle を知人に伝えるのが難しい問題&lt;/h2&gt;
+
+&lt;h2 id=&quot;kaggle-流行っている&quot;&gt;kaggle 流行っている？&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1032676389311467521&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.kaggle.com/c/home-credit-default-risk&quot;&gt;HomeCredit&lt;/a&gt; コンペ：参加者 8572 ユーザー、7198 チーム、で過去最大&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rebuildfm-でゲストで出ている-higepon-さんが-kaggle-始めたらしいそのうちrebuildfm-でも-kaggle-の話が聞けそう&quot;&gt;rebuild.fm でゲストで出ている Higepon さんが Kaggle 始めたらしい。そのうち、rebuild.fm でも Kaggle の話が聞けそう&lt;/h2&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1035785295499673602&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;kaggle-じゃないけどsignate-のメテオサーチ-1-位の解法がマンガになっている&quot;&gt;Kaggle じゃないけど、Signate のメテオサーチ 1 位の解法がマンガになっている&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/pigeon/meteorsearch&quot;&gt;https://speakerdeck.com/pigeon/meteorsearch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;メテオサーチの１位から 3 位のかたの発表動画も公開されている&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;amp-twitter width=&quot;100&quot; height=&quot;100&quot; layout=&quot;responsive&quot; data-tweetid=&quot;1037196669631324160&quot;&gt;
+&lt;/amp-twitter&gt;
+
+&lt;h2 id=&quot;pairs-の婚活マッチングアプリに-kaggle-が好きな人コミュニティがある&quot;&gt;Pairs の婚活マッチングアプリに Kaggle が好きな人コミュニティがある&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;現在 男性 11 人(れごん含む) 女性 0 人&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;機械学習系-vtuber-増えてきた&quot;&gt;機械学習系 VTuber 増えてきた&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://paiza.jp/works/ai_ml/primer/m1-challenge1&quot;&gt;スベトラーナ・小百合・ベレフスカヤ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCmk4-WrWHC-cirXlm4BN_aA/featured&quot;&gt;静谷 鳩(しずたに はと)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://scrapbox.io/vr-academia-wiki/%E3%82%A2%E3%82%A4%E3%82%B7%E3%82%A2=%E3%82%BD%E3%83%AA%E3%83%83%E3%83%89&quot;&gt;アイシア=ソリッド&lt;/a&gt;&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://vroid.pixiv.net/&quot;&gt;VRoid&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://vkatsu.jp/&quot;&gt;世界初の Vtuber 支援サービス 「V カツ」&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今週の専業-kaggler&quot;&gt;今週の専業 Kaggler&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://signate.jp/competitions/134&quot;&gt;Competition Detail／国立研究開発法人 海洋研究開発機構 | SIGNATE - Data Science Competition&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;量子コンピュータ&quot;&gt;量子コンピュータ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;Q#&lt;/li&gt;
+  &lt;li&gt;QISKit&lt;/li&gt;
+  &lt;li&gt;Pyquil&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;twitter-周知質問募集の周知&quot;&gt;twitter 周知・質問募集の周知&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/regonn_curry&quot;&gt;@regonn_curry&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;質問箱つくるので、質問あるかたはお願いします。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;イベント告知&quot;&gt;イベント告知&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://workshop-in-vr.connpass.com/event/99579/&quot;&gt;Workshop in VR #1 LT 祭り&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;VR 上で行う勉強会&lt;/li&gt;
+      &lt;li&gt;VR の都合上発表者全然集まらない&lt;/li&gt;
+      &lt;li&gt;自分は Kaggle の Julia1.0 化(取り込まれてないけど)について話す予定
+        &lt;ul&gt;
+          &lt;li&gt;Julia 0.6 から 1.0 への変化した部分等&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;今日の一句れごん&quot;&gt;今日の一句(れごん)&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;青空に定規いらずの秋津かな 恋言&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://regonn-curry-fm.github.io/episode/1</guid>
+        <enclosure url="https://regonn-curry-fm.github.io/audio/1.mp3" length="38863541" type="audio/mp3"/>
+        <itunes:author>regonn&amp;curry</itunes:author>
+        <itunes:subtitle>れごんとカレーちゃんがデータサイエンス(主にKaggle)について話していきます。初回なので自己紹介とKaggleについてやVRとか量子コンピュータも話してます。</itunes:subtitle>
+        <itunes:duration>53:58</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://regonn-curry-fm.github.io/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,437 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>Cast for Fun</title>
+        <link>https://cast-for.fun/feed.xml</link>
+        <description>ただ楽しく、プログラミング界隈の話をするPodcast</description>
+        <lastBuildDate>Sat, 16 Mar 2019 09:42:38 GMT</lastBuildDate>
+        <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+        <generator>https://github.com/nuxt-community/feed-module</generator>
+        <itunes:explicit>no</itunes:explicit>
+        <language>ja</language>
+        <image>
+            <title>Cast for Fun</title>
+            <url>https://cast-for.fun/artwork.png</url>
+            <link>https://cast-for.fun/feed.xml</link>
+        </image>
+        <category>Technology</category>
+        <category>Podcast</category>
+        <item>
+            <title><![CDATA[Episode 21]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>3VEwghifZTo3IFeoMJwUMO</guid>
+            <pubDate>Sat, 16 Mar 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[[@2zさん](https://twitter.com/2zn01)、[Sさん](https://twitter.com/goodengineer7) をゲストにお招きしてわいわい話しました。
+2zさんは相変わらずバランスの取れた方で素晴らしいですね。SさんのPodcastへの想いも素敵です。
+
+- 2zさん運営 [ツイレポ](https://twirepo.com/)の今後について
+- 春のPodcastまつり
+- SさんのPodcast [「Tech系フリーランスの気になるホットトピックス」](https://free-engineer.xrea.jp/techfree-podcast)]]></description>
+            <content:encoded><![CDATA[Episode 21]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/48hHuZur4USj7ycsrfvDeA/77977a9c07335cb185106a8c98272de3/cast-for-fun_-_2019_03_16_18.19.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode20]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>2lRu6kBK5YLbF0mUXSwxXm</guid>
+            <pubDate>Sat, 09 Mar 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[第20回目はゲストトークです。
+FORTEさん([@FORTEgp05](https://twitter.com/FORTEgp05))をお招きしてご自身のエンジニア歴やPodcastの魅力や何かを続けることの意味付けなどについてお話しました。
+
+[aozora.fm](https://fortegp05.github.io/aozorafm/ "aozora.fm")
+FORTEさんがキャスターされているPodcast
+
+[すぱきゃす](https://fortegp05.hatenablog.com/entry/2019/01/07/221830 "すぱきゃす")
+PodcasterとPodcast好きが集まるコミュニティ
+
+[青空な日々](https://fortegp05.hatenablog.com/ "青空な日々")
+FORTEさんのブログ
+
+[はじめる技術つづける技術](https://twitter.com/search?f=tweets&vertical=default&q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&src=typd "はじめる技術つづける技術")
+4/14に開催される[技術書典6](https://techbookfest.org/event/tbf06 "技術書典6")に出展されます。
+サークル名:おからぼ
+場所：え18]]></description>
+            <content:encoded><![CDATA[Episode20]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/XrmzOBWvyWJxPFpbYB1eU/6f732492f5dd16e3c36c99a33e456572/castforfun20.mp3">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 19]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>NVNNOHrYCRJeHZZEyLlIP</guid>
+            <pubDate>Sat, 23 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[19回はエピソードトークです。
+
+- 西野亮廣さんは錯覚資産のプロだとおもう話
+- 最近のMacBook Pro高すぎる話
+- 成長の限界を止めないために働く場所をしっかり選ぶ話
+- ダイソン pure ホット&クール 買った話
+- 集中力を持続する方法
+
+今回のエピソードで出てきたぺんすけが最近かったおすすめの商品
+
+<div class="cstmreba"><div class="kaerebalink-box"><div class="kaerebalink-image"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F4ddd38d4a76a52c53252beea7fa1e549%2F" target="_blank" ><img src="https://thumbnail.image.rakuten.co.jp/ran/img/3001/0005/025/155/038/215/30010005025155038215_1.jpg?_ex=320x320" style="border: none;" /></a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;"></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F4ddd38d4a76a52c53252beea7fa1e549%2F" target="_blank" >dyson Pure Hot＋Cool link HP 04 WS</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;"><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"></div><div class="kaerebalink-link1"><div class="shoplinkrakuten"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2Fhp04%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0" target="_blank" >楽天市場</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;"></div><div class="shoplinkamazon"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fsearch%3Fkeywords%3Dhp04%26__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A" target="_blank" >Amazon</a><img src="//i.moshimo.com/af/i/impression?a_id=1284061&p_id=170&pc_id=185&pl_id=4062" width="1" height="1" style="border:none;"></div></div></div><div class="booklink-footer"></div></div></div>
+
+そば、ナッツは低GIなので血糖値の上昇が穏やかになり眠くならずお昼以降も集中力が持続します。
+
+<a target="_blank" href="//af.moshimo.com/af/c/click?a_id=1279563&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062&amp;url=https%3A%2F%2Fwww.amazon.co.jp%2F%25E6%25BB%259D%25E6%25B2%25A2%25E6%259B%25B4%25E7%25A7%2591-0829-%25E4%25BF%25A1%25E5%25B7%259E%25E3%2581%259D%25E3%2581%25B0-600g%25C3%25973%25E5%2580%258B%2Fdp%2FB00EI5NJQ0" rel="nofollow"><img src="https://images-fe.ssl-images-amazon.com/images/I/51K-iMqQfoL._SL160_.jpg" alt="" style="border: none;" /><br />(Amazon) 滝沢更科 信州そば 600g×3個</a><img src="//i.moshimo.com/af/i/impression?a_id=1279563&amp;p_id=170&amp;pc_id=185&amp;pl_id=4062" alt="" width="1" height="1" style="border: 0px;" />
+
+<a target="_blank" href="//af.moshimo.com/af/c/click?a_id=1279561&amp;p_id=54&amp;pc_id=54&amp;pl_id=616&amp;url=https%3A%2F%2Fitem.rakuten.co.jp%2Frosetta-coffee%2Fmixdnuts3_1000%2F&amp;m=http%3A%2F%2Fm.rakuten.co.jp%2Frosetta-coffee%2Fi%2F10001165%2F&amp;r_v=g00sa2t3.9tq3e547.g00sa2t3.9tq3f3a5" rel="nofollow"><img src="//thumbnail.image.rakuten.co.jp/@0_mall/rosetta-coffee/cabinet/06205816/06205819/balistamixednuts1000.jpg?_ex=128x128" alt="" style="border: none;" /><br />(楽天) ミックスナッツ 無添加 無塩 3種類のお手軽ミックスナッツ 1kg </a><img src="//i.moshimo.com/af/i/impression?a_id=1279561&amp;p_id=54&amp;pc_id=54&amp;pl_id=616" alt="" width="1" height="1" style="border: 0px;" />]]></description>
+            <content:encoded><![CDATA[Episode 19]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/4NCtizyKmLw2hOLXpEDGrk/41153b6e323ff7c051c533aa40d08c58/cast-for-fun_-_2019_02_24_17.15.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 18]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>2xU4Y72biM1rWjtwbaBUsV</guid>
+            <pubDate>Sat, 16 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[１8回はテーマトークです。
+
+1. 目標設定もスキルのうちの一つ
+2. つい感情的に人を憎んでしまいがちだけど本当は仕組みが悪い話
+3. 同じものをつくるのにオタクの方はなぜ高いのかと言われた話
+
+ぺんすけのメンター [@naritaさん](https://twitter.com/narinarita1980)
+メンターリンク: https://menta.work/plan/722]]></description>
+            <content:encoded><![CDATA[Episode 18]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/5tKQqhZtUiX89sCJON1Fbs/52578850bca4185d2ea0c049b523c239/cast-for-fun_-_2019_02_18_17.11.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 17]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>2oXeGzAi9svAEfk9JpPxLu</guid>
+            <pubDate>Sat, 09 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[１7回はテーマトークです。
+録音方法をテスト的に変えてみたところ音ズレや拾い漏れ、ノイズが結構目立ちます…
+お耳汚し申し訳ございません来週は改善しますm(__)m
+
+1.ぺんすけ正社員になります
+2.気づいたらそうなっていた話（自慢） 
+3.世間知らずぐらいの方が迷惑がられるけど教えられやすいと思う話
+4.働きながらなにかを頑張る人全員エラいと思う話
+5.現状に満足せず頑張る人と現状に満足する人は果たして幸せの総量どっちが多いんやという話 （編集済み） ]]></description>
+            <content:encoded><![CDATA[Episode 17]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/2uTVqp7le0LBZXQiM0XuZU/7208a6fefbe0f958041216303dba4e78/castforfun17.mp3">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 16]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>3OW4kdwYKc9fxTlJNKnqym</guid>
+            <pubDate>Sat, 02 Feb 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[ゲスト: タダケンさん [@tadaken3](https://twitter.com/tadaken3)
+コーチングについてお話しました。
+
+- 「ほめる技術」という本について
+- タダケンさんがこばかなさんのコーチングを受けてみた話
+- ところでコーチングって本当に意味あるの？
+
+みたいなお話をしました。なお「褒める技術」については全人類が読んだほうがいい本らしいのでぺんすけもこれから読みます。
+
+<div class="cstmreba"><div class="kaerebalink-box"><div class="kaerebalink-image"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F69dd6f56a9a58c228665ca4234800b88%2F" target="_blank" ><img src="https://thumbnail.image.rakuten.co.jp/ran/img/2001/0009/784/534/046/215/20010009784534046215_1.jpg?_ex=320x320" style="border: none;" /></a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;"></div><div class="kaerebalink-info"><div class="kaerebalink-name"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fproduct.rakuten.co.jp%2Fproduct%2F-%2F69dd6f56a9a58c228665ca4234800b88%2F" target="_blank" >コ-チングのプロが教える「ほめる」技術   /日本実業出版社/鈴木義幸</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;"><div class="kaerebalink-powered-date">posted with <a href="https://kaereba.com" rel="nofollow" target="_blank">カエレバ</a></div></div><div class="kaerebalink-detail"></div><div class="kaerebalink-link1"><div class="shoplinkrakuten"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=54&pc_id=54&pl_id=616&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fsearch.rakuten.co.jp%2Fsearch%2Fmall%2F%25E8%25A4%2592%25E3%2582%2581%25E3%2582%258B%25E6%258A%2580%25E8%25A1%2593%2F-%2Ff.1-p.1-s.1-sf.0-st.A-v.2%3Fx%3D0" target="_blank" >楽天市場</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=54&pc_id=54&pl_id=616" width="1" height="1" style="border:none;"></div><div class="shoplinkamazon"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fsearch%3Fkeywords%3D%25E8%25A4%2592%25E3%2582%2581%25E3%2582%258B%25E6%258A%2580%25E8%25A1%2593%26__mk_ja_JP%3D%25E3%2582%25AB%25E3%2582%25BF%25E3%2582%25AB%25E3%2583%258A" target="_blank" >Amazon</a><img src="//i.moshimo.com/af/i/impression?a_id=1284061&p_id=170&pc_id=185&pl_id=4062" width="1" height="1" style="border:none;"></div></div></div><div class="booklink-footer"></div></div></div>]]></description>
+            <content:encoded><![CDATA[Episode 16]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/6vfpPnPuyes96rmt1WeAgM/903cdf6e6145f4931c82921cc6251999/cast-for-fun16_-_2019_02_02.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 15]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>6A12A6TrqAD331sclkpNEC</guid>
+            <pubDate>Sat, 26 Jan 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[１５回は二人でテーマを決めて話しました。
+
+1.単価決め（見積もり）どんなふうにしてますか？
+2.お金の回収でコバヤシ怒る
+3.[２０年間営業畑で生きてきた僕が、営業で本当に大事なこと全部話す。](http://delete-all.hatenablog.com/entry/2019/01/23/190000)　
+この記事がすごく良い件　エンジニアに伝えたい営業のジレンマ
+4.ぺんすけメンタリングの話　毎日の振り返りをしたら心に余裕がうまれた]]></description>
+            <content:encoded><![CDATA[Episode 15]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/2ua5TMvRvRRcIKU5zAp2bn/6a2670f0a6813a82f7fb52d6757c0f66/episode15.mp3">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 14]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>1iQcreSypo4M04fbee5Wku</guid>
+            <pubDate>Sat, 19 Jan 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[「FACTFULNESS 10の思い込みを乗り越え、データを基に世界を正しく見る習慣」について話しました。
+
+人はドラマチックな世の中の見方をしてしまうため、テレビで流れる貧困のニュースを目にしては、世界はまだまだ貧困で溢れてると思いがちです。しかし数字で見れば、例えば極度の貧困にある人の割合は過去20年で半分に減っています。
+
+ぼくたちが世界を間違って見てしまうことについて最近Twitterで話題になった話を絡めたりしつつ楽しく話しました。
+
+人生時にはドラマチックなときもありますが、冷静に数字を見て話すことが大切だと感じます。
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F15747423%2F" target="_blank" ><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/9607/9784822289607.jpg?_ex=200x200" style="border: none;" /></a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="booklink-info"><div class="booklink-name"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F15747423%2F" target="_blank" >FACTFULNESS（ファクトフルネス）</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"><div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">ハンス・ロスリング/オーラ・ロスリング 日経BP 2019年01月12日    </div><div class="booklink-link2"><div class="shoplinkrakuten"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F15747423%2F" target="_blank" >楽天ブックス</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="shoplinkamazon"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4822289605" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fsearch%3Fkeywords%3DFACTFULNESS%2581i%2583t%2583%2540%2583N%2583g%2583t%2583%258B%2583l%2583X%2581j%26__mk_ja_JP%3D%2583J%2583%255E%2583J%2583i%26url%3Dnode%253D2275256051" target="_blank" >Kindle</a></div>                              	  	  	  	  	</div></div><div class="booklink-footer"></div></div></div>]]></description>
+            <content:encoded><![CDATA[Episode 14]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/4MKag9QPueV8Jvdo7nzcuu/9e0ff202e7d34dd904cb0bfdd9d72d76/cast-for-fun14.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 13]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>4ndOkRsq4omAc4mWY8Momg</guid>
+            <pubDate>Sat, 12 Jan 2019 00:00:00 GMT</pubDate>
+            <description><![CDATA[「残酷な世界で生き延びるたったひとつの方法」という本について話しました。
+ざっくり言うと好きなことで生きていくことについて書かれています。
+
+本では残酷な現実世界についての話が多く、じゃあどうやって生きていけばいいの？っていう現実的な部分も話しました。
+
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13196034%2F" target="_blank" ><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3305/9784344423305.jpg?_ex=200x200" style="border: none;" /></a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="booklink-info"><div class="booklink-name"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13196034%2F" target="_blank" >残酷な世界で生き延びるたったひとつの方法</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"><div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">橘玲 幻冬舎 2015年04月    </div><div class="booklink-link2"><div class="shoplinkrakuten"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F13196034%2F" target="_blank" >楽天ブックス</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="shoplinkamazon"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4344423305" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fsearch%3Fkeywords%3D%258Ec%258D%2593%2582%25C8%2590%25A2%258AE%2582%25C5%2590%25B6%2582%25AB%2589%2584%2582%25D1%2582%25E9%2582%25BD%2582%25C1%2582%25BD%2582%25D0%2582%25C6%2582%25C2%2582%25CC%2595%25FB%2596%2540%26__mk_ja_JP%3D%2583J%2583%255E%2583J%2583i%26url%3Dnode%253D2275256051" target="_blank" >Kindle</a></div>                              	  	  	  	  	</div></div><div class="booklink-footer"></div></div></div>]]></description>
+            <content:encoded><![CDATA[Episode 13]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/5veAuoDRYcKOm8CIyc4umW/398ea0717b617369864c904fa7f811ac/cast-for-fun13.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 12]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>5ENj9KStbyEcyEiUGeaUyo</guid>
+            <pubDate>Sat, 29 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[「人生は、運よりも実力よりも「勘違いさせる力」で決まっている」という本について話しました。
+
+・どんな本なのよこれ
+・なぜこの本を選んだか
+・錯覚資産とハロー効果
+・特大ブーメラン 逆ハロー効果の人Twitterで結構見かける件
+・ホットハンドは存在しない
+・確率の縮尺 正しく判断できているという錯覚
+・人はデフォルトの選択肢を選びがち
+・ぺんすけ正しい判断ができているか悩む
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F15555153%2F" target="_blank" ><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/6341/9784478106341.jpg?_ex=200x200" style="border: none;" /></a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="booklink-info"><div class="booklink-name"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F15555153%2F" target="_blank" >人生は、運よりも実力よりも「勘違いさせる力」で決まっている</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"><div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">ふろむだ ダイヤモンド社 2018年08月10日    </div><div class="booklink-link2"><div class="shoplinkrakuten"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F15555153%2F" target="_blank" >楽天ブックス</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="shoplinkamazon"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4478106347" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fsearch%3Fkeywords%3D%2590l%2590%25B6%2582%25CD%2581A%2589%255E%2582%25E6%2582%25E8%2582%25E0%258E%25C0%2597%25CD%2582%25E6%2582%25E8%2582%25E0%2581u%258A%25A8%2588%25E1%2582%25A2%2582%25B3%2582%25B9%2582%25E9%2597%25CD%2581v%2582%25C5%258C%2588%2582%25DC%2582%25C1%2582%25C4%2582%25A2%2582%25E9%26__mk_ja_JP%3D%2583J%2583%255E%2583J%2583i%26url%3Dnode%253D2275256051" target="_blank" >Kindle</a></div>                              	  	  	  	  	</div></div><div class="booklink-footer"></div></div></div>]]></description>
+            <content:encoded><![CDATA[Episode 12]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/6IuMpkzi7uMWKiKW6iAsYq/6cc132dfbb2f0ff30054813801d82286/castforfun13_-_2018_12_29_15.04.mp3">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode11]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>3azifGRBvO6SYoOsqU8OEk</guid>
+            <pubDate>Sat, 22 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[「強いチームはオフィスを捨てる」という本について話しました。
+ざっくり言うとリモートワークについて書かれています。
+
+・02:14 １番気になったところ（仕事ができるできないじゃなくて人間性が重要。）
+・03:30 割れ窓理論（小さなことを徹底して火消しすると良いよ）
+・06:17 仕事におけるテキストメッセージについて
+・08:10 悩む時間（士気が下がる時間）がもったいない。心理的安全性。
+・09:40 求む、プチョヘンザ（put your hands up）タイム。質問できる時間について。
+・10:56 コバヤシ氏が「自社でリモートできる？」と問われた話。
+・12:22 同期性の話（プチョヘンザタイム、ポモドーロ・テクニック）
+
+その他リモートでもコアタイムほしいなぁ、とかクリエイティブじゃなければ邪魔されても大丈夫とか、サボっちゃうんじゃなくて働きすぎちゃうとか話しました！
+
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12610970%2F" target="_blank" ><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4339/9784152094339.jpg?_ex=200x200" style="border: none;" /></a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="booklink-info"><div class="booklink-name"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12610970%2F" target="_blank" >強いチームはオフィスを捨てる</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"><div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">ジェイソン・フリード/デイヴィッド・ハイネマイヤー・ハンソン 早川書房 2014年01月24日    </div><div class="booklink-link2"><div class="shoplinkrakuten"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F12610970%2F" target="_blank" >楽天ブックス</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="shoplinkamazon"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F4152094338" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fsearch%3Fkeywords%3D%258B%25AD%2582%25A2%2583%2560%2581%255B%2583%2580%2582%25CD%2583I%2583t%2583B%2583X%2582%25F0%258E%25CC%2582%25C4%2582%25E9%26__mk_ja_JP%3D%2583J%2583%255E%2583J%2583i%26url%3Dnode%253D2275256051" target="_blank" >Kindle</a></div>                              	  	  	  	  	</div></div><div class="booklink-footer"></div></div></div>]]></description>
+            <content:encoded><![CDATA[Episode11]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/553ZK1oiKsICKYygaoaoWI/75a376a8762e604a6906c5d4a485df77/cast-for-fun11.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 10]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>cTjRobCgzCwg8WWikA6a6</guid>
+            <pubDate>Sat, 15 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[・入江さんモノづくりの原体験
+・入江さんの学生時代 部活の話
+・インターネットを懐古する　出会い系サイト全盛期
+・iPhone黎明期にアプリで一発当てた話
+・フリーランスについて　資金繰り・キャリア形成について
+
+Twitter: <a href="https://twitter.com/iritec_jp" target="_blank">iritec_jp</a>
+Blog: <a href="https://iritec.jp/" target="_blank">IRITEC</a>
+Service：<a href="https://menta.work/" target="_blank">MENTA</a>
+Community: <a href="https://camp-fire.jp/projects/view/74574" target="_blank">入江開発室</a>
+]]></description>
+            <content:encoded><![CDATA[Episode 10]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/4SmiPOdOdiIMiSWqEc0GeO/d678e714213dce059ff617923c69f677/6715223-44100-2-489ee2d25af71.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 9]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>4v8TjfjQmceuigCmEKo6UY</guid>
+            <pubDate>Sat, 08 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[・S（エス）さんがPodcastを始めた理由
+・週一更新を守る裏技
+・Podcastをやってて良かったこと
+・エンジニアじゃないことをやってみた時のお話
+
+Twitter: <a href="https://twitter.com/goodengineer7" target="_blank">goodengineer7</a>
+Blog: <a href="https://free-engineer.xrea.jp/" target="_blank">フリーランスエンジニア実体験ブログ</a>
+S（エス）さんのPodcast: <a href="https://free-engineer.xrea.jp/techfree-podcast" target="_blank">Tech系フリーランスが選ぶ最近の気になるトピックス</a>]]></description>
+            <content:encoded><![CDATA[Episode 9]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/hGG9dPQoggomckqmE8Qsy/64ec6b278f99c440c96922ac4e44c54b/6658060-44100-2-e4c3683e27e62.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 8]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>1sFT0pdWzKKW8oUog02OQ4</guid>
+            <pubDate>Sat, 01 Dec 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[これまでの放送回の振り返りをぺんすけと小林が喋りました！
+
+・4:20 tadaken3さん
+・6:40 かわんじさん
+・9:30 naritaさん
+・13:30 コバヤシの転職事情
+・15:45 2zさん
+・19:00 Podcastの良さとぺんすけフィリピンの思い出
+・25:00 タカハシさん
+・29:00 ヒロさん
+・33:40 ぺんすけ２０代後半を憂う
+・36:00 小野さん
+・37:00 エンジニア月平均８０万は本当か？どこにそんな仕事があるのか
+・41:30 フリーランスでどうやって営業するか
+・51:00 小野さん２
+・54:00 この先のCast for Funについて
+
+番組中に話した本：
+<div class="cstmreba"><div class="booklink-box"><div class="booklink-image"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F15570624%2F" target="_blank" ><img src="https://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/4578/9784295004578.jpg?_ex=200x200" style="border: none;" /></a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="booklink-info"><div class="booklink-name"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F15570624%2F" target="_blank" >フリーランスで行こう！</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"><div class="booklink-powered-date">posted with <a href="https://yomereba.com" rel="nofollow" target="_blank">ヨメレバ</a></div></div><div class="booklink-detail">高田ゲンキ インプレス 2018年08月21日    </div><div class="booklink-link2"><div class="shoplinkrakuten"><a href="//af.moshimo.com/af/c/click?a_id=1283859&p_id=56&pc_id=56&pl_id=637&s_v=b5Rz2P0601xu&url=http%3A%2F%2Fbooks.rakuten.co.jp%2Frb%2F15570624%2F" target="_blank" >楽天ブックス</a><img src="//i.moshimo.com/af/i/impression?a_id=1283859&p_id=56&pc_id=56&pl_id=637" width="1" height="1" style="border:none;"></div><div class="shoplinkamazon"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fexec%2Fobidos%2FASIN%2F429500457X" target="_blank" >Amazon</a></div><div class="shoplinkkindle"><a href="//af.moshimo.com/af/c/click?a_id=1284061&p_id=170&pc_id=185&pl_id=4062&s_v=b5Rz2P0601xu&url=https%3A%2F%2Fwww.amazon.co.jp%2Fgp%2Fsearch%3Fkeywords%3D%2583t%2583%258A%2581%255B%2583%2589%2583%2593%2583X%2582%25C5%258Ds%2582%25B1%2582%25A4%2581I%26__mk_ja_JP%3D%2583J%2583%255E%2583J%2583i%26url%3Dnode%253D2275256051" target="_blank" >Kindle</a></div>                              	  	  	  	  	</div></div><div class="booklink-footer"></div></div></div>]]></description>
+            <content:encoded><![CDATA[Episode 8]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/9ZKXYLl78cU4CAU6aYWWO/04e15f6e40590f859c770325d96a230b/6036322-44100-2-513f1eeebead1.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 7]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>5gxeCE6htee6Skg26M4G2O</guid>
+            <pubDate>Sat, 24 Nov 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[ゲスト： 小野さん（まっきーさん）
+
+・フリーランスで活動されるまで
+・独立する前にどのくらい貯金があればいいの？
+・実際フリーランス儲かってますか？
+
+本編に収まりきれなかったフリーランスについてのお話はnoteで文字起こししました。
+こちらもぜひ読んでみてください。
+
+収録後談話：<a href="https://note.mu/rk_tech/n/n999816ed46bb" target="_blank">フリーランスになる戦略とフリーランスという生き方について</a>
+
+Twitter: <a href="https://twitter.com/nobita_x009" target="_blank">nobita_x009</a>
+Blog:<a href="https://b-masaki.me/" target="_blank">B-Minor</a>
+Web:<a href="https://tax-shindan.net/" target="_blank">ギリギリぶっちゃけ税金相談</a>
+]]></description>
+            <content:encoded><![CDATA[Episode 7]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/6RhEb28bGE8y0WAGgYi4iE/3f39d59175f6917e5ae46f317514516d/castforfun7-1.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 6]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>2KmFbpBiaIiEmQyaq44QMC</guid>
+            <pubDate>Sat, 17 Nov 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[ゲスト： ヒロさん
+
+・大学生のときからフリーランス的な働き方をしていたお話
+・キャリア変遷と当時の想い
+・地方からリモートで働きたいとおもったきっかけ
+・入江開発室の活動について
+
+Twitter: <a href="https://twitter.com/thoriumis" target="_blank">@thoriumis</a>
+note:<a href="https://note.mu/thoriumis" target="_blank">ヒロ＠ド田舎リモート系フルスタック風プログラマ</a>
+]]></description>
+            <content:encoded><![CDATA[Episode 6]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/10F1v7LwuceCUgsASUmmo4/c19dc3049be54d4aa4ea26c49bbb9b39/5694512-44100-2-d24a326ac6231.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 5]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>62b6crQgSWYEc0awoW6CAm</guid>
+            <pubDate>Sat, 10 Nov 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[ゲスト： タカハシノリアキさん
+
+・プログラミングを駆使して普段のEXCEL仕事を自動化
+・社内だけでなく外の世界でも技術格差を埋めるべく独立
+・会費を抑えつつプログラミングを勉強できる場の提供を。
+
+（ぺんすけ）個人的にノンプロ研運営方針のお話がすごく刺さりました。会費を上げずにかつ皆が勉強できる場の提供を、っていうバランスをとって実践しているのが素晴らしすぎます！
+
+Web: <a href="https://tonari-it.com/" target="_blank">いつも隣にITのお仕事 | 毎日の業務が楽チンに！</a>
+Twitter: <a href="https://twitter.com/ntakahashi0505" target="_blank">@ntakahashi0505</a>
+書籍: <a href="https://tonari-it.com/book-using-excel-vba-in-practice/" target="_blank">ExcelVBAを実務で使い倒す技術</a>
+書籍: <a href="https://tonari-it.com/google-apps-script-perfect-guide-book/" target="_blank">詳解！Google Apps Script完全入門</a>]]></description>
+            <content:encoded><![CDATA[Episode 5]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/4fW7JbhoPmMoGMece66QGQ/758f9988a3139c8ce97ec6db2e2bf2a0/5619310-44100-2-ab1438fd890db.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 4]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>3FaINHt9yMO0iU06WSmYOG</guid>
+            <pubDate>Sat, 03 Nov 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[ゲスト： 2zさん
+・2zさんのプログラミング経歴を振り返る
+・高校生のときにガラケーサイトで○万円！？
+・大ヒットAIメーカーについて
+
+Web: <a href="https://aimaker.io/" target="_blank">AIメーカー</a>
+Twitter: <a href="https://twitter.com/2zn01" target="_blank">@2zn01</a>]]></description>
+            <content:encoded><![CDATA[Episode 4]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/7e71svW53iOsG6mc4ouyeO/1af83f3847ed7fc64e76ab8f21a9850e/castforfun4.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 3]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>4MBJYTAZYcMwsEQAA6aEYI</guid>
+            <pubDate>Sat, 27 Oct 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[ゲスト： naritaさん
+・フルスタックエンジニアになるまでの経緯
+・入江開発室での活動について
+
+Twitter: <a href="https://twitter.com/narinarita1980" target="_blank">@narinarita1980</a>]]></description>
+            <content:encoded><![CDATA[Episode 3]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/4DHt33fQPu6ME2uMsmKOwY/c558f45cba8cd5ad15d920a57336eeb7/castforfun3.mp3">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 2]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>3SeoW0KbK0UGmiAoG844oC</guid>
+            <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[ゲスト： かわんじさん
+・起業に至った経緯
+・プログラミング完全初心者からサービスリリースまでの勉強法
+・開発したサービス（01Books）について
+
+Web: <a href="https://www.booqs.net/" target="_blank">01Books</a>
+Twitter: <a href="https://twitter.com/kawanji01" target="_blank">@kawanji01</a>]]></description>
+            <content:encoded><![CDATA[Episode 2]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/4dWZUs3k2IY40ie4oukQKy/c7558bd1c649f6ced15e228c8450037e/cast-for-fun3.m4a">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 1]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>2WL6QiKTGMmQIsASWKIyKa</guid>
+            <pubDate>Sat, 13 Oct 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[ゲスト： tadaken3さん
+・ブログを書く技術他
+・会社員であることのメリット
+
+Blog: <a href="https://tadaken3.hatenablog.jp/" target="_blank">タダケンのEnjoy Tech</a>
+Twitter: <a href="https://twitter.com/tadaken3" target="_blank">@tadaken3</a>
+
+<a href="https://tonari-it.com/" target="_blank">いつも隣にITのお仕事</a>]]></description>
+            <content:encoded><![CDATA[Episode 1]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/3UbDBqrObuKQyKG8waiOiU/3961913fcd8e2bf17f5b8c9f8b5ca21d/_________________________-_2018_10_11_21.16.mp3">
+            </enclosure>
+        </item>
+        <item>
+            <title><![CDATA[Episode 0]]></title>
+            <link>https://cast-for.fun</link>
+            <guid>6O4Y2nbq1yU8QUUMSQKqag</guid>
+            <pubDate>Mon, 08 Oct 2018 00:00:00 GMT</pubDate>
+            <description><![CDATA[はじめてのPodcast
+プログラミングの勉強法について]]></description>
+            <content:encoded><![CDATA[Episode 0]]></content:encoded>
+            <enclosure url="https://downloads.ctfassets.net/vl3ql51r8uhi/3ftTikKyHmIUA8iK62c8eA/a68358cc64663cf50696a34f58a7c34c/cast-for-fun_00.m4a">
+            </enclosure>
+        </item>
+    </channel>
+</rss>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>熊谷と繪面がプログラミングコードの内から聴こえてくる声に耳を傾けて楽しむラジオ</title>
+	<atom:link href="https://kepc.mookmookradio.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://kepc.mookmookradio.com</link>
+	<description>mookmook radio</description>
+	<lastBuildDate>
+	Mon, 11 Mar 2019 08:00:55 +0000	</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>https://kepc.mookmookradio.com/wp-content/uploads/2017/06/cropped-bci_mkmk_full-5-1-32x32.jpg</url>
+	<title>熊谷と繪面がプログラミングコードの内から聴こえてくる声に耳を傾けて楽しむラジオ</title>
+	<link>https://kepc.mookmookradio.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>第62回　Static と Singleton　2019年3月11日配信　#mook05</title>
+		<link>https://kepc.mookmookradio.com/podcast/62/</link>
+				<pubDate>Mon, 11 Mar 2019 07:50:21 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Singleton]]></category>
+		<category><![CDATA[static]]></category>
+		<category><![CDATA[Static と Singleton]]></category>
+
+		<guid isPermaLink="false">https://kepc.mookmookradio.com/?p=694</guid>
+				<description><![CDATA[【今回のテーマ】 Static と Singleton]]></description>
+								<content:encoded><![CDATA[<p>【今回のテーマ】<br />
+Static と Singleton</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-3"><a href="https://apple.co/2O9FL1c" target="_blank" rel="noopener noreferrer"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-383" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2uVAGka" target="_blank" rel="noopener noreferrer"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-382" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2LgPmFJ" target="_blank" rel="noopener noreferrer"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png" alt="" width="360" height="100" class="aligncenter size-full wp-image-504" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png 360w, https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100-300x83.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+							<enclosure url="https://media.blubrry.com/mkkepc/kepc.mookmookradio.com/wp-content/uploads/2019/02/A-0005_62_20190311.mp3" length="71400723" type="audio/mpeg" />
+			</item>
+		<item>
+		<title>第61回　プログラミングするとき、何考えてる？　2019年2月25日配信　#mook05</title>
+		<link>https://kepc.mookmookradio.com/podcast/61/</link>
+				<pubDate>Mon, 25 Feb 2019 07:50:28 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[プログラミングするとき、何考えてる？]]></category>
+
+		<guid isPermaLink="false">https://kepc.mookmookradio.com/?p=691</guid>
+				<description><![CDATA[【今回のテーマ】 プログラミングするとき、何考えてる？]]></description>
+								<content:encoded><![CDATA[<p>【今回のテーマ】<br />
+プログラミングするとき、何考えてる？</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-3"><a href="https://apple.co/2O9FL1c" target="_blank" rel="noopener noreferrer"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-383" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2uVAGka" target="_blank" rel="noopener noreferrer"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-382" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2LgPmFJ" target="_blank" rel="noopener noreferrer"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png" alt="" width="360" height="100" class="aligncenter size-full wp-image-504" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png 360w, https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100-300x83.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+</blockquote>
+]]></content:encoded>
+							<enclosure url="https://media.blubrry.com/mkkepc/kepc.mookmookradio.com/wp-content/uploads/2019/02/A-0005_61_20190225.mp3" length="69621888" type="audio/mpeg" />
+			</item>
+		<item>
+		<title>第60回　ゼロから始まるインデックス　2019年2月11日配信　#mook05</title>
+		<link>https://kepc.mookmookradio.com/podcast/60/</link>
+				<pubDate>Mon, 11 Feb 2019 07:50:40 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[ゼロから始まるインデックス]]></category>
+
+		<guid isPermaLink="false">https://kepc.mookmookradio.com/?p=674</guid>
+				<description><![CDATA[【今回のテーマ】 ゼロから始まるインデックス]]></description>
+								<content:encoded><![CDATA[<p>【今回のテーマ】<br />
+ゼロから始まるインデックス</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-3"><a href="https://apple.co/2O9FL1c" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-383" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2uVAGka" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-382" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2LgPmFJ" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png" alt="" width="360" height="100" class="aligncenter size-full wp-image-504" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png 360w, https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100-300x83.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+							<enclosure url="https://media.blubrry.com/mkkepc/kepc.mookmookradio.com/wp-content/uploads/2019/02/A-0005_60_20190211.mp3" length="81378245" type="audio/mpeg" />
+			</item>
+		<item>
+		<title>第59回　日常で使ってみたプログラミング　2019年1月28日配信　#mook05</title>
+		<link>https://kepc.mookmookradio.com/podcast/59/</link>
+				<pubDate>Mon, 28 Jan 2019 07:50:41 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[日常で使ってみたプログラミング]]></category>
+
+		<guid isPermaLink="false">https://kepc.mookmookradio.com/?p=671</guid>
+				<description><![CDATA[【今回のテーマ】 日常で使ってみたプログラミング]]></description>
+								<content:encoded><![CDATA[<p>【今回のテーマ】<br />
+日常で使ってみたプログラミング</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-3"><a href="https://apple.co/2O9FL1c" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-383" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2uVAGka" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-382" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2LgPmFJ" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png" alt="" width="360" height="100" class="aligncenter size-full wp-image-504" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png 360w, https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100-300x83.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+							<enclosure url="https://media.blubrry.com/mkkepc/kepc.mookmookradio.com/wp-content/uploads/2019/01/A-0005_59_20190128.mp3" length="83169618" type="audio/mpeg" />
+			</item>
+		<item>
+		<title>第58回　コミットメッセージのルール　2019年1月14日配信　#mook05</title>
+		<link>https://kepc.mookmookradio.com/podcast/58/</link>
+				<pubDate>Mon, 14 Jan 2019 07:50:59 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[コミットメッセージ]]></category>
+		<category><![CDATA[コミットメッセージのルール]]></category>
+		<category><![CDATA[ルール]]></category>
+
+		<guid isPermaLink="false">https://kepc.mookmookradio.com/?p=657</guid>
+				<description><![CDATA[【今回のテーマ】 コミットメッセージのルール]]></description>
+								<content:encoded><![CDATA[<p>【今回のテーマ】<br />
+コミットメッセージのルール</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-3"><a href="https://apple.co/2O9FL1c" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-383" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2uVAGka" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-382" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2LgPmFJ" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png" alt="" width="360" height="100" class="aligncenter size-full wp-image-504" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png 360w, https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100-300x83.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+							<enclosure url="https://media.blubrry.com/mkkepc/kepc.mookmookradio.com/wp-content/uploads/2019/01/A-0005_58_20190114.mp3" length="78210950" type="audio/mpeg" />
+			</item>
+		<item>
+		<title>第57回　コンクリートクラス　2018年12月24日配信　#mook05</title>
+		<link>https://kepc.mookmookradio.com/podcast/57/</link>
+				<pubDate>Mon, 24 Dec 2018 07:50:13 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[コンクリートクラス]]></category>
+
+		<guid isPermaLink="false">https://kepc.mookmookradio.com/?p=653</guid>
+				<description><![CDATA[【今回のテーマ】 コンクリートクラス]]></description>
+								<content:encoded><![CDATA[<p>【今回のテーマ】<br />
+コンクリートクラス</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-3"><a href="https://apple.co/2O9FL1c" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-383" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2uVAGka" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-382" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2LgPmFJ" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png" alt="" width="360" height="100" class="aligncenter size-full wp-image-504" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png 360w, https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100-300x83.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+							<enclosure url="https://media.blubrry.com/mkkepc/kepc.mookmookradio.com/wp-content/uploads/2018/12/A-0005_57_20181224.mp3" length="81146695" type="audio/mpeg" />
+			</item>
+		<item>
+		<title>第56回　普段、プログラムって作りますか？　2018年12月10日配信　#mook05</title>
+		<link>https://kepc.mookmookradio.com/podcast/56/</link>
+				<pubDate>Mon, 10 Dec 2018 07:50:49 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[普段、プログラムって作りますか？]]></category>
+
+		<guid isPermaLink="false">https://kepc.mookmookradio.com/?p=641</guid>
+				<description><![CDATA[【今回のテーマ】 普段、プログラムって作りますか？]]></description>
+								<content:encoded><![CDATA[<p>【今回のテーマ】<br />
+普段、プログラムって作りますか？</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-3"><a href="https://apple.co/2O9FL1c" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-383" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2uVAGka" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-382" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2LgPmFJ" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png" alt="" width="360" height="100" class="aligncenter size-full wp-image-504" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png 360w, https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100-300x83.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+							<enclosure url="https://media.blubrry.com/mkkepc/kepc.mookmookradio.com/wp-content/uploads/2018/11/A-0005_56_20181210.mp3" length="85762637" type="audio/mpeg" />
+			</item>
+		<item>
+		<title>第55回　Swift Diagnostics スタイル　2018年11月26日配信　#mook05</title>
+		<link>https://kepc.mookmookradio.com/podcast/55/</link>
+				<pubDate>Mon, 26 Nov 2018 07:50:31 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[Swift]]></category>
+		<category><![CDATA[Swift Diagnostics スタイル]]></category>
+
+		<guid isPermaLink="false">https://kepc.mookmookradio.com/?p=639</guid>
+				<description><![CDATA[【今回のテーマ】 Swift Diagnostics スタイル]]></description>
+								<content:encoded><![CDATA[<p>【今回のテーマ】<br />
+Swift Diagnostics スタイル</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-3"><a href="https://apple.co/2O9FL1c" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-383" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2uVAGka" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-382" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2LgPmFJ" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png" alt="" width="360" height="100" class="aligncenter size-full wp-image-504" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png 360w, https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100-300x83.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+							<enclosure url="https://media.blubrry.com/mkkepc/kepc.mookmookradio.com/wp-content/uploads/2018/11/A-0005_55_20181126.mp3" length="81087345" type="audio/mpeg" />
+			</item>
+		<item>
+		<title>第54回　再考 SwiftLint　2018年11月12日配信　#mook05</title>
+		<link>https://kepc.mookmookradio.com/podcast/54/</link>
+				<pubDate>Mon, 12 Nov 2018 07:50:15 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[SwiftLint]]></category>
+
+		<guid isPermaLink="false">https://kepc.mookmookradio.com/?p=625</guid>
+				<description><![CDATA[【今回のテーマ】 再考 SwiftLint]]></description>
+								<content:encoded><![CDATA[<p>【今回のテーマ】<br />
+再考 SwiftLint</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-3"><a href="https://apple.co/2O9FL1c" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-383" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2uVAGka" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-382" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2LgPmFJ" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png" alt="" width="360" height="100" class="aligncenter size-full wp-image-504" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png 360w, https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100-300x83.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+							<enclosure url="https://media.blubrry.com/mkkepc/kepc.mookmookradio.com/wp-content/uploads/2018/11/A-0005_54_20181112.mp3" length="86665428" type="audio/mpeg" />
+			</item>
+		<item>
+		<title>第53回　イニシャライザー Part 2　2018年10月22日配信　#mook05</title>
+		<link>https://kepc.mookmookradio.com/podcast/53/</link>
+				<pubDate>Mon, 22 Oct 2018 07:50:12 +0000</pubDate>
+		<dc:creator><![CDATA[番組staff]]></dc:creator>
+				<category><![CDATA[podcast]]></category>
+		<category><![CDATA[イニシャライザー]]></category>
+		<category><![CDATA[イニシャライザー Part 2]]></category>
+
+		<guid isPermaLink="false">https://kepc.mookmookradio.com/?p=623</guid>
+				<description><![CDATA[【今回のテーマ】 イニシャライザー Part 2]]></description>
+								<content:encoded><![CDATA[<p>【今回のテーマ】<br />
+イニシャライザー Part 2</p>
+<blockquote>
+<div class="post_row">
+<div class="post_col post_col-3"><a href="https://apple.co/2O9FL1c" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-383" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_banner_apple360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2uVAGka" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg" alt="" width="360" height="100" class="aligncenter size-full wp-image-382" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100.jpg 360w, https://kepc.mookmookradio.com/wp-content/uploads/2017/10/20171003_android_360×100-300x83.jpg 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+<div class="post_col post_col-3"><a href="http://bit.ly/2LgPmFJ" target="_blank"><img src="http://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png" alt="" width="360" height="100" class="aligncenter size-full wp-image-504" srcset="https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100.png 360w, https://kepc.mookmookradio.com/wp-content/uploads/2018/03/ヒマラヤ_360×100-300x83.png 300w" sizes="(max-width: 360px) 100vw, 360px" /></a></div>
+</div>
+]]></content:encoded>
+							<enclosure url="https://media.blubrry.com/mkkepc/kepc.mookmookradio.com/wp-content/uploads/2018/10/A-0005_53_20181022.mp3" length="88945814" type="audio/mpeg" />
+			</item>
+	</channel>
+</rss>

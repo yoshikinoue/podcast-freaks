@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://podcast.diverse-inc.com/</link>
+    <title>Diverse Podcast</title>
+    <description>Diverse（ダイバース）社員が、会社/事業の魅力と現状をお伝えするPodcast</description>
+    <media:keywords>love,engineering,programming</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>Diverse（ダイバース）社員が、会社/事業の魅力と現状をお伝えするPodcast</itunes:subtitle>
+    <itunes:author>株式会社Diverse</itunes:author>
+    <itunes:summary>Diverse（ダイバース）社員が、会社/事業の魅力と現状をお伝えするPodcast</itunes:summary>
+    <itunes:keywords>love,engineering,programming</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>株式会社Diverse</itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://podcast.diverse-inc.com/images/artwork.png" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>8. 大規模技術イベントの運営との付き合い方（DroidKaigiや技術書典の運営裏話と開催にむけての想い）</title>
+        <link>https://podcast.diverse-inc.com/episode/8</link>
+        <pubDate>Fri, 08 Feb 2019 12:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://droidkaigi.jp/2019/&quot;&gt;DroidKaigi 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/&quot;&gt;技術書典 | 技術書典&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tech.mercari.com/entry/2017/08/18/100253&quot;&gt;「技術をアウトプットするところに技術は集まる」ソウゾウ エキスパートチームの役割 - Mercari Engineering Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://poiboy.jp/&quot;&gt;Poiboy(ポイボーイ)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://events.google.com/io/&quot;&gt;Google I/O&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/konifar/droidkaigi-2018-ios-appfalseappleshen-cha-gatong-rumade&quot;&gt;DroidKaigi 2018 iOS appのApple審査が通るまで&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://droidkaigi.jp/2019/timetable/40b2c863-c28f-43b2-8071-617d88c1b09a/&quot;&gt;Codelabs: Free Theme - DroidKaigi 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://droidkaigi.jp/2019/staff/&quot;&gt;運営スタッフ - DroidKaigi 2019&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://podcast.diverse-inc.com/episode/8</guid>
+        <enclosure url="https://podcast.diverse-inc.com/audio/8.mp3" length="31135939" type="audio/mp3"/>
+        <itunes:author>株式会社Diverse</itunes:author>
+        <itunes:subtitle>DroidKaigi 2019 2日目の会場にて、DroidKaigi 2019主催者のmhidaka（日高）さんをゲストにお招きして、imaizume（今泉）がDroidKaigi 2019と技術書典の概要、運営にまつわるやりがいと苦労、技術イベントに対する企業の関わり方、技術イベントを開催するモチベーションについて話しました。</itunes:subtitle>
+        <itunes:duration>24:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.diverse-inc.com/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>7. Flutterコミュニティとの付き合い方（企業は技術コミュニティに何ができるのか）</title>
+        <link>https://podcast.diverse-inc.com/episode/7</link>
+        <pubDate>Thu, 07 Feb 2019 12:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://droidkaigi.jp/2019/&quot;&gt;DroidKaigi 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flutter-jp.connpass.com/&quot;&gt;Flutter Meetupを開催しているFlutter Japan User Group&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/konifar/kododejian-ruflutterapurifalseshi-zhuang&quot;&gt;昨年のDroidKaigiでkonifarさんがされたFlutterについての発表『コードで見るFlutterアプリの実装』&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/konifar/droidkaigi2018-flutter&quot;&gt;昨年のFlutter製カンファレンスアプリ（非公式）konifar/droidkaigi2018-flutter: The unofficial conference app for DroidKaigi 2018 Tokyo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rkowase.hatenablog.com/entry/2018/03/18/154816&quot;&gt;potatotipsで「try! Flutter」という発表をしました - Rui Kowase’s blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flutter.io/&quot;&gt;Flutter - Beautiful native apps in record time&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;React Native · A framework for building native apps using React&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shibuya-apk.connpass.com/&quot;&gt;Shibuya.apk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/flutter/flutter/wiki/Add-Flutter-to-existing-apps&quot;&gt;Flutterを既存アプリに追加する『Add2App』&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youbride.jp/&quot;&gt;youbride（ユーブライド）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.gizmodo.jp/2018/07/fuchsia-5years.html&quot;&gt;Googleの新OS｢Fuchsia｣がAndroidを5年後に置き換えるかも | ギズモード・ジャパン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://medium.com/flutter-io/hummingbird-building-flutter-for-the-web-e687c2a023a8&quot;&gt;Hummingbird: FlutterでWebアプリを作れるようにするプロジェクト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.publickey1.jp/blog/18/kotlinnativekotlin_13winmaciosandroidwebassemblykotlinconf_2018.html&quot;&gt;Kotlin/Nativeがベータに到達、Kotlin 1.3にバンドル。Win/Mac/iOS/Android/WebAssemblyのバイナリ生成。KotlinConf 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flutter-jp.connpass.com/event/89623/&quot;&gt;Flutter Meetup Osaka #1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCuxMTyir8TUq0qO6nUvjhPw/videos&quot;&gt;Flutter Meetupのストリーミング配信&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/flutterio/status/1090655885221875712&quot;&gt;Flutter User Survey&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://docs.google.com/presentation/d/1Ra8hVovwTwH8kx1Q-QRVb1E9aHhGvADmgXEVSmeBlvM/edit?usp=sharing&quot;&gt;KotlinでFlutterアプリを書きたい&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flutter-io.cn/&quot;&gt;Flutter in China&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?time_continue=8&amp;amp;v=jtYk3gWRSw0&quot;&gt;AlibabaがFlutterを使い ５千万人以上のユーザーをもつ閑魚（シャンユー）アプリを作成（Flutterデベロッパーの話）
+&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://podcast.diverse-inc.com/episode/7</guid>
+        <enclosure url="https://podcast.diverse-inc.com/audio/7.mp3" length="22918384" type="audio/mp3"/>
+        <itunes:author>株式会社Diverse</itunes:author>
+        <itunes:subtitle>DroidKaigi 2019 1日目の会場にて、Flutter JP Orgnizer のrkowase（小和瀬）さんをゲストにお招きして、kikuchy（菊池）が企業とFlutterコミュニティの関わり方についてうかがいました。</itunes:subtitle>
+        <itunes:duration>26:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.diverse-inc.com/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>6. 歴史あるサービスや文化との付き合い方（Diverse＝ダイバーシティって何？を掘り下げてみた）</title>
+        <link>https://podcast.diverse-inc.com/episode/6</link>
+        <pubDate>Tue, 05 Feb 2019 12:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;訂正とお詫び&quot;&gt;訂正とお詫び&lt;/h2&gt;
+
+&lt;p&gt;31:08あたりで「千葉県がパートナシップ制度を都道府県で初めて導入した」という旨の話をしましたが、正しくは「茨城県」でした、 また千葉市でパートナーシップ宣誓制度が施行されています。
+訂正してお詫びいたします 🙇
+(y-oda)&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yyc.co.jp/&quot;&gt;YYC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://poiboy.jp/&quot;&gt;Poiboy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://podcast.diverse-inc.com/episode/3&quot;&gt;Diverse Podcast #3 「0→1」フェーズから「1→100」のフェーズに入ったサービスとの付き合い方（Poiboy iOSアプリの開発現場） - Diverse Podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/diverse-inc/post_articles/152446&quot;&gt;チーム主導で「まずやってみる」ができる秘訣は、メンバー同士の○○にあり！～Poiboyチームの場合～ 株式会社Diverse’s Blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youbride.jp/&quot;&gt;youbride&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://expo.horiemon.com/contents/#D&quot;&gt;ホリエモン万博2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://podcast.diverse-inc.com/episode/5&quot;&gt;5. 恋愛と性と人付き合いの悩みとの付き合い方（恋愛Webメディア運営とチャットのコツ） - Diverse Podcast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developer.diverse-inc.com/entry/2018/11/14/155804&quot;&gt;弊社エンジニア３人がDroidKaigi 2019に登壇します - Diverse developer blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/Diverse.inc/&quot;&gt;Diverse公式Facebookページ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mixil.mixi.co.jp/company/665&quot;&gt;堀潤さんが講師で登壇！LGBT基礎講座を開催いたしました。 - ミクシル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.gewel.org/d-i/&quot;&gt;ダイバーシティ＆インクルージョンについて&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mainichi.jp/articles/20190129/k00/00m/040/233000c&quot;&gt;茨城県がパートナーシップ制度導入を検討 LGBTなど対象 都道府県初 - 毎日新聞&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.tv-asahi.co.jp/ossanslove/&quot;&gt;土曜ナイトドラマ『おっさんずラブ』&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9C%E3%83%BC%E3%82%A4%E3%82%BA%E3%83%A9%E3%83%96&quot;&gt;BL (ボーイズラブ)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tokyorainbowpride.com/&quot;&gt;東京レインボープライド | TOKYO RAINBOW PRIDE : TRP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sbbit.jp/article/cont1/35619&quot;&gt;「ゾーニング」とは何か？LGBTのアウティングを防ぐために知っておくべきこと ｜ビジネス+IT&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.mhlw.go.jp/content/11900000/000333507.pdf&quot;&gt;職場でのセクシュアルハラスメント&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.diverse-inc.com/episode/6</guid>
+        <enclosure url="https://podcast.diverse-inc.com/audio/6.mp3" length="57730534" type="audio/mp3"/>
+        <itunes:author>株式会社Diverse</itunes:author>
+        <itunes:subtitle>y-oda（小田）とimaizume（今泉）の二人が、株式会社Diverse（ダイバース）のマッチングアプリであるYYC（ワイワイシー）や、Diverseにおける多様性を認める文化、ダイバーシティに対するトレンドや疑問について話しました。</itunes:subtitle>
+        <itunes:duration>48:42</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.diverse-inc.com/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>5. 恋愛と性と人付き合いの悩みとの付き合い方（恋愛Webメディア運営とチャットのコツ）</title>
+        <link>https://podcast.diverse-inc.com/episode/5</link>
+        <pubDate>Fri, 26 Oct 2018 14:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;diverseが提供するオンラインメディア&quot;&gt;Diverseが提供するオンラインメディア&lt;/h2&gt;
+
+&lt;p&gt;Diverseはマッチングサービス（デーティングサービス）のみならず、恋愛に関連するオンラインメディアも運営しています。
+&lt;a href=&quot;https://am-our.com/&quot;&gt;AM（アム）&lt;/a&gt;は女性の恋愛の悩みを解決するメディアです。&lt;/p&gt;
+
+&lt;p&gt;2018年5月にAMに統合されましたが、
+おひとりさまで生きる人のためのメディア&lt;a href=&quot;https://sololife.jp/&quot;&gt;SOLO（ソロ）&lt;/a&gt;、
+夫婦像の新しい形を模索するメディア&lt;a href=&quot;https://tofufu.me/&quot;&gt;TOFUFU（トフーフ）&lt;/a&gt;も運営していました。&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://am-our.com/&quot;&gt;AM（アム）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yyc.co.jp/&quot;&gt;YYC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youbride.jp/&quot;&gt;youbride&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://am-our.booth.pm/items/447390&quot;&gt;恋愛メディアがひろってくれない童貞の疑問を解決する本&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://portal.nifty.com/bikkurisale03/&quot;&gt;ウェブメディアびっくりセール&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://am-our.booth.pm/&quot;&gt;AMの同人誌は他にもたくさんあります&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.tv-tokyo.co.jp/plus/entertainment/entry/2018/017730.html&quot;&gt;AM編集長の金井がテレビ東京系『おしゃべりオジサンとヤバイ女』に出演しました&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.j-wave.co.jp/blog/news/2017/06/-ng.html&quot;&gt;J-WAVEの番組にも出演しました&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/diverse-inc/post_articles/138002&quot;&gt;Diverseは社内コミュニケーションツールにSlackを使用しています&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/2%E3%81%A1%E3%82%83%E3%82%93%E3%81%AD%E3%82%8B%E7%94%A8%E8%AA%9E&quot;&gt;2ちゃんねるのネットスラング&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.diverse-inc.com/episode/5</guid>
+        <enclosure url="https://podcast.diverse-inc.com/audio/5.mp3" length="18703521" type="audio/mp3"/>
+        <itunes:author>株式会社Diverse</itunes:author>
+        <itunes:subtitle>kanaimarie（金井）とkikuchy（菊池）の二人が、株式会社Diverse（ダイバース）のAM（アム）という恋愛メディアと、インターネットメディアの作り方、チャットでのコミュニケーションについて話しました。</itunes:subtitle>
+        <itunes:duration>28:01</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.diverse-inc.com/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>4. エンジニアが聞く！婚活サービスとの付き合い方（&quot;モテる&quot;エンジニアになるためのアドバイス）</title>
+        <link>https://podcast.diverse-inc.com/episode/4</link>
+        <pubDate>Wed, 10 Oct 2018 16:30:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;diverseが提供するオフラインサービス&quot;&gt;Diverseが提供するオフラインサービス&lt;/h2&gt;
+
+&lt;p&gt;Diverseはオンラインのみならず、オフラインの恋愛・婚活のためのサービスも提供しています。
+&lt;a href=&quot;https://tailor.style/&quot;&gt;tailor（テイラー）&lt;/a&gt;は忙しいビジネスマンのためにデートを設定してくれるサービス、
+&lt;a href=&quot;https://party.youbride.jp/&quot;&gt;YUCO.（ユーコ）&lt;/a&gt;は好きな人が見つかる婚活パーティーサービスです。&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tailor.style/&quot;&gt;tailor（テイラー）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youbride.jp/&quot;&gt;youbride（ユーブライド）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youbride.jp/guide/premium_option/&quot;&gt;youbrideのコンシェルジュサービス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://party.youbride.jp/&quot;&gt;YUCO.（ユーコ）&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.diverse-inc.com/episode/4</guid>
+        <enclosure url="https://podcast.diverse-inc.com/audio/4.mp3" length="24658647" type="audio/mp3"/>
+        <itunes:author>株式会社Diverse</itunes:author>
+        <itunes:subtitle>田代と蔵津とさむけい（藤田）とkikuchy（菊池）の四人が、株式会社Diverse（ダイバース）のtailor、youbrideコンシェルジュ、YUCO.というサービスと、エンジニアの婚活の悩みについて話しました。</itunes:subtitle>
+        <itunes:duration>38:41</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.diverse-inc.com/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>3. 「0→1」フェーズから「1→100」のフェーズに入ったサービスとの付き合い方（Poiboy iOSアプリの開発現場）</title>
+        <link>https://podcast.diverse-inc.com/episode/3</link>
+        <pubDate>Wed, 29 Aug 2018 12:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;勉強会登壇の支援&quot;&gt;勉強会登壇の支援&lt;/h2&gt;
+
+&lt;p&gt;Diverseでは社員の勉強会登壇を支援しています。
+登壇した社員にはインセンティブが入る制度があります。&lt;/p&gt;
+
+&lt;h2 id=&quot;訂正とお詫び&quot;&gt;訂正とお詫び&lt;/h2&gt;
+
+&lt;p&gt;20:38あたりで「当時のCircleCIではメモリが2GBしか使えなかった、Bitriseは4GB使えた」という旨の話をしておりますが、正しくはCircleCIで使用できるのは4GB、Bitriseで使用できるのは7.5GBでした。
+訂正してお詫びいたします 🙇
+(kikuchy)&lt;/p&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ibjapan.jp/information/2018/05/ibj-8.html&quot;&gt;DiverseがIBJグループの一員に&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://poiboy.jp/&quot;&gt;女性主導のマッチングアプリ Poiboy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/imaizume/hobo-biao-zhun-raiburaridakedesurotutogemuwoshi-zhuang-sitahua&quot;&gt;(ほぼ)標準ライブラリだけでスロットゲームを実装した話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/yotsu7/items/e2e5230aa786cd8d678e&quot;&gt;目標指標に定義したAnalyticsEventを使用しFirebaseでA/BTestを行う手順(iOS向け)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.bitrise.io/&quot;&gt;bitrise.io&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/Hearst-DD/ObjectMapper&quot;&gt;ObjectMapper&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://devcenter.bitrise.io/caching/about-caching/&quot;&gt;Bitriseのキャッシュ設定&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fastlane.tools/&quot;&gt;fastlane&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://zeplin.io/&quot;&gt;Zeplin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/tarunon/Instantiate&quot;&gt;Instantiate&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://podcast.diverse-inc.com/episode/3</guid>
+        <enclosure url="https://podcast.diverse-inc.com/audio/3.mp3" length="27742315" type="audio/mp3"/>
+        <itunes:author>株式会社Diverse</itunes:author>
+        <itunes:subtitle>imaizume（今泉）と　yotsu（四柳）とkikuchy（菊池）の三人が、株式会社Diverse（ダイバース）のPoiboyというサービスのiOSクライアント開発について話しました。</itunes:subtitle>
+        <itunes:duration>36:13</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.diverse-inc.com/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>2. 親会社が変わった会社との付き合い方（組織制度改革の進め方）</title>
+        <link>https://podcast.diverse-inc.com/episode/2</link>
+        <pubDate>Tue, 24 Jul 2018 12:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;社内制度３つの柱&quot;&gt;社内制度３つの柱&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;多様性のある働き方&lt;/li&gt;
+  &lt;li&gt;自立性の尊重&lt;/li&gt;
+  &lt;li&gt;成長支援&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://poiboy.jp/&quot;&gt;女性主導のマッチングアプリ Poiboy&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ibjapan.jp/information/2018/05/ibj-8.html&quot;&gt;DiverseがIBJグループの一員に&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://employment.en-japan.com/tenshoku-daijiten/13360/&quot;&gt;フレックスタイム制におけるコアタイムとは&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/diverse-inc/post_articles/124679&quot;&gt;弊社開発室長の野口&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.diverse-inc.com/episode/2</guid>
+        <enclosure url="https://podcast.diverse-inc.com/audio/2.mp3" length="19451684" type="audio/mp3"/>
+        <itunes:author>株式会社Diverse</itunes:author>
+        <itunes:subtitle>とーま（當眞）とkikuchy（菊池）の二人が、株式会社Diverse（ダイバース）がミクシィグループからIBJグループに移った際にやったことについて話しました。</itunes:subtitle>
+        <itunes:duration>26:57</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.diverse-inc.com/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>1. 成人したプロダクトとの付き合い方（レガシーなコードベースとの向き合い方）</title>
+        <link>https://podcast.diverse-inc.com/episode/1</link>
+        <pubDate>Fri, 15 Jun 2018 15:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;訂正とお詫び&quot;&gt;訂正とお詫び&lt;/h2&gt;
+
+&lt;p&gt;2:30 あたりで「youbrideがオン・ザ・エッヂ時代からオン・ザ・エッヂが運営していた」という趣旨の話をしておりましたが、正確には以下の流れをたどったサービスであり、オン・ザ・エッヂ時代にはまだオン・ザ・エッヂが提供しているサービスではなかったようです。訂正してお詫びいたします 🙇（kikuchy）&lt;/p&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;2004年2月にオン・ザ・エッヂ（当時はエッジ株式会社）が株式会社ライブドアに商号を変更&lt;/li&gt;
+  &lt;li&gt;2004年9月にyoubrideの前身となるサービスを買収&lt;/li&gt;
+  &lt;li&gt;2007年2月にyoubrideに名称変更&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://youbride.jp/&quot;&gt;日本最大級の婚活サービス youbride&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/web/progressive-web-apps/?hl=ja&quot;&gt;Progressive Web Apps (PWA)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kotlinlang.org/&quot;&gt;Kotlin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://flutter.io/&quot;&gt;Flutter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.googleblog.com/2018/05/ready-for-production-apps-flutter-beta-3.html&quot;&gt;AlibabaがFlutterを使用している&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://yyc.co.jp/&quot;&gt;日本最大級の出会い応援サービス YYC&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.appcelerator.com/Titanium/&quot;&gt;Titanium&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://facebook.github.io/react-native/&quot;&gt;ReactNative&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.dartlang.org/&quot;&gt;Dart&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bulma.io/&quot;&gt;CSSフレームワーク Bulma&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://getbootstrap.com/&quot;&gt;Bootstrap&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://jquery.com/&quot;&gt;jQuery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://sass-lang.com/&quot;&gt;Sass&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://lucene.apache.org/solr/&quot;&gt;Apache Solr&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://podcast.diverse-inc.com/episode/1</guid>
+        <enclosure url="https://podcast.diverse-inc.com/audio/1.mp3" length="21716324" type="audio/mp3"/>
+        <itunes:author>株式会社Diverse</itunes:author>
+        <itunes:subtitle>さむけい（藤田）とkikuchy（菊池）の二人が、18年もの歴史がある婚活サービスyoubrideのコードベースへの取り組みと改善について話しました。</itunes:subtitle>
+        <itunes:duration>22:05</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://podcast.diverse-inc.com/images/artwork.png"/>
+      </item>
+    
+  </channel>
+</rss>

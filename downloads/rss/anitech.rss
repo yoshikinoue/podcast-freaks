@@ -1,0 +1,269 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	        xmlns:media="http://search.yahoo.com/mrss/"
+        xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+>
+
+<channel>
+	<title>Anitech.fm</title>
+	<atom:link href="https://anitech.fm/feed/" rel="self" type="application/rss+xml" />
+	<link>https://anitech.fm</link>
+	<description>オタクエンジニアがアニメとテックの話題をお届けするポッドキャスト</description>
+	<lastBuildDate>Sat, 20 Oct 2018 15:34:24 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	                <media:thumbnail url="http://anitech.fm/wp-content/uploads/2018/10/anitech.fm-sq-5-240x240.png" />
+        <media:keywords>Tech,Technology,Anime,Animation,IT,Web,PHP,WordPress,Startup,Venture,AI,VR,VTuber,Virtual Currency,Game,Manga,Comic,Table Tennis</media:keywords>
+        <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd"></media:category>
+                <copyright>sola</copyright>
+        <itunes:author>sola</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://anitech.fm/wp-content/uploads/2018/10/anitech.fm-sq-5.png" />
+        <itunes:keywords>Tech,Technology,Anime,Animation,IT,Web,PHP,WordPress,Startup,Venture,AI,VR,VTuber,Virtual Currency,Game,Manga,Comic,Table Tennis</itunes:keywords>
+        <itunes:subtitle>オタクエンジニアがアニメとテックの話題をお届けするポッドキャスト</itunes:subtitle>
+        <itunes:summary>ウェブエンジニアの sola が、アニメとテックの話題をお届けするポッドキャストです。 週1回配信を目標としています。</itunes:summary>
+                            <itunes:category text="Technology" />
+                    <itunes:category text="Games &amp; Hobbies" />
+                <itunes:owner>
+            <itunes:name>sola</itunes:name>
+            <itunes:email>anitech.fm@gmail.com</itunes:email>
+        </itunes:owner>
+	<item>
+		<title>#8: iPhone XS レビューと Apple 関連などテックニュース9件</title>
+		<link>https://anitech.fm/archives/8/</link>
+		<pubDate>Sun, 30 Sep 2018 14:25:57 +0000</pubDate>
+		<dc:creator><![CDATA[sola]]></dc:creator>
+				<category><![CDATA[アニメ]]></category>
+		<category><![CDATA[テック]]></category>
+
+		<guid isPermaLink="false">https://anitech.fm/?p=1357</guid>
+		<description><![CDATA[iPhone XS レビュー、Apple 関連をはじめとしたテックニュース9件について話しました。
+<!--more-->
+※訂正：アップルパークについて、自己評価額を1ドルとお伝えしておりましたが、正しくは200ドルです。<h4>Show Notes</h4><ul><li><a href="https://www.xbox.com/ja-JP/xbox-one/accessories/controllers/xbox-wireless-controller" target="_blank">Xbox ワイヤレス コントローラー &#124; Xbox</a></li><li><a href="https://www.apple.com/jp/iphone/" target="_blank">iPhone - Apple（日本）</a></li><li><a href="http://nlab.itmedia.co.jp/nl/articles/1005/27/news088.html" target="_blank">ねとらぼ：まるでSF！　2022年サッカーW杯の日本招致ビデオ - ねとらぼ</a></li><li><a href="https://japanese.engadget.com/2018/09/28/ios-12-iphone-tips/" target="_blank">iOS 12で「ショートカット」アプリを使ってみよう：iPhone Tips - Engadget 日本版</a></li><li><a href="https://www.asahi.com/articles/ASL9M4TSVL9MUHBI02J.html" target="_blank">アップルから追徴課税１．９兆円回収　アイルランド政府：朝日新聞デジタル</a></li><li><a href="https://www.msn.com/ja-jp/news/money/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%81%AE%E5%B7%A7%E3%81%BF%E3%81%AA%E7%A8%8E%E9%87%91%E5%AF%BE%E7%AD%96%E3%80%81%E6%96%B0%E6%9C%AC%E7%A4%BE%E3%81%AE%E4%BE%A1%E5%80%A4%E3%81%AF200%E3%83%89%E3%83%AB%EF%BC%9F/ar-BBLYX8E" target="_blank">アップルの巧みな税金対策、新本社の価値は200ドル？</a></li><li><a href="https://www.asahi.com/articles/ASL9V44V6L9VULFA00F.html" target="_blank">格安スマホの速度差別を禁止　総務省、携帯大手に規制：朝日新聞デジタル</a></li><li><a href="https://www.moguravr.com/oculus-quest/" target="_blank">ハイエンド一体型VRヘッドセット「Oculus Quest」発表、399ドルで来春発売 &#124; Mogura VR - 国内外のVR/AR/MR最新情報</a></li><li><a href="https://www.publickey1.jp/blog/18/windows_virtual_desktopazuremicrosoft_ignite_2018.html" target="_blank">［速報］マイクロソフト純正のデスクトップ仮想化サービス「Windows Virtual Desktop」発表。Azureからクラウドサービスとして。Microsoft Ignite 2018 － Publickey</a></li><li><a href="https://cpplover.blogspot.com/2018/09/linus.html" target="_blank">本の虫: Linus、今までの行いを謝罪し一時的にカーネルメンテナーの立場を退いて人の気持ちを勉強してくると発言</a></li><li><a href="https://gigazine.net/news/20120618-linus-nvidia-f-word/" target="_blank">Linux開発者リーナス・トーバルズ氏がNVIDIAに対し中指を突き立てFワード発言 - GIGAZINE</a></li><li><a href="https://qiita.com/tsin1rou/items/d4c781a2f25e2b92fa5e" target="_blank">実際のところ「ブラウザを立ち上げてページが表示されるまで」には何が起きるのか - Qiita</a></li><li><a href="https://twitter.com/tan_go238/status/1039100159701860353" target="_blank">ツイート：面接の質問で「ブラウザを立ち上げてページが表示されるまでの仕組みを全て知ってる限り説明してください」…</a></li><li><a href="https://twitter.com/reoasxdtmgt/status/1029359807877140480" target="_blank">ツイート：ようやくできたー！ ソリッドビジョンシステムはもうちょっと技術が進歩しないと無理なので、「遊戯王の最強なりきりシステム」を作った！</a></li><li><a href="https://yugioh-resaler.com/2018/08/24/new-konami-recognition-development/" target="_blank">【KONAMIが独自手法開発】最新技術で9000種の遊戯王カードを画像認識で判別可能!?</a></li><li><a href="https://www.moguravr.com/ar-table-game-spatial-mrx/" target="_blank">ARテーブルゲームを実現する「Spatial MRX」クラウドファンディングで目標達成 &#124; Mogura VR - 国内外のVR/AR/MR最新情報</a></li>]]></description>
+				<content:encoded><![CDATA[<audio><source type="audio/mpeg" src="https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-8.mp3" /><a href="https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-8.mp3">https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-8.mp3</a></audio><p class="small right"><i class="far fa-clock"></i> 収録時間: 53:33 | <i class="fas fa-arrow-alt-circle-down"></i> <a href="https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-8.mp3">Download MP3 (49.03MB)</a></p><p>iPhone XS レビュー、Apple 関連をはじめとしたテックニュース9件について話しました。<br />
+<span id="more-1357"></span><br />
+※訂正：アップルパークについて、自己評価額を1ドルとお伝えしておりましたが、正しくは200ドルです。</p>
+<h4>出演者</h4><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/sola/"><img src="https://anitech.fm/wp-content/uploads/2018/08/FDzDwtjJ_400x400.jpg" alt="sola" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/sola/">sola</a></div></div><div class="clear"></div><h4>チャプター</h4><ul><li><a href="#" onclick="chapter(40);return false;">お題箱：オールタイムベストなアニメ (0:40)</a></li><li><a href="#" onclick="chapter(289);return false;">お題箱：おすすめのゲームコントローラー (4:49)</a></li><li><a href="#" onclick="chapter(442);return false;">お題箱：ゆるキャン△におけるLINE (7:22)</a></li><li><a href="#" onclick="chapter(543);return false;">テックニュース・ガジェットレビュー：Apple 新商品 iPhone XS, XSMax, XR 発表と iPhone XS レビュー、将来の展望 (9:03)</a></li><li><a href="#" onclick="chapter(1664);return false;">テックニュース：iOS 12 アップデートとショートカットアプリ (27:44)</a></li><li><a href="#" onclick="chapter(1872);return false;">テックニュース：アップルから追徴課税１．９兆円回収　アイルランド政府 (31:12)</a></li><li><a href="#" onclick="chapter(2035);return false;">テックニュース：格安スマホの速度差別を禁止　総務省、携帯大手に規制 (33:55)</a></li><li><a href="#" onclick="chapter(2192);return false;">テックニュース：ハイエンド一体型VRヘッドセット「Oculus Quest」発表、399ドルで来春発売 (36:32)</a></li><li><a href="#" onclick="chapter(2343);return false;">テックニュース：マイクロソフト純正のデスクトップ仮想化サービス「Windows Virtual Desktop」発表。Azureからクラウドサービスとして (39:03)</a></li><li><a href="#" onclick="chapter(2527);return false;">テックニュース：Linus、今までの行いを謝罪し一時的にカーネルメンテナーの立場を退いて人の気持ちを勉強してくると発言 (42:07)</a></li><li><a href="#" onclick="chapter(2787);return false;">テックニュース：実際のところ「ブラウザを立ち上げてページが表示されるまで」には何が起きるのか (46:27)</a></li><li><a href="#" onclick="chapter(2963);return false;">テックニュース：AR ソリッドビジョンシステム (49:23)</a></li></ul><h4>Show Notes (リンク)</h4><ul><li><a href="https://www.xbox.com/ja-JP/xbox-one/accessories/controllers/xbox-wireless-controller" target="_blank">Xbox ワイヤレス コントローラー | Xbox</a></li><li><a href="https://www.apple.com/jp/iphone/" target="_blank">iPhone - Apple（日本）</a></li><li><a href="http://nlab.itmedia.co.jp/nl/articles/1005/27/news088.html" target="_blank">ねとらぼ：まるでSF！　2022年サッカーW杯の日本招致ビデオ - ねとらぼ</a></li><li><a href="https://japanese.engadget.com/2018/09/28/ios-12-iphone-tips/" target="_blank">iOS 12で「ショートカット」アプリを使ってみよう：iPhone Tips - Engadget 日本版</a></li><li><a href="https://www.asahi.com/articles/ASL9M4TSVL9MUHBI02J.html" target="_blank">アップルから追徴課税１．９兆円回収　アイルランド政府：朝日新聞デジタル</a></li><li><a href="https://www.msn.com/ja-jp/news/money/%E3%82%A2%E3%83%83%E3%83%97%E3%83%AB%E3%81%AE%E5%B7%A7%E3%81%BF%E3%81%AA%E7%A8%8E%E9%87%91%E5%AF%BE%E7%AD%96%E3%80%81%E6%96%B0%E6%9C%AC%E7%A4%BE%E3%81%AE%E4%BE%A1%E5%80%A4%E3%81%AF200%E3%83%89%E3%83%AB%EF%BC%9F/ar-BBLYX8E" target="_blank">アップルの巧みな税金対策、新本社の価値は200ドル？</a></li><li><a href="https://www.asahi.com/articles/ASL9V44V6L9VULFA00F.html" target="_blank">格安スマホの速度差別を禁止　総務省、携帯大手に規制：朝日新聞デジタル</a></li><li><a href="https://www.moguravr.com/oculus-quest/" target="_blank">ハイエンド一体型VRヘッドセット「Oculus Quest」発表、399ドルで来春発売 | Mogura VR - 国内外のVR/AR/MR最新情報</a></li><li><a href="https://www.publickey1.jp/blog/18/windows_virtual_desktopazuremicrosoft_ignite_2018.html" target="_blank">［速報］マイクロソフト純正のデスクトップ仮想化サービス「Windows Virtual Desktop」発表。Azureからクラウドサービスとして。Microsoft Ignite 2018 － Publickey</a></li><li><a href="https://cpplover.blogspot.com/2018/09/linus.html" target="_blank">本の虫: Linus、今までの行いを謝罪し一時的にカーネルメンテナーの立場を退いて人の気持ちを勉強してくると発言</a></li><li><a href="https://gigazine.net/news/20120618-linus-nvidia-f-word/" target="_blank">Linux開発者リーナス・トーバルズ氏がNVIDIAに対し中指を突き立てFワード発言 - GIGAZINE</a></li><li><a href="https://qiita.com/tsin1rou/items/d4c781a2f25e2b92fa5e" target="_blank">実際のところ「ブラウザを立ち上げてページが表示されるまで」には何が起きるのか - Qiita</a></li><li><a href="https://twitter.com/tan_go238/status/1039100159701860353" target="_blank">ツイート：面接の質問で「ブラウザを立ち上げてページが表示されるまでの仕組みを全て知ってる限り説明してください」…</a></li><li><a href="https://twitter.com/reoasxdtmgt/status/1029359807877140480" target="_blank">ツイート：ようやくできたー！ ソリッドビジョンシステムはもうちょっと技術が進歩しないと無理なので、「遊戯王の最強なりきりシステム」を作った！</a></li><li><a href="https://yugioh-resaler.com/2018/08/24/new-konami-recognition-development/" target="_blank">【KONAMIが独自手法開発】最新技術で9000種の遊戯王カードを画像認識で判別可能!?</a></li><li><a href="https://www.moguravr.com/ar-table-game-spatial-mrx/" target="_blank">ARテーブルゲームを実現する「Spatial MRX」クラウドファンディングで目標達成 | Mogura VR - 国内外のVR/AR/MR最新情報</a></li></ul>]]></content:encoded>
+		                    <atom:contributor>
+                <atom:name>sola</atom:name>
+                <atom:uri>https://anitech.fm/peoples/sola/</atom:uri>
+            </atom:contributor>
+                <itunes:author><![CDATA[sola]]></itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+                            <itunes:subtitle><![CDATA[iPhone XS レビュー、Apple 関連をはじめとしたテックニュース9件について話しました。
+<span id="more-1357"></span>
+※訂正：アップルパークについて、自己評価額を1ドルとお伝えしておりましたが、正しくは200ドルです。]]></itunes:subtitle>
+                            <enclosure url="http://anitech.fm/wp-content/uploads/2018/09/anitech.fm-8.mp3" type="audio/mpeg" length="51411406" />
+            <itunes:duration>53:33</itunes:duration>        	</item>
+		<item>
+		<title>#7: 理由(ワケ)あって、sideM (湊)</title>
+		<link>https://anitech.fm/archives/7/</link>
+		<pubDate>Wed, 19 Sep 2018 18:00:26 +0000</pubDate>
+		<dc:creator><![CDATA[sola]]></dc:creator>
+				<category><![CDATA[アニメ]]></category>
+
+		<guid isPermaLink="false">https://anitech.fm/?p=1213</guid>
+		<description><![CDATA[湊さんと「アイドルマスター sideM」について話しました。
+
+※お時間のない方はチャプター一覧をご確認いただき、★マークが付いたチャプターを中心にお聞き下さい。
+※よろしければ倍速再生機能を用いて下さい。
+※途中、音声の乱れがございます。
+<!--more-->
+追記：9月21日 0:30
+音量バランスを微調整しました。<h4>Show Notes</h4><ul><li><a href="https://www.andapp.jp/apps/12017647?from=www_mbga_intro" target="_blank">アイドルマスター SideM を AndApp で遊ぶ &#124; AndApp</a></li><li><a href="https://side-m.idolmaster.jp/lo-stage/" target="_blank">アイドルマスター サイドエム ライブオンステージ &#124; バンダイナムコエンターテインメント公式サイト</a></li><li><a href="https://imas-sidem.com/" target="_blank">アニメ「アイドルマスター SideM」公式サイト</a></li><li><a href="https://togetter.com/li/1258315" target="_blank">9人の男オタクにアイドルマスターSideMセカンドライブを見せたログ-川中島の戦い- - Togetter</a></li><li><a href="https://twitter.com/asakonishida/status/1031560561471840256" target="_blank">西田亜沙子（モフモハー西田）さんのツイート</a></li><li><a href="http://hifumijus.blog10.fc2.com/blog-entry-542.html" target="_blank">マルチゲーマーで行こう。　私にもAltessimoをすこらせて。</a></li><li><a href="https://www.youtube.com/watch?v=m0Uny1ksqKo" target="_blank">【踊ってみた】好き！雪！本気マジック【電脳少女シロ】 - YouTube</a></li><li><a href="https://www.youtube.com/channel/UCTMgd9qnUD9qKBX5oTtD6ug" target="_blank">バーチャルおばあちゃんねる - YouTube</a></li><li><a href="https://www.youtube.com/channel/UCZYyhgoV314CM14zBD6vd4A" target="_blank">バーチャル債務者youtuber天開司 - YouTube</a></li><li><a href="https://www.youtube.com/channel/UCw5MXcDMVg6oT69yfulq33Q" target="_blank">田中のおっさん - YouTube</a></li><li><a href="https://hypnosismic.com/" target="_blank">ヒプノシスマイク</a></li><li><a href="https://twitter.com/chara317megane/status/1040831781836972032" target="_blank">藤森慎吾(オリエンタルラジオ)さんのツイート</a></li><li><a href="http://hifumijus.blog10.fc2.com/blog-entry-514.html" target="_blank">マルチゲーマーで行こう。　ミリしら 我が混沌のサバト・マリアージュ ～アイドルとメタルが起こした何か～</a></li><li><a href="http://ch.nicovideo.jp/yui_uandi/blomaga/ar1415805" target="_blank">GLORIOUS RO@D　パート分け歌詞:カラオケ用パート別歌詞置き場 - ブロマガ</a></li><li><a href="http://ch.nicovideo.jp/yui_uandi/blomaga/ar843067" target="_blank">BRAND NEW FIELD　パート分け歌詞:カラオケ用パート別歌詞置き場 - ブロマガ</a></li><li><a href="https://www.uta-net.com/song/223301/" target="_blank">古論クリス(駒田航) Undiscovered WORLD 歌詞 - 歌ネット</a></li><li><a href="https://www.uta-net.com/song/241215/" target="_blank">Beit TOMORROW DIAMOND 歌詞 - 歌ネット</a></li><li><a href="http://worja.wp.xdomain.jp/?p=38" target="_blank">【2018年8月】アイドルマスターSideM曲一覧 &#124; ただの日記</a></li><li><a href="https://www.gaming-city.com/games/1486" target="_blank">「アンダーテール（UNDERTALE）」もう誰も倒さなくていい！懐かしい雰囲気なのに全く新しいタイプの大人気RPG！｜オンラインゲームズーム</a></li><li><a href="http://blog.livedoor.jp/herald_the_scrap/" target="_blank">君がいたあらゆる場所。（湊さんブログ）</a></li>]]></description>
+				<content:encoded><![CDATA[<audio><source type="audio/mpeg" src="https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-7.mp3" /><a href="https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-7.mp3">https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-7.mp3</a></audio><p class="small right"><i class="far fa-clock"></i> 収録時間: 2:38:22 | <i class="fas fa-arrow-alt-circle-down"></i> <a href="https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-7.mp3">Download MP3 (144.99MB)</a></p><p>湊さんと「アイドルマスター sideM」について話しました。</p>
+<p>※お時間のない方はチャプター一覧をご確認いただき、★マークが付いたチャプターを中心にお聞き下さい。<br />
+※よろしければ倍速再生機能を用いて下さい。<br />
+※途中、音声の乱れがございます。<br />
+<span id="more-1213"></span><br />
+追記：9月21日 0:30<br />
+音量バランスを微調整しました。</p>
+<h4>出演者</h4><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/a0s9p0e2ha/"><img src="https://anitech.fm/wp-content/uploads/2018/09/hRmJSP11_400x400.png" alt="湊" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/a0s9p0e2ha/">湊</a></div></div><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/sola/"><img src="https://anitech.fm/wp-content/uploads/2018/08/FDzDwtjJ_400x400.jpg" alt="sola" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/sola/">sola</a></div></div><div class="clear"></div><h4>チャプター</h4><ul><li><a href="#" onclick="chapter(26);return false;">ゲスト紹介 (0:26)</a></li><li><a href="#" onclick="chapter(109);return false;">sideM 試聴会実施しました・アイドルマスター sideM とは (1:49)</a></li><li><a href="#" onclick="chapter(875);return false;">sideM 試聴会についてまとめた Togetter がバズった話 (14:35)</a></li><li><a href="#" onclick="chapter(1188);return false;">sideM クラスタ（コミュニティ）について (19:48)</a></li><li><a href="#" onclick="chapter(1320);return false;">4,500字のメモを持ち込み収録に臨むゲスト (22:00)</a></li><li><a href="#" onclick="chapter(1532);return false;">sideM は性差無く全年齢向けに作られた作品 (25:32)</a></li><li><a href="#" onclick="chapter(1886);return false;">★ アイドル育成ものが流行った理由と歴史 (31:26)</a></li><li><a href="#" onclick="chapter(3221);return false;">sideM ライブの魅力 (53:41)</a></li><li><a href="#" onclick="chapter(3593);return false;">sideM と S.E.M (59:53)</a></li><li><a href="#" onclick="chapter(4030);return false;">★ sideM を好きになった理由 (1:07:10)</a></li><li><a href="#" onclick="chapter(5494);return false;">VTuber はアイドルに近しい存在 (1:31:34)</a></li><li><a href="#" onclick="chapter(6211);return false;">ヒプノシスマイクの魅力 (1:43:31)</a></li><li><a href="#" onclick="chapter(6894);return false;">sideM の音楽が好き (1:54:54)</a></li><li><a href="#" onclick="chapter(8044);return false;">sideM のイラストも好き (2:14:04)</a></li><li><a href="#" onclick="chapter(8704);return false;">※結局ほぼカットしませんでした (2:25:04)</a></li><li><a href="#" onclick="chapter(9120);return false;">エンディング (2:32:00)</a></li></ul><h4>Show Notes (リンク)</h4><ul><li><a href="https://www.andapp.jp/apps/12017647?from=www_mbga_intro" target="_blank">アイドルマスター SideM を AndApp で遊ぶ | AndApp</a></li><li><a href="https://side-m.idolmaster.jp/lo-stage/" target="_blank">アイドルマスター サイドエム ライブオンステージ | バンダイナムコエンターテインメント公式サイト</a></li><li><a href="https://imas-sidem.com/" target="_blank">アニメ「アイドルマスター SideM」公式サイト</a></li><li><a href="https://togetter.com/li/1258315" target="_blank">9人の男オタクにアイドルマスターSideMセカンドライブを見せたログ-川中島の戦い- - Togetter</a></li><li><a href="https://twitter.com/asakonishida/status/1031560561471840256" target="_blank">西田亜沙子（モフモハー西田）さんのツイート</a></li><li><a href="http://hifumijus.blog10.fc2.com/blog-entry-542.html" target="_blank">マルチゲーマーで行こう。　私にもAltessimoをすこらせて。</a></li><li><a href="https://www.youtube.com/watch?v=m0Uny1ksqKo" target="_blank">【踊ってみた】好き！雪！本気マジック【電脳少女シロ】 - YouTube</a></li><li><a href="https://www.youtube.com/channel/UCTMgd9qnUD9qKBX5oTtD6ug" target="_blank">バーチャルおばあちゃんねる - YouTube</a></li><li><a href="https://www.youtube.com/channel/UCZYyhgoV314CM14zBD6vd4A" target="_blank">バーチャル債務者youtuber天開司 - YouTube</a></li><li><a href="https://www.youtube.com/channel/UCw5MXcDMVg6oT69yfulq33Q" target="_blank">田中のおっさん - YouTube</a></li><li><a href="https://hypnosismic.com/" target="_blank">ヒプノシスマイク</a></li><li><a href="https://twitter.com/chara317megane/status/1040831781836972032" target="_blank">藤森慎吾(オリエンタルラジオ)さんのツイート</a></li><li><a href="http://hifumijus.blog10.fc2.com/blog-entry-514.html" target="_blank">マルチゲーマーで行こう。　ミリしら 我が混沌のサバト・マリアージュ ～アイドルとメタルが起こした何か～</a></li><li><a href="http://ch.nicovideo.jp/yui_uandi/blomaga/ar1415805" target="_blank">GLORIOUS RO@D　パート分け歌詞:カラオケ用パート別歌詞置き場 - ブロマガ</a></li><li><a href="http://ch.nicovideo.jp/yui_uandi/blomaga/ar843067" target="_blank">BRAND NEW FIELD　パート分け歌詞:カラオケ用パート別歌詞置き場 - ブロマガ</a></li><li><a href="https://www.uta-net.com/song/223301/" target="_blank">古論クリス(駒田航) Undiscovered WORLD 歌詞 - 歌ネット</a></li><li><a href="https://www.uta-net.com/song/241215/" target="_blank">Beit TOMORROW DIAMOND 歌詞 - 歌ネット</a></li><li><a href="http://worja.wp.xdomain.jp/?p=38" target="_blank">【2018年8月】アイドルマスターSideM曲一覧 | ただの日記</a></li><li><a href="https://www.gaming-city.com/games/1486" target="_blank">「アンダーテール（UNDERTALE）」もう誰も倒さなくていい！懐かしい雰囲気なのに全く新しいタイプの大人気RPG！｜オンラインゲームズーム</a></li><li><a href="http://blog.livedoor.jp/herald_the_scrap/" target="_blank">君がいたあらゆる場所。（湊さんブログ）</a></li></ul>]]></content:encoded>
+		                    <atom:contributor>
+                <atom:name>湊</atom:name>
+                <atom:uri>https://anitech.fm/peoples/a0s9p0e2ha/</atom:uri>
+            </atom:contributor>
+                    <atom:contributor>
+                <atom:name>sola</atom:name>
+                <atom:uri>https://anitech.fm/peoples/sola/</atom:uri>
+            </atom:contributor>
+                <itunes:author><![CDATA[sola]]></itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+                            <itunes:subtitle><![CDATA[湊さんと「アイドルマスター sideM」について話しました。
+
+※お時間のない方はチャプター一覧をご確認いただき、★マークが付いたチャプターを中心にお聞き下さい。
+※よろしければ倍速再生機能を用いて下さい。
+※途中、音声の乱れがございます。
+<span id="more-1213"></span>
+追記：9月21日 0:30
+音量バランスを微調整しました。]]></itunes:subtitle>
+                            <enclosure url="http://anitech.fm/wp-content/uploads/2018/09/anitech.fm-7.mp3" type="audio/mpeg" length="152036755" />
+            <itunes:duration>2:38:22</itunes:duration>        	</item>
+		<item>
+		<title>#6: アニメ批評における「面白い」と「好き」 (神山)</title>
+		<link>https://anitech.fm/archives/6/</link>
+		<pubDate>Sun, 02 Sep 2018 08:00:01 +0000</pubDate>
+		<dc:creator><![CDATA[sola]]></dc:creator>
+				<category><![CDATA[アニメ]]></category>
+		<category><![CDATA[テック]]></category>
+
+		<guid isPermaLink="false">https://anitech.fm/?p=794</guid>
+		<description><![CDATA[神山さんと、アニメ批評における「面白い」と「好き」、WordPress Gutenberg について話しました。
+<!--more--><h4>Show Notes</h4><ul><li><a href="http://tv.anime-eupho.com/" target="_blank">TVアニメ『響け！ユーフォニアム』公式サイト</a></li><li><a href="http://liz-bluebird.com/" target="_blank">『リズと青い鳥』公式サイト</a></li><li><a href="https://ja.wordpress.org/" target="_blank">WordPress</a></li><li><a href="https://ja.wordpress.org/plugins/gutenberg/" target="_blank">Gutenberg &#124; WordPress.org</a></li><li><a href="https://shinyab.com/ja/archives/4817" target="_blank">WordPress 5.0 / Gutenberg グーテンベルクのロードマップ &#124; Shinya B</a></li><li><a href="http://horiemon.com/15672/" target="_blank">コンテンツマネージメントシステムが古臭いままの状態について。 &#124; ホリエモンドットコム</a></li>]]></description>
+				<content:encoded><![CDATA[<audio><source type="audio/mpeg" src="https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-6.mp3" /><a href="https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-6.mp3">https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-6.mp3</a></audio><p class="small right"><i class="far fa-clock"></i> 収録時間: 30:55 | <i class="fas fa-arrow-alt-circle-down"></i> <a href="https://anitech.fm/wp-content/uploads/2018/09/anitech.fm-6.mp3">Download MP3 (28.3MB)</a></p><p>神山さんと、アニメ批評における「面白い」と「好き」、WordPress Gutenberg について話しました。<br />
+<span id="more-794"></span></p>
+<h4>出演者</h4><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/kamiyama/"><img src="https://anitech.fm/wp-content/uploads/2018/08/4oU-12kK_400x400.jpg" alt="神山" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/kamiyama/">神山</a></div></div><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/sola/"><img src="https://anitech.fm/wp-content/uploads/2018/08/FDzDwtjJ_400x400.jpg" alt="sola" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/sola/">sola</a></div></div><div class="clear"></div><h4>チャプター</h4><ul><li><a href="#" onclick="chapter(16);return false;">アニメ批評における「面白い」と「好き」 (0:16)</a></li><li><a href="#" onclick="chapter(1307);return false;">WordPress Gutenberg (21:47)</a></li></ul><h4>Show Notes (リンク)</h4><ul><li><a href="http://tv.anime-eupho.com/" target="_blank">TVアニメ『響け！ユーフォニアム』公式サイト</a></li><li><a href="http://liz-bluebird.com/" target="_blank">『リズと青い鳥』公式サイト</a></li><li><a href="https://ja.wordpress.org/" target="_blank">WordPress</a></li><li><a href="https://ja.wordpress.org/plugins/gutenberg/" target="_blank">Gutenberg | WordPress.org</a></li><li><a href="https://shinyab.com/ja/archives/4817" target="_blank">WordPress 5.0 / Gutenberg グーテンベルクのロードマップ | Shinya B</a></li><li><a href="http://horiemon.com/15672/" target="_blank">コンテンツマネージメントシステムが古臭いままの状態について。 | ホリエモンドットコム</a></li></ul>]]></content:encoded>
+		                    <atom:contributor>
+                <atom:name>神山</atom:name>
+                <atom:uri>https://anitech.fm/peoples/kamiyama/</atom:uri>
+            </atom:contributor>
+                    <atom:contributor>
+                <atom:name>sola</atom:name>
+                <atom:uri>https://anitech.fm/peoples/sola/</atom:uri>
+            </atom:contributor>
+                <itunes:author><![CDATA[sola]]></itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+                            <itunes:subtitle><![CDATA[神山さんと、アニメ批評における「面白い」と「好き」、WordPress Gutenberg について話しました。
+<span id="more-794"></span>]]></itunes:subtitle>
+                            <enclosure url="http://anitech.fm/wp-content/uploads/2018/09/anitech.fm-6.mp3" type="audio/mpeg" length="29679200" />
+            <itunes:duration>30:55</itunes:duration>        	</item>
+		<item>
+		<title>#5: はねバド・ スタァライト・ペンギン (神山)</title>
+		<link>https://anitech.fm/archives/5/</link>
+		<pubDate>Sun, 26 Aug 2018 17:40:19 +0000</pubDate>
+		<dc:creator><![CDATA[sola]]></dc:creator>
+				<category><![CDATA[アニメ]]></category>
+
+		<guid isPermaLink="false">https://anitech.fm/?p=755</guid>
+		<description><![CDATA[神山さんと、はねバド！ 7話「あんな子、瞬殺してみせる」、少女☆歌劇レヴュースタァライト 7話「大場なな」、ペンギン・ハイウェイ、ペンギン・ハイウェイのテクノロジー、ペンギン・ハイウェイの性的描写について話しました。
+<!--more--><h4>Show Notes</h4><ul><li><a href="http://hanebad.com/story/" target="_blank">テレビアニメ「はねバド！」公式サイト</a></li><li><a href="https://twitter.com/KuwagataR/status/1028664125088391169" target="_blank">はねバド！7話 アクションシーン</a></li><li><a href="https://revuestarlight.com/story/" target="_blank">ストーリー &#124; 少女☆歌劇 レヴュースタァライト</a></li><li><a href="http://penguin-highway.com/" target="_blank">映画『ペンギン・ハイウェイ』公式サイト</a></li><li><a href="http://s-wars.jp/" target="_blank">映画「サマーウォーズ」公式サイト</a></li><li><a href="http://juiz.jp/" target="_blank">フジテレビ“ノイタミナ” TVアニメ 東のエデン</a></li>]]></description>
+				<content:encoded><![CDATA[<audio><source type="audio/mpeg" src="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-5.mp3" /><a href="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-5.mp3">https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-5.mp3</a></audio><p class="small right"><i class="far fa-clock"></i> 収録時間: 1:19:05 | <i class="fas fa-arrow-alt-circle-down"></i> <a href="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-5.mp3">Download MP3 (72.41MB)</a></p><p>神山さんと、はねバド！ 7話「あんな子、瞬殺してみせる」、少女☆歌劇レヴュースタァライト 7話「大場なな」、ペンギン・ハイウェイ、ペンギン・ハイウェイのテクノロジー、ペンギン・ハイウェイの性的描写について話しました。<br />
+<span id="more-755"></span></p>
+<h4>出演者</h4><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/kamiyama/"><img src="https://anitech.fm/wp-content/uploads/2018/08/4oU-12kK_400x400.jpg" alt="神山" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/kamiyama/">神山</a></div></div><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/sola/"><img src="https://anitech.fm/wp-content/uploads/2018/08/FDzDwtjJ_400x400.jpg" alt="sola" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/sola/">sola</a></div></div><div class="clear"></div><h4>チャプター</h4><ul><li><a href="#" onclick="chapter(16);return false;">ゲスト紹介 (0:16)</a></li><li><a href="#" onclick="chapter(116);return false;">はねバド！ 7話「あんな子、瞬殺してみせる」 (1:56)</a></li><li><a href="#" onclick="chapter(1559);return false;">少女☆歌劇レヴュースタァライト 7話「大場なな」 (25:59)</a></li><li><a href="#" onclick="chapter(2504);return false;">ペンギン・ハイウェイ (41:44)</a></li><li><a href="#" onclick="chapter(3559);return false;">ペンギン・ハイウェイのテクノロジー (59:19)</a></li><li><a href="#" onclick="chapter(4213);return false;">ペンギン・ハイウェイの性的描写 (1:10:13)</a></li></ul><h4>Show Notes (リンク)</h4><ul><li><a href="http://hanebad.com/story/" target="_blank">テレビアニメ「はねバド！」公式サイト</a></li><li><a href="https://twitter.com/KuwagataR/status/1028664125088391169" target="_blank">はねバド！7話 アクションシーン</a></li><li><a href="https://revuestarlight.com/story/" target="_blank">ストーリー | 少女☆歌劇 レヴュースタァライト</a></li><li><a href="http://penguin-highway.com/" target="_blank">映画『ペンギン・ハイウェイ』公式サイト</a></li><li><a href="http://s-wars.jp/" target="_blank">映画「サマーウォーズ」公式サイト</a></li><li><a href="http://juiz.jp/" target="_blank">フジテレビ“ノイタミナ” TVアニメ 東のエデン</a></li></ul>]]></content:encoded>
+		                    <atom:contributor>
+                <atom:name>神山</atom:name>
+                <atom:uri>https://anitech.fm/peoples/kamiyama/</atom:uri>
+            </atom:contributor>
+                    <atom:contributor>
+                <atom:name>sola</atom:name>
+                <atom:uri>https://anitech.fm/peoples/sola/</atom:uri>
+            </atom:contributor>
+                <itunes:author><![CDATA[sola]]></itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+                            <itunes:subtitle><![CDATA[神山さんと、はねバド！ 7話「あんな子、瞬殺してみせる」、少女☆歌劇レヴュースタァライト 7話「大場なな」、ペンギン・ハイウェイ、ペンギン・ハイウェイのテクノロジー、ペンギン・ハイウェイの性的描写について話しました。
+<span id="more-755"></span>]]></itunes:subtitle>
+                            <enclosure url="http://anitech.fm/wp-content/uploads/2018/08/anitech.fm-5.mp3" type="audio/mpeg" length="75925967" />
+            <itunes:duration>1:19:05</itunes:duration>        	</item>
+		<item>
+		<title>#4: コミケ参加とアニメ批評 (Ford)</title>
+		<link>https://anitech.fm/archives/4/</link>
+		<pubDate>Wed, 15 Aug 2018 20:35:19 +0000</pubDate>
+		<dc:creator><![CDATA[sola]]></dc:creator>
+				<category><![CDATA[アニメ]]></category>
+		<category><![CDATA[テック]]></category>
+
+		<guid isPermaLink="false">https://anitech.fm/?p=603</guid>
+		<description><![CDATA[Ford さんと、コミケ(C94)参加、Fani通、アニクリ、Twitter Streams API 廃止について話しました。
+<!--more--><h4>Show Notes</h4><ul><li><a href="https://peing.net/ja/q/0ac13099-d530-41d2-b01d-be4f97217d87" target="_blank">質問箱</a></li><li><a href="https://twitter.com/741ksk/status/1025777675347025920" target="_blank">宝石の国イラストカード・フォント</a></li><li><a href="https://twitter.com/fanitu" target="_blank">Fani通</a></li><li><a href="https://twitter.com/anime_critique" target="_blank">アニクリ</a></li><li><a href="https://forest.watch.impress.co.jp/docs/news/1122275.html" target="_blank">“User Streams API”などの廃止は8月16日に決定 ～Twitter、新APIを一般公開 - 窓の杜</a></li>]]></description>
+				<content:encoded><![CDATA[<audio><source type="audio/mpeg" src="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-4.mp3" /><a href="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-4.mp3">https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-4.mp3</a></audio><p class="small right"><i class="far fa-clock"></i> 収録時間: 1:24:37 | <i class="fas fa-arrow-alt-circle-down"></i> <a href="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-4.mp3">Download MP3 (77.47MB)</a></p><p>Ford さんと、コミケ(C94)参加、Fani通、アニクリ、Twitter Streams API 廃止について話しました。<br />
+<span id="more-603"></span></p>
+<h4>出演者</h4><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/ford/"><img src="https://anitech.fm/wp-content/uploads/2018/08/9n7enz-Y_400x400.jpg" alt="Ford" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/ford/">Ford</a></div></div><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/sola/"><img src="https://anitech.fm/wp-content/uploads/2018/08/FDzDwtjJ_400x400.jpg" alt="sola" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/sola/">sola</a></div></div><div class="clear"></div><h4>チャプター</h4><ul><li><a href="#" onclick="chapter(16);return false;">ゲスト紹介 (Ford さん) (0:16)</a></li><li><a href="#" onclick="chapter(536);return false;">コミケ(C94)参加 (8:56)</a></li><li><a href="#" onclick="chapter(1573);return false;">Fani通 (26:13)</a></li><li><a href="#" onclick="chapter(2763);return false;">アニクリ (46:03)</a></li><li><a href="#" onclick="chapter(3988);return false;">Twitter Streams API 廃止 (1:06:28)</a></li></ul><h4>Show Notes (リンク)</h4><ul><li><a href="https://peing.net/ja/q/0ac13099-d530-41d2-b01d-be4f97217d87" target="_blank">質問箱</a></li><li><a href="https://twitter.com/741ksk/status/1025777675347025920" target="_blank">宝石の国イラストカード・フォント</a></li><li><a href="https://twitter.com/fanitu" target="_blank">Fani通</a></li><li><a href="https://twitter.com/anime_critique" target="_blank">アニクリ</a></li><li><a href="https://forest.watch.impress.co.jp/docs/news/1122275.html" target="_blank">“User Streams API”などの廃止は8月16日に決定 ～Twitter、新APIを一般公開 - 窓の杜</a></li></ul>]]></content:encoded>
+		                    <atom:contributor>
+                <atom:name>Ford</atom:name>
+                <atom:uri>https://anitech.fm/peoples/ford/</atom:uri>
+            </atom:contributor>
+                    <atom:contributor>
+                <atom:name>sola</atom:name>
+                <atom:uri>https://anitech.fm/peoples/sola/</atom:uri>
+            </atom:contributor>
+                <itunes:author><![CDATA[sola]]></itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+                            <itunes:subtitle><![CDATA[Ford さんと、コミケ(C94)参加、Fani通、アニクリ、Twitter Streams API 廃止について話しました。
+<span id="more-603"></span>]]></itunes:subtitle>
+                            <enclosure url="http://anitech.fm/wp-content/uploads/2018/08/anitech.fm-4.mp3" type="audio/mpeg" length="81228197" />
+            <itunes:duration>1:24:37</itunes:duration>        	</item>
+		<item>
+		<title>#3: 2018年夏アニメ作品</title>
+		<link>https://anitech.fm/archives/3/</link>
+		<pubDate>Sat, 11 Aug 2018 23:11:26 +0000</pubDate>
+		<dc:creator><![CDATA[sola]]></dc:creator>
+				<category><![CDATA[アニメ]]></category>
+		<category><![CDATA[テック]]></category>
+
+		<guid isPermaLink="false">https://anitech.fm/?p=549</guid>
+		<description><![CDATA[前回配信の振り返りと、Realforce キーボード、コミケ(C94)参加、2018年夏のアニメ作品（七星のスバル、少女☆歌劇 レヴュースタァライト、はるかなレシーブ、はねバド！、進撃の巨人 Season3）について話しました。
+<!--more-->
+追記：8月13日 23:20
+冒頭ジングル音量が未調整だった為、調整致しました。<h4>Show Notes</h4><ul><li><a href="https://twitter.com/search?q=%23anitechfm" target="_blank">Twitter #anitechfm</a></li><li><a href="http://www.beatsaber.com/" target="_blank">BEAT SABER</a></li><li><a href="https://twitter.com/Azmin/status/1027413295672619008" target="_blank">Realforce キーボード</a></li><li><a href="https://yossense.com/realforce-advantages/" target="_blank">東プレのキーボード「Realforce」を使って感動した10個の利点 &#124; ヨッセンス</a></li><li><a href="https://twitter.com/fanitu/status/1028369560850718725" target="_blank">Fani通2017下半期 C94 3日目 出展情報</a></li><li><a href="https://annict.jp/works/2018-summer?display=grid_small" target="_blank">2018年夏のアニメ &#124; Annict</a></li><li><a href="http://7subaru.jp/" target="_blank">TVアニメ「七星のスバル」公式サイト</a></li><li><a href="https://revuestarlight.com/" target="_blank">少女☆歌劇 レヴュースタァライト</a></li><li><a href="http://www.harukana-receive.jp/" target="_blank">TVアニメ『はるかなレシーブ』公式サイト</a></li><li><a href="http://hanebad.com/" target="_blank">テレビアニメ「はねバド！」公式サイト</a></li><li><a href="https://shingeki.tv/season3/" target="_blank">TVアニメ「進撃の巨人」Season 3</a></li>]]></description>
+				<content:encoded><![CDATA[<audio><source type="audio/mpeg" src="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-3-1.mp3" /><a href="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-3-1.mp3">https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-3-1.mp3</a></audio><p class="small right"><i class="far fa-clock"></i> 収録時間: 1:00:08 | <i class="fas fa-arrow-alt-circle-down"></i> <a href="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-3-1.mp3">Download MP3 (55.06MB)</a></p><p>前回配信の振り返りと、Realforce キーボード、コミケ(C94)参加、2018年夏のアニメ作品（七星のスバル、少女☆歌劇 レヴュースタァライト、はるかなレシーブ、はねバド！、進撃の巨人 Season3）について話しました。<br />
+<span id="more-549"></span><br />
+追記：8月13日 23:20<br />
+冒頭ジングル音量が未調整だった為、調整致しました。</p>
+<h4>出演者</h4><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/sola/"><img src="https://anitech.fm/wp-content/uploads/2018/08/FDzDwtjJ_400x400.jpg" alt="sola" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/sola/">sola</a></div></div><div class="clear"></div><h4>チャプター</h4><ul><li><a href="#" onclick="chapter(16);return false;">前回配信の振り返り (0:16)</a></li><li><a href="#" onclick="chapter(571);return false;">Realforce キーボード (9:31)</a></li><li><a href="#" onclick="chapter(843);return false;">コミケ(C94)参加 (14:03)</a></li><li><a href="#" onclick="chapter(1235);return false;">2018年夏のアニメ作品 (20:35)</a></li><li><a href="#" onclick="chapter(1274);return false;">七星のスバル (21:14)</a></li><li><a href="#" onclick="chapter(1530);return false;">少女☆歌劇 レヴュースタァライト (25:30)</a></li><li><a href="#" onclick="chapter(2186);return false;">はるかなレシーブ (36:26)</a></li><li><a href="#" onclick="chapter(2652);return false;">はねバド！ (44:12)</a></li><li><a href="#" onclick="chapter(3116);return false;">進撃の巨人 Season3 (51:56)</a></li></ul><h4>Show Notes (リンク)</h4><ul><li><a href="https://twitter.com/search?q=%23anitechfm" target="_blank">Twitter #anitechfm</a></li><li><a href="http://www.beatsaber.com/" target="_blank">BEAT SABER</a></li><li><a href="https://twitter.com/Azmin/status/1027413295672619008" target="_blank">Realforce キーボード</a></li><li><a href="https://yossense.com/realforce-advantages/" target="_blank">東プレのキーボード「Realforce」を使って感動した10個の利点 | ヨッセンス</a></li><li><a href="https://twitter.com/fanitu/status/1028369560850718725" target="_blank">Fani通2017下半期 C94 3日目 出展情報</a></li><li><a href="https://annict.jp/works/2018-summer?display=grid_small" target="_blank">2018年夏のアニメ | Annict</a></li><li><a href="http://7subaru.jp/" target="_blank">TVアニメ「七星のスバル」公式サイト</a></li><li><a href="https://revuestarlight.com/" target="_blank">少女☆歌劇 レヴュースタァライト</a></li><li><a href="http://www.harukana-receive.jp/" target="_blank">TVアニメ『はるかなレシーブ』公式サイト</a></li><li><a href="http://hanebad.com/" target="_blank">テレビアニメ「はねバド！」公式サイト</a></li><li><a href="https://shingeki.tv/season3/" target="_blank">TVアニメ「進撃の巨人」Season 3</a></li></ul>]]></content:encoded>
+		                    <atom:contributor>
+                <atom:name>sola</atom:name>
+                <atom:uri>https://anitech.fm/peoples/sola/</atom:uri>
+            </atom:contributor>
+                <itunes:author><![CDATA[sola]]></itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+                            <itunes:subtitle><![CDATA[前回配信の振り返りと、Realforce キーボード、コミケ(C94)参加、2018年夏のアニメ作品（七星のスバル、少女☆歌劇 レヴュースタァライト、はるかなレシーブ、はねバド！、進撃の巨人 Season3）について話しました。
+<span id="more-549"></span>
+追記：8月13日 23:20
+冒頭ジングル音量が未調整だった為、調整致しました。]]></itunes:subtitle>
+                            <enclosure url="http://anitech.fm/wp-content/uploads/2018/08/anitech.fm-3-1.mp3" type="audio/mpeg" length="57736383" />
+            <itunes:duration>1:00:08</itunes:duration>        	</item>
+		<item>
+		<title>#2: ガジェット祭り</title>
+		<link>https://anitech.fm/archives/2/</link>
+		<pubDate>Mon, 06 Aug 2018 13:44:38 +0000</pubDate>
+		<dc:creator><![CDATA[sola]]></dc:creator>
+				<category><![CDATA[テック]]></category>
+
+		<guid isPermaLink="false">https://anitech.fm/?p=486</guid>
+		<description><![CDATA[前回配信の振り返りと、最近購入したガジェット（Oculus Go, Macbook Pro, GoPro HERO 5, Amazon Echo Spot, kindle fire HD 8）について話しました。
+<!--more--><h4>Show Notes</h4><ul><li><a href="https://www.oculus.com/go/" target="_blank">Oculus Go</a></li><li><a href="https://www.lenovo.com/jp/ja/vr-smartdevices/augmented-reality/lenovo-mirage-solo/Mirage-Solo/p/ZZIRZRHVR01" target="_blank">Mirage Solo</a></li><li><a href="https://www.apple.com/jp/shop/buy-mac/macbook-pro/13%E3%82%A4%E3%83%B3%E3%83%81" target="_blank">Macbook Pro</a></li><li><a href="https://jp.shop.gopro.com/APAC/cameras/hero5-black/CHDHX-502-master.html" target="_blank">GoPro HERO 5 Black</a></li><li><a href="https://www.amazon.co.jp/dp/B01J6A7CT6" target="_blank">Amazon Echo Spot</a></li><li><a href="https://www.amazon.co.jp/dp/B01J94SZCM" target="_blank">kindle fire HD 8</a></li>]]></description>
+				<content:encoded><![CDATA[<audio><source type="audio/mpeg" src="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-2.mp3" /><a href="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-2.mp3">https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-2.mp3</a></audio><p class="small right"><i class="far fa-clock"></i> 収録時間: 57:41 | <i class="fas fa-arrow-alt-circle-down"></i> <a href="https://anitech.fm/wp-content/uploads/2018/08/anitech.fm-2.mp3">Download MP3 (52.82MB)</a></p><p>前回配信の振り返りと、最近購入したガジェット（Oculus Go, Macbook Pro, GoPro HERO 5, Amazon Echo Spot, kindle fire HD 8）について話しました。<br />
+<span id="more-486"></span></p>
+<h4>出演者</h4><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/sola/"><img src="https://anitech.fm/wp-content/uploads/2018/08/FDzDwtjJ_400x400.jpg" alt="sola" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/sola/">sola</a></div></div><div class="clear"></div><h4>チャプター</h4><ul><li><a href="#" onclick="chapter(16);return false;">前回配信の振り返り (0:16)</a></li><li><a href="#" onclick="chapter(259);return false;">最近購入したガジェット (4:19)</a></li><li><a href="#" onclick="chapter(333);return false;">Oculus Go (5:33)</a></li><li><a href="#" onclick="chapter(1039);return false;">Macbook Pro (17:19)</a></li><li><a href="#" onclick="chapter(1628);return false;">GoPro HERO 5 (27:08)</a></li><li><a href="#" onclick="chapter(2375);return false;">Amazon Echo Spot (39:35)</a></li><li><a href="#" onclick="chapter(2804);return false;">kindle fire HD 8 (46:44)</a></li></ul><h4>Show Notes (リンク)</h4><ul><li><a href="https://www.oculus.com/go/" target="_blank">Oculus Go</a></li><li><a href="https://www.lenovo.com/jp/ja/vr-smartdevices/augmented-reality/lenovo-mirage-solo/Mirage-Solo/p/ZZIRZRHVR01" target="_blank">Mirage Solo</a></li><li><a href="https://www.apple.com/jp/shop/buy-mac/macbook-pro/13%E3%82%A4%E3%83%B3%E3%83%81" target="_blank">Macbook Pro</a></li><li><a href="https://jp.shop.gopro.com/APAC/cameras/hero5-black/CHDHX-502-master.html" target="_blank">GoPro HERO 5 Black</a></li><li><a href="https://www.amazon.co.jp/dp/B01J6A7CT6" target="_blank">Amazon Echo Spot</a></li><li><a href="https://www.amazon.co.jp/dp/B01J94SZCM" target="_blank">kindle fire HD 8</a></li></ul>]]></content:encoded>
+		                    <atom:contributor>
+                <atom:name>sola</atom:name>
+                <atom:uri>https://anitech.fm/peoples/sola/</atom:uri>
+            </atom:contributor>
+                <itunes:author><![CDATA[sola]]></itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+                            <itunes:subtitle><![CDATA[前回配信の振り返りと、最近購入したガジェット（Oculus Go, Macbook Pro, GoPro HERO 5, Amazon Echo Spot, kindle fire HD 8）について話しました。
+<span id="more-486"></span>]]></itunes:subtitle>
+                            <enclosure url="http://anitech.fm/wp-content/uploads/2018/08/anitech.fm-2.mp3" type="audio/mpeg" length="55382436" />
+            <itunes:duration>57:41</itunes:duration>        	</item>
+		<item>
+		<title>#1: ポッドキャストはじめました</title>
+		<link>https://anitech.fm/archives/1/</link>
+		<pubDate>Sun, 29 Jul 2018 18:03:05 +0000</pubDate>
+		<dc:creator><![CDATA[sola]]></dc:creator>
+				<category><![CDATA[その他]]></category>
+		<category><![CDATA[テック]]></category>
+
+		<guid isPermaLink="false">https://anitech.fm/?p=1</guid>
+		<description><![CDATA[配信者 sola の自己紹介、このポッドキャストについて、ポッドキャストを始めた経緯、ポッドキャストのテーマ決め、ポッドキャストを始めるにあたって準備した事について話しました。
+<!--more--><h4>Show Notes</h4><ul><li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&#038;hl=ja" target="_blank">Google ポッドキャスト</a></li><li><a href="https://yatteiki.booth.pm/items/828339" target="_blank">今日からはじめる技術ポッドキャスト</a></li><li><a href="https://capitalp.jp/category/podcast/" target="_blank">Capital P Podcast</a></li><li><a href="https://rebuild.fm/" target="_blank">Rebuild.fm</a></li><li><a href="https://ja.wikipedia.org/wiki/.fm" target="_blank">.fm - Wikipedia</a></li><li><a href="https://ja.wordpress.org/" target="_blank">WordPress</a></li><li><a href="http://inmusicbrands.jp/marantz_pro/mpm-1000u/" target="_blank">製品情報：MPM-1000U：marantz Professional</a></li>]]></description>
+				<content:encoded><![CDATA[<audio><source type="audio/mpeg" src="https://anitech.fm/wp-content/uploads/2018/07/anitech.fm-1.mp3" /><a href="https://anitech.fm/wp-content/uploads/2018/07/anitech.fm-1.mp3">https://anitech.fm/wp-content/uploads/2018/07/anitech.fm-1.mp3</a></audio><p class="small right"><i class="far fa-clock"></i> 収録時間: 24:57 | <i class="fas fa-arrow-alt-circle-down"></i> <a href="https://anitech.fm/wp-content/uploads/2018/07/anitech.fm-1.mp3">Download MP3 (22.84MB)</a></p><p>配信者 sola の自己紹介、このポッドキャストについて、ポッドキャストを始めた経緯、ポッドキャストのテーマ決め、ポッドキャストを始めるにあたって準備した事について話しました。<br />
+<span id="more-1"></span></p>
+<h4>出演者</h4><div class="user"><div class="user_image"><a href="https://anitech.fm/peoples/sola/"><img src="https://anitech.fm/wp-content/uploads/2018/08/FDzDwtjJ_400x400.jpg" alt="sola" class="avater"></a></div><div class="user_name"><a href="https://anitech.fm/peoples/sola/">sola</a></div></div><div class="clear"></div><h4>チャプター</h4><ul><li><a href="#" onclick="chapter(57);return false;">配信者 sola の自己紹介 (0:57)</a></li><li><a href="#" onclick="chapter(184);return false;">このポッドキャストについて (3:04)</a></li><li><a href="#" onclick="chapter(488);return false;">ポッドキャストを始めた経緯 (8:08)</a></li><li><a href="#" onclick="chapter(696);return false;">ポッドキャストのテーマ決め (11:36)</a></li><li><a href="#" onclick="chapter(922);return false;">ポッドキャストを始めるにあたって準備した事 (15:22)</a></li></ul><h4>Show Notes (リンク)</h4><ul><li><a href="https://play.google.com/store/apps/details?id=com.google.android.apps.podcasts&#038;hl=ja" target="_blank">Google ポッドキャスト</a></li><li><a href="https://yatteiki.booth.pm/items/828339" target="_blank">今日からはじめる技術ポッドキャスト</a></li><li><a href="https://capitalp.jp/category/podcast/" target="_blank">Capital P Podcast</a></li><li><a href="https://rebuild.fm/" target="_blank">Rebuild.fm</a></li><li><a href="https://ja.wikipedia.org/wiki/.fm" target="_blank">.fm - Wikipedia</a></li><li><a href="https://ja.wordpress.org/" target="_blank">WordPress</a></li><li><a href="http://inmusicbrands.jp/marantz_pro/mpm-1000u/" target="_blank">製品情報：MPM-1000U：marantz Professional</a></li></ul>]]></content:encoded>
+		                    <atom:contributor>
+                <atom:name>sola</atom:name>
+                <atom:uri>https://anitech.fm/peoples/sola/</atom:uri>
+            </atom:contributor>
+                <itunes:author><![CDATA[sola]]></itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+                            <itunes:subtitle><![CDATA[配信者 sola の自己紹介、このポッドキャストについて、ポッドキャストを始めた経緯、ポッドキャストのテーマ決め、ポッドキャストを始めるにあたって準備した事について話しました。
+<span id="more-1"></span>]]></itunes:subtitle>
+                            <enclosure url="http://anitech.fm/wp-content/uploads/2018/07/anitech.fm-1.mp3" type="audio/mpeg" length="23948561" />
+            <itunes:duration>24:57</itunes:duration>        	</item>
+	</channel>
+</rss>

@@ -1,0 +1,1688 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom/" xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+    <channel>
+        <title>PHPの現場</title>
+        <description>PHPの現場にいる人と話すポッドキャストです。</description>
+        <link>https://php-genba.shin1x1.com</link>
+        <atom:link href="https://php-genba.shin1x1.com/rss" rel="self" type="application/rss+xml"/>
+        <image>
+            <url>https://php-genba.shin1x1.com/img/itunes-image.jpg</url>
+            <title>PHPの現場</title>
+            <link>https://php-genba.shin1x1.com</link>
+        </image>
+        <itunes:author>Masashi Shinbara</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://php-genba.shin1x1.com/img/itunes-image.jpg"/>
+        <itunes:keywords>tech,technology,programming,php,web,shin1x1,development,software</itunes:keywords>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:summary>PHPの現場にいる人と話すポッドキャストです。</itunes:summary>
+        <itunes:category text="Technology"/>
+        <itunes:owner>
+            <itunes:name>Masashi Shinbara</itunes:name>
+            <itunes:email>shin1x1@gmail.com</itunes:email>
+        </itunes:owner>
+        <language>ja</language>
+
+        
+        <item>
+            <title>27. 現場から見た独立したコアレイヤパターン（tomzoh、cakephper）</title>
+            <description>@tomzoh さん、 @cakephper さんと 独立したコアレイヤパターン、PHPerKaigi 2019、PHPカンファレンス福岡 2019 などについて話しました。
+
+
+公開収録
+PHP カンファレンス福岡 2019
+独立したコアレイヤパターン
+
+
+長谷川さんが見た独立したコアレイヤパターン
+レイヤ間のコード比率
+自分たちのコードに適用してみる
+トランザクションの実装
+リファクタリングのデモ
+天然ものと養殖もの
+市川さんが見た独立したコアレイヤパターン
+インターフェイスが特別なものか
+生存者バイアス
+誰もが適用できるか
+CandyCane
+
+Laravel JP Conference に参加して
+
+
+Laravel コミュニティ
+フレームワークのイベント
+
+スタンプラリー
+PhperKaigi 2019
+種を拾いに行く
+エースコンバット 7 がすごい
+
+</description>
+            <pubDate>Sun, 24 Feb 2019 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/27</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/27</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/tomzoh">@tomzoh</a> さん、 <a href="https://twitter.com/cakephper">@cakephper</a> さんと 独立したコアレイヤパターン、PHPerKaigi 2019、PHPカンファレンス福岡 2019 などについて話しました。</p>
+
+<ul>
+<li>公開収録</li>
+<li>PHP カンファレンス福岡 2019</li>
+<li>独立したコアレイヤパターン
+
+<ul>
+<li>長谷川さんが見た独立したコアレイヤパターン</li>
+<li>レイヤ間のコード比率</li>
+<li>自分たちのコードに適用してみる</li>
+<li>トランザクションの実装</li>
+<li>リファクタリングのデモ</li>
+<li>天然ものと養殖もの</li>
+<li>市川さんが見た独立したコアレイヤパターン</li>
+<li>インターフェイスが特別なものか</li>
+<li>生存者バイアス</li>
+<li>誰もが適用できるか</li>
+<li>CandyCane</li>
+</ul></li>
+<li>Laravel JP Conference に参加して
+
+<ul>
+<li>Laravel コミュニティ</li>
+<li>フレームワークのイベント</li>
+</ul></li>
+<li>スタンプラリー</li>
+<li>PhperKaigi 2019</li>
+<li>種を拾いに行く</li>
+<li>エースコンバット 7 がすごい</li>
+</ul>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://phperkaigi.jp/2019/">PHPerKaigi 2019</a></li>
+<li><a href="https://phpcon.fukuoka.jp/2019/">PHPカンファレンス福岡2019開催決定！</a></li>
+<li><a href="https://speakerdeck.com/shin1x1/independent-core-layer-pattern">独立したコアレイヤパターン / independent-core-layer-pattern - Speaker Deck</a></li>
+<li><a href="https://blog.shin1x1.com/entry/independent-core-layer-pattern-phpconsen2019">「明日から使えるアーキテクチャ 独立したコアレイヤパターン」を発表しました / PHP カンファレンス仙台 2019 - Shin x Blog</a></li>
+<li><a href="https://github.com/yandod/candycane">yandod/candycane: a port of Redmine to CakePHP from Ruby on Rails</a></li>
+<li><a href="https://conference2019.laravel.jp/">Laravel JP Conference</a></li>
+<li><a href="https://game.watch.impress.co.jp/docs/news/1169496.html">「エースコンバット7」開発チームがVRモードの裏側を語る - GAME Watch</a></li>
+<li><a href="https://www.gamespark.jp/article/2015/03/26/55813.html">画面内にバーチャルな「鼻」を表示するとVR酔いが低減される！？―海外研究結果 | Game*Spark - 国内・海外ゲーム情報サイト</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@tomzoh さん、 @cakephper さんと 独立したコアレイヤパターン、PHPerKaigi 2019、PHPカンファレンス福岡 2019 などについて話しました。
+
+
+公開収録
+PHP カンファレンス福岡 2019
+独立したコアレイヤパターン
+
+
+長谷川さんが見た独立したコアレイヤパターン
+レイヤ間のコード比率
+自分たちのコードに適用してみる
+トランザクションの実装
+リファクタリングのデモ
+天然ものと養殖もの
+市川さんが見た独立したコアレイヤパターン
+インターフェイスが特別なものか
+生存者バイアス
+誰もが適用できるか
+CandyCane
+
+Laravel JP Conference に参加して
+
+
+Laravel コミュニティ
+フレームワークのイベント
+
+スタンプラリー
+PhperKaigi 2019
+種を拾いに行く
+エースコンバット 7 がすごい
+
+</itunes:summary>
+            <itunes:subtitle>@tomzoh さん、 @cakephper さんと 独立したコアレイヤパターン、PHPerKaigi 2019、PHPカンファレンス福岡 2019 などについて話しました。
+
+
+公開収録
+PHP カンファレンス福岡 2019
+独立したコアレイヤパターン
+
+
+長谷川さんが見た独立したコアレイヤパターン
+レイヤ間のコード比率
+自分たちのコードに適用してみる
+トランザクションの実装
+リファクタリングのデモ
+天然ものと養殖もの
+市川さんが見た独立したコアレイヤパターン
+インターフェイスが特別なものか
+生存者バイアス
+誰もが適用できるか
+CandyCane
+
+Laravel JP Conference に参加して
+
+
+Laravel コミュニティ
+フレームワークのイベント
+
+スタンプラリー
+PhperKaigi 2019
+種を拾いに行く
+エースコンバット 7 がすごい
+
+</itunes:subtitle>
+            <itunes:duration>1:35:50</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/27.mp3" type="audio/mpeg"
+                       length="46000586"/>
+        </item>
+        
+        <item>
+            <title>26. PHP 7.3, 7.4, 2^3（sji_ch）</title>
+            <description>@sji_ch さんと、たぶん月刊 PHP ニュース、スカラー型宣言、PHP 7.3、7.4、8、PHP カンファレンス仙台などについて話しました。
+
+
+たぶん月刊 PHP ニュース
+スカラー型宣言
+php-master-changes
+半年 ROM れ
+Hello World
+PHP 2^3
+PHP 8 で気になる機能
+async
+JIT
+PHP 7.3 で気になる機能
+Trait
+関数引数ケツカンマ
+7.3.0 バグ
+Derick さんに感謝
+7.4 の新機能
+Typed Property
+PHP カンファレンス仙台
+
+</description>
+            <pubDate>Fri, 11 Jan 2019 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/26</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/26</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/sji_ch">@sji_ch</a> さんと、たぶん月刊 PHP ニュース、スカラー型宣言、PHP 7.3、7.4、8、PHP カンファレンス仙台などについて話しました。</p>
+
+<ul>
+<li>たぶん月刊 PHP ニュース</li>
+<li>スカラー型宣言</li>
+<li>php-master-changes</li>
+<li>半年 ROM れ</li>
+<li>Hello World</li>
+<li>PHP 2^3</li>
+<li>PHP 8 で気になる機能</li>
+<li>async</li>
+<li>JIT</li>
+<li>PHP 7.3 で気になる機能</li>
+<li>Trait</li>
+<li>関数引数ケツカンマ</li>
+<li>7.3.0 バグ</li>
+<li>Derick さんに感謝</li>
+<li>7.4 の新機能</li>
+<li>Typed Property</li>
+<li>PHP カンファレンス仙台</li>
+</ul>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://www.infiniteloop.co.jp/blog/tag/php%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%b9/">PHPニュース | 株式会社インフィニットループ技術ブログ</a></li>
+<li><a href="https://github.com/trending/php">Trending PHP repositories on GitHub today</a></li>
+<li><a href="https://ruby-trunk-changes.hatenablog.com/">ruby trunk changes</a></li>
+<li><a href="https://qiita.com/sj-i/items/b0d3e58798583f18597f">php-master-changes 2018-08-06 - Qiita</a></li>
+<li><a href="http://tech.respect-pal.jp/php7_scalar_type_hinting/">【導入決定！】PHP7で実装されるスカラー型宣言とは？ | 東北ギーク</a></li>
+<li><a href="https://twitter.com/sji_ch/status/1076137052607901696">sji on Twitter: &ldquo;https://t.co/wYzWYU9anp スカラ型宣言が導入されたPHP7.0のリリースからすでに3年が経ち、多くの現場でPHP7が当たり前になってきた頃と思いますが、皆さんの現場ではスカラ型宣言を&rdquo;</a></li>
+<li><a href="https://qiita.com/sj-i">sj-i - Qiita</a></li>
+<li><a href="http://kozos.jp/books/helloworld/">ハロー・ワールド入門 サポートページ</a></li>
+<li><a href="http://tech.respect-pal.jp/php-helloworld/">PHP による hello world 入門 | 東北ギーク</a></li>
+<li><a href="http://d.hatena.ne.jp/do_aki/">do_akiの徒然想記</a></li>
+<li><a href="https://gihyo.jp/book/2015/978-4-7741-7642-0">PHPはどのように動くのか　～PHPコアから読み解く仕組みと定石：書籍案内｜技術評論社</a></li>
+<li><a href="https://externals.io/message/102415">PHP 2^3 - Externals</a></li>
+<li><a href="https://secure.php.net/manual/ja/migration73.php">PHP: Migrating from PHP 7.2.x to PHP 7.3.x - Manual</a></li>
+<li><a href="https://3v4l.org/4kqGt">Online PHP editor | output for 4kqGt</a></li>
+<li><a href="https://qiita.com/sj-i/items/bbc6f2b9268c38d6bf3e#dstogov-fixed-bug-77339-__callstatic-may-get-incorrect-arguments">php-master-changes 2018-12-24 - Qiita</a></li>
+<li><a href="https://qiita.com/sj-i/items/08bd464457b4e959c5a4#cmb69-fix-77291-magic-methods-inherited-from-a-trait-may-be-ignored">php-master-changes 2018-12-16 - Qiita</a></li>
+<li><a href="https://qiita.com/sj-i/items/a5f5b963e2dfaffe00bd#nikic-fixed-bug-77275">php-master-changes 2018-12-10 - Qiita</a></li>
+<li><a href="https://github.com/laravel/framework/issues/26819">Queueing email fails with PHP 7.3: Class setQueue does not exist · Issue #26819 · laravel/framework</a></li>
+<li><a href="https://externals.io/message/4918#4918">Proposal: Dangling comma in function call parameters - Externals</a></li>
+<li><a href="https://externals.io/message/98731">Discussion about zip extension and bundled libzip - Externals</a></li>
+<li><a href="https://bugs.php.net/bug.php?id=77428">PHP :: Bug #77428 :: mb_ereg_replace() doesn&rsquo;t replace a substitution variable</a></li>
+<li><a href="https://www.patreon.com/derickr/posts">Derick Rethans is creating Xdebug, and other bits of useful software such as PHP&rsquo;s DateTime | Patreon</a></li>
+<li><a href="https://wiki.php.net/rfc/typed_properties_v2">PHP: rfc:typed_properties_v2</a></li>
+<li><a href="https://wiki.php.net/rfc/preload">PHP: rfc:preload</a></li>
+<li><a href="https://wiki.php.net/rfc/covariant-returns-and-contravariant-parameters">PHP: rfc:covariant-returns-and-contravariant-parameters</a></li>
+<li><a href="https://wiki.php.net/rfc/ffi">PHP: rfc:ffi</a></li>
+<li><a href="https://github.com/zendtech/php-src/tree/jit-dynasm">zendtech/php-src: The PHP Interpreter</a></li>
+<li><a href="https://phpcon-sendai.net/2019/">PHPカンファレンス仙台2019</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@sji_ch さんと、たぶん月刊 PHP ニュース、スカラー型宣言、PHP 7.3、7.4、8、PHP カンファレンス仙台などについて話しました。
+
+
+たぶん月刊 PHP ニュース
+スカラー型宣言
+php-master-changes
+半年 ROM れ
+Hello World
+PHP 2^3
+PHP 8 で気になる機能
+async
+JIT
+PHP 7.3 で気になる機能
+Trait
+関数引数ケツカンマ
+7.3.0 バグ
+Derick さんに感謝
+7.4 の新機能
+Typed Property
+PHP カンファレンス仙台
+
+</itunes:summary>
+            <itunes:subtitle>@sji_ch さんと、たぶん月刊 PHP ニュース、スカラー型宣言、PHP 7.3、7.4、8、PHP カンファレンス仙台などについて話しました。
+
+
+たぶん月刊 PHP ニュース
+スカラー型宣言
+php-master-changes
+半年 ROM れ
+Hello World
+PHP 2^3
+PHP 8 で気になる機能
+async
+JIT
+PHP 7.3 で気になる機能
+Trait
+関数引数ケツカンマ
+7.3.0 バグ
+Derick さんに感謝
+7.4 の新機能
+Typed Property
+PHP カンファレンス仙台
+
+</itunes:subtitle>
+            <itunes:duration>1:40:46</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/26.mp3" type="audio/mpeg"
+                       length="48368534"/>
+        </item>
+        
+        <item>
+            <title>25. PHP カンファレンス 2018（omoon / tanakahisateru）</title>
+            <description>@omoon さん、@tanakahisateru さんと PHP カンファレンス 2018 について話しました。
+
+
+PHP カンファレンス 2018
+忘れ物
+スピーカーズディナー
+気になったセッション
+発表するまで
+インタビュー
+「Laravel Web アプリケーション開発」サイン会
+PHP コミュニティの盛り上がり
+タイムテーブル
+休憩所
+それぞれの発表について
+はじめての PHP カンファレンス
+2019 年の PHP カンファレンス
+
+</description>
+            <pubDate>Fri, 21 Dec 2018 13:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/25</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/25</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/omoon">@omoon</a> さん、<a href="https://twitter.com/tanakahisateru">@tanakahisateru</a> さんと PHP カンファレンス 2018 について話しました。</p>
+
+<ul>
+<li>PHP カンファレンス 2018</li>
+<li>忘れ物</li>
+<li>スピーカーズディナー</li>
+<li>気になったセッション</li>
+<li>発表するまで</li>
+<li>インタビュー</li>
+<li>「Laravel Web アプリケーション開発」サイン会</li>
+<li>PHP コミュニティの盛り上がり</li>
+<li>タイムテーブル</li>
+<li>休憩所</li>
+<li>それぞれの発表について</li>
+<li>はじめての PHP カンファレンス</li>
+<li>2019 年の PHP カンファレンス</li>
+</ul>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="http://phpcon.php.gr.jp/2018/">PHP Conference 2018 - #phpcon2018</a></li>
+<li><a href="https://www.amazon.co.jp/dp/4802611846">PHPフレームワーク Laravel Webアプリケーション開発 バージョン5.5 LTS対応</a></li>
+<li><a href="https://speakerdeck.com/shin1x1/phpcon2018-independent-core-layer-pattern">独立したコアレイヤパターンによる PHP アプリケーションの実装</a></li>
+<li><a href="https://togetter.com/li/1299453">#phpcon2018 「独立したコアレイヤパターンによる PHP アプリケーションの実装」 - Togetter</a></li>
+<li><a href="https://speakerdeck.com/tanakahisateru/17ninatutafalseka">PHP-FIGのHTTP処理標準の設計はなぜPSR-7/15/17になったのか</a></li>
+<li><a href="https://speakerdeck.com/omoon/laraveldetddwoti-yan-siyou-number-phpcon2018">LaravelでTDDを体験しよう #phpcon2018</a></li>
+<li><a href="http://hatena.g.hatena.ne.jp/hatenatech/20060508/1147073721">5月2日の技術勉強会 - はてな技術発表会日記 - 機能変更、お知らせなど</a></li>
+<li><a href="https://www.amazon.co.jp/dp/4774159719">PHPエンジニア養成読本 〔現場で役立つイマドキ開発ノウハウ満載! 〕 (Software Design plus)</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@omoon さん、@tanakahisateru さんと PHP カンファレンス 2018 について話しました。
+
+
+PHP カンファレンス 2018
+忘れ物
+スピーカーズディナー
+気になったセッション
+発表するまで
+インタビュー
+「Laravel Web アプリケーション開発」サイン会
+PHP コミュニティの盛り上がり
+タイムテーブル
+休憩所
+それぞれの発表について
+はじめての PHP カンファレンス
+2019 年の PHP カンファレンス
+
+</itunes:summary>
+            <itunes:subtitle>@omoon さん、@tanakahisateru さんと PHP カンファレンス 2018 について話しました。
+
+
+PHP カンファレンス 2018
+忘れ物
+スピーカーズディナー
+気になったセッション
+発表するまで
+インタビュー
+「Laravel Web アプリケーション開発」サイン会
+PHP コミュニティの盛り上がり
+タイムテーブル
+休憩所
+それぞれの発表について
+はじめての PHP カンファレンス
+2019 年の PHP カンファレンス
+
+</itunes:subtitle>
+            <itunes:duration>1:12:34</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/25.mp3" type="audio/mpeg"
+                       length="34832508"/>
+        </item>
+        
+        <item>
+            <title>24. GameWithの現場（serima）</title>
+            <description>@serima さんと GameWith の現場、ソフトウェアエンジニアの採用、情報発信などについて話しました。
+
+
+GameWith アーキテクチャ
+WordPress ではなく FuelPHP
+記事検索の実装（Laravel + Docker + ElasticSearch）
+プログラミング言語選択
+コンテンツを作るツール
+FuelPHP Module
+攻略タイトル毎の実装
+to C システムと to B システム
+to B システムの改善
+上場後のソフトウェアエンジニア採用
+ドメイン知識の伝承
+エンジニアリングマネージャ
+輪読会
+社外への情報発信
+情報発信の工夫（ペアでブログを書く、制作時間を決める）
+育児休暇を取る
+副業のススメ
+イベントへのスポンサード
+
+</description>
+            <pubDate>Wed, 14 Nov 2018 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/24</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/24</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/serima">@serima</a> さんと GameWith の現場、ソフトウェアエンジニアの採用、情報発信などについて話しました。</p>
+
+<ul>
+<li>GameWith アーキテクチャ</li>
+<li>WordPress ではなく FuelPHP</li>
+<li>記事検索の実装（Laravel + Docker + ElasticSearch）</li>
+<li>プログラミング言語選択</li>
+<li>コンテンツを作るツール</li>
+<li>FuelPHP Module</li>
+<li>攻略タイトル毎の実装</li>
+<li>to C システムと to B システム</li>
+<li>to B システムの改善</li>
+<li>上場後のソフトウェアエンジニア採用</li>
+<li>ドメイン知識の伝承</li>
+<li>エンジニアリングマネージャ</li>
+<li>輪読会</li>
+<li>社外への情報発信</li>
+<li>情報発信の工夫（ペアでブログを書く、制作時間を決める）</li>
+<li>育児休暇を取る</li>
+<li>副業のススメ</li>
+<li>イベントへのスポンサード</li>
+</ul>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://www.slideshare.net/serima1/start-oss-contribution-with-what-you-know-oss-contribution">Start OSS Contribution With What You Know / できることから始める OSS Contributi…</a></li>
+<li><a href="https://speakerdeck.com/shin1x1/docker-for-development">開発環境で使う Docker / docker-for-development - Speaker Deck</a></li>
+<li><a href="https://gamewith.jp/">GameWith - 国内最大級のゲームアプリ情報・攻略サイト</a></li>
+<li><a href="https://www.slideshare.net/serima1/gamewith">GameWithを支えるインフラ基盤 - スケールイン・アウト戦略編 -</a></li>
+<li><a href="https://logmi.jp/tech/articles/313528">日本最大級のゲームメディア「GameWith」を支える技術スタック　インフラ基盤からブロックチェーンまで - ログミーTech</a></li>
+<li><a href="https://tech.gamewith.co.jp/entry/2018/09/21/122154">ゼロベースからPHP 7.2 + Elasticsearch 6.2 を使って検索機能をリリースするまで - GameWith Engineering Blog</a></li>
+<li><a href="https://www.amazon.co.jp/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E7%B5%84%E7%B9%94%E8%AB%96%E3%81%B8%E3%81%AE%E6%8B%9B%E5%BE%85-%E4%B8%8D%E7%A2%BA%E5%AE%9F%E6%80%A7%E3%81%AB%E5%90%91%E3%81%8D%E5%90%88%E3%81%86%E6%80%9D%E8%80%83%E3%81%A8%E7%B5%84%E7%B9%94%E3%81%AE%E3%83%AA%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0-%E5%BA%83%E6%9C%A8-%E5%A4%A7%E5%9C%B0/dp/4774196053">エンジニアリング組織論への招待 ~不確実性に向き合う思考と組織のリファクタリング | 広木 大地 |本 | 通販 | Amazon</a></li>
+<li><a href="https://www.slideshare.net/serima1/rejectcon">エンジニア採用と PHP #phpconfuk_rej</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@serima さんと GameWith の現場、ソフトウェアエンジニアの採用、情報発信などについて話しました。
+
+
+GameWith アーキテクチャ
+WordPress ではなく FuelPHP
+記事検索の実装（Laravel + Docker + ElasticSearch）
+プログラミング言語選択
+コンテンツを作るツール
+FuelPHP Module
+攻略タイトル毎の実装
+to C システムと to B システム
+to B システムの改善
+上場後のソフトウェアエンジニア採用
+ドメイン知識の伝承
+エンジニアリングマネージャ
+輪読会
+社外への情報発信
+情報発信の工夫（ペアでブログを書く、制作時間を決める）
+育児休暇を取る
+副業のススメ
+イベントへのスポンサード
+
+</itunes:summary>
+            <itunes:subtitle>@serima さんと GameWith の現場、ソフトウェアエンジニアの採用、情報発信などについて話しました。
+
+
+GameWith アーキテクチャ
+WordPress ではなく FuelPHP
+記事検索の実装（Laravel + Docker + ElasticSearch）
+プログラミング言語選択
+コンテンツを作るツール
+FuelPHP Module
+攻略タイトル毎の実装
+to C システムと to B システム
+to B システムの改善
+上場後のソフトウェアエンジニア採用
+ドメイン知識の伝承
+エンジニアリングマネージャ
+輪読会
+社外への情報発信
+情報発信の工夫（ペアでブログを書く、制作時間を決める）
+育児休暇を取る
+副業のススメ
+イベントへのスポンサード
+
+</itunes:subtitle>
+            <itunes:duration>1:28:38</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/24.mp3" type="audio/mpeg"
+                       length="0"/>
+        </item>
+        
+        <item>
+            <title>23. 野望のないキャリアプラン（localdisk）</title>
+            <description>@localdisk さんとキャリアプランや転職活動、情報のキャッチアップなどについて話しました。
+
+
+Laravel 本
+のぼりーさんのクラウドインフラPodcast にゲスト出演
+野望のないキャリアプラン
+Laravel フレームワークのコード
+情報のキャッチアップ
+フロントエンドの楽しさ、バックエンドの楽しさ
+自分の手のひらを広げる
+未来を悲観しない
+強い言葉が残る
+フレームワークとの付き合い方
+リモートワーク
+貢献できる会社を選ぶ
+#駆け出しエンジニアと繋がりたい
+
+</description>
+            <pubDate>Tue, 02 Oct 2018 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/23</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/23</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/localdisk">@localdisk</a> さんとキャリアプランや転職活動、情報のキャッチアップなどについて話しました。</p>
+
+<ul>
+<li>Laravel 本</li>
+<li>のぼりーさんのクラウドインフラPodcast にゲスト出演</li>
+<li>野望のないキャリアプラン</li>
+<li>Laravel フレームワークのコード</li>
+<li>情報のキャッチアップ</li>
+<li>フロントエンドの楽しさ、バックエンドの楽しさ</li>
+<li>自分の手のひらを広げる</li>
+<li>未来を悲観しない</li>
+<li>強い言葉が残る</li>
+<li>フレームワークとの付き合い方</li>
+<li>リモートワーク</li>
+<li>貢献できる会社を選ぶ</li>
+<li>#駆け出しエンジニアと繋がりたい</li>
+</ul>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://amzn.to/2RbHJzA">PHPフレームワーク Laravel Webアプリケーション開発</a></li>
+<li><a href="https://cloudinfra.audio/track26-b3680a037a34">『Track-26 新原さんとPHPの現場っぽく』のメモ – cloudinfra-audio</a></li>
+<li><a href="https://twitter.com/hashtag/%E9%A7%86%E3%81%91%E5%87%BA%E3%81%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%81%A8%E7%B9%8B%E3%81%8C%E3%82%8A%E3%81%9F%E3%81%84">#駆け出しエンジニアと繋がりたい hashtag on Twitter</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@localdisk さんとキャリアプランや転職活動、情報のキャッチアップなどについて話しました。
+
+
+Laravel 本
+のぼりーさんのクラウドインフラPodcast にゲスト出演
+野望のないキャリアプラン
+Laravel フレームワークのコード
+情報のキャッチアップ
+フロントエンドの楽しさ、バックエンドの楽しさ
+自分の手のひらを広げる
+未来を悲観しない
+強い言葉が残る
+フレームワークとの付き合い方
+リモートワーク
+貢献できる会社を選ぶ
+#駆け出しエンジニアと繋がりたい
+
+</itunes:summary>
+            <itunes:subtitle>@localdisk さんとキャリアプランや転職活動、情報のキャッチアップなどについて話しました。
+
+
+Laravel 本
+のぼりーさんのクラウドインフラPodcast にゲスト出演
+野望のないキャリアプラン
+Laravel フレームワークのコード
+情報のキャッチアップ
+フロントエンドの楽しさ、バックエンドの楽しさ
+自分の手のひらを広げる
+未来を悲観しない
+強い言葉が残る
+フレームワークとの付き合い方
+リモートワーク
+貢献できる会社を選ぶ
+#駆け出しエンジニアと繋がりたい
+
+</itunes:subtitle>
+            <itunes:duration>1:35:26</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/23.mp3" type="audio/mpeg"
+                       length="45808534"/>
+        </item>
+        
+        <item>
+            <title>22. パフォーマンス・チューニング（yugo_tak） </title>
+            <description>@yugo_tak さんとPHPアプリケーションのパフォーマンス・チューニングやプロファイル、ISUCON などについて話しました。
+
+
+負荷試験
+モニタリングツール
+予測より計測
+ボトルネック
+PHPプロファイル (New Relice, XHProf + tideways, Xdebug)
+チューニングのアンチパターン（キャッシュ、持続的接続、データ特性、原因の見極め）
+Go と PHP
+Singleflightパターン
+仕様チューニング
+ISUCON楽しい
+PHPで出る
+チームレクリエーションとしてのISUCON
+
+</description>
+            <pubDate>Fri, 07 Sep 2018 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/22</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/22</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/yugo_tak">@yugo_tak</a> さんとPHPアプリケーションのパフォーマンス・チューニングやプロファイル、ISUCON などについて話しました。</p>
+
+<ul>
+<li>負荷試験</li>
+<li>モニタリングツール</li>
+<li>予測より計測</li>
+<li>ボトルネック</li>
+<li>PHPプロファイル (New Relice, XHProf + tideways, Xdebug)</li>
+<li>チューニングのアンチパターン（キャッシュ、持続的接続、データ特性、原因の見極め）</li>
+<li>Go と PHP</li>
+<li>Singleflightパターン</li>
+<li>仕様チューニング</li>
+<li>ISUCON楽しい</li>
+<li>PHPで出る</li>
+<li>チームレクリエーションとしてのISUCON</li>
+</ul>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="http://www.phpinternalsbook-ja.com/">Table Of Contents — PHP Internals Book 日本語訳</a></li>
+<li><a href="https://speakerdeck.com/yugo19880624/web-performance-tuning">PHPer向けWebアプリケーションのパフォーマンスチューニング入門 / web performance tuning - Speaker Deck</a></li>
+<li><a href="https://github.com/tideways/php-xhprof-extension">tideways/php-xhprof-extension: Modern XHProf compatible PHP Profiler for PHP 7</a></li>
+<li><a href="https://tideways.com/">Mission control center for PHP application performance | Tideways</a></li>
+<li><a href="https://golang.org/pkg/internal/singleflight/">singleflight - The Go Programming Language</a></li>
+<li><a href="https://tyabu.hatenablog.jp/entry/isucon-practice-env">ISUCON 練習環境まとめ - コーヒー休憩</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@yugo_tak さんとPHPアプリケーションのパフォーマンス・チューニングやプロファイル、ISUCON などについて話しました。
+
+
+負荷試験
+モニタリングツール
+予測より計測
+ボトルネック
+PHPプロファイル (New Relice, XHProf + tideways, Xdebug)
+チューニングのアンチパターン（キャッシュ、持続的接続、データ特性、原因の見極め）
+Go と PHP
+Singleflightパターン
+仕様チューニング
+ISUCON楽しい
+PHPで出る
+チームレクリエーションとしてのISUCON
+
+</itunes:summary>
+            <itunes:subtitle>@yugo_tak さんとPHPアプリケーションのパフォーマンス・チューニングやプロファイル、ISUCON などについて話しました。
+
+
+負荷試験
+モニタリングツール
+予測より計測
+ボトルネック
+PHPプロファイル (New Relice, XHProf + tideways, Xdebug)
+チューニングのアンチパターン（キャッシュ、持続的接続、データ特性、原因の見極め）
+Go と PHP
+Singleflightパターン
+仕様チューニング
+ISUCON楽しい
+PHPで出る
+チームレクリエーションとしてのISUCON
+
+</itunes:subtitle>
+            <itunes:duration>1:12:54</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/22.mp3" type="audio/mpeg"
+                       length="34992586"/>
+        </item>
+        
+        <item>
+            <title>21. アプリケーションとフレームワークの分離（polidog） </title>
+            <description>@polidog さんと一人開発、アプリケーションとフレームワークの分離、アウトプットなどについて話しました。
+
+
+一人開発
+絵画の修復
+dep コマンドの衝突
+開発環境、デプロイ
+エンジニア夫婦
+紙と電子書籍
+読み上げ機能
+独立したコアレイヤパターン
+Symfony とアプリケーションの分離
+Symfony と上手く付き合う
+設計と分析
+気軽にアウトプット
+有名なエンジニアになりたかった
+Symfony Meetup
+難しいから面白い Symfony
+
+</description>
+            <pubDate>Sat, 21 Jul 2018 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/21</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/21</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/polidog">@polidog</a> さんと一人開発、アプリケーションとフレームワークの分離、アウトプットなどについて話しました。</p>
+
+<ul>
+<li>一人開発</li>
+<li>絵画の修復</li>
+<li>dep コマンドの衝突</li>
+<li>開発環境、デプロイ</li>
+<li>エンジニア夫婦</li>
+<li>紙と電子書籍</li>
+<li>読み上げ機能</li>
+<li>独立したコアレイヤパターン</li>
+<li>Symfony とアプリケーションの分離</li>
+<li>Symfony と上手く付き合う</li>
+<li>設計と分析</li>
+<li>気軽にアウトプット</li>
+<li>有名なエンジニアになりたかった</li>
+<li>Symfony Meetup</li>
+<li>難しいから面白い Symfony</li>
+</ul>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://github.com/phpmentors-jp/domain-kata/wiki">Home · phpmentors-jp/domain-kata Wiki</a></li>
+<li><a href="http://gihyo.jp/book/2007/978-4-7741-3139-9">Ethna × PHP：書籍案内｜技術評論社</a></li>
+<li><a href="https://blog.shin1x1.com/entry/independent-core-layer-pattern">独立したコアレイヤパターン - Shin x Blog</a></li>
+<li><a href="https://speakerdeck.com/shin1x1/independent-core-layer-pattern">独立したコアレイヤパターン / independent-core-layer-pattern - Speaker Deck</a></li>
+<li><a href="https://kichijojipm.connpass.com/event/80897/">Kichijojipm-mini #012 - connpass</a></li>
+<li><a href="https://speakerdeck.com/shinpeim/jin-aetedryyuan-ze-nixiang-kihe-u">今あえてDRY原則に向き合う - Speaker Deck</a></li>
+<li><a href="https://www.amazon.co.jp/%E6%96%B0%E8%A3%85%E7%89%88-%E3%83%9E%E3%83%AB%E3%83%81%E3%83%91%E3%83%A9%E3%83%80%E3%82%A4%E3%83%A0%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3-%E3%82%B8%E3%82%A7%E3%83%BC%E3%83%A0%E3%82%B9%E3%83%BB-%E3%83%BB%E3%82%B3%E3%83%97%E3%83%AA%E3%83%B3/dp/4894715287">新装版　マルチパラダイムデザイン | ジェームス・O・コプリン, James O. Coplien, 平鍋 健児, 金沢 典子, 羽生田 栄一 |本 | 通販 | Amazon</a></li>
+<li><a href="https://symfony.connpass.com/">日本Symfonyユーザー会 - connpass</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@polidog さんと一人開発、アプリケーションとフレームワークの分離、アウトプットなどについて話しました。
+
+
+一人開発
+絵画の修復
+dep コマンドの衝突
+開発環境、デプロイ
+エンジニア夫婦
+紙と電子書籍
+読み上げ機能
+独立したコアレイヤパターン
+Symfony とアプリケーションの分離
+Symfony と上手く付き合う
+設計と分析
+気軽にアウトプット
+有名なエンジニアになりたかった
+Symfony Meetup
+難しいから面白い Symfony
+
+</itunes:summary>
+            <itunes:subtitle>@polidog さんと一人開発、アプリケーションとフレームワークの分離、アウトプットなどについて話しました。
+
+
+一人開発
+絵画の修復
+dep コマンドの衝突
+開発環境、デプロイ
+エンジニア夫婦
+紙と電子書籍
+読み上げ機能
+独立したコアレイヤパターン
+Symfony とアプリケーションの分離
+Symfony と上手く付き合う
+設計と分析
+気軽にアウトプット
+有名なエンジニアになりたかった
+Symfony Meetup
+難しいから面白い Symfony
+
+</itunes:subtitle>
+            <itunes:duration>1:38:02</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/21.mp3" type="audio/mpeg"
+                       length="47056560"/>
+        </item>
+        
+        <item>
+            <title>20. 開発チームでオブジェクト指向を学ぶ（ytake / kunit） </title>
+            <description>ytake さん、 @kunit さんと社内勉強会やチームでの学び、バージョンアップなどについて話しました。
+
+
+社内 OOP/OOD 勉強会
+開発チームでの学び
+先に苦労するか、後で苦労するか
+ボーイスカウトルール
+サービス指向と技術指向
+フレームワークのバージョンアップ
+自作フレームワーク
+経験から学ぶ
+社内勉強会
+独立したコアレイヤパターン
+
+</description>
+            <pubDate>Tue, 22 May 2018 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/20</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/20</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/ex_takezawa">ytake</a> さん、 <a href="https://twitter.com/kunit">@kunit</a> さんと社内勉強会やチームでの学び、バージョンアップなどについて話しました。</p>
+
+<ul>
+<li>社内 OOP/OOD 勉強会</li>
+<li>開発チームでの学び</li>
+<li>先に苦労するか、後で苦労するか</li>
+<li>ボーイスカウトルール</li>
+<li>サービス指向と技術指向</li>
+<li>フレームワークのバージョンアップ</li>
+<li>自作フレームワーク</li>
+<li>経験から学ぶ</li>
+<li>社内勉強会</li>
+<li>独立したコアレイヤパターン</li>
+</ul>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="http://blog.shin1x1.com/entry/independent-core-layer-pattern">独立したコアレイヤパターン - Shin x Blog</a></li>
+<li><a href="http://php.net/manual/ja/book.ds.php">PHP: Data Structures - Manual</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>ytake さん、 @kunit さんと社内勉強会やチームでの学び、バージョンアップなどについて話しました。
+
+
+社内 OOP/OOD 勉強会
+開発チームでの学び
+先に苦労するか、後で苦労するか
+ボーイスカウトルール
+サービス指向と技術指向
+フレームワークのバージョンアップ
+自作フレームワーク
+経験から学ぶ
+社内勉強会
+独立したコアレイヤパターン
+
+</itunes:summary>
+            <itunes:subtitle>ytake さん、 @kunit さんと社内勉強会やチームでの学び、バージョンアップなどについて話しました。
+
+
+社内 OOP/OOD 勉強会
+開発チームでの学び
+先に苦労するか、後で苦労するか
+ボーイスカウトルール
+サービス指向と技術指向
+フレームワークのバージョンアップ
+自作フレームワーク
+経験から学ぶ
+社内勉強会
+独立したコアレイヤパターン
+
+</itunes:subtitle>
+            <itunes:duration>1:38:02</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/20.mp3" type="audio/mpeg"
+                       length="47056560"/>
+        </item>
+        
+        <item>
+            <title>19. PHPerKaigi の現場（tomzoh / cakephper） </title>
+            <description>@tomzoh さん、 @cakephper さんと PHPerKaigi 2018、PHPカンファレンス福岡について話しました。
+
+
+Interactive Round Table（相談会）
+セッション採択
+LT
+イベント運営システム
+関係者の最大化
+赤字か黒字か
+We are community
+PHPerKaigi 2019
+福岡へ
+
+</description>
+            <pubDate>Tue, 27 Mar 2018 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/19</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/19</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/tomzoh">@tomzoh</a> さん、 <a href="https://twitter.com/cakephper">@cakephper</a> さんと PHPerKaigi 2018、PHPカンファレンス福岡について話しました。</p>
+
+<ul>
+<li>Interactive Round Table（相談会）</li>
+<li>セッション採択</li>
+<li>LT</li>
+<li>イベント運営システム</li>
+<li>関係者の最大化</li>
+<li>赤字か黒字か</li>
+<li>We are community</li>
+<li>PHPerKaigi 2019</li>
+<li>福岡へ</li>
+</ul>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://phperkaigi.jp/2018/">PHPerKaigi 2018</a></li>
+<li><a href="https://ajito.fm/22/">ajitofm 22: Headers Already Sent</a></li>
+<li><a href="http://blog.shin1x1.com/entry/phperkaigi2018">懇親会ではなく本編で交流できた PHPerKaigi 2018 - Shin x Blog</a></li>
+<li><a href="http://phpcon.fukuoka.jp/2018/">PHPカンファレンス福岡2018</a></li>
+<li><a href="https://php-genba.shin1x1.com/12">12. カンファレンスの現場（tomzoh / cakephper） | PHPの現場</a></li>
+<li><a href="http://koriym.github.io/blog/2018/03/18/phpnw17/">PHPNW17 - BEAR Blog</a></li>
+<li><a href="https://www.youtube.com/watch?v=m7OMEplbCKY">Twitter founder Biz Stone Speaks at Alumni Reunion - Haas School - YouTube</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@tomzoh さん、 @cakephper さんと PHPerKaigi 2018、PHPカンファレンス福岡について話しました。
+
+
+Interactive Round Table（相談会）
+セッション採択
+LT
+イベント運営システム
+関係者の最大化
+赤字か黒字か
+We are community
+PHPerKaigi 2019
+福岡へ
+
+</itunes:summary>
+            <itunes:subtitle>@tomzoh さん、 @cakephper さんと PHPerKaigi 2018、PHPカンファレンス福岡について話しました。
+
+
+Interactive Round Table（相談会）
+セッション採択
+LT
+イベント運営システム
+関係者の最大化
+赤字か黒字か
+We are community
+PHPerKaigi 2019
+福岡へ
+
+</itunes:subtitle>
+            <itunes:duration>1:44:02</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/19.mp3" type="audio/mpeg"
+                       length="49936508"/>
+        </item>
+        
+        <item>
+            <title>18. PHP を選ぶ / サイバーエージェントの現場（goodoo） </title>
+            <description>PHPerKaigi 2018 で行った公開収録の模様です。賑やかな音が入っていますが、当日の雰囲気も一緒にお楽しみ下さい :)
+
+@goodoo さんと、PHP Way、PHPを使ってきた経緯、CakePHP、FuelPHP、別の言語への移行、Node.js との住み分け、PHP 5 から PHP 7 への環境移行、デプロイ、開発環境、PHP を選ぶなどについて話しました。
+</description>
+            <pubDate>Wed, 14 Mar 2018 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/18</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/18</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://phperkaigi.jp/2018/">PHPerKaigi 2018</a> で行った公開収録の模様です。賑やかな音が入っていますが、当日の雰囲気も一緒にお楽しみ下さい :)</p>
+
+<p><a href="https://twitter.com/goodoo">@goodoo</a> さんと、PHP Way、PHPを使ってきた経緯、CakePHP、FuelPHP、別の言語への移行、Node.js との住み分け、PHP 5 から PHP 7 への環境移行、デプロイ、開発環境、PHP を選ぶなどについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://base.connpass.com/event/73588/">【好評につき増席】PHP Way #1 - connpass</a></li>
+<li><a href="https://codeiq.jp/magazine/2018/03/57560/">サイバーエージェント・コネヒト・BASEが語る、今あえて開発言語を「PHP」に決めた理由とは？｜CodeIQ MAGAZINE</a></li>
+<li><a href="https://speakerdeck.com/sgeengineer/phptefalsekemufalse-sahasaitokai-fa-falsebian-qian-phptofalsefu-kihe-ifang">PHPでのゲームの サーバサイド開発の変遷 ~PHPとの付き合い方~ // Speaker Deck</a></li>
+<li><a href="https://togetter.com/li/1207100">全PHPerのためのポッドキャスト「PHPの現場」公開収録 in #PHPerKaigi ゲストは @goodoo さん#phpgenba - Togetter</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>PHPerKaigi 2018 で行った公開収録の模様です。賑やかな音が入っていますが、当日の雰囲気も一緒にお楽しみ下さい :)
+
+@goodoo さんと、PHP Way、PHPを使ってきた経緯、CakePHP、FuelPHP、別の言語への移行、Node.js との住み分け、PHP 5 から PHP 7 への環境移行、デプロイ、開発環境、PHP を選ぶなどについて話しました。
+</itunes:summary>
+            <itunes:subtitle>PHPerKaigi 2018 で行った公開収録の模様です。賑やかな音が入っていますが、当日の雰囲気も一緒にお楽しみ下さい :)
+
+@goodoo さんと、PHP Way、PHPを使ってきた経緯、CakePHP、FuelPHP、別の言語への移行、Node.js との住み分け、PHP 5 から PHP 7 への環境移行、デプロイ、開発環境、PHP を選ぶなどについて話しました。
+</itunes:subtitle>
+            <itunes:duration>1:00:34</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/18.mp3" type="audio/mpeg"
+                       length="29072612"/>
+        </item>
+        
+        <item>
+            <title>17. PHP コードの下を見る（do_aki） </title>
+            <description>@do_aki さんと、公開収録、PHPerKaigi、PHP 7.2（Parameter Type Widening、Sodium 採用、Mcrypt 廃止）、PHP 5(4) から PHP 7 への移行、Vim の folding、signal、AST、静的解析ツール、Language Server Protocol、PHP 内部実装の情報収集、Ruby 拡張などについて話しました。
+</description>
+            <pubDate>Tue, 20 Feb 2018 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/17</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/17</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/do_aki">@do_aki</a> さんと、公開収録、PHPerKaigi、PHP 7.2（Parameter Type Widening、Sodium 採用、Mcrypt 廃止）、PHP 5(4) から PHP 7 への移行、Vim の folding、signal、AST、静的解析ツール、Language Server Protocol、PHP 内部実装の情報収集、Ruby 拡張などについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://phperkaigi.jp/2018/">PHPerKaigi 2018</a></li>
+<li><a href="http://php.net/manual/ja/migration72.php">PHP: PHP 7.1.x から PHP 7.2.x への移行 - Manual</a></li>
+<li><a href="https://wiki.php.net/rfc/parameter-no-type-variance">PHP: rfc:parameter-no-type-variance</a></li>
+<li><a href="https://gist.github.com/do-aki/e316fbf6218bdb31dda065bd9e2d1182">Parameter Type Widening に関して</a></li>
+<li><a href="https://github.com/php/php-src/pull/2233">Remove &ldquo;register_globals&rdquo; support codes from php/php_binary serializer by yohgaki · Pull Request #2233 · php/php-src</a></li>
+<li><a href="https://www.slideshare.net/do_aki/20171008-signal-onphp">PHPとシグナル、その裏側</a></li>
+<li><a href="https://www.slideshare.net/do_aki/php-ast">PHP AST 徹底解説</a></li>
+<li><a href="https://github.com/nikic/PHP-Parser">nikic/PHP-Parser: A PHP parser written in PHP</a></li>
+<li><a href="https://github.com/nikic/php-ast">nikic/php-ast: Extension exposing PHP 7 abstract syntax tree</a></li>
+<li><a href="https://qiita.com/edvakf@github/items/6051a17862a962397a5f">XPathでソースコード検索する話 @ 第七回闇PHP勉強会 - Qiita</a></li>
+<li><a href="https://www.jetbrains.com/teamcity/">TeamCity: Hassle-free CI and CD Server by JetBrains</a></li>
+<li><a href="https://blog.jetbrains.com/phpstorm/2013/01/continuous-integration-for-php-using-teamcity/">Continuous Integration for PHP using TeamCity | PhpStorm Blog</a></li>
+<li><a href="https://hub.docker.com/r/jetbrains/teamcity-server/">jetbrains/teamcity-server - Docker Hub</a></li>
+<li><a href="http://d.hatena.ne.jp/do_aki/20130218/1361197742">Excel は Editor ですか？ いいえ、Image Viewer です。 - do_akiの徒然想記</a></li>
+<li><a href="http://www.1x1.jp/blog/2008/08/php_class_table_image.html">tableタグで画像を描くPHPクラスを作ってみた - Shin x blog</a></li>
+<li><a href="https://qiita.com/atsushieno/items/ce31df9bd88e98eec5c4">language server protocolについて (前編) - Qiita</a></li>
+<li><a href="https://github.com/felixfbecker/vscode-php-intellisense">felixfbecker/vscode-php-intellisense: Advanced PHP IntelliSense for Visual Studio Code 🆚💬</a></li>
+<li><a href="https://github.com/felixfbecker/php-language-server">felixfbecker/php-language-server: PHP Implementation of the VS Code Language Server Protocol 🆚↔🖥</a></li>
+<li><a href="https://github.com/Microsoft/tolerant-php-parser">Microsoft/tolerant-php-parser: An early-stage PHP parser designed for IDE usage scenarios.</a></li>
+<li><a href="https://nhiroki.jp/2017/12/01/chromium-sourcecode">Chromium のソースコードの歩き方</a></li>
+<li><a href="https://phpinternals.net/">PHP Internals</a></li>
+<li><a href="https://github.com/php/php-src">php/php-src: The PHP Interpreter</a></li>
+<li><a href="http://www.phpinternalsbook.com/">Table Of Contents — PHP Internals Book</a></li>
+<li><a href="https://github.com/pangudashu/php7-internal">pangudashu/php7-internal: PHP7内核剖析</a></li>
+<li><a href="http://www.php.net/manual/ja/internals2.ze1.zendapi.php">PHP: Zend API: PHP のコアをハックする - Manual</a></li>
+<li><a href="https://github.com/do-aki/php_embed">do-aki/php_embed: runnable php script on ruby</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@do_aki さんと、公開収録、PHPerKaigi、PHP 7.2（Parameter Type Widening、Sodium 採用、Mcrypt 廃止）、PHP 5(4) から PHP 7 への移行、Vim の folding、signal、AST、静的解析ツール、Language Server Protocol、PHP 内部実装の情報収集、Ruby 拡張などについて話しました。
+</itunes:summary>
+            <itunes:subtitle>@do_aki さんと、公開収録、PHPerKaigi、PHP 7.2（Parameter Type Widening、Sodium 採用、Mcrypt 廃止）、PHP 5(4) から PHP 7 への移行、Vim の folding、signal、AST、静的解析ツール、Language Server Protocol、PHP 内部実装の情報収集、Ruby 拡張などについて話しました。
+</itunes:subtitle>
+            <itunes:duration>1:43:22</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/17.mp3" type="audio/mpeg"
+                       length="49616560"/>
+        </item>
+        
+        <item>
+            <title>16. 自分のサービスを作る（msng） </title>
+            <description>msng さんと、Windows ノート、Windows Subsystem for Linux、HackerRank、自分のサービスを作る、質問箱、ドメイン、yabmin、PHPの現場サイト構成、CloudFront、自分名義のアウトプット、名前付け、独立して仕事をする、Deployer、技術系ブログなどについて話しました。
+</description>
+            <pubDate>Mon, 29 Jan 2018 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/16</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/16</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/msng">msng</a> さんと、Windows ノート、Windows Subsystem for Linux、HackerRank、自分のサービスを作る、質問箱、ドメイン、yabmin、PHPの現場サイト構成、CloudFront、自分名義のアウトプット、名前付け、独立して仕事をする、Deployer、技術系ブログなどについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://docs.microsoft.com/ja-jp/windows/wsl/about">Learn about the Windows Subsystem for Linux | Microsoft Docs</a></li>
+<li><a href="https://research.hackerrank.com/developer-skills/2018/">2018 Developer Skills Report by HackerRank</a></li>
+<li><a href="http://jp.techcrunch.com/2017/12/21/jiraffe-peing/">ローンチ1ヶ月で月間2億PVペースの「Peing – 質問箱」をジラフが買収、世界展開目指す | TechCrunch Japan</a></li>
+<li><a href="https://yabm.in/">yabmin - メール完結型Twitterクライアント(ヤブミン)</a></li>
+<li><a href="https://docs.aws.amazon.com/ja_jp/AmazonCloudFront/latest/DeveloperGuide/Expiration.html">CloudFront エッジキャッシュにオブジェクトを保持する時間の指定（有効期限切れ） - Amazon CloudFront</a></li>
+<li><a href="https://deployer.org/">Deployer — Deployment Tool for PHP</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>msng さんと、Windows ノート、Windows Subsystem for Linux、HackerRank、自分のサービスを作る、質問箱、ドメイン、yabmin、PHPの現場サイト構成、CloudFront、自分名義のアウトプット、名前付け、独立して仕事をする、Deployer、技術系ブログなどについて話しました。
+</itunes:summary>
+            <itunes:subtitle>msng さんと、Windows ノート、Windows Subsystem for Linux、HackerRank、自分のサービスを作る、質問箱、ドメイン、yabmin、PHPの現場サイト構成、CloudFront、自分名義のアウトプット、名前付け、独立して仕事をする、Deployer、技術系ブログなどについて話しました。
+</itunes:subtitle>
+            <itunes:duration>2:00:10</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/16.mp3" type="audio/mpeg"
+                       length="57680456"/>
+        </item>
+        
+        <item>
+            <title>15. PHP - The Wrong Way（tanakahisateru）</title>
+            <description>@tanakahisateru さんと、ajitofm への出演、PHP - The Wrong Way などについて話しました。
+</description>
+            <pubDate>Thu, 21 Dec 2017 12:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/15</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/15</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/tanakahisateru">@tanakahisateru</a> さんと、ajitofm への出演、PHP - The Wrong Way などについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://ajito.fm/15/">ajitofm 15: featuring #phpgenba</a></li>
+<li><a href="https://twitter.com/wata727_/status/940399574232866816">wata on Twitter: &ldquo;これについても #phpgenba で話を聞いてみたいですね /PHP - The Wrong Way とは何だったのか - なんたらノート第三期ベータ https://t.co/GvFeZl6pyA&rdquo;</a></li>
+<li><a href="http://phpthewrongway.com/ja/">PHP - The Wrong Way</a></li>
+<li><a href="http://tanakahisateru.hatenablog.jp/entry/2017/12/12/045350">PHP - The Wrong Way とは何だったのか - なんたらノート第三期ベータ</a></li>
+<li><a href="https://12factor.net/ja/">The Twelve-Factor App （日本語訳）</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@tanakahisateru さんと、ajitofm への出演、PHP - The Wrong Way などについて話しました。
+</itunes:summary>
+            <itunes:subtitle>@tanakahisateru さんと、ajitofm への出演、PHP - The Wrong Way などについて話しました。
+</itunes:subtitle>
+            <itunes:duration>1:31:28</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/15.mp3" type="audio/mpeg"
+                       length="43905148"/>
+        </item>
+        
+        <item>
+            <title>14. データベースにかける（soudai1025）</title>
+            <description>@soudai1025 さんと、Silex 開発終了、ISUCON、PHP コミュニティでブーメランを投げ合うのはやめよう、データベースへのアクセス、設計、コミュニティ、色々な人と話す、東京移住、データベースマイグレーションツール、制約、責務を分ける、不吉な匂い、サロゲートキー、生存戦略、スキルの掛け算、反復横跳びなどについて話しました。
+</description>
+            <pubDate>Wed, 22 Nov 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/14</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/14</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/soudai1025">@soudai1025</a> さんと、Silex 開発終了、ISUCON、PHP コミュニティでブーメランを投げ合うのはやめよう、データベースへのアクセス、設計、コミュニティ、色々な人と話す、東京移住、データベースマイグレーションツール、制約、責務を分ける、不吉な匂い、サロゲートキー、生存戦略、スキルの掛け算、反復横跳びなどについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://twitter.com/Crell/status/931071445488295936">Larry Garfield on Twitter: &ldquo;Big news! #Silex is dead, long live #Symfony Flex. #SymfonyCon https://t.co/TNTvIikHdz&rdquo;</a></li>
+<li><a href="https://twitter.com/azu_re/status/929931356565413889">azu on Twitter: &ldquo;#phpgenba でこれについて聞きたい &ldquo;PHP コミュニティでブーメランを投げ合うのはやめよう - Frasco&rdquo; https://t.co/FFs4ZsZQAV&rdquo;</a></li>
+<li><a href="https://frasco.io/the-global-php-community-continues-to-toxify-itself-and-we-need-to-halt-it-for-the-sake-of-our-peers-4ec9599fc203">PHP コミュニティでブーメランを投げ合うのはやめよう - Frasco</a></li>
+<li><a href="http://soudai.hatenablog.com/entry/2017/03/18/223005">敢えてアウェーで戦う事に意味があるって話 - そーだいなるらくがき帳</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@soudai1025 さんと、Silex 開発終了、ISUCON、PHP コミュニティでブーメランを投げ合うのはやめよう、データベースへのアクセス、設計、コミュニティ、色々な人と話す、東京移住、データベースマイグレーションツール、制約、責務を分ける、不吉な匂い、サロゲートキー、生存戦略、スキルの掛け算、反復横跳びなどについて話しました。
+</itunes:summary>
+            <itunes:subtitle>@soudai1025 さんと、Silex 開発終了、ISUCON、PHP コミュニティでブーメランを投げ合うのはやめよう、データベースへのアクセス、設計、コミュニティ、色々な人と話す、東京移住、データベースマイグレーションツール、制約、責務を分ける、不吉な匂い、サロゲートキー、生存戦略、スキルの掛け算、反復横跳びなどについて話しました。
+</itunes:subtitle>
+            <itunes:duration>1:37:30</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/14.mp3" type="audio/mpeg"
+                       length="46800384"/>
+        </item>
+        
+        <item>
+            <title>13. Do You PHPの現場?（kunit / shimooka）</title>
+            <description>@kunit さん、@shimooka さんと、Do You PHP?、デザインパターンとアンチパターン、Impala / Hadoop / BigQuery、これから学ぶ言語としての PHP、PHP を学ぶ書籍、PHP が今後も使われるか、PHP 7 への移行、CI/CD を導入するか否か、ソフトウェアエンジニアのキャリア、コミュニティとの関わり方などについて話しました。
+</description>
+            <pubDate>Thu, 09 Nov 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/13</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/13</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/kunit">@kunit</a> さん、<a href="https://twitter.com/shimooka">@shimooka</a> さんと、Do You PHP?、デザインパターンとアンチパターン、Impala / Hadoop / BigQuery、これから学ぶ言語としての PHP、PHP を学ぶ書籍、PHP が今後も使われるか、PHP 7 への移行、CI/CD を導入するか否か、ソフトウェアエンジニアのキャリア、コミュニティとの関わり方などについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="http://d.hatena.ne.jp/shimooka/">Do You PHP はてな</a></li>
+<li><a href="http://kunit.jp/maple/">Maple Project</a></li>
+<li><a href="http://web.archive.org/web/20141220024904/http://www.doyouphp.jp/">Do You PHP?</a></li>
+<li><a href="http://devblog.thebase.in/entry/2017/04/26/182419">2017年にプロが今更PHPを学ぶための本、Webまとめ - BASE開発チームブログ</a></li>
+<li><a href="http://php-manual.necomori.asia/">PHPマニュアルを読もう</a></li>
+<li><a href="https://www.oreilly.co.jp/books/9784873117935/">初めてのPHP</a></li>
+<li><a href="https://www.oreilly.co.jp/books/9784873118048/">Real World HTTP</a></li>
+<li><a href="https://go-tour-jp.appspot.com/welcome/1">A Tour of Go</a></li>
+<li><a href="http://d.hatena.ne.jp/shimooka/20100301/1267436385">書籍「PHPによるデザインパターン入門」の原稿テキストを公開します</a></li>
+<li><a href="http://d.hatena.ne.jp/shimooka/20141210/1418182598#c1418361414">Do You PHP?のWebサイト閉鎖とコンテンツ移行について</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@kunit さん、@shimooka さんと、Do You PHP?、デザインパターンとアンチパターン、Impala / Hadoop / BigQuery、これから学ぶ言語としての PHP、PHP を学ぶ書籍、PHP が今後も使われるか、PHP 7 への移行、CI/CD を導入するか否か、ソフトウェアエンジニアのキャリア、コミュニティとの関わり方などについて話しました。
+</itunes:summary>
+            <itunes:subtitle>@kunit さん、@shimooka さんと、Do You PHP?、デザインパターンとアンチパターン、Impala / Hadoop / BigQuery、これから学ぶ言語としての PHP、PHP を学ぶ書籍、PHP が今後も使われるか、PHP 7 への移行、CI/CD を導入するか否か、ソフトウェアエンジニアのキャリア、コミュニティとの関わり方などについて話しました。
+</itunes:subtitle>
+            <itunes:duration>2:40:24</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/13.mp3" type="audio/mpeg"
+                       length="76992469"/>
+        </item>
+        
+        <item>
+            <title>12. カンファレンスの現場（tomzoh / cakephper）</title>
+            <description>@tomzoh さん、@cakephper さんと、PHP カンファレンス 2017、「PHP の現場」への反応、なぜカンファレンスに参加するか、スピーカーとの交流（Ask the speaker）、参加者同士の交流、カンファレンスを始めたきっかけ、ネガティブフィードバック、We are community、カンファレンスの心、懇親会、スピーカーディナー、二次会、来年のカンファレンスなどについて話しました。
+</description>
+            <pubDate>Tue, 17 Oct 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/12</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/12</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/tomzoh">@tomzoh</a> さん、<a href="https://twitter.com/cakephper">@cakephper</a> さんと、PHP カンファレンス 2017、「PHP の現場」への反応、なぜカンファレンスに参加するか、スピーカーとの交流（Ask the speaker）、参加者同士の交流、カンファレンスを始めたきっかけ、ネガティブフィードバック、We are community、カンファレンスの心、懇親会、スピーカーディナー、二次会、来年のカンファレンスなどについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="http://phpcon.php.gr.jp/2017/">PHPカンファレンス2017 - #phpcon2017</a></li>
+<li><a href="http://blog.shin1x1.com/entry/php-development-with-type-declration">「型を意識した PHP アプリケーション」を発表しました / PHP カンファレンス 2017 - Shin x Blog</a></li>
+<li><a href="https://2017.kphpug.jp/">PHPカンファレンス関西2017</a></li>
+<li><a href="http://phpcon.fukuoka.jp/2017/">PHPカンファレンス福岡2017</a></li>
+<li><a href="https://iosdc.jp/2017/">iOSDC Japan 2017</a></li>
+<li><a href="https://events.drupal.org/vienna2017">Vienna 2017 | DrupalCon</a></li>
+<li><a href="https://speakerdeck.com/tomzoh/take-a-step-forward">カンファレンスのあちら側とこちら側 / Take a step forward // Speaker Deck</a></li>
+<li><a href="https://inside.pixiv.blog/yudemanjyu/2662">【学生向け】PHPカンファレンス2017を2017倍楽しむための学生向け前日祭を開催します #phpcon2017 - pixiv inside</a></li>
+<li><a href="https://togetter.com/li/715363">PHPカンファレンス福岡が開催！？ #fukuokaphp - Togetterまとめ</a></li>
+<li><a href="https://www.youtube.com/watch?v=N-x6_qznIZM">iOSDC Japan 2017 in 90 seconds - YouTube</a></li>
+<li><a href="https://phperkaigi.jp/2018/">PHPerKaigi 2018</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@tomzoh さん、@cakephper さんと、PHP カンファレンス 2017、「PHP の現場」への反応、なぜカンファレンスに参加するか、スピーカーとの交流（Ask the speaker）、参加者同士の交流、カンファレンスを始めたきっかけ、ネガティブフィードバック、We are community、カンファレンスの心、懇親会、スピーカーディナー、二次会、来年のカンファレンスなどについて話しました。
+</itunes:summary>
+            <itunes:subtitle>@tomzoh さん、@cakephper さんと、PHP カンファレンス 2017、「PHP の現場」への反応、なぜカンファレンスに参加するか、スピーカーとの交流（Ask the speaker）、参加者同士の交流、カンファレンスを始めたきっかけ、ネガティブフィードバック、We are community、カンファレンスの心、懇親会、スピーカーディナー、二次会、来年のカンファレンスなどについて話しました。
+</itunes:subtitle>
+            <itunes:duration>2:23:22</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/12.mp3" type="audio/mpeg"
+                       length="68816560"/>
+        </item>
+        
+        <item>
+            <title>11. VOYAGE GROUP の現場（brtriver / ara_ta3 / _nishigori）</title>
+            <description>@brtriver さん、@ara_ta3 さん、@_nishigori さんと、VOYAGE GROUP、Makefile、技術選定、フレームワーク、PHP のバージョンアップ、HHVM / Hack、PHP から golang への移行、composer.json、フレームワークを使わない、PHP カンファレンス、CakePHP から Slim への移行、ORM と リポジトリパターン、PhpStorm、現場の話が増えた、本番環境のアップデート、デプロイ手法の変遷、デプロイのロールバック、Docker、CSO(chief sound officer)について話しました。
+</description>
+            <pubDate>Wed, 27 Sep 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/11</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/11</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/brtriver">@brtriver</a> さん、<a href="https://twitter.com/ara_ta3">@ara_ta3</a> さん、<a href="https://twitter.com/_nishigori">@_nishigori</a> さんと、VOYAGE GROUP、Makefile、技術選定、フレームワーク、PHP のバージョンアップ、HHVM / Hack、PHP から golang への移行、composer.json、フレームワークを使わない、PHP カンファレンス、CakePHP から Slim への移行、ORM と リポジトリパターン、PhpStorm、現場の話が増えた、本番環境のアップデート、デプロイ手法の変遷、デプロイのロールバック、Docker、CSO(chief sound officer)について話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://voyagegroup.com/">株式会社VOYAGE GROUP</a></li>
+<li><a href="https://ajito.fm/7/">ajitofm 7: make test everywhere</a></li>
+<li><a href="http://phpcon.php.gr.jp/2017/">PHPカンファレンス2017 - #phpcon2017</a></li>
+<li><a href="https://joind.in/event/japan-php-conference-2017/session17-php">session17: 運用、追加開発しづらいPHPアプリケーションに未来を与える方法 - Japan PHP Conference 2017 - Joind.in</a></li>
+<li><a href="https://joind.in/event/japan-php-conference-2017/session36-phpdocker">session36: PHPアプリケーションにおけるDockerコンテナ・クラスター戦略 - Japan PHP Conference 2017 - Joind.in</a></li>
+<li><a href="http://hhvm.com/blog/2017/09/18/the-future-of-hhvm.html">The Future of HHVM | HHVM</a></li>
+<li><a href="http://fabien.potencier.org/symfony4-demo.html">Symfony 4: A quick Demo | Articles - Fabien Potencier</a></li>
+<li><a href="https://symfony.com/blog/symfony-4-end-of-hhvm-support">Symfony 4: End of HHVM support (Symfony Blog)</a></li>
+<li><a href="https://everzet.github.io/capifony/">capifony — symfony and Symfony2 deployment</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@brtriver さん、@ara_ta3 さん、@_nishigori さんと、VOYAGE GROUP、Makefile、技術選定、フレームワーク、PHP のバージョンアップ、HHVM / Hack、PHP から golang への移行、composer.json、フレームワークを使わない、PHP カンファレンス、CakePHP から Slim への移行、ORM と リポジトリパターン、PhpStorm、現場の話が増えた、本番環境のアップデート、デプロイ手法の変遷、デプロイのロールバック、Docker、CSO(chief sound officer)について話しました。
+</itunes:summary>
+            <itunes:subtitle>@brtriver さん、@ara_ta3 さん、@_nishigori さんと、VOYAGE GROUP、Makefile、技術選定、フレームワーク、PHP のバージョンアップ、HHVM / Hack、PHP から golang への移行、composer.json、フレームワークを使わない、PHP カンファレンス、CakePHP から Slim への移行、ORM と リポジトリパターン、PhpStorm、現場の話が増えた、本番環境のアップデート、デプロイ手法の変遷、デプロイのロールバック、Docker、CSO(chief sound officer)について話しました。
+</itunes:subtitle>
+            <itunes:duration>1:26:32</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/11.mp3" type="audio/mpeg"
+                       length="41536573"/>
+        </item>
+        
+        <item>
+            <title>10. 設定かコードか（slywalker / tanakahisateru）</title>
+            <description>@slywalker さん、@tanakahisateru さんと、ソフトウェアエンジニアの骨折、体調と加齢と集中力、テスト、アプリケーションとフレームワークをブリッジで分離、JPAとPSR、フレームワークとアプリケーションの主従、CakePHP、bakeコマンド、フレームワークを選ぶ、Chronos、ValueObject、Typeによる型変換、認証認可、設定より規約、Crud、書くより読む、設定フレームワーク、設定で実現するかコードで実現するか、エンタープライズに向いているフレームワーク、slywalker way、アプリケーション中心実装隷属、ライブラリのラッパークラス、変更のイニシアティブを持っておくについて話しました。
+</description>
+            <pubDate>Mon, 04 Sep 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/10</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/10</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/slywalker">@slywalker</a> さん、<a href="https://twitter.com/tanakahisateru">@tanakahisateru</a> さんと、ソフトウェアエンジニアの骨折、体調と加齢と集中力、テスト、アプリケーションとフレームワークをブリッジで分離、JPAとPSR、フレームワークとアプリケーションの主従、CakePHP、bakeコマンド、フレームワークを選ぶ、Chronos、ValueObject、Typeによる型変換、認証認可、設定より規約、Crud、書くより読む、設定フレームワーク、設定で実現するかコードで実現するか、エンタープライズに向いているフレームワーク、slywalker way、アプリケーション中心実装隷属、ライブラリのラッパークラス、変更のイニシアティブを持っておくについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://cakephp.org/jp">CakePHP</a></li>
+<li><a href="https://book.cakephp.org/3.0/ja/chronos.html">Chronos - 3.x</a></li>
+<li><a href="http://php.net/manual/ja/class.datetimeinterface.php">PHP: DateTimeInterface - Manual</a></li>
+<li><a href="https://book.cakephp.org/3.0/ja/orm/database-basics.html#adding-custom-database-types">CakePHP - Type 3.x</a></li>
+<li><a href="https://crud.readthedocs.io/en/latest/">Introduction — Crud v4</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@slywalker さん、@tanakahisateru さんと、ソフトウェアエンジニアの骨折、体調と加齢と集中力、テスト、アプリケーションとフレームワークをブリッジで分離、JPAとPSR、フレームワークとアプリケーションの主従、CakePHP、bakeコマンド、フレームワークを選ぶ、Chronos、ValueObject、Typeによる型変換、認証認可、設定より規約、Crud、書くより読む、設定フレームワーク、設定で実現するかコードで実現するか、エンタープライズに向いているフレームワーク、slywalker way、アプリケーション中心実装隷属、ライブラリのラッパークラス、変更のイニシアティブを持っておくについて話しました。
+</itunes:summary>
+            <itunes:subtitle>@slywalker さん、@tanakahisateru さんと、ソフトウェアエンジニアの骨折、体調と加齢と集中力、テスト、アプリケーションとフレームワークをブリッジで分離、JPAとPSR、フレームワークとアプリケーションの主従、CakePHP、bakeコマンド、フレームワークを選ぶ、Chronos、ValueObject、Typeによる型変換、認証認可、設定より規約、Crud、書くより読む、設定フレームワーク、設定で実現するかコードで実現するか、エンタープライズに向いているフレームワーク、slywalker way、アプリケーション中心実装隷属、ライブラリのラッパークラス、変更のイニシアティブを持っておくについて話しました。
+</itunes:subtitle>
+            <itunes:duration>1:40:46</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/10.mp3" type="audio/mpeg"
+                       length="48368534"/>
+        </item>
+        
+        <item>
+            <title>9. メルカリの現場（cocoitiban / hiraku）</title>
+            <description>@cocoitiban さん、@hiraku さんと、ワーカー、SET（Software Engineer in Test）、開発環境、開発で何を優先させるか、現代のサービス開発、力の抜き方、フィーチャトグル、何が偉いのか、高パフォーマンスを求められる PHP 開発、Guzzle、マスタデータのキャッシュ、リリースの心理的安全性、デプロイ、array、PHP 7、2017 年のフィーチャフォン開発、キャリア、PHPエンジニアを育てるドキュメントについて話しました。
+</description>
+            <pubDate>Wed, 19 Jul 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/9</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/9</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/cocoitiban">@cocoitiban</a> さん、<a href="https://twitter.com/hiraku">@hiraku</a> さんと、ワーカー、SET（Software Engineer in Test）、開発環境、開発で何を優先させるか、現代のサービス開発、力の抜き方、フィーチャトグル、何が偉いのか、高パフォーマンスを求められる PHP 開発、Guzzle、マスタデータのキャッシュ、リリースの心理的安全性、デプロイ、array、PHP 7、2017 年のフィーチャフォン開発、キャリア、PHPエンジニアを育てるドキュメントについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://q4m.github.io/">Q4M - a Message Queue for MySQL</a></li>
+<li><a href="https://speakerdeck.com/hirak/mercariday2017-api">グローバル展開を支える量子的なサービス設計 #mercariday / mercariday2017-api // Speaker Deck</a></li>
+<li><a href="https://speakerdeck.com/hirak/mercari-jp-tech-side">メルカリ JP Tech Side / mercari-jp-tech-side // Speaker Deck</a></li>
+<li><a href="https://rebuild.fm/169/">Rebuild: 169: Your Blog Can Be Generated By Neural Networks (omo)</a></li>
+<li><a href="https://bellflower.dodgson.org/%E4%B8%8D%E7%A2%BA%E5%AE%9F%E3%81%95%E3%82%92%E5%8F%97%E3%81%91%E5%85%A5%E3%82%8C%E3%82%8B-a17y-1-2640c529bc61">不確実さを受け入れる — A17Y (1) – To Phantasien</a></li>
+<li><a href="http://d.hatena.ne.jp/essa/20170619/p1">今はコードがお偉いさんなんだからMOBは雁首揃えろって話 - アンカテ</a></li>
+<li><a href="http://qiita.com/Hiraku/items/190443b33ee7a2167ade">PHPで高速オシャレな配列操作を求めて - Qiita</a></li>
+<li><a href="https://www.slideshare.net/kazeburo/big-master-data-php-blt-1">Big Master Data PHP BLT #1</a></li>
+<li><a href="http://openpear.org/#html_css_mobile">Openpear</a></li>
+<li><a href="https://speakerdeck.com/gorogoroyasu/garakefalseshi-jie">ガラケーの世界 // Speaker Deck</a></li>
+<li><a href="http://ja.phptherightway.com/">PHP: The Right Way</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@cocoitiban さん、@hiraku さんと、ワーカー、SET（Software Engineer in Test）、開発環境、開発で何を優先させるか、現代のサービス開発、力の抜き方、フィーチャトグル、何が偉いのか、高パフォーマンスを求められる PHP 開発、Guzzle、マスタデータのキャッシュ、リリースの心理的安全性、デプロイ、array、PHP 7、2017 年のフィーチャフォン開発、キャリア、PHPエンジニアを育てるドキュメントについて話しました。
+</itunes:summary>
+            <itunes:subtitle>@cocoitiban さん、@hiraku さんと、ワーカー、SET（Software Engineer in Test）、開発環境、開発で何を優先させるか、現代のサービス開発、力の抜き方、フィーチャトグル、何が偉いのか、高パフォーマンスを求められる PHP 開発、Guzzle、マスタデータのキャッシュ、リリースの心理的安全性、デプロイ、array、PHP 7、2017 年のフィーチャフォン開発、キャリア、PHPエンジニアを育てるドキュメントについて話しました。
+</itunes:subtitle>
+            <itunes:duration>1:55:11</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/9.mp3" type="audio/mpeg"
+                       length="55284923"/>
+        </item>
+        
+        <item>
+            <title>8. 現場の座談会（cakephper / tomzoh / tadsan）</title>
+            <description>@cakephper さん、@tomzoh さん、@tadsan さん、@koyhoge さん、@kaz_29 さん、@msng さんと、PHPカンファレンス福岡、福岡の IT 企業事情、セッション動画、ニコナレ、PHP ランタイム構成（mod_php or php-fpm）、ReactPHP / PPM、デプロイ、自動テストとQAチーム、Satis、Ansistrano、Deployer、開発エディタ、Phan、PhpStorm からのデータベース接続、グローバル関数について話しました。
+</description>
+            <pubDate>Mon, 12 Jun 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/8</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/8</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/cakephper">@cakephper</a> さん、<a href="https://twitter.com/tomzoh">@tomzoh</a> さん、<a href="https://twitter.com/tadsan">@tadsan</a> さん、<a href="https://twitter.com/koyhoge">@koyhoge</a> さん、<a href="https://twitter.com/kaz_29">@kaz_29</a> さん、<a href="https://twitter.com/msng">@msng</a> さんと、PHPカンファレンス福岡、福岡の IT 企業事情、セッション動画、ニコナレ、PHP ランタイム構成（mod_php or php-fpm）、ReactPHP / PPM、デプロイ、自動テストとQAチーム、Satis、Ansistrano、Deployer、開発エディタ、Phan、PhpStorm からのデータベース接続、グローバル関数について話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="http://phpcon.fukuoka.jp/2017/">PHPカンファレンス福岡2017</a></li>
+<li><a href="https://speakerdeck.com/tomzoh/the-world-of-1800-reqs-per-sec">秒間1800リクエストの世界 / The world of 1800 reqs per sec // Speaker Deck</a></li>
+<li><a href="http://ascii.jp/elem/000/001/434/1434335/">ASCII.jp：髙島市長も熱弁！さくら、アカツキ、ピクシブ、メルカリが福岡拠点開所へ</a></li>
+<li><a href="http://niconare.nicovideo.jp/">ニコナレ</a></li>
+<li><a href="http://reactphp.org/">Event-driven, non-blocking I/O with PHP - ReactPHP</a></li>
+<li><a href="https://github.com/php-pm/php-pm">php-pm/php-pm: PPM is a process manager, supercharger and load balancer for modern PHP applications.</a></li>
+<li><a href="https://github.com/composer/satis">composer/satis: Simple static Composer repository generator</a></li>
+<li><a href="http://ansistrano.com/">Ansistrano: Just deploy it!</a></li>
+<li><a href="https://deployer.org/">Deployer — Deployment Tool for PHP</a></li>
+<li><a href="https://github.com/etsy/phan">etsy/phan: Phan is a static analyzer for PHP. Phan prefers to avoid false-positives and attempts to prove incorrectness rather than correctness.</a></li>
+<li><a href="http://inside.pixiv.net/entry/2016/11/11/202656">Phan静的解析がもたらす大PHP型検査時代 - pixiv inside</a></li>
+<li><a href="https://github.com/etsy/phan/pull/563">Add a daemon mode to memoize parse state, fork off workers to analyze single files quickly by TysonAndre · Pull Request #563 · etsy/phan</a></li>
+<li><a href="https://www.phpdoc.org/docs/latest/references/phpdoc/types.html#abnf">phpDocumentor</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@cakephper さん、@tomzoh さん、@tadsan さん、@koyhoge さん、@kaz_29 さん、@msng さんと、PHPカンファレンス福岡、福岡の IT 企業事情、セッション動画、ニコナレ、PHP ランタイム構成（mod_php or php-fpm）、ReactPHP / PPM、デプロイ、自動テストとQAチーム、Satis、Ansistrano、Deployer、開発エディタ、Phan、PhpStorm からのデータベース接続、グローバル関数について話しました。
+</itunes:summary>
+            <itunes:subtitle>@cakephper さん、@tomzoh さん、@tadsan さん、@koyhoge さん、@kaz_29 さん、@msng さんと、PHPカンファレンス福岡、福岡の IT 企業事情、セッション動画、ニコナレ、PHP ランタイム構成（mod_php or php-fpm）、ReactPHP / PPM、デプロイ、自動テストとQAチーム、Satis、Ansistrano、Deployer、開発エディタ、Phan、PhpStorm からのデータベース接続、グローバル関数について話しました。
+</itunes:subtitle>
+            <itunes:duration>1:17:12</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/8.mp3" type="audio/mpeg"
+                       length="37056469"/>
+        </item>
+        
+        <item>
+            <title>7. PHP に DI は必要か？（hiro_y / ytake）</title>
+            <description>@hiro_y さん、@ytake さんと、Laravel 人気、現場での DI（Dependency Injection）、抽象化、ビューテンプレート、PHP の見え方、依存オブジェクトの型指定、抽象クラス、インターフェース、トレイト、リポジトリ、ワイヤリング、Laravel リファレンスについて話しました。
+</description>
+            <pubDate>Mon, 29 May 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/7</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/7</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/hiro_y">@hiro_y</a> さん、<a href="https://twitter.com/ex_takezawa">@ytake</a> さんと、Laravel 人気、現場での DI（Dependency Injection）、抽象化、ビューテンプレート、PHP の見え方、依存オブジェクトの型指定、抽象クラス、インターフェース、トレイト、リポジトリ、ワイヤリング、Laravel リファレンスについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://twitter.com/hiro_y/status/865212176365109249?ref_src=twsrc%5Etfw&amp;ref_url=http%3A%2F%2Fblog.shin1x1.com%2Fentry%2Fdi-memo">Hiroyuki Yamaoka 🐰 on Twitter: &ldquo;PHPでDI流行ってるの、便利なんだけどもやもやはしている。もっと密結合でいいじゃん、という。&rdquo;</a></li>
+<li><a href="http://blog.shin1x1.com/entry/di-memo">DI（Dependency Injection）に関するメモ - Shin x Blog</a></li>
+<li><a href="http://www.php-fig.org/bylaws/psr-naming-conventions/">PSR Naming Conventions - PHP-FIG</a></li>
+<li><a href="http://book.impress.co.jp/books/1114101107">Laravel リファレンス ［Ver.5.1 LTS 対応］ Web 職人好みの新世代 PHP フレームワーク - インプレスブックス</a></li>
+<li><a href="https://github.com/illuminate/container/blob/master/Container.php#L558">container/Container.php at master · illuminate/container</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@hiro_y さん、@ytake さんと、Laravel 人気、現場での DI（Dependency Injection）、抽象化、ビューテンプレート、PHP の見え方、依存オブジェクトの型指定、抽象クラス、インターフェース、トレイト、リポジトリ、ワイヤリング、Laravel リファレンスについて話しました。
+</itunes:summary>
+            <itunes:subtitle>@hiro_y さん、@ytake さんと、Laravel 人気、現場での DI（Dependency Injection）、抽象化、ビューテンプレート、PHP の見え方、依存オブジェクトの型指定、抽象クラス、インターフェース、トレイト、リポジトリ、ワイヤリング、Laravel リファレンスについて話しました。
+</itunes:subtitle>
+            <itunes:duration>1:38:34</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/7.mp3" type="audio/mpeg"
+                       length="47312560"/>
+        </item>
+        
+        <item>
+            <title>6. VAddy の引き算（cakephper）</title>
+            <description>@cakephper さんと、VAddy（CIで行う脆弱性診断、自社サービス開発、プロダクトマネージャ）、受託開発での対話、泥臭い現場話、Laravelでの開発、Python でグラフ生成、言語のメジャーバージョンアップ、PHPカンファレンス福岡、大人のコミュニティ活動、プログラミング教育について話しました。
+</description>
+            <pubDate>Mon, 15 May 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/6</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/6</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/cakephper">@cakephper</a> さんと、VAddy（CIで行う脆弱性診断、自社サービス開発、プロダクトマネージャ）、受託開発での対話、泥臭い現場話、Laravelでの開発、Python でグラフ生成、言語のメジャーバージョンアップ、PHPカンファレンス福岡、大人のコミュニティ活動、プログラミング教育について話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://vaddy.net/ja/">VAddy 継続的Webセキュリティテストサービス - 株式会社ビットフォレスト</a></li>
+<li><a href="https://laracasts.com/series/whats-new-in-laravel-5-4/episodes/2">What&rsquo;s New in Laravel 5.4: Higher Order Collection Messages</a></li>
+<li><a href="http://pandas.pydata.org/">Python Data Analysis Library — pandas: Python Data Analysis Library</a></li>
+<li><a href="http://phpcon.fukuoka.jp/2017/">PHPカンファレンス福岡2017</a></li>
+<li><a href="http://englishful.com/video/didyouknow2016/">Did you know 2016 日本語訳。衝撃的な動画、子どもたちの未来はどうなるのだろうか。私達は何を教えていけばいいのだろうか - 英語でいっぱい Englishful</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@cakephper さんと、VAddy（CIで行う脆弱性診断、自社サービス開発、プロダクトマネージャ）、受託開発での対話、泥臭い現場話、Laravelでの開発、Python でグラフ生成、言語のメジャーバージョンアップ、PHPカンファレンス福岡、大人のコミュニティ活動、プログラミング教育について話しました。
+</itunes:summary>
+            <itunes:subtitle>@cakephper さんと、VAddy（CIで行う脆弱性診断、自社サービス開発、プロダクトマネージャ）、受託開発での対話、泥臭い現場話、Laravelでの開発、Python でグラフ生成、言語のメジャーバージョンアップ、PHPカンファレンス福岡、大人のコミュニティ活動、プログラミング教育について話しました。
+</itunes:subtitle>
+            <itunes:duration>2:02:52</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/6.mp3" type="audio/mpeg"
+                       length="58976547"/>
+        </item>
+        
+        <item>
+            <title>5. ChatWork PHP チームから見た Falcon（tan_yuki / uadachi）</title>
+            <description>@tan_yuki さん、@uadachi さんと、マストドン、ZOZOTOWN エンジニア募集広告、PHP チームから見た ChatWork Falcon プロジェクト、Scala を選んだ経緯、PHP と Scala、IDE と Vim、知床リモートワーク体験、リモートワークについて話しました。
+</description>
+            <pubDate>Fri, 28 Apr 2017 13:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/5</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/5</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/tan_yuki">@tan_yuki</a> さん、<a href="https://twitter.com/uadachi">@uadachi</a> さんと、マストドン、ZOZOTOWN エンジニア募集広告、PHP チームから見た ChatWork Falcon プロジェクト、Scala を選んだ経緯、PHP と Scala、IDE と Vim、知床リモートワーク体験、リモートワークについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="http://www.itmedia.co.jp/news/subtop/features/topics/mastodon.html">特集：「マストドン」の可能性 - ITmedia NEWS</a></li>
+<li><a href="https://st-komuten.jp/recruit/40engineers/">ZOZOTOWN作り直しにつき「40名」のエンジニア求む！ - 株式会社スタートトゥデイ工務店</a></li>
+<li><a href="https://speakerdeck.com/j5ik2o/history-of-falcon-the-way-to-production-release">History of Falcon, the way to production release // Speaker Deck</a></li>
+<li><a href="http://c-note.chatwork.com/post/82673710090/dev-camp">チャットワークの新しい開発言語とフレームワークを決める開発合宿を開催！その全貌を丸公開します。 | チャットワーククリエーターズブログ</a></li>
+<li><a href="http://corp.chatwork.com/ja/recruit/engineer/#job1">エンジニア募集要項 - 採用情報 | ChatWork株式会社 - チャットワーク</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@tan_yuki さん、@uadachi さんと、マストドン、ZOZOTOWN エンジニア募集広告、PHP チームから見た ChatWork Falcon プロジェクト、Scala を選んだ経緯、PHP と Scala、IDE と Vim、知床リモートワーク体験、リモートワークについて話しました。
+</itunes:summary>
+            <itunes:subtitle>@tan_yuki さん、@uadachi さんと、マストドン、ZOZOTOWN エンジニア募集広告、PHP チームから見た ChatWork Falcon プロジェクト、Scala を選んだ経緯、PHP と Scala、IDE と Vim、知床リモートワーク体験、リモートワークについて話しました。
+</itunes:subtitle>
+            <itunes:duration>1:04:02</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/5.mp3" type="audio/mpeg"
+                       length="30736508"/>
+        </item>
+        
+        <item>
+            <title>4. 開発ツールと Azure（kaz_29）</title>
+            <description>@kaz_29 さんと、明日の開発カンファレンス、2 人で作る発表、Zeplin、Rollbar、テスト、Azure Functions、PHP + SQLServer、App Service Web Apps について話しました。
+</description>
+            <pubDate>Tue, 18 Apr 2017 08:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/4</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/4</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/kaz_29">@kaz_29</a> さんと、明日の開発カンファレンス、2 人で作る発表、Zeplin、Rollbar、テスト、Azure Functions、PHP + SQLServer、App Service Web Apps について話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://fod.connpass.com/event/52522/">開発リーダのための「明日の開発カンファレンス 2017」 - connpass</a></li>
+<li><a href="https://speakerdeck.com/shin1x1/devtools-20170414">開発フローで見る
+現場を支えるツールたち/devtools-20170414 // Speaker Deck</a></li>
+<li><a href="https://zeplin.io/">Zeplin</a></li>
+<li><a href="https://rollbar.com/">Rollbar - Error Tracking Software for Ruby, Python, JavaScript, more</a></li>
+<li><a href="https://azure.microsoft.com/ja-jp/services/functions/">Azure Functions—サーバーレス アーキテクチャ | Microsoft Azure</a></li>
+<li><a href="https://github.com/Microsoft/msphpsql">Microsoft/msphpsql: Microsoft PHP drivers for SQL Server</a></li>
+<li><a href="https://azure.microsoft.com/ja-jp/services/app-service/web/">Web App Service | Microsoft Azure</a></li>
+<li><a href="https://docs.microsoft.com/ja-jp/azure/app-service-web/app-service-linux-intro">App Service on Linux の概要 | Microsoft Docs</a></li>
+<li><a href="https://azure.microsoft.com/en-us/services/container-service/">Azure Container Service | Docker Swarm | Microsoft Azure</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@kaz_29 さんと、明日の開発カンファレンス、2 人で作る発表、Zeplin、Rollbar、テスト、Azure Functions、PHP + SQLServer、App Service Web Apps について話しました。
+</itunes:summary>
+            <itunes:subtitle>@kaz_29 さんと、明日の開発カンファレンス、2 人で作る発表、Zeplin、Rollbar、テスト、Azure Functions、PHP + SQLServer、App Service Web Apps について話しました。
+</itunes:subtitle>
+            <itunes:duration>1:07:44</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/4.mp3" type="audio/mpeg"
+                       length="32508655"/>
+        </item>
+        
+        <item>
+            <title>3. Facade を使わない理由、HHVM を使う理由（ytake）</title>
+            <description>ytake さんと、Laravel、HHVM、Hack、Lumen、Cassandra、便利なライブラリについて話しました。
+</description>
+            <pubDate>Mon, 03 Apr 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/3</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/3</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/ex_takezawa">ytake</a> さんと、Laravel、HHVM、Hack、Lumen、Cassandra、便利なライブラリについて話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="https://github.com/laravel/framework/issues/18382">Port all of Laravel to TypeScript · Issue #18382 · laravel/framework</a></li>
+<li><a href="https://laravel-news.com/laravel-5-5-lts">Laravel 5.5 Will Be The Next LTS Release - Laravel News</a></li>
+<li><a href="http://php.net/event">PHP: Event - Manual</a></li>
+<li><a href="http://hhvm.com/">HHVM | HHVM</a></li>
+<li><a href="http://hacklang.org/">The Hack Programming Language | Hack</a></li>
+<li><a href="https://docs.hhvm.com/hack/XHP/introduction">XHP: Introduction</a></li>
+<li><a href="https://github.com/appertly/hcollection">appertly/hcollection: API-compatible Hack collections in PHP 7.1</a></li>
+<li><a href="http://cassandra.apache.org/">Apache Cassandra</a></li>
+<li><a href="http://jmsyst.com/libs/serializer">Serializer - serializer Documentation (master)</a></li>
+<li><a href="https://github.com/willdurand/Hateoas">willdurand/Hateoas: A PHP library to support implementing representations for HATEOAS REST web services.</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>ytake さんと、Laravel、HHVM、Hack、Lumen、Cassandra、便利なライブラリについて話しました。
+</itunes:summary>
+            <itunes:subtitle>ytake さんと、Laravel、HHVM、Hack、Lumen、Cassandra、便利なライブラリについて話しました。
+</itunes:subtitle>
+            <itunes:duration>1:45:20</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/3.mp3" type="audio/mpeg"
+                       length="50559894"/>
+        </item>
+        
+        <item>
+            <title>2. グローバル化したPHP（tanakahisateru）</title>
+            <description>@tanakahisateru さんと、PHPの現場、global と define、PHP との馴れ初め、技術の選び方について話しました。（録音協力: @omoon）
+</description>
+            <pubDate>Sat, 18 Mar 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/2</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/2</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p><a href="https://twitter.com/tanakahisateru">@tanakahisateru</a> さんと、PHPの現場、global と define、PHP との馴れ初め、技術の選び方について話しました。（録音協力: <a href="https://twitter.com/omoon">@omoon</a>）</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="http://blog.shin1x1.com/entry/php-genba-podcast">「PHPの現場」という Podcast をはじめます - Shin x Blog</a></li>
+<li><a href="https://www.amazon.co.jp/exec/obidos/ASIN/4774187062/shinxblog-22/">エンジニアのためのWordPress開発入門</a></li>
+<li><a href="http://blog.shin1x1.com/entry/wordpress-guide-for-php-engineer">WordPress Way を知る本 「エンジニアのための WordPress 開発入門」 - Shin x Blog</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>@tanakahisateru さんと、PHPの現場、global と define、PHP との馴れ初め、技術の選び方について話しました。（録音協力: @omoon）
+</itunes:summary>
+            <itunes:subtitle>@tanakahisateru さんと、PHPの現場、global と define、PHP との馴れ初め、技術の選び方について話しました。（録音協力: @omoon）
+</itunes:subtitle>
+            <itunes:duration>58:33</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/2.mp3" type="audio/mpeg"
+                       length="28102272"/>
+        </item>
+        
+        <item>
+            <title>1. PHP の例外（tanakahisateru）</title>
+            <description>2016/12/27 に開催した 第36回関西PHP勉強会 の模様をお届けします。今回は、PHP の例外について @tanakahisateru さんとお話しました。
+</description>
+            <pubDate>Tue, 28 Feb 2017 00:00:00 +0900</pubDate>
+            <link>https://php-genba.shin1x1.com/1</link>
+            <guid isPermaLink="true">https://php-genba.shin1x1.com/1</guid>
+            <itunes:author></itunes:author>
+
+            <itunes:explicit>no</itunes:explicit>
+            <content:encoded>
+                <![CDATA[
+            <p>2016/12/27 に開催した <a href="https://kphpug.doorkeeper.jp/events/55554">第36回関西PHP勉強会</a> の模様をお届けします。今回は、PHP の例外について <a href="https://twitter.com/tanakahisateru">@tanakahisateru</a> さんとお話しました。</p>
+
+                <p>Show notes</p>
+            <ul>
+<li><a href="http://qiita.com/tanakahisateru/items/e3e24f3825c4ba0c60e6">PHP でどのように Exception/RuntimeException/LogicException を使い分けるか - Qiita</a></li>
+<li><a href="http://blog.shin1x1.com/entry/application-throws-exception-or-not">アプリケーションから例外を投げる派、投げない派 - Shin x Blog</a></li>
+<li><a href="https://speakerdeck.com/twada/php-conference-2016">PHP7 で堅牢なコードを書く - 例外処理、表明プログラミング、契約による設計 / PHP Conference 2016 // Speaker Deck</a></li>
+<li><a href="http://qiita.com/koriym/items/17cfd1bbbaead1a2e5a9">PHPの例外 - Qiita</a></li>
+</ul>
+
+                ]]>
+            </content:encoded>
+            <itunes:summary>2016/12/27 に開催した 第36回関西PHP勉強会 の模様をお届けします。今回は、PHP の例外について @tanakahisateru さんとお話しました。
+</itunes:summary>
+            <itunes:subtitle>2016/12/27 に開催した 第36回関西PHP勉強会 の模様をお届けします。今回は、PHP の例外について @tanakahisateru さんとお話しました。
+</itunes:subtitle>
+            <itunes:duration>55:45</itunes:duration>
+            <enclosure url="https://php-genba.shin1x1.com/download/1.mp3" type="audio/mpeg"
+                       length="26762134"/>
+        </item>
+        
+    </channel>
+</rss>

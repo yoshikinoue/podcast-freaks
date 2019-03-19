@@ -1,0 +1,937 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://fukabori.fm/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://fukabori.fm/</link>
+    <title>Fukabori.fm</title>
+    <description>技術を深掘りして楽しむPodcastです。</description>
+    <media:keywords>fukabori,podcast,技術</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>技術を深掘りして楽しむPodcastです。</itunes:subtitle>
+    <itunes:author>iwashi</itunes:author>
+    <itunes:summary>技術を深掘りして楽しむPodcastです。</itunes:summary>
+    <itunes:keywords>fukabori,podcast,技術</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>iwashi</itunes:name>
+      <itunes:email>fukabori.fm@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://fukabori.fm/images/artwork.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>14. なぜ、エンタープライズ業界でアジャイル・リーンは普及しないのか？</title>
+        <link>https://fukabori.fm/episode/14</link>
+        <pubDate>Wed, 06 Mar 2019 21:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;なぜ、&lt;a href=&quot;http://jbpress.ismedia.jp/articles/-/51448&quot;&gt;企画と開発が責任を押し付け合う会社の前途は暗い&lt;/a&gt;のか？&lt;/li&gt;
+  &lt;li&gt;計画が悪い vs 実装が悪い、というどっちが悪い論&lt;/li&gt;
+  &lt;li&gt;問題の理解と、その実装（人・システム）が時間軸で離れると学習がない、課題の理解は実装で深まる&lt;/li&gt;
+  &lt;li&gt;市場、世界は悠長に回っていない&lt;/li&gt;
+  &lt;li&gt;将棋でのメタファーとRTSでのメタファー&lt;/li&gt;
+  &lt;li&gt;上手くいかないのは全体という前提をどこまで作れるか？&lt;/li&gt;
+  &lt;li&gt;仕様が固まってから開発の後半で発生する変更を怖がる&lt;/li&gt;
+  &lt;li&gt;あたかも世界の時間が止まっているように振る舞う&lt;/li&gt;
+  &lt;li&gt;オーシャンズ11&lt;/li&gt;
+  &lt;li&gt;その場の状況にあった計画を立て直していく、情報を得続ける&lt;/li&gt;
+  &lt;li&gt;現代の戦争は火力戦・物量戦から変わってきている&lt;/li&gt;
+  &lt;li&gt;企画と開発も同じコンテキストで話さないと、リアルな変化に追従できない&lt;/li&gt;
+  &lt;li&gt;ピラミッド構造は例外処理が役割の1つ&lt;/li&gt;
+  &lt;li&gt;手順書はQ&amp;amp;Aに答えてくれない&lt;/li&gt;
+  &lt;li&gt;Q&amp;amp;Aに答えられる人が現場にいない&lt;/li&gt;
+  &lt;li&gt;リーンスタートアップやアジャイルなやり方が出てきた背景は？&lt;/li&gt;
+  &lt;li&gt;ウォーターフォールに対するアンチテーゼ、開発技術・環境の成熟&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/Organizational-Patterns-Agile-Software-Development/dp/0131467409&quot;&gt;Organizational Patterns of Agile Software Development &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://1pn8a8ult4o2bls5f2jxuel1-wpengine.netdna-ssl.com/wp-content/uploads/2013/07/borland-process.pdf&quot;&gt;Quattro Pro&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;いつも不機嫌な管理者、満足しない顧客、いつも怯えている開発者&lt;/li&gt;
+  &lt;li&gt;開発環境、コードの共有、IDE、リファクタリング、テスト容易性などの技術の進化&lt;/li&gt;
+  &lt;li&gt;オブジェクト指向の成熟&lt;/li&gt;
+  &lt;li&gt;顧客開発と製品開発にあった別のループを統合した&lt;/li&gt;
+  &lt;li&gt;未来に予見できないことがたくさんあるときに、どうやったら製品と顧客の両方側で学びを獲得するか&lt;/li&gt;
+  &lt;li&gt;クラウドやRails&lt;/li&gt;
+  &lt;li&gt;売れてもいないのに、最大アクセスの条件で試算する&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jbpress.ismedia.jp/articles/-/52025&quot;&gt;ビジネスに追いつけない日本のシステム開発の構造欠陥&lt;/a&gt;とは？&lt;/li&gt;
+  &lt;li&gt;プライムをとれないSIをやると辛いことがある&lt;/li&gt;
+  &lt;li&gt;「仕様書に書いてないので、やらなくていい」「書いてないことやっちゃダメ」と言われる&lt;/li&gt;
+  &lt;li&gt;ミッションが「仕様書通りにやり遂げる、納期通りに納める」になる&lt;/li&gt;
+  &lt;li&gt;本来であれば仕様書は動くもの&lt;/li&gt;
+  &lt;li&gt;SIの調達モデルとは&lt;/li&gt;
+  &lt;li&gt;イノベーションは調達できるの？って話&lt;/li&gt;
+  &lt;li&gt;ソフトウェアは材料として変わっている&lt;/li&gt;
+  &lt;li&gt;鉄鋼は産業の米&lt;/li&gt;
+  &lt;li&gt;鉄鋼は垂直ドメインに共有できる、水平ドメインの材料だった&lt;/li&gt;
+  &lt;li&gt;ソフトウェアも同様に考え、各会社がシステム子会社を作った&lt;/li&gt;
+  &lt;li&gt;その割には、ソフトウェアの中身を見ると垂直ドメインの言葉が入っている&lt;/li&gt;
+  &lt;li&gt;ソフトウェアは材料ではなく、垂直のビジネス構造と設計している&lt;/li&gt;
+  &lt;li&gt;とくに業務システムでは、ビジネスとソフトウェアは切り分けられない&lt;/li&gt;
+  &lt;li&gt;ソフトウェアの事業の中核である&lt;/li&gt;
+  &lt;li&gt;ソフトウェア工学領域で「ビジネス」という言葉の登場回数が、90年代後半から増えているかも&lt;/li&gt;
+  &lt;li&gt;作る側とビジネスをする側が、調達という壁を挟んで交渉関係になってしまう&lt;/li&gt;
+  &lt;li&gt;対立するのではなく、協調することによって得られる価値に向かう時代&lt;/li&gt;
+  &lt;li&gt;なぜ、エンタープライズ業界でアジャイル・リーンなやり方が普及しないのか？&lt;/li&gt;
+  &lt;li&gt;考え方の普及と、ビジネス構造の変革速度に差がある&lt;/li&gt;
+  &lt;li&gt;ITが事業の中核と理解している企業は、どんどん中にエンジニアを採用している&lt;/li&gt;
+  &lt;li&gt;就職で入りたいランキングにおいて、SIerは上位&lt;/li&gt;
+  &lt;li&gt;20代の時期を何に投資するか？&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://jbpress.ismedia.jp/articles/-/52264&quot;&gt;企業内イノベーションの実現に向けた7つの提言&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;“経営陣がアジャイルを理解し、企業文化を醸成すること”の狙いは？&lt;/li&gt;
+  &lt;li&gt;経営陣に1人でも理解者・擁護者がいないと、熱に急激に冷めてしまう&lt;/li&gt;
+  &lt;li&gt;イノベーションをやるという意味、ソフトウェアの重要性・特性、ソフトウェアを使ったビジネス企画の特性として企画と開発が一緒にいるという点、を理解している経営者が必要&lt;/li&gt;
+  &lt;li&gt;“既存の情報システム部門と別に、イノベーション部隊を建設すること”の背景は？&lt;/li&gt;
+  &lt;li&gt;大企業になればなるほど、組織をどう作るか、組織間コミュニケーションを変えるのは大変&lt;/li&gt;
+  &lt;li&gt;小さくて良いので、ビジネスの目標・作りたいものを持っているチームを作るほうが、エネルギーを消耗しない&lt;/li&gt;
+  &lt;li&gt;離れている時間が長い、成果が出ない場合は役員が意味を伝える&lt;/li&gt;
+  &lt;li&gt;“イノベーション部隊を既存の進捗管理から切り離し、企画と開発を一体化すること”とは？&lt;/li&gt;
+  &lt;li&gt;年次の予算、売上を月次で追うが、イノベーションはそのとおりに行かない&lt;/li&gt;
+  &lt;li&gt;できないもんはできない&lt;/li&gt;
+  &lt;li&gt;どれぐらいコストをかけるのか？どういう目論見であがってくるのか？チェックポイントはどこなのか？ぐらいで抑える&lt;/li&gt;
+  &lt;li&gt;上手くいかない場合は、ここまでという期限を決めて切る、といった投資判断&lt;/li&gt;
+  &lt;li&gt;仕事をした気になって疲れる&lt;/li&gt;
+  &lt;li&gt;お客様と話をできるチームをたくさん作る、上にあげなくていいから、これができるかどうか&lt;/li&gt;
+  &lt;li&gt;“経験のあるアジャイルコーチ、スクラムマスターを招き入れる、もしくは採用すること”の狙いは？&lt;/li&gt;
+  &lt;li&gt;本を読んでもアジャイルにできない&lt;/li&gt;
+  &lt;li&gt;本を読んでも自転車に乗れない、暗黙知伝達の最たるところ&lt;/li&gt;
+  &lt;li&gt;アジャイルコーチや、スクラムマスターを1人、2人と有機的に増やす&lt;/li&gt;
+  &lt;li&gt;“アジャイル開発の教育を行い、徐々に経験者をふやすこと”の理由は？&lt;/li&gt;
+  &lt;li&gt;効率良くやるためには、形式的知識伝達もやる&lt;/li&gt;
+  &lt;li&gt;全体的な体系をわかった上で実践に入る&lt;/li&gt;
+  &lt;li&gt;“技術力のあるエンジニアを招集すること”&lt;/li&gt;
+  &lt;li&gt;結局、スクラムの教育をいくらやっても、作れないものは作れない、ウォーターフォールも同じ&lt;/li&gt;
+  &lt;li&gt;技術力のない人がものづくりをするのはおかしい&lt;/li&gt;
+  &lt;li&gt;パワポという黒魔術にひっかからない&lt;/li&gt;
+  &lt;li&gt;エンジニアの召集という言葉の意味&lt;/li&gt;
+  &lt;li&gt;“コミュニティへのエンジニア参加を推奨し、外部交流を行うこと”&lt;/li&gt;
+  &lt;li&gt;熱を受け取る場面&lt;/li&gt;
+  &lt;li&gt;この人と出会った、この人の話を聞いて人生が変わったという転機&lt;/li&gt;
+  &lt;li&gt;会社で誰かがイベントに参加したい、といったら是非是非出させてあげるべき&lt;/li&gt;
+  &lt;li&gt;（イベント参加の）報告書は別にいらない、その人の中に溜まる&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://slide.meguro.ryuzee.com/slides/50&quot;&gt;ワンクリックデプロイ ∼いつまで手でデプロイしてるんですか？∼&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;会社は度量を持つ&lt;/li&gt;
+  &lt;li&gt;会社からの退職者数の傾きを見る&lt;/li&gt;
+  &lt;li&gt;古くからいるマネージャーの役割はどうなっていくのか？&lt;/li&gt;
+  &lt;li&gt;得意なことで、変化の中心になっている人を支援する&lt;/li&gt;
+  &lt;li&gt;上からじゃなくて、新しいバリューシステムの一部になれるか、気持ちを持てるか&lt;/li&gt;
+  &lt;li&gt;取締役からのメッセージも重要&lt;/li&gt;
+  &lt;li&gt;バリューを出せる人は、どうやってもバリューを出せる&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.asf.esm.co.jp/&quot;&gt;アジャイルスタジオ福井&lt;/a&gt;で見学募集中&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/14</guid>
+        <enclosure url="https://fukabori.fm/audio/014.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>hiranabeさんをゲストに、アジャイル・リーンの背景、エンタープライズアジャイル、企業内イノベーションにむけた提言について語っていただいたエピソードです。</itunes:subtitle>
+        <itunes:duration>42:17</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>13. ペアプロやテストの疑問とか、ソフトウェアエンジニアの育成とか</title>
+        <link>https://fukabori.fm/episode/13</link>
+        <pubDate>Wed, 27 Feb 2019 23:45:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ペアプロにおけるビギナーとベテランの組み合わせ3パターンについて&lt;/li&gt;
+  &lt;li&gt;ビギナーとビギナーの組み合わせで効果はあまり期待できない（チームビルディングでは意味がある）&lt;/li&gt;
+  &lt;li&gt;ベテランとベテランは、一番効果を発揮するペアである&lt;/li&gt;
+  &lt;li&gt;意思決定をライブでできる重要性&lt;/li&gt;
+  &lt;li&gt;設計上の妥協点をその場で合意できる&lt;/li&gt;
+  &lt;li&gt;ビギナーとベテランで、ビギナーはナビゲーターをするのか？&lt;/li&gt;
+  &lt;li&gt;コードを書いてるところを見てもらうのは大事なプラクティス&lt;/li&gt;
+  &lt;li&gt;ベテランもプレッシャーを持ってコードを書ける&lt;/li&gt;
+  &lt;li&gt;見られているだけでコードの質は高まる&lt;/li&gt;
+  &lt;li&gt;リアルタイムでないコードレビューがあるだけで、コードの質は高まる&lt;/li&gt;
+  &lt;li&gt;コードレビューのインフラに投資する&lt;/li&gt;
+  &lt;li&gt;流しのペアプロ業をする中で、ドメイン知識がない状態でペアプロへ参加して価値をだせるか？&lt;/li&gt;
+  &lt;li&gt;一番の学びは教えることから発生する&lt;/li&gt;
+  &lt;li&gt;相手から、相手自身の学びを引き出す&lt;/li&gt;
+  &lt;li&gt;チームの暗黙知を、暗黙知のまま伝える、強化していく&lt;/li&gt;
+  &lt;li&gt;テストを書く場合に、RDBやKVSなどをどこまでモック/スタブするのか？&lt;/li&gt;
+  &lt;li&gt;ノートPCにインストールできるものは本物を使い、入らないものはモック/スタブを使う&lt;/li&gt;
+  &lt;li&gt;プライベート関数はテストするのか？&lt;/li&gt;
+  &lt;li&gt;技術的には、プライベート関数のテストはパブリック関数からテストできる&lt;/li&gt;
+  &lt;li&gt;プライベートの実装に基づいたテストは脆い、現状追認のテストになりがち&lt;/li&gt;
+  &lt;li&gt;フロントエンドのテストはどこまで書けばいいのか？&lt;/li&gt;
+  &lt;li&gt;書くけど、書きすぎない&lt;/li&gt;
+  &lt;li&gt;画面の構造が変わっても、影響にされにくいものをテストする&lt;/li&gt;
+  &lt;li&gt;ビジュアルリグレッションテスト&lt;/li&gt;
+  &lt;li&gt;魑魅魍魎のUIの世界&lt;/li&gt;
+  &lt;li&gt;テストのカバレッジ、どの程度まで書けばいいのか？&lt;/li&gt;
+  &lt;li&gt;ユニットテストを含めて、グレーボックス・ブラックボックスの観点から書くのが望ましい&lt;/li&gt;
+  &lt;li&gt;カバレッジは何らかの管理の道具にすると、うまく回らない&lt;/li&gt;
+  &lt;li&gt;不具合は思い違いから発生する&lt;/li&gt;
+  &lt;li&gt;カバレッジ100%は誤った安心感を与えがち&lt;/li&gt;
+  &lt;li&gt;カバレッジツールは自分達の見落とし・過信を見つけるために使う&lt;/li&gt;
+  &lt;li&gt;カバレッジを絶対値ではなく傾きでみる&lt;/li&gt;
+  &lt;li&gt;CIではテストの成功/失敗だけではなく、カバレッジやコードの複雑度を取る&lt;/li&gt;
+  &lt;li&gt;バグ収束曲線は、現代の開発ではFitしないことのが多い&lt;/li&gt;
+  &lt;li&gt;品質指標の形骸化&lt;/li&gt;
+  &lt;li&gt;外注が多く、内製が少ない組織で、ソフトウェアエンジニアをどうやって育てていけば良いのか？&lt;/li&gt;
+  &lt;li&gt;内製にシフトするなら、技術者のhiringも必須&lt;/li&gt;
+  &lt;li&gt;小さく始めて、大きく育てて勝つパターンを積み上げる&lt;/li&gt;
+  &lt;li&gt;段階的に内製開発にシフトしていく&lt;/li&gt;
+  &lt;li&gt;社内の特区、信頼貯金を使って展開していく&lt;/li&gt;
+  &lt;li&gt;内製を全然していない会社が、内製にシフトするためには4-5年かかる&lt;/li&gt;
+  &lt;li&gt;新人を育てるためにはどうしたらいいか？&lt;/li&gt;
+  &lt;li&gt;配属ガチャ&lt;/li&gt;
+  &lt;li&gt;技術力の高いエンジニア新人を孤立させない&lt;/li&gt;
+  &lt;li&gt;事業部内に閉じた情報流通&lt;/li&gt;
+  &lt;li&gt;全社Slackがないのはよくあるサイロ化&lt;/li&gt;
+  &lt;li&gt;技術者の横のつながりを維持する、リアルタイムコミュニケーションのチャネルを作る&lt;/li&gt;
+  &lt;li&gt;内製を始めるモードになったエンプラ企業はイメージ付けが必要&lt;/li&gt;
+  &lt;li&gt;技術者が社名を背負ってアウトプット&lt;/li&gt;
+  &lt;li&gt;大企業Hack&lt;/li&gt;
+  &lt;li&gt;意思決定層にこれからのソフトウェア開発に認識を改めてもらう&lt;/li&gt;
+  &lt;li&gt;組織やチームにノウハウをどうためて、育てていくのか？力を貯めるいいやり方？&lt;/li&gt;
+  &lt;li&gt;再現可能にするのが大事&lt;/li&gt;
+  &lt;li&gt;前提が違う、変動する中でソフトウェア企業としての強さを保つ&lt;/li&gt;
+  &lt;li&gt;公開し検索可能にすることが大事&lt;/li&gt;
+  &lt;li&gt;URL重要&lt;/li&gt;
+  &lt;li&gt;心理的安全性の重要性&lt;/li&gt;
+  &lt;li&gt;価値観から行動原則、品質基準を考えていく&lt;/li&gt;
+  &lt;li&gt;経験していない場面にチェックリストは効かない&lt;/li&gt;
+  &lt;li&gt;誤っていたこと、失敗は良いチャレンジとして評価されるように&lt;/li&gt;
+  &lt;li&gt;社内でアンチパターンを共有できる組織は強い&lt;/li&gt;
+  &lt;li&gt;社内FailCon&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/13</guid>
+        <enclosure url="https://fukabori.fm/audio/013.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>twadaさんをゲストに、ペアプロやソフトウェアテストの疑問、エンジニア組織の内製化、ソフトウェアエンジニアの育成などについて語っていただいたエピソードです。</itunes:subtitle>
+        <itunes:duration>56:17</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>12. エンプラ向けの組織改革とか、スクラムでのチーム作り・人事評価とか</title>
+        <link>https://fukabori.fm/episode/12</link>
+        <pubDate>Wed, 30 Jan 2019 23:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;古くから大企業・組織で、ryuzeeさんならどう切り込んでいくか？&lt;/li&gt;
+  &lt;li&gt;現場だけで変えられる範囲には限界がある&lt;/li&gt;
+  &lt;li&gt;組織改革を若手がやるのは厳しい&lt;/li&gt;
+  &lt;li&gt;ボトムアップでやるには気の遠くなる話が多すぎる&lt;/li&gt;
+  &lt;li&gt;ミドルマネージャーや意思決定の権限を持つ&lt;/li&gt;
+  &lt;li&gt;改革の範囲を全社ではなく、自分の部だけにする&lt;/li&gt;
+  &lt;li&gt;徐々に広げていくのは、ボトムアップでは鉄板&lt;/li&gt;
+  &lt;li&gt;トップダウンでいく場合は、ミドルマネージャーが障壁になりやすい&lt;/li&gt;
+  &lt;li&gt;全社ルール・ガイドラインと、どう付き合っていけば良いのか？&lt;/li&gt;
+  &lt;li&gt;複数のガイドライン/オプションを用意しておく&lt;/li&gt;
+  &lt;li&gt;ガイドラインをかならず守らなきゃいけないのは思い込みなこともある&lt;/li&gt;
+  &lt;li&gt;緩い、自由があるガイドラインだと進めやすい&lt;/li&gt;
+  &lt;li&gt;権限委譲が非常に難しいのではないか？&lt;/li&gt;
+  &lt;li&gt;権限のないプロダクトオーナー問題&lt;/li&gt;
+  &lt;li&gt;プロジェクト開始の時点で、決められる範囲の線引き&lt;/li&gt;
+  &lt;li&gt;大きな会社になればなるほど、スクラムマスターが重要&lt;/li&gt;
+  &lt;li&gt;スクラムマスターの役割は半端じゃなく大変&lt;/li&gt;
+  &lt;li&gt;大きな会社だとチームの外側に課題がある&lt;/li&gt;
+  &lt;li&gt;スクラムマスターは大きな会社のプロパーがやるべき&lt;/li&gt;
+  &lt;li&gt;プロダクトオーナーとスクラムマスターはチームの内外でバランスをとる&lt;/li&gt;
+  &lt;li&gt;プロダクトが目に見える成果を出してないケース&lt;/li&gt;
+  &lt;li&gt;プロダクトを売らずに、組織改革ばっかりしてもしょうがない&lt;/li&gt;
+  &lt;li&gt;綺麗事ばっかり言ってるのはダメ&lt;/li&gt;
+  &lt;li&gt;失敗することは是である&lt;/li&gt;
+  &lt;li&gt;傷の浅いうちに、ダメなものを見つけてサービスを畳めるのも成功である&lt;/li&gt;
+  &lt;li&gt;弾をたくさん投げるのが良いこと&lt;/li&gt;
+  &lt;li&gt;出島とは？&lt;/li&gt;
+  &lt;li&gt;全員同席、外部から雑音をシャットアウトする&lt;/li&gt;
+  &lt;li&gt;エンドポイントを一箇所に絞る&lt;/li&gt;
+  &lt;li&gt;治外法権&lt;/li&gt;
+  &lt;li&gt;人気ある部門へ人が集まりやすいが、過疎化はどう防ぐ？&lt;/li&gt;
+  &lt;li&gt;お金を稼いでるけど、不人気な部門の問題&lt;/li&gt;
+  &lt;li&gt;辞めるにしてもいい関係で辞めてもらう&lt;/li&gt;
+  &lt;li&gt;給与テーブルが自由に設定できない問題&lt;/li&gt;
+  &lt;li&gt;やりたいことができるように、また仕事しやすい環境を与える&lt;/li&gt;
+  &lt;li&gt;周囲のバックオフィス系の部門にどの程度、アジャイル的な考え方を理解してもらうのか？&lt;/li&gt;
+  &lt;li&gt;バックオフィスは、プロジェクト開始時に巻き込んでおく&lt;/li&gt;
+  &lt;li&gt;たとえば品質管理部門の人に入ってもらって、完成の定義を考える&lt;/li&gt;
+  &lt;li&gt;AWSでShip判断&lt;/li&gt;
+  &lt;li&gt;us-east1から他リージョンへのロールアウト&lt;/li&gt;
+  &lt;li&gt;開発チームはどの程度、顧客の声を知る必要があるのか？&lt;/li&gt;
+  &lt;li&gt;チームが無関心なのは一番辛い&lt;/li&gt;
+  &lt;li&gt;サポートエンジニアを一緒にやるプラクティス&lt;/li&gt;
+  &lt;li&gt;開発と運用のチームは結局どうしていけばいいのか？&lt;/li&gt;
+  &lt;li&gt;基本的には1チームが良く、部門が別れているならバーチャルチームで1つに&lt;/li&gt;
+  &lt;li&gt;少数精鋭のチームでものづくりすると、運用しないように寄せていくことで、本業に集中する&lt;/li&gt;
+  &lt;li&gt;必ずしも新規技術を使う必要はない&lt;/li&gt;
+  &lt;li&gt;チームの力量・状況にあわせて、技術や言語を選んでいく&lt;/li&gt;
+  &lt;li&gt;1week sprintの振り返りだと、長期的な課題がでにくい？&lt;/li&gt;
+  &lt;li&gt;ベロシティを1.5倍、2倍にするためには何したらいいの？&lt;/li&gt;
+  &lt;li&gt;KPTは断面を切る振り返りであり、時間軸があまりない&lt;/li&gt;
+  &lt;li&gt;振り返りは適度に変えていく&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ryuzee.com/contents/blog/7138&quot;&gt;闇鍋&lt;/a&gt;という振り返りプラクティス&lt;/li&gt;
+  &lt;li&gt;ドット投票における問題&lt;/li&gt;
+  &lt;li&gt;給与査定という観点での人事評価はどうやればいいか？&lt;/li&gt;
+  &lt;li&gt;プロダクトの結果が出ていれば、個人の評価はどうでもいいのでは？&lt;/li&gt;
+  &lt;li&gt;チーム一律評価 + 360度評価 を組み合わせるのが落とし所&lt;/li&gt;
+  &lt;li&gt;新サービスを出したばっかりのPOはどう評価するか？&lt;/li&gt;
+  &lt;li&gt;人事部とエンジニアの採用プロセスの関わり？&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.attractor.co.jp/contact/&quot;&gt;アトラクタでお仕事募集中&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/12</guid>
+        <enclosure url="https://fukabori.fm/audio/012.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>ryuzeeさんをゲストに、エンタープライズな大企業での組織改革や、スクラムでよくある疑問について語っていただいたエピソードです。</itunes:subtitle>
+        <itunes:duration>50:44</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>11. dockerネットワーキングとか、kubernetesネットワーキングとか</title>
+        <link>https://fukabori.fm/episode/11</link>
+        <pubDate>Sun, 02 Dec 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;dockerを立ち上げたときに、ネットワークに何が起こるのか？&lt;/li&gt;
+  &lt;li&gt;iptablesでは何が起こるのか？&lt;/li&gt;
+  &lt;li&gt;dockerのbridgeとは何なのか？&lt;/li&gt;
+  &lt;li&gt;libnetworkとは何か？&lt;/li&gt;
+  &lt;li&gt;docker network pluginを作るためには、何を書くのか？&lt;/li&gt;
+  &lt;li&gt;dockerを使うと出てくるvethとは何なのか？&lt;/li&gt;
+  &lt;li&gt;dockerコンテナのIPを誰が振っているのか？&lt;/li&gt;
+  &lt;li&gt;IPAMとは？&lt;/li&gt;
+  &lt;li&gt;dockerから出ていくとき、どういう要素を通って外に出ていくのか？&lt;/li&gt;
+  &lt;li&gt;–network host の Host とは？&lt;/li&gt;
+  &lt;li&gt;Overlayとは何か？&lt;/li&gt;
+  &lt;li&gt;VXLANとは？&lt;/li&gt;
+  &lt;li&gt;BUM(Broadcast, unknown-unicast and multicast traffic)トラフィック問題&lt;/li&gt;
+  &lt;li&gt;ARPプロキシ&lt;/li&gt;
+  &lt;li&gt;ARPの情報をどうやって、あらかじめ知っておくのか？&lt;/li&gt;
+  &lt;li&gt;VXLANはVLANの拡張か？&lt;/li&gt;
+  &lt;li&gt;VXLANではどうやってカプセリングするか？&lt;/li&gt;
+  &lt;li&gt;VXLANのオーバヘッドはどうなのか？&lt;/li&gt;
+  &lt;li&gt;VXLANのオーバヘッドの解決策&lt;/li&gt;
+  &lt;li&gt;CNMとCNIとはそれぞれ何か？&lt;/li&gt;
+  &lt;li&gt;CNMとlibnetworkの関連性は？&lt;/li&gt;
+  &lt;li&gt;kubernetesのネットワーク思想は？&lt;/li&gt;
+  &lt;li&gt;CNIの代表的なものは？&lt;/li&gt;
+  &lt;li&gt;flannelとCalico&lt;/li&gt;
+  &lt;li&gt;flannelの特徴は？&lt;/li&gt;
+  &lt;li&gt;Calicoの特徴は？&lt;/li&gt;
+  &lt;li&gt;L3 Fabricとは？&lt;/li&gt;
+  &lt;li&gt;CLOSネットワークについて&lt;/li&gt;
+  &lt;li&gt;なぜBGPを使うのか？&lt;/li&gt;
+  &lt;li&gt;kubernetes Serviceとはそもそも何か？&lt;/li&gt;
+  &lt;li&gt;Cluster IPとは何か？&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/rafiror/status/1069217131495976960&quot;&gt;収録後補足&lt;/a&gt;: ClusterIPはコンテナ（Pod）に直に付くIPではなく、サービスクラスタとして定義されたPod郡へ通信するためのLBのVIPのようなもの、Pod間は別途PodにアサインされたIP同士で通信可能（CNIによる）&lt;/li&gt;
+  &lt;li&gt;kube-proxyとは何か？何をしているのか？&lt;/li&gt;
+  &lt;li&gt;iptablesを使ったkube-proxyのオーバーヘッド&lt;/li&gt;
+  &lt;li&gt;IPVSとは何か？&lt;/li&gt;
+  &lt;li&gt;IPVSを指定した場合に何が起きているのか？&lt;/li&gt;
+  &lt;li&gt;IPVSはサイドカーで置かれるのか？&lt;/li&gt;
+  &lt;li&gt;NodePortとは何か？&lt;/li&gt;
+  &lt;li&gt;NodePortを実際のサービスで使うときは？&lt;/li&gt;
+  &lt;li&gt;k8sのLoad Balancerとは？&lt;/li&gt;
+  &lt;li&gt;ingressとは何か？&lt;/li&gt;
+  &lt;li&gt;k8sにおける名前解決とは？&lt;/li&gt;
+  &lt;li&gt;IPアドレスを意識して通信しない&lt;/li&gt;
+  &lt;li&gt;iptablesの沼&lt;/li&gt;
+  &lt;li&gt;ネットワーク屋さんがiptableを見なくてよくなる世界線はない&lt;/li&gt;
+  &lt;li&gt;Network Policyとは？&lt;/li&gt;
+  &lt;li&gt;OpenStackのネットワークと、k8sのネットワークの下回りは同じ&lt;/li&gt;
+  &lt;li&gt;Linux namespacesとは？&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://containerdays.jp/&quot;&gt;JapanContainerDays v18.12&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/11</guid>
+        <enclosure url="https://fukabori.fm/audio/011.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>rafirorさんをゲストにdockerネットワーキング、kubernetesネットワーキングについて語っていただいたエピソードです。</itunes:subtitle>
+        <itunes:duration>56:24</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>10. 大企業HACKS! - 大企業で実現するイマドキのサービス開発</title>
+        <link>https://fukabori.fm/episode/10</link>
+        <pubDate>Wed, 07 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;WebRTCとは？SkyWayとは？&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/rotsuya/hacks-56126883&quot;&gt;大企業HACKS! 大企業で実現するイマドキのサービス開発&lt;/a&gt;とは何か？その定義は？&lt;/li&gt;
+  &lt;li&gt;大企業のメリットを上手く利用して、大企業のデメリットを上手く回避して働く&lt;/li&gt;
+  &lt;li&gt;大企業で何がやばいか？&lt;/li&gt;
+  &lt;li&gt;世の中の変化が早い、人材の流動性が低い、変化を恐れる人が多い&lt;/li&gt;
+  &lt;li&gt;なぜ、変化を恐れる人が多いのか？&lt;/li&gt;
+  &lt;li&gt;守る価値がある、プロダクトライフサイクルが長いビジネスを持っているから&lt;/li&gt;
+  &lt;li&gt;制約条件がある中で、どう上手くいっていくのか？&lt;/li&gt;
+  &lt;li&gt;守りと攻めを意識して分けていく&lt;/li&gt;
+  &lt;li&gt;変態ミドル&lt;/li&gt;
+  &lt;li&gt;理想的なチームとは何か？&lt;/li&gt;
+  &lt;li&gt;相互作用がプラスに働いている状態&lt;/li&gt;
+  &lt;li&gt;アジャイルマニフェストにある自己組織化するチームを目指すこと&lt;/li&gt;
+  &lt;li&gt;勝手にチームが進化していく状態を目指す&lt;/li&gt;
+  &lt;li&gt;オーナーシップを持ってもらうように、自由・権限を与えて自分たちでコントロールできる感覚をめざすこと&lt;/li&gt;
+  &lt;li&gt;目的・意義を示すこと&lt;/li&gt;
+  &lt;li&gt;心理的安全性を拡大するための具体的な行動として何をしているか？&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/em-fm/&quot;&gt;EM.FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ミッション・ステートメントは、なぜ必要なのか？&lt;/li&gt;
+  &lt;li&gt;内発的動機づけの3要素にある目的&lt;/li&gt;
+  &lt;li&gt;ミッション・ステートメントは、誰がどう定義するのか？&lt;/li&gt;
+  &lt;li&gt;ビジョンとミッション・ステートメントの違いは？&lt;/li&gt;
+  &lt;li&gt;ビジョンは理想の状態を言語化したものである&lt;/li&gt;
+  &lt;li&gt;言葉にするのは、夢を実行可能に行為である&lt;/li&gt;
+  &lt;li&gt;いきなり若者にビジョンを考えろ、というのはアンチパターン&lt;/li&gt;
+  &lt;li&gt;ビジョンを考えるのはむちゃくちゃ大変&lt;/li&gt;
+  &lt;li&gt;飲み会や懇親会のビジョン&lt;/li&gt;
+  &lt;li&gt;マネージャーがビジョンを考えないのはサボり&lt;/li&gt;
+  &lt;li&gt;なぜ、若手に責任と権限を与えるのか？&lt;/li&gt;
+  &lt;li&gt;Think Globally Act Locally はどういう意味で使っている？&lt;/li&gt;
+  &lt;li&gt;会社を一生懸命変えるのは非常に時間がかかる&lt;/li&gt;
+  &lt;li&gt;大企業をトップダウンで変化させるためのプラクティスは何があるか？&lt;/li&gt;
+  &lt;li&gt;社外の実績を使う、草の根のネットワークを作る、社内政治を頑張る&lt;/li&gt;
+  &lt;li&gt;エンジニアの言語と経営者の言語の両方で話す&lt;/li&gt;
+  &lt;li&gt;大企業で戦ってみたときの強みは？&lt;/li&gt;
+  &lt;li&gt;経営者に情熱をぶつけるという方法&lt;/li&gt;
+  &lt;li&gt;経験の学校、良い経験がしやすい&lt;/li&gt;
+  &lt;li&gt;採用するに当たって、何か気をつけている・頑張っていることはあるか？&lt;/li&gt;
+  &lt;li&gt;1人の人事と、多くの現場の社員が協力する&lt;/li&gt;
+  &lt;li&gt;会議を上手くやるために、気をつけていることはあるか？&lt;/li&gt;
+  &lt;li&gt;パワポはなぜダメなのか？&lt;/li&gt;
+  &lt;li&gt;上から来る兼務の指示に対して、どう部下を守るのか？&lt;/li&gt;
+  &lt;li&gt;共通業務・年貢からはできる限り部下を守る&lt;/li&gt;
+  &lt;li&gt;なぜ内製しないといけないのか？&lt;/li&gt;
+  &lt;li&gt;ソフトウェアの開発力が、企業の競争力の源泉である&lt;/li&gt;
+  &lt;li&gt;R&amp;amp;D、プロダクト部門でキャズムを乗り越えるには？&lt;/li&gt;
+  &lt;li&gt;大企業で製品を出すために、何が大変なのか？&lt;/li&gt;
+  &lt;li&gt;社内には実証実験、外にはベータ版というHack&lt;/li&gt;
+  &lt;li&gt;R&amp;amp;Dが事業部門にプロダクトを出すときと、事業部門が受け取るタイミングとが異なる&lt;/li&gt;
+  &lt;li&gt;チームビルディング合宿はなぜやるのか？&lt;/li&gt;
+  &lt;li&gt;チームの中で意見のぶつかり合いが増えてきた&lt;/li&gt;
+  &lt;li&gt;根本的な価値観が違うときに、表面的に話してもダメ&lt;/li&gt;
+  &lt;li&gt;性格診断と価値観アンケートを使って全員でレビューしていく&lt;/li&gt;
+  &lt;li&gt;アンカンファレンスで議論する&lt;/li&gt;
+  &lt;li&gt;チームビルディング合宿の教科書は無く、自分たちで考える&lt;/li&gt;
+  &lt;li&gt;日本の大企業はどうやって、この先生きのこっていくべきか？&lt;/li&gt;
+  &lt;li&gt;R&amp;amp;Dと事業部門のいいとこ取りの組織を作る&lt;/li&gt;
+  &lt;li&gt;失敗するのが苦手、認めない文化&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/rotsuya&quot;&gt;note.mu&lt;/a&gt;での記事&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/10</guid>
+        <enclosure url="https://fukabori.fm/audio/010.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>rotsuyaさんをゲストに大企業をHackしていくための方法について語っていただいたエピソードです。</itunes:subtitle>
+        <itunes:duration>51:21</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>9. エンプラ業界でアジャイルになるためのプラクティスとか、社内/社外勉強会とか</title>
+        <link>https://fukabori.fm/episode/9</link>
+        <pubDate>Fri, 02 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;エンプラでアジャイルをやろうとすると何が大変なのか？&lt;/li&gt;
+  &lt;li&gt;内製開発がデファクトじゃない&lt;/li&gt;
+  &lt;li&gt;なぜ内製はデファクトではなかったのか？&lt;/li&gt;
+  &lt;li&gt;エンプラ業界で内製が増えてきたきっかけは何だろう？&lt;/li&gt;
+  &lt;li&gt;通信事業者のルータやスイッチの調達はどのぐらい時間がかかる？&lt;/li&gt;
+  &lt;li&gt;アジャイル開発センターって何？&lt;/li&gt;
+  &lt;li&gt;その後のきっかけとなった法人向けのアジャイル案件ってどんな契機で始まった？&lt;/li&gt;
+  &lt;li&gt;小さく成功を作って広げていく&lt;/li&gt;
+  &lt;li&gt;既存の業務プロセスに、アジャイル型開発はどう付き合っていくか？&lt;/li&gt;
+  &lt;li&gt;意思決定をアジャイル開発センターに集めていく&lt;/li&gt;
+  &lt;li&gt;アジャイル開発センターの隔離&lt;/li&gt;
+  &lt;li&gt;Cynefin Framework&lt;/li&gt;
+  &lt;li&gt;アジャイル開発センターをどう設立していったのか？&lt;/li&gt;
+  &lt;li&gt;アジャイル開発センターって名前はかっこよくないけど、実は意味がある&lt;/li&gt;
+  &lt;li&gt;ニュースリリースの見出しにのる名前を狙う&lt;/li&gt;
+  &lt;li&gt;(新しいもの入れる場合に)社外から社内を攻める&lt;/li&gt;
+  &lt;li&gt;(新しいもの入れる場合に)社内の攻め方 - 擁護者を徐々に増やす&lt;/li&gt;
+  &lt;li&gt;彼らのわかる言葉で説明する&lt;/li&gt;
+  &lt;li&gt;エンプラはしがらみが多い&lt;/li&gt;
+  &lt;li&gt;特区によって、社内ルールの一部を特例として認めてもらう、代替手段で守る&lt;/li&gt;
+  &lt;li&gt;聞いちゃうとアウトだけど、聞かなければグレーなルールはどうするのか？&lt;/li&gt;
+  &lt;li&gt;グレーです、と宣言して進める&lt;/li&gt;
+  &lt;li&gt;謎のチェックリストが生まれる&lt;/li&gt;
+  &lt;li&gt;失敗すると後続が死んでしまう&lt;/li&gt;
+  &lt;li&gt;アジャイル開発センターの場のデザインはどうしている？&lt;/li&gt;
+  &lt;li&gt;うなぎの寝床みたいなチームスペース&lt;/li&gt;
+  &lt;li&gt;Ops専用部署があるにもかかわらず、アジャイルな開発で作ったもののOpsはどうするのか？&lt;/li&gt;
+  &lt;li&gt;運用の要件・要求によってOpsのスタイルを分ける&lt;/li&gt;
+  &lt;li&gt;エンプラは標準化しようとする&lt;/li&gt;
+  &lt;li&gt;標準化で決める部分をアジャイル開発センター・チームに権限委譲する、自由度を持たせる&lt;/li&gt;
+  &lt;li&gt;大量のガイドライン・チェックリストとアジャイルの付き合い方&lt;/li&gt;
+  &lt;li&gt;ガイドラインのHowをWhyに戻して考える&lt;/li&gt;
+  &lt;li&gt;会社のルールを変えず、現代のやり方を適用する&lt;/li&gt;
+  &lt;li&gt;障害が起きるとルールが増える&lt;/li&gt;
+  &lt;li&gt;ルールを増やしても守れない&lt;/li&gt;
+  &lt;li&gt;ルールを増やしてもシャドーが増えるだけで意味がない&lt;/li&gt;
+  &lt;li&gt;半端じゃない数のチェックリスト&lt;/li&gt;
+  &lt;li&gt;誰かが始めないと変わらない&lt;/li&gt;
+  &lt;li&gt;運用へ渡すときに自動化しすぎない&lt;/li&gt;
+  &lt;li&gt;承認フローをあえて挟む&lt;/li&gt;
+  &lt;li&gt;内製をしていなかった企業で、内製エンジニアをどう集めるのか？&lt;/li&gt;
+  &lt;li&gt;デベロッパーを集めたいなら、デベロッパーコミュニティに行く&lt;/li&gt;
+  &lt;li&gt;Tech-Onという社外勉強会と、Tech-Inという社内勉強会の目的は？&lt;/li&gt;
+  &lt;li&gt;前例があると突破できる&lt;/li&gt;
+  &lt;li&gt;前例を知るために社内勉強会ネットワーキング&lt;/li&gt;
+  &lt;li&gt;社内勉強会を実際に始めるとすごいパワーがある&lt;/li&gt;
+  &lt;li&gt;会社に熱を持っている人は見えてない範囲にいる、隠れている&lt;/li&gt;
+  &lt;li&gt;どうやって社内勉強会に巻き込んでいったのか？&lt;/li&gt;
+  &lt;li&gt;会社の命令で参加させるのはダメ&lt;/li&gt;
+  &lt;li&gt;影響力ある人から集める&lt;/li&gt;
+  &lt;li&gt;ちゃんとした人は、ちゃんとした人を呼んでくる&lt;/li&gt;
+  &lt;li&gt;ルール化しましょう、というアンチパターン&lt;/li&gt;
+  &lt;li&gt;せっかく燃えていた火を消化させない&lt;/li&gt;
+  &lt;li&gt;70回以上、続けているTechLunchという社内勉強会&lt;/li&gt;
+  &lt;li&gt;運営側が燃え尽きない&lt;/li&gt;
+  &lt;li&gt;社内勉強会をオープンな場所でやる&lt;/li&gt;
+  &lt;li&gt;自分が発信すると、情報が外から入ってくるという体験をさせる勉強会デザイン&lt;/li&gt;
+  &lt;li&gt;デベロッパーリレーションズを、なぜエンプラでやるのか？&lt;/li&gt;
+  &lt;li&gt;社外勉強会で外のモノサシを知る&lt;/li&gt;
+  &lt;li&gt;社外で話す、コミュニティ活動をどう社内で評価するのか？&lt;/li&gt;
+  &lt;li&gt;エンプラだけど、使ってるツールや言語は普通にエッジなもの&lt;/li&gt;
+  &lt;li&gt;メンバーシップ型社員とスペシャリスト型社員の評価制度は同じで良いのか？&lt;/li&gt;
+  &lt;li&gt;お客様に価値を届けられる人間が対価を得るべき&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techplay.jp/event/699906&quot;&gt;2018/11/12 Tech-on Meet Up #03&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/9</guid>
+        <enclosure url="https://fukabori.fm/audio/009.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>mamohacyさんをゲストに、エンタープライズ業界におけるアジャイルになるためのプラクティスや知見、社内/社外勉強会についてお話いただいたエピソードです。</itunes:subtitle>
+        <itunes:duration>59:20</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>8. AWS Aurora、GCP Spannerへ辿り着くまでのDBの進化</title>
+        <link>https://fukabori.fm/episode/8</link>
+        <pubDate>Sat, 27 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;山喜旅館でたまたま会って急遽収録&lt;/li&gt;
+  &lt;li&gt;これまでデータベースがぶつかってきた問題について&lt;/li&gt;
+  &lt;li&gt;メモリが高価、HDDはメモリに比べれば安いのでそれを使っていく&lt;/li&gt;
+  &lt;li&gt;HDDはシーケンシャルアクセスならランダムアクセスより早い&lt;/li&gt;
+  &lt;li&gt;IBMのInformation Management System(IMS)&lt;/li&gt;
+  &lt;li&gt;CPUとメモリの間のキャッシュ、メモリとHDDの間のキャッシュの違いとは？&lt;/li&gt;
+  &lt;li&gt;バッファプールをHDDに対するキャッシュとして使う&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/kumagi/items/14b6593a2e8ae0c56546&quot;&gt;IBM ARIES&lt;/a&gt;の公開&lt;/li&gt;
+  &lt;li&gt;WAL / Write Ahead Logging&lt;/li&gt;
+  &lt;li&gt;ログの中にundo/redoの両方が必要&lt;/li&gt;
+  &lt;li&gt;ログシーケンスナンバによるリカバリ&lt;/li&gt;
+  &lt;li&gt;バッファプールを食わせるデータ量を増やすのが最適化の一歩&lt;/li&gt;
+  &lt;li&gt;マルチコア時代への突入、メモリのビット単価の低下&lt;/li&gt;
+  &lt;li&gt;インメモリDBの問題&lt;/li&gt;
+  &lt;li&gt;論文ジェネレータとは？&lt;/li&gt;
+  &lt;li&gt;データベースは研究のトレンドとしては人気がなかった&lt;/li&gt;
+  &lt;li&gt;Writeが増えたときのトランザクション性能が伸びない問題&lt;/li&gt;
+  &lt;li&gt;垂直分散、水平分散でアプリケーションレイヤが辛くなる話&lt;/li&gt;
+  &lt;li&gt;AuroraはARIESからDBを理解した人がフルスクラッチで変えたように見える&lt;/li&gt;
+  &lt;li&gt;AuroraはUndoの情報をログに含めず、Redoを含める&lt;/li&gt;
+  &lt;li&gt;Auroraの場合は、Redoログを受け取るのがHDDではなくクラウド&lt;/li&gt;
+  &lt;li&gt;ページの一貫性を担保する責任をクラウドへ押し付けた&lt;/li&gt;
+  &lt;li&gt;メモリをディスクへ書き戻す必要がなくなる&lt;/li&gt;
+  &lt;li&gt;Redoログ一辺倒になったのでチェックポイントがいらなくなった&lt;/li&gt;
+  &lt;li&gt;データベースのチェックポイントについて&lt;/li&gt;
+  &lt;li&gt;Auroraはマルチマスタ化？&lt;/li&gt;
+  &lt;li&gt;Auroraのそもそもの思想はシングルマスタ&lt;/li&gt;
+  &lt;li&gt;悲観的に巨大にロックを取る&lt;/li&gt;
+  &lt;li&gt;SpannerはRDBではなく、分散KVSに近い&lt;/li&gt;
+  &lt;li&gt;Spanサーバの役割&lt;/li&gt;
+  &lt;li&gt;Spannerを支えるPaxosとは？&lt;/li&gt;
+  &lt;li&gt;分散合意の難しさ&lt;/li&gt;
+  &lt;li&gt;Cockroach DBはAuroraよりベンチマークで1000倍速い？&lt;/li&gt;
+  &lt;li&gt;TPCCのレギュレーションについて&lt;/li&gt;
+  &lt;li&gt;SpannerとAuroraの使い分けは？&lt;/li&gt;
+  &lt;li&gt;今後のデータベース界隈の展望は？&lt;/li&gt;
+  &lt;li&gt;クラウドのDBはOracleの牙城を崩しに行く&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;(補足：32:45-33:43 は収録都合により、別マイクにて再収録しているため音質が異なります)&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/8</guid>
+        <enclosure url="https://fukabori.fm/audio/008.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>kumagiさんをゲストに、AWS Aurora、GCP Spannerに辿り着くまでのデータベースの進化についてお話いただきました</itunes:subtitle>
+        <itunes:duration>33:57</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>7. CI/CDとか、CircleCI自体の設計・開発プロセスとか</title>
+        <link>https://fukabori.fm/episode/7</link>
+        <pubDate>Wed, 10 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;継続的インテグレーション(CI)とは何か？&lt;/li&gt;
+  &lt;li&gt;継続的デリバリ(CD)とは何か？&lt;/li&gt;
+  &lt;li&gt;おかんにCIを例えで説明する&lt;/li&gt;
+  &lt;li&gt;CIをしていない場合、どこから始めればいいのか？&lt;/li&gt;
+  &lt;li&gt;たくさんのテストがないとCIを使う意味がない、というよくある誤解&lt;/li&gt;
+  &lt;li&gt;最初からクライマックス&lt;/li&gt;
+  &lt;li&gt;継続的デリバリと継続的デプロイの定義と差異&lt;/li&gt;
+  &lt;li&gt;CI/CDの真の力&lt;/li&gt;
+  &lt;li&gt;CircleCI 2.0とは？&lt;/li&gt;
+  &lt;li&gt;LXCベースからDockerへの置き換え&lt;/li&gt;
+  &lt;li&gt;CircleCIアーキテクチャの刷新について&lt;/li&gt;
+  &lt;li&gt;CircleCI 2.0以外の名前の候補&lt;/li&gt;
+  &lt;li&gt;CircleCI 2.0は爆速&lt;/li&gt;
+  &lt;li&gt;gRPCを使いつつ非同期に&lt;/li&gt;
+  &lt;li&gt;CircleCIはJenkinsと違って何が嬉しいのか？&lt;/li&gt;
+  &lt;li&gt;Jenkinsのプラグイン運用辛い&lt;/li&gt;
+  &lt;li&gt;野良Jenkins問題&lt;/li&gt;
+  &lt;li&gt;CircleCIに限らずSaaS版のCI/CDで出来なくなることは？&lt;/li&gt;
+  &lt;li&gt;GPUビルド&lt;/li&gt;
+  &lt;li&gt;セキュリティおじさんに対する回答&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://circleci.com/enterprise/&quot;&gt;CircleCI Enterprise&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;コード自体がシークレットになってはいけない&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.replicated.com/&quot;&gt;Reprecated&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;CircleCI EnterpriseのKubernetesへの移行について&lt;/li&gt;
+  &lt;li&gt;CircleCI の内部設計とは？&lt;/li&gt;
+  &lt;li&gt;自作スケジューラから&lt;a href=&quot;https://www.nomadproject.io/&quot;&gt;Hashicorp Nomad&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Nomadはバッチ処理に向いている&lt;/li&gt;
+  &lt;li&gt;CircleCIのQueueとして使われるRabbitMQ&lt;/li&gt;
+  &lt;li&gt;RabbitMQの運用で困ったこと・苦労したことは？&lt;/li&gt;
+  &lt;li&gt;CircleCIの内部で使われる言語はClojureについて&lt;/li&gt;
+  &lt;li&gt;CircleCIも最初はRuby on Railsだった&lt;/li&gt;
+  &lt;li&gt;CircleCIの開発運用で使うCI/CDはCircleCI&lt;/li&gt;
+  &lt;li&gt;自分で自分の足を踏む&lt;/li&gt;
+  &lt;li&gt;電動キックボードにハマっている&lt;/li&gt;
+  &lt;li&gt;電動キックボードの原付き化&lt;/li&gt;
+  &lt;li&gt;電動キックボードを日本で買うといくら？&lt;/li&gt;
+  &lt;li&gt;CircleCIの開発はどうやっている？アジャイル？&lt;/li&gt;
+  &lt;li&gt;プロダクトチームが、どういう機能が求められているか吸い上げる&lt;/li&gt;
+  &lt;li&gt;Jiraを使った管理&lt;/li&gt;
+  &lt;li&gt;CircleCIリリース時に承認は必要なのか？&lt;/li&gt;
+  &lt;li&gt;Ship!Ship!Ship!&lt;/li&gt;
+  &lt;li&gt;本番環境でテストする&lt;/li&gt;
+  &lt;li&gt;継続的デプロイができれば、ロールバック(Revert)も簡単&lt;/li&gt;
+  &lt;li&gt;品質管理おじさんが作りたがるチェックリストはある？&lt;/li&gt;
+  &lt;li&gt;動いてるんだから良しとする、何かあればFixする&lt;/li&gt;
+  &lt;li&gt;継続的デプロイは組織自体も変革する力がある&lt;/li&gt;
+  &lt;li&gt;コンウェイの法則&lt;/li&gt;
+  &lt;li&gt;CircleCIにおけるコードレビューはどうやっているのか？&lt;/li&gt;
+  &lt;li&gt;CircleCIにおけるペアプロ&lt;/li&gt;
+  &lt;li&gt;paring is caring&lt;/li&gt;
+  &lt;li&gt;全世界に分散した開発&lt;/li&gt;
+  &lt;li&gt;Remote Firstという文化&lt;/li&gt;
+  &lt;li&gt;お互いに助け合うという文化&lt;/li&gt;
+  &lt;li&gt;CTOが乱入するお客様対応&lt;/li&gt;
+  &lt;li&gt;「今忙しいからできない」とは言わない&lt;/li&gt;
+  &lt;li&gt;SlackよりZoomを使う&lt;/li&gt;
+  &lt;li&gt;100の言葉よりも、1分のZoom&lt;/li&gt;
+  &lt;li&gt;CircleCIにおけるチームビルディング、All Hands&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/circlecijapan&quot;&gt;Twitter CircleCIJapan&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/circleci&quot;&gt;We’re hiring at CircleCI&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/7</guid>
+        <enclosure url="https://fukabori.fm/audio/007.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>CircleCI JapanのKimさんをゲストに、CI/CD、CircleCI内部のアーキテクチャや開発プロセスについて語っていただいたエピソードです。</itunes:subtitle>
+        <itunes:duration>51:53</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>6. モブプログラミング 60分間1本勝負</title>
+        <link>https://fukabori.fm/episode/6</link>
+        <pubDate>Wed, 26 Sep 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.agileteam.jp/&quot;&gt;一般社団法人 アジャイルチームを支える会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;モブプログラミングとは？&lt;/li&gt;
+  &lt;li&gt;1台のマシンを使うのは重要？&lt;/li&gt;
+  &lt;li&gt;複数マシンのコードの同期はどうする？&lt;/li&gt;
+  &lt;li&gt;各々のマシンの環境が微妙に違う問題をどう対応する？&lt;/li&gt;
+  &lt;li&gt;ペアプログラミングとモブプログラミングの差分は？&lt;/li&gt;
+  &lt;li&gt;Whole Team Approach&lt;/li&gt;
+  &lt;li&gt;情報同期がキーポイント&lt;/li&gt;
+  &lt;li&gt;新規メンバーのJoinやLeaveにどう対処する？&lt;/li&gt;
+  &lt;li&gt;情報の足りないメンバーがドライバーをやる&lt;/li&gt;
+  &lt;li&gt;ドライバーは仕事を止める権利をもっている&lt;/li&gt;
+  &lt;li&gt;「わからない」と平気で言えるのが重要&lt;/li&gt;
+  &lt;li&gt;「わからない」って言っても良いチームは素敵&lt;/li&gt;
+  &lt;li&gt;モブプログラミングにオススメの環境は？&lt;/li&gt;
+  &lt;li&gt;「うるさいな」って言う人は羨ましい&lt;/li&gt;
+  &lt;li&gt;楽しそうに仕事をしているチームは会社全体に影響がある&lt;/li&gt;
+  &lt;li&gt;名前をあげて、人を褒めるということ&lt;/li&gt;
+  &lt;li&gt;チームでよく飛び交うワード&lt;/li&gt;
+  &lt;li&gt;モブプログラミングはリモートで、できるのか？&lt;/li&gt;
+  &lt;li&gt;コミュニケーションの不平等さ&lt;/li&gt;
+  &lt;li&gt;あえて全員リモートで入る&lt;/li&gt;
+  &lt;li&gt;ナビゲーターとドライバー間でスキル差がある場合はどうするのか？&lt;/li&gt;
+  &lt;li&gt;知識の差がある場合にどう対応するか？&lt;/li&gt;
+  &lt;li&gt;コミュニケーションの多寡の問題&lt;/li&gt;
+  &lt;li&gt;チームのコミットメントを高めるきっかけとしてのモブプロによる可視化&lt;/li&gt;
+  &lt;li&gt;モブプログラミングは問題を見えやすくするアプローチ&lt;/li&gt;
+  &lt;li&gt;マネージャーに入って欲しいかどうか&lt;/li&gt;
+  &lt;li&gt;モブプログラミングの生産性？&lt;/li&gt;
+  &lt;li&gt;生産性を妨げる行動って何なのだろうか？&lt;/li&gt;
+  &lt;li&gt;よくあるコミュニケーション問題に真正面からぶつかるのモブプログラミング&lt;/li&gt;
+  &lt;li&gt;兼務も生産性を妨げる&lt;/li&gt;
+  &lt;li&gt;モブプログラミングで向き不向きがあるタスク&lt;/li&gt;
+  &lt;li&gt;結果の見通しが良いものはモブプログラミングでやる必要はない&lt;/li&gt;
+  &lt;li&gt;一方で大体の仕事は問題解決であり、モブプログラミングに向いている&lt;/li&gt;
+  &lt;li&gt;チームの状態、作業の質をみてモブプログラミングを使い分ける&lt;/li&gt;
+  &lt;li&gt;分担するよりも一緒にやったほうが良い、という気付き&lt;/li&gt;
+  &lt;li&gt;分担はパラレルで仕事するだけではなく、全体の同期する仕事する時間もある&lt;/li&gt;
+  &lt;li&gt;ドライバーとナビゲーターは、どういうタイミングで交代するのか？&lt;/li&gt;
+  &lt;li&gt;我が家方式による交代&lt;/li&gt;
+  &lt;li&gt;ドライバーってどれぐらい喋れば良いのか？&lt;/li&gt;
+  &lt;li&gt;モブプロ、めっちゃ疲れる問題&lt;/li&gt;
+  &lt;li&gt;どのように休憩(ブレイク)を入れるのが効果的か？&lt;/li&gt;
+  &lt;li&gt;休憩の入れ方はチームのセンスが問われる&lt;/li&gt;
+  &lt;li&gt;ポモドーロと組み合わせた休憩テクニック&lt;/li&gt;
+  &lt;li&gt;モブコーヒー&lt;/li&gt;
+  &lt;li&gt;どうやってサボるかを、真剣に考える&lt;/li&gt;
+  &lt;li&gt;Deepで集中する、Deepで休憩する、Deepでサボる&lt;/li&gt;
+  &lt;li&gt;モブプログラミングにて、振り返りをどの程度していくか？&lt;/li&gt;
+  &lt;li&gt;手を止めて、仕事を俯瞰する振り返り&lt;/li&gt;
+  &lt;li&gt;スクラムとモブプログラミングの組み合わせはどうやったらいいか？&lt;/li&gt;
+  &lt;li&gt;モブプログラミングとスクラムは相性が良い&lt;/li&gt;
+  &lt;li&gt;1Day Sprintというアプローチ&lt;/li&gt;
+  &lt;li&gt;プロダクトオーナーやプロダクトマネージャーのモブへの参加度合い&lt;/li&gt;
+  &lt;li&gt;お客様から直接Feedbackをもらうことに価値がある&lt;/li&gt;
+  &lt;li&gt;モブプログラミングの中に、お客様に入ってもらう&lt;/li&gt;
+  &lt;li&gt;全員プロダクトオーナー&lt;/li&gt;
+  &lt;li&gt;管理職・マネージャーをどう説得するか？説得する必要があるのか？&lt;/li&gt;
+  &lt;li&gt;モブプログラミング実施について説得する必要はない&lt;/li&gt;
+  &lt;li&gt;より良い仕事をするためにモブプログラミングをしている&lt;/li&gt;
+  &lt;li&gt;マネージャーはチームが上手く働けるようにサポートすること&lt;/li&gt;
+  &lt;li&gt;チームの理想をWhatで提示、Howは権限委譲する&lt;/li&gt;
+  &lt;li&gt;Howに興味があるのは子供扱いしている状態と同じ&lt;/li&gt;
+  &lt;li&gt;1on1で上司をメンタリング&lt;/li&gt;
+  &lt;li&gt;受け入れてくれるマネージャーは多い&lt;/li&gt;
+  &lt;li&gt;双方向メンタリング&lt;/li&gt;
+  &lt;li&gt;よっぱらったときに書いたコードやばい問題、深夜に書いたポエムやばい問題への対応&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/takaking22/mob-programming-startup-manual-number-mobprogramming-number-mobupuro&quot;&gt;モブプログラミング スタートアップマニュアル&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/6</guid>
+        <enclosure url="https://fukabori.fm/audio/006.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>TAKAKING22さんをゲストに、モブプログラミングを中心にひたすら語っていただいたエピソードです。</itunes:subtitle>
+        <itunes:duration>58:37</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>5. アジャイルコーチ、リーン・アジャイルの考え方、心理的安全性とか</title>
+        <link>https://fukabori.fm/episode/5</link>
+        <pubDate>Mon, 27 Aug 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://lean-agile.fm/&quot;&gt;omoiyari.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;アジャイルコーチという職種って何やってるの？&lt;/li&gt;
+  &lt;li&gt;会社に対するオーナーシップ&lt;/li&gt;
+  &lt;li&gt;プロダクトオーナーシップが全員必須というわけではない&lt;/li&gt;
+  &lt;li&gt;プロダクトオーナーシップはあると何が嬉しいのか？&lt;/li&gt;
+  &lt;li&gt;1on1におけるフレーミング&lt;/li&gt;
+  &lt;li&gt;1on1における本人と業務のギャップが大きい場合の対処はどうすればよいのか？&lt;/li&gt;
+  &lt;li&gt;リーン、アジャイルとはそもそも何なのか？その関連は？&lt;/li&gt;
+  &lt;li&gt;スクラムと開発速度の考え方&lt;/li&gt;
+  &lt;li&gt;効果と効率&lt;/li&gt;
+  &lt;li&gt;モブプログラミングは意外とベロシティが出る&lt;/li&gt;
+  &lt;li&gt;モブプロで浮き彫りになるコミュニケーションの質&lt;/li&gt;
+  &lt;li&gt;スクラムの何が好き？&lt;/li&gt;
+  &lt;li&gt;omoiyari.fmのFearlessChangeネタは？&lt;/li&gt;
+  &lt;li&gt;ykmc09の好きなFearlessChangeのパターン3つ&lt;/li&gt;
+  &lt;li&gt;Face to Faceで話すことの効果&lt;/li&gt;
+  &lt;li&gt;心理的安全性をチームで高めるにはどうすれば良いか？どう場を作ればよいか？&lt;/li&gt;
+  &lt;li&gt;“雑”ということの重要性&lt;/li&gt;
+  &lt;li&gt;大企業/組織における心理的安全性を高めるための社内Podcast&lt;/li&gt;
+  &lt;li&gt;いつかSIerに戻ってみたい理由&lt;/li&gt;
+  &lt;li&gt;生涯でやり遂げたいことはある？&lt;/li&gt;
+  &lt;li&gt;アジャイル、モブプロにおける人事評価&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/5</guid>
+        <enclosure url="https://fukabori.fm/audio/005.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>omoiyari.fmのykmc09さんをゲストに、アジャイルコーチ・オーナーシップ・リーン・アジャイル・FearlessChange・心理的安全性などについて話しているエピソードです。</itunes:subtitle>
+        <itunes:duration>58:38</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>4. Kamueeとか、Cuisharkとか</title>
+        <link>https://fukabori.fm/episode/4</link>
+        <pubDate>Wed, 15 Aug 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.ntt.com/about-us/press-releases/news/article/2018/0611.html&quot;&gt;Kamuee&lt;/a&gt;とは&lt;/li&gt;
+  &lt;li&gt;NFV&lt;/li&gt;
+  &lt;li&gt;ソフトウェアルータのメリット&lt;/li&gt;
+  &lt;li&gt;Kamueeを作るモチベーション&lt;/li&gt;
+  &lt;li&gt;既存のソフトウェアルータの限界、問題点&lt;/li&gt;
+  &lt;li&gt;DPDKとは&lt;/li&gt;
+  &lt;li&gt;Trieとは&lt;/li&gt;
+  &lt;li&gt;ラストレベルキャッシュ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.tech.jar.jp/network/algorithms/poptrie/intro.html&quot;&gt;PopTrie&lt;/a&gt;とは&lt;/li&gt;
+  &lt;li&gt;Kamueeが他に実装しているもの&lt;/li&gt;
+  &lt;li&gt;InteropのShownetにて、バックボーンコアルータでKamueeを動かしていた話&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ntt-developers.github.io/ntt-tech-conference/03/&quot;&gt;NTT Tech Conference #3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/cuishark/cuishark&quot;&gt;Cuishark&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Cuisharkを作るモチベーション&lt;/li&gt;
+  &lt;li&gt;Cuisharkの実装&lt;/li&gt;
+  &lt;li&gt;Cursesを生で使うのは大変&lt;/li&gt;
+  &lt;li&gt;未踏とは？&lt;/li&gt;
+  &lt;li&gt;DPDKを使うのは大変&lt;/li&gt;
+  &lt;li&gt;未踏2017テーマ&lt;a href=&quot;https://github.com/susanow&quot;&gt;環境に対して自動最適化する高性能通信基盤の開発&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/4</guid>
+        <enclosure url="https://fukabori.fm/audio/004.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>slankdevさんをゲストに呼んで、ソフトウェアルータのKamueeや、Cuisharkなどについて教えてもらっているエピソードです。</itunes:subtitle>
+        <itunes:duration>51:54</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>3. botnetとか、CTFとか</title>
+        <link>https://fukabori.fm/episode/3</link>
+        <pubDate>Sun, 22 Jul 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;botnetとは？&lt;/li&gt;
+  &lt;li&gt;Herderとは？&lt;/li&gt;
+  &lt;li&gt;どうやって感染するのか？&lt;/li&gt;
+  &lt;li&gt;どうやってbot化していることを発見するのか？&lt;/li&gt;
+  &lt;li&gt;リスニングポストとは？&lt;/li&gt;
+  &lt;li&gt;botnetって買えるの？&lt;/li&gt;
+  &lt;li&gt;イスラエル軍が凄い&lt;/li&gt;
+  &lt;li&gt;DDoSを使う動機？&lt;/li&gt;
+  &lt;li&gt;DDoSってどうやって対策していくのか？&lt;/li&gt;
+  &lt;li&gt;セキュリティの勉強ってどうやるの？&lt;/li&gt;
+  &lt;li&gt;CTFとは？&lt;/li&gt;
+  &lt;li&gt;CTFtime (エピソード中のCTFTimesは誤りです)&lt;/li&gt;
+  &lt;li&gt;通信事業者ってbotnet対策に何かしているの？&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/3</guid>
+        <enclosure url="https://fukabori.fm/audio/003.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>nitkyさんをゲストに呼んで、botnet、CTF、セキュリティの勉強方法などを教えてもらっているエピソードです。</itunes:subtitle>
+        <itunes:duration>49:12</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>2. 仕事よりブログが大事、ブログは自分の子供</title>
+        <link>https://fukabori.fm/episode/2</link>
+        <pubDate>Fri, 13 Jul 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;なぜブログを書くのか？&lt;/li&gt;
+  &lt;li&gt;食欲、睡眠欲、ブログ欲&lt;/li&gt;
+  &lt;li&gt;3大ブログ書けない理由とは&lt;/li&gt;
+  &lt;li&gt;ブログメンタリング&lt;/li&gt;
+  &lt;li&gt;相互メンタリング&lt;/li&gt;
+  &lt;li&gt;1日24時間しかな事実は知られていない&lt;/li&gt;
+  &lt;li&gt;プログラミング講師&lt;/li&gt;
+  &lt;li&gt;初心者にRailsを教えるコツ&lt;/li&gt;
+  &lt;li&gt;知の高速道路を突き抜けるスピードを加速する&lt;/li&gt;
+  &lt;li&gt;モブプログラミング&lt;/li&gt;
+  &lt;li&gt;モブプログラミングに向いているお題&lt;/li&gt;
+  &lt;li&gt;雑談をしましょう&lt;/li&gt;
+  &lt;li&gt;オートクラインとは&lt;/li&gt;
+  &lt;li&gt;トランザクティブメモリーとは&lt;/li&gt;
+  &lt;li&gt;スウォーミングとは&lt;/li&gt;
+  &lt;li&gt;チームビルディング&lt;/li&gt;
+  &lt;li&gt;結局リーダは笑顔でいる&lt;/li&gt;
+  &lt;li&gt;kakakakkuさんの再現性&lt;/li&gt;
+  &lt;li&gt;仕事よりブログが大事&lt;/li&gt;
+  &lt;li&gt;ブログも自分の子供&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;訂正: ダックタイピング -&amp;gt; ラバーダッキング&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/2</guid>
+        <enclosure url="https://fukabori.fm/audio/002.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>kakakakakkuさんをゲストに呼んで、ブログ・プログラミング講師・モブプロ・チームビルディングなどについて話しているエピソードです。</itunes:subtitle>
+        <itunes:duration>1:00:38</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>1. IETFとか、QUICとか</title>
+        <link>https://fukabori.fm/episode/1</link>
+        <pubDate>Thu, 24 May 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;IETFって何？どんなところ？&lt;/li&gt;
+  &lt;li&gt;RFCとは？&lt;/li&gt;
+  &lt;li&gt;ハミングによるコンセンサス&lt;/li&gt;
+  &lt;li&gt;IETFに参加するのはどんな人たちがいる？&lt;/li&gt;
+  &lt;li&gt;個人で参加するには？&lt;/li&gt;
+  &lt;li&gt;IETFでの雑談、ロビーイングの重要性&lt;/li&gt;
+  &lt;li&gt;QUICって何？なぜ生まれたの？&lt;/li&gt;
+  &lt;li&gt;Google QUICとIETF QUIC&lt;/li&gt;
+  &lt;li&gt;HoL とは？&lt;/li&gt;
+  &lt;li&gt;なぜQUICは、ユーザランドで実装しているのか？&lt;/li&gt;
+  &lt;li&gt;TCP既存プロトコル vs QUIC(UDP)プロトコル&lt;/li&gt;
+  &lt;li&gt;QUICが効果的に効くところ&lt;/li&gt;
+  &lt;li&gt;通信事業者のミドルボックスの負荷、コネクション残存&lt;/li&gt;
+  &lt;li&gt;通信事業者はQUICをどう見る？&lt;/li&gt;
+  &lt;li&gt;ネットワークの硬直化(Ossification)&lt;/li&gt;
+  &lt;li&gt;QUICの折り合いの付け所&lt;/li&gt;
+  &lt;li&gt;QUICの将来の展望&lt;/li&gt;
+  &lt;li&gt;QUICを追っかけるにはどうすればいい？&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/1</guid>
+        <enclosure url="https://fukabori.fm/audio/001.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>__kaname__さんをゲストに呼んで、IETFやQUICについて色々と教えてもらっているエピソードです。</itunes:subtitle>
+        <itunes:duration>55:48</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>0. Fukabori.fmについて</title>
+        <link>https://fukabori.fm/episode/0</link>
+        <pubDate>Mon, 14 May 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;話したネタ&quot;&gt;話したネタ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;Podcastで今後話していくコンテンツについて&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://fukabori.fm/episode/0</guid>
+        <enclosure url="https://fukabori.fm/audio/000.mp3" length="" type="audio/mp3"/>
+        <itunes:author>iwashi</itunes:author>
+        <itunes:subtitle>Fukabori.fmについて簡単に紹介しているエピソードです。</itunes:subtitle>
+        <itunes:duration>01:30</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fukabori.fm/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

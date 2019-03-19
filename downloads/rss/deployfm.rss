@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://takattata.github.io/deployfm/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://takattata.github.io/deployfm/</link>
+    <title>deploy.fm</title>
+    <description>知り合ったソフトウェアエンジニアたちの今までやこれからを聞いていくpodcast</description>
+    <media:keywords>deployfm</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>知り合ったソフトウェアエンジニアたちの今までやこれからを聞いていくpodcast</itunes:subtitle>
+    <itunes:author>takasy</itunes:author>
+    <itunes:summary>知り合ったソフトウェアエンジニアたちの今までやこれからを聞いていくpodcast</itunes:summary>
+    <itunes:keywords>deployfm</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>takasy</itunes:name>
+      <itunes:email></itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://takattata.github.io/deployfm/images/artwork.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>11. itoshoさん</title>
+        <link>https://takattata.github.io/deployfm/episode/11-main</link>
+        <pubDate>Tue, 11 Dec 2018 15:50:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;エンジニアになるきっかけ
+    &lt;ul&gt;
+      &lt;li&gt;Flash&lt;/li&gt;
+      &lt;li&gt;1社目に至るまで
+        &lt;ul&gt;
+          &lt;li&gt;総合政策学部&lt;/li&gt;
+          &lt;li&gt;印象深い活動&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;1社目: 金融系のSIer
+    &lt;ul&gt;
+      &lt;li&gt;1年半&lt;/li&gt;
+      &lt;li&gt;全貌が見えない&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/call_me_nots/status/1071962736915972097&quot;&gt;みずほ銀行ATMのツイート&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;コードが書きたい&lt;/li&gt;
+      &lt;li&gt;転職活動&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2社目: 受託のWeb系
+    &lt;ul&gt;
+      &lt;li&gt;5年半&lt;/li&gt;
+      &lt;li&gt;北海道への出張&lt;/li&gt;
+      &lt;li&gt;10くらいのプロダクト&lt;/li&gt;
+      &lt;li&gt;基本はサーバー&lt;/li&gt;
+      &lt;li&gt;個人でSwift使ってアプリ開発&lt;/li&gt;
+      &lt;li&gt;自社サービス作る面白さ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3社目: &lt;a href=&quot;https://supership.jp/&quot;&gt;Supership&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;nanapi + Bitceller + Scaleout&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/kensuu&quot;&gt;けんすうさん&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;大体が自社、一部がconnehitoに出向&lt;/li&gt;
+      &lt;li&gt;Go&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://stemcrown.hatenablog.jp/entry/2016/10/20/190500&quot;&gt;アンサー&lt;/a&gt;というプロダクト
+    &lt;ul&gt;
+      &lt;li&gt;コミュニティサービス(クローズしている)&lt;/li&gt;
+      &lt;li&gt;人のコミュニケーションを見てるのが好き&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;大学入ったきっかけ&lt;/li&gt;
+  &lt;li&gt;伝えたいこと
+    &lt;ul&gt;
+      &lt;li&gt;「新卒で入る会社が全てではないよ。途中からやり直しもきくし。」&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;最近読んだオススメの本とか
+    &lt;ul&gt;
+      &lt;li&gt;月に1, 2冊くらい読む&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://amzn.asia/d/eoCMuIj&quot;&gt;NETFLIXの最強人事戦略～自由と責任の文化を築く～&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://amzn.asia/d/3EAuliq&quot;&gt;How Google Works&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.businessinsider.jp/post-175626&quot;&gt;Googleの内情マンガ&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://amzn.asia/d/dQxr85P&quot;&gt;レスポンシブル・カンパニー&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.pospome.work/entry/2018/10/10/130956&quot;&gt;pospomeのサーバーサイドアーキテクチャ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873116860/&quot;&gt;Web API: The Good Parts&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://amzn.asia/d/fFfRXFL&quot;&gt;仕事で「一皮むける」&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://amzn.asia/d/dg8VwtK&quot;&gt;日本の思想(であることとすることがたしか載ってる本)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;習慣化するの難しい&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://amzn.asia/d/8aPFXYE&quot;&gt;シリアスゲーム―教育・社会に役立つデジタルゲーム&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;最近学びたいこと
+    &lt;ul&gt;
+      &lt;li&gt;英語
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://app-flamingo.com/&quot;&gt;flamingo&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/channel/UCPlreGCqby4Qg9Vuem5scpw&quot;&gt;バイリンガール&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://koboblog.net/grammar-in-use-app/&quot;&gt;English Grammar in Use&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;iOS
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/developer/sho-ito/id601049516&quot;&gt;itoshoさんの公開しているアプリ&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/11-main</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/11_main.mp3" length="51145841" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>itoshoさんのエンジニアになった経緯や今までやられてきた仕事の話、最近読んだ本などの話をお聞きしました</itunes:subtitle>
+        <itunes:duration>72:22</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>おまけ 10. 主にレトロゲームなどの話</title>
+        <link>https://takattata.github.io/deployfm/episode/10-omake</link>
+        <pubDate>Thu, 29 Nov 2018 12:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;deploy.fmを知ったきっかけ
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://deploy.am/&quot;&gt;deploy.am&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.oshigotoam.com/&quot;&gt;おしごとam&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ノッチの対応って大変そう&lt;/li&gt;
+  &lt;li&gt;ゲーム雑談&lt;/li&gt;
+  &lt;li&gt;半田ごて
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://assemblage.tokyo/&quot;&gt;Assemblage&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;アニメとか
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E7%A5%9E%E5%85%AB%E5%89%A3%E4%BC%9D&quot;&gt;神八犬伝&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.thunderboltfantasy.com/season1/&quot;&gt;Thunderbolt Fantasy 東離劍遊紀&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://aquaplus.jp/th2/&quot;&gt;ToHeart2&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;レトロゲーム
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/FLAPPY&quot;&gt;フラッピー&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%BC%E3%82%BF%E3%82%A4%E3%83%BC%E3%82%B9%E3%83%88&quot;&gt;データイースト&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9C%E3%82%B3%E3%82%B9%E3%82%AB%E3%82%A6%E3%82%A9%E3%83%BC%E3%82%BA&quot;&gt;ボコスカウォーズ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www26.atwiki.jp/gcmatome/pages/2131.html&quot;&gt;かぐや姫伝説&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%AF%E3%83%AD%E3%83%8B%E3%82%AF%E3%82%B9_(%E3%82%B2%E3%83%BC%E3%83%A0%E4%BC%9A%E7%A4%BE)&quot;&gt;マイクロニクス&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;ドラゴンクエストシリーズ
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E2%85%A3&quot;&gt;ドラゴンクエスト4&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E2%85%A1&quot;&gt;ドラゴンクエスト2&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%A9%E3%83%93%E3%82%A2%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%83%A0_%E3%82%B7%E3%82%A7%E3%83%A9%E3%82%B6%E3%83%BC%E3%83%89&quot;&gt;アラビアンドリームシェラザード&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://dic.nicovideo.jp/a/%E9%A3%9B%E9%BE%8D%E3%81%AE%E6%8B%B3&quot;&gt;飛竜の拳&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.nintendo.co.jp/clvs/&quot;&gt;ニンテンドークラシックミニ スーパーファミコン&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;※マザー2の英名はEarthBoundです&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;Y’sシリーズ
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.falcom.co.jp/ys12_psp/&quot;&gt;イースI＆IIクロニクルズ&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;PCエンジンCD-ROM2やりたい&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://amzn.asia/d/iFtBvrZ&quot;&gt;イース―失われた王国&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E6%8E%A2%E5%81%B5%E5%80%B6%E6%A5%BD%E9%83%A8&quot;&gt;ファミコン探偵倶楽部&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;ファイナルファンタジーシリーズ
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCV&quot;&gt;FF V&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCVI&quot;&gt;FF VI&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%8B%E3%81%BE%E3%81%84%E3%81%9F%E3%81%A1%E3%81%AE%E5%A4%9C&quot;&gt;かまいたちの夜&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.konami.com/games/tokimeki/&quot;&gt;ときめきメモリアル&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;机の上に置かれた事件&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;テイルズシリーズ 1
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://dic.nicovideo.jp/a/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA%E3%82%AA%E3%83%96%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2&quot;&gt;テイルズオブファンタジア&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA%E3%82%AA%E3%83%96%E3%83%99%E3%83%AB%E3%82%BB%E3%83%AA%E3%82%A2&quot;&gt;テイルズオブベルセリア&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA%E3%82%AA%E3%83%96%E3%82%B0%E3%83%AC%E3%82%A4%E3%82%BB%E3%82%B9f&quot;&gt;テイルズオブグレイセスf&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;おっさん枠&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A2%E3%83%93%E3%82%B9&quot;&gt;テイルズオブジアビス&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA%E3%82%AA%E3%83%96%E3%83%87%E3%82%B9%E3%83%86%E3%82%A3%E3%83%8B%E3%83%BC2&quot;&gt;テイルズオブデスティニー2&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.dragonquest.jp/dq8/&quot;&gt;ドラゴンクエスト8&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;テイルズシリーズ 2
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA%E3%82%AA%E3%83%96%E3%82%A8%E3%82%BF%E3%83%BC%E3%83%8B%E3%82%A2&quot;&gt;テイルズオブエターニア&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA%E3%82%AA%E3%83%96%E3%83%AC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%87%E3%82%A3%E3%82%A2&quot;&gt;テイルズオブレジェンディア&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/10-omake</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/10_omake.mp3" length="64064866" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>MzRyuKaさんと主にゲームの話で盛り上がりました</itunes:subtitle>
+        <itunes:duration>90:44</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>10. MzRyuKaさん</title>
+        <link>https://takattata.github.io/deployfm/episode/10-main</link>
+        <pubDate>Tue, 27 Nov 2018 10:37:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;deploy.fmの感想ツイートへの感謝&lt;/li&gt;
+  &lt;li&gt;自己紹介
+    &lt;ul&gt;
+      &lt;li&gt;中小SIer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;エンジニアになるまで
+    &lt;ul&gt;
+      &lt;li&gt;ゲームを作ろうとしてみたが…&lt;/li&gt;
+      &lt;li&gt;情報系の大学: 人体検知センサー&lt;/li&gt;
+      &lt;li&gt;北海道での仕事&lt;/li&gt;
+      &lt;li&gt;東京に移動&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;経験してきた仕事 1
+    &lt;ul&gt;
+      &lt;li&gt;PL/SQL&lt;/li&gt;
+      &lt;li&gt;VB&lt;/li&gt;
+      &lt;li&gt;C言語&lt;/li&gt;
+      &lt;li&gt;コードジェネレーターを作る&lt;/li&gt;
+      &lt;li&gt;Javaアプリ&lt;/li&gt;
+      &lt;li&gt;JavaScriptを無効化する時代があった&lt;/li&gt;
+      &lt;li&gt;PM&lt;/li&gt;
+      &lt;li&gt;中国でオフショア開発&lt;/li&gt;
+      &lt;li&gt;工事中の建物での業務&lt;/li&gt;
+      &lt;li&gt;夜のラーメンは気をつけよう&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/es_kumagai&quot;&gt;熊谷さん&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;ネット禁止業務&lt;/li&gt;
+      &lt;li&gt;PDA, &lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B6%E3%82%A6%E3%83%AB%E3%82%B9&quot;&gt;ザウルス&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;教育系の小話
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%AA%E3%82%A2%E3%82%B9%E3%82%B2%E3%83%BC%E3%83%A0&quot;&gt;シリアスゲーム&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://coderdojo.jp/&quot;&gt;CoderDojo&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;経験してきた仕事 2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%AA%E3%81%9C%E3%81%AA%E3%81%9C%E5%88%86%E6%9E%90&quot;&gt;なぜなぜ分析&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;アジャイル開発&lt;/li&gt;
+      &lt;li&gt;Bashのみでプログラム(ファイアウォール機器へデータ投入)&lt;/li&gt;
+      &lt;li&gt;Excelをキータッチだけで実装していた同期の話&lt;/li&gt;
+      &lt;li&gt;SNMPを応答するプログラムを自作
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.zabbix.com/jp/&quot;&gt;Zabbix&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;https://www.elastic.co/jp/products/kibana&quot;&gt;Kibana&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;RRDtool、逆ポーランド表記&lt;/li&gt;
+          &lt;li&gt;InfluxDB&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.secioss.co.jp/%E7%B5%84%E7%B9%94%E3%82%92%E8%B6%85%E3%81%88%E3%81%A6sso%E3%81%8C%E4%BD%BF%E3%81%88%E3%82%8Bshibboleth%EF%BC%88%E3%82%B7%E3%83%9C%E3%83%AC%E3%82%B9%EF%BC%89%E8%AA%8D%E8%A8%BC%E3%81%A8%E3%81%AF/&quot;&gt;Shibboleth&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;社内勉強会
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://book.mynavi.jp/ec/products/detail/id=92636&quot;&gt;React Native＋Expoではじめるスマホアプリ開発&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;モブプロ&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;これからやってみたいこと
+    &lt;ul&gt;
+      &lt;li&gt;社外勉強会を開く&lt;/li&gt;
+      &lt;li&gt;本出せたら良いな&lt;/li&gt;
+      &lt;li&gt;社内向けpodcast&lt;/li&gt;
+      &lt;li&gt;GoとかVue.jsとか&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;おまけ回へ続く(※9割以上ゲーム話)&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/10-main</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/10_main.mp3" length="53726749" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>MzRyuKaさんのエンジニアになった経緯や今までやられてきた仕事の話をお聞きしました</itunes:subtitle>
+        <itunes:duration>74:16</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>9. yokoyas000さん</title>
+        <link>https://takattata.github.io/deployfm/episode/09-main</link>
+        <pubDate>Sun, 18 Nov 2018 17:30:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;すみません、takasyの音が安定してません…&lt;/li&gt;
+  &lt;li&gt;前回よこやんとお会いした時の話
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://soundcloud.com/user-549591188&quot;&gt;mazrica.fm&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;よこやんとtakasyとわんこでお送りします&lt;/li&gt;
+  &lt;li&gt;自己紹介
+    &lt;ul&gt;
+      &lt;li&gt;インフラエンジニア&lt;/li&gt;
+      &lt;li&gt;iOSエンジニア&lt;/li&gt;
+      &lt;li&gt;別世界の人と思ってたエンジニア&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;PCとの出会い
+    &lt;ul&gt;
+      &lt;li&gt;ソリティア専用機&lt;/li&gt;
+      &lt;li&gt;Flashゲーム&lt;/li&gt;
+      &lt;li&gt;mixi&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;前職はDiverse
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/kikuchy&quot;&gt;kikuchyさん&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;中学でニコニコが流行ってた
+    &lt;ul&gt;
+      &lt;li&gt;ボーカロイド&lt;/li&gt;
+      &lt;li&gt;ひぐらしのなく頃に&lt;/li&gt;
+      &lt;li&gt;ニコニコ流星群&lt;/li&gt;
+      &lt;li&gt;SoundHorizon&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;フリーター
+    &lt;ul&gt;
+      &lt;li&gt;学生時代は暗記しようとしたからプログラミング挫折していた&lt;/li&gt;
+      &lt;li&gt;未経験者歓迎のところに飛び込む&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;サーバーサイド時代
+    &lt;ul&gt;
+      &lt;li&gt;客先常駐で4社&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://diverse-inc.co.jp/&quot;&gt;株式会社Diverse&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;アプリ開発&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mazrica.com/&quot;&gt;株式会社マツリカ&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;一人で開発中のアプリ: 下地はあった&lt;/li&gt;
+      &lt;li&gt;今年の7月&lt;/li&gt;
+      &lt;li&gt;実際の採用までが早い&lt;/li&gt;
+      &lt;li&gt;リモートワーク&lt;/li&gt;
+      &lt;li&gt;第8回のゲストの&lt;a href=&quot;https://twitter.com/3s_hv&quot;&gt;VTRyoさん&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;フリーランス
+    &lt;ul&gt;
+      &lt;li&gt;takasyの開業届け出した話(※なんやかんや言いつつまだ就活続行中)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;英語
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://blog-ja.deploygate.com/post/138647261604/dgtgif&quot;&gt;DeployGateのTGIF&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;これからやりたいこと
+    &lt;ul&gt;
+      &lt;li&gt;不労所得欲しい&lt;/li&gt;
+      &lt;li&gt;こういうエンジニアになりたいなと思うと落ち込むので考えないようにしている&lt;/li&gt;
+      &lt;li&gt;やりたいこといっぱいあるけどちゃんと絞ろうと暗示を掛ける意識&lt;/li&gt;
+      &lt;li&gt;takasyが最近やろうと思ってること&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://peaks.cc/iOS_architecture&quot;&gt;iOSアプリ設計パターン入門&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;凡人が凡人以上の力を出すには先人の知恵を活用するのが良いと思っている&lt;/li&gt;
+      &lt;li&gt;Haskelとかやってみたいかも！&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/inamiy/items/3e0c10d5eaf234b41c3d&quot;&gt;iOSDC Japan 2018 「圏論とSwiftへの応用」発表スライドメモ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://redux.js.org/&quot;&gt;Redux&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;IOモナド&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/mxcl/PromiseKit&quot;&gt;PromiseKit&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;お絵かきできるようになりたい&lt;/li&gt;
+      &lt;li&gt;小学校の時に描いていたキャラクター&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;勉強会の懇親会&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/09-main</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/09_main.mp3" length="42161985" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>yokoyas000さんのエンジニアになった経緯をお聞きしました</itunes:subtitle>
+        <itunes:duration>60:27</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>おまけ 8. エンジニアという括りを無意識に持っているのではという話？</title>
+        <link>https://takattata.github.io/deployfm/episode/08-omake</link>
+        <pubDate>Sat, 10 Nov 2018 22:50:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;p&gt;※前提: プライベートでブログ書いたりLTしたりPodcastしたりしている、五反田のスタートアップの、1. Webエンジニアで、インフラとRailsとAngularJSをしている方と、2. アプリエンジニアで、iOSとAndroidを開発している人が話しています。
+※収録時に通信状況が不安定だった為、繋ぎが不自然な時があります。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;問題提起: エンジニアと非エンジニアで認識してしまっている？問題&lt;/li&gt;
+  &lt;li&gt;話そうと思った理由&lt;/li&gt;
+  &lt;li&gt;エンジニアという仲間意識&lt;/li&gt;
+  &lt;li&gt;そっちの世界の当たり前を無自覚に持って来ている
+    &lt;ul&gt;
+      &lt;li&gt;括りが難しい&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;なぜ言われたのだろうか？
+    &lt;ul&gt;
+      &lt;li&gt;同じ世界観の人で集まっている&lt;/li&gt;
+      &lt;li&gt;習慣によって世間とずれていく(世間とは…)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;エンジニアという肩書きがよくないのでは？&lt;/li&gt;
+  &lt;li&gt;求められてくる一般的な常識&lt;/li&gt;
+  &lt;li&gt;チャットのコミュニケーションで起こった問題&lt;/li&gt;
+  &lt;li&gt;解決法はここで出ないだろうからコメント頂きたい！&lt;/li&gt;
+  &lt;li&gt;無意識の場合言われないと気づけない&lt;/li&gt;
+  &lt;li&gt;例: Podcastやっていることがマウントに見えるなど&lt;/li&gt;
+  &lt;li&gt;インターネッツ: 仲良くしよう&lt;/li&gt;
+  &lt;li&gt;言ってくれてありがとうというのは思ってるよ！&lt;/li&gt;
+  &lt;li&gt;色々な種類のエンジニア: 主語がでかいから気をつけよう&lt;/li&gt;
+  &lt;li&gt;誰かを傷つけているならフォローしようとは思う&lt;/li&gt;
+  &lt;li&gt;この話の前提&lt;/li&gt;
+  &lt;li&gt;葛藤しながらアウトプットしている&lt;/li&gt;
+  &lt;li&gt;楽しみながらもアウトプットしている&lt;/li&gt;
+  &lt;li&gt;ご意見お待ちしております！&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/08-omake</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/08_omake.mp3" length="12719341" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>3s_hvさんとエンジニアと非エンジニアで認識してしまっている？という話をしました</itunes:subtitle>
+        <itunes:duration>30:57</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>8. 3s_hvさん</title>
+        <link>https://takattata.github.io/deployfm/episode/08-main</link>
+        <pubDate>Sat, 10 Nov 2018 21:10:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;p&gt;※収録時に通信状況が不安定だった為、繋ぎが不自然な時があります。&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;自己紹介&lt;/li&gt;
+  &lt;li&gt;エンジニアになったきっかけ
+    &lt;ul&gt;
+      &lt;li&gt;大学は心理学&lt;/li&gt;
+      &lt;li&gt;小学校低学年からPCが家にあった&lt;/li&gt;
+      &lt;li&gt;幼稚園の頃にはPSがあった&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;1社目: 1
+    &lt;ul&gt;
+      &lt;li&gt;入ったきっかけ&lt;/li&gt;
+      &lt;li&gt;未経験歓迎のベンチャー&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;インターン
+    &lt;ul&gt;
+      &lt;li&gt;野球のスコアブックのチェック&lt;/li&gt;
+      &lt;li&gt;実はいた運用チーム&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;1社目: 2
+    &lt;ul&gt;
+      &lt;li&gt;ストレージエンジニア&lt;/li&gt;
+      &lt;li&gt;病院案件&lt;/li&gt;
+      &lt;li&gt;四次受け&lt;/li&gt;
+      &lt;li&gt;辞めるきっかけ&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.sanwa.co.jp/product/network/hikaricable/index.html&quot;&gt;光ケーブル&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2社目
+    &lt;ul&gt;
+      &lt;li&gt;転職先を選んだ時の条件&lt;/li&gt;
+      &lt;li&gt;Web系にノースキルノー成果物で突撃&lt;/li&gt;
+      &lt;li&gt;転職エージェントを選ぶ時&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.ansible.com/&quot;&gt;Ansible&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;辞めるきっかけ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;3社目
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://mazrica.com/&quot;&gt;マツリカ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;知ったきっかけ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;コミュニティ
+    &lt;ul&gt;
+      &lt;li&gt;積極的に参加するきっかけ&lt;/li&gt;
+      &lt;li&gt;登壇について&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://booth.pm/ja/items/1038923&quot;&gt;セイチョウジャーニー&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;これからやりたいこと
+    &lt;ul&gt;
+      &lt;li&gt;ラーメン屋
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.moukotanmen-nakamoto.com/&quot;&gt;蒙古タンメン中本&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.magicspice.net/&quot;&gt;マジックスパイス&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.chin-z.com/cgi-bin/chin-z/siteup.cgi?category=4&amp;amp;page=3&quot;&gt;陳家私菜&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;日本語に関連する仕事&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/carotene4035&quot;&gt;かろてんさん&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;場を整えること&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;まとめ&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/08-main</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/08_main.mp3" length="20705560" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>3s_hvさんのエンジニアになった経緯をお聞きしました</itunes:subtitle>
+        <itunes:duration>55:10</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>7. yanzmさん</title>
+        <link>https://takattata.github.io/deployfm/episode/07-main</link>
+        <pubDate>Mon, 05 Nov 2018 12:30:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;yanzmさんとtakasyの出会い&lt;/li&gt;
+  &lt;li&gt;自己紹介
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://gdg-tokyo.connpass.com/event/73894/&quot;&gt;Android Architecture Components 勉強会 &lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.uphyca.com/#books&quot;&gt;uPhyca&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://y-anz-m.blogspot.com/&quot;&gt;ブログ: Y.A.M の 雑記帳&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oracle.com/technetwork/jp/java/javafx/overview/index.html&quot;&gt;JavaFX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ゲームを作りたくて高専へ
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E5%A4%A9%E5%A4%96%E9%AD%94%E5%A2%83%E2%85%A1&quot;&gt;天外魔境II&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;(古いの好きという失礼発言をかましていたのは反省してます！あとゲームフリークでなくレトロフリークです！)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.tomakomai-ct.ac.jp/&quot;&gt;苫小牧工業高等専門学校&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;東工大物理学科に編入
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%94%E5%86%97%E8%AB%87%E3%81%A7%E3%81%97%E3%82%87%E3%81%86%E3%80%81%E3%83%95%E3%82%A1%E3%82%A4%E3%83%B3%E3%83%9E%E3%83%B3%E3%81%95%E3%82%93&quot;&gt;ご冗談でしょう、ファインマンさん&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;宇宙物理で望遠鏡の制御やデータの解析のためにプログラミングしていた&lt;/li&gt;
+      &lt;li&gt;NASAの人はPythonが好き&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;大学院に同じ研究室へ
+    &lt;ul&gt;
+      &lt;li&gt;Androidを始める&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;卒業後社会人を1年間経験
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Cell_Broadband_Engine&quot;&gt;バイトでPS2 cell&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://amzn.asia/d/hCF5yrO&quot;&gt;Android Layout Cookbook&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;会社「uPhyca」設立
+    &lt;ul&gt;
+      &lt;li&gt;「30万持って税理士のとこ行けば会社作れるよ」&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.facebook.com/andronjo/&quot;&gt;Android女子部&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://sixinc.jp/works/117/&quot;&gt;SPACE BALLOON PROJECT&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://developers.google.com/experts/&quot;&gt;GDE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://events.google.com/io/&quot;&gt;Google I/O&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/codejamtoioforwomen/home&quot;&gt;code jam to i/o for women&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;これからやりたいものはまだ世に出ていない気がする
+    &lt;ul&gt;
+      &lt;li&gt;Androidビビッと来た&lt;/li&gt;
+      &lt;li&gt;プログラミング始めた時にビビッと来た&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;若い女性へのメッセージ
+    &lt;ul&gt;
+      &lt;li&gt;ビビッときたなら周りの反対を貫いて好きなことをやっていってほしい&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;日本の女性GDEが増えて欲しい&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anond.hatelabo.jp/20181012090959&quot;&gt;勉強会での粘着について書かれたエントリー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;droidgirlsの配信したい&lt;/li&gt;
+  &lt;li&gt;deploy.fmに出てくださいそうな方
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/mhidaka&quot;&gt;ひだかさん&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/yuichi_araki&quot;&gt;あらきさん&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/07-main</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/07_main.mp3" length="18178421" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>yanzmさんのエンジニアになった経緯をお聞きしました</itunes:subtitle>
+        <itunes:duration>52:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>6. ymndさん</title>
+        <link>https://takattata.github.io/deployfm/episode/06-main</link>
+        <pubDate>Sat, 27 Oct 2018 08:07:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;自己紹介前
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://medium.com/droidkaigi/how-to-write-a-good-proposal-for-droidkaigi-2019-jp-ada3ff82d89b&quot;&gt;DroidKaigiのプロポーザル&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Twitterの紹介文&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;自己紹介
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/fumitoito/fei-tong-qi-uimiao-hua-niyorugao-su-naapurikesiyonfalseshi-zhuang&quot;&gt;非同期UI描画による高速なアプリケーションの実装&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;日経新聞の技術同人誌は後払いオンリー&lt;/li&gt;
+      &lt;li&gt;技術書典はいっぱい本を買ってしまう&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;エンジニアになったきっかけ1
+    &lt;ul&gt;
+      &lt;li&gt;中学校のPhotoshop → HTML/CSS&lt;/li&gt;
+      &lt;li&gt;高校でRuby → スクレイピングや自動化&lt;/li&gt;
+      &lt;li&gt;自作PCを組む&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;自作キーボード1
+    &lt;ul&gt;
+      &lt;li&gt;セパレートキーボードの魅力&lt;/li&gt;
+      &lt;li&gt;はんだごて&lt;/li&gt;
+      &lt;li&gt;キーキャップ&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://ascii.jp/elem/000/001/609/1609599/&quot;&gt;人はなぜキーボードを自作するのか？“キーボー道”への誘い&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;エンジニアになったきっかけ2
+    &lt;ul&gt;
+      &lt;li&gt;大学で行政学の研究&lt;/li&gt;
+      &lt;li&gt;日経新聞でデータの可視化のバイト&lt;a href=&quot;https://vdata.nikkei.com/&quot;&gt;「日経:Visual Data」&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;アプリ開発者になったのは偶然&lt;/li&gt;
+      &lt;li&gt;合同の新人研修: 最後に新聞配達&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;アプリエンジニアになってから
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/fushiroyama&quot;&gt;父&lt;/a&gt;に指導頂く&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/mixi-inc/AndroidTraining&quot;&gt;mixi-inc/AndroidTraining&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://amzn.asia/d/7ZHjlKQ&quot;&gt;JUnit実践入門&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;日経のサーバー大改修に合わせてアプリも改修&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://academy.realm.io/jp/posts/droidkaigi17-debug-method/&quot;&gt;エラーと戦うためのデバッグ法&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/ymnder&quot;&gt;speakerdeckのymnderさんページ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/ymnder/whats-new-in-google-play-billing&quot;&gt;What’s new in Google Play Billing&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;アプリエンジニアとしての強み
+    &lt;ul&gt;
+      &lt;li&gt;内部実装どうなってるのかな？がすごい好き&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://sites.google.com/site/devcollaboration/codesearch&quot;&gt;OpenGrok&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://blog.shaunkawano.com/entry/2018/01/13/182228&quot;&gt;Android SDK内部のソースコードを読む際に役立つ(かもしれない)ツールやウェブサイト7選&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;内部実装を読み始めたきっかけ&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=K-fhwdb0x4c&quot;&gt;詳解 ViewGroupのレイアウト内部実装&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;これからやってみたいこと
+    &lt;ul&gt;
+      &lt;li&gt;アーキテクチャ&lt;/li&gt;
+      &lt;li&gt;技術選定&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;自作キーボード2
+    &lt;ul&gt;
+      &lt;li&gt;今使っているキーボード &lt;a href=&quot;https://booth.pm/ja/items/869375&quot;&gt;Corne Keyboard(Crkbd)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://booth.pm/ja/items/1044793&quot;&gt;四⼈の知らなかった⾃作キーボードの世界&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ゲーム話: &lt;em&gt;1:20:09から最後まではゲーム話&lt;/em&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://gigazine.net/news/20181011-goldeneye-25-recreate-unreal-engine-4/&quot;&gt;ゴールデンアイ 007のリメイクプロジェクトがスタート&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://lumine-jojo-cp.com/&quot;&gt;JOJO x LUMINE&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://game.watch.impress.co.jp/docs/20051207/3dwa.htm&quot;&gt;ワンダと巨像のゲームグラフィックス記事&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;キーボード勉強会
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://techplay.jp/event/702669&quot;&gt;天下一キーボードわいわい会&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/06-main</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/06_main.mp3" length="47465145" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>ymndさんのエンジニアになった経緯やゲーム話をお聞きしました</itunes:subtitle>
+        <itunes:duration>127:50</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>5. k0matatsuさん</title>
+        <link>https://takattata.github.io/deployfm/episode/05-main</link>
+        <pubDate>Sat, 20 Oct 2018 23:55:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;k0matatsuさんが配信されているPodcast: &lt;a href=&quot;https://komatatsu.github.io/inaka-fm/&quot;&gt;田舎.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;狛犬好き&lt;/li&gt;
+  &lt;li&gt;自己紹介
+    &lt;ul&gt;
+      &lt;li&gt;Androidエンジニア&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.misoca.jp/&quot;&gt;misoca&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf05&quot;&gt;技術書典5&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://booth.pm/ja/items/1048243&quot;&gt;カンファレンス受付 完全攻略&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://komatatsu.github.io/inaka-fm/episode/1&quot;&gt;世界が自分のためにレンダリングされているかのよう by 田舎.fm ep.1&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;(エンカウントというゲームっぽい表現をされているのを聞いてep.1を思い出したという流れです。編集してて話飛びすぎだと思ったの補足。)&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;リモート勉強会
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/laco2net&quot;&gt;lacolacoさん&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;エンジニアになったきっかけ
+    &lt;ul&gt;
+      &lt;li&gt;中学で&lt;a href=&quot;https://www.activestate.com/activeperl&quot;&gt;ActivePerl&lt;/a&gt;に触れる&lt;/li&gt;
+      &lt;li&gt;高校の卒業制作で弱電だけどSTGを作る&lt;/li&gt;
+      &lt;li&gt;専門に行く&lt;/li&gt;
+      &lt;li&gt;他に作ったSTG&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;社会人になってから
+    &lt;ul&gt;
+      &lt;li&gt;SI: Java, COBOL,…&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://dmm-corp.com/company/labo/&quot;&gt;DMM.comラボ&lt;/a&gt;: PHP -&amp;gt; Android
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://twitter.com/kgmyshin&quot;&gt;kgmyshinさん&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;会社が大きくなってくると古くからいる人が置き去りになることがある&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://info.cookpad.com/&quot;&gt;cookpad&lt;/a&gt;:
+        &lt;ul&gt;
+          &lt;li&gt;超おすすめ&lt;/li&gt;
+          &lt;li&gt;選考は会社とのマッチングもあるから技術力だけではない&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.misoca.jp/&quot;&gt;misoca&lt;/a&gt;
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://tech.misoca.jp/entry/2018/07/10/114903&quot;&gt;Android版Misocaの技術選択&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;これからやってみたいこと
+    &lt;ul&gt;
+      &lt;li&gt;misocaのプロダクトに注力したい: 目指せGoogleベストアプリ！&lt;/li&gt;
+      &lt;li&gt;クリエイターが踏み倒されるのをどうにかできないか&lt;/li&gt;
+      &lt;li&gt;大学に行く準備もしている&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;目標を立てて生きている
+    &lt;ul&gt;
+      &lt;li&gt;プライベートの&lt;a href=&quot;https://rework.withgoogle.com/jp/guides/set-goals-with-okrs/steps/set-objectives-and-develop-key-results/&quot;&gt;OKR&lt;/a&gt;を作っている&lt;/li&gt;
+      &lt;li&gt;「目標は標べだから」&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;田舎.fm
+    &lt;ul&gt;
+      &lt;li&gt;やろうと思った理由
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://twitter.com/kirimin_chan&quot;&gt;きりみんちゃん&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;マイクどうしてました？
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://jp.yamaha.com/products/music_production/webcasting_mixer/ag03/index.html&quot;&gt;YAMAHA AG03&lt;/a&gt;&lt;/li&gt;
+          &lt;li&gt;&lt;a href=&quot;http://ch.nicovideo.jp/bakumatsu/blomaga/ar868271&quot;&gt;幕末志士のマイク設定&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.geocities.jp/moe_koigoe/koigoe/koigoe.html&quot;&gt;恋声&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://dic.nicovideo.jp/a/%E3%83%90%E7%BE%8E%E8%82%89&quot;&gt;バ美肉&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;VTuber
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.kmnz.jp/&quot;&gt;kmnz&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/274920/FaceRig/?l=japanese&quot;&gt;FaceRig&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://komatatsu.github.io/inaka-fm/&quot;&gt;田舎.fm&lt;/a&gt;の締め文句「来週もまた聞いてくれよな！ばいばーい！」&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/05-main</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/05_main.mp3" length="28405310" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>k0matatsuさんのエンジニアになった経緯などをお聞きしました</itunes:subtitle>
+        <itunes:duration>66:05</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>おまけ 4. ゲーム話(主にレトロゲーム)</title>
+        <link>https://takattata.github.io/deployfm/episode/04-omake</link>
+        <pubDate>Wed, 10 Oct 2018 22:45:00 +0900</pubDate>
+        <description>&lt;p&gt;※すみません、音量調整しか修正出来ていません！&lt;/p&gt;
+
+&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;最初にゲームを始めた時はいつ？&lt;/li&gt;
+  &lt;li&gt;ファミコン&lt;/li&gt;
+  &lt;li&gt;スーファミ&lt;/li&gt;
+  &lt;li&gt;プレイステーション&lt;/li&gt;
+  &lt;li&gt;プレイステーション2&lt;/li&gt;
+  &lt;li&gt;ドリームキャスト&lt;/li&gt;
+  &lt;li&gt;オンラインゲーム&lt;/li&gt;
+  &lt;li&gt;ゲームから学んだ色々な話
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.jp.square-enix.com/tech/openconference/library/2011/dldata/PM/PM.pdf&quot;&gt;ゲーム開発 プロジェクトマネジメント講座&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.nicovideo.jp/watch/sm19433622&quot;&gt;橋本善久氏講演 『ゲーム開発プロジェクトマネジメント講座2012』&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;FORTEgp05さんの趣味話
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.nicovideo.jp/watch/sm33569634&quot;&gt;FORTEgp05さんのゆっくりゲーム実況「STARBOUND」&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.ueno-mori.org/exhibitions/article.cgi?id=857635&quot;&gt;世界を変えた書物展&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.printing-museum.org/exhibition/temporary/181020/&quot;&gt;天文学と印刷&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/04-omake</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/04_omake.mp3" length="39868715" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>FORTEgp05さんと今までやってきたゲームの話をしました</itunes:subtitle>
+        <itunes:duration>74:59</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>4. FORTEgp05さん</title>
+        <link>https://takattata.github.io/deployfm/episode/04-main</link>
+        <pubDate>Wed, 10 Oct 2018 22:40:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;自己紹介
+    &lt;ul&gt;
+      &lt;li&gt;エンジニア歴&lt;/li&gt;
+      &lt;li&gt;専門学校&lt;/li&gt;
+      &lt;li&gt;PCに触り始めたきっかけ&lt;/li&gt;
+      &lt;li&gt;この道に進んだ経緯&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;SIer時代
+    &lt;ul&gt;
+      &lt;li&gt;転職のきっかけ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Web系の会社へ
+    &lt;ul&gt;
+      &lt;li&gt;PHP&lt;/li&gt;
+      &lt;li&gt;転職の経緯&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://twitter.com/hiyoko_taisa&quot;&gt;ひよこ大佐さん&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Twitter転職&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;今の会社へ
+    &lt;ul&gt;
+      &lt;li&gt;Android開発を始めた&lt;/li&gt;
+      &lt;li&gt;次はiOS開発の予定&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;チームビルディング
+    &lt;ul&gt;
+      &lt;li&gt;マネジメントをやりたい&lt;/li&gt;
+      &lt;li&gt;会社で提案して色々と取り入れてみている
+        &lt;ul&gt;
+          &lt;li&gt;分報など&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;新しく入った人だから気づけること&lt;/li&gt;
+      &lt;li&gt;チームビルディング系のPodcast&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;Podcastをやってみたい
+    &lt;ul&gt;
+      &lt;li&gt;deploy.fmは何を目的にしたPodcastか&lt;/li&gt;
+      &lt;li&gt;Podcastやりたい人で回してやるのはどうか&lt;/li&gt;
+      &lt;li&gt;ネットコミュ障&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;これからやってみたいこと&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wp.infra-workshop.tech/&quot;&gt;インフラ勉強会&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;色々な題材でほぼ毎日何かしらやってる勉強会&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://amane-career.com/&quot;&gt;沢渡あまねさん&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/04-main</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/04_main.mp3" length="36567924" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>FORTEgp05さんのエンジニアになった経緯などをお聞きしました</itunes:subtitle>
+        <itunes:duration>70:12</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>3. SYABU555さん</title>
+        <link>https://takattata.github.io/deployfm/episode/03-main</link>
+        <pubDate>Sat, 06 Oct 2018 22:36:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;エンジニアになったきっかけ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://unity3d.com/jp&quot;&gt;Unity&lt;/a&gt;どうですか？&lt;/li&gt;
+  &lt;li&gt;今までやってきたこと
+    &lt;ul&gt;
+      &lt;li&gt;Androidの組み込み&lt;/li&gt;
+      &lt;li&gt;中国に行くことに&lt;/li&gt;
+      &lt;li&gt;カナダに海外留学&lt;/li&gt;
+      &lt;li&gt;リモートでバイト&lt;/li&gt;
+      &lt;li&gt;インターン就職
+        &lt;ul&gt;
+          &lt;li&gt;金曜日に皆でカヤックに行く&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;カナダかアフリカか
+        &lt;ul&gt;
+          &lt;li&gt;決め手1: イケメン発言事件&lt;/li&gt;
+          &lt;li&gt;決め手2: 謎コミット事件&lt;/li&gt;
+          &lt;li&gt;決め手3: フィードバックが直に来る&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;今の会社楽しい&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;これからやってみたいこと
+    &lt;ul&gt;
+      &lt;li&gt;趣味系のサービス作ってみたい&lt;/li&gt;
+      &lt;li&gt;非エンジニアで猫業界で働くのもあり&lt;/li&gt;
+      &lt;li&gt;スキューバダイビングのマッチングサービス&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://peaks.cc/android_testing&quot;&gt;Androidテスト全書&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;最近のライブラリ(AACなど)を触りたい&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;We’re Hiring!ですよ
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://afri-inc.com/&quot;&gt;株式会社Afri-inc&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/companies/afri-inc&quot;&gt;Afri-incのWantedly&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Androdiエンジニア募集！フルタイムでなく副業でOK&lt;/li&gt;
+      &lt;li&gt;Webエンジニア募集！C#, .NET経験者&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;海外行きたいとくすぶっている人、行きましょう！
+    &lt;ul&gt;
+      &lt;li&gt;ワーキングホリデーには年齢制限がある&lt;/li&gt;
+      &lt;li&gt;世界広がる感ある&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;告知
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://connpass.com/user/HoNKoT/open/&quot;&gt;開催しているもくもく会&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;今回このPodcastに出演した理由&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/03-main</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/03_main.mp3" length="36952290" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>SYABU555さんのエンジニアになった経緯などをお聞きしました</itunes:subtitle>
+        <itunes:duration>56:15</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>おまけ 3. ゲーム, ゲーム実況話</title>
+        <link>https://takattata.github.io/deployfm/episode/03-omake</link>
+        <pubDate>Tue, 02 Oct 2018 20:56:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;自己紹介
+    &lt;ul&gt;
+      &lt;li&gt;事前にこんな内容話すと共有して下さったアジェンダについて&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://cyberagent.connpass.com/event/103073/&quot;&gt;CA.kt&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;HonKotの由来
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;https://github.com/HoNKoT&quot;&gt;GitHub&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;SYABU555の由来&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;エンジニアになったきっかけと見せかけてゲームをやり始めた話
+    &lt;ul&gt;
+      &lt;li&gt;FFIII&lt;/li&gt;
+      &lt;li&gt;ポケモン&lt;/li&gt;
+      &lt;li&gt;FFIX&lt;/li&gt;
+      &lt;li&gt;FFX&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ゲーム実況
+    &lt;ul&gt;
+      &lt;li&gt;幕末志士さん
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.nicovideo.jp/watch/sm22954889&quot;&gt;幕末志士達のスマブラ６４実況プレイ&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+      &lt;li&gt;ワイワイさん
+        &lt;ul&gt;
+          &lt;li&gt;&lt;a href=&quot;http://www.nicovideo.jp/watch/sm28549395&quot;&gt;【実況】発明家はじめました #1 [Scrap Mechanic]&lt;/a&gt;&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;スプラトゥーン2
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://bosyu.me/users/SYABU555/wants/4929&quot;&gt;深夜イカ部&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.cybergadget.co.jp/retrofreak/&quot;&gt;retro freak&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;SFCのマリオカート&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ゲームきっかけのエンジニア多いのでは？
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www26.atwiki.jp/gcmatome/pages/393.html&quot;&gt;RPGツクール5&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLPh3p_yYrx0C9xsovx-aqTH2QcCPm5jA3&quot;&gt;よゐこのマイクラでサバイバル生活&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.destinythegame.com/ja/home&quot;&gt;Destiny2&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.jp.playstation.com/games/marvels-spider-man/?tkgpscom=dc_spiderman_fb_20180528&quot;&gt;スパイダーマン&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;気になる新作ゲーム
+    &lt;ul&gt;
+      &lt;li&gt;バイオハザード RE:2 (グロ無理すぎて検索段階で挫折)&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/playlist?list=PLEQchj72pK56jJYBtK455LNbrG9O8hzcK&quot;&gt;THE LAST OF US(ガッチマンさんの実況)&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.nicovideo.jp/user/14378176&quot;&gt;訛り実況のキリンさん&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;キングダムハーツ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.smashbros.com/ja_JP/&quot;&gt;大乱闘スマッシュブラザーズ SPECIAL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;FFXV
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.jp.square-enix.com/ff15pocket/&quot;&gt;pocket edition&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://www.jp.square-enix.com/ff15/brotherhood/&quot;&gt;アニメ&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;FFXIII
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://dic.pixiv.net/a/%E3%82%B5%E3%83%83%E3%82%BA%E3%83%BB%E3%82%AB%E3%83%83%E3%83%84%E3%83%AD%E3%82%A4&quot;&gt;サッズ&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://dic.nicovideo.jp/a/%E3%83%91%E3%83%AB%E3%82%B9%E3%81%AE%E3%83%95%E3%82%A1%E3%83%AB%E3%82%B7%E3%81%AE%E3%83%AB%E3%82%B7%E3%81%8C%E3%83%91%E3%83%BC%E3%82%B8%E3%81%A7%E3%82%B3%E3%82%AF%E3%83%BC%E3%83%B3&quot;&gt;パルスのファルシのルシがパージでコクーン&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www26.atwiki.jp/gcmatome/pages/2727.html&quot;&gt;ローグギャラクシー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www26.atwiki.jp/gcmatome/pages/2527.html&quot;&gt;クロノクロス&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;宣伝&quot;&gt;宣伝&lt;/h2&gt;
+&lt;p&gt;気に入ってくださった方はPatreonかKyashで応援してくださると幸いです！&lt;/p&gt;
+
+&lt;blockquote class=&quot;twitter-tweet&quot; data-lang=&quot;en&quot;&gt;&lt;p lang=&quot;ja&quot; dir=&quot;ltr&quot;&gt;&lt;a href=&quot;https://t.co/u5qYWOTx4p&quot;&gt;pic.twitter.com/u5qYWOTx4p&lt;/a&gt;&lt;/p&gt;&amp;mdash; deployfm (@deploy_fm) &lt;a href=&quot;https://twitter.com/deploy_fm/status/1046396967956361223?ref_src=twsrc%5Etfw&quot;&gt;September 30, 2018&lt;/a&gt;&lt;/blockquote&gt;
+&lt;script async=&quot;&quot; src=&quot;https://platform.twitter.com/widgets.js&quot; charset=&quot;utf-8&quot;&gt;&lt;/script&gt;
+
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/03-omake</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/03_omake.mp3" length="20825757" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>SYABU555さんの自己紹介をお聞きしつつ(本編に入る前に)ゲーム, ゲーム実況の話で盛り上がりました</itunes:subtitle>
+        <itunes:duration>56:15</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>2. nkano_tさん</title>
+        <link>https://takattata.github.io/deployfm/episode/02-main</link>
+        <pubDate>Thu, 27 Sep 2018 21:33:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;髪の色&lt;/li&gt;
+  &lt;li&gt;自己紹介
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://mangahack.com/&quot;&gt;マンガハック&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;五反田&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;いつからエンジニアに？&lt;/li&gt;
+  &lt;li&gt;これからやってみたいこと1&lt;/li&gt;
+  &lt;li&gt;漫画アプリ開発で面白そうな技術
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/kenmaz/super-resolution-with-coreml-at-try-swift-tokyo-2018&quot;&gt;Super Resolution with CoreML&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;開発している漫画アプリの推し機能&lt;/li&gt;
+  &lt;li&gt;これからやってみたいこと2&lt;/li&gt;
+  &lt;li&gt;アウトプット&lt;/li&gt;
+  &lt;li&gt;リモートワーク
+    &lt;ul&gt;
+      &lt;li&gt;Win-Winの関係でありたいという想いから&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;CollectionViewのサンプルをもとに1: 質問(※コードを見ないと(　ﾟдﾟ)ﾎﾟｶﾝとなるかもしれません)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://github.com/t-n0121/CollectionViewSampleApp&quot;&gt;題材のサンプル&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Q: カテゴリページなどが画面内でスワイプで切り替える時に皆どうやる？CollectionView？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;勉強会でオンライン発表枠欲しい&lt;/li&gt;
+  &lt;li&gt;CollectionViewのサンプルをもとに2: 説明
+    &lt;ul&gt;
+      &lt;li&gt;ViewControllerを細かく分けた&lt;/li&gt;
+      &lt;li&gt;フィードバックくれたら嬉しい&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;周りの方への感謝の意&lt;/li&gt;
+  &lt;li&gt;10/12(金)13:00-14:00くらいで五反田界隈の方！ランチしましょう！&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/02-main</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/02_main.mp3" length="53703852" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>nkano_tさんのエンジニアになった経緯などをお聞きしました</itunes:subtitle>
+        <itunes:duration>61:08</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>おまけ 1. Takasy</title>
+        <link>https://takattata.github.io/deployfm/episode/01-omake</link>
+        <pubDate>Sun, 23 Sep 2018 19:25:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;podcast名の共有
+    &lt;ul&gt;
+      &lt;li&gt;podcastを始めようとしたきっかけ&lt;/li&gt;
+      &lt;li&gt;ゲストの呼び方&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;エンジニアになったきっかけ
+    &lt;ul&gt;
+      &lt;li&gt;ゲーマー&lt;/li&gt;
+      &lt;li&gt;専門学校&lt;/li&gt;
+      &lt;li&gt;ゲーム会社&lt;/li&gt;
+      &lt;li&gt;SIer&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;今までの会社で印象に残ってること
+    &lt;ul&gt;
+      &lt;li&gt;新人研修で作ったゲーム&lt;/li&gt;
+      &lt;li&gt;無知が故になんとかなるんじゃないかと思ってなんとかなった&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;高校時代の話&lt;/li&gt;
+  &lt;li&gt;チームビルディング
+    &lt;ul&gt;
+      &lt;li&gt;会社で何をやってきたか&lt;/li&gt;
+      &lt;li&gt;tomoya0x00さんがやってきたこと&lt;/li&gt;
+      &lt;li&gt;自律的に改善されるようにするには&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;http://amzn.asia/d/2EGNahM&quot;&gt;Joy, Inc.&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;これからやってみたいこと
+    &lt;ul&gt;
+      &lt;li&gt;英語&lt;/li&gt;
+      &lt;li&gt;コントリビュート&lt;/li&gt;
+      &lt;li&gt;AOSP&lt;/li&gt;
+      &lt;li&gt;訳分かんなくて楽しいから学びたい&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/01-omake</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/01_omake.mp3" length="30349111" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>tomoya0x00さんが自分(Takasy)のエンジニアになった経緯などを聞いてくださいました</itunes:subtitle>
+        <itunes:duration>40:02</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>1. tomoya0x00さん</title>
+        <link>https://takattata.github.io/deployfm/episode/01-main</link>
+        <pubDate>Sun, 23 Sep 2018 18:36:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-notes&quot;&gt;Show Notes&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dena.com/jp/recruit/career/engineer/interview/tomoya-miwa.html&quot;&gt;tomoya0x00さんのインタビュー記事&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;tomoya0x00という名前の理由&lt;/li&gt;
+  &lt;li&gt;エンジニアになったきっかけ
+    &lt;ul&gt;
+      &lt;li&gt;ドラえもんを作りたい&lt;/li&gt;
+      &lt;li&gt;工作少年&lt;/li&gt;
+      &lt;li&gt;PC自作+MIDIプレイヤー開発中学生&lt;/li&gt;
+      &lt;li&gt;ロボット制作の高校, 大学時代&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;今までのエンジニア歴
+    &lt;ul&gt;
+      &lt;li&gt;C++での組み込み&lt;/li&gt;
+      &lt;li&gt;自主開発筋トレAndroidアプリ&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://developer.android.com/guide/topics/providers/content-provider-basics?hl=ja&quot;&gt;ContentProvider&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;Kiosk, iOS, BLEを触ったタイミング&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://qiita.com/tomoya0x00/items/4a20a6fbb59f33456013&quot;&gt;droidkaigiで発表した内容の記事&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;勉強会で発表した後に補足したものを提供したい気持ち&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;これから力を入れていきたいこと
+    &lt;ul&gt;
+      &lt;li&gt;エンジニアを育てる側&lt;/li&gt;
+      &lt;li&gt;自分が得意とする分野とは&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.wantedly.com/projects/234611&quot;&gt;Androidエンジニア募集@DeNA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://takattata.github.io/deployfm/episode/01-main</guid>
+        <enclosure url="https://takattata.github.io/deployfm/audio/01_main.mp3" length="29276016" type="audio/mp3"/>
+        <itunes:author>takasy</itunes:author>
+        <itunes:subtitle>tomoya0x00さんのエンジニアになった経緯などをお聞きしました</itunes:subtitle>
+        <itunes:duration>39:15</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://takattata.github.io/deployfm/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

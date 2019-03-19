@@ -1,0 +1,127 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:206584965/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:206584965/sounds.rss?before=280269969" rel="next" type="application/rss+xml"/>
+        <title>こねらじ</title>
+        <link>http://soundcloud.com/conne-radi</link>
+        <pubDate>Thu, 23 Feb 2017 07:30:02 +0000</pubDate>
+        <lastBuildDate>Thu, 23 Feb 2017 07:30:02 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>こねらじは「前向き文化系クリエイティブラジオ」。話すのは、WEBスタートアップ界隈で働くヒハラと、アートキュレーターのスケガワ。
+ちいさな悩み、たいへんな問題、いつもの日常。こねくりまわして、前に進むためのヒントを探ります。
+
+お便りはFacebookページのメッセージか、メール[conneradio@gmail.com]までどうぞ。</description>
+        <itunes:subtitle>こねらじは「前向き文化系クリエイティブラジオ」。話すのは、WEBスタートアップ界隈で働くヒハラと、…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>こねらじ[Podcast]</itunes:name>
+          <itunes:email>conneradio@gmail.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>こねらじ</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000215815002-3slij7-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000215815002-3slij7-original.jpg</url>
+          <title>こねらじ[Podcast]</title>
+          <link>http://soundcloud.com/conne-radi</link>
+        </image>
+        <itunes:category text="Society &amp; Culture"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/292796018</guid>
+      <title>第23回 メディアアートとはカッコつけである</title>
+      <pubDate>Fri, 09 Dec 2016 12:20:56 +0000</pubDate>
+      <link>https://soundcloud.com/conne-radi/conne-radi-23</link>
+      <itunes:duration>00:24:27</itunes:duration>
+      <itunes:author>こねらじ</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>新宿・初台にあるICCのメディアアートの展覧会へ行きました。メディアアートってどうしても&quot;かっこつけている”感が否めなくて距離を置く存在でしたが、体験型の展示はやっぱり楽しいと思っちゃいってどう飲み込んでいいのかわからなくなりますね。普段リア充から距離を感じていたけど、突然優しくされると戸惑っちゃうみたいな感情を語っています。前回ゲストのコンさんのお話を聞くと更に面白いかもしれません。</itunes:summary>
+      <itunes:subtitle>新宿・初台にあるICCのメディアアートの展覧会へ行きました。メディアアートってどうしても&quot;かっこつ…</itunes:subtitle>
+      <description>新宿・初台にあるICCのメディアアートの展覧会へ行きました。メディアアートってどうしても&quot;かっこつけている”感が否めなくて距離を置く存在でしたが、体験型の展示はやっぱり楽しいと思っちゃいってどう飲み込んでいいのかわからなくなりますね。普段リア充から距離を感じていたけど、突然優しくされると戸惑っちゃうみたいな感情を語っています。前回ゲストのコンさんのお話を聞くと更に面白いかもしれません。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/292796018-conne-radi-conne-radi-23.mp3" length="46942586"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000215815002-3slij7-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/290627190</guid>
+      <title>第22回 ゆるメディアアーティスト「コン」登場【前編】（ゲスト：コンさん）</title>
+      <pubDate>Mon, 21 Nov 2016 23:03:11 +0000</pubDate>
+      <link>https://soundcloud.com/conne-radi/22a</link>
+      <itunes:duration>00:26:16</itunes:duration>
+      <itunes:author>こねらじ</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>今回のゲストは、メディアアーティストのコンさん！コンさんはスタートアップCTOをやりながらも、メディアアーティストとして活動しています。そんなコンさんにプログラマー視点でのメディアアーティストの印象についてや、コンさんから見たメディアアートの魅力などについて伺っていきます。今回は&quot;こね要素&quot;少なめ。ゆるーくお聞きください。</itunes:summary>
+      <itunes:subtitle>今回のゲストは、メディアアーティストのコンさん！コンさんはスタートアップCTOをやりながらも、メデ…</itunes:subtitle>
+      <description>今回のゲストは、メディアアーティストのコンさん！コンさんはスタートアップCTOをやりながらも、メディアアーティストとして活動しています。そんなコンさんにプログラマー視点でのメディアアーティストの印象についてや、コンさんから見たメディアアートの魅力などについて伺っていきます。今回は&quot;こね要素&quot;少なめ。ゆるーくお聞きください。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/290627190-conne-radi-22a.mp3" length="50460967"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000215815002-3slij7-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/290627375</guid>
+      <title>第22回 ゆるメディアアーティスト「コン」登場【後編】（ゲスト：コンさん）</title>
+      <pubDate>Mon, 21 Nov 2016 23:02:59 +0000</pubDate>
+      <link>https://soundcloud.com/conne-radi/22a-1</link>
+      <itunes:duration>00:26:12</itunes:duration>
+      <itunes:author>こねらじ</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>今回のゲストは、メディアアーティストのコンさん！コンさんはスタートアップCTOをやりながらも、メディアアーティストとして活動しています。そんなコンさんにプログラマー視点でのメディアアーティストの印象についてや、コンさんから見たメディアアートの魅力などについて伺っていきます。今回は&quot;こね要素&quot;少なめ。ゆるーくお聞きください。</itunes:summary>
+      <itunes:subtitle>今回のゲストは、メディアアーティストのコンさん！コンさんはスタートアップCTOをやりながらも、メデ…</itunes:subtitle>
+      <description>今回のゲストは、メディアアーティストのコンさん！コンさんはスタートアップCTOをやりながらも、メディアアーティストとして活動しています。そんなコンさんにプログラマー視点でのメディアアーティストの印象についてや、コンさんから見たメディアアートの魅力などについて伺っていきます。今回は&quot;こね要素&quot;少なめ。ゆるーくお聞きください。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/290627375-conne-radi-22a-1.mp3" length="37740169"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000215815002-3slij7-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/288217305</guid>
+      <title>第21回 サトリvsアオリ 【後編】</title>
+      <pubDate>Sun, 30 Oct 2016 06:42:10 +0000</pubDate>
+      <link>https://soundcloud.com/conne-radi/21b</link>
+      <itunes:duration>00:20:57</itunes:duration>
+      <itunes:author>こねらじ</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>物事を受け入れて許していくサトリ系思想と、厳しく自己を鍛え上げてくアオリ系思想。そんな言葉を二人で勝手に作った二人。右翼デモを見て、大人同士の本気の罵り合いに人の本音を感じてしまったスケガワ。調和を重要視しすぎている「サトリ系」が多すぎると批判しながらも、本音で語れないビビリな自分についても語っています。</itunes:summary>
+      <itunes:subtitle>物事を受け入れて許していくサトリ系思想と、厳しく自己を鍛え上げてくアオリ系思想。そんな言葉を二人で…</itunes:subtitle>
+      <description>物事を受け入れて許していくサトリ系思想と、厳しく自己を鍛え上げてくアオリ系思想。そんな言葉を二人で勝手に作った二人。右翼デモを見て、大人同士の本気の罵り合いに人の本音を感じてしまったスケガワ。調和を重要視しすぎている「サトリ系」が多すぎると批判しながらも、本音で語れないビビリな自分についても語っています。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/288217305-conne-radi-21b.mp3" length="40236849"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000215815002-3slij7-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/288217081</guid>
+      <title>第21回 サトリvsアオリ 【前編】</title>
+      <pubDate>Sun, 30 Oct 2016 06:41:53 +0000</pubDate>
+      <link>https://soundcloud.com/conne-radi/21a</link>
+      <itunes:duration>00:18:29</itunes:duration>
+      <itunes:author>こねらじ</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>物事を受け入れて許していくサトリ系思想と、厳しく自己を鍛え上げてくアオリ系思想。そんな言葉を二人で勝手に作った二人。右翼デモを見て、大人同士の本気の罵り合いに人の本音を感じてしまったスケガワ。調和を重要視しすぎている「サトリ系」が多すぎると批判しながらも、本音で語れないビビリな自分についても語っています。</itunes:summary>
+      <itunes:subtitle>物事を受け入れて許していくサトリ系思想と、厳しく自己を鍛え上げてくアオリ系思想。そんな言葉を二人で…</itunes:subtitle>
+      <description>物事を受け入れて許していくサトリ系思想と、厳しく自己を鍛え上げてくアオリ系思想。そんな言葉を二人で勝手に作った二人。右翼デモを見て、大人同士の本気の罵り合いに人の本音を感じてしまったスケガワ。調和を重要視しすぎている「サトリ系」が多すぎると批判しながらも、本音で語れないビビリな自分についても語っています。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/288217081-conne-radi-21a.mp3" length="35489668"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000215815002-3slij7-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/285421615</guid>
+      <title>第20回 突発！東京ワンダリング！日原鍾乳洞編</title>
+      <pubDate>Fri, 30 Sep 2016 14:23:11 +0000</pubDate>
+      <link>https://soundcloud.com/conne-radi/20a</link>
+      <itunes:duration>00:17:44</itunes:duration>
+      <itunes:author>こねらじ</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>今回は突発企画「突発！東京ワンダリング！日原鍾乳洞編」。東京に唯一あるという鍾乳洞、日原鍾乳洞を目指して車を走らせます。何か楽しいことをしたいという浅ましいヒハラの発想から始まった小旅行。その行きと帰りの車内で二人でよくあるドライブ番組のハナシ、旅行の失敗談、鍾乳洞のハナシをこねくり回して行きます。
+疲れやすいと評判の「ヒハラの体力は最後まで持つのか」にも注目してお聞きください。</itunes:summary>
+      <itunes:subtitle>今回は突発企画「突発！東京ワンダリング！日原鍾乳洞編」。東京に唯一あるという鍾乳洞、日原鍾乳洞を目…</itunes:subtitle>
+      <description>今回は突発企画「突発！東京ワンダリング！日原鍾乳洞編」。東京に唯一あるという鍾乳洞、日原鍾乳洞を目指して車を走らせます。何か楽しいことをしたいという浅ましいヒハラの発想から始まった小旅行。その行きと帰りの車内で二人でよくあるドライブ番組のハナシ、旅行の失敗談、鍾乳洞のハナシをこねくり回して行きます。
+疲れやすいと評判の「ヒハラの体力は最後まで持つのか」にも注目してお聞きください。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/285421615-conne-radi-20a.mp3" length="34056068"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000215815002-3slij7-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/280269969</guid>
+      <title>第19回 初対面で打ち解けたいハナシ【後編】</title>
+      <pubDate>Fri, 02 Sep 2016 17:04:16 +0000</pubDate>
+      <link>https://soundcloud.com/conne-radi/19a-2</link>
+      <itunes:duration>00:29:01</itunes:duration>
+      <itunes:author>こねらじ</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>今回はハタケくんが持ってきた悩み、「初対面の女の子と仲良くするには」という問題について二人で考えていきます。「嫌われないように頑張る」派のスケガワと、「トリッキーなコミュニケーションで一気に仲を縮める」派のヒハラ。前編ではそれぞれの持っているメソッドについて、後編では実体験での初対面エピソード、そもそも初対面で打ち解けるのが自然なのかどうかについて、存分にこねくり回していきます。</itunes:summary>
+      <itunes:subtitle>今回はハタケくんが持ってきた悩み、「初対面の女の子と仲良くするには」という問題について二人で考えて…</itunes:subtitle>
+      <description>今回はハタケくんが持ってきた悩み、「初対面の女の子と仲良くするには」という問題について二人で考えていきます。「嫌われないように頑張る」派のスケガワと、「トリッキーなコミュニケーションで一気に仲を縮める」派のヒハラ。前編ではそれぞれの持っているメソッドについて、後編では実体験での初対面エピソード、そもそも初対面で打ち解けるのが自然なのかどうかについて、存分にこねくり回していきます。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/280269969-conne-radi-19a-2.mp3" length="55739791"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000215815002-3slij7-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~files/feed.xsl"?>
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:feedpress="https://feed.press/xmlns" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:media="http://www.rssboard.org/media-rss" version="2.0">
+  <channel>
+    <feedpress:locale>en</feedpress:locale>
+    <atom:link rel="hub" href="http://feedpress.superfeedr.com/"/>
+    <media:rating>nonadult</media:rating>
+    <media:description type="plain"/>
+    <media:credit role="author"/>
+    <googleplay:explicit>no</googleplay:explicit>
+    <atom:link href="http://feedpress.me/elle-height" rel="self" type="application/rss+xml"/>
+    <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:148673596/sounds.rss?before=211416660" rel="next" type="application/rss+xml"/>
+    <title>elle-height</title>
+    <link>http://elle-height.ellekasai.com/</link>
+    <pubDate>Sat, 29 Jul 2017 16:45:52 +0000</pubDate>
+    <lastBuildDate>Sat, 29 Jul 2017 16:45:52 +0000</lastBuildDate>
+    <ttl>60</ttl>
+    <language>ja</language>
+    <copyright>All rights reserved</copyright>
+    <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+    <description>バンクーバーで奮闘中のElle Kasaiによる､Tech系Podcastです｡日々どんな勉強をしているのか､リラックスモードでお話します!</description>
+    <itunes:subtitle>バンクーバーで奮闘中のElle Kasaiによる､Tech系Podcastです｡日々どんな勉強をし…</itunes:subtitle>
+    <itunes:owner>
+      <itunes:name>elle-height</itunes:name>
+      <itunes:email>feeds@soundcloud.com</itunes:email>
+    </itunes:owner>
+    <itunes:author>Elle Kasai</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    <image>
+      <url>http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png</url>
+      <title>elle-height</title>
+      <link>http://elle-height.ellekasai.com/</link>
+    </image>
+    <itunes:category text="Technology"/>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/217013859</guid>
+      <title>14px / 就職先が決まりました</title>
+      <pubDate>Thu, 30 Jul 2015 10:40:26 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583567</link>
+      <itunes:duration>00:12:27</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>私がバンクーバーで就職するためにやったこと・やらなかったこと</itunes:summary>
+      <itunes:subtitle>私がバンクーバーで就職するためにやったこと・やらなかったこと</itunes:subtitle>
+      <description>私がバンクーバーで就職するためにやったこと・やらなかったこと<![CDATA[<img src="http://feedpress.me/9537/1583567.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583568/217013859-elleheight-14px.mp3" length="11964835"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000124823710-oiqbql-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416927</guid>
+      <title>13px / React.jsを触ってみた</title>
+      <pubDate>Mon, 22 Jun 2015 05:37:02 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583569</link>
+      <itunes:duration>00:09:53</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>React.jsの思想はCSS設計の思想と似ている?</itunes:summary>
+      <itunes:subtitle>React.jsの思想はCSS設計の思想と似ている?</itunes:subtitle>
+      <description>React.jsの思想はCSS設計の思想と似ている?<![CDATA[<img src="http://feedpress.me/9537/1583569.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583570/211416927-elleheight-13px-reactjs.mp3" length="14236234"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000124823758-0dcu0e-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416743</guid>
+      <title>12px / Bitbucketを使ってみた</title>
+      <pubDate>Mon, 22 Jun 2015 05:34:22 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583571</link>
+      <itunes:duration>00:11:14</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>非公開かつ少人数でコードを管理するならBitbucketが便利</itunes:summary>
+      <itunes:subtitle>非公開かつ少人数でコードを管理するならBitbucketが便利</itunes:subtitle>
+      <description>非公開かつ少人数でコードを管理するならBitbucketが便利<![CDATA[<img src="http://feedpress.me/9537/1583571.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583572/211416743-elleheight-12px-bitbucket.mp3" length="10799983"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416741</guid>
+      <title>11px / バンクーバーで就活を始めてみて</title>
+      <pubDate>Mon, 22 Jun 2015 05:34:22 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583573</link>
+      <itunes:duration>00:12:12</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>その場でスキルを確認するクリエイターの面接</itunes:summary>
+      <itunes:subtitle>その場でスキルを確認するクリエイターの面接</itunes:subtitle>
+      <description>その場でスキルを確認するクリエイターの面接<![CDATA[<img src="http://feedpress.me/9537/1583573.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583574/211416741-elleheight-11px.mp3" length="11727434"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416729</guid>
+      <title>10px / 私にとってデザインすることとは</title>
+      <pubDate>Mon, 22 Jun 2015 05:34:11 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583575</link>
+      <itunes:duration>00:16:10</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>デザインする時の心構えとフィードバックの姿勢</itunes:summary>
+      <itunes:subtitle>デザインする時の心構えとフィードバックの姿勢</itunes:subtitle>
+      <description>デザインする時の心構えとフィードバックの姿勢<![CDATA[<img src="http://feedpress.me/9537/1583575.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583576/211416729-elleheight-10px.mp3" length="15531699"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416694</guid>
+      <title>9px / アクセシビリティ向上への第一歩</title>
+      <pubDate>Mon, 22 Jun 2015 05:33:37 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583577</link>
+      <itunes:duration>00:11:23</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>HTMLとCSSで簡単にできることから始めよう</itunes:summary>
+      <itunes:subtitle>HTMLとCSSで簡単にできることから始めよう</itunes:subtitle>
+      <description>HTMLとCSSで簡単にできることから始めよう<![CDATA[<img src="http://feedpress.me/9537/1583577.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583578/211416694-elleheight-9px.mp3" length="10942507"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416688</guid>
+      <title>8px / コーディング初心者から学ぶ</title>
+      <pubDate>Mon, 22 Jun 2015 05:33:35 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583579</link>
+      <itunes:duration>00:14:22</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Ladies Learning Codeのメンターをしています</itunes:summary>
+      <itunes:subtitle>Ladies Learning Codeのメンターをしています</itunes:subtitle>
+      <description>Ladies Learning Codeのメンターをしています<![CDATA[<img src="http://feedpress.me/9537/1583579.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583580/211416688-elleheight-8px.mp3" length="13795914"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416681</guid>
+      <title>7px / 現地のイベントに登壇</title>
+      <pubDate>Mon, 22 Jun 2015 05:33:31 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583581</link>
+      <itunes:duration>00:15:40</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>バンクーバーに来て初めて登壇しました!</itunes:summary>
+      <itunes:subtitle>バンクーバーに来て初めて登壇しました!</itunes:subtitle>
+      <description>バンクーバーに来て初めて登壇しました!<![CDATA[<img src="http://feedpress.me/9537/1583581.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583582/211416681-elleheight-7px.mp3" length="15056061"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416673</guid>
+      <title>6px / viewportパーセンテージを使った単位指定</title>
+      <pubDate>Mon, 22 Jun 2015 05:33:28 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583583</link>
+      <itunes:duration>00:07:37</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>初めてvhという単位指定を使いました</itunes:summary>
+      <itunes:subtitle>初めてvhという単位指定を使いました</itunes:subtitle>
+      <description>初めてvhという単位指定を使いました<![CDATA[<img src="http://feedpress.me/9537/1583583.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583584/211416673-elleheight-6px-viewport.mp3" length="7328413"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416671</guid>
+      <title>5px / オープンソースプロジェクトのマーケティング</title>
+      <pubDate>Mon, 22 Jun 2015 05:33:26 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583585</link>
+      <itunes:duration>00:21:59</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ドキュメンテーションと宣伝の効果</itunes:summary>
+      <itunes:subtitle>ドキュメンテーションと宣伝の効果</itunes:subtitle>
+      <description>ドキュメンテーションと宣伝の効果<![CDATA[<img src="http://feedpress.me/9537/1583585.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583586/211416671-elleheight-5px.mp3" length="10561746"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416670</guid>
+      <title>4px / GitHubボタンとTweetの埋め込み</title>
+      <pubDate>Mon, 22 Jun 2015 05:33:26 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583587</link>
+      <itunes:duration>00:12:08</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ResumeCardsプロジェクトで知ったこと</itunes:summary>
+      <itunes:subtitle>ResumeCardsプロジェクトで知ったこと</itunes:subtitle>
+      <description>ResumeCardsプロジェクトで知ったこと<![CDATA[<img src="http://feedpress.me/9537/1583587.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583588/211416670-elleheight-4px-githubtweet.mp3" length="8739526"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416664</guid>
+      <title>3px / 印刷時のデザインをする時のtips</title>
+      <pubDate>Mon, 22 Jun 2015 05:33:20 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583589</link>
+      <itunes:duration>00:12:44</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>細かいデザインをする時はBootstrapは邪魔かも?</itunes:summary>
+      <itunes:subtitle>細かいデザインをする時はBootstrapは邪魔かも?</itunes:subtitle>
+      <description>細かいデザインをする時はBootstrapは邪魔かも?<![CDATA[<img src="http://feedpress.me/9537/1583589.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583590/211416664-elleheight-3px-tips.mp3" length="9167716"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    </item>
+    <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/211416660</guid>
+      <title>2px / 既存プロジェクトの更新作業</title>
+      <pubDate>Mon, 22 Jun 2015 05:33:18 +0000</pubDate>
+      <link>http://tracking.feedpress.it/link/9537/1583591</link>
+      <itunes:duration>00:14:07</itunes:duration>
+      <itunes:author>Elle Kasai</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ellekasai.comとelle-heightの情報設計</itunes:summary>
+      <itunes:subtitle>ellekasai.comとelle-heightの情報設計</itunes:subtitle>
+      <description>ellekasai.comとelle-heightの情報設計<![CDATA[<img src="http://feedpress.me/9537/1583591.gif" height="1" width="1"/>]]></description>
+      <enclosure type="audio/mpeg" url="http://tracking.feedpress.it/link/9537/1583592/211416660-elleheight-2px.mp3" length="5084865"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000151138138-rt1vib-original.png"/>
+    </item>
+  </channel>
+</rss>

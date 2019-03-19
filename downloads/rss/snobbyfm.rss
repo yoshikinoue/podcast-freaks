@@ -1,0 +1,763 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://houka-go-projects.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://houka-go-projects.github.io/</link>
+    <title>snobby.fm</title>
+    <description>放課後でティータイムな話題をお届けしたりしなかったりします。</description>
+    <media:keywords>tech,snobbyfm</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>放課後でティータイムな話題をお届けしたりしなかったりします。</itunes:subtitle>
+    <itunes:author>luccafort</itunes:author>
+    <itunes:summary>放課後でティータイムな話題をお届けしたりしなかったりします。</itunes:summary>
+    <itunes:keywords>tech,snobbyfm</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>luccafort</itunes:name>
+      <itunes:email>muspellsheim1985@gmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://houka-go-projects.github.io/images/artwork.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>ep.8 how to get good reviews?</title>
+        <link>https://houka-go-projects.github.io/episode/13</link>
+        <pubDate>Sat, 16 Feb 2019 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;自分が目指すべき方向としてのcloチーフラーニングオフィサー&quot;&gt;自分が目指すべき方向としてのCLO(チーフラーニングオフィサー)&lt;/h2&gt;
+&lt;h3 id=&quot;sp52ゲスト-ariaki4dev楽しいエンジニアの登壇を応援する会-主催者が語る5年後の目標の立て方と大切さ&quot;&gt;&lt;a href=&quot;https://shiganai.org/ep/sp52-ariaki4dev&quot;&gt;sp.52【ゲスト: ariaki4dev】楽しい「エンジニアの登壇を応援する会」 主催者が語る、「5年後の目標」の立て方と大切さ&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;clochief-learning-officer&quot;&gt;&lt;a href=&quot;https://mba.globis.ac.jp/about_mba/glossary/detail-11631.html&quot;&gt;CLO(chief learning officer)&lt;/a&gt;&lt;/h3&gt;
+&lt;h3 id=&quot;エンジニアと1on1をするときの事前面談シートテンプレート&quot;&gt;&lt;a href=&quot;https://blog.shibayu36.org/entry/2018/12/17/193000&quot;&gt;エンジニアと1on1をするときの事前面談シートテンプレート&lt;/a&gt;&lt;/h3&gt;
+
+&lt;h2 id=&quot;メルペイのエンジニアリングマネージャーとして働いています&quot;&gt;&lt;a href=&quot;https://mhidaka.hatenablog.com/entry/2018/12/27/055903&quot;&gt;メルペイのエンジニアリングマネージャーとして働いています&lt;/a&gt;&lt;/h2&gt;
+
+&lt;h2 id=&quot;よいレビューとは&quot;&gt;よいレビューとは？&lt;/h2&gt;
+&lt;h3 id=&quot;wip-良いレビューをする技術&quot;&gt;&lt;a href=&quot;https://qiita.com/luccafort/items/5563de2bedb33b374991&quot;&gt;[WIP] 良いレビューをする技術&lt;/a&gt;&lt;/h3&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/13</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20190215-1.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle>「エンジニアリングとマネジメントの関係」、「よいレビューとは？」、「CLOとは？」について話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.7 let's happy programming to server side programming!</title>
+        <link>https://houka-go-projects.github.io/episode/12</link>
+        <pubDate>Wed, 05 Dec 2018 08:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;サーバーサイドエンジニアをやっていくモチベーション&quot;&gt;サーバーサイドエンジニアをやっていくモチベーション&lt;/h2&gt;
+&lt;h2 id=&quot;宣伝株式会社トマルバ&quot;&gt;宣伝&lt;a href=&quot;http://www.tomaruba.me/&quot;&gt;株式会社トマルバ&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;エンジニアのための制度は作りたくないクックパッド技術部長が人事を兼任してまずやったこと&quot;&gt;&lt;a href=&quot;https://logmi.jp/tech/articles/193745&quot;&gt;「エンジニアのための制度」は作りたくないクックパッド技術部長が人事を兼任してまずやったこと&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;はてなで働くエンジニアにアンケートシリーズ第2回-onk&quot;&gt;&lt;a href=&quot;http://developer.hatenastaff.com/entry/2018/11/21/120000&quot;&gt;はてなで働くエンジニアにアンケートシリーズ第2回 onk&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;railsエンジニアとして就職できるレベルとは&quot;&gt;&lt;a href=&quot;http://docs.komagata.org/5494&quot;&gt;Railsエンジニアとして就職できるレベルとは&lt;/a&gt;&lt;/h2&gt;
+&lt;h2 id=&quot;mackerel開発チームカイゼンの旅振り返りモブプロスキルマップなど&quot;&gt;&lt;a href=&quot;http://developer.hatenastaff.com/entry/2018/04/04/111410&quot;&gt;Mackerel開発チームカイゼンの旅（振り返り・モブプロ・スキルマップなど）&lt;/a&gt;&lt;/h2&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/12</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20181128-1.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle>「サーバーサイドエンジニアをやっていくモチベーション」や「NTT退職」物語、「株式会社トマルバ」、「作業8割、仕事2割」について話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.6 how do snobby.fm management from now on?</title>
+        <link>https://houka-go-projects.github.io/episode/11</link>
+        <pubDate>Sun, 14 Oct 2018 18:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;snobbyfmの今後について&quot;&gt;snobby.fmの今後について&lt;/h2&gt;
+
+&lt;h2 id=&quot;エンジニアの知的生産術とユーザーストーリーマッピングそして米澤穂信と古典部の関係&quot;&gt;エンジニアの知的生産術とユーザーストーリーマッピング、そして米澤穂信と古典部の関係&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2RMfQOQ&quot;&gt;エンジニアの知的生産術 ──効率的に学び、整理し、アウトプットする &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2OohSGJ&quot;&gt;ユーザーストーリーマッピング&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2Oone4Y&quot;&gt;米澤穂信と古典部&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2RQk3RR&quot;&gt;ウドウロク (新潮文庫)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;クリエイターを目指す人に何を伝えるべきか&quot;&gt;クリエイターを目指す人に何を伝えるべきか？&lt;/h2&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/11</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20181014-1.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.5 to be or not to be, that is the question.</title>
+        <link>https://houka-go-projects.github.io/episode/9</link>
+        <pubDate>Fri, 15 Jun 2018 18:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;日報をやめてgeekbotを始めた話し&quot;&gt;日報をやめてGeekbotを始めた話し&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;会社で導入したというわけではなく個人で導入した。&lt;/li&gt;
+  &lt;li&gt;日報に求められる「今日やったこと・明日やること・苦労してることや問題点」をDMでbotに返信していく。&lt;/li&gt;
+  &lt;li&gt;解答し終えると設定されたチャンネルにその内容がまとめて通知される仕組み。&lt;/li&gt;
+  &lt;li&gt;また答える時間や質問内容は柔軟に設定できるため日報という大仰なシステムはいらなかったのだ！みたいな感覚がある。&lt;/li&gt;
+  &lt;li&gt;とはいえ問題点もある。フルタイムでない社員がいた場合に関係ない曜日でもメンションされる。&lt;/li&gt;
+  &lt;li&gt;働いた日や時間を柔軟にしてほしいが元々フルタイムで働くことを前提にしてるっぽいので厳しい。&lt;/li&gt;
+  &lt;li&gt;有料プランでこの問題が解決するのかどうかわからないが良くなって欲しさがある。&lt;/li&gt;
+  &lt;li&gt;また通知が飛ぶ時間が微妙に遅れてくることがある、これは無料枠だからなのか？致命的ではないがたまに通知来ないな？ってなることがある。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;どんなに酷いコードでも現状動いてお金を稼いでいる以上は敬意を払うべきなので安易にクソコードとか言わず歴史的経緯って呼んでる&quot;&gt;&lt;a href=&quot;https://twitter.com/Grabacr07/status/1007455119787454470&quot;&gt;どんなに酷いコードでも現状動いてお金を稼いでいる以上は敬意を払うべきなので安易にクソコードとか言わず「歴史的経緯」って呼んでる&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;わかる…がとはいえ「稼いだ金額 &amp;lt; 費やしている人件費」なことは往々にしてあるのでそれはクソコードといっていいのでは？&lt;/li&gt;
+  &lt;li&gt;クソコードという言い方が良くない、心理的安全性が得られないというのはわかるんだけどそれを放置するほうが良くないのでは？という気持ちが強い。&lt;/li&gt;
+  &lt;li&gt;お金を生むコードは確かに尊い、だがしかし一転損益分岐点を超えた場合はそのコードはクソということになっている。&lt;/li&gt;
+  &lt;li&gt;クソコードというよりは汚コード、腐れコードと呼称すべきなのかもしれない、賞味期限が切れたコードという意味で。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;コメントのいらないプログラムの書き方&quot;&gt;&lt;a href=&quot;http://www.hassy-blog.com/entry/how_to_write_code_without_comments/&quot;&gt;コメントのいらないプログラムの書き方&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;意図はわかる…が煽り成分が多くて炎上してしまったもったいないエントリ。&lt;/li&gt;
+  &lt;li&gt;コードはただの振る舞いでしかないので何故そうあるべきか？を書くのがコメントだと思う。ただコメントがいらないようなコードを書くべきというのは理解できる。&lt;/li&gt;
+  &lt;li&gt;なのでぼくはコメントは必要があればつける派です。&lt;/li&gt;
+  &lt;li&gt;そういえばこのブロガーさん、炎上した結果本質的でない部分で燃えてしまっって難しいと言ってたけど多分断定的だったり、ないほうがいいぞ！というニュアンスが皆無だからということを理解していないし普段から煽り気味な発言多いのでなんだかなあ…という気持ちになる。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;普通の会社と駄目な会社の見分け方&quot;&gt;普通の会社と駄目な会社の見分け方？&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;お題:&lt;a href=&quot;https://twitter.com/kawasima/status/1007408195898204160&quot;&gt;ちょっといいこと思いついたんですけど、検索結果まるごとHttpSessionにもっちゃえば、ページめくりのたびにDB検索しなくて済むし、横から追加・削除あっても一覧表示ズレなくていいことづくめじゃないですか!?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;まあこういうのは往々にして古いシステムなどでありがちではあるのだがふとこれを会社の良し悪しの判定に使えそうだなと思った。&lt;/li&gt;
+  &lt;li&gt;というのも以前働いていた会社でとあるECサイトのカートの実装がまさしくこんな感じだった。&lt;/li&gt;
+  &lt;li&gt;恐らくここが普通の会社とだめな会社の分水嶺だと思うのだが普通の会社は「少しずつ大きすぎる裁量をセッションから剥がしていく」アプローチを取る。&lt;/li&gt;
+  &lt;li&gt;ところが駄目な会社は「大きすぎてどこで問題がでるかわからないから触らないでおこう」となる。&lt;/li&gt;
+  &lt;li&gt;こういうのは業務の至るところで発揮されるのではないかとこの話しをみて思い至った。&lt;/li&gt;
+  &lt;li&gt;セッションやキャッシュは非常に便利である、だがしかしそこが肥大化してしまい問題があるといったときに企業としてどうアプローチしていくのか？最適解を少なくとも理解しているかどうかそれとも考えることを放棄しているかは駄目な会社の判断材料になり得そうだなと思った。&lt;/li&gt;
+  &lt;li&gt;なお、ぼくが経験した会社で駄目なアプローチ、つまり大きすぎて何がなんだかわからんので放置というアプローチを取った会社は2社あった。&lt;/li&gt;
+  &lt;li&gt;どちらの会社もやはり技術的なレベルが低いと感じて最終的に退職したのでリトマス試験紙として最低限の役割は果たせそうだなと思った。&lt;/li&gt;
+  &lt;li&gt;「こういう最適解を行うのが最善だけど問題が起こったらどうするのか？」と返すところは自分的にはマッチしない考えなので案外いい敷居な気がしてきた。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/9</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20180618-1.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title></title>
+        <link>https://houka-go-projects.github.io/episode/2018-06-18-10</link>
+        <pubDate></pubDate>
+        <description>&lt;h2 id=&quot;前期のアニメ今期のアニメ&quot;&gt;前期のアニメ、今期のアニメ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;2018年春の覇権アニメ最有力候補、ゴールデンカムイ&lt;/li&gt;
+  &lt;li&gt;良かったアニメ:
+    &lt;ul&gt;
+      &lt;li&gt;ダーリンインザフランキス、今期枠か微妙なところだが中盤までは良かった…が最後無理やり終わらせた感が強く違和感が残った。続きは劇場で！パターンでもいいので綺麗に終わらせてほしかった残念なアニメ&lt;/li&gt;
+      &lt;li&gt;SAOオルタナティブガンゲイル・オンライン、予想通りだし伏線が露骨すぎるものの概ね安心してみていられた、SAO本編よりも個人的には好み。イキリトがいないからかな？&lt;/li&gt;
+      &lt;li&gt;メガロボクス、あしたのジョー+SFでリメイクした作品で新規性はなかったけどある意味王道で安定してみていられた。&lt;/li&gt;
+      &lt;li&gt;鹿楓堂 よついろ日和、原作がそこそこ好きだったのでみていた。原作知ってるので特に加減点なし。&lt;/li&gt;
+      &lt;li&gt;ひそねとまそたん、設定がぶっ飛んでてそういうのきらいじゃないぞ！枠。星野はチョロイン。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;駄目だったアニメ:
+    &lt;ul&gt;
+      &lt;li&gt;ヒナまつり、途中まではシュールギャグっぽくてよかったが…だんだんみてるのがつらくなった&lt;/li&gt;
+      &lt;li&gt;銀河英雄伝説、何故やったし。OVA版やりきっていることが異常なのでリメイクではなく再構成するとどうやっても物足りなさが出るのは明白だった。&lt;/li&gt;
+      &lt;li&gt;ルパン3世 Part5 ルパン好きだけど今作は微妙すぎる、前作のほうがよかった。でもOPは好き。&lt;/li&gt;
+      &lt;li&gt;ガンダムビルドダイバーズ、まだ放映してるけどビルドファイターズのほうが好みだった。なんかいまいち好きになれない。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;2018年夏アニメみてるやつ
+    &lt;ul&gt;
+      &lt;li&gt;BANANA FISH、今期一番楽しみにみているアニメ。1話みて面白そうだなとみていたら原作が少女漫画でめちゃくちゃビックリした。そういう意味で先の読めなさがワクワクドキドキする&lt;/li&gt;
+      &lt;li&gt;オーバーロード3、安定のアインズ様枠。原作も好きだしアニメも好きだけどその期待値以上にはなりにくいので覇権は厳しい。&lt;/li&gt;
+      &lt;li&gt;アンゴルモア 元寇合戦記、原作スキーなのでみてるけどやっぱり面白い。元々歴史好きなので好みにマッチしてる。&lt;/li&gt;
+      &lt;li&gt;プラネットウィズ、水上悟のオリジナルアニメということで見始めたが水上ワールド全開でいい。&lt;/li&gt;
+      &lt;li&gt;Free!-Dive to the Future-、1期と2期は割とみれたんだけど何故か3期？に当たる今作は2話でギブアップ。なんか全体的に気持ち悪さが強くなってしまったのはギャグパートが減ったからか？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;映画枠:
+    &lt;ul&gt;
+      &lt;li&gt;ペンギン・ハイウェイ、まだ放映していないけど見に行く予定。原作と森見登美彦が好きなので結構期待している。おねえさんいいよね。&lt;/li&gt;
+      &lt;li&gt;フリクリ、まあぼくらの世代は見るよね。PVみてるだけでもそうそうこういうのだよ！みたいな老害コメント残したくなるアニメなのでめっちゃ期待している&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;テスト駆動開発読み終わった&quot;&gt;テスト駆動開発読み終わった&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;おすすめの読み方は3部→1部→2部の順にみる、プログラミング歴が1年未満かテストコード書いたことない書く文化でないならその順がおすすめ。&lt;/li&gt;
+  &lt;li&gt;実は購入したのは去年の5月ごろなので1年以上寝かせてしまった積読。でも読み始めるとスラスラ読めるし、1部に関しては細かく切ってくれているので毎日寝る前に1章読むだけでもいける。&lt;/li&gt;
+  &lt;li&gt;今後新しい言語に手を出すときにHello,WorldするのではなくTDDの写経をしてみるのがいいのではないか？と思った。&lt;/li&gt;
+  &lt;li&gt;個人的にこれからプログラマを目指す人、あるいはソフトウェア的なものづくりに携わりたい人が読んで損がない本だなと思った。リーダブルコードとSQLアンチパターンに次ぐ初心者応援本じゃないかと個人的に思った。電子版も買おうか悩んでいる。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;リファラル採用が一番いいが難しい面もある&quot;&gt;リファラル採用が一番いいが難しい面もある&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;リファラル採用で来てくれたひとが落ちた場合に紹介した側としてはとても心苦しい。&lt;/li&gt;
+  &lt;li&gt;そういうときにご飯行ってきてね！と会社がお金を出してくれるところがあるらしい。&lt;/li&gt;
+  &lt;li&gt;リファラル採用で一番難しいのは知り合いに紹介することに対するハードルの高さ。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;自然災害が起こったときに果たして出社するべきなのだろうか&quot;&gt;自然災害が起こったときに果たして出社するべきなのだろうか？&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;今回高槻の地震と未曾有の大雨という自然災害が連発したのでリモートワークできる環境が整っていたことに感謝していた。&lt;/li&gt;
+  &lt;li&gt;災害時にこそセルフマネジメントが必要&lt;/li&gt;
+  &lt;li&gt;とはいえ災害時に働けることはいいことではない、休むと決断するのも1つ重要な要素。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/2018-06-18-10</guid>
+        <enclosure url="https://houka-go-projects.github.io" length="" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:duration></itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.4 after show Do you want to one-off key board making?</title>
+        <link>https://houka-go-projects.github.io/episode/8</link>
+        <pubDate>Sat, 09 Jun 2018 18:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;仙台の所感や泊まったところの感想特に京都と比べて&quot;&gt;仙台の所感や泊まったところの感想、特に京都と比べて。&lt;/h2&gt;
+
+&lt;h2 id=&quot;そろそろmbpのメモリ32gbが積まれたやつがでないと厳しい&quot;&gt;そろそろMBPのメモリ32GBが積まれたやつがでないと厳しい。&lt;/h2&gt;
+
+&lt;h2 id=&quot;廃sierraマジなんとかしてくれ問題&quot;&gt;廃Sierraマジなんとかしてくれ問題&lt;/h2&gt;
+
+&lt;h2 id=&quot;自作キーボード沼にハマりそう&quot;&gt;自作キーボード沼にハマりそう&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/daioki/n/n0acef90fe21f&quot;&gt;キーボードの沼　その１&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/daioki/n/ncaecec12640b&quot;&gt;キーボードの沼　その２&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/daioki/n/ncfa178a3aa92&quot;&gt;キーボードの沼　その３&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;副業した経験からの共有とアドバイス&quot;&gt;副業した経験からの共有とアドバイス&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://geek-out.jp/column/entry/2018/05/24/110000&quot;&gt;オポチュニティがあるなら締切までに勉強すればよい ─ チャンスを引き寄せるアピールと仕事術&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;岡山では奇妙な勉強会が多い俺たちのゲーム音楽勉強会とか&quot;&gt;岡山では奇妙な勉強会が多い→俺たちのゲーム音楽勉強会とか。&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://gbdaitokai.connpass.com/event/53875/&quot;&gt;おれたちのゲーム音楽勉強会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://inet.connpass.com/&quot;&gt;I社と様々なレクリエーションを楽しむ集い&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;[[秋葉原] 自作キーボードもくもく会]](https://connpass.com/event/79157/)&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;最近チューリングfmなどの作業しながら聞くのが難しいpodcastを増やしてしまったせいでなかなか消化が捗らない問題&quot;&gt;最近チューリング.fmなどの作業しながら聞くのが難しいpodcastを増やしてしまったせいでなかなか消化が捗らない問題&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://turingcomplete.fm/&quot;&gt;Turing Complete FM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://misreading.chat/&quot;&gt;Misreading Chat&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;最近会社でストーリーポイントを導入してあーでもないこーでもないと悪戦苦闘してる話し&quot;&gt;最近会社でストーリーポイントを導入してあーでもないこーでもないと悪戦苦闘してる話し。&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.ryuzee.com/contents/blog/3716&quot;&gt;ストーリーポイントに関する15個のよくある質問と答え&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;最近compを一時的にやめている報告とその理由&quot;&gt;最近COMPを一時的にやめている報告とその理由。&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://amzn.to/2JfkMvd&quot;&gt;なんだかよくわからない「お腹の不調」はこの食事で治せる! 世界が認めた低FODMAP(フォドマップ)食事法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;響けユーフォニアム4回目だよ宇治でお祭りフェスティバル-レポート&quot;&gt;『響け！ユーフォニアム』4回目だよ！宇治でお祭りフェスティバル レポート&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://anime-eupho.com/news/?id=261&quot;&gt;「響け！ユーフォニアム」4回目だよ！宇治でお祭りフェスティバル開催決定！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://anime-eupho.com/news/?id=267&quot;&gt;響け！ユーフォニアム 公式吹奏楽コンサート ～北宇治高校吹奏楽部 第3回定期演奏会～開催！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://anime-eupho.com/news/?id=266&quot;&gt;『劇場版 響け！ユーフォニアム～誓いのフィナーレ～』 2019年春公開！&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/8</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20180609-2.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle>RubyKaigi 2018参加中に知り合いのRubistと話題に上がったこと, 仙台と京都のゲストハウスの違い, 最近会社で行ってることについて話しました</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.4 i'm join to RubyKaigi 2018</title>
+        <link>https://houka-go-projects.github.io/episode/7</link>
+        <pubDate>Sat, 09 Jun 2018 18:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;hkdnetさんとrubykaigiで初遭遇した話し&quot;&gt;HKDnetさんとRubyKaigiで初遭遇した話し&lt;/h2&gt;
+
+&lt;h2 id=&quot;rubykaigi-2018-best-sessions&quot;&gt;RubyKaigi 2018 best sessions.&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubykaigi.org/2018/presentations/joker1007.html&quot;&gt;Hijacking Ruby Syntax in Ruby&lt;/a&gt;(Day.1)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/tagomoris/hijacking-ruby-syntax-in-ruby&quot;&gt;Hijacking Ruby Syntax in Ruby&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubykaigi.org/2018/presentations/k0kubun.html&quot;&gt;The Method JIT Compiler for Ruby 2.6&lt;/a&gt;(Day.3)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/k0kubun/vm-generated-jit-compiler-for-ruby-2-dot-6&quot;&gt;VM-Generated JIT Compiler for Ruby 2.6&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubykaigi.org/2018/presentations/hsbt.html&quot;&gt;RubyGems 3 &amp;amp; 4&lt;/a&gt;(Day.1)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/hsbt/rubygems-3-4&quot;&gt;RubyGems 3 &amp;amp; 4&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubykaigi.org/2018/presentations/i110.html&quot;&gt;How happy they became with H2O/mruby, and the future of HTTP&lt;/a&gt;(Day.3)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.slideshare.net/ichitonagata/how-happy-they-became-with-h2omruby-and-the-future-of-http&quot;&gt;How happy they became with H2O/mruby and the future of HTTP&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://rubykaigi.org/2018/presentations/soutaro.html&quot;&gt;Ruby Programming with Type Checking&lt;/a&gt;(Day.2)
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/soutaro/ruby-programming-with-type-checking&quot;&gt;Ruby Programming with Type Checking&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;rubykaigi-2018-に参加して実感した3つのこと&quot;&gt;RubyKaigi 2018 に参加して実感した3つのこと。&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;英語を話せるスキルはもうベーシックなスキル&lt;/li&gt;
+  &lt;li&gt;深さ=エンジニアとしての強さ&lt;/li&gt;
+  &lt;li&gt;手を動かしたやつが一番えらいを改めて実感&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;コード懇親会というイベントが素晴らしい参加できなかったけど&quot;&gt;コード懇親会というイベントが素晴らしい…参加できなかったけど。&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speee.connpass.com/event/85676/&quot;&gt;RubyKaigi 2018 コード懇親会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://tech.speee.jp/entry/2018/06/02/154701&quot;&gt;RubyKaigi2018 懇親会に酒は要らない！？”コードで懇親する”コード懇親会&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/7</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20180609-1.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle>RubyKaigi 2018の話しを中心にします。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.3 after show podcast theories.</title>
+        <link>https://houka-go-projects.github.io/episode/6</link>
+        <pubDate>Sat, 07 Apr 2018 00:30:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;田舎fm聞いてたらゲストって大事だなと気づいた&quot;&gt;田舎fm聞いてたらゲストって大事だなと気づいた&lt;/h2&gt;
+&lt;h2 id=&quot;podcastでテックネタ話さないとつまらないという話し&quot;&gt;podcastでテックネタ話さないとつまらないという話し&lt;/h2&gt;
+&lt;h2 id=&quot;podcastのターゲットリスナー層をどこに置くのか難しいという話し&quot;&gt;podcastのターゲットリスナー層をどこに置くのか難しいという話し&lt;/h2&gt;
+&lt;h2 id=&quot;作業用bgmについて&quot;&gt;作業用BGMについて&lt;/h2&gt;
+&lt;h2 id=&quot;barノスタルジアにいったけど最高だった&quot;&gt;BARノスタルジアにいったけど最高だった&lt;/h2&gt;
+&lt;h2 id=&quot;line-mobileにsim変えたら月々の支払いが激減した&quot;&gt;Line MobileにSIM変えたら月々の支払いが激減した&lt;/h2&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/6</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20180406-2.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.3 call me luccafort.</title>
+        <link>https://houka-go-projects.github.io/episode/5</link>
+        <pubDate>Sat, 07 Apr 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;ようやくitunes-storeにpodcast登録できた&quot;&gt;ようやくiTunes StoreにPodcast登録できた！&lt;/h2&gt;
+&lt;h2 id=&quot;退職届を人生で初めて書いたが人類がやるべきことでないぞ&quot;&gt;退職届を人生で初めて書いたが人類がやるべきことでないぞ！&lt;/h2&gt;
+&lt;h2 id=&quot;次の就職先でgit-pushしたらwerckerが自動実行されるようにした&quot;&gt;次の就職先でgit pushしたらwerckerが自動実行されるようにした&lt;/h2&gt;
+&lt;h2 id=&quot;call-me-luccafort&quot;&gt;call me luccafort&lt;/h2&gt;
+&lt;h2 id=&quot;kyashのkyashが本名以外にユーザー名を登録できるようになるまでの話がよかった&quot;&gt;Kyashの&lt;a href=&quot;http://blog.kyash.co/entry/2018/04/04/130823&quot;&gt;Kyashが本名以外にユーザー名を登録できるようになるまでの話&lt;/a&gt;がよかった&lt;/h2&gt;
+&lt;h2 id=&quot;qiitaに微妙な記事が増えて困っている&quot;&gt;Qiitaに微妙な記事が増えて困っている&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/yutakakn/items/b0e36196df474acf9359&quot;&gt;工数見積もりのコツ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;ゲームでよくされるチート手法とその対策 〜アプリケーションハッキング編〜&quot;&gt;ゲームでよくされるチート手法とその対策 〜アプリケーションハッキング編〜&lt;/a&gt;
+    &lt;h2 id=&quot;awsgcpは組み合わせの妙が楽しくてパズルみたい&quot;&gt;AWS/GCPは組み合わせの妙が楽しくてパズルみたい&lt;/h2&gt;
+    &lt;h2 id=&quot;エンジニア副業nightについて1言いわせてくれ&quot;&gt;エンジニア副業Nightについて1言いわせてくれ！&lt;/h2&gt;
+    &lt;h2 id=&quot;日報めんどいエンジニアもgeekbotならめんどくないのかどうか意見が知りたい&quot;&gt;日報めんどいエンジニアもGeekbotならめんどくないのかどうか意見が知りたい&lt;/h2&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://geekbot.io/&quot;&gt;Run asynchronous standup meetings in Slack!&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/5</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20180406-1.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.2 after show</title>
+        <link>https://houka-go-projects.github.io/episode/4</link>
+        <pubDate>Sat, 17 Mar 2018 15:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;show-noteなに使ってる&quot;&gt;show noteなに使ってる？&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://postalk.io/&quot;&gt;postalk&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@postalk_io/&quot;&gt;ブログ&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;やってないと人権がないゲーム&quot;&gt;やってないと人権がないゲーム&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/amagitakayosi/status/974265465710104577&quot;&gt;マザー2やったことない……&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;ソーシャルゲーム楽しめない&quot;&gt;ソーシャルゲーム楽しめない&lt;/h2&gt;
+
+&lt;h2 id=&quot;ノッチはnotificationsのことじゃない恥ずかしい話&quot;&gt;ノッチはNotificationsのことじゃない恥ずかしい話&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/miyagawa/status/974451407049732097&quot;&gt;ノッチはノーティフィケーションのことではないですがｗ&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/miyagawa/status/974458098650722305&quot;&gt;noun: “an indentation or incision on an edge or surface.” ですねｗ&lt;/a&gt;&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/4</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20180317-2.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle></itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.2 flutter exec hello_world.</title>
+        <link>https://houka-go-projects.github.io/episode/3</link>
+        <pubDate>Sat, 17 Mar 2018 14:30:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;給与と交渉その結果として転職&quot;&gt;給与と交渉、その結果として転職:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.nikkei.com/article/DGXMZO27707600V00C18A3TI1000/&quot;&gt;ヤフー、技術者採用に初年度650万円提示　新卒も可&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;クリエイターの志向&quot;&gt;クリエイターの○○志向:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://note.mu/designmemo/n/nfea5e5c8dfb1&quot;&gt;組織としての「価値観」をシェアすること&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;リモートワークに分報はいいかもしれない&quot;&gt;リモートワークに分報はいいかもしれない:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://postd.cc/the-stress-of-remote-working/&quot;&gt;リモートワークのストレス&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;flutter-でヘローワールドした&quot;&gt;flutter でヘローワールドした:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://medium.com/@voluntas/flutter-%E3%81%AB%E8%A7%A6%E3%82%8C%E3%81%A6%E3%81%BF%E3%81%9F-7b223d4d8e77&quot;&gt;Flutterに触れてみた&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://qiita.com/ozaki25/items/e765cc90cd6ace675e69&quot;&gt;Flutter × VSCodeでファイル保存時にホットリロードさせる&lt;/a&gt;&lt;/p&gt;
+
+&lt;h2 id=&quot;8インチタブレット買った話し&quot;&gt;8インチタブレット買った話し:&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://www.amazon.co.jp/gp/product/B074FZLRBT/ref=as_li_ss_tl?ie=UTF8&amp;amp;psc=1&amp;amp;linkCode=ll1&amp;amp;tag=luccafort-22&amp;amp;linkId=53a91085838da4670e22dc89c2ee71bf&quot;&gt;ASUS ZenPad 3 8インチ&lt;/a&gt;買った&lt;/p&gt;
+
+&lt;h2 id=&quot;モチベーション上がらない仕事はやらない&quot;&gt;モチベーション上がらない仕事はやらない:&lt;/h2&gt;
+
+&lt;h2 id=&quot;ep1-after-showの反省会&quot;&gt;ep.1 after showの反省会:&lt;/h2&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/3</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20180317-1.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle>ヤフーの技術者採用とクリエイターの○○思考、Flutter、ep.1 after showについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.1 after show is difficult, huum.</title>
+        <link>https://houka-go-projects.github.io/episode/2</link>
+        <pubDate>Thu, 22 Feb 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;今期のアニメ&quot;&gt;今期のアニメ&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ダーリンインザフランキス
+    &lt;ul&gt;
+      &lt;li&gt;02が可愛くてかっこよくて最高！&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ヴァイオレットエヴァーガーデン
+    &lt;ul&gt;
+      &lt;li&gt;物語が美しく、綺麗でそしてすこし残酷。だがそれがいい。&lt;/li&gt;
+      &lt;li&gt;学校の同期のお兄さんに初めて手紙を出した話しと同僚の田舎にいって家族に出した手紙の話しが特にお気に入り。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;からかい上手の高木さん
+    &lt;ul&gt;
+      &lt;li&gt;ぼくも高木さんみたいな同級生がほしい人生だった。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;ゼノブレイド2が面白い&quot;&gt;ゼノブレイド2が面白い&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;なんか気づいたら300時間くらいやってる&lt;/li&gt;
+  &lt;li&gt;最初は戦闘システムがいまいちわからなくて戦闘が楽しくなかったけどシステムがわかってからは一気に楽しくなった&lt;/li&gt;
+  &lt;li&gt;クエストが山のようにあってやってもやってもキリがない！…だがそれがいい。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;グラベルロードが欲しい&quot;&gt;グラベルロードが欲しい&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;ロードバイクとMTBのいいとこどりみたいな自転車&lt;/li&gt;
+  &lt;li&gt;鴨川をよく自転車で走るがロードバイクで走ると泥やぬかるみの上を走るとブレーキ部分にどろがベッタリとこびりつく&lt;/li&gt;
+  &lt;li&gt;あと鴨川は一部地域だけが綺麗に舗装されているだけでそれ以外は砂利道なので振動がすごい&lt;/li&gt;
+  &lt;li&gt;グラベルロードだとその辺を解決してくれそう、ディスクブレーキだしタイヤもロードよりも太いしでもコンポーネント周りはロードのものが使われているらしい。&lt;/li&gt;
+  &lt;li&gt;ただお値段がいいお値段していてなかなか踏ん切りがつかない。&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/2</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20180302-2.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle>今期のアニメとゼノブレイド2、最近欲しくなったグラベルロードについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.1 are you want job changing?</title>
+        <link>https://houka-go-projects.github.io/episode/1</link>
+        <pubDate>Thu, 22 Feb 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;skype面談は本当によいのか&quot;&gt;Skype面談は本当によいのか？&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&quot;http://catnightwalker.hatenablog.com/entry/cri_skype&quot;&gt;skype面接を言い出した企業を信用すべきか否か問題&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;Web系企業をメインで受けていたのでSkype面談は個人的にはすごく助かった。
+但しあくまで手段の1つでしかないのでそれだけを持ってSkype面談だと相手側のやる気がないというのはちょっと乱暴な意見だとは思う。&lt;/p&gt;
+
+&lt;p&gt;とはいえ、関西でSkype面談と関東でのSkype面談では全然感じが違うので一概に完全に間違っているとも言い切れない。
+DeNAとかYahooみたいな数の暴力に晒されている企業だとSkype面談後こっちからアクションしてもほぼ返答ないとかあって同じような気持ちにはなる。&lt;/p&gt;
+
+&lt;h2 id=&quot;転職活動中に印象の良かった会社&quot;&gt;転職活動中に印象の良かった会社:&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;eishis
+最初からリモートワーク(現段階では京都から引っ越しする気がないと伝えた)だと厳しいのでお断りされた。
+会社で朝もく会、夜にもく会あったりで学習する組織である点。
+未経験エンジニアをアルバイトや研修を通して実務レベルにしている点。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;株式会社アニウェア
+リモートだとアニウェアさんの仕事を楽しめないと思うと伝えられた。
+課題に対して技術的なだけでなくどんどんやっていくマインドなのでリモートだとただの作業になってしまう可能性があり、ぼくの望みを叶えるという点で希望に添えなくなってしまう可能性がある。
+ぼくの立場を考えたフィードバックを返してくれたのが非常に好印象として残っている。&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;裁量労働制と6時間勤務について&quot;&gt;裁量労働制と6時間勤務について&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;裁量労働制だと単純に自分だけの仕事をやるのは良いがチームとしての成果は悪影響がでる&lt;/li&gt;
+  &lt;li&gt;あるいは自分が働いている時間と働いていない時間の境界があいまいになる、この辺の考え方は時雨堂の&lt;a href=&quot;https://gist.github.com/voluntas/85a6a7b5fcacbab72cd342a4056d8cfd&quot;&gt;working_time.rst&lt;/a&gt;にある基本同期をとって仕事をしたほうがチームとしての成果はあがる&lt;/li&gt;
+  &lt;li&gt;裁量労働制よりも6時間勤務のほうが世の中に浸透して欲しい&lt;/li&gt;
+  &lt;li&gt;人間は基本アホなのでパーキンソンの法則が労働時間にも当てはまる&lt;/li&gt;
+  &lt;li&gt;つまり8時間与えても本来6時間で終わる仕事を人間は8時間かけて終わらせる&lt;/li&gt;
+  &lt;li&gt;CEDECで6時間勤務と8時間勤務の人に「仕事時間についてどう思いますか？」というアンケートを取ったところ6時間勤務の場合「短すぎる」と答える人がほとんど、一方8時間勤務の場合は「長すぎる」という解答がほとんどだった。&lt;/li&gt;
+  &lt;li&gt;ここから考えるに人間が1日のうちになし得るタスクは6時間前後であると仮定する。&lt;/li&gt;
+  &lt;li&gt;フルパワーで6時間走りきるとはっきりいって疲れる、だが余裕はあるがダラダラと8時間やるのではどちらのほうが集中しているかは明白であろうと思う。
+なのでぼくは6時間勤務が一般的になってほしいと思っている。
+とはいえそれが当たり前になったらいまの8時間勤務と同じようになってしまうかもしれないとは思っている。
+なによりも裁量労働制に限らないが自由な労働時間にしてしまうと
+    &lt;blockquote&gt;
+      &lt;p&gt;労働時間を自由にしてしまうと、自分が働いていないときに連絡や相談が来る可能性がある。
+という問題がある。
+人によってはこれは非常にストレスになるのでそれなら最初から同期とって働いたほうが効率はいい。&lt;/p&gt;
+    &lt;/blockquote&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;リモートワークで最大化されるのは個人の生産性だよって話し&quot;&gt;リモートワークで最大化されるのは個人の生産性だよって話し&lt;/h2&gt;
+
+&lt;p&gt;&lt;a href=&quot;https://twitter.com/lucca0show/status/969006480866271232&quot;&gt;リモートワーク採用されたら自分の仕事に集中できて最高の生産性出していけるじゃん！って人いるけど大体の場合チームで出す生産性のほうが高いのでリモートワークしても思ったよりバリュー出ない…ってなるので過度な期待はやめるのだ！&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;リモートワークで働くということをたまに勘違いしているひとをみかける。
+みかけるくらいなら別にいいんだが知り合いにもいたりして大体の場合過度な期待をしているので「そんなに甘くねえぞ！」っていいたい。&lt;/p&gt;
+
+&lt;p&gt;ボク自身はリモートワーク推進派だし、いろんな企業がリモートワークしていってほしいと思ってる。
+反面、副業などでリモートワークをしてみて巷で言われるリモートワークの難しさも体感した。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;リモートワークすれば他人に邪魔されない最高！→オフラインだとすぐに聞けたことが聞きにくくなる&lt;/li&gt;
+  &lt;li&gt;集中しているときに声をかけられて作業中断して集中力が途切れる、ということがない！→相手が忙しいのか忙しくないのかわからなくて聞きたいことが聞きにくくなる&lt;/li&gt;
+  &lt;li&gt;邪魔が入らないことで生産性が上がるぞ！→それはあくまでも個人の話し、だいたいの場合開発はチームで行うのでチームの生産性が最大化されていなければ個人の生産性が最大になったところでチームの生産性に劣ることがほとんど。というかそれに勝てるならそもそもチーム組まずに1人でやればいい。&lt;/li&gt;
+  &lt;li&gt;スパーハカーなのでコード書くことだけに専念したい！→チームとしての生産性に寄与しないならそれは兵隊の働き方ではなくて傭兵の働き方なので多分会社員やってるよりフリーランスになったほうがいい。そのほうがチームとしてもそういう仕事だけを頼みやすくなる。&lt;/li&gt;
+  &lt;li&gt;リモートワークなら地方にいても東京みたいな単価の高い仕事を選べる！→そうだね、但し実力があればね。リモートでやりとりできるだけのコミュニケーション能力や言葉の裏側にある意図を読み取る能力ないとキツい。あと性格的な相性なんかもあるので一概に単価上がってハッピーとはなりにくい。
+    &lt;ul&gt;
+      &lt;li&gt;半端に実力あると逆につらくなる。&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;リモートやフレックスタイム制、裁量労働制も結局のところ根幹は同じでチームとしての生産性をどう高めるか？という問題がある。
+大規模開発でもない限りは基本チームというのは同期的に働くほうが圧倒的に生産性が高い、この場合の生産性とはチームのである点に注意。
+個人的感覚だが個人の生産性が80%くらいだったとしてもチームの生産性が100%になっていた場合、より早く、よりうまく開発が進むのはチームだ。
+チームというのはコラボレーションなのでAさんが書いたコードをBさんが思わぬブラッシュアップをかけることがある。
+もちろんその逆もあるのだが1人傭兵がしたいのなら会社組織にいるのはミスマッチだと思う。
+あるいはそういうポジションに異動できないか相談したほうがいい。&lt;/p&gt;
+
+&lt;p&gt;少なくともリモートワークによって生産性があがるは嘘。
+あれは個人の生産性でしかなく会社組織で働く以上だいたいチームを組むはずなのでチームとしての生産性を考えたときにリモートワークは生産性が落ちる。
+リモートワークを長く、うまく続けているチームとかだと変わるのかもしれないけどアメリカYahoo!がリモートワーク辞めたのもこの辺に理由があると思う。
+同期的に仕事をするほうが少なくともまだチームの生産性を高める効果が高い、1年後にはその常識を打ち破るなにかが登場するかもしれないので現時点では…という但し書きがつくけど。&lt;/p&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/1</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20180302-1.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle>skype面談や転職活動、裁量労働制について話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>ep.0 play snobby.fm!</title>
+        <link>https://houka-go-projects.github.io/episode/0</link>
+        <pubDate>Thu, 22 Feb 2018 00:00:00 +0900</pubDate>
+        <description>&lt;h2 id=&quot;snobbyfmについて&quot;&gt;snobby.fmについて&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;カシャップシュ…今週もお疲れさまでした！&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;その前に「おまえだれよ？」&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;luccafort、もしくはlucca0show、るっか和尚という名前があったらだいたいぼくです。&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;んでsnobby.fmってなに？&lt;/li&gt;
+  &lt;li&gt;snobは英語で鼻持ちならない嫌なやつという意味。&lt;/li&gt;
+  &lt;li&gt;snobbyなぼく、ことluccafortが好き放題にやるのでsnobby.fmと名付けた。&lt;/li&gt;
+  &lt;li&gt;元々のきっかけは「&lt;a href=&quot;https://shiganai.org/&quot;&gt;SIerからWeb系に転職したんだが楽しくて仕方がないラジオ&lt;/a&gt;」略してしがないラジオのパーソナリティーのお2人に影響された。&lt;/li&gt;
+  &lt;li&gt;他にもyatteiki.fm、そしてrebuild.fmとAjito.fm、yome.fmなんかにも影響されてpodcastはじめようかなーという雑な感じではじめました。&lt;/li&gt;
+  &lt;li&gt;どれだけ続くかわからないですが最低でも1ヶ月に1回ペースでやっていきたいなと思ってます。&lt;/li&gt;
+  &lt;li&gt;さてこのsnobby.fmのサイトはyatteiki.fmのr7kamura氏の作ったyattecastをforkして使わせてもらっています、感謝。&lt;/li&gt;
+  &lt;li&gt;snobby.fmは独り言というていで気になった話しや近況、身近なことなどを見聞きして思ったことを吐き出していこうと思っています、ブログで書くと主語がでかいとか思わぬ方向からのマサカリで炎上したりするんですがpodcastだとその辺のコンテクストが確保されてるらしいので安心して発言していこうと思います。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;株式会社トマルバに転職します&quot;&gt;株式会社トマルバに転職します&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;本当は転職してからpodcastを取る予定だったがおもったよりも伸びてしまったのでep.0ということで収録を開始した。&lt;/li&gt;
+  &lt;li&gt;多分0話がアップされる頃にはep.1もリリースされている予定。&lt;/li&gt;
+  &lt;li&gt;現職悪いところではなかった、まず残業代が1分でも残業すれば支払われた&lt;/li&gt;
+  &lt;li&gt;実質機能していないとはいえフレックスタイム制なので朝苦手な人にはいいかも、あと推奨はしてないし事情が特殊でないと難しいけど週のうち何日かをリモートで働いている同僚もいる。&lt;/li&gt;
+  &lt;li&gt;じゃあ、何故やめるのか？って話だけど…&lt;/li&gt;
+  &lt;li&gt;いまの会社でエンジニアとしての成長が出来ているように思えなかった。&lt;/li&gt;
+  &lt;li&gt;自分が会社でやりたいことを思いつかなかった。&lt;/li&gt;
+  &lt;li&gt;他にも色々あるけど大きかったのはこの2つ。その他はどうなんだ？って話しだけど…&lt;/li&gt;
+  &lt;li&gt;フリーランスの知り合いとかがいうところの「いままでの自分のスキル」を消費して働いている、みたいな不安を抱え始めた。&lt;/li&gt;
+  &lt;li&gt;新しいことに挑戦したいけどいまの会社だと難しそうだなって思った。挑戦はできるけど時間がかかる、あるいは自己責任でしないといけなくなる。会社にすごい思い入れがあるならとかならともかくそんなリスキーなこと普通選択しないよね？&lt;/li&gt;
+  &lt;li&gt;問題の本質に対する技術的解決を行うという意味ではあまり自分にマッチしなかった。&lt;/li&gt;
+  &lt;li&gt;めっちゃ場当たり的に対応することが多くて、なんでそれをする必要があるの？みたいなことがいっぱいあって精神的に疲れた。&lt;/li&gt;
+  &lt;li&gt;一緒に働いている上司や同僚に対して仕事を通じた信頼を持つことが結局最後まで出来なかった。&lt;/li&gt;
+  &lt;li&gt;全員が全員じゃないけどもやっぱり信頼できる仲間と仕事がしたいとぼくは思っているので、ただの同僚、しかも信頼できない上司のもとで、とかは不満要素が溜まっていった。&lt;/li&gt;
+  &lt;li&gt;信頼は仕事を通じてでしか得ることはできない、…とソニックガーデンの社長倉貫さんが書いた本の中で書かれていてめっちゃ感銘受けた。そして現職を振り返ってみると懇親はともかく信頼は全然できてねえな！って感じた。&lt;/li&gt;
+  &lt;li&gt;同僚とかと話していても知的好奇心を掻き立てるような話題に乏しかった、もっとクリエイティブでエキサイトな刺激が欲しかった。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;技術力が低い人のいうプログラミングは手段でしかないは逃げでしかない&quot;&gt;技術力が低い人のいう「プログラミングは手段でしかない」は逃げでしかない&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;とはいえプログラミングは手段であるということは真実。&lt;/li&gt;
+  &lt;li&gt;手段であるからこそ普段からいつでも使えるように整備していく必要がある。&lt;/li&gt;
+  &lt;li&gt;プログラミングは手段でしかないが、手段にこだわりたいし、こだわっていけるエンジニアでありたい。&lt;/li&gt;
+  &lt;li&gt;平均よりも技術力が低い人も技術力が高い人も「プログラミングは手段」というけれどそこには大きな違いが横たわっている&lt;/li&gt;
+  &lt;li&gt;技術力の高い人は「顧客が解決したい課題」にフォーカスしていることが多い。一方技術力が低い人は「顧客の笑顔や満足させたい」という感情面での訴求をしようとすることが多い。&lt;/li&gt;
+  &lt;li&gt;本来顧客を笑顔にさせたり、満足させるのは結果でしかない。顧客の解決したい課題をしっかりと理解し、それに対するアプローチを間違えなければ結果はついてくるのでそこを目的とするの自体が誤り。&lt;/li&gt;
+  &lt;li&gt;顧客が解決したい課題、つまり問題の本質をきちんと解決することがミッション。&lt;/li&gt;
+  &lt;li&gt;その解決のためには常日頃から技術を磨いて、いろいろな問題に対応できることが条件になる。&lt;/li&gt;
+  &lt;li&gt;プログラミングは手段でしかないが、だからといって技術を軽視していいわけではない。技術力が低い人はこの部分を勘違いしているきらいがある、だからこそぼくは手段にこだわっていきたいし、こだわっていくつもり。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;kindle-oasis買った&quot;&gt;Kindle Oasis買った&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;屋外で読むときには最高。&lt;/li&gt;
+  &lt;li&gt;でも室内だとiPadとかのほうがいい気がする。&lt;/li&gt;
+  &lt;li&gt;悪くはないけど特別良いわけではない。&lt;/li&gt;
+  &lt;li&gt;バッテリーの持ちはいい。&lt;/li&gt;
+  &lt;li&gt;公式スペックの194gという重量は思いの外軽く持っている感覚が薄いのが逆に違和感になる。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;カイゼンジャーニーを読了した&quot;&gt;カイゼンジャーニーを読了した&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ストーリー仕立てになっているためか、主人公である江島をどこかの現場で見かけたことがあるような既視感を感じる。&lt;/li&gt;
+  &lt;li&gt;どこかの現場で体験したよくない状態を「あるある」と思いながら読み進めていける良書。&lt;/li&gt;
+  &lt;li&gt;後半は少しアジャイルに重きをおいているので自分事のように思いづらい面がある、反面あくまで課題に対するアプローチの紹介なので問題があるわけではない。&lt;/li&gt;
+  &lt;li&gt;読んでいて気になった点としてSlackの名前を出してしまうことが気にかかった。チャットのほうが良かったのではないか？&lt;/li&gt;
+  &lt;li&gt;Tech系企業の人ならともかくそうでない人には馴染みの薄いツール名を出してしまうのは悪手とまでは言わないが良い手だったとは思えなかった。&lt;/li&gt;
+  &lt;li&gt;転職を考えている人にこそ読んで欲しいと読みながら感じていた。&lt;/li&gt;
+  &lt;li&gt;転職する前にやることがあるということ、転職を止めるというより短慮からの転職でないか？ということに目を向けてほしいなと読んでいて思った。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;地方で働くwebエンジニアの実情&quot;&gt;地方で働くWebエンジニアの実情&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;東京に比べて圧倒的にWeb系企業が少ない。&lt;/li&gt;
+  &lt;li&gt;給与ってどうなの？ってよく聞かれるけど東京のときよりは減った。ただぼくの場合は元々そんなに高給取りってわけでもなかったので微減って感じ。&lt;/li&gt;
+  &lt;li&gt;給与は減ったけど相対的な所得感は東京にいるときと同じか、東京にいたときよりもいいと思ってる。&lt;/li&gt;
+  &lt;li&gt;地方のほうがQOLが高いように感じる。これは個人差があるものなので実際のところ地方にいってもQOL上がらないってケースはありそう。京都くらいの都市だと多少不便だが、まーなんとかなるな？くらいの気持ちで働ける。&lt;/li&gt;
+  &lt;li&gt;仕事は圧倒的に受託開発が多い。自社サービスは本当に知られていないスタートアップか、入社するのが難しいレベルのベンチャーになるのどちらか2択パターン。あるいは自分で起業するか。&lt;/li&gt;
+  &lt;li&gt;京都に帰ってからフリーランスの知り合いが増えた。これはある一定以上の力量がある人はフリーランスになるほうが稼ぎも待遇も良いからじゃないかな？と思ってる。&lt;/li&gt;
+  &lt;li&gt;そういう意味では地方フリーランスになるのは選択肢としてありだと思う。逆にフリーランスは嫌だ！とかってなると東京ほどの自由度はないのでどこかしら妥協する必要が出てくる。&lt;/li&gt;
+  &lt;li&gt;あと勉強会の数が圧倒的に少ない、京都や大阪はまだマシなほうだけどそれでも東京にいたときみたいな毎日どこかで誰かが勉強会開いてる…みたいなことはない。&lt;/li&gt;
+  &lt;li&gt;株式会社はてなさんが京都ではかなり頑張って勉強会開いてくれていていつも助かってる。定期的に開催している勉強会が本当に少なくてその中でもKyoto.rbというもくもく会に1ヶ月に1回参加してるのだけどこれが大変ありがたいと思っている。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;square-の採用プロセスについて--benoît-quenaudon--medium&quot;&gt;&lt;a href=&quot;https://medium.com/@oldergod/square-%E3%81%AE%E6%8E%A1%E7%94%A8%E3%83%97%E3%83%AD%E3%82%BB%E3%82%B9%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-8d95b8346917?source=linkShare-9d69be473538-1519349562&quot;&gt;Square の採用プロセスについて – Benoît Quenaudon – Medium&lt;/a&gt;&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;ペアプロして技術面接、だけでもお？となったがそれ以上に面接の時間設定や質疑応答がすごくスマートだと感じた。&lt;/li&gt;
+  &lt;li&gt;課題も難しすぎず、かつ特定の技術に特化したものでもなく難易度的にはちょうど面接時間の45分で動くものが出せるレベルに収まっているのがいい&lt;/li&gt;
+  &lt;li&gt;そしてこれが一番個人的にグッドだと思ったんだけど面接官のフィードバックがあることがすごくいいね。&lt;/li&gt;
+  &lt;li&gt;昔サイバーコネクトツーってゲーム会社の会社説明会に参加したんだけどそのときも応募者に真摯でありたいし、彼らは将来のお客さんだからこそ本気で向き合うにはきちんとこっちもフィードバックを返す必要がある…みたいなことをいってて感銘を受けたんだけどそれと同じことやってるのがすごく好印象だった&lt;/li&gt;
+  &lt;li&gt;正直面接受けに来る人とかめっちゃ多いと思うんだけどそれでもきちんとフィードバック返してあげるのは双方にとっていいことじゃないかなと思う。&lt;/li&gt;
+  &lt;li&gt;最後のマネージャーとの面接まで履歴書求められなかったというのが日本と真逆で面白いなと思った。&lt;/li&gt;
+  &lt;li&gt;履歴書の情報ってやっぱりバイアスがかかってしまう情報が多いとぼくは思っていて、それがあると正確に応募者の評価ができないんじゃないかと思う。&lt;/li&gt;
+  &lt;li&gt;特にぼくは大学を中退してしまったので有名大学の卒業生って聞くと「おー！すごい」って単純に思ってしまう。&lt;/li&gt;
+  &lt;li&gt;そうするとその時点でなにかしらのバイアスが発生して同じくらい出来るけど中卒の応募者がいた場合ぼくは有名大学の応募者を採用してしまうと思う。仮に中卒の応募者のほうが優秀でも飛び抜けて優秀でなければ後者を選び続けると思う。&lt;/li&gt;
+  &lt;li&gt;この辺の話しは別にぼくに限らない、問題なのはこのバイアスが無意識下で行われてしまい見える化しにくいということだ、なので極力この手のバイアスはかからない状態にしたほうが好ましいとぼくは思ってる。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;転職するにあたって在職中に転職先を決めてから辞めるべきか辞めてから転職先を探すべきか論&quot;&gt;転職するにあたって在職中に転職先を決めてから辞めるべきか辞めてから転職先を探すべきか？論&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;結論から先にいってしまうと「在職中に転職先を見つけてからやめるべき！」&lt;/li&gt;
+  &lt;li&gt;ただこれは現職のままだと技術的に自分が世間から隔絶してしまう、自分のやりたい仕事がやれないという人向けのアドバイス。&lt;/li&gt;
+  &lt;li&gt;仕事が面白くない、ただただつらい。休日出勤当たり前、ほとんど休みがない。朝起きて仕事のことを考えるといつも憂鬱、生活するのに十分なお金がない…とかって人はまず退職しよう！&lt;/li&gt;
+  &lt;li&gt;この状態ってすでに精神的にかなりキテる状態なのでさっさと辞めて平穏な日常を手に入れよう。&lt;/li&gt;
+  &lt;li&gt;金銭的に貧窮してる人、多分その会社辞めたほうが同じ勤務時間でお金稼げるのでその会社にしがみつくのはやめよう。&lt;/li&gt;
+  &lt;li&gt;この辺のボーダーラインだけどぼくは「働きながら転職活動ができるかどうか？」だと思ってる。&lt;/li&gt;
+  &lt;li&gt;働きながら転職活動するのがきつい、あるいはちょっと負荷が高いけど出来るなら在職中に見つけてやめる、そもそも転職活動の面接時間や日時が休めないとかってなってくると今すぐ辞めたほうがいい。&lt;/li&gt;
+  &lt;li&gt;基本的に辞めてから次の転職先をみつけるほうが圧倒的にスケジュールとか決めやすいし楽なんだけども如何せんタイムリミット付きの転職活動をしていると「これがやりたいからやめた！」という理由が実現できない会社に就職してしまうことがある。&lt;/li&gt;
+  &lt;li&gt;これは期限があるのでその期限内に条件を満たす会社が見つからないかもしれない、だったら多少妥協してもこの会社にはいってみよう…みたいな心理が働くために発生する。というかぼくはそうだった。&lt;/li&gt;
+  &lt;li&gt;焦る必要がないと思っていても将来的なことを考えることが止めれないので、鋼鉄の意思がない限りは在職中にみつけておくほうが取り得る選択肢の幅が広がると思う。&lt;/li&gt;
+  &lt;li&gt;逆に精神的に追い込まれている人はさっさと辞めないと身体か心のどちらかを壊してしまう。&lt;/li&gt;
+  &lt;li&gt;一度壊れてしまうと転職するときにどうしても不利になる点は否めない。&lt;/li&gt;
+  &lt;li&gt;もしものときにハードワークできないんじゃないか？と思われるとそれだけで減点評価されてしまう、その会社で本当にハードワークが必要かどうかは関係なく「できない」という不安要素だけに注目されてしまう。&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h2 id=&quot;台湾人の同僚を見習おうと思う&quot;&gt;台湾人の同僚を見習おうと思う&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;なんのこっちゃ？となると思うけども先日、帰るほんの間際にお客さんから「本日中に対応してください！」という依頼のメールが来た。&lt;/li&gt;
+  &lt;li&gt;正直それを見た瞬間ぼくは「うわーこの時間に面倒くさいなー、どうせどうでもいい内容なんだろうけども」と思っていた。&lt;/li&gt;
+  &lt;li&gt;ところがその台湾人の同僚は「わかりました！明日対応しますね！」と返して颯爽と帰っていった。&lt;/li&gt;
+  &lt;li&gt;まあこう思ったよね、かっこいい！って。&lt;/li&gt;
+  &lt;li&gt;実際お客さんも「了解しました、それでは明日よろしくお願いします！」って返してきていて明日でもいいんかい！って心のなかで総ツッコミしたんだけども。&lt;/li&gt;
+  &lt;li&gt;本当にこの依頼が緊急だったらどうするんだ？とこれだけだと思うんだけど実際にはこのお客さんはいつも「緊急！」とか「なるはや」「本日中」っていう言葉よく使っていた。&lt;/li&gt;
+  &lt;li&gt;相手のほうも実はネイティブな日本人ではない、という前提はあるんだけど詰まるところオオカミ少年的な状態になっていたという前提がある。&lt;/li&gt;
+  &lt;li&gt;つまりメールをみてその同僚は「これは今日やらなくてもいいやつだな」と判断したということになる。&lt;/li&gt;
+  &lt;li&gt;結果、その判断は間違っていなかったということになる。&lt;/li&gt;
+  &lt;li&gt;んで、その話しをTwitterにアップしたらそこそこぼくの中ではバズった。バズったんだけどそれだけで終わりにするには示唆に富む内容だったのでここで明言しておこうと思う。&lt;/li&gt;
+  &lt;li&gt;Twitterに投げたときは「同僚の外国人エンジニア」と紹介したことでミスリードをさせてしまった気がする、いわゆる外国人=白人、黒人というイメージだ。&lt;/li&gt;
+  &lt;li&gt;今回は同じハイコンテクスト文化の台湾人が依頼を断った、ぼくたちもやらなくていい仕事は断ってもいいということを教訓として学んでいこう！と言いたかったのだけどそうでない捉えられ方をしている気がしたのでここで訂正しておく。&lt;/li&gt;
+  &lt;li&gt;「やらなくていいことはやらない、やらなければいけないことなら手短に」だぞ！&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://houka-go-projects.github.io/episode/0</guid>
+        <enclosure url="https://houka-go-projects.github.io/audio/20180224-0.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>luccafort</itunes:author>
+        <itunes:subtitle>snobby.fm、転職、カイゼンジャーニー、Kindle Oasisなどについて話しました。</itunes:subtitle>
+        <itunes:duration>00:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://houka-go-projects.github.io/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

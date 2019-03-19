@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+
+<channel>
+	<title>ありえるえりあ &#187; Podcast</title>
+	<atom:link href="http://dev.ariel-networks.com/wp/archives/category/podcast/feed" rel="self" type="application/rss+xml" />
+	<link>http://dev.ariel-networks.com/wp</link>
+	<description>上から読んでも下から読んでも・・・</description>
+	<lastBuildDate>Fri, 16 Dec 2016 04:13:45 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	
+<!-- podcast_generator="Blubrry PowerPress/7.4" mode="advanced" category="38" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>上から読んでも下から読んでも・・・</itunes:summary>
+	<itunes:author> &#187; Podcast</itunes:author>
+	<itunes:image href="http://dev.ariel-networks.com/wp/wp-content/uploads/powerpress/arieltan.jpg" />
+	<copyright>Ariel Networks, Inc.</copyright>
+	<itunes:subtitle>上から読んでも下から読んでも・・・</itunes:subtitle>
+	<image>
+		<title>ありえるえりあ &#187; Podcast</title>
+		<url>http://dev.ariel-networks.com/wp/wp-content/uploads/powerpress/arieltan.jpg</url>
+		<link>http://dev.ariel-networks.com/wp/archives/category/podcast</link>
+	</image>
+	<rawvoice:frequency>Monthly</rawvoice:frequency>
+<atom:link rel="hub" href="http://pubsubhubbub.appspot.com" />
+	<atom:link rel="hub" href="http://superfeedr.com/hubbub" />
+		<item>
+		<title>ありえるらじお #2: 最近興味あること―禅と武士道と人工衛星</title>
+		<link>http://dev.ariel-networks.com/wp/archives/683</link>
+		<comments>http://dev.ariel-networks.com/wp/archives/683#comments</comments>
+		<pubDate>Thu, 09 Jun 2011 16:00:04 +0000</pubDate>
+		<dc:creator><![CDATA[深町 英太郎]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://dev.ariel-networks.com/wp/?p=683</guid>
+		<description><![CDATA[プログラマが普段どんな本を読んでいるのか。 アリエルの技術者がどんなことに興味を持っているのか。 今回はそれぞれが最近読んだ本について語りました。 技術書ばかりが出てくると思いきや… いつもの深町、岩永に加え、松山 そし...  <a href="http://dev.ariel-networks.com/wp/archives/683" class="more-link" title="Read ありえるらじお #2: 最近興味あること―禅と武士道と人工衛星">Read more &#187;</a>]]></description>
+				<content:encoded><![CDATA[<p class="lead">プログラマが普段どんな本を読んでいるのか。<br />
+アリエルの技術者がどんなことに興味を持っているのか。<br />
+今回はそれぞれが最近読んだ本について語りました。<br />
+技術書ばかりが出てくると思いきや…<br />
+いつもの深町、岩永に加え、松山<br />
+そして前回のリベンジに燃える大山を招いてお送りします。</p>
+<p>[2011/06/08 | 25:06]</p>
+<div class="book"><a href="http://www.amazon.co.jp/o/ASIN/4003311817/"><img src="http://rcm-images.amazon.com/images/P/4003311817.09.MZZZZZZZ.jpg" border="0" /><br />武士道 (岩波文庫): 新渡戸 稲造, 矢内原 忠雄</a></div>
+<div class="book"><a href="http://www.amazon.co.jp/o/ASIN/4480021574/"><img src="http://rcm-images.amazon.com/images/P/4480021574.09.MZZZZZZZ.jpg" border="0" /><br />禅 (ちくま文庫): 鈴木大拙</a></div>
+<div class="book"><a href="http://www.amazon.co.jp/o/ASIN/4767803993/"><img src="http://rcm-images.amazon.com/images/P/4767803993.09.MZZZZZZZ.jpg" border="0" /><br />キューブサット物語~超小型手作り衛星、宇宙へ: 川島 レイ</a></div>
+<div style="float: right; margin-left: 10px;"><a href="http://twitter.com/share?url=http://dev.ariel-networks.com/wp/archives/683&via=&text=ありえるらじお #2: 最近興味あること―禅と武士道と人工衛星&related=:&lang=en&count=horizontal" class="twitter-share-button">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div style="float: right; margin-left: 10px;"><a href="http://twitter.com/share?url=http://dev.ariel-networks.com/wp/archives/683&via=&text=ありえるらじお #2: 最近興味あること―禅と武士道と人工衛星&related=:&lang=en&count=horizontal" class="twitter-share-button">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>]]></content:encoded>
+			<wfw:commentRss>http://dev.ariel-networks.com/wp/archives/683/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://dev.ariel-networks.com/wp/wp-content/uploads/2011/06/2043e0c8cf488d7fb219d74d6ed56d98.mp3" length="6029605" type="audio/mpeg" />
+		<itunes:subtitle>プログラマが普段どんな本を読んでいるのか。 アリエルの技術者がどんなことに興味を持っているのか。 今回はそれぞれが最近読んだ本について語りました。 技術書ばかりが出てくると思いきや… いつもの深町、岩永に加え、松山 そし...  Read more »</itunes:subtitle>
+		<itunes:summary>プログラマが普段どんな本を読んでいるのか。 アリエルの技術者がどんなことに興味を持っているのか。 今回はそれぞれが最近読んだ本について語りました。 技術書ばかりが出てくると思いきや… いつもの深町、岩永に加え、松山 そし...  Read more »</itunes:summary>
+		<itunes:author> &#187; Podcast</itunes:author>
+		<itunes:duration>25:06</itunes:duration>
+	</item>
+		<item>
+		<title>ありえるらじお #1: 投げる矢は多いほうがいい</title>
+		<link>http://dev.ariel-networks.com/wp/archives/592</link>
+		<comments>http://dev.ariel-networks.com/wp/archives/592#comments</comments>
+		<pubDate>Mon, 30 May 2011 06:47:14 +0000</pubDate>
+		<dc:creator><![CDATA[深町 英太郎]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://dev.ariel-networks.com/wp/?p=592</guid>
+		<description><![CDATA[今回は第0回と違った趣向で、テーマディスカッションとかしてみようぜ！と言ってやってみたものの、いまいち議論が白熱しないアリエル。 結局テーマディスカッションはカットされ、司会の深町、岩永をメインとし、普段はよく喋るのにな...  <a href="http://dev.ariel-networks.com/wp/archives/592" class="more-link" title="Read ありえるらじお #1: 投げる矢は多いほうがいい">Read more &#187;</a>]]></description>
+				<content:encoded><![CDATA[<p class="lead">今回は<a href="http://dev.ariel-networks.com/wp/archives/579">第0回</a>と違った趣向で、テーマディスカッションとかしてみようぜ！と言ってやってみたものの、いまいち議論が白熱しないアリエル。<br />
+結局テーマディスカッションはカットされ、司会の深町、岩永をメインとし、普段はよく喋るのになぜか黙りっきりの大山をゲストとして招いて、<br />
+前回同様最近見つけたWebサービスをぬるく紹介します。</p>
+<p>また、今回から<a href="http://itunes.apple.com/jp/podcast/id439630074">ありえるらじおがiTunesでPodcast配信</a>されます。Apple製品に抵抗のない人はどうぞご利用ください。</p>
+<p>抵抗がある人には<a href="http://dev.ariel-networks.com/wp/archives/category/podcast/feed">RSS配信</a>もあります。</p>
+<p>感想などはTwitterでハッシュタグ「<a href="https://twitter.com/#!/search/%23arielradio">#arielradio</a>」をつけてつぶやいてくれれば拾います。</p>
+<p>[2011/05/27 | 20:50]</p>
+<ul>
+<li><a href="http://groupgifts.ebay.com/">Group gifts</a></li>
+<li><a href="http://summify.com/">Summify &#8211; Summary of Your Social News Feeds!</a></li>
+<li><a href="http://www.arrow-arrow.com/">Arrow</a></li>
+</ul>
+<div style="float: right; margin-left: 10px;"><a href="http://twitter.com/share?url=http://dev.ariel-networks.com/wp/archives/592&via=&text=ありえるらじお #1: 投げる矢は多いほうがいい&related=:&lang=en&count=horizontal" class="twitter-share-button">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div style="float: right; margin-left: 10px;"><a href="http://twitter.com/share?url=http://dev.ariel-networks.com/wp/archives/592&via=&text=ありえるらじお #1: 投げる矢は多いほうがいい&related=:&lang=en&count=horizontal" class="twitter-share-button">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>]]></content:encoded>
+			<wfw:commentRss>http://dev.ariel-networks.com/wp/archives/592/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://dev.ariel-networks.com/wp/wp-content/uploads/2011/05/ac075d1005c058bfb7c3cb7e4b5f8631.mp3" length="5004246" type="audio/mpeg" />
+		<itunes:subtitle>今回は第0回と違った趣向で、テーマディスカッションとかしてみようぜ！と言ってやってみたものの、いまいち議論が白熱しないアリエル。 結局テーマディスカッションはカットされ、司会の深町、岩永をメインとし、普段はよく喋るのにな...  Read more »</itunes:subtitle>
+		<itunes:summary>今回は第0回と違った趣向で、テーマディスカッションとかしてみようぜ！と言ってやってみたものの、いまいち議論が白熱しないアリエル。 結局テーマディスカッションはカットされ、司会の深町、岩永をメインとし、普段はよく喋るのにな...  Read more »</itunes:summary>
+		<itunes:author> &#187; Podcast</itunes:author>
+		<itunes:duration>20:50</itunes:duration>
+	</item>
+		<item>
+		<title>ありえるらじお #0: Social Patron, Tournament and HTML Hosting</title>
+		<link>http://dev.ariel-networks.com/wp/archives/579</link>
+		<comments>http://dev.ariel-networks.com/wp/archives/579#comments</comments>
+		<pubDate>Mon, 23 May 2011 08:51:55 +0000</pubDate>
+		<dc:creator><![CDATA[深町 英太郎]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+
+		<guid isPermaLink="false">http://dev.ariel-networks.com/wp/?p=579</guid>
+		<description><![CDATA[最初の第0回は主催の深町、岩永、松山で最近見つけたWebサービスを紹介しつつ、途中参加の菅原、あと最後に通りすがりの大物ゲストを交えて配信します。 [2011/04/12 &#124; 12:09] Grow! – Social ...  <a href="http://dev.ariel-networks.com/wp/archives/579" class="more-link" title="Read ありえるらじお #0: Social Patron, Tournament and HTML Hosting">Read more &#187;</a>]]></description>
+				<content:encoded><![CDATA[<p class="lead">最初の第0回は主催の深町、岩永、松山で最近見つけたWebサービスを紹介しつつ、途中参加の菅原、あと最後に通りすがりの大物ゲストを交えて配信します。</p>
+<p>[2011/04/12 | 12:09]</p>
+<ul>
+<li><a href="http://growbutton.com/">Grow! – Social Patron Platform –</a></li>
+<li><a href="http://betterbracketmaker.com/">Better Bracket Maker</a></li>
+<li><a href="http://pastehtml.com/">Paste HTML: free anonymous HTML hosting</a></li>
+</ul>
+<div style="float: right; margin-left: 10px;"><a href="http://twitter.com/share?url=http://dev.ariel-networks.com/wp/archives/579&via=&text=ありえるらじお #0: Social Patron, Tournament and HTML Hosting&related=:&lang=en&count=horizontal" class="twitter-share-button">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div><div style="float: right; margin-left: 10px;"><a href="http://twitter.com/share?url=http://dev.ariel-networks.com/wp/archives/579&via=&text=ありえるらじお #0: Social Patron, Tournament and HTML Hosting&related=:&lang=en&count=horizontal" class="twitter-share-button">Tweet</a><script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script></div>]]></content:encoded>
+			<wfw:commentRss>http://dev.ariel-networks.com/wp/archives/579/feed</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+<enclosure url="http://dev.ariel-networks.com/wp/wp-content/uploads/2011/05/0_-Social-Patron-Tournament-and-HTML-Hosting.mp3" length="2920406" type="audio/mpeg" />
+		<itunes:subtitle>最初の第0回は主催の深町、岩永、松山で最近見つけたWebサービスを紹介しつつ、途中参加の菅原、あと最後に通りすがりの大物ゲストを交えて配信します。 [2011/04/12 | 12:09] Grow! – Social ...  Read more »</itunes:subtitle>
+		<itunes:summary>最初の第0回は主催の深町、岩永、松山で最近見つけたWebサービスを紹介しつつ、途中参加の菅原、あと最後に通りすがりの大物ゲストを交えて配信します。 [2011/04/12 | 12:09] Grow! – Social ...  Read more »</itunes:summary>
+		<itunes:author> &#187; Podcast</itunes:author>
+		<itunes:duration>12:09</itunes:duration>
+	</item>
+	</channel>
+</rss>

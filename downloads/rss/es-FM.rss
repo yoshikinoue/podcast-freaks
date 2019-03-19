@@ -1,0 +1,793 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:161637047/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:161637047/sounds.rss?before=225203612" rel="next" type="application/rss+xml"/>
+        <title>es/FM - SF なトーク番組 : エスノエフエム</title>
+        <link>http://theodoor.jp/</link>
+        <pubDate>Sun, 17 Jul 2016 02:27:02 +0000</pubDate>
+        <lastBuildDate>Sun, 17 Jul 2016 02:27:02 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>SF なトーク番組 : エスノエフエム
+
+これからの未来に起こり得る、様々な可能性を考察するための番組です。毎回素敵なゲストを迎えて、対談形式でお送りします。</description>
+        <itunes:subtitle>SF なトーク番組 : エスノエフエム
+
+これからの未来に起こり得る、様々な可能性を考察するための…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>es/FM</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>セオ商事</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000179573633-oe4ikb-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000179573633-oe4ikb-original.jpg</url>
+          <title>es/FM</title>
+          <link>http://theodoor.jp/</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/274027652</guid>
+      <title>第 5 回：宇宙航空研究開発号（ゲスト JAXA研究員 細田聡史さん）後編</title>
+      <pubDate>Sun, 07 Aug 2016 08:37:33 +0000</pubDate>
+      <link>https://soundcloud.com/es-no-fm/5a-2</link>
+      <itunes:duration>00:28:08</itunes:duration>
+      <itunes:author>セオ商事</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ゲスト :
+JAXA研究員 細田聡史さん
+
+聞き手 :
+瀬尾（twitter : @theodoorjp）
+新多さん（twitter : @ar_tama）
+
+BGM :
+新多さん（with MakeNoiseMusic shared System）
+
+＜後編＞ 2016.7.4
+
+今回はJAXA研究員として、はやぶさ / はやぶさ2のイオンエンジン開発を担当された細田聡史さんに、話しをお伺いさせていただきました。
+
+- トップをねらえ / 対消滅エンジンについて
+- 反物質推進勉強会＠JAXA
+- 次の目標は火星に人を送ること！
+- 聞くところによるとエヴァQの冒頭に詳しいとか
+- ブレーキを踏むと速度が上がる軌道力学
+- SF原体験 その1「ドラえもん のび太の宇宙開拓史」
+- SF原体験 その2「ファミコン スターラスター」
+- SFの人にはJAXAにもっと来て欲しい
+- これからの宇宙開発のあり方
+- 探査とは資源的な欲求
+- 火星で「地産地消」ならぬ「宇産宇消」！
+- 火星で燃料や資材を作る研究
+- 宇宙開発はハイテクとローテクで進化していく
+
+収録場所 : THE GUILD
+
+itunes link : </itunes:summary>
+      <itunes:subtitle>ゲスト :
+JAXA研究員 細田聡史さん
+
+聞き手 :
+瀬尾（twitter : @theodoo…</itunes:subtitle>
+      <description>ゲスト :
+JAXA研究員 細田聡史さん
+
+聞き手 :
+瀬尾（twitter : @theodoorjp）
+新多さん（twitter : @ar_tama）
+
+BGM :
+新多さん（with MakeNoiseMusic shared System）
+
+＜後編＞ 2016.7.4
+
+今回はJAXA研究員として、はやぶさ / はやぶさ2のイオンエンジン開発を担当された細田聡史さんに、話しをお伺いさせていただきました。
+
+- トップをねらえ / 対消滅エンジンについて
+- 反物質推進勉強会＠JAXA
+- 次の目標は火星に人を送ること！
+- 聞くところによるとエヴァQの冒頭に詳しいとか
+- ブレーキを踏むと速度が上がる軌道力学
+- SF原体験 その1「ドラえもん のび太の宇宙開拓史」
+- SF原体験 その2「ファミコン スターラスター」
+- SFの人にはJAXAにもっと来て欲しい
+- これからの宇宙開発のあり方
+- 探査とは資源的な欲求
+- 火星で「地産地消」ならぬ「宇産宇消」！
+- 火星で燃料や資材を作る研究
+- 宇宙開発はハイテクとローテクで進化していく
+
+収録場所 : THE GUILD
+
+itunes link : </description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/274027652-es-no-fm-5a-2.mp3" length="33761782"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000171810798-ge8caw-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/274023937</guid>
+      <title>第 5 回：宇宙航空研究開発号（ゲスト JAXA研究員 細田聡史さん）前編</title>
+      <pubDate>Thu, 28 Jul 2016 03:08:44 +0000</pubDate>
+      <link>https://soundcloud.com/es-no-fm/5a-1</link>
+      <itunes:duration>00:32:10</itunes:duration>
+      <itunes:author>セオ商事</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ゲスト :
+JAXA研究員 細田聡史さん
+
+聞き手 :
+瀬尾（twitter : @theodoorjp）
+新多さん（twitter : @ar_tama）
+
+BGM :
+新多さん（with MakeNoiseMusic shared System）
+
+タイトル BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2016.7.4
+
+今回はJAXA研究員として、はやぶさ / はやぶさ2のイオンエンジン開発を担当された細田聡史さんに、話しをお伺いさせていただきました。
+
+- 光は遅い！？宇宙との通信速度。
+- マイナス20乗ワット！宇宙との交信技術について
+- 納期は星の巡りが決める。イオンエンジン開発の日々
+- 1円玉1個分の重みと同じ！微弱エネルギーのイオンエンジン
+- イオンエンジン開発の歴史
+- トップをねらえ!からイオンエンジン開発に携わるまで
+- さまざまなエンジン。ホールスラスタ
+- 新しい宇宙の技術を民間と開発する宇宙探査イノベーションハブ
+- 2020年には月に基地ができる。未来はすぐ！
+
+Link : イオンエンジンによる小惑星探査機「はやぶさ」の帰還運用
+http://www.jspf.or.jp/Journal/PDF_JSPF/jspf2010_05/jspf2010_05-282.pdf
+
+収録場所 : THE GUILD
+
+itunes link : https://itunes.apple.com/jp/podcast/di-5-hui-yu-zhou-hang-kong/id1044523319?i=1000373226314&amp;mt=2</itunes:summary>
+      <itunes:subtitle>ゲスト :
+JAXA研究員 細田聡史さん
+
+聞き手 :
+瀬尾（twitter : @theodoo…</itunes:subtitle>
+      <description>ゲスト :
+JAXA研究員 細田聡史さん
+
+聞き手 :
+瀬尾（twitter : @theodoorjp）
+新多さん（twitter : @ar_tama）
+
+BGM :
+新多さん（with MakeNoiseMusic shared System）
+
+タイトル BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2016.7.4
+
+今回はJAXA研究員として、はやぶさ / はやぶさ2のイオンエンジン開発を担当された細田聡史さんに、話しをお伺いさせていただきました。
+
+- 光は遅い！？宇宙との通信速度。
+- マイナス20乗ワット！宇宙との交信技術について
+- 納期は星の巡りが決める。イオンエンジン開発の日々
+- 1円玉1個分の重みと同じ！微弱エネルギーのイオンエンジン
+- イオンエンジン開発の歴史
+- トップをねらえ!からイオンエンジン開発に携わるまで
+- さまざまなエンジン。ホールスラスタ
+- 新しい宇宙の技術を民間と開発する宇宙探査イノベーションハブ
+- 2020年には月に基地ができる。未来はすぐ！
+
+Link : イオンエンジンによる小惑星探査機「はやぶさ」の帰還運用
+http://www.jspf.or.jp/Journal/PDF_JSPF/jspf2010_05/jspf2010_05-282.pdf
+
+収録場所 : THE GUILD
+
+itunes link : https://itunes.apple.com/jp/podcast/di-5-hui-yu-zhou-hang-kong/id1044523319?i=1000373226314&amp;mt=2</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/274023937-es-no-fm-5a-1.mp3" length="38615855"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000171808218-miht94-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/238468210</guid>
+      <title>第 4 回：ジャズ号（ゲスト 吉田隆一さん）後編</title>
+      <pubDate>Fri, 25 Dec 2015 07:04:15 +0000</pubDate>
+      <link>https://soundcloud.com/es-no-fm/4a-2</link>
+      <itunes:duration>00:49:19</itunes:duration>
+      <itunes:author>セオ商事</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ゲスト :
+サックス奏者 吉田隆一さん（twitter : @hi_doi）
+
+聞き手 :
+瀬尾（twitter : @theodoorjp）
+新多さん（twitter : @ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜後編＞ 2015.12.14
+
+今回はバリトンサックス奏者であり、SF ファンの鏡である吉田隆一さんに、話しをお伺いさせていただきました
+
+訂正 :
+13:05 「不思議の海のナディア」の &quot;エレクトラさん&quot; のことを、あるまじきことにインタビュアーが誤って &quot;クレオパトラさん&quot; と呼んでしまっていますが（13:05〜）、正しくは &quot;エレクトラさん&quot; になります
+
+20:58 吉田さんの人工知能に関する発言で「グレッグ・ベアの考える〜」は、正しくは「グレッグ・イーガンの考える〜」の言い間違いと、補足をいただきました
+
+- 後半はアニメの話しをしましょう
+- マミさんはオレだ！
+- 紹介状といえば「月下の棋士」
+- 原田知世さんについて
+- 管楽器は人類が最初につくったロボット
+- 人工知能と魂について。海外と国内の捉え方の違いと変遷（攻殻機動隊 / ディアスポラ / エアギア / 魂の駆動体 / ヨハネスブルグの天使たち etc）
+- 人工知能のための哲学塾
+- 加藤総夫さん（脳天記）
+- 一番即物的な音とは / デレク・ベイリー
+- 音から人はどのような印象を持つかの探求
+- 西島大介さんのピアノの魅力
+- 音楽を聴くことで、世界が違って見える
+
+
+収録場所 : THE GUILD
+
+Link : Ryuichi Yoshida Official Web
+http://yoshidaryuichi.com/
+
+Link : 紹介状の写真
+https://www.instagram.com/p/98i-NSvvMV/
+
+Link : 加藤総夫さんの著書
+http://www.amazon.co.jp/%E5%8A%A0%E8%97%A4-%E7%B7%8F%E5%A4%AB/e/B004LA3ZUC
+
+itunes link : itunes.apple.com/jp/podcast/id1044523319</itunes:summary>
+      <itunes:subtitle>ゲスト :
+サックス奏者 吉田隆一さん（twitter : @hi_doi）
+
+聞き手 :
+瀬尾（…</itunes:subtitle>
+      <description>ゲスト :
+サックス奏者 吉田隆一さん（twitter : @hi_doi）
+
+聞き手 :
+瀬尾（twitter : @theodoorjp）
+新多さん（twitter : @ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜後編＞ 2015.12.14
+
+今回はバリトンサックス奏者であり、SF ファンの鏡である吉田隆一さんに、話しをお伺いさせていただきました
+
+訂正 :
+13:05 「不思議の海のナディア」の &quot;エレクトラさん&quot; のことを、あるまじきことにインタビュアーが誤って &quot;クレオパトラさん&quot; と呼んでしまっていますが（13:05〜）、正しくは &quot;エレクトラさん&quot; になります
+
+20:58 吉田さんの人工知能に関する発言で「グレッグ・ベアの考える〜」は、正しくは「グレッグ・イーガンの考える〜」の言い間違いと、補足をいただきました
+
+- 後半はアニメの話しをしましょう
+- マミさんはオレだ！
+- 紹介状といえば「月下の棋士」
+- 原田知世さんについて
+- 管楽器は人類が最初につくったロボット
+- 人工知能と魂について。海外と国内の捉え方の違いと変遷（攻殻機動隊 / ディアスポラ / エアギア / 魂の駆動体 / ヨハネスブルグの天使たち etc）
+- 人工知能のための哲学塾
+- 加藤総夫さん（脳天記）
+- 一番即物的な音とは / デレク・ベイリー
+- 音から人はどのような印象を持つかの探求
+- 西島大介さんのピアノの魅力
+- 音楽を聴くことで、世界が違って見える
+
+
+収録場所 : THE GUILD
+
+Link : Ryuichi Yoshida Official Web
+http://yoshidaryuichi.com/
+
+Link : 紹介状の写真
+https://www.instagram.com/p/98i-NSvvMV/
+
+Link : 加藤総夫さんの著書
+http://www.amazon.co.jp/%E5%8A%A0%E8%97%A4-%E7%B7%8F%E5%A4%AB/e/B004LA3ZUC
+
+itunes link : itunes.apple.com/jp/podcast/id1044523319</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/238468210-es-no-fm-4a-2.mp3" length="71018706"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000140299242-cx1hq1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/238466452</guid>
+      <title>第 4 回：ジャズ号（ゲスト 吉田隆一さん）前編</title>
+      <pubDate>Thu, 24 Dec 2015 10:10:22 +0000</pubDate>
+      <link>https://soundcloud.com/es-no-fm/4a-1</link>
+      <itunes:duration>00:32:27</itunes:duration>
+      <itunes:author>セオ商事</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ゲスト :
+サックス奏者 吉田隆一さん（twitter : @hi_doi）
+
+聞き手 :
+瀬尾（twitter : @theodoorjp）
+新多さん（twitter : @ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2015.12.14
+
+今回はバリトンサックス奏者であり、SF ファンの鏡である吉田隆一さんに、話しをお伺いさせていただきました。
+
+- 新垣隆さんとのデュオについて
+- 神林長平「戦闘妖精雪風」と人工知能
+- 思弁小説とは
+- 水見稜「マインドイーター」 / カート・ヴォネガット
+- 吉田隆一さんのバンド「Black Sheep」と SF
+- ジャンルを超えて、点と点に線を引くこと
+- 音を聴いて感動するって不思議じゃないですか？
+- インターネットは意外とつながっていない。つながるには場所が必要
+
+収録場所 : THE GUILD
+
+Link : Ryuichi Yoshida Official Web
+http://yoshidaryuichi.com/
+
+itunes link : itunes.apple.com/jp/podcast/id1044523319</itunes:summary>
+      <itunes:subtitle>ゲスト :
+サックス奏者 吉田隆一さん（twitter : @hi_doi）
+
+聞き手 :
+瀬尾（…</itunes:subtitle>
+      <description>ゲスト :
+サックス奏者 吉田隆一さん（twitter : @hi_doi）
+
+聞き手 :
+瀬尾（twitter : @theodoorjp）
+新多さん（twitter : @ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2015.12.14
+
+今回はバリトンサックス奏者であり、SF ファンの鏡である吉田隆一さんに、話しをお伺いさせていただきました。
+
+- 新垣隆さんとのデュオについて
+- 神林長平「戦闘妖精雪風」と人工知能
+- 思弁小説とは
+- 水見稜「マインドイーター」 / カート・ヴォネガット
+- 吉田隆一さんのバンド「Black Sheep」と SF
+- ジャンルを超えて、点と点に線を引くこと
+- 音を聴いて感動するって不思議じゃないですか？
+- インターネットは意外とつながっていない。つながるには場所が必要
+
+収録場所 : THE GUILD
+
+Link : Ryuichi Yoshida Official Web
+http://yoshidaryuichi.com/
+
+itunes link : itunes.apple.com/jp/podcast/id1044523319</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/238466452-es-no-fm-4a-1.mp3" length="46732352"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000140297883-33zldd-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234926367</guid>
+      <title>第 3 回：ニュートン号（ゲスト 板倉さん 高嶋さん）後編</title>
+      <pubDate>Mon, 30 Nov 2015 06:03:15 +0000</pubDate>
+      <link>https://soundcloud.com/es-no-fm/3a-2</link>
+      <itunes:duration>00:30:30</itunes:duration>
+      <itunes:author>セオ商事</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ゲスト :
+ニュートンプレス 板倉さん
+ニュートンプレス 高嶋さん
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+新多さん（twitter : ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2015.11.18
+
+- ネタの探し方
+- 相対性理論 → 時空 → タイムトラベル
+- これから来るトピック「高次元」
+- 重力が弱いのが問題？
+- あたり前のことを覆されるサイエンスの面白さ
+- 量子コンピューター
+- 分野を超えることが楽しい
+- シャコのパンチ力は 70 newton
+
+収録場所 : ニュートンプレス
+
+Link : ニュートン「高次元の世界 / シャコの特集」
+http://www.newtonpress.co.jp/newton.html
+
+itunes link : itunes.apple.com/jp/podcast/id1044523319</itunes:summary>
+      <itunes:subtitle>ゲスト :
+ニュートンプレス 板倉さん
+ニュートンプレス 高嶋さん
+
+聞き手 :
+瀬尾（twitt…</itunes:subtitle>
+      <description>ゲスト :
+ニュートンプレス 板倉さん
+ニュートンプレス 高嶋さん
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+新多さん（twitter : ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2015.11.18
+
+- ネタの探し方
+- 相対性理論 → 時空 → タイムトラベル
+- これから来るトピック「高次元」
+- 重力が弱いのが問題？
+- あたり前のことを覆されるサイエンスの面白さ
+- 量子コンピューター
+- 分野を超えることが楽しい
+- シャコのパンチ力は 70 newton
+
+収録場所 : ニュートンプレス
+
+Link : ニュートン「高次元の世界 / シャコの特集」
+http://www.newtonpress.co.jp/newton.html
+
+itunes link : itunes.apple.com/jp/podcast/id1044523319</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234926367-es-no-fm-3a-2.mp3" length="43924293"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000137526630-xx1lbb-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/234925780</guid>
+      <title>第 3 回：ニュートン号（ゲスト 板倉さん 高嶋さん）前編</title>
+      <pubDate>Mon, 30 Nov 2015 06:02:31 +0000</pubDate>
+      <link>https://soundcloud.com/es-no-fm/3a-1</link>
+      <itunes:duration>00:38:43</itunes:duration>
+      <itunes:author>セオ商事</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ゲスト :
+ニュートンプレス 板倉さん
+ニュートンプレス 高嶋さん
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+新多さん（twitter : ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2015.11.18
+
+- 自己紹介
+- インターステラーウォッチについて
+- 正しいウラシマ効果とは
+- 相対性理論
+- 重力でも時間は遅れる？
+- ニュートンの特集の決め方について
+- 虚数特集について
+
+収録場所 : ニュートンプレス
+
+Link : 恒星間旅行者のためのWatch Face 
+http://www.newtonpress.co.jp/Interstellar_WatchFace151013.html
+
+Link : 恒星間旅行者のための相対論時計（議論まとめ）
+http://togetter.com/li/886903
+
+Link : ニュートン別冊　“魔法の数” 虚数
+http://www.newtonpress.co.jp/separate/back_mathematics/mook_151015_a.html
+
+itunes link : itunes.apple.com/jp/podcast/id1044523319</itunes:summary>
+      <itunes:subtitle>ゲスト :
+ニュートンプレス 板倉さん
+ニュートンプレス 高嶋さん
+
+聞き手 :
+瀬尾（twitt…</itunes:subtitle>
+      <description>ゲスト :
+ニュートンプレス 板倉さん
+ニュートンプレス 高嶋さん
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+新多さん（twitter : ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2015.11.18
+
+- 自己紹介
+- インターステラーウォッチについて
+- 正しいウラシマ効果とは
+- 相対性理論
+- 重力でも時間は遅れる？
+- ニュートンの特集の決め方について
+- 虚数特集について
+
+収録場所 : ニュートンプレス
+
+Link : 恒星間旅行者のためのWatch Face 
+http://www.newtonpress.co.jp/Interstellar_WatchFace151013.html
+
+Link : 恒星間旅行者のための相対論時計（議論まとめ）
+http://togetter.com/li/886903
+
+Link : ニュートン別冊　“魔法の数” 虚数
+http://www.newtonpress.co.jp/separate/back_mathematics/mook_151015_a.html
+
+itunes link : itunes.apple.com/jp/podcast/id1044523319</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/234925780-es-no-fm-3a-1.mp3" length="55755255"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000137526181-vwpr0f-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/230877840</guid>
+      <title>第 2 回：インターフェース号（ゲスト 安藤幸央さん）後編</title>
+      <pubDate>Wed, 04 Nov 2015 02:14:57 +0000</pubDate>
+      <link>https://soundcloud.com/es-no-fm/2a-2</link>
+      <itunes:duration>00:28:52</itunes:duration>
+      <itunes:author>セオ商事</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>itunes link : https://itunes.apple.com/jp/podcast/id1044523319
+
+ゲスト :
+CG Programmer / UX Researcher 安藤幸央さん（twitter : yukio_andoh）
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+新多さん（twitter : ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜後編＞ 2015.10.29
+
+- マイノリティリポートのボールについて
+- フィリップ・K・ディック
+- 思弁的な SF（Speculated Fiction）
+- VR（Oculus Rift）と酔い止めの Tips
+- 3D の UI
+- NHK 技研公開
+- 音のデザインふたたび
+- Shazam について
+- 新しい世代にとっての SF
+
+
+収録会場提供 : THE GUILD
+</itunes:summary>
+      <itunes:subtitle>itunes link : https://itunes.apple.com/jp/podcast…</itunes:subtitle>
+      <description>itunes link : https://itunes.apple.com/jp/podcast/id1044523319
+
+ゲスト :
+CG Programmer / UX Researcher 安藤幸央さん（twitter : yukio_andoh）
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+新多さん（twitter : ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜後編＞ 2015.10.29
+
+- マイノリティリポートのボールについて
+- フィリップ・K・ディック
+- 思弁的な SF（Speculated Fiction）
+- VR（Oculus Rift）と酔い止めの Tips
+- 3D の UI
+- NHK 技研公開
+- 音のデザインふたたび
+- Shazam について
+- 新しい世代にとっての SF
+
+
+収録会場提供 : THE GUILD
+</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/230877840-es-no-fm-2a-2.mp3" length="41571392"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000134661704-ome0gc-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/230877715</guid>
+      <title>第 2 回：インターフェース号（ゲスト 安藤幸央さん）前編</title>
+      <pubDate>Sun, 01 Nov 2015 15:18:57 +0000</pubDate>
+      <link>https://soundcloud.com/es-no-fm/2a-1</link>
+      <itunes:duration>00:34:03</itunes:duration>
+      <itunes:author>セオ商事</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>itunes link : https://itunes.apple.com/jp/podcast/id1044523319
+
+ゲスト :
+CG Programmer / UX Researcher 安藤幸央さん（twitter : yukio_andoh）
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+新多さん（twitter : ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2015.10.29
+
+- 自己紹介
+http://www.amazon.co.jp/dp/462108836X
+http://www.amazon.co.jp/dp/4873113857
+- 音声 UI と人工知能について
+- 音のデザインについて
+- Facebook 音が変わりましたよね
+- マイノリティリポートの UI
+- ジェスチャー UI
+- 演出と透過ディスプレー
+- さよなら、インタフェース
+http://www.amazon.co.jp/dp/4861009936
+- 個体認証 / マイナンバーについて
+
+
+収録会場提供 : THE GUILD
+
+Link : SF映画で学ぶインタフェースデザイン アイデアと想像力を鍛え上げるための141のレッスン
+http://www.amazon.co.jp/dp/462108836X
+
+Link : 次世代 Web カンファレンス（UI / UX セッション）
+https://www.youtube.com/watch?v=dxFa055NtTo&amp;feature=youtu.be</itunes:summary>
+      <itunes:subtitle>itunes link : https://itunes.apple.com/jp/podcast…</itunes:subtitle>
+      <description>itunes link : https://itunes.apple.com/jp/podcast/id1044523319
+
+ゲスト :
+CG Programmer / UX Researcher 安藤幸央さん（twitter : yukio_andoh）
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+新多さん（twitter : ar_tama）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2015.10.29
+
+- 自己紹介
+http://www.amazon.co.jp/dp/462108836X
+http://www.amazon.co.jp/dp/4873113857
+- 音声 UI と人工知能について
+- 音のデザインについて
+- Facebook 音が変わりましたよね
+- マイノリティリポートの UI
+- ジェスチャー UI
+- 演出と透過ディスプレー
+- さよなら、インタフェース
+http://www.amazon.co.jp/dp/4861009936
+- 個体認証 / マイナンバーについて
+
+
+収録会場提供 : THE GUILD
+
+Link : SF映画で学ぶインタフェースデザイン アイデアと想像力を鍛え上げるための141のレッスン
+http://www.amazon.co.jp/dp/462108836X
+
+Link : 次世代 Web カンファレンス（UI / UX セッション）
+https://www.youtube.com/watch?v=dxFa055NtTo&amp;feature=youtu.be</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/230877715-es-no-fm-2a-1.mp3" length="49031963"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000134661717-j8uzoh-original.png"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/225205962</guid>
+      <title>第 1 回：人工知能号（ゲスト 三宅陽一郎さん）後編</title>
+      <pubDate>Fri, 02 Oct 2015 03:05:12 +0000</pubDate>
+      <link>https://soundcloud.com/es-no-fm/1a-2</link>
+      <itunes:duration>00:19:34</itunes:duration>
+      <itunes:author>セオ商事</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ゲスト :
+IGDA日本ゲームAI専門部会代表 三宅陽一郎さん（twitter : miyayou）
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+タッキー（twitter : sayutampo）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜後編＞ 2015.9.7
+
+- ハード SF 読書会
+- コングレス未来学会議
+- 人工知能が完成して社会に溶け込んだ未来とは？
+- 自我はつくれる？
+- アイザック・アシモフ「ファウンデーションシリーズ」について
+- 星新一の人工知能
+- 場所を提供いただいた HDE 小椋さんからのお知らせ
+
+収録会場提供 : HDE : http://www.hde.co.jp/
+
+Link : 人工知能のための哲学塾
+FB グループ : https://www.facebook.com/groups/1056157734399814</itunes:summary>
+      <itunes:subtitle>ゲスト :
+IGDA日本ゲームAI専門部会代表 三宅陽一郎さん（twitter : miyayou…</itunes:subtitle>
+      <description>ゲスト :
+IGDA日本ゲームAI専門部会代表 三宅陽一郎さん（twitter : miyayou）
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+タッキー（twitter : sayutampo）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜後編＞ 2015.9.7
+
+- ハード SF 読書会
+- コングレス未来学会議
+- 人工知能が完成して社会に溶け込んだ未来とは？
+- 自我はつくれる？
+- アイザック・アシモフ「ファウンデーションシリーズ」について
+- 星新一の人工知能
+- 場所を提供いただいた HDE 小椋さんからのお知らせ
+
+収録会場提供 : HDE : http://www.hde.co.jp/
+
+Link : 人工知能のための哲学塾
+FB グループ : https://www.facebook.com/groups/1056157734399814</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/225205962-es-no-fm-1a-2.mp3" length="18795542"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000131048499-pk03j7-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/225203612</guid>
+      <title>第 1 回：人工知能号（ゲスト 三宅陽一郎さん）前編</title>
+      <pubDate>Tue, 29 Sep 2015 03:22:53 +0000</pubDate>
+      <link>https://soundcloud.com/es-no-fm/1a-1</link>
+      <itunes:duration>00:56:24</itunes:duration>
+      <itunes:author>セオ商事</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>ゲスト :
+IGDA日本ゲームAI専門部会代表 三宅陽一郎さん（twitter : miyayou）
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+タッキー（twitter : sayutampo）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2015.9.7
+
+- 自己紹介
+- 現在の人工知能の概観について
+- 人工知能を探求することは知能を探求すること
+- ゲーム開発での人工知能
+-「人工知能のための哲学塾」について
+- 生物の進化と知能
+- 人口知能の面白さ / 興味深いところ
+- 人工知能が 10 年後、どうなっていたら楽しいか？
+
+収録会場提供 : HDE : http://www.hde.co.jp/
+
+Link : 人工知能のための哲学塾
+FB グループ : https://www.facebook.com/groups/1056157734399814</itunes:summary>
+      <itunes:subtitle>ゲスト :
+IGDA日本ゲームAI専門部会代表 三宅陽一郎さん（twitter : miyayou…</itunes:subtitle>
+      <description>ゲスト :
+IGDA日本ゲームAI専門部会代表 三宅陽一郎さん（twitter : miyayou）
+
+聞き手 :
+瀬尾（twitter : theodoorjp）
+タッキー（twitter : sayutampo）
+
+BGM :
+瀬尾（with MakeNoiseMusic shared System）
+
+＜前編＞ 2015.9.7
+
+- 自己紹介
+- 現在の人工知能の概観について
+- 人工知能を探求することは知能を探求すること
+- ゲーム開発での人工知能
+-「人工知能のための哲学塾」について
+- 生物の進化と知能
+- 人口知能の面白さ / 興味深いところ
+- 人工知能が 10 年後、どうなっていたら楽しいか？
+
+収録会場提供 : HDE : http://www.hde.co.jp/
+
+Link : 人工知能のための哲学塾
+FB グループ : https://www.facebook.com/groups/1056157734399814</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/225203612-es-no-fm-1a-1.mp3" length="54145277"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000131048512-zhs4t2-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

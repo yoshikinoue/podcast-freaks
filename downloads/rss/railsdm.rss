@@ -1,0 +1,739 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:256629082/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:256629082/sounds.rss?before=498435393" rel="next" type="application/rss+xml"/>
+        <title>Railsdm Podcast</title>
+        <link>http://soundcloud.com/railsdm</link>
+        <pubDate>Tue, 12 Mar 2019 02:54:30 +0000</pubDate>
+        <lastBuildDate>Tue, 12 Mar 2019 02:54:30 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Podcast by Rails Developers Meetup</description>
+        <itunes:subtitle>Podcast by Rails Developers Meetup</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Railsdm Podcast</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Rails Developers Meetup</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000538709085-0bpjbl-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000538709085-0bpjbl-original.jpg</url>
+          <title>Railsdm Podcast</title>
+          <link>http://soundcloud.com/railsdm</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/588718560</guid>
+      <title>unasuke.fm #3 - Inside RubyKaigi (@a_matsuda)</title>
+      <pubDate>Tue, 12 Mar 2019 02:54:30 +0000</pubDate>
+      <link>https://soundcloud.com/railsdm/a_matsuda</link>
+      <itunes:duration>01:27:45</itunes:duration>
+      <itunes:author>Rails Developers Meetup</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>1. オープニング: リスナーからの一問一答コーナー（前編）
+2. ゲスト紹介
+3. RubyKaigi 2019の見どころ
+4. Keynoteのスピーカーの選定
+5. CfPの選考
+6. 開催地の選定
+7. タイムテーブルの作り方
+8. スポンサーの選定
+9. RubyKaigiとクリエイティブ
+10. 海外カンファレンスとRubyKaigi
+11. RubyKaigiと経済
+12. Rubykaigiの運営体制
+13. RubyKaigiの継続性について
+14. リスナーからの一問一答コーナー（後編）
+15. エンディング
+
+会場提供: 株式会社永和システムマネジメント 様</itunes:summary>
+      <itunes:subtitle>1. オープニング: リスナーからの一問一答コーナー（前編）
+2. ゲスト紹介
+3. RubyKa…</itunes:subtitle>
+      <description>1. オープニング: リスナーからの一問一答コーナー（前編）
+2. ゲスト紹介
+3. RubyKaigi 2019の見どころ
+4. Keynoteのスピーカーの選定
+5. CfPの選考
+6. 開催地の選定
+7. タイムテーブルの作り方
+8. スポンサーの選定
+9. RubyKaigiとクリエイティブ
+10. 海外カンファレンスとRubyKaigi
+11. RubyKaigiと経済
+12. Rubykaigiの運営体制
+13. RubyKaigiの継続性について
+14. リスナーからの一問一答コーナー（後編）
+15. エンディング
+
+会場提供: 株式会社永和システムマネジメント 様</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/588718560-railsdm-a_matsuda.m4a" length="145506546"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000502598061-ke4rxe-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/577571766</guid>
+      <title>unasuke.fm #2 - Educational Rubyist (@igaiga555)</title>
+      <pubDate>Mon, 18 Feb 2019 22:23:33 +0000</pubDate>
+      <link>https://soundcloud.com/railsdm/igaiga555</link>
+      <itunes:duration>01:24:38</itunes:duration>
+      <itunes:author>Rails Developers Meetup</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>1. ゲスト紹介
+- unasukeとigaiga555さんの関係
+2. フリーランスエンジニア業
+- 得意分野
+- 複数クライアントとコンテキストスイッチ
+- フリーランスと会社員の違い
+- 台湾の仕事
+3. 新人教育・メンタリング・執筆業
+- igaiga555さんと教育
+- 教えることの難しさ・喜び
+- 教えることの学び方
+- 入門書の執筆
+4. 原体験
+- Rubyを始めたきっかけ
+- 影響を受けた技術書
+5. 一問一答</itunes:summary>
+      <itunes:subtitle>1. ゲスト紹介
+- unasukeとigaiga555さんの関係
+2. フリーランスエンジニア業…</itunes:subtitle>
+      <description>1. ゲスト紹介
+- unasukeとigaiga555さんの関係
+2. フリーランスエンジニア業
+- 得意分野
+- 複数クライアントとコンテキストスイッチ
+- フリーランスと会社員の違い
+- 台湾の仕事
+3. 新人教育・メンタリング・執筆業
+- igaiga555さんと教育
+- 教えることの難しさ・喜び
+- 教えることの学び方
+- 入門書の執筆
+4. 原体験
+- Rubyを始めたきっかけ
+- 影響を受けた技術書
+5. 一問一答</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/577571766-railsdm-igaiga555.mp3" length="121871952"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000491160462-51pv7d-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/575554548</guid>
+      <title>unasuke.fm #1 - Rubyist in Kyoto (@onk)</title>
+      <pubDate>Thu, 14 Feb 2019 23:11:00 +0000</pubDate>
+      <link>https://soundcloud.com/railsdm/onk</link>
+      <itunes:duration>00:59:36</itunes:duration>
+      <itunes:author>Rails Developers Meetup</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>1. ゲスト紹介
+2. 京都移住
+3. 原体験
+4. OSS活動
+5. はてなでの取り組み
+6. 一問一答コーナー
+7. 今後の展望
+
+ゲスト: Takafumi ONAKA (twitter: @onk)
+司会: うなすけ (twitter: @yu_suke1994)
+制作: カルパス (twitter: @yoshi_hirano)
+
+Railsdm Podcastはリニューアルを実施し、Season 2 unasuke.fmとして司会にうなすけ氏を迎え、毎回、Rubyistをゲストに &quot;執筆・ブログ・登壇ではあまり触れることがない&quot; サムシングをトークする番組になりました。</itunes:summary>
+      <itunes:subtitle>1. ゲスト紹介
+2. 京都移住
+3. 原体験
+4. OSS活動
+5. はてなでの取り組み
+6. …</itunes:subtitle>
+      <description>1. ゲスト紹介
+2. 京都移住
+3. 原体験
+4. OSS活動
+5. はてなでの取り組み
+6. 一問一答コーナー
+7. 今後の展望
+
+ゲスト: Takafumi ONAKA (twitter: @onk)
+司会: うなすけ (twitter: @yu_suke1994)
+制作: カルパス (twitter: @yoshi_hirano)
+
+Railsdm Podcastはリニューアルを実施し、Season 2 unasuke.fmとして司会にうなすけ氏を迎え、毎回、Rubyistをゲストに &quot;執筆・ブログ・登壇ではあまり触れることがない&quot; サムシングをトークする番組になりました。</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/575554548-railsdm-onk.mp3" length="85830496"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000489116298-xy3yux-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/549360081</guid>
+      <title>#7 - Kamipo is the greatest man (@kamipo)</title>
+      <pubDate>Mon, 24 Dec 2018 04:19:34 +0000</pubDate>
+      <link>https://soundcloud.com/railsdm/episode07-kamipo-is-a-greatest-man</link>
+      <itunes:duration>01:46:24</itunes:duration>
+      <itunes:author>Rails Developers Meetup</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>1. ゲスト紹介
+2. コミュニティとのかかわり
+3. Ruby 2.6とRails
+4. Railsのリリースサイクル
+5. お仕事のRailsアプリケーションについて
+6. MySQL サポートについて
+7. rails/railsメンテナー業の話
+8. RuboCop
+9. 土日の時間の使い方など
+10. 参加者質問タイム
+11. Railsdmへの要望</itunes:summary>
+      <itunes:subtitle>1. ゲスト紹介
+2. コミュニティとのかかわり
+3. Ruby 2.6とRails
+4. Rai…</itunes:subtitle>
+      <description>1. ゲスト紹介
+2. コミュニティとのかかわり
+3. Ruby 2.6とRails
+4. Railsのリリースサイクル
+5. お仕事のRailsアプリケーションについて
+6. MySQL サポートについて
+7. rails/railsメンテナー業の話
+8. RuboCop
+9. 土日の時間の使い方など
+10. 参加者質問タイム
+11. Railsdmへの要望</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/549360081-railsdm-episode07-kamipo-is-a-greatest-man.m4a" length="106151183"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000462960168-jo9j3b-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/532994436</guid>
+      <title>#6 - The Life in New York, Tokyo and OSS (@yahonda)</title>
+      <pubDate>Tue, 20 Nov 2018 18:35:25 +0000</pubDate>
+      <link>https://soundcloud.com/railsdm/episode06-the-life-in-new-york-tokyo-and-oss</link>
+      <itunes:duration>01:49:34</itunes:duration>
+      <itunes:author>Rails Developers Meetup</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>1. ゲスト紹介
+2. RailsやOracle enhanced adapterとその周辺のOSSとの関わりについて
+3. Oracle enhanced adapterをメンテナンスするようになったきっかけ
+4. 最初のコントリビューションときっかけ
+5. Railsリポジトリのウォッチの仕方
+6. Rubyのtrunkの追い方
+7. DBAとしての知識を得るための学習法
+8. Oracle Aceとは?
+9. Oracle enhanced adapterを例にしたFeature Request やバグイシューなどに対するトリアージに対する考え方
+10. Oracle enhanced adapterでのJRubyをメンテナンスしている理由について
+11. これからのソフトウェア開発の世界においてRailsがどのような位置付けになっていくかの予想図
+12. oracle enhanced adapter以外のアダプターをウォッチしているのか?
+13. コンピュータをはじめたきっかけ
+14. 好きな言葉、座右の銘
+15. Ruby/Railsとの出会い・第一印象
+16. 影響を受けた人物・リスペクトする技術者
+17. 開発者観に大きな影響を与えた出来事
+18. Rails以外で関心のあるOSSコミュニティ
+19. USで過ごしていたときの生活や情報収集やOSS開発スタイル
+20. コミュニティ活動などの参加基準は何か？
+21. 余暇の過ごし方
+22. Railsコミュニティが素晴らしいと思うところ
+23. 最初にRailsConfに行こうと思ったきっかけ
+24. RailsConfで印象に残った出来事、プレゼン
+25. RailsConfへの登壇、Rails 6に向けて活動しているパッチについて
+26. Railsアプリケーション開発者がRailsフレームワークへのパッチを送るきっかけになるオススメの初手
+27. Stableとは何か?
+28. 参加者質問タイム
+29. Railsdmへの要望
+
+LINKS:
+
+Yasuo Honda(@yahonda)さん | Twitter
+https://twitter.com/yahonda
+
+Head First Rails ―頭とからだで覚えるRailsの基本
+https://www.amazon.co.jp/First-Rails-%E2%80%95%E9%A0%AD%E3%81%A8%E3%81%8B%E3%82%89%E3%81%A0%E3%81%A7%E8%A6%9A%E3%81%88%E3%82%8BRails%E3%81%AE%E5%9F%BA%E6%9C%AC-David-Griffiths/dp/4873114381
+
+rsim/oracle-enhanced: Oracle enhaced adapter for ActiveRecord
+https://github.com/rsim/oracle-enhanced
+
+やぎぬま新聞
+http://y-yagi.hatenablog.com/
+
+More multi database goodies and decaffeinated Rails
+https://rails-weekly.ongoodbits.com/
+
+MY LITTLE LOVER HELLO,AGAIN～昔からある場所～ 歌詞
+http://j-lyric.net/artist/a002616/l006e7c.html
+
+“Railsという現象”とコミュニティの性質 － ＠IT
+http://www.atmarkit.co.jp/news/200907/21/rails.html
+
+Red Data Tools - Data processing with Ruby!
+https://red-data-tools.github.io/
+
+聞き手: @koic
+オーディエンス: @mtsmfm, @ota42y, @y_yagi
+企画・制作: @yhirano55</itunes:summary>
+      <itunes:subtitle>1. ゲスト紹介
+2. RailsやOracle enhanced adapterとその周辺のOS…</itunes:subtitle>
+      <description>1. ゲスト紹介
+2. RailsやOracle enhanced adapterとその周辺のOSSとの関わりについて
+3. Oracle enhanced adapterをメンテナンスするようになったきっかけ
+4. 最初のコントリビューションときっかけ
+5. Railsリポジトリのウォッチの仕方
+6. Rubyのtrunkの追い方
+7. DBAとしての知識を得るための学習法
+8. Oracle Aceとは?
+9. Oracle enhanced adapterを例にしたFeature Request やバグイシューなどに対するトリアージに対する考え方
+10. Oracle enhanced adapterでのJRubyをメンテナンスしている理由について
+11. これからのソフトウェア開発の世界においてRailsがどのような位置付けになっていくかの予想図
+12. oracle enhanced adapter以外のアダプターをウォッチしているのか?
+13. コンピュータをはじめたきっかけ
+14. 好きな言葉、座右の銘
+15. Ruby/Railsとの出会い・第一印象
+16. 影響を受けた人物・リスペクトする技術者
+17. 開発者観に大きな影響を与えた出来事
+18. Rails以外で関心のあるOSSコミュニティ
+19. USで過ごしていたときの生活や情報収集やOSS開発スタイル
+20. コミュニティ活動などの参加基準は何か？
+21. 余暇の過ごし方
+22. Railsコミュニティが素晴らしいと思うところ
+23. 最初にRailsConfに行こうと思ったきっかけ
+24. RailsConfで印象に残った出来事、プレゼン
+25. RailsConfへの登壇、Rails 6に向けて活動しているパッチについて
+26. Railsアプリケーション開発者がRailsフレームワークへのパッチを送るきっかけになるオススメの初手
+27. Stableとは何か?
+28. 参加者質問タイム
+29. Railsdmへの要望
+
+LINKS:
+
+Yasuo Honda(@yahonda)さん | Twitter
+https://twitter.com/yahonda
+
+Head First Rails ―頭とからだで覚えるRailsの基本
+https://www.amazon.co.jp/First-Rails-%E2%80%95%E9%A0%AD%E3%81%A8%E3%81%8B%E3%82%89%E3%81%A0%E3%81%A7%E8%A6%9A%E3%81%88%E3%82%8BRails%E3%81%AE%E5%9F%BA%E6%9C%AC-David-Griffiths/dp/4873114381
+
+rsim/oracle-enhanced: Oracle enhaced adapter for ActiveRecord
+https://github.com/rsim/oracle-enhanced
+
+やぎぬま新聞
+http://y-yagi.hatenablog.com/
+
+More multi database goodies and decaffeinated Rails
+https://rails-weekly.ongoodbits.com/
+
+MY LITTLE LOVER HELLO,AGAIN～昔からある場所～ 歌詞
+http://j-lyric.net/artist/a002616/l006e7c.html
+
+“Railsという現象”とコミュニティの性質 － ＠IT
+http://www.atmarkit.co.jp/news/200907/21/rails.html
+
+Red Data Tools - Data processing with Ruby!
+https://red-data-tools.github.io/
+
+聞き手: @koic
+オーディエンス: @mtsmfm, @ota42y, @y_yagi
+企画・制作: @yhirano55</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/532994436-railsdm-episode06-the-life-in-new-york-tokyo-and-oss.m4a" length="166461969"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000443262543-19da0g-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/512794746</guid>
+      <title>#5 - Stairway To The Real Programmer (@koic)</title>
+      <pubDate>Thu, 11 Oct 2018 14:48:06 +0000</pubDate>
+      <link>https://soundcloud.com/railsdm/episode05-stairway-to-the-real-programmer</link>
+      <itunes:duration>01:15:40</itunes:duration>
+      <itunes:author>Rails Developers Meetup</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>1. ゲスト紹介
+2. Rubocopを頻繁にメンテナンスするようになった動機・経緯
+3. Cucumberのメンテナになった経緯
+4. 最初のコントリビューション
+5. パッチを書くことと社内で教育
+6. まだ手を付けてないが興味のあるOSSについて
+7. プログラミングをはじめたきっかけ
+8. Ruby/Railsとの出会い・第一印象
+9. 影響を受けた人物・リスペクトする技術者
+10. Ruby以外で関心のあるコミュニティ
+11. 好きな言葉、座右の銘
+12. 日記を続けるコツ
+13. 育成について
+14. 永和システムマネジメントとRubyコミュニティ
+15. 酒とロックとkoicさん
+16. 質疑応答
+
+LINKS:
+
+Koichi ITO(@koic)さん | Twitter
+https://twitter.com/koic
+
+rubocop-hq/rubocop: A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+https://github.com/rubocop-hq/rubocop
+
+cucumber/cucumber-ruby: Cucumber for Ruby
+https://github.com/cucumber/cucumber-ruby
+
+rsim/oracle-enhanced: Oracle enhaced adapter for ActiveRecord
+https://github.com/rsim/oracle-enhanced
+
+per にパラメータ文字列を渡すとエラーになっていました by koic · Pull Request #7 · kaminari/kaminari
+https://github.com/kaminari/kaminari/pull/7
+
+マイコンBASICマガジン - Wikipedia
+https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3BASIC%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3
+
+株式会社永和システムマネジメント アジャイル事業部
+https://agile.esm.co.jp/
+
+Rails / OSS パッチ会 2018年10月のお知らせ - esm アジャイル事業部 開発者ブログ
+http://blog.agile.esm.co.jp/entry/rails-oss-patch-meetup-20181026
+
+会津娘 蔵元紹介
+http://www.hechima.co.jp/~souta/aizu_musume/kura_shokai.html
+
+ハートビート （Heart Beat） - 新宿三丁目/バー [食べログ]
+https://tabelog.com/tokyo/A1304/A130401/13072607/
+
+Deep Purple-Burn - YouTube
+https://www.youtube.com/watch?v=LCnebZnysmI
+
+Queen Bohemian Rhapsody - YouTube
+https://www.youtube.com/watch?v=Ld2L2ysnYBk
+
+Led Zeppelin - Stairway To Heaven ᴴᴰ (Legendado/Tradução PTBR) - YouTube
+https://www.youtube.com/watch?v=D9ioyEvdggk
+
+一条流がんこラーメン総本家 （【旧店名：ふわふわ】） - 四谷三丁目/ラーメン [食べログ]
+https://tabelog.com/tokyo/A1309/A130903/13126058/
+
+聞き手: @y_yagi
+オーディエンス: @mtsmfm, @yahonda, @ota42y
+企画・制作: @yhirano55</itunes:summary>
+      <itunes:subtitle>1. ゲスト紹介
+2. Rubocopを頻繁にメンテナンスするようになった動機・経緯
+3. Cuc…</itunes:subtitle>
+      <description>1. ゲスト紹介
+2. Rubocopを頻繁にメンテナンスするようになった動機・経緯
+3. Cucumberのメンテナになった経緯
+4. 最初のコントリビューション
+5. パッチを書くことと社内で教育
+6. まだ手を付けてないが興味のあるOSSについて
+7. プログラミングをはじめたきっかけ
+8. Ruby/Railsとの出会い・第一印象
+9. 影響を受けた人物・リスペクトする技術者
+10. Ruby以外で関心のあるコミュニティ
+11. 好きな言葉、座右の銘
+12. 日記を続けるコツ
+13. 育成について
+14. 永和システムマネジメントとRubyコミュニティ
+15. 酒とロックとkoicさん
+16. 質疑応答
+
+LINKS:
+
+Koichi ITO(@koic)さん | Twitter
+https://twitter.com/koic
+
+rubocop-hq/rubocop: A Ruby static code analyzer and formatter, based on the community Ruby style guide.
+https://github.com/rubocop-hq/rubocop
+
+cucumber/cucumber-ruby: Cucumber for Ruby
+https://github.com/cucumber/cucumber-ruby
+
+rsim/oracle-enhanced: Oracle enhaced adapter for ActiveRecord
+https://github.com/rsim/oracle-enhanced
+
+per にパラメータ文字列を渡すとエラーになっていました by koic · Pull Request #7 · kaminari/kaminari
+https://github.com/kaminari/kaminari/pull/7
+
+マイコンBASICマガジン - Wikipedia
+https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%82%B3%E3%83%B3BASIC%E3%83%9E%E3%82%AC%E3%82%B8%E3%83%B3
+
+株式会社永和システムマネジメント アジャイル事業部
+https://agile.esm.co.jp/
+
+Rails / OSS パッチ会 2018年10月のお知らせ - esm アジャイル事業部 開発者ブログ
+http://blog.agile.esm.co.jp/entry/rails-oss-patch-meetup-20181026
+
+会津娘 蔵元紹介
+http://www.hechima.co.jp/~souta/aizu_musume/kura_shokai.html
+
+ハートビート （Heart Beat） - 新宿三丁目/バー [食べログ]
+https://tabelog.com/tokyo/A1304/A130401/13072607/
+
+Deep Purple-Burn - YouTube
+https://www.youtube.com/watch?v=LCnebZnysmI
+
+Queen Bohemian Rhapsody - YouTube
+https://www.youtube.com/watch?v=Ld2L2ysnYBk
+
+Led Zeppelin - Stairway To Heaven ᴴᴰ (Legendado/Tradução PTBR) - YouTube
+https://www.youtube.com/watch?v=D9ioyEvdggk
+
+一条流がんこラーメン総本家 （【旧店名：ふわふわ】） - 四谷三丁目/ラーメン [食べログ]
+https://tabelog.com/tokyo/A1309/A130903/13126058/
+
+聞き手: @y_yagi
+オーディエンス: @mtsmfm, @yahonda, @ota42y
+企画・制作: @yhirano55</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/512794746-railsdm-episode05-stairway-to-the-real-programmer.m4a" length="130585834"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000443261862-xsolqx-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/512783271</guid>
+      <title>#4 - Resolve With Physical Strength (@katsuhisa__)</title>
+      <pubDate>Thu, 11 Oct 2018 14:21:31 +0000</pubDate>
+      <link>https://soundcloud.com/railsdm/episoce04-resolve-with-physical-strength</link>
+      <itunes:duration>00:59:47</itunes:duration>
+      <itunes:author>Rails Developers Meetup</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>1. ゲスト紹介
+2. カルパスの由来
+3. スタディストについて
+4. @katsuhisa__さんのお仕事
+5. SREについて
+6. スタディストでのSRE誕生経緯
+7. 入社のいきさつ
+8. スタディストのアーキテクチャの話
+9. Amazon Aurora 移行の話
+10. 技術ブログの話
+11. よく使うツールの話
+12. 連載について
+13. 趣味・余暇の話
+14. SRE Loungeの話
+15. Railsdm Podcastが始まった経緯
+
+LINKS:
+
+かつひささん(@katsuhisa__)さん | Twitter
+https://twitter.com/katsuhisa__
+
+株式会社スタディスト
+https://studist.jp/
+
+Google - Site Reliability Engineering
+https://landing.google.com/sre/
+
+Amazon Aurora（MySQL、PostgreSQL 互換のリレーショナルデータベース）｜AWS
+https://aws.amazon.com/jp/rds/aurora/
+
+DB 暗号化をやれと言われたけど、Aurora 移行を同時に実現した話 - Speaker Deck
+https://speakerdeck.com/katsuhisa91/db-an-hao-hua-woyaretoyan-waretakedo-aurora-yi-xing-wotong-shi-nishi-xian-sitahua
+
+スタディスト開発ブログ – Medium
+https://medium.com/studist-dev
+
+SRE Lounge - connpass
+https://sre-lounge.connpass.com/
+
+映画『スカイスクレイパー』公式サイト
+http://skyscraper-movie.jp/
+
+映画『カメラを止めるな！』公式サイト
+http://kametome.net/index.html
+
+Rebuild - Podcast by Tatsuhiko Miyagawa
+https://rebuild.fm/
+
+収録日:
+2018/10/1 @ スタディスト
+
+聞き手: @okuramasafumi
+企画・制作: @yhirano55</itunes:summary>
+      <itunes:subtitle>1. ゲスト紹介
+2. カルパスの由来
+3. スタディストについて
+4. @katsuhisa__…</itunes:subtitle>
+      <description>1. ゲスト紹介
+2. カルパスの由来
+3. スタディストについて
+4. @katsuhisa__さんのお仕事
+5. SREについて
+6. スタディストでのSRE誕生経緯
+7. 入社のいきさつ
+8. スタディストのアーキテクチャの話
+9. Amazon Aurora 移行の話
+10. 技術ブログの話
+11. よく使うツールの話
+12. 連載について
+13. 趣味・余暇の話
+14. SRE Loungeの話
+15. Railsdm Podcastが始まった経緯
+
+LINKS:
+
+かつひささん(@katsuhisa__)さん | Twitter
+https://twitter.com/katsuhisa__
+
+株式会社スタディスト
+https://studist.jp/
+
+Google - Site Reliability Engineering
+https://landing.google.com/sre/
+
+Amazon Aurora（MySQL、PostgreSQL 互換のリレーショナルデータベース）｜AWS
+https://aws.amazon.com/jp/rds/aurora/
+
+DB 暗号化をやれと言われたけど、Aurora 移行を同時に実現した話 - Speaker Deck
+https://speakerdeck.com/katsuhisa91/db-an-hao-hua-woyaretoyan-waretakedo-aurora-yi-xing-wotong-shi-nishi-xian-sitahua
+
+スタディスト開発ブログ – Medium
+https://medium.com/studist-dev
+
+SRE Lounge - connpass
+https://sre-lounge.connpass.com/
+
+映画『スカイスクレイパー』公式サイト
+http://skyscraper-movie.jp/
+
+映画『カメラを止めるな！』公式サイト
+http://kametome.net/index.html
+
+Rebuild - Podcast by Tatsuhiko Miyagawa
+https://rebuild.fm/
+
+収録日:
+2018/10/1 @ スタディスト
+
+聞き手: @okuramasafumi
+企画・制作: @yhirano55</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/512783271-railsdm-episoce04-resolve-with-physical-strength.m4a" length="102451834"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000443261943-kil5e1-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/498435393</guid>
+      <title>#3 - What will be, will be (@y_yagi)</title>
+      <pubDate>Tue, 11 Sep 2018 15:52:48 +0000</pubDate>
+      <link>https://soundcloud.com/railsdm/episode03-what-will-be-will-be</link>
+      <itunes:duration>01:46:22</itunes:duration>
+      <itunes:author>Rails Developers Meetup</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>1. ゲスト紹介
+2. なるようになるブログについて
+3. Ginza.rbの発足経緯と地域.rbについて
+4. はじめてのOSSへのパッチ
+6. エンジニアを始めたきっかけ
+7. 日々のインプットについて
+8. おすすめの技術書
+9. 影響を受けた人物・リスペクトする技術者
+10. 毎年注目しているカンファレンスなど
+11. 行ってよかった、おすすめの神社
+12. 今後の活動
+13. 今後のRailsdmに期待すること
+14. 質疑応答
+
+LINKS:
+
+なるようになるブログ
+http://y-yagi.hatenablog.com/
+
+👻(@y_yagi)さん | Twitter
+https://twitter.com/y_yagi
+
+Ginza.rb | Doorkeeper
+https://ginzarb.doorkeeper.jp/
+
+Saitama.rb - connpass
+https://saitamarb.connpass.com/
+
+Encode Content-Disposition filenames on send_data and send_file by mtsmfm · Pull Request #33829 · rails/rails
+https://github.com/rails/rails/pull/33829
+
+tomiacannondale/era_ja: Convert to Japanese era
+https://github.com/tomiacannondale/era_ja
+
+Hacker News
+https://news.ycombinator.com/
+
+Panda 5 | News &amp; Inspiration Dashboard
+https://chrome.google.com/webstore/detail/panda-5-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko
+
+Misreading Chat – CS の論文読んで話をしよう
+https://misreading.chat/
+
+O'Reilly Japan - 詳解 システム・パフォーマンス
+https://www.oreilly.co.jp/books/9784873117904/
+
+Brendan Gregg - Wikipedia
+https://en.wikipedia.org/wiki/Brendan_Gregg
+
+ブログ: CPUの使用率は間違っている
+https://okuranagaimo.blogspot.com/2017/05/cpu.html
+
+Russ Cox
+https://swtch.com/~rsc/
+
+research!rsc: Go &amp; Versioning
+https://research.swtch.com/vgo
+
+Go 2 Draft Designs - The Go Blog
+https://blog.golang.org/go2draft
+
+収録日:
+2018/9/11 @ FiNC
+
+聞き手: @mtsmfm
+オーディエンス: @ota42y, @nobuhikosawai, @shinofumijp
+企画・制作: @yhirano55</itunes:summary>
+      <itunes:subtitle>1. ゲスト紹介
+2. なるようになるブログについて
+3. Ginza.rbの発足経緯と地域.rb…</itunes:subtitle>
+      <description>1. ゲスト紹介
+2. なるようになるブログについて
+3. Ginza.rbの発足経緯と地域.rbについて
+4. はじめてのOSSへのパッチ
+6. エンジニアを始めたきっかけ
+7. 日々のインプットについて
+8. おすすめの技術書
+9. 影響を受けた人物・リスペクトする技術者
+10. 毎年注目しているカンファレンスなど
+11. 行ってよかった、おすすめの神社
+12. 今後の活動
+13. 今後のRailsdmに期待すること
+14. 質疑応答
+
+LINKS:
+
+なるようになるブログ
+http://y-yagi.hatenablog.com/
+
+👻(@y_yagi)さん | Twitter
+https://twitter.com/y_yagi
+
+Ginza.rb | Doorkeeper
+https://ginzarb.doorkeeper.jp/
+
+Saitama.rb - connpass
+https://saitamarb.connpass.com/
+
+Encode Content-Disposition filenames on send_data and send_file by mtsmfm · Pull Request #33829 · rails/rails
+https://github.com/rails/rails/pull/33829
+
+tomiacannondale/era_ja: Convert to Japanese era
+https://github.com/tomiacannondale/era_ja
+
+Hacker News
+https://news.ycombinator.com/
+
+Panda 5 | News &amp; Inspiration Dashboard
+https://chrome.google.com/webstore/detail/panda-5-news-inspiration/haafibkemckmbknhfkiiniobjpgkebko
+
+Misreading Chat – CS の論文読んで話をしよう
+https://misreading.chat/
+
+O'Reilly Japan - 詳解 システム・パフォーマンス
+https://www.oreilly.co.jp/books/9784873117904/
+
+Brendan Gregg - Wikipedia
+https://en.wikipedia.org/wiki/Brendan_Gregg
+
+ブログ: CPUの使用率は間違っている
+https://okuranagaimo.blogspot.com/2017/05/cpu.html
+
+Russ Cox
+https://swtch.com/~rsc/
+
+research!rsc: Go &amp; Versioning
+https://research.swtch.com/vgo
+
+Go 2 Draft Designs - The Go Blog
+https://blog.golang.org/go2draft
+
+収録日:
+2018/9/11 @ FiNC
+
+聞き手: @mtsmfm
+オーディエンス: @ota42y, @nobuhikosawai, @shinofumijp
+企画・制作: @yhirano55</description>
+      <enclosure type="audio/x-m4a" url="http://feeds.soundcloud.com/stream/498435393-railsdm-episode03-what-will-be-will-be.m4a" length="163521599"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000443262123-2tj4ii-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="http://bdpfm.jp/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://twitter.com/bdpfm</link>
+    <title>bdpfm</title>
+    <description>株式会社ビズリーチのデザイナーが最近気になっていることを喋りまくる、ながら聞き推奨Podcastです。</description>
+    <media:keywords>bfpfm</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Arts</media:category>
+    <language>ja</language>
+    <itunes:subtitle>株式会社ビズリーチのデザイナーが最近気になっていることを喋りまくる、ながら聞き推奨Podcastです。</itunes:subtitle>
+    <itunes:author>BizReach, Inc.</itunes:author>
+    <itunes:summary>株式会社ビズリーチのデザイナーが最近気になっていることを喋りまくる、ながら聞き推奨Podcastです。</itunes:summary>
+    <itunes:keywords>bfpfm</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>BizReach, Inc.</itunes:name>
+      <itunes:email>bdpfm@bizreach.co.jp</itunes:email>
+    </itunes:owner>
+    <itunes:image href="http://bdpfm.jp/images/artwork.png" />
+    <itunes:category text="Arts"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>4. デザイン/ビジネス/エンジニアリングの狭間で その1</title>
+        <link>http://bdpfm.jp/episode/4</link>
+        <pubDate>Fri, 18 Jan 2019 00:00:00 +0900</pubDate>
+        <description>
+</description>
+        <guid isPermaLink="true">http://bdpfm.jp/episode/4</guid>
+        <enclosure url="http://bdpfm.jp/audio/004.mp3" length="27703479" type="audio/mp3"/>
+        <itunes:author>BizReach, Inc.</itunes:author>
+        <itunes:subtitle>初の真面目回！？担当サービスのアプリリニューアルを題材に、これからのプロダクトの作り方を考えてみます。 出演者：川上、円谷、アルル / 編集：あさマック</itunes:subtitle>
+        <itunes:duration>00:23:05</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://bdpfm.jp/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>3.【インターネット】ガラケーについて語ろう！【老人会】</title>
+        <link>http://bdpfm.jp/episode/3</link>
+        <pubDate>Fri, 07 Dec 2018 00:00:00 +0900</pubDate>
+        <description>
+</description>
+        <guid isPermaLink="true">http://bdpfm.jp/episode/3</guid>
+        <enclosure url="http://bdpfm.jp/audio/003.mp3" length="65650921" type="audio/mp3"/>
+        <itunes:author>BizReach, Inc.</itunes:author>
+        <itunes:subtitle>直撃世代集まれ！ゲストを迎え淡い思い出について語ります。出演者：川上、円谷、アルル、ピッケル、村上 / 編集：あさマック</itunes:subtitle>
+        <itunes:duration>01:00:45</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://bdpfm.jp/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>2. CDOに怒られチャッタので自己紹介します✊</title>
+        <link>http://bdpfm.jp/episode/2</link>
+        <pubDate>Fri, 31 Aug 2018 00:00:00 +0900</pubDate>
+        <description>
+</description>
+        <guid isPermaLink="true">http://bdpfm.jp/episode/2</guid>
+        <enclosure url="http://bdpfm.jp/audio/002.mp3" length="34248844" type="audio/mp3"/>
+        <itunes:author>BizReach, Inc.</itunes:author>
+        <itunes:subtitle>俺たちは一体何者なのか？渋谷の街にガチマッチ勝利の雄叫びがこだまする。BIZ CAFEのコーヒーを飲みながら、それぞれが進むデザイン道の明日に待ち受けるは生か死か？次回、bdpfm「セルフ・イントロダクション」。君の耳に焼き付けろ！</itunes:subtitle>
+        <itunes:duration>01:00:45</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://bdpfm.jp/images/artwork.png"/>
+      </item>
+    
+      <item>
+        <title>1. スプラトゥーン2</title>
+        <link>http://bdpfm.jp/episode/1</link>
+        <pubDate>Tue, 17 Jul 2018 00:00:00 +0900</pubDate>
+        <description>
+</description>
+        <guid isPermaLink="true">http://bdpfm.jp/episode/1</guid>
+        <enclosure url="http://bdpfm.jp/audio/001.mp3" length="31084252" type="audio/mp3"/>
+        <itunes:author>BizReach, Inc.</itunes:author>
+        <itunes:subtitle>周回遅れの大ブーム到来！？Nintendo Switch専用ソフト、スプラトゥーン2についてひたすら語ります。</itunes:subtitle>
+        <itunes:duration>25:54</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="http://bdpfm.jp/images/artwork.png"/>
+      </item>
+    
+  </channel>
+</rss>

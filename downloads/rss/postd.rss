@@ -1,0 +1,2174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>POSTD</title>
+	<atom:link href="https://postd.cc/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>https://postd.cc</link>
+	<description>プログラミングするエンジニアに向けたトレンドメディア</description>
+	<lastBuildDate>Thu, 14 Mar 2019 09:30:37 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=4.8.5</generator>
+<!-- podcast_generator="Blubrry PowerPress/6.3.1" mode="advanced" -->
+	<itunes:summary>プログラミングするエンジニアに向けたトレンドメディア</itunes:summary>
+	<itunes:author>POSTD</itunes:author>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="https://postd.cc/wp/wp-content/plugins/powerpress/itunes_default.jpg" />
+	<itunes:subtitle>プログラミングするエンジニアに向けたトレンドメディア</itunes:subtitle>
+	<image>
+		<title>POSTD</title>
+		<url>https://postd.cc/wp/wp-content/plugins/powerpress/rss_default.jpg</url>
+		<link>https://postd.cc</link>
+	</image>
+	<item>
+		<title>POSTD Podcast #4 POSTDの原著者に話を聞きました &#8211; James K Nelson on React.js</title>
+		<link>https://postd.cc/postd-podcast-04-james-on-react-js/</link>
+		<pubDate>Mon, 25 Jul 2016 10:00:26 +0000</pubDate>
+		<guid isPermaLink="false">http://postd.cc/?p=7523</guid>
+		<comments>https://postd.cc/postd-podcast-04-james-on-react-js/#respond</comments>
+		<dc:creator></dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[JavaScript]]></category>
+		<category><![CDATA[podcast]]></category>
+		<category><![CDATA[React]]></category>
+		<description>## About
+
+Yosuke Furukawa(@yosuke_furukawa), James K Nelson(@james_k_nelson)とKei Sawada(@remore)の3人がReact.jsとそのエコシステム、Node.jsとの出会い、オーストラリアから見た日本、コンポーネント志向、Reactでのレンダリング時間の課題とパフォーマンス最適化のアプローチ、Microservices志向とアプリケーションロジックの行方、react-routerの課題感などについて話しました。
+
+## Show Notes and Links
+
+- [ReactJS Tokyo #1](http://www.meetup.com/ja-JP/ReactJS-Tokyo/events/232583458/?eventId=232583458)
+- [パース (西オーストラリア州)](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%B9_(%E8%A5%BF%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E5%B7%9E))
+- [生のReactを知ろう – JSX、Flux、ES6、Webpackを使わず… | プログラミング | POSTD](http://postd.cc/learn-raw-react-no-jsx-flux-es6-webpack/)
+- [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
+- [Building a Router with Raw React](http://jamesknelson.com/routing-with-raw-react/)
+- [Immutable.js](https://facebook.github.io/immutable-js/)
+- [acdlite/recompose: A React utility belt for function components and higher-order components.](https://github.com/acdlite/recompose)
+- [reactjs/react-router: A complete routing library for React](https://github.com/reactjs/react-router)
+- [You might not need React Router](https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d#.sdp4tt851)
+- [mjackson/history](https://github.com/mjackson/history)</description>
+		<content:encoded><![CDATA[<div class="markdown-content">
+<h2 id="gfm-1">About</h2>
+<p>Yosuke Furukawa(@yosuke_furukawa), James K Nelson(@james_k_nelson)とKei Sawada(@remore)の3人がReact.jsとそのエコシステム、Node.jsとの出会い、オーストラリアから見た日本、コンポーネント志向、Reactでのレンダリング時間の課題とパフォーマンス最適化のアプローチ、Microservices志向とアプリケーションロジックの行方、react-routerの課題感などについて話しました。</p>
+<h2 id="gfm-2">Show Notes and Links</h2>
+<ul>
+<li><a href="http://www.meetup.com/ja-JP/ReactJS-Tokyo/events/232583458/?eventId=232583458">ReactJS Tokyo #1</a></li>
+<li><a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%B9_(%E8%A5%BF%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E5%B7%9E)">パース (西オーストラリア州)</a></li>
+<li><a href="http://postd.cc/learn-raw-react-no-jsx-flux-es6-webpack/">生のReactを知ろう – JSX、Flux、ES6、Webpackを使わず… | プログラミング | POSTD</a></li>
+<li><a href="http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/">Learn Raw React: Ridiculously Simple Forms</a></li>
+<li><a href="http://jamesknelson.com/routing-with-raw-react/">Building a Router with Raw React</a></li>
+<li><a href="https://facebook.github.io/immutable-js/">Immutable.js</a></li>
+<li><a href="https://github.com/acdlite/recompose">acdlite/recompose: A React utility belt for function components and higher-order components.</a></li>
+<li><a href="https://github.com/reactjs/react-router">reactjs/react-router: A complete routing library for React</a></li>
+<li><a href="https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d#.sdp4tt851">You might not need React Router</a></li>
+<li><a href="https://github.com/mjackson/history">mjackson/history</a></li>
+</ul>
+</div>
+]]></content:encoded>
+		<wfw:commentRss>https://postd.cc/postd-podcast-04-james-on-react-js/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://podcast.postd.cc/04_JamesOnReactJS.mp3" length="74672289" type="audio/mpeg" />
+		<itunes:subtitle>## About - Yosuke Furukawa(@yosuke_furukawa), James K Nelson(@james_k_nelson)とKei Sawada(@remore)の3人がReact.jsとそのエコシステム、Node.jsとの出会い、オーストラリアから見た日本、コンポーネント志向、Reactでのレンダリング時間の課題とパフォーマンス最適化のアプローチ、Microservices志向とアプリケーションロジックの行方、react-routerの課題感などについて話しました...</itunes:subtitle>
+		<itunes:summary>## About
+
+Yosuke Furukawa(@yosuke_furukawa), James K Nelson(@james_k_nelson)とKei Sawada(@remore)の3人がReact.jsとそのエコシステム、Node.jsとの出会い、オーストラリアから見た日本、コンポーネント志向、Reactでのレンダリング時間の課題とパフォーマンス最適化のアプローチ、Microservices志向とアプリケーションロジックの行方、react-routerの課題感などについて話しました。
+
+## Show Notes and Links
+
+- [ReactJS Tokyo #1](http://www.meetup.com/ja-JP/ReactJS-Tokyo/events/232583458/?eventId=232583458)
+- [パース (西オーストラリア州)](https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%82%B9_(%E8%A5%BF%E3%82%AA%E3%83%BC%E3%82%B9%E3%83%88%E3%83%A9%E3%83%AA%E3%82%A2%E5%B7%9E))
+- [生のReactを知ろう – JSX、Flux、ES6、Webpackを使わず… | プログラミング | POSTD](http://postd.cc/learn-raw-react-no-jsx-flux-es6-webpack/)
+- [Learn Raw React: Ridiculously Simple Forms](http://jamesknelson.com/learn-raw-react-ridiculously-simple-forms/)
+- [Building a Router with Raw React](http://jamesknelson.com/routing-with-raw-react/)
+- [Immutable.js](https://facebook.github.io/immutable-js/)
+- [acdlite/recompose: A React utility belt for function components and higher-order components.](https://github.com/acdlite/recompose)
+- [reactjs/react-router: A complete routing library for React](https://github.com/reactjs/react-router)
+- [You might not need React Router](https://medium.freecodecamp.com/you-might-not-need-react-router-38673620f3d#.sdp4tt851)
+- [mjackson/history](https://github.com/mjackson/history)</itunes:summary>
+		<itunes:author>POSTD</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>1:17:46</itunes:duration>
+		</item>
+	<item>
+		<title>POSTD Podcast #3 F8(Facebook Developer Conference)に参加してきました</title>
+		<link>https://postd.cc/postd-podcast-03-participated-in-f8-facebook-developer-conference/</link>
+		<pubDate>Fri, 15 Apr 2016 10:20:54 +0000</pubDate>
+		<guid isPermaLink="false">http://postd.cc/?p=6553</guid>
+		<comments>https://postd.cc/postd-podcast-03-participated-in-f8-facebook-developer-conference/#respond</comments>
+		<dc:creator></dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<description>## About
+
+GitHub HQのご厚意でサンフランシスコ本社のスタジオをお借りして、Hironori Arakawa(@kumakumakkk), Kei Sawada(@remore)がF8, Messenger Platform, Bot, VR, Surround 360などについて話しました。
+
+## Show Notes and Links
+
+- [F8 2016 Day 2 Keynote（20分くらいから楽しげなデモが始まります）](https://www.facebook.com/FacebookforDevelopers/videos/10153627946608553/)
+- [Inside Look at Facebook Media Infrastructure(16分あたりから動画サイズ最適化の話が始まります)](https://www.facebook.com/FacebookforDevelopers/videos/vb.19292868552/10153628489758553/?type=2&amp;theater)
+- [Open-sourcing ReDex: Making Android apps smaller and faster](https://code.facebook.com/posts/998080480282805/open-sourcing-redex-making-android-apps-smaller-and-faster/)
+- [Building and managing iOS model objects with Remodel](https://code.facebook.com/posts/1154141864616569/building-and-managing-ios-model-objects-with-remodel/)
+- [Automatic memory leak detection on iOS](https://code.facebook.com/posts/583946315094347/automatic-memory-leak-detection-on-ios/)
+- [Makeitopen.com](http://makeitopen.com/)
+- [Open Compute Project](http://www.opencompute.org/)</description>
+		<content:encoded><![CDATA[<div class="markdown-content">
+<h2 id="gfm-3">About</h2>
+<p>GitHub HQのご厚意でサンフランシスコ本社のスタジオをお借りして、Hironori Arakawa(@kumakumakkk), Kei Sawada(@remore)がF8, Messenger Platform, Bot, VR, Surround 360などについて話しました。</p>
+<h2 id="gfm-4">Show Notes and Links</h2>
+<ul>
+<li><a href="https://www.facebook.com/FacebookforDevelopers/videos/10153627946608553/">F8 2016 Day 2 Keynote（20分くらいから楽しげなデモが始まります）</a></li>
+<li><a href="https://www.facebook.com/FacebookforDevelopers/videos/vb.19292868552/10153628489758553/?type=2&amp;theater">Inside Look at Facebook Media Infrastructure(16分あたりから動画サイズ最適化の話が始まります)</a></li>
+<li><a href="https://code.facebook.com/posts/998080480282805/open-sourcing-redex-making-android-apps-smaller-and-faster/">Open-sourcing ReDex: Making Android apps smaller and faster</a></li>
+<li><a href="https://code.facebook.com/posts/1154141864616569/building-and-managing-ios-model-objects-with-remodel/">Building and managing iOS model objects with Remodel</a></li>
+<li><a href="https://code.facebook.com/posts/583946315094347/automatic-memory-leak-detection-on-ios/">Automatic memory leak detection on iOS</a></li>
+<li><a href="http://makeitopen.com/">Makeitopen.com</a></li>
+<li><a href="http://www.opencompute.org/">Open Compute Project</a></li>
+</ul>
+</div>
+]]></content:encoded>
+		<wfw:commentRss>https://postd.cc/postd-podcast-03-participated-in-f8-facebook-developer-conference/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://podcast.postd.cc/03_BotOnlyLiveTwice.mp3" length="39140542" type="audio/mpeg" />
+		<itunes:subtitle>## About - GitHub HQのご厚意でサンフランシスコ本社のスタジオをお借りして、Hironori Arakawa(@kumakumakkk), Kei Sawada(@remore)がF8, Messenger Platform, Bot, VR, Surround 360などについて話しました。 - ## Show Notes and Links - - [F8 2016 Day 2 Keynote（20分くらいから楽しげなデモが始まります）](https://www.</itunes:subtitle>
+		<itunes:summary>## About
+
+GitHub HQのご厚意でサンフランシスコ本社のスタジオをお借りして、Hironori Arakawa(@kumakumakkk), Kei Sawada(@remore)がF8, Messenger Platform, Bot, VR, Surround 360などについて話しました。
+
+## Show Notes and Links
+
+- [F8 2016 Day 2 Keynote（20分くらいから楽しげなデモが始まります）](https://www.facebook.com/FacebookforDevelopers/videos/10153627946608553/)
+- [Inside Look at Facebook Media Infrastructure(16分あたりから動画サイズ最適化の話が始まります)](https://www.facebook.com/FacebookforDevelopers/videos/vb.19292868552/10153628489758553/?type=2&amp;theater)
+- [Open-sourcing ReDex: Making Android apps smaller and faster](https://code.facebook.com/posts/998080480282805/open-sourcing-redex-making-android-apps-smaller-and-faster/)
+- [Building and managing iOS model objects with Remodel](https://code.facebook.com/posts/1154141864616569/building-and-managing-ios-model-objects-with-remodel/)
+- [Automatic memory leak detection on iOS](https://code.facebook.com/posts/583946315094347/automatic-memory-leak-detection-on-ios/)
+- [Makeitopen.com](http://makeitopen.com/)
+- [Open Compute Project](http://www.opencompute.org/)</itunes:summary>
+		<itunes:author>POSTD</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>40:46</itunes:duration>
+		</item>
+	<item>
+		<title>POSTD Podcast #2 Kaigi: The Force Awakens</title>
+		<link>https://postd.cc/kaigi-the-force-awakens/</link>
+		<pubDate>Tue, 01 Mar 2016 10:00:33 +0000</pubDate>
+		<guid isPermaLink="false">http://postd.cc/?p=6162</guid>
+		<comments>https://postd.cc/kaigi-the-force-awakens/#respond</comments>
+		<dc:creator></dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<description>## About
+
+Shintaro Katafuchi(@hotchemi), Kei Sawada(@remore), Satomi Yako(@yako_yaco)の3人がDroidKaigi、英語、トニーモリス、POSTD運営ニュースなどについて話しました。
+
+## Disclaimer
+
+- 収録した場所の問題があり、部分的に隣の会議室の会話や雑音が入っておりお聞き苦しい点があります。予めご了承ください。
+
+## Show Notes and Links
+
+- [DroigKaigi](https://droidkaigi.github.io/2016/)
+- [DroidCon](http://droidcon.com/)
+- [AndroidStudyGroup/conferences](https://github.com/AndroidStudyGroup/conferences)
+- [RubyConferences.org](http://rubyconferences.org/)
+- [Chiu-Ki Chan(@chiuki)](https://github.com/chiuki)
+- [クックパッドにおけるAndroidエンジニアの役割とその変遷](https://speakerdeck.com/sys1yagi/kutukuhatutoniokeruandroidensiniafalseyi-ge-tosofalsebian-qian)
+- [Advanced Kotlin for Android](https://speakerdeck.com/ntaro/advanced-kotlin-for-android-number-droidkaigi-number-droidkaigib)
+- [konifar/droidkaigi2016](https://github.com/konifar/droidkaigi2016)
+- [エンジニアが0から英語を勉強する為にした事](http://hotchemi.hateblo.jp/entry/2015/12/31/091301)
+- [Android Developers Backstage](http://androidbackstage.blogspot.jp/)
+- [Fragmented Podcast](http://fragmentedpodcast.com/)
+- [Droidcon KrakówでRuntime Permissionsの話をしました | RECRUIT TECHNOLOGIES Member&#039;s blog](http://blog.recruit-tech.co.jp/2015/12/15/droidcon-krakow_runtime-permissions/)
+- [モリスNight](http://hotchemi.hateblo.jp/entry/2015/08/29/002433)
+- [hotchemi/awesome-recruit-engineer-careers](https://github.com/hotchemi/awesome-recruit-engineer-careers)
+- [Jake Wharton(@JakeWharton)](https://github.com/JakeWharton)
+- [Jesse Wilson(@swankjesse)](https://github.com/swankjesse)
+- [DroidConSE: RxJavaを使用したAndrioidアプリの複雑系への対処](http://www.infoq.com/jp/news/2014/11/android-rxjava-at-soundcloud)
+- [Blog :: The Cheese Factory](http://inthecheesefactory.com/blog)
+- [HTTPステータスコードを適切に選ぶためのフローチャート : 難しく考えるのをやめよう](http://postd.cc/choosing-an-http-status-code/)
+- [ferd.ca -&gt; The Little Printf](http://ferd.ca/the-little-printf.html)</description>
+		<content:encoded><![CDATA[<div class="markdown-content">
+<h2 id="gfm-5">About</h2>
+<p>Shintaro Katafuchi(@hotchemi), Kei Sawada(@remore), Satomi Yako(@yako_yaco)の3人がDroidKaigi、英語、トニーモリス、POSTD運営ニュースなどについて話しました。</p>
+<h2 id="gfm-6">Disclaimer</h2>
+<ul>
+<li>収録した場所の問題があり、部分的に隣の会議室の会話や雑音が入っておりお聞き苦しい点があります。予めご了承ください。</li>
+</ul>
+<h2 id="gfm-7">Show Notes and Links</h2>
+<ul>
+<li><a href="https://droidkaigi.github.io/2016/">DroigKaigi</a></li>
+<li><a href="http://droidcon.com/">DroidCon</a></li>
+<li><a href="https://github.com/AndroidStudyGroup/conferences">AndroidStudyGroup/conferences</a></li>
+<li><a href="http://rubyconferences.org/">RubyConferences.org</a></li>
+<li><a href="https://github.com/chiuki">Chiu-Ki Chan(@chiuki)</a></li>
+<li><a href="https://speakerdeck.com/sys1yagi/kutukuhatutoniokeruandroidensiniafalseyi-ge-tosofalsebian-qian">クックパッドにおけるAndroidエンジニアの役割とその変遷</a></li>
+<li><a href="https://speakerdeck.com/ntaro/advanced-kotlin-for-android-number-droidkaigi-number-droidkaigib">Advanced Kotlin for Android</a></li>
+<li><a href="https://github.com/konifar/droidkaigi2016">konifar/droidkaigi2016</a></li>
+<li><a href="http://hotchemi.hateblo.jp/entry/2015/12/31/091301">エンジニアが0から英語を勉強する為にした事</a></li>
+<li><a href="http://androidbackstage.blogspot.jp/">Android Developers Backstage</a></li>
+<li><a href="http://fragmentedpodcast.com/">Fragmented Podcast</a></li>
+<li><a href="http://blog.recruit-tech.co.jp/2015/12/15/droidcon-krakow_runtime-permissions/">Droidcon KrakówでRuntime Permissionsの話をしました | RECRUIT TECHNOLOGIES Member&#8217;s blog</a></li>
+<li><a href="http://hotchemi.hateblo.jp/entry/2015/08/29/002433">モリスNight</a></li>
+<li><a href="https://github.com/hotchemi/awesome-recruit-engineer-careers">hotchemi/awesome-recruit-engineer-careers</a></li>
+<li><a href="https://github.com/JakeWharton">Jake Wharton(@JakeWharton)</a></li>
+<li><a href="https://github.com/swankjesse">Jesse Wilson(@swankjesse)</a></li>
+<li><a href="http://www.infoq.com/jp/news/2014/11/android-rxjava-at-soundcloud">DroidConSE: RxJavaを使用したAndrioidアプリの複雑系への対処</a></li>
+<li><a href="http://inthecheesefactory.com/blog">Blog :: The Cheese Factory</a></li>
+<li><a href="http://postd.cc/choosing-an-http-status-code/">HTTPステータスコードを適切に選ぶためのフローチャート : 難しく考えるのをやめよう</a></li>
+<li><a href="http://ferd.ca/the-little-printf.html">ferd.ca -&gt; The Little Printf</a></li>
+</ul>
+</div>
+]]></content:encoded>
+		<wfw:commentRss>https://postd.cc/kaigi-the-force-awakens/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://podcast.postd.cc/02_KaigiTheForceAwakens.mp3" length="55071475" type="audio/mpeg" />
+		<itunes:subtitle>## About - Shintaro Katafuchi(@hotchemi), Kei Sawada(@remore), Satomi Yako(@yako_yaco)の3人がDroidKaigi、英語、トニーモリス、POSTD運営ニュースなどについて話しました。 - ## Disclaimer - - 収録した場所の問題があり、部分的に隣の会議室の会話や雑音が入っておりお聞き苦しい点があります。予めご了承ください。 - ## Show Notes and Links - </itunes:subtitle>
+		<itunes:summary>## About
+
+Shintaro Katafuchi(@hotchemi), Kei Sawada(@remore), Satomi Yako(@yako_yaco)の3人がDroidKaigi、英語、トニーモリス、POSTD運営ニュースなどについて話しました。
+
+## Disclaimer
+
+- 収録した場所の問題があり、部分的に隣の会議室の会話や雑音が入っておりお聞き苦しい点があります。予めご了承ください。
+
+## Show Notes and Links
+
+- [DroigKaigi](https://droidkaigi.github.io/2016/)
+- [DroidCon](http://droidcon.com/)
+- [AndroidStudyGroup/conferences](https://github.com/AndroidStudyGroup/conferences)
+- [RubyConferences.org](http://rubyconferences.org/)
+- [Chiu-Ki Chan(@chiuki)](https://github.com/chiuki)
+- [クックパッドにおけるAndroidエンジニアの役割とその変遷](https://speakerdeck.com/sys1yagi/kutukuhatutoniokeruandroidensiniafalseyi-ge-tosofalsebian-qian)
+- [Advanced Kotlin for Android](https://speakerdeck.com/ntaro/advanced-kotlin-for-android-number-droidkaigi-number-droidkaigib)
+- [konifar/droidkaigi2016](https://github.com/konifar/droidkaigi2016)
+- [エンジニアが0から英語を勉強する為にした事](http://hotchemi.hateblo.jp/entry/2015/12/31/091301)
+- [Android Developers Backstage](http://androidbackstage.blogspot.jp/)
+- [Fragmented Podcast](http://fragmentedpodcast.com/)
+- [Droidcon KrakówでRuntime Permissionsの話をしました | RECRUIT TECHNOLOGIES Member&#039;s blog](http://blog.recruit-tech.co.jp/2015/12/15/droidcon-krakow_runtime-permissions/)
+- [モリスNight](http://hotchemi.hateblo.jp/entry/2015/08/29/002433)
+- [hotchemi/awesome-recruit-engineer-careers](https://github.com/hotchemi/awesome-recruit-engineer-careers)
+- [Jake Wharton(@JakeWharton)](https://github.com/JakeWharton)
+- [Jesse Wilson(@swankjesse)](https://github.com/swankjesse)
+- [DroidConSE: RxJavaを使用したAndrioidアプリの複雑系への対処](http://www.infoq.com/jp/news/2014/11/android-rxjava-at-soundcloud)
+- [Blog :: The Cheese Factory](http://inthecheesefactory.com/blog)
+- [HTTPステータスコードを適切に選ぶためのフローチャート : 難しく考えるのをやめよう](http://postd.cc/choosing-an-http-status-code/)
+- [ferd.ca -&gt; The Little Printf](http://ferd.ca/the-little-printf.html)</itunes:summary>
+		<itunes:author>POSTD</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>57:22</itunes:duration>
+		</item>
+	<item>
+		<title>POSTD Podcast #1 POSTDの作り方</title>
+		<link>https://postd.cc/postd-podcast-1/</link>
+		<pubDate>Mon, 25 Jan 2016 10:25:45 +0000</pubDate>
+		<guid isPermaLink="false">http://postd.cc/?p=5769</guid>
+		<comments>https://postd.cc/postd-podcast-1/#respond</comments>
+		<dc:creator></dc:creator>
+		<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[podcast]]></category>
+		<description>## About
+
+Kazuyuki Suzuki(@kechol), Kei Sawada(@remore), Satomi Yako(@yako_yaco)の3人がPOSTD, HackerNews, 翻訳, The Changelog, Podcastの運用などについて話しました。
+
+## Show Notes and Links
+
+- [POSTD](http://postd.cc/)
+- [Media Technology Lab.](http://mtl.recruit.co.jp/)
+- [HackerNews翻訳してみた](http://rdepf.hatenablog.jp/)
+- [Saying Good Bye To Python](http://www.ianbicking.org/blog/2014/02/saying-goodbye-to-python.html)
+- [The Changelog](https://changelog.com/)
+- [github.com/thechangelog/ping](https://github.com/thechangelog/ping)
+- [github.com/postdcc](https://github.com/postdcc)
+- [雑な発想を活かすチーム作り](http://techlife.cookpad.com/entry/2015/03/25/202709)
+- [Rebuild](http://rebuild.fm/)
+- [AWS Podcast | Listen &amp; Learn About AWS](https://aws.amazon.com/jp/podcasts/aws-podcast/)
+- [VentureBeat&#039;s What to Think Podcast](https://itunes.apple.com/us/podcast/venturebeats-what-to-think/id868742848?mt=2)
+- [wada.fm](http://wada.fm/)
+- [nanapiのnanapod](http://nanapod.kozyty.com/)
+- [mozaic.fm](http://mozaic.fm/)
+- [ITクリエイターのためのコミュニティースペース - TECH LAB PAAK](http://techlabpaak.com/)</description>
+		<content:encoded><![CDATA[<div class="markdown-content">
+<h2 id="gfm-8">About</h2>
+<p>Kazuyuki Suzuki(@kechol), Kei Sawada(@remore), Satomi Yako(@yako_yaco)の3人がPOSTD, HackerNews, 翻訳, The Changelog, Podcastの運用などについて話しました。</p>
+<h2 id="gfm-9">Show Notes and Links</h2>
+<ul>
+<li><a href="http://postd.cc/">POSTD</a></li>
+<li><a href="http://mtl.recruit.co.jp/">Media Technology Lab.</a></li>
+<li><a href="http://rdepf.hatenablog.jp/">HackerNews翻訳してみた</a></li>
+<li><a href="http://www.ianbicking.org/blog/2014/02/saying-goodbye-to-python.html">Saying Good Bye To Python</a></li>
+<li><a href="https://changelog.com/">The Changelog</a></li>
+<li><a href="https://github.com/thechangelog/ping">github.com/thechangelog/ping</a></li>
+<li><a href="https://github.com/postdcc">github.com/postdcc</a></li>
+<li><a href="http://techlife.cookpad.com/entry/2015/03/25/202709">雑な発想を活かすチーム作り</a></li>
+<li><a href="http://rebuild.fm/">Rebuild</a></li>
+<li><a href="https://aws.amazon.com/jp/podcasts/aws-podcast/">AWS Podcast | Listen &amp; Learn About AWS</a></li>
+<li><a href="https://itunes.apple.com/us/podcast/venturebeats-what-to-think/id868742848?mt=2">VentureBeat&#8217;s What to Think Podcast</a></li>
+<li><a href="http://wada.fm/">wada.fm</a></li>
+<li><a href="http://nanapod.kozyty.com/">nanapiのnanapod</a></li>
+<li><a href="http://mozaic.fm/">mozaic.fm</a></li>
+<li><a href="http://techlabpaak.com/">ITクリエイターのためのコミュニティースペース &#8211; TECH LAB PAAK</a></li>
+</ul>
+</div>
+]]></content:encoded>
+		<wfw:commentRss>https://postd.cc/postd-podcast-1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://podcast.postd.cc/01_HowToMakePOSTD.mp3" length="63345602" type="audio/mpeg" />
+		<itunes:subtitle>## About - Kazuyuki Suzuki(@kechol), Kei Sawada(@remore), Satomi Yako(@yako_yaco)の3人がPOSTD, HackerNews, 翻訳, The Changelog, Podcastの運用などについて話しました。 - ## Show Notes and Links - - [POSTD](http://postd.cc/) - [Media Technology Lab.](http://mtl.recruit.</itunes:subtitle>
+		<itunes:summary>## About
+
+Kazuyuki Suzuki(@kechol), Kei Sawada(@remore), Satomi Yako(@yako_yaco)の3人がPOSTD, HackerNews, 翻訳, The Changelog, Podcastの運用などについて話しました。
+
+## Show Notes and Links
+
+- [POSTD](http://postd.cc/)
+- [Media Technology Lab.](http://mtl.recruit.co.jp/)
+- [HackerNews翻訳してみた](http://rdepf.hatenablog.jp/)
+- [Saying Good Bye To Python](http://www.ianbicking.org/blog/2014/02/saying-goodbye-to-python.html)
+- [The Changelog](https://changelog.com/)
+- [github.com/thechangelog/ping](https://github.com/thechangelog/ping)
+- [github.com/postdcc](https://github.com/postdcc)
+- [雑な発想を活かすチーム作り](http://techlife.cookpad.com/entry/2015/03/25/202709)
+- [Rebuild](http://rebuild.fm/)
+- [AWS Podcast | Listen &amp; Learn About AWS](https://aws.amazon.com/jp/podcasts/aws-podcast/)
+- [VentureBeat&#039;s What to Think Podcast](https://itunes.apple.com/us/podcast/venturebeats-what-to-think/id868742848?mt=2)
+- [wada.fm](http://wada.fm/)
+- [nanapiのnanapod](http://nanapod.kozyty.com/)
+- [mozaic.fm](http://mozaic.fm/)
+- [ITクリエイターのためのコミュニティースペース - TECH LAB PAAK](http://techlabpaak.com/)</itunes:summary>
+		<itunes:author>POSTD</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:duration>43:59</itunes:duration>
+		</item>
+	<item>
+		<title>バッドUIを改善する方法 ― UIの「5つの状態」を考える</title>
+		<link>https://postd.cc/how-to-fix-a-bad-user-interface-part1/</link>
+		<pubDate>Fri, 16 Oct 2015 09:00:43 +0000</pubDate>
+		<guid isPermaLink="false">http://postd.cc/?p=4757</guid>
+		<comments>https://postd.cc/how-to-fix-a-bad-user-interface-part1/#respond</comments>
+		<dc:creator></dc:creator>
+		<category><![CDATA[デザイン]]></category>
+		<category><![CDATA[UIデザイン]]></category>
+		<category><![CDATA[ビジュアルデザイン]]></category>
+		<description>(訳注：10/17、頂きました指摘を元に記事を修正致しました。)
+
+こんにちは。このブログは12月にO&#039;Reillyから出版予定の私の著書『[Designing Products People Love](http://scotthurff.com/book)』からの抜粋です。ぜひ本も読んでみてください。また、FacebookやTwitter、 Slackなどで活躍されている20人以上のプロダクトデザイナーにインタビューもしています。*
+
+無味乾燥なUIを経験したことはありますか？*何か*が足りないと感じてしまうようなUIを作ってしまったことはありませんか？
+
+もしそうであれば、使い勝手の悪いUIを経験したのだと思います。
+
+使い勝手の悪いUIには進捗インジケータがありません。ユーザにどこで障害が起きたのか知らせてくれません。怖いエラーメッセージでも表示してくれれば、なお良いのですが。わずかなデータのみの奇妙なグラフです。新しいデータは線形に所定場所に導入します。
+
+使い勝手の悪いUIとは何かまだ分からない人のために実例を挙げましょう。私はApple TVを使用しています。かなりの頻度で。（今もこれを書きながら*Star Wars: Rebels*の最新エピソードを再生しています。）映画の購入履歴を見ると、次のように表示されます。
+
+
+
+一瞬怖くなります。履歴を見ようとするたびに怖い思いをします。この画面を頻繁に利用しています。毎回怖くなる理由は、作業中のインジケータがないからです。一瞬ではありますが、恐ろしい疑問が頭を横切ります。映画の購入履歴はどこなのか、履歴はなくなってしまったのか、削除してしまったのか、乗っ取られてしまったのかなどです。
+
+心臓がバクバクした後、購入履歴が突然表示されます。実に嫌な感じです。
+
+これを映画の再生と比べてみてください。リモコンで「再生」をクリックした後、*バック・トゥ・ザ・フューチャー*が再生準備であることを知らせてくれるインジケータが表示されます。
+
+
+
+違いが分かったと思います。
+
+人間に分かりやすいインターフェイスを作成することによって、我々プロダクトデザイナーは、コンピュータが怠慢であるという悲しい現実に直面することになります。コンピュータは、何があったのか、次は何をすれば良いのか、問題が起きた時にどのように反応をすれば良いのかなどを人に親切に教えてくれることはありません。
+
+
+コンピュータの理想的な世界では、想定外のことが生じた場合にすべきことは、曖昧なエラーコードや怖そうな警告を表示するだけなのです。あるいは、2進法で語りかけるだけなのです。
+
+しかし、人間は2進法で話しません。我々は流れでものを考えますし、物理的な世界に慣れています。ドアを開けると、ドアは弧状に開きます。何かが移動すれば、それが動くのを見ることができます。何かが落ちれば、それが跳ね返るのを見ることができます。
+
+使い勝手の悪いUIは、プロダクトデザイナーがこれらを考慮しなかった結果の産物です。つまり、構築の過程のどこかで、ルールを破ってしまっているのです。
+
+それは、どのルールなのでしょうか。
+
+UIスタックのルールです。これから話しましょう。
+
+##UIスタック
+
+
+
+デジタル製品の画面で操作をする際、どの画面にも複数の側面があります。 
+
+正確には5つの側面があります。
+
+内容にもよりますが、これらの特徴はユーザに知られることになります。デザイナーの観点から言うと、これらの特徴を*状態*と呼びます。画面を作成する時には、これらの状態を常に考慮しておいた方がよいでしょう。
+
+UIスタックのルールに従い、5つの状態を守ることで、寛大で使いやすい、人間味と統一感のあるインターフェイスを作成することができます。
+
+素直に答えてみてください。状態が1つしかない画面を最後に作成したのはいつだったのか。お天気アプリを作成していたとしても、1つだけでは足りません。
+
+実際、我々の住む世界は完璧ではなく、間違いは起こるものです。サーバが反応するのに時間がかかります。さらに、あなたの意図したとおりの使い方で、ユーザは使用してくれるとは限りません。
+
+プロダクトデザイナーとしては、これらを現実のものとして構築の際に考慮しなければなりません。
+
+そのため、デザインする画面には5つの状態が必要となるのです（*次をクリックするとクリックした記事の各セクションに飛びます*）。
+
+* [理想ステート](#ideal)
+* [エンプティステート](#empty)
+* [エラーステート](#error)
+* [パーシャルステート](#partial)
+* [ロードステート](#loading)
+
+ユーザがアプリの流れに沿って移動したとき、状態から状態へと滑らかに移行します。
+
+
+*メッセージアプリのUIスタックの実例。画面から画面へと滑らかに移行します。*
+
+UIスタックの動作を見たい場合は、仮説例のセクションをお読みください。
+
+UIスタックプロトタイプを読む
+
+ちょっとだけ、インターネットの歴史をおさらいしましょう。2004年にBasecampという会社（37signalsとして知られていました）が、『[The Three State Solution（3状態解決法）](https://gettingreal.37signals.com/ch09_Three_State_Solution.php)』という、私にとっては画期的な作品を投稿しました。（難解な問題を解決するために、これを持ち出した訳ではありません。）ここでは、画面には必ず、「通常、エンプティ、エラー」の3つの状態を考えるべきであると述べています。これには、驚きました。そして、私のWebデザインに対する考え方が変わりました。
+
+しかし、インターネット上でもいろいろなことが変化してきました。まず、AJAXという革命が起き、次にモバイルアプリが来ました。その後に来たのが、技術の大量消費です。UIに対する要求や期待が変わりました。これが、この時私は、その時代と考えに適応したのです。
+
+以上を踏まえた上で、理想ステートに話を移しましょう。
+
+理想ステート
+
+私が作成する最初の状態です。大抵これが、ユーザに見てもらいたいものだからです。この状態は、作成している製品の持つ機能を最高に発揮できるよう具体化しているので、ふさわしい名前だと思います。製品が最高の価値を出し、役に立つ使用可能なコンテンツを提供している状態です。これが、画面に作成する他の状態の基礎となります。これを製品の典型的なマーケティングページやモバイルアプリストアのスクリーンショットのように考えてください。
+
+この状態で雰囲気を設定し、他の状態もこれに合わせるのです。それは、インターフェイスに繰り返し手を加えていくと、このUIが時間と共に全く違うものになる場合があるからです。反復作業の素晴らしい所でもあり、リスクでもあるのです。
+
+さらに他の状態に大きく影響する部分なのです。
+
+全てのUIの状態は理想ステートにつながっています。なので、最初にこの状態から始めて、他の状態はユーザの問題を解決する際に落ち着くところに落ち着くようにすれば良いのです。
+
+まだ、理想ステートがどういう状態であるべきなのか分からない場合は、次の例を見てください。
+
+
+*素敵な景色です。データと、多くの写真があります。*
+
+
+*Tinderはこの市場において、最高の理想ステートを持っています。*
+
+エンプティステート
+
+エンプティステートは単に1つの画面ではないのです。自分のアプリの第一印象をユーザに与える場所なのです。ユーザにアクションを起こしてもらったり、興味を持ってもらったりして、製品が何を提供できるのか見極めてもらう場所なのです。
+
+大まかに3つのエンプティステートがあります。1つ目は、初めてユーザが製品を使用した時に見せるものです。2つ目は、ユーザーが自発的に既存データを画面から消去した時のもので、例えば「受信メール：未読0件」のような快適な状態にしようとした時がこれにあたります。3つ目は、例えば、検索して一致する情報がないような、見せるものがない状態です。
+
+大まかに言って、エンプティステートに関するリスクは、エンプティステートに後からいろいろと追加してしまいがちなことです。そうすると多くの場合、詰め込み過ぎて圧倒されるようなものか冷たく人間味のないもののどちらかが出来上がってしまいます。
+
+
+*ジョージ・タケイなら&quot;Oh, my...&quot;と言うところでしょう。*
+
+私の意見では、コーチマーク（操作説明のオーバーレイ表示）は、初めてのユーザにとってどのような経験になるのかよく考えてアプリ構築をしていないことを示す最高の例だと思います。インターフェイスでの操作や操作の暗記などユーザにアプリ操作の習得を委ねてしまうことで、思考までも中断させてしまっています。ユーザにとっては楽しくありません。
+
+初めの使用経験についてさらに詳しく考えてみましょう。
+
+###初使用・初体験
+
+あなたの製品を初めて使うユーザにとって、エンプティステートはデータが存在した場合に何が画面に表示されるのかを分かってもらう機会なのです。この画面からアクションを起こしてもらい、あな...</description>
+		<content:encoded><![CDATA[<div class="markdown-content">
+<p><small>(訳注：10/17、頂きました指摘を元に記事を修正致しました。)</small></p>
+<p>こんにちは。このブログは12月にO&#8217;Reillyから出版予定の私の著書『<a href="http://scotthurff.com/book">Designing Products People Love</a>』からの抜粋です。ぜひ本も読んでみてください。また、FacebookやTwitter、 Slackなどで活躍されている20人以上のプロダクトデザイナーにインタビューもしています。*</p>
+<p>無味乾燥なUIを経験したことはありますか？<em>何か</em>が足りないと感じてしまうようなUIを作ってしまったことはありませんか？</p>
+<p>もしそうであれば、使い勝手の悪いUIを経験したのだと思います。</p>
+<p>使い勝手の悪いUIには進捗インジケータがありません。ユーザにどこで障害が起きたのか知らせてくれません。怖いエラーメッセージでも表示してくれれば、なお良いのですが。わずかなデータのみの奇妙なグラフです。新しいデータは線形に所定場所に導入します。</p>
+<p>使い勝手の悪いUIとは何かまだ分からない人のために実例を挙げましょう。私はApple TVを使用しています。かなりの頻度で。（今もこれを書きながら<em>Star Wars: Rebels</em>の最新エピソードを再生しています。）映画の購入履歴を見ると、次のように表示されます。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/appletv-1.jpg" alt=""></p>
+<p>一瞬怖くなります。履歴を見ようとするたびに怖い思いをします。この画面を頻繁に利用しています。毎回怖くなる理由は、作業中のインジケータがないからです。一瞬ではありますが、恐ろしい疑問が頭を横切ります。映画の購入履歴はどこなのか、履歴はなくなってしまったのか、削除してしまったのか、乗っ取られてしまったのかなどです。</p>
+<p>心臓がバクバクした後、購入履歴が突然表示されます。実に嫌な感じです。</p>
+<p>これを映画の再生と比べてみてください。リモコンで「再生」をクリックした後、<em>バック・トゥ・ザ・フューチャー</em>が再生準備であることを知らせてくれるインジケータが表示されます。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/appletv-2.jpg" alt=""></p>
+<p>違いが分かったと思います。</p>
+<p>人間に分かりやすいインターフェイスを作成することによって、我々プロダクトデザイナーは、コンピュータが怠慢であるという悲しい現実に直面することになります。コンピュータは、何があったのか、次は何をすれば良いのか、問題が起きた時にどのように反応をすれば良いのかなどを人に親切に教えてくれることはありません。</p>
+<p>コンピュータの理想的な世界では、想定外のことが生じた場合にすべきことは、曖昧なエラーコードや怖そうな警告を表示するだけなのです。あるいは、2進法で語りかけるだけなのです。</p>
+<p>しかし、人間は2進法で話しません。我々は流れでものを考えますし、物理的な世界に慣れています。ドアを開けると、ドアは弧状に開きます。何かが移動すれば、それが動くのを見ることができます。何かが落ちれば、それが跳ね返るのを見ることができます。</p>
+<p>使い勝手の悪いUIは、プロダクトデザイナーがこれらを考慮しなかった結果の産物です。つまり、構築の過程のどこかで、ルールを破ってしまっているのです。</p>
+<p>それは、どのルールなのでしょうか。</p>
+<p>UIスタックのルールです。これから話しましょう。</p>
+<h2 id="gfm-10">UIスタック</h2>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/ui-stack.jpg" alt=""></p>
+<p>デジタル製品の画面で操作をする際、どの画面にも複数の側面があります。</p>
+<p>正確には5つの側面があります。</p>
+<p>内容にもよりますが、これらの特徴はユーザに知られることになります。デザイナーの観点から言うと、これらの特徴を<em>状態</em>と呼びます。画面を作成する時には、これらの状態を常に考慮しておいた方がよいでしょう。</p>
+<p>UIスタックのルールに従い、5つの状態を守ることで、寛大で使いやすい、人間味と統一感のあるインターフェイスを作成することができます。</p>
+<p>素直に答えてみてください。状態が1つしかない画面を最後に作成したのはいつだったのか。お天気アプリを作成していたとしても、1つだけでは足りません。</p>
+<p>実際、我々の住む世界は完璧ではなく、間違いは起こるものです。サーバが反応するのに時間がかかります。さらに、あなたの意図したとおりの使い方で、ユーザは使用してくれるとは限りません。</p>
+<p>プロダクトデザイナーとしては、これらを現実のものとして構築の際に考慮しなければなりません。</p>
+<p>そのため、デザインする画面には5つの状態が必要となるのです（<em>次をクリックするとクリックした記事の各セクションに飛びます</em>）。</p>
+<ul>
+<li><a href="#ideal">理想ステート</a></li>
+<li><a href="#empty">エンプティステート</a></li>
+<li><a href="#error">エラーステート</a></li>
+<li><a href="#partial">パーシャルステート</a></li>
+<li><a href="#loading">ロードステート</a></li>
+</ul>
+<p>ユーザがアプリの流れに沿って移動したとき、状態から状態へと滑らかに移行します。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/screens-compressed.jpg" alt=""><br />
+<em>メッセージアプリのUIスタックの実例。画面から画面へと滑らかに移行します。</em></p>
+<p>UIスタックの動作を見たい場合は、仮説例のセクションをお読みください。</p>
+<p><a href="#example" style="padding: 12px; text-decoration: none; background-color: #24A286; border-radius: 10px;color: #fff;">UIスタックプロトタイプを読む</a></p>
+<p>ちょっとだけ、インターネットの歴史をおさらいしましょう。2004年にBasecampという会社（37signalsとして知られていました）が、『<a href="https://gettingreal.37signals.com/ch09_Three_State_Solution.php">The Three State Solution（3状態解決法）</a>』という、私にとっては画期的な作品を投稿しました。（難解な問題を解決するために、これを持ち出した訳ではありません。）ここでは、画面には必ず、「通常、エンプティ、エラー」の3つの状態を考えるべきであると述べています。これには、驚きました。そして、私のWebデザインに対する考え方が変わりました。</p>
+<p>しかし、インターネット上でもいろいろなことが変化してきました。まず、AJAXという革命が起き、次にモバイルアプリが来ました。その後に来たのが、技術の大量消費です。UIに対する要求や期待が変わりました。これが、この時私は、その時代と考えに適応したのです。</p>
+<p>以上を踏まえた上で、理想ステートに話を移しましょう。</p>
+<h2 id="ideal">理想ステート</h2>
+<p>私が作成する最初の状態です。大抵これが、ユーザに見てもらいたいものだからです。この状態は、作成している製品の持つ機能を最高に発揮できるよう具体化しているので、ふさわしい名前だと思います。製品が最高の価値を出し、役に立つ使用可能なコンテンツを提供している状態です。これが、画面に作成する他の状態の基礎となります。これを製品の典型的なマーケティングページやモバイルアプリストアのスクリーンショットのように考えてください。</p>
+<p>この状態で雰囲気を設定し、他の状態もこれに合わせるのです。それは、インターフェイスに繰り返し手を加えていくと、このUIが時間と共に全く違うものになる場合があるからです。反復作業の素晴らしい所でもあり、リスクでもあるのです。</p>
+<p>さらに他の状態に大きく影響する部分なのです。</p>
+<p>全てのUIの状態は理想ステートにつながっています。なので、最初にこの状態から始めて、他の状態はユーザの問題を解決する際に落ち着くところに落ち着くようにすれば良いのです。</p>
+<p>まだ、理想ステートがどういう状態であるべきなのか分からない場合は、次の例を見てください。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/1.skype.jpg" alt=""><br />
+<em>素敵な景色です。データと、多くの写真があります。</em></p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/2.tinder.jpg" alt=""><br />
+<em>Tinderはこの市場において、最高の理想ステートを持っています。</em></p>
+<h2 id="empty">エンプティステート</h2>
+<p>エンプティステートは単に1つの画面ではないのです。自分のアプリの第一印象をユーザに与える場所なのです。ユーザにアクションを起こしてもらったり、興味を持ってもらったりして、製品が何を提供できるのか見極めてもらう場所なのです。</p>
+<p>大まかに3つのエンプティステートがあります。1つ目は、初めてユーザが製品を使用した時に見せるものです。2つ目は、ユーザーが自発的に既存データを画面から消去した時のもので、例えば「受信メール：未読0件」のような快適な状態にしようとした時がこれにあたります。3つ目は、例えば、検索して一致する情報がないような、見せるものがない状態です。</p>
+<p>大まかに言って、エンプティステートに関するリスクは、エンプティステートに後からいろいろと追加してしまいがちなことです。そうすると多くの場合、詰め込み過ぎて圧倒されるようなものか冷たく人間味のないもののどちらかが出来上がってしまいます。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/3.coach.jpg" alt=""><br />
+<em>ジョージ・タケイなら&#8221;Oh, my&#8230;&#8221;と言うところでしょう。</em></p>
+<p>私の意見では、コーチマーク（操作説明のオーバーレイ表示）は、初めてのユーザにとってどのような経験になるのかよく考えてアプリ構築をしていないことを示す最高の例だと思います。インターフェイスでの操作や操作の暗記などユーザにアプリ操作の習得を委ねてしまうことで、思考までも中断させてしまっています。ユーザにとっては楽しくありません。</p>
+<p>初めの使用経験についてさらに詳しく考えてみましょう。</p>
+<h3 id="gfm-11">初使用・初体験</h3>
+<p>あなたの製品を初めて使うユーザにとって、エンプティステートはデータが存在した場合に何が画面に表示されるのかを分かってもらう機会なのです。この画面からアクションを起こしてもらい、あなたの製品の価値を理解してもらうチャンスなのです。第一印象は1回の出来事なので、素晴らしいものにする良い機会なのです。</p>
+<p>この状態を私は文学の世界で言う&#8221;英雄の旅&#8221;に例えます。Joseph Campbellの素晴らしい作品『<em><a href="http://amzn.to/1C6SgTo">Hero With a Thousand Faces</a></em>』(訳注：日本語訳あります。『<a href="http://www.amazon.co.jp/%E5%8D%83%E3%81%AE%E9%A1%94%E3%82%92%E3%82%82%E3%81%A4%E8%8B%B1%E9%9B%84%E3%80%88%E4%B8%8A%E3%80%89-%E3%82%AD%E3%83%A3%E3%83%B3%E3%83%99%E3%83%AB-%E3%82%B8%E3%83%A7%E3%82%BC%E3%83%95/dp/4409590081/ref=sr_1_1?ie=UTF8&amp;qid=1444546456&amp;sr=8-1&amp;keywords=%E5%8D%83%E3%81%AE%E9%A1%94%E3%82%92%E6%8C%81%E3%81%A4%E8%8B%B1%E9%9B%84">千の顔を持つ英雄</a>』)で紹介された神話で、オデュッセイアからスターウォーズまでその世界観が表現されています。基本的な前提は次のとおりです。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/4.hero.jpg" alt=""><br />
+<em>注釈<br />
+call to adventure　冒険への要請<br />
+supernatural aid　神懸かりの援助<br />
+threshold guardians行く手を阻む者<br />
+threshold beginning of transformation　成長・変身のきっかけ<br />
+helper　協力者<br />
+mentor　指導者<br />
+challenges and temptations　課題や誘惑<br />
+helper　協力者<br />
+revelation　啓示<br />
+Abyss　絶望・挫折<br />
+death &amp; rebirth　死と再生<br />
+transformation　変貌<br />
+atonement　償い<br />
+return　帰還<br />
+gift of the goddess　女神からの贈り物</em></p>
+<p>&#8220;英雄は日常の世界から危険を冒してまでも、超自然的な領域に出掛けるのである。出掛けた先々で超人的な力に遭遇し決定的な勝利を収める。英雄は、他の者に恩恵を与えられる力を備えて、不思議な冒険から帰還する。&#8221;エンプティステートでユーザを英雄の旅に出るようかき立てるのです。ユーザを冒険に誘い、課題や誘惑で挫折を味わってもらい、力の備わった人物へと変貌してもらうのです。</p>
+<p>どのように実現すれば良いのでしょうか。次にいくつかのアイデアを挙げてみました。</p>
+<ul>
+<li>
+<p>馬を水のある所まで導いてください。やる気を向上させるような宣伝文句を使い、何をするべきなのかを明確にするのです。例えば、&#8221;ここには見るものがない&#8221;のような文言は、ユーザにとって何を期待するべきなのかという情報を提供していない上に、最初にこれが表示されたらユーザはやる気を失ってしまいます。代わりに、どのボタンを押せば良いのか、なぜ押すのかを説明する方が続けるきっかけになります。</p>
+</li>
+<li>
+<p>製品のコンテンツを使ってユーザに何をするべきか指示してください。例えば、メッセージ系のアプリを構築している場合、メッセージの受信をユーザに最初に体験してもらうと効果的です。&#8221;タップして開いてください&#8221;のような題名にして、受信したメッセージに対してどのように返信すれば良いのかを内容に記述すれば良いのです。</p>
+</li>
+<li>
+<p>スクリーンショットを例として提供し、理想ステートがどのような状態なのか教えてあげてください。ユーザは正しく操作しているか確認ができる上に、製品がどれだけ便利かをユーザに見せびらかすことができます。</p>
+</li>
+<li>
+<p>ユーザの進捗を監視し、進捗に合わせて対応してください。例えば、ユーザが長時間ある画面で止まってしまった場合、困っていないか直接チャットで聞いてあげてください。</p>
+</li>
+</ul>
+<p>私のお気に入りの初使用の際のエンプティステートをいくつか挙げてみました。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/5.hipchat.jpg" alt=""><br />
+<em>Hipchatは率直に何をすれば良いのか教えてくれるのと同時に隠れている楽しい機能などをさりげなく紹介してくれます。</em></p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/6.paper.jpg" alt=""><br />
+<em>Facebook Paperは操作方法を教えながら、次第に機能の紹介をしてくれます。</em></p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/7.basecamp.jpg" alt=""><br />
+<em>Basecampは見せるコンテンツがない場合、何も情報を画面に表示しないのではなく、代わりに製品の使い勝手を想像できる代用のコンテンツを表示します。この画面は私にプロジェクトを立ち上げたいという気持ちをかき立てたので、理想的な生産性のある画面と言えます。</em></p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/8.airbnb.jpg" alt=""><br />
+<em>Airbnb’s Wish Listに初めてアップした時、かっこいいシンプルなエンプティステートが表示されます。私が気に入っているのは、とても自然に（Airbnbのデザイン言語に沿って）明確なCTAボタンでデータ収集を促してくれることです。</em></p>
+<p>初体験や初使用はテーマとして大きく、これだけで1冊の本になります。実はこれをテーマにした本があります。このテーマをさらに知りたい場合は、Samuel Hulickの書いた『<em><a href="https://www.useronboard.com/training/">The Elements of User Onboarding</a></em>』という優れた本をお勧めします。</p>
+<h2 id="gfm-12">ユーザによるデータの消去</h2>
+<p>エンプティステートの2つ目のタイプは、ユーザが自主的にデータを画面から消去した場合です。この例としては、ユーザがToDoリスト上の全てのアイテムを完了する、全ての通知を読む、全てのEメールを処理する、音楽を全てダウンロードし終えるといったものです。</p>
+<p>このようなエンプティステートは、ユーザに報酬を与える、あるいはさらなる行動を促すよい機会です。&#8221;Inbox Zero&#8221;を達成？　素晴らしい！　この写真は見事ですね。音楽を全てダウンロードしたのですか？　では早速聞いてみましょう。通知を全て選別したのですか？　だったらきっと、これを読みたくなるでしょう。</p>
+<p>データを完了させるユーザとは、あなたの製品に引き入れられたユーザです。彼らのために仕事をすることで、あなたの製品がある場所のフローに顧客を留めておきましょう。彼らに次のステップに進むことを負担にさせてはいけません。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/9.mailbox.jpg" alt=""><br />
+<em>iOS 6の年代物のスクリーンショットです。しかし今でも、Inbox Zeroの達成により得られるわずかなドーパミンのしたたりを例証する1枚になっています。あなたが得るのは、自分で選択したInstagramのカフェや夕焼けの写真で、それをInterwebzでシェアすることもできます。さらにそこではInbox Zeroを祝うこともできますし、MailBoxを宣伝することもできます。いいことずくめです。</em></p>
+<h2 id="gfm-13">結果なし</h2>
+<p>ユーザがあなたの製品内でブラウジングしている、あるいはデータの一部を検索している場合、目当てのものが見つからないという可能性があります。このようなシナリオは、ユーザが何を探そうとしているかを示すよい機会、そして賢い提案をするすばらしい機会となります。</p>
+<p>私が見てきた中で、このテクニックを使っている非常にいい例はAmazonです。スペルミスの考慮や類似検索により、Amazonで検索結果が出ないということはめったにありません。その代わり、完全に一致しなくても一番近い検索結果を表示します。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/10.amazon.jpg" alt=""><br />
+<em>私のメタル好きを、ついに暴露する例です。まぁ、時にはこういうこともあります。</em></p>
+<p>Printerestでは、Amazon と全く同じ結果にはなりませんが、でもそれがPinterestです。私の問い合わせを構文解析する方法に基づいた検索なので、ユーザにとっては欲しいものを見つけるために、比較的簡単に検索の単語を調整できるはずです。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/11.pinterest.jpg" alt=""><br />
+教訓：この状態で、単にユーザを退却させてはいけません。ユーザができることを何か与えましょう。あるいは代わりの方法を提示しましょう。</p>
+<h2 id="error">エラーステート</h2>
+<p>何かが間違っているときの画面です。一般的には、エラーは予測できない組み合わせで起こるので、ただの1つの画面よりも複雑です。エラーステートには、フォームデータが欠けているあるいは不完全である、あなたのアプリがサーバに接続できない、アップロードが完了していないのに次の段階に進もうとする、テキストをサブミットせずにページを離れた、などが含まれます。</p>
+<p>エラーステートは、あなたの製品が全てのユーザインプットを安全にするという点での助けにもなるはずです。エラーが発生したときに、ユーザーの入力やアップロードを取り消したり破壊したり削除してしまわないようにしなければなりません。</p>
+<p>このことは、最初のマッキントッシュのクリエイタであり『<em><a href="http://amzn.to/1IVBiqD">The Humane Interface</a></em>』の著者であるJef Raskinの言葉で言い換えられる傾向にあります。彼は「システムは、全てのユーザインプットを神聖なものとして扱うべきで、Isaac Asimovのロボット工学3原則の第1条、&#8221;ロボットは人間に危害を加えてはならない。また、その危険を看過することによって、人間に危害を及ぼしてはならない&#8221;を言い換えると、インターフェイスデザインの第1原則は次のようになるでしょう。『コンピュータはあなたの仕事に危害を加えてはならない。また、その危険を看過することによって、仕事に危害を及ぼしてはならない』」と書きました。</p>
+<p>このアドバイスは、特に不快な形でこれに違反している人たちに心に留めてほしいと思います。例えば、航空会社のWebサイトのケースです。例えばクレジットカードのセキュリティーコードなど、小さなフォームのフィールドが欠けていたとすると、記入されていない部分を攻撃的な赤色で強調したうえで、ページをリロードしてあなたの詳細な入力を吹き飛ばしてしまったりします。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/12.aa.jpg" alt=""><br />
+<img src="http://scotthurff.com/images/posts/ui-stack/13.wp.jpg" alt=""><br />
+<em>さようなら。今までありがとう。</em></p>
+<h3 id="gfm-14">ノー！　イエス！　多分？</h3>
+<p>最後に、コンテクスト上のエラーメッセージを見てみましょう。我々にも分かりやすくするために、少し面白くなっています。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/14.basecamp.jpg" alt=""><br />
+ユーザによって入力されたいかなるデータも失うことなく、動的に起こるエラーステートであることが理想的です。エラーを感知するのにページを再読み込みしなければならないのであれば、問題があるにしろ、製品に入力されたどんなデータも保存してあげることが最善と言えます。しかし、大抵の場合、エラーを感知するためのページの再読み込みは、怠惰の証です。顧客のために、あなたや開発者は、適切に正しくかつ柔軟にエラーを処理する努力をする必要があります。</p>
+<p>加えて、エラーステートは急に起こったり、不確かであったりすべきではありません。&#8221;ブルースクリーン&#8221;やMacの&#8221;カーネルパニック&#8221;、または熟練者の方であれば、&#8221;Abort（中止）、Retry（再試行）、Fail（失敗）？&#8221;といったエラーをご存じでしょう。これらのエラーステートは、必然的にコンピュータを再起動したり、再試行したりする必要がある場合に起こる、とても重要なシステムエラーです。しかしこれらは、エンドユーザに対して驚きや、不安、混乱といった支障を来す現象として、今日では皆さんによく認識されているエラーステートです。</p>
+<p>Microsoftのブルースクリーンは、人々をひどく驚かせるので、悪名高いエラーとして知られています。このブルースクリーンは（レッドスクリーンよりはマシかも）、問題をデバッグするには非常に役に立つ内容なのですが、ユーザにとっては、意味不明で、まとまりがなく、恐ろしい響きの専門用語が並べられているだけです。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/15.bsod.jpg" alt=""><br />
+エラーステートは、次に何をすべきなのかが簡潔で、理解しやすく、その指示が記載されていなければなりません。ブルースクリーンを経験したことがある人にとっては、曖昧なエラーコードや、16進数、分かりにくい実行の選択肢などは、恐怖心を覚えるでしょうし、イライラを募らせることでしょう。</p>
+<p>もちろん、あなたの製品を使う人は、頭の切れる人であったり、コンピュータエンジニアであったりするかもしれません。その場合、このような高度なエラーメッセージは、あなたの顧客には適しているのでしょう。しかし、日常生活の中で適用されるほとんどのソフトウエアにおいては、このようなエラーメッセージは、徐々に敬遠されてきています。</p>
+<p>ですから、エラーメッセージは専門的ではなく、人々が理解できるようにし、あなたの顧客に適した内容にしましょう。何か問題が起きたとき、あなただったらどう伝えてほしいかを考えてみてください。</p>
+<p>エラーステートは、起こるべくして起こる事象であり、デザインする上では、一番好まれない状態です。しかし、前の2つの状態と同じように、エラーステートに対しても最新の注意を払って作成すれば、使うのが楽しい製品になるでしょう。そして、顧客が陥ってしまいがちな落とし穴を考慮し、事前に対策をしておくことで、より使い勝手のよい製品になります。</p>
+<h2 id="partial">パーシャルステート</h2>
+<p>エラーステートと理想ステートの違いは、夜と朝といったように真逆の状態です。しかし、データが1行しかない場合、画面はどのように見えるのでしょう。数枚の写真や、未完成のプロフィールしかなかった場合は？</p>
+<p>パーシャルステートは、ページがエンプティの状態ではなくなり、データがわずかに追加されたときに見える画面です。ここでのあなたの仕事は、顧客が失望してしまったり、製品の使用を諦めてしまったりするのを防ぐことです。</p>
+<p>これは、顧客に理想ステートを満足してもらうために、マイクロインタラクションをデザインするとても良い機会です。あなたの製品が価値のあるものだと、顧客に認識してもらうための重要な部分です。ここが成果の決め手になります。顧客があなたの製品に対して少しでも可能性を見出すことができるように、時間を費やしてもらうのです。あなたの製品のとりこにさせましょう。</p>
+<p>ここでは、いくつかのゲームのデザインの原則が役に立ちます。クラッシュ・オブ・クランを宣伝するために、顧客にクリスタルを集めさせるような演習を課しているわけではありません。あなたの製品のパーシャルステートに&#8221;アクセラレーション&#8221;と呼ばれる概念を導入しようとしているのです。</p>
+<p>これは、プレーヤが将来どれくらい強力になるのかを視覚的に見せる手助けをしたり、構想を実現するために所定のタスクを完了するのをガイドしたりする、ゲームデザイン上での表現です。コツは、あなたの製品から最大の価値を引き出すために、プレーヤに退屈だと思わせないようにすることです。</p>
+<p>&#8220;アクセラレーションフェーズに入ったプレーヤは、レベルアップするために、面倒な操作を繰り返し行うことなど考えていません。彼らは、ただゲームをしているだけで、結果としてのアクセラレーションフェーズを楽しんでいるのです。恐らく、今はまだ知りもしない形で彼らのキャラクタが将来、強力になっていることを望んで夢中になって遊んでいるはずです。技術的に言うならば、プレーヤの予測範囲をはるかに超えてしまう、急激に増加する権力構造を推測していることになります。これは、従来の流れと全く同じとは言えませんが、プレーヤがウキウキした気分になるという点では、主観的に似ていると言えるでしょう&#8221;</p>
+<p>以下は、実際のパーシャルステートの良い例です。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/16.linkedin.jpg" alt=""><br />
+<em>LinkedInで有名な&#8221;プロフィールの完成度&#8221;を示したバーです。100%を達成するのに必要なタスクを表示して、完成度を高める手助けをしています。達成を促進するものです。</em></p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/17.dbx.jpg" alt=""><br />
+<em>Dropboxでは、追加のストレージを得るには、後どれだけのタスクが必要なのかを示しています。ほとんどのDropboxユーザは、これに魅力を感じています。私も納得です。Dropboxでは、単純に達成までに何ステップ必要かを示すだけでなく、顧客に対して知識を提供し、使用を促進させるという、更なる価値を与える効果も生み出しています。</em></p>
+<h2 id="loading">ロードステート</h2>
+<p>この状態は容易に見落とされてしまいがちで、多くのプロダクトデザイナーは後からロードステートを追加しています。しかし、ユーザに期待感を抱かせるのは非常に大変なことです。アプリがデータの読み込みをしていたり、インターネットへの接続を待っていたり、他の画面に移行していたりする時、データを取ってきているという状況を示すことに気を配らなければなりません。これには、全体のページの切り替わりや、内容が表示される要素の遅延ローディング、インラインロード(フォームフィールドのユーザ名の有効性を調べる時に使われます)などが含まれます。</p>
+<p>placing a massive burden of responsibility on the content that isn’t there.</p>
+<p>そして読み込みの検知も同じくらい重要です。デザイナーは、まだ読み込み終わっていないコンテンツを非常に大きな量として見積もり、単純に画面をホワイトスペースやスピナーで埋めたりしがちです。これは、比喩的に言えば、ユーザーに対して時計を見るように言っているようなものです。つまり、実際に読み込まれた状況に応じてして、状況を示すインジケータに注目を置くべきと言っているのです。</p>
+<p>これは、<a href="http://www.lukew.com/ff/entry.asp?1797">Luke Wroblewskiの信念でもあります</a>。彼はモバイルポーリングのスタートアップ企業Polarを売却した後、現在では、Googleに籍を置いています。eBayやYahoo!でチームを率いていた経験もあり、これらのデザイン用語に精通するプロダクトデザインのエキスパートです。</p>
+<p>Wroblewskiと彼のチームは、各ポーリングに対して一連の読み込みスピナーを実装させたところ、Polarの顧客から、「ページのリフレッシュや読み込みにすごく時間がかかる、前のバージョンよりも遅くなった」と言ったアプリの起動の遅さについての苦情が寄せられるようになったことを知りました。</p>
+<p>そのことから、Wroblewskiは、「状況を示すインジケータを導入したことで、顧客に時計を見るようなことをさせてしまった」と発言しました。「その結果、時間の進みが遅くなり、アプリそのものも遅くなってしまった。我々は、進行状況ではなくインジケータに重点を置くようにしたことで、顧客のイライラを排除し、目標に向かって前進しているということを明確にすることができた」と語っています。</p>
+<h3 id="gfm-15">スケルトンスクリーン</h3>
+<p>上記の内容を実現するために作られたのが、まさにWroblewskiの言う&#8221;スケルトンスクリーン&#8221;です。この技術は今、Web版及びモバイル版のPinterestとFacebookに使用されています。</p>
+<p>スケルトンスクリーンは、ロードステートを斬新に捉えています。実際はコンテンツを読み込んでいる最中であっても、その読み込まれていくコンテンツに比重を置くようにしているのです。具体的にはページの枠組みを先に表示して、足りないパーツは、ダウンロードしながら徐々に埋めていきます。この手法を使うと、スピナーを全く使わずに済むというメリットがあり、ユーザが体感する製品のパフォーマンスも向上します。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/18.polar.jpg" alt=""><br />
+Luke Wroblewskiのアプリ、Polarのスケルトンロード画面</p>
+<p>Pinterestでも、ロードステートにスケルトンスクリーンを用いたコンセプトを採用していますが、実装方法にアレンジを加えています。Pinterestでは、まずピンの画像の&#8221;平均色&#8221;を抽出して、その色でピンの背景を塗りつぶします。そうするとユーザは、ピンの画像が読み込まれる前に、どんなピンが表示されるのかを予測できるわけです。</p>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/19.paper.jpg" alt=""><br />
+FacebookもモバイルアプリであるPaper向けに同様の技術を考案し、後にそれをWeb版にも実装しました。更に、&#8221;shimmer効果&#8221;と呼ばれる技術を組み合わせることで、コンテンツに似せた形のスタイル化されたスケルトンスクリーンを表示しています。コンテンツの形をしたパーツをshimmer効果でチラチラさせて、コンテンツが読み込み中であることを表現しているのです。</p>
+<h3 id="gfm-16">うまくいくと信じて、楽観的に動作させよう</h3>
+<p><img src="http://scotthurff.com/images/posts/ui-stack/20.insta.jpg" alt=""><br />
+「待ち時間に、待ちたいと思う人は誰もいない」。これは、<a href="https://speakerdeck.com/mikeyk/secrets-to-lightning-fast-mobile-design">Instagramの共同創業者であるMike Kriegerが2011年に発した</a>言葉です。彼がそう言ったのは、Instagramアプリの体感速度を、技術的にどう達成したかを語っている最中でした。</p>
+<p>実際Kriegerは、製品は&#8221;楽観的に&#8221;動作すべきだ、という概念を考案した人物でもあります。うまく動くと信じれば、動作速度は格段に上がったように見えるのです。</p>
+<p>例として写真に「いいね」と評価したり、コメントを残したりする場合を考えてみましょう。どちらの場合も、ユーザから見れば一瞬で動作が完了しますが、実際はバックグラウンドで、製品がサーバにリクエストを送って動作を完了させています。</p>
+<p>楽観的に動作をさせれば、メディアをアップロードする際の体感速度も飛躍的に向上します。Instagramの例で言うと、写真のアップロードを開始するタイミングは、アップロード手順の最後でユーザが&#8221;Done&#8221;ボタンをタップした時ではなく、フィルタが選択された直後です。これが技術的なソリューションとして最適というわけではありませんし、ユーザが前の処理に戻ったら、データが不要になることもあるでしょう。とはいえ、かなり高速でアップロードしているように見せることは可能です。「誰も見てないうちに、ちょっと動かしてしまえ」というスローガンに従えば、製品のスピードを強みの1つにすることもできるでしょう。</p>
+<p>これまで、UIスタックや5つの個々の状態について、たくさんの例を見てきました。でも、それらはどのように連携するのでしょうか？　そしてUIは各状態間の遷移を、どうのように認識するのでしょう。</p>
+<p>ここで力を発揮するのがUIスタックです。5つの状態は隔離された空間に存在しているわけではありません。これらは上下に積み重なっていて、いつでも製品から呼び出すことができます。それぞれの状態を把握するだけでなく、各状態で画面がどう変化するかを決めるのも、あなたの仕事ですよ。</p>
+<p>これらのアイデアを説明するために、私は仮のメッセージアプリを作成してみました。</p>
+<p>なぜメッセージアプリ？　進行中の5つの状態が一目で分かる例じゃないのに、と思った方もいるでしょう。でもメッセージのインタフェースのように短い時間しか表示されないUIであっても、UIスタックのルールに従っていることが分かる、実にいい例なのです。もっと言えば、各画面の状態をスムーズに遷移させるという重責を私たちが背負っていることを示してくれる例でもあります。</p>
+<p>ではメッセージアプリを扱うには、何をすべきなのでしょうか。</p>
+<p>まずはメッセージが1件もない状態を考える必要があります。これが、いわゆるブランクの状態です。</p>
+<p>パーシャルステートは、どちらか一方のみがメッセージを1件送信した状態です。</p>
+<p>そしてメッセージ受信中には、入力中のインジケータが表示されます。つまりはロードステートです。</p>
+<p>でも待ってください。ロードステートには別の状態もありますよね。そう、メッセージを送信した時です。その際は配信確認が表示されます。</p>
+<p>途中でエラーが発生することもあるでしょう。これはメッセージの送信に失敗する場合です。</p>
+<p>エラーから復帰して、再送信を試みる際の仕組みも忘れてはいけません。そこにもう1つのロードステートがあります。</p>
+<p>そして最後に理想ステートに達します。すなわちメッセージで会話が成り立っている状態です。</p>
+<h2 id="example">仮説的な例</h2>
+<p>では電話番号を交換したMartyとDocの例を考えてみましょう。ここではMartyがTwin Pines Mallで目撃したものについて、Docにメッセージを送りたいとします。</p>
+<p>最初はメッセージが何もないので、エンプティステートが使えます。そしてユーザに期待通りの操作、この場合だとメッセージの送信をするよう促します。</p>
+<p>ではメッセージ送信後、この状態はどうなるでしょうか。次はこのエンプティステートから、すみやかにパーシャルステート、つまりはMartyが1件メッセージを送信した状態に移行しないといけません。</p>
+<p><video width="500" height="888" controls=""><source src="http://scotthurff.com/images/posts/ui-stack/1.empty-to-partial.mov" type="video/mp4"></video></p>
+<p>では、Docが返信したところまで早送りしましょう。彼はメッセージを1件送信したところですが、まだ入力は続いています。この入力インジケータもまた、ロードステートを表しています。</p>
+<p><video width="500" height="888" controls=""><source src="http://scotthurff.com/images/posts/ui-stack/2.message-incoming.mov" type="video/mp4"></video></p>
+<p>入力が終わってメッセージの送信が完了したら、入力インジケータが表示された状態から抜けます。そして新しいメッセージを表示し、それ以外のものは全て消します。</p>
+<p>ではMartyが返信したい場合はどうなるでしょう。まずフィールドに文字が入力されている場合は、その状態が分かるような表示にしないといけません。つまり、どうすれば&#8221;送信&#8221;ボタンがグレー（無効）からブルー（有効）に変わるのかを示すのです。一度メッセージを送信すると、送信プロセス用に別のロードステートが発生します。この状態では、まだ配信に成功していません。よってユーザに配信が成功したことを示す&#8221;配信済み&#8221;のスタンプが表示されるまでは、メッセージをグレーで表示しておきます。</p>
+<p><video width="500" height="888" controls=""><source src="http://scotthurff.com/images/posts/ui-stack/3.message-send.mov" type="video/mp4"></video></p>
+<p>ではメッセージがうまく配信できなかった場合は、どうなるでしょう。それがエラーステートですね。読み込み中のスピナーの代わりに赤い印が表示され、メッセージはずっと&#8221;未配信&#8221;のグレー表示のままになります。未配信メッセージをタップ（この場合だとQuartz Composerのプロトタイプをクリック）すると、再送を試みます。今度は運よく、ご立腹の赤いエクスクラメーションマークが消え、メッセージが書き込まれたので、配信済みインジケータが表示されました。</p>
+<p><video width="500" height="888" controls=""><source src="http://scotthurff.com/images/posts/ui-stack/4.error-recovery.mov" type="video/mp4"></video></p>
+<h2 id="gfm-17">現実世界に話を戻しましょう</h2>
+<p>皆さん、これがUIスタックの動作です。5つの画面状態があって、各状態間の遷移はスムーズに行われます。このような暫定要素がないと、新たな状態が発生・消滅した際に、ユーザを混乱させたり、驚かせたりしてしまう恐れがあります。ユーザを不快にして、混乱させることが、私たちの本来の仕事ではないですよね。</p>
+<p>最後になりますが、これらの5つの状態はデザインと開発が密に連携しないと実現できません。どちらにも時間を注ぎましょう。そして素晴らしい包括的なユーザエクスペリエンスを提供するために、両者の担当は一丸となって取り組むべきです。</p>
+<p>（この投稿を気に入っていただけたら、ぜひ共有してください<a href="http://ctt.ec/w99_F">ワンクリックでツイートできます（送信前に編集も可能です）</a>）。</p>
+<h2 id="gfm-18">この興味深い記事のまとめ</h2>
+<ul>
+<li>自身の理想ステートだけを念頭にデザインを行ったり、他の状態を追加したりしてはいけません。あなたの製品は問題を解決するためのものです。それぞれの画面状態が、どのようにしてユーザを最終目的へ導くのか考えましょう。</li>
+<li>Samuel Hulickの『The Elements of User Onboarding』をぜひ読んでください。</li>
+<li>プロトタイプ作成時は、ロードステートにも注力しましょう。ロードステートも製品の一部なので、おろそかにしてはダメですよ。感覚的な、そして出来ることなら実際のパフォーマンスを改善する方法を見つけるため、エンジニアたちと打ち合わせをしましょう。</li>
+<li>時間を取って、エラーを引き起こす可能性のあるエッジケースについて熟考してください。そして、それらの対処法も考えましょう。ユーザに対する最も親切なレスポンスは何でしょうか？　コストと利益はトレードオフの関係にありますが、少なくとも致命的なエラーはカバーして、ユーザのデータを保護するために最善を尽くしてくださいね。</li>
+</ul>
+</div>
+]]></content:encoded>
+		<wfw:commentRss>https://postd.cc/how-to-fix-a-bad-user-interface-part1/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://scotthurff.com/images/posts/ui-stack/1.empty-to-partial.mov" length="1486227" type="video/quicktime" />
+		<itunes:subtitle>(訳注：10/17、頂きました指摘を元に記事を修正致しました。) - こんにちは。このブログは12月にO&#039;Reillyから出版予定の私の著書『[Designing Products People Love](http://scotthurff.com/book)』からの抜粋です。ぜひ本も読んでみてください。また、FacebookやTwitter、 Slackなどで活躍されている20人以上のプロダクトデザイナーにインタビューもしています。* - </itunes:subtitle>
+		<itunes:summary>(訳注：10/17、頂きました指摘を元に記事を修正致しました。)
+
+こんにちは。このブログは12月にO&#039;Reillyから出版予定の私の著書『[Designing Products People Love](http://scotthurff.com/book)』からの抜粋です。ぜひ本も読んでみてください。また、FacebookやTwitter、 Slackなどで活躍されている20人以上のプロダクトデザイナーにインタビューもしています。*
+
+無味乾燥なUIを経験したことはありますか？*何か*が足りないと感じてしまうようなUIを作ってしまったことはありませんか？
+
+もしそうであれば、使い勝手の悪いUIを経験したのだと思います。
+
+使い勝手の悪いUIには進捗インジケータがありません。ユーザにどこで障害が起きたのか知らせてくれません。怖いエラーメッセージでも表示してくれれば、なお良いのですが。わずかなデータのみの奇妙なグラフです。新しいデータは線形に所定場所に導入します。
+
+使い勝手の悪いUIとは何かまだ分からない人のために実例を挙げましょう。私はApple TVを使用しています。かなりの頻度で。（今もこれを書きながら*Star Wars: Rebels*の最新エピソードを再生しています。）映画の購入履歴を見ると、次のように表示されます。
+
+
+
+一瞬怖くなります。履歴を見ようとするたびに怖い思いをします。この画面を頻繁に利用しています。毎回怖くなる理由は、作業中のインジケータがないからです。一瞬ではありますが、恐ろしい疑問が頭を横切ります。映画の購入履歴はどこなのか、履歴はなくなってしまったのか、削除してしまったのか、乗っ取られてしまったのかなどです。
+
+心臓がバクバクした後、購入履歴が突然表示されます。実に嫌な感じです。
+
+これを映画の再生と比べてみてください。リモコンで「再生」をクリックした後、*バック・トゥ・ザ・フューチャー*が再生準備であることを知らせてくれるインジケータが表示されます。
+
+
+
+違いが分かったと思います。
+
+人間に分かりやすいインターフェイスを作成することによって、我々プロダクトデザイナーは、コンピュータが怠慢であるという悲しい現実に直面することになります。コンピュータは、何があったのか、次は何をすれば良いのか、問題が起きた時にどのように反応をすれば良いのかなどを人に親切に教えてくれることはありません。
+
+
+コンピュータの理想的な世界では、想定外のことが生じた場合にすべきことは、曖昧なエラーコードや怖そうな警告を表示するだけなのです。あるいは、2進法で語りかけるだけなのです。
+
+しかし、人間は2進法で話しません。我々は流れでものを考えますし、物理的な世界に慣れています。ドアを開けると、ドアは弧状に開きます。何かが移動すれば、それが動くのを見ることができます。何かが落ちれば、それが跳ね返るのを見ることができます。
+
+使い勝手の悪いUIは、プロダクトデザイナーがこれらを考慮しなかった結果の産物です。つまり、構築の過程のどこかで、ルールを破ってしまっているのです。
+
+それは、どのルールなのでしょうか。
+
+UIスタックのルールです。これから話しましょう。
+
+##UIスタック
+
+
+
+デジタル製品の画面で操作をする際、どの画面にも複数の側面があります。 
+
+正確には5つの側面があります。
+
+内容にもよりますが、これらの特徴はユーザに知られることになります。デザイナーの観点から言うと、これらの特徴を*状態*と呼びます。画面を作成する時には、これらの状態を常に考慮しておいた方がよいでしょう。
+
+UIスタックのルールに従い、5つの状態を守ることで、寛大で使いやすい、人間味と統一感のあるインターフェイスを作成することができます。
+
+素直に答えてみてください。状態が1つしかない画面を最後に作成したのはいつだったのか。お天気アプリを作成していたとしても、1つだけでは足りません。
+
+実際、我々の住む世界は完璧ではなく、間違いは起こるものです。サーバが反応するのに時間がかかります。さらに、あなたの意図したとおりの使い方で、ユーザは使用してくれるとは限りません。
+
+プロダクトデザイナーとしては、これらを現実のものとして構築の際に考慮しなければなりません。
+
+そのため、デザインする画面には5つの状態が必要となるのです（*次をクリックするとクリックした記事の各セクションに飛びます*）。
+
+* [理想ステート](#ideal)
+* [エンプティステート](#empty)
+* [エラーステート](#error)
+* [パーシャルステート](#partial)
+* [ロードステート](#loading)
+
+ユーザがアプリの流れに沿って移動したとき、状態から状態へと滑らかに移行します。
+
+
+*メッセージアプリのUIスタックの実例。画面から画面へと滑らかに移行します。*
+
+UIスタックの動作を見たい場合は、仮説例のセクションをお読みください。
+
+&lt;a href=&quot;#example&quot; style=&quot;padding: 12px; text-decoration: none; background-color: #24A286; border-radius: 10px;color: #fff;&quot;&gt;UIスタックプロトタイプを読む&lt;/a&gt;
+
+ちょっとだけ、インターネットの歴史をおさらいしましょう。2004年にBasecampという会社（37signalsとして知られていました）が、『[The Three State Solution（3状態解決法）](https://gettingreal.37signals.com/ch09_Three_State_Solution.php)』という、私にとっては画期的な作品を投稿しました。（難解な問題を解決するために、これを持ち出した訳ではありません。）ここでは、画面には必ず、「通常、エンプティ、エラー」の3つの状態を考えるべきであると述べています。これには、驚きました。そして、私のWebデザインに対する考え方が変わりました。
+
+しかし、インターネット上でもいろいろなことが変化してきました。まず、AJAXという革命が起き、次にモバイルアプリが来ました。その後に来たのが、技術の大量消費です。UIに対する要求や期待が変わりました。これが、この時私は、その時代と考えに適応したのです。
+
+以上を踏まえた上で、理想ステートに話を移しましょう。
+
+理想ステート
+
+私が作成する最初の状態です。大抵これが、ユーザに見てもらいたいものだからです。この状態は、作成している製品の持つ機能を最高に発揮できるよう具体化しているので、ふさわしい名前だと思います。製品が最高の価値を出し、役に立つ使用可能なコンテンツを提供している状態です。これが、画面に作成する他の状態の基礎となります。これを製品の典型的なマーケティングページやモバイルアプリストアのスクリーンショットのように考えてください。
+
+この状態で雰囲気を設定し、他の状態もこれに合わせるのです。それは、インターフェイスに繰り返し手を加えていくと、このUIが時間と共に全く違うものになる場合があるからです。反復作業の素晴らしい所でもあり、リスクでもあるのです。
+
+さらに他の状態に大きく影響する部分なのです。
+
+全てのUIの状態は理想ステートにつながっています。なので、最初にこの状態から始めて、他の状態はユーザの問題を解決する際に落ち着くところに落ち着くようにすれば良いのです。
+
+まだ、理想ステートがどういう状態であるべきなのか分からない場合は、次の例を見てください。
+
+
+*素敵な景色です。データと、多くの写真があります。*
+
+
+*Tinderはこの市場において、最高の理想ステートを持っています。*
+
+エンプティステート
+
+エンプティステートは単に1つの画面ではないのです。自分のアプリの第一印象をユーザに与える場所なのです。ユーザにアクションを起こしてもらったり、興味を持ってもらったりして、製品が何を提供できるのか見極めてもらう場所なのです。
+
+大まかに3つのエンプティステートがあります。1つ目は、初めてユーザが製品を使用した時に見せるものです。2つ目は、ユーザーが自発的に既存データを画面から消去した時のもので、例えば「受信メール：未読0件」のような快適な状態にしようとした時がこれにあたります。3つ目は、例えば、検索して一致する情報がないような、見せるものがない状態です。
+
+大まかに言って、エンプティステートに関するリスクは、エンプティステートに後からいろいろと追加してしまいがちなことです。そうすると多くの場合、詰め込み過ぎて圧倒されるようなものか冷たく人間味のないもののどちらかが出来上がってしまいます。
+
+
+*ジョージ・タケイなら&quot;Oh, my...&quot;と言うところでしょう。*
+
+私の意見では、コーチマーク（操作説明のオーバーレイ表示）は、初めてのユーザにとってどのような経験になるのかよく考えてアプリ構築をしていないことを示す最高の例だと思います。インターフェイスでの操作や操作の暗記などユーザにアプリ操作の習得を委ねてしまうことで、思考までも中断させてしまっています。ユーザにとっては楽しくありません。
+
+</itunes:summary>
+		<itunes:author>POSTD</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		</item>
+	<item>
+		<title>ゲームボーイアドバンスのゲームを書こう</title>
+		<link>https://postd.cc/writing-a-game-boy-advance-game/</link>
+		<pubDate>Thu, 24 Sep 2015 09:00:32 +0000</pubDate>
+		<guid isPermaLink="false">http://postd.cc/?p=4596</guid>
+		<comments>https://postd.cc/writing-a-game-boy-advance-game/#respond</comments>
+		<dc:creator></dc:creator>
+		<category><![CDATA[プログラミング]]></category>
+		<category><![CDATA[C言語]]></category>
+		<category><![CDATA[ゲーム開発]]></category>
+		<description>子どもの頃は、ゲームボーイのゲーム（たいがい、かなりひどいもの）で遊ぶのにたっぷり時間を費やしました。これまでは「標準の」一般的な目的に使われるコンピュータ以外のためにコードを書いたことはなかったのですが、最近考えるようになりました。「ゲームボーイ（アドバンス）のゲームは簡単に書けるだろうか？」
+
+ゲーム機には詳しくない方のために説明すると、ゲームボーイアドバンス（GBA）は、任天堂が発売した人気携帯型ゲーム機でした（写真下）。240 x 160 (3:2) 15ビット カラーLCDディスプレイ、6種類のボタンと十字キーが付いています。
+
+
+ゲームボーイアドバンス
+
+内部を見ると、GBAのCPUは32-bit ARM7TDMI RISCコア（16.78MHz）です。標準の32-bit ARMのインストラクションのほかに、このチップは16ビット [Thumb](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0210c/CACBCAAE.html)のインストラクションも実行できます。Thumbのインストラクションセットは、非常に一般的な32-bit ARMのインストラクションのいくつかに対してたった16ビットのエンコーディングを行うため、スペースを節約できます。
+
+メモリについては、このデバイスはCPUの中に130KBの内蔵メモリ（うち96KBはVRAM、32KBは一般利用、2KBはその他に使われている）、CPUの外部に256KBのRAMを擁しています。またシステムは、BIOSを格納する16KBのシステムROMを持っています。他にも先行機のゲームボーイカラーとの上位互換に関わる機能がいろいろあるのですが、ここでは触れません。
+
+以上全ての本体メモリに加え、GBAは一般的にいくつかの種類のゲームカートリッジを搭載できました。これらはたいていROM（インストラクション、リードオンリーデータなどを格納する）といくつかの形態のミュータブルなストレージ（SRAM、フラッシュメモリまたはEEPROMが多い）で構成されています。Game Pak ROMが16ビット幅のバス経由で接続されるので、ゲームコードの多くの時間、32ビット ARMのインストラクションよりも、当然16ビットのThumbインストラクションを使います。
+
+
+GBA Game Pakの例（[reinerziegier.de](http://reinerziegler.de/GBA/gba.htm)提供）
+
+これまで見てきたメモリセクション、I/Oハードウェアレジスタ（グラフィック、音、DMAなどを制御する）は、メモリにマッピングされており、下記のようなレイアウトになっています。
+
+* ```0x00000000 - 0x00003FFF``` - 16KBシステムROM（実行可能だが読み出し不可）
+* ```0x02000000 - 0x02030000``` - 256 KB EWRAM (標準目的の外部RAM）
+* ```0x03000000 - 0x03007FFF``` - 32 KB IWRAM（標準目的の内部RAM）
+* ```0x04000000 - 0x040003FF``` - I/Oレジスタ
+* ```0x05000000 - 0x050003FF``` - 1KB カラーパレット RAM
+* ```0x06000000 - 0x06017FFF``` - 96KB VRAM （ビデオRAM）
+* ```0x07000000 - 0x070003FF``` - 1KB OAM RAM （オブジェクト属性メモリ - 後で説明します）
+* ```0x08000000 - 0x????????``` - Game Pak ROM (0 から 32MB)
+* ```0x0E000000 - 0x????????``` - Game Pak RAM
+
+これらのセクションは異なるバス幅、読み出し／書き込み権限（たとえば、VRAMには個別のバイト数書き込みは不可）を持っており、いくつかのセクションはメモリに複数の点に渡るミラーデータも持っています。実際にはもう少し複雑な状況がありますが、これが基本的なGBAゲームを作るのに必要とする主な構造です。
+
+デバイスのメモリ構造が分かったところで、GBA ROMで&quot;Hello, World!&quot;を表示させるプランは次のとおりです。Game Pak ROMにThumbコードを書きます。これはI/Oレジスタに、特定のディスプレイモードに適したディスプレイ変数を設定するものです。そして表示させたいグラフィックデータをVRAMに書きます。デバイスの理論は置いておいて、まずは実際に何かを作ってみましょう。
+
+##開発環境のセットアップ
+
+GBA ROM構築プランを実行するにあたり、ROMフォーマットについて知る必要があります。細かいところに入り込む前に見ておきたいのは、GBA ROMは標準ヘッダで始まるということです。プログラムの開始アドレスの枝分かれを指示する4バイトARMインストラクションで始まり、次にいくつかの[「magic」](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0))バイトが任天堂ロゴを表示させます。
+
+加えて、このヘッダにはゲームに関するデータ（ゲームタイトルなど）とこのデータの&#039;check&#039;値が含まれます。ROMが最適に実行されるために、ヘッダは完璧に正しくなければならないことを知っておきましょう（特に、エミュレータでなくある実在のデバイスで動かすことを目的にしている場合）。
+
+ありがたいことに、ROM作成過程のほぼ全てに使える良いツールチェーンがあります。私が使っている[devkitARM](http://devkitpro.org/wiki/Getting_Started/devkitARM)ツールチェーン（GCCツールチェーンをベースにしたdevkitProのツールチェーンの1つ）は、プロセスを非常に簡単にしてくれます。ツールチェーンをセットアップしたら、実質4つの手順で、CコードをGBA ROMに入れることができるのです。
+
+1. CコードをGBAのCPUのThumbインストラクションに**クロスコンパイル**します。ROMコード製のThumbオブジェクトファイルが生成されます。
+2. オブジェクトファイルを、特定の「specs」ファイルを用いて実行可能ファイルにリンクし、リンクのふるまいを制御できるようにします。通常specsファイルは1つのリンクスクリプト（セグメントの位置—多くのミュータブルデータはIWRAMに、&#039;const&#039;データはROMに格納されます—、列などを特定し、GBAのコンパイルを正しい状態にします）と、その他複数のオブジェクトファイル（多くは標準ROMヘッダ、スタートアップルーティン、プログラム初期化・終了コード）を持っています。
+3. 完全に近いROMファイルを得るため、必要のない情報の実行可能ファイル（実行可能ヘッダ、シンボル、移動情報など）を**取り除きます**。
+4. 前段階でできたROMファイル上でユーティリティを走らせ、ヘッダを**修正**します（ヘッダの任天堂ロゴデータが正しいか、「check」値は全て適切か、など）。
+
+私のマシンOS Xで使用しているツールチェーンのバージョンでは、上述したようにCファイルをGBA ROMにコンパイルする際、次のコマンドを実行することができます（PATH環境変数を```/opt/devkitpro/devkitARM/bin```だとして）。
+
+1. ```arm-none-eabi-gcc -c main.c -mthumb-interwork -mthumb -O2 -o main.o```
+2. ```arm-none-eabi-gcc main.o -mthumb-interwork -mthumb -specs=gba.specs -o main.elf```
+3. ```arm-none-eabi-objcopy -v -O binary main.elf main.gba```
+4. ```gbafix main.gba```
+
+最初のステップ（コンパイル）で、追加で立てておきたいフラグが他にもあるかもしれません。その場合、たとえば、```-fno-strict-aliasing```を使う事をおすすめします。ローメモリとポインタを多数扱いますし、C言語の厳密な言い換え規則に煩わされたくないためです。あるいは、Makefileかシェルスクリプトをこれらのコマンドと共に書くのも、ROMコンパイルを容易にするのに有益かもしれません。このような詳細はこの投稿ではやや不必要と思われるかもしれませんが。
+
+C言語からROMコンパイルのプロセスが確立したら、早速実行、テストをしてみましょう。理論には興味がない読者のため、今回作成しているGBA ROM &quot;Hello, World&quot; のコードを提示し、話は後にしましょう。
+
+</description>
+		<content:encoded><![CDATA[<div class="markdown-content">
+<p>子どもの頃は、ゲームボーイのゲーム（たいがい、かなりひどいもの）で遊ぶのにたっぷり時間を費やしました。これまでは「標準の」一般的な目的に使われるコンピュータ以外のためにコードを書いたことはなかったのですが、最近考えるようになりました。「ゲームボーイ（アドバンス）のゲームは簡単に書けるだろうか？」</p>
+<p>ゲーム機には詳しくない方のために説明すると、ゲームボーイアドバンス（GBA）は、任天堂が発売した人気携帯型ゲーム機でした（写真下）。240 x 160 (3:2) 15ビット カラーLCDディスプレイ、6種類のボタンと十字キーが付いています。</p>
+<p><img src="https://www.reinterpretcast.com/images/game-boy-advance.png?v=fca451251663d801ebd51311878f2683"><br />
+ゲームボーイアドバンス</p>
+<p>内部を見ると、GBAのCPUは32-bit ARM7TDMI RISCコア（16.78MHz）です。標準の32-bit ARMのインストラクションのほかに、このチップは16ビット <a href="http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0210c/CACBCAAE.html">Thumb</a>のインストラクションも実行できます。Thumbのインストラクションセットは、非常に一般的な32-bit ARMのインストラクションのいくつかに対してたった16ビットのエンコーディングを行うため、スペースを節約できます。</p>
+<p>メモリについては、このデバイスはCPUの中に130KBの内蔵メモリ（うち96KBはVRAM、32KBは一般利用、2KBはその他に使われている）、CPUの外部に256KBのRAMを擁しています。またシステムは、BIOSを格納する16KBのシステムROMを持っています。他にも先行機のゲームボーイカラーとの上位互換に関わる機能がいろいろあるのですが、ここでは触れません。</p>
+<p>以上全ての本体メモリに加え、GBAは一般的にいくつかの種類のゲームカートリッジを搭載できました。これらはたいていROM（インストラクション、リードオンリーデータなどを格納する）といくつかの形態のミュータブルなストレージ（SRAM、フラッシュメモリまたはEEPROMが多い）で構成されています。Game Pak ROMが16ビット幅のバス経由で接続されるので、ゲームコードの多くの時間、32ビット ARMのインストラクションよりも、当然16ビットのThumbインストラクションを使います。</p>
+<p><img src="https://www.reinterpretcast.com/images/game-boy-advance-game-pak-inside.png?v=1c7bc75f294e09da8367436e15423d83"><br />
+GBA Game Pakの例（<a href="http://reinerziegler.de/GBA/gba.htm">reinerziegier.de</a>提供）</p>
+<p>これまで見てきたメモリセクション、I/Oハードウェアレジスタ（グラフィック、音、DMAなどを制御する）は、メモリにマッピングされており、下記のようなレイアウトになっています。</p>
+<ul>
+<li><code>0x00000000 - 0x00003FFF</code> &#8211; 16KBシステムROM（実行可能だが読み出し不可）</li>
+<li><code>0x02000000 - 0x02030000</code> &#8211; 256 KB EWRAM (標準目的の外部RAM）</li>
+<li><code>0x03000000 - 0x03007FFF</code> &#8211; 32 KB IWRAM（標準目的の内部RAM）</li>
+<li><code>0x04000000 - 0x040003FF</code> &#8211; I/Oレジスタ</li>
+<li><code>0x05000000 - 0x050003FF</code> &#8211; 1KB カラーパレット RAM</li>
+<li><code>0x06000000 - 0x06017FFF</code> &#8211; 96KB VRAM （ビデオRAM）</li>
+<li><code>0x07000000 - 0x070003FF</code> &#8211; 1KB OAM RAM （オブジェクト属性メモリ &#8211; 後で説明します）</li>
+<li><code>0x08000000 - 0x????????</code> &#8211; Game Pak ROM (0 から 32MB)</li>
+<li><code>0x0E000000 - 0x????????</code> &#8211; Game Pak RAM</li>
+</ul>
+<p>これらのセクションは異なるバス幅、読み出し／書き込み権限（たとえば、VRAMには個別のバイト数書き込みは不可）を持っており、いくつかのセクションはメモリに複数の点に渡るミラーデータも持っています。実際にはもう少し複雑な状況がありますが、これが基本的なGBAゲームを作るのに必要とする主な構造です。</p>
+<p>デバイスのメモリ構造が分かったところで、GBA ROMで&#8221;Hello, World!&#8221;を表示させるプランは次のとおりです。Game Pak ROMにThumbコードを書きます。これはI/Oレジスタに、特定のディスプレイモードに適したディスプレイ変数を設定するものです。そして表示させたいグラフィックデータをVRAMに書きます。デバイスの理論は置いておいて、まずは実際に何かを作ってみましょう。</p>
+<h2 id="gfm-19">開発環境のセットアップ</h2>
+<p>GBA ROM構築プランを実行するにあたり、ROMフォーマットについて知る必要があります。細かいところに入り込む前に見ておきたいのは、GBA ROMは標準ヘッダで始まるということです。プログラムの開始アドレスの枝分かれを指示する4バイトARMインストラクションで始まり、次にいくつかの<a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0)">「magic」</a>バイトが任天堂ロゴを表示させます。</p>
+<p>加えて、このヘッダにはゲームに関するデータ（ゲームタイトルなど）とこのデータの&#8217;check&#8217;値が含まれます。ROMが最適に実行されるために、ヘッダは完璧に正しくなければならないことを知っておきましょう（特に、エミュレータでなくある実在のデバイスで動かすことを目的にしている場合）。</p>
+<p>ありがたいことに、ROM作成過程のほぼ全てに使える良いツールチェーンがあります。私が使っている<a href="http://devkitpro.org/wiki/Getting_Started/devkitARM">devkitARM</a>ツールチェーン（GCCツールチェーンをベースにしたdevkitProのツールチェーンの1つ）は、プロセスを非常に簡単にしてくれます。ツールチェーンをセットアップしたら、実質4つの手順で、CコードをGBA ROMに入れることができるのです。</p>
+<ol>
+<li>CコードをGBAのCPUのThumbインストラクションに<strong>クロスコンパイル</strong>します。ROMコード製のThumbオブジェクトファイルが生成されます。</li>
+<li>オブジェクトファイルを、特定の「specs」ファイルを用いて実行可能ファイルにリンクし、リンクのふるまいを制御できるようにします。通常specsファイルは1つのリンクスクリプト（セグメントの位置—多くのミュータブルデータはIWRAMに、&#8217;const&#8217;データはROMに格納されます—、列などを特定し、GBAのコンパイルを正しい状態にします）と、その他複数のオブジェクトファイル（多くは標準ROMヘッダ、スタートアップルーティン、プログラム初期化・終了コード）を持っています。</li>
+<li>完全に近いROMファイルを得るため、必要のない情報の実行可能ファイル（実行可能ヘッダ、シンボル、移動情報など）を<strong>取り除きます</strong>。</li>
+<li>前段階でできたROMファイル上でユーティリティを走らせ、ヘッダを<strong>修正</strong>します（ヘッダの任天堂ロゴデータが正しいか、「check」値は全て適切か、など）。</li>
+</ol>
+<p>私のマシンOS Xで使用しているツールチェーンのバージョンでは、上述したようにCファイルをGBA ROMにコンパイルする際、次のコマンドを実行することができます（PATH環境変数を<code>/opt/devkitpro/devkitARM/bin</code>だとして）。</p>
+<ol>
+<li><code>arm-none-eabi-gcc -c main.c -mthumb-interwork -mthumb -O2 -o main.o</code></li>
+<li><code>arm-none-eabi-gcc main.o -mthumb-interwork -mthumb -specs=gba.specs -o main.elf</code></li>
+<li><code>arm-none-eabi-objcopy -v -O binary main.elf main.gba</code></li>
+<li><code>gbafix main.gba</code></li>
+</ol>
+<p>最初のステップ（コンパイル）で、追加で立てておきたいフラグが他にもあるかもしれません。その場合、たとえば、<code>-fno-strict-aliasing</code>を使う事をおすすめします。ローメモリとポインタを多数扱いますし、C言語の厳密な言い換え規則に煩わされたくないためです。あるいは、Makefileかシェルスクリプトをこれらのコマンドと共に書くのも、ROMコンパイルを容易にするのに有益かもしれません。このような詳細はこの投稿ではやや不必要と思われるかもしれませんが。</p>
+<p>C言語からROMコンパイルのプロセスが確立したら、早速実行、テストをしてみましょう。理論には興味がない読者のため、今回作成しているGBA ROM &#8220;Hello, World&#8221; のコードを提示し、話は後にしましょう。</p>
+<pre class="prettyprint lang-" title="">int main(void) {
+    // Write into the I/O registers, setting video display parameters.
+    volatile unsigned char *ioram = (unsigned char *)0x04000000;
+    ioram[0] = 0x03; // Set the 'video mode' to 3 (in which BG2 is a 16 bpp bitmap in VRAM)
+    ioram[1] = 0x04; // Enable BG2 (BG0 = 1, BG1 = 2, BG2 = 4, ...)
+
+    // Write pixel colours into VRAM
+    volatile unsigned short *vram = (unsigned short *)0x06000000;
+    vram[80*240 + 115] = 0x001F; // X = 115, Y = 80, C = 000000000011111 = R
+    vram[80*240 + 120] = 0x03E0; // X = 120, Y = 80, C = 000001111100000 = G
+    vram[80*240 + 125] = 0x7C00; // X = 125, Y = 80, C = 111110000000000 = B
+
+    // Wait forever
+    while(1);
+
+    return 0;
+}
+</pre>
+<p>上のコードはかなりシンプルで、GBAスクリーンの中央に赤色、緑色、青色それぞれ1つずつ、3つのピクセルが水平に並ぶというものです。</p>
+<p><img src="https://www.reinterpretcast.com/images/game-boy-advance-hello-world-rom.png?v=db4e3e427cdecbb118d1ea5a0634aab5" style="width: 396px;"></p>
+<p>では、改めてコードについて説明します。最初に、いくつかのディスプレイ変数をI/Oレジスタをマッピングしたメモリに書きます。特に、このメモリの初めの16ビットは、ディスプレイ制御レジスタ（DISPCNTとも呼ばれます）です。このレジスタの冒頭の3ビットはビデオモードを示し、11番目のビットはバックグラウンド#2（BG2）が有効か否かを示します。こうして値を書くことによって、ビデオモードをモード3に設定し、BG2を有効にします。</p>
+<p>なぜこのような作業が必要なのでしょうか？　まあ、まずはビデオモードからいきましょうか。ビデオモード3はVRAMにビットマップデータを書くことができるモードであり、BG2はこのビットマップを表示します（そのために、BG2も有効にしたいのです）。さらに、なぜ私があえて他のビデオモードでなくビデオモード3を選んだのか疑問に思われるかもしれません。その理由は、ビデオモード0から2は説明するのが非常に難しいからです（とはいえ、後でそれらも使います）。</p>
+<p>先に述べたように、GBA上のLCDは15ビットカラーの表示が可能です。よって、GBAのカラーを1つの15ビットカラーフォーマットを使って表現できるということです。しかし、データ配列の理由から、GBAは16ビットのカラーフォーマットを使います。具体的には、フォーマットは下記のとおりです。<code class="single">?<span style="color: blue;">BBBBB</span><span style="color: green;">GGGGG</span><span style="color: red;">RRRRR</span></code>。つまり、1ビットの不使用ビットの後に、5ビットの青色、5ビットの緑色、そして5ビットの赤色が並ぶということです。</p>
+<p>このフォーマットと、ビデオモード3がVRAMを240 x 160ビットマップとしてどのように扱うかの知識をもとに、私たちの&#8221;Hello, World&#8221; ROMはシンプルに一定のピクセルオフセットでいくつかのカラー値を書き出します（例：<code>unsigned short</code>が16ビットサイズだと仮定すると、<code>vram[80*240 + 120]</code>は240ピクセルの80行をスキップし、水平ライン上中央のピクセルにアクセスします）。憶えておきたいのは、コード内でハードウェアにインターフェース接続する全てのメモリアクセスは<code>volatile</code>ポインタを通じて起こるということです。このことは、コンパイラが不必要に思われるメモリオペレーションを最適化するのを妨げます。</p>
+<h2 id="gfm-20">ポンの類似ゲームを作ろう</h2>
+<p>基本は脇に置いて、もう少し面白い物を作ってみましょう。一連のプロジェクトのインフラストラクチャやヘルパー関数を構築するのではなく、ここでも一緒にソリューションのプログラミングに取り組んでいきます。ただし、更に進んだGBAの画像のレンダリング機能を使用する予定です。特に、ビットマップビデオモードを使わずに描画する方法を用いましょう。</p>
+<p>GBAのビットマップビデオモード（モード3、4、5）で描画するのはとても簡単です。しかし、実際にゲーム制作に利用されることは多くありません。240×160のビットマップは、一度画面を埋めるだけでVRAMの大部分を使ってしまいます。そして各フレームで非常に多くのピクセルを使うので、コンピューターへの負荷がとても増えてしまうのです（適度なフレームレートでゲームをレンダリングしようとする余裕はなくなってしまうでしょう）。ですから、ビデオモード0、1、2を使います。</p>
+<p>これらのモードはかなり複雑なので、ここでは最も重要な部分だけをざっと説明します。GBAのビデオモード0、1、2では、個々のピクセル上で動作するのではなく、タイル上で動作します。タイルとは8×8のビットマップのことです。4及び8ビット毎ピクセル（bpp）バリアント型データの中に存在します。今回は4bppタイプを使いましょう。つまり、使用するタイルのサイズは32バイトとなります（8×8×4＝256ビット）</p>
+<p>4（または8）ビットのピクセルに、どうやって15ビットの色値を適用させるのかと疑問に思われるかもしれませんが、そうはしません。タイル内のピクセル値は、色を直接参照するのではなく、あるカラーパレット内の色を参照します。先ほど言及したカラーパレットのメモリ（<code>0x05000000</code>）に、色値を書き込むことでカラーパレットを定義することが可能です。ここには16ビットを512セット（つまり512色）保存でき、実質的には256色を2パレット、または16色を32パレット保存できるということです。</p>
+<p><img src="https://www.reinterpretcast.com/images/game-boy-advance-paletted-tile-example.jpg?v=6b456650a617d6e42bd4dcf23fb02760"><br />
+パレットを適用したタイルを視覚化した例</p>
+<p>ここで使っている4bppで8×8のビットマップのタイルでは、16色の32パレットとしてカラーパレットメモリを扱おうと思います。この方法では、各ピクセルに4ビットを用いてカラーインデックス（16色のパレット内）を指定することができます。タイルを基準としたビデオモードを使うと、タイルはVRAM内で「タイルブロック」または「charブロック」にセクション分けされます。各タイルブロックのサイズは16KBなので、1つのタイルブロックには512の4bppタイル、VRAMには6つのタイルブロックを適用させることができます。</p>
+<p>理論上、VRAM内の6つのタイルブロックは2つのグループに分かれます。最初の4つ（0 &#8211; 3）は背景に使うことができ、残りの2つ（4と5）はスプライトに使うことができます。同様に、パレットメモリ内にある16色32パレットは、16パレットは背景用に、別の16パレットはスプライト用に分けられています。私たちが作るゲームでは背景は扱わないので、VRAM内のタイルブロック4、5（つまり<code>0x6010000</code>と<code>0x6014000</code>から始まるアドレス）とカラーパレットのブロック1（アドレス<code>0x5000200</code>）だけに注目していきましょう。例えば、いくつかのタイルをタイルブロック4へとロードしたとします。これをどうしたらいいのでしょうか？　このような場合に、タイルの扱い方で肝心なのは、これらのタイルを使うスプライトを作るということです。</p>
+<p>コンピュータグラフィックスにおいて、スプライトは、より大きなシーンに適用するための2次元のイメージです。GBAには「オブジェクト」（つまりスプライト）をレンダリングできるハードウェアが備わっていて、オブジェクトがピクセル修正の流れから外れることなく動き回れるように、オブジェクトはレンダリングされます。オブジェクトを使用可能なように設定されると（ディスプレイ制御のI/Oレジスタ内のビット13が設定されると）、オブジェクトの属性をGBAのObject Attribute Memory (OAM)に書き込むことで、特定のタイルセットからオブジェクトを生成できるようになります。私たちは「ポン」の類似ゲームを作ろうとしていますが、この場合、少なくともラケットとボールの2つのスプライトが必要になるでしょう。また、どんな「オブジェクト」であっても、それぞれ16ビットの属性を3セット持っています。</p>
+<ul>
+<li>属性0：特に、オブジェクトのY座標、オブジェクトのシェイプ、オブジェクトのタイルのカラーモード（4bppまたは8bpp）を含みます。</li>
+<li>属性1：特に、オブジェクトのX座標とオブジェクトのサイズを含みます。</li>
+<li>属性2：特に、オブジェクトのベースタイルインデックスとオブジェクトが使うべきカラーパレット（4bppモードの場合）を含みます。</li>
+</ul>
+<p>これらの値の詳細は<a href="http://www.akkit.org/info/gbatek.htm#lcdobjoamattributes">こちらのページ</a>で確認できます。しかし根本的に、Y座標は属性0の中で最も低い8ビット、X座標は属性1の中で最も低い9ビットとなり、カラーモードは4bppに初期化されます（つまり、0=4bpp）。</p>
+<p>オブジェクトの「シェイプ」と｢サイズ｣のビットは、その形状を定義し、この4ビットを異なる組み合わせにすることで、最終的なシェイプを変えることができます（このシステムよりも複雑なエンティティは、より小さい複数のオブジェクトで構成されています）。１タイルのサイズよりオブジェクトを大きくしなければならない場合は、設定したマッピングモードに左右されるアピアランスのために、別のタイルを使うこととなります（ディスプレイ制御I/Oレジスタの7番目のビット）。オブジェクトが１タイルよりも大きくなってしまう場合は、メモリ内の「ベースタイル」に続くタイルを使って内部を埋める、1Dマッピングモードを使うのが一番簡単な方法でしょう。</p>
+<p>先ほど説明したスプライトについてですが、構築する準備は大体できました。今回のプログラムではビデオモード0を使いたいと思います。このモード内ではBG0～BG3が「標準」モードで作動しています（アフィン変換はできません）。あとは、GBAの十字キーからプリミティブ物理コードを入力し、ゲームループの内部全体に置くだけで、ゲームができるのです！</p>
+<p>最後に必要な2つの作業は、両方ともI/Oレジスタで行います。デバイスの入力状態は、単純にKEYINPUT I/Oレジスタ（<code>0x04000130</code>）から読み取ることができます。また、<a href="http://www.akkit.org/info/gbatek.htm#gbakeypadinput">ビットの割り当ての詳細</a>を使い、あるキーが押されたかどうか分かるよう、この状態にマスクを作っておきます。ゲームループに関しては、残念ですが、最後にもう一つ理論が必要となります。</p>
+<p>典型的なゲームループは、描画期間と更新期間で構成されています。今回の場合は、これが発生するタイミングを選ぶことはできません。ゲームボーイがオブジェクトを途中まで描画している最中に、表示したいものを変える場合、スクリーンを分けなくてはいけません（オブジェクトの半分はあるデータセットで描画されたもので、もう半分は別のデータセットで描画されたもの）。結果として、GBAの表示リフレッシュサイクルを使って、描画と更新を同期しなければいけません。</p>
+<p>デバイスには、描画した水平ライン（もしくはスキャンライン）が終わるたびに更新する時間が少し設けられていますが、スクリーン全体を描画した後は少し長めの時間が与えられます（およそ5ミリ秒）。この場合、画面全体を描画した後は、更新のためだけに時間を使えるようになります。この期間は「V-Blank」と呼ばれています（まだスクリーンが垂直方向に描画されている「V-Draw」の逆です）。</p>
+<p>現在、デバイスがどの程度描画されたかを確認するためにVCOUNT I/Oレジスタ（<code>0x04000006</code>）で8ビットの値をチェックできます。この値はV-Blankの期間に、スキャンラインが描画され続けているかのように増加し続けます（そのため0から227までの幅があります）。もし160以上の値がカウントされたら、V-Blankの期間だということが分かるのです。そのため、ゲームループの｢更新｣ステージ前にV-Drawの期間が終わるのを待っているのであれば、同期プリミティブフォームがあります。</p>
+<p>この同期によって、ようやくゲームを構築するのに充分な情報を得ることができます。今回は、1人用のポンの類似ゲームを作ることにしましょう（極めてプリミティブな物理学を用います）。コメント入りのソースコードを以下に示します。</p>
+<pre class="prettyprint lang-" title="">typedef unsigned char uint8;
+typedef unsigned short uint16;
+typedef unsigned int uint32;
+typedef uint16 rgb15;
+typedef struct object_attributes {
+    uint16 attribute_zero;
+    uint16 attribute_one;
+    uint16 attribute_two;
+    uint16 pad;
+} __attribute__((aligned(4))) object_attributes;
+typedef uint32 tile4bpp[8];
+typedef tile4bpp tile_block[512];
+
+#define SCREEN_WIDTH  240
+#define SCREEN_HEIGHT 160
+
+#define MEM_IO   0x04000000
+#define MEM_PAL  0x05000000
+#define MEM_VRAM 0x06000000
+#define MEM_OAM  0x07000000
+
+#define REG_DISPLAY        (*((volatile uint32 *)(MEM_IO)))
+#define REG_DISPLAY_VCOUNT (*((volatile uint32 *)(MEM_IO + 0x0006)))
+#define REG_KEY_INPUT      (*((volatile uint32 *)(MEM_IO + 0x0130)))
+
+#define KEY_UP     0x0040
+#define KEY_DOWN   0x0080
+#define KEY_ANY    0x03FF
+
+#define OBJECT_ATTRIBUTE_ZERO_Y_MASK  0xFF
+#define OBJECT_ATTRIBUTE_ONE_X_MASK  0x1FF
+
+#define oam_memory ((volatile object_attributes *)MEM_OAM)
+#define tile_memory ((volatile tile_block *)MEM_VRAM)
+#define object_palette_memory ((volatile rgb15 *)(MEM_PAL + 0x200))
+
+// 各色の数値(範囲内に収まっていると信用することにします)から、16bitのGBA向けBGRカラーを生成します
+static inline rgb15 RGB15(int r, int g, int b) { return r | (g &lt;&lt; 5) | (b &lt;&lt; 10); }
+
+// オブジェクトの位置を、設定したx,yの値に設定します
+static inline void set_object_position(volatile object_attributes *object, int x, int y) {
+    object-&gt;attribute_zero = (object-&gt;attribute_zero &amp; ~OBJECT_ATTRIBUTE_ZERO_Y_MASK) | (y &amp; OBJECT_ATTRIBUTE_ZERO_Y_MASK);
+    object-&gt;attribute_one = (object-&gt;attribute_one &amp; ~OBJECT_ATTRIBUTE_ONE_X_MASK) | (x &amp; OBJECT_ATTRIBUTE_ONE_X_MASK);
+}
+
+// 'value'として入力された値を、'min'と'max'の間に収めます(上下端を含む)
+static inline int clamp(int value, int min, int max) { return (value &lt; min ? min : (value &gt; max ? max : value)); }
+
+int main(void) {
+    // スプライトのためのタイルをVRAMの4番目のタイルブロックに書き込みます
+    // 具体的には、4つのタイルに8x32のラケットのスプライトを、1つのタイルに8x8のボールのスプライトを書き込みます
+    // 0x1111 = 0001000100010001 [4bpp = colour index 1, colour index 1, colour index 1, colour index 1]
+    // 0x2222 = 0002000200020002 [4bpp = colour index 2, colour index 2, colour index 2, colour index 2]
+    // 注:ここでは、独自の書き込みコードを使うことで、'memset'がするようなバイト単位の書き込みを防いでいます
+    // (GBAはバイト単位の書き込みをサポートしていないからです)
+    volatile uint16 *paddle_tile_memory = (uint16 *)tile_memory[4][1];
+    for (int i = 0; i &lt; 4 * (sizeof(tile4bpp) / 2); ++i) { paddle_tile_memory[i] = 0x1111; }
+    volatile uint16 *ball_tile_memory = (uint16 *)tile_memory[4][5];
+    for (int i = 0; i &lt; (sizeof(tile4bpp) / 2); ++i) { ball_tile_memory[i] = 0x2222; }
+
+    // カラーパレットメモリーの最初の16色パレット(インデックスは0)に、
+    // スプライトで使うカラーパレットを書き込みます
+    object_palette_memory[1] = RGB15(0x1F, 0x1F, 0x1F); // 白
+    object_palette_memory[2] = RGB15(0x1F, 0x00, 0x1F); // マゼンタ
+
+    // オブジェクト属性をOAMメモリに書き込むことで、スプライトを生成します
+    volatile object_attributes *paddle_attributes = &amp;oam_memory[0];
+    paddle_attributes-&gt;attribute_zero = 0x8000; // このスプライトは4bppのタイルからなり、TALL形状を持つ
+    paddle_attributes-&gt;attribute_one = 0x4000; // このスプライトは、TALL形状が設定されていると8x32のサイズになる
+    paddle_attributes-&gt;attribute_two = 1; // このスプライトのベースのタイルはタイルブロック4の1つめのタイルで、カラーパレット0を使います
+    volatile object_attributes *ball_attributes = &amp;oam_memory[1];
+    ball_attributes-&gt;attribute_zero = 0; // このスプライトは4bppのタイルからなり、SQUARE形状を持つ
+    ball_attributes-&gt;attribute_one = 0; // このスプライトは、SQUARE形状が設定されていると8x8のサイズになる
+    ball_attributes-&gt;attribute_two = 5; // このスプライトのベースのタイルはタイルブロック4の5つめのタイルで、カラーパレット0を使います
+
+    // ラケットとボールの状態を追跡するための変数を初期化し、
+    // 初期位置にセットします(OAM内の属性を変更することによって)
+    const int player_width = 8, player_height = 32, ball_width = 8, ball_height = 8;
+    int player_velocity = 2, ball_velocity_x = 2, ball_velocity_y = 1;
+    int player_x = 5, player_y = 96;
+    int ball_x = 22, ball_y = 96;
+    set_object_position(paddle_attributes, player_x, player_y);
+    set_object_position(ball_attributes, ball_x, ball_y);
+
+    // オブジェクトを使用可能にするためにディスプレイ・パラメータを設定し、オブジェクト→タイルの1Dマッピングを使います
+    REG_DISPLAY = 0x1000 | 0x0040;
+
+    // ゲームのメインループになります
+    uint32 key_states = 0;
+    while (1) {
+        // 現在のV-Blank・V-DrawSkipが終わるまではスキップします
+        while(REG_DISPLAY_VCOUNT &gt;= 160);
+        while(REG_DISPLAY_VCOUNT &lt; 160);
+
+        // 現在のキー入力状態の確認(REG_KEY_INPUTは反転された値を格納しています)
+        key_states = ~REG_KEY_INPUT &amp; KEY_ANY;
+
+        // ここでは、物理法則は固定のタイムスタンプではなくフレームレートに依存することに注意
+        int player_max_clamp_y = SCREEN_HEIGHT - player_height;
+        if (key_states &amp; KEY_UP) { player_y = clamp(player_y - player_velocity, 0, player_max_clamp_y); }
+        if (key_states &amp; KEY_DOWN) { player_y = clamp(player_y + player_velocity, 0, player_max_clamp_y); }
+        if (key_states &amp; KEY_UP || key_states &amp; KEY_DOWN) { set_object_position(paddle_attributes, player_x, player_y); }
+
+        int ball_max_clamp_x = SCREEN_WIDTH - ball_width, ball_max_clamp_y = SCREEN_HEIGHT - ball_height;
+        if ((ball_x &gt;= player_x &amp;&amp; ball_x &lt;= player_x + player_width) &amp;&amp; (ball_y &gt;= player_y &amp;&amp; ball_y &lt;= player_y + player_height)) {
+            // 物理上はあまり正しいコードではないですが、衝突判定コード
+            ball_x = player_x + player_width;
+            ball_velocity_x = -ball_velocity_x;
+        } else {
+            if (ball_x == 0 || ball_x == ball_max_clamp_x) { ball_velocity_x = -ball_velocity_x; }
+            if (ball_y == 0 || ball_y == ball_max_clamp_y) { ball_velocity_y = -ball_velocity_y; }
+        }
+        ball_x = clamp(ball_x + ball_velocity_x, 0, ball_max_clamp_x);
+        ball_y = clamp(ball_y + ball_velocity_y, 0, ball_max_clamp_y);
+        set_object_position(ball_attributes, ball_x, ball_y);
+    }
+
+    return 0;
+}
+</pre>
+<p>これで、基本的なゲームの完成です！　これは本当のゲームボーイアドバンスでも動くでしょうか？　多分…、動きます。もし、私が間違えていなければ正しく動くはずですが、どこかでコードを間違えている可能性だって充分あるでしょう。</p>
+<p><figure>
+    <video style="width: 240px;" autoplay="" loop=""><source src="https://www.reinterpretcast.com/gba-pong.mp4" type="video/mp4">Your browser does not support HTML5 video.</video><figcaption>エミュレータで実行したゲームボーイアドバンス用ゲーム</figcaption></figure>
+</p>
+<h2 id="gfm-21">結論</h2>
+<p>この投稿は、予想よりもずっと長くなってしまいました。この投稿で説明した詳細よりも、GBA開発にははるかに多くの事象があり、他のプラットフォームと同じ様に、面白い機能や癖があります。もっとGBA開発や、この投稿で紹介したデバイスの仕様を知りたい場合は、以下に記載するリソースがとても役に立つはずです。<a href="http://cdn.preterhuman.net/texts/gaming_and_diversion/Gameboy%20Advance%20Programming%20Manual%20v1.1.pdf">Nintendo&#8217;s AGB Programming Manual</a>、<a href="http://www.akkit.org/info/gbatek.htm">GBATEK</a>、<a href="http://www.cs.rit.edu/~tjh8300/CowBite/CowBiteSpec.htm">CowBiteSpec</a>、<a href="http://www.coranac.com/tonc/text/toc.htm">Tonc</a></p>
+</div>
+]]></content:encoded>
+		<wfw:commentRss>https://postd.cc/writing-a-game-boy-advance-game/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="https://www.reinterpretcast.com/gba-pong.mp4" length="425102" type="video/mp4" />
+		<itunes:subtitle>子どもの頃は、ゲームボーイのゲーム（たいがい、かなりひどいもの）で遊ぶのにたっぷり時間を費やしました。これまでは「標準の」一般的な目的に使われるコンピュータ以外のためにコードを書いたことはなかったのですが、最近考えるようになりました。「ゲームボーイ（アドバンス）のゲームは簡単に書けるだろうか？」 - ゲーム機には詳しくない方のために説明すると、ゲームボーイアドバンス（GBA）は、任天堂が発売した人気携帯型ゲーム機でした（写真下）。240 x 160 (3:2) 15ビット カラーLCDディスプレイ...</itunes:subtitle>
+		<itunes:summary>子どもの頃は、ゲームボーイのゲーム（たいがい、かなりひどいもの）で遊ぶのにたっぷり時間を費やしました。これまでは「標準の」一般的な目的に使われるコンピュータ以外のためにコードを書いたことはなかったのですが、最近考えるようになりました。「ゲームボーイ（アドバンス）のゲームは簡単に書けるだろうか？」
+
+ゲーム機には詳しくない方のために説明すると、ゲームボーイアドバンス（GBA）は、任天堂が発売した人気携帯型ゲーム機でした（写真下）。240 x 160 (3:2) 15ビット カラーLCDディスプレイ、6種類のボタンと十字キーが付いています。
+
+
+ゲームボーイアドバンス
+
+内部を見ると、GBAのCPUは32-bit ARM7TDMI RISCコア（16.78MHz）です。標準の32-bit ARMのインストラクションのほかに、このチップは16ビット [Thumb](http://infocenter.arm.com/help/index.jsp?topic=/com.arm.doc.ddi0210c/CACBCAAE.html)のインストラクションも実行できます。Thumbのインストラクションセットは、非常に一般的な32-bit ARMのインストラクションのいくつかに対してたった16ビットのエンコーディングを行うため、スペースを節約できます。
+
+メモリについては、このデバイスはCPUの中に130KBの内蔵メモリ（うち96KBはVRAM、32KBは一般利用、2KBはその他に使われている）、CPUの外部に256KBのRAMを擁しています。またシステムは、BIOSを格納する16KBのシステムROMを持っています。他にも先行機のゲームボーイカラーとの上位互換に関わる機能がいろいろあるのですが、ここでは触れません。
+
+以上全ての本体メモリに加え、GBAは一般的にいくつかの種類のゲームカートリッジを搭載できました。これらはたいていROM（インストラクション、リードオンリーデータなどを格納する）といくつかの形態のミュータブルなストレージ（SRAM、フラッシュメモリまたはEEPROMが多い）で構成されています。Game Pak ROMが16ビット幅のバス経由で接続されるので、ゲームコードの多くの時間、32ビット ARMのインストラクションよりも、当然16ビットのThumbインストラクションを使います。
+
+
+GBA Game Pakの例（[reinerziegier.de](http://reinerziegler.de/GBA/gba.htm)提供）
+
+これまで見てきたメモリセクション、I/Oハードウェアレジスタ（グラフィック、音、DMAなどを制御する）は、メモリにマッピングされており、下記のようなレイアウトになっています。
+
+* ```0x00000000 - 0x00003FFF``` - 16KBシステムROM（実行可能だが読み出し不可）
+* ```0x02000000 - 0x02030000``` - 256 KB EWRAM (標準目的の外部RAM）
+* ```0x03000000 - 0x03007FFF``` - 32 KB IWRAM（標準目的の内部RAM）
+* ```0x04000000 - 0x040003FF``` - I/Oレジスタ
+* ```0x05000000 - 0x050003FF``` - 1KB カラーパレット RAM
+* ```0x06000000 - 0x06017FFF``` - 96KB VRAM （ビデオRAM）
+* ```0x07000000 - 0x070003FF``` - 1KB OAM RAM （オブジェクト属性メモリ - 後で説明します）
+* ```0x08000000 - 0x????????``` - Game Pak ROM (0 から 32MB)
+* ```0x0E000000 - 0x????????``` - Game Pak RAM
+
+これらのセクションは異なるバス幅、読み出し／書き込み権限（たとえば、VRAMには個別のバイト数書き込みは不可）を持っており、いくつかのセクションはメモリに複数の点に渡るミラーデータも持っています。実際にはもう少し複雑な状況がありますが、これが基本的なGBAゲームを作るのに必要とする主な構造です。
+
+デバイスのメモリ構造が分かったところで、GBA ROMで&quot;Hello, World!&quot;を表示させるプランは次のとおりです。Game Pak ROMにThumbコードを書きます。これはI/Oレジスタに、特定のディスプレイモードに適したディスプレイ変数を設定するものです。そして表示させたいグラフィックデータをVRAMに書きます。デバイスの理論は置いておいて、まずは実際に何かを作ってみましょう。
+
+##開発環境のセットアップ
+
+GBA ROM構築プランを実行するにあたり、ROMフォーマットについて知る必要があります。細かいところに入り込む前に見ておきたいのは、GBA ROMは標準ヘッダで始まるということです。プログラムの開始アドレスの枝分かれを指示する4バイトARMインストラクションで始まり、次にいくつかの[「magic」](https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%B8%E3%83%83%E3%82%AF%E3%83%8A%E3%83%B3%E3%83%90%E3%83%BC_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%A0))バイトが任天堂ロゴを表示させます。
+
+加えて、このヘッダにはゲームに関するデータ（ゲームタイトルなど）とこのデータの&#039;check&#039;値が含まれます。ROMが最適に実行されるために、ヘッダは完璧に正しくなければならないことを知っておきましょう（特に、エミュレータでなくある実在のデバイスで動かすことを目的にしている場合）。
+
+ありがたいことに、ROM作成過程のほぼ全てに使える良いツールチェーンがあります。私が使っている[devkitARM](http://devkitpro.org/wiki/Getting_Started/devkitARM)ツールチェーン（GCCツールチェーンをベースにしたdevkitProのツールチェーンの1つ）は、プロセスを非常に簡単にしてくれます。ツールチェーンをセットアップしたら、実質4つの手順で、CコードをGBA ROMに入れることができるのです。
+
+1. CコードをGBAのCPUのThumbインストラクションに**クロスコンパイル**します。ROMコード製のThumbオブジェクトファイルが生成されます。
+2. オブジェクトファイルを、特定の「specs」ファイルを用いて実行可能ファイルにリンクし、リンクのふるまいを制御できるようにします。通常specsファイルは1つのリンクスクリプト（セグメントの位置—多くのミュータブルデータはIWRAMに、&#039;const&#039;データはROMに格納されます—、列などを特定し、GBAのコンパイルを正しい状態にします）と、その他複数のオブジェクトファイル（多くは標準ROMヘッダ、スタートアップルーティン、プログラム初期化・終了コード）を持っています。
+3. 完全に近いROMファイルを得るため、必要のない情報の実行可能ファイル（実行可能ヘッダ、シンボル、移動情報など）を**取り除きます**。
+4. 前段階でできたROMファイル上でユーティリティを走らせ、ヘッダを**修正**します（ヘッダの任天堂ロゴデータが正しいか、「check」値は全て適切か、など）。
+
+私のマシンOS Xで使用しているツールチェーンのバージョンでは、上述したようにCファイルをGBA ROMにコンパイルする際、次のコマンドを実行することができます（PATH環境変数を```/opt/devkitpro/devkitARM/bin```だとして）。
+
+1. ```arm-none-eabi-gcc -c main.c -mthumb-interwork -mthumb -O2 -o main.o```
+2. ```arm-none-eabi-gcc main.o -mthumb-interwork -mthumb -specs=gba.specs -o main.elf```
+3. ```arm-none-eabi-objcopy -v -O binary main.elf main.gba```
+4. ```gbafix main.gba```
+
+最初のステップ（コンパイル）で、追加で立てておきたいフラグが他にもあるかもしれません。その場合、たとえば、```-fno-strict-aliasing```を使う事をおすすめします。ローメモリとポインタを多数扱いますし、C言語の厳密な言い換え規則に煩わされたくないためです。あるいは、Makefileかシェルスクリプトをこれらのコマンドと共に書くのも、ROMコンパイルを容易にするのに有益かもしれません。このような詳細はこの投稿ではやや不必要と思われるかもしれませんが。
+
+C言語からROMコンパイルのプロセスが確立したら、早速実行、テストをしてみましょう。理論には興味がない読者のため、今回作成しているGBA ROM &quot;Hello, World&quot; のコードを提示し、話は後にしましょう。
+
+</itunes:summary>
+		<itunes:author>POSTD</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		</item>
+	<item>
+		<title>ユーザ・インターフェースのためのイージングカーブをつくる</title>
+		<link>https://postd.cc/crafting-easing-curves-for-user-interfaces/</link>
+		<pubDate>Fri, 26 Jun 2015 09:00:19 +0000</pubDate>
+		<guid isPermaLink="false">http://postd.cc/?p=3777</guid>
+		<comments>https://postd.cc/crafting-easing-curves-for-user-interfaces/#respond</comments>
+		<dc:creator></dc:creator>
+		<category><![CDATA[デザイン]]></category>
+		<category><![CDATA[CSS]]></category>
+		<category><![CDATA[UIデザイン]]></category>
+		<description>video{max-width:100%;}
+
+
+
+
+フラットデザインの導入以来、アニメーションの質が、今までにないほど、優れたインターフェース作成のために必要不可欠なものとなっています。モーションデザインを通して、製品の総体的なブランドエクスペリエンスを左右するようになり、製品を、市場の他のものと差別化する要素となりました。アニメーションは複雑なインタラクションを簡素化し、優れたデザインを記憶に残るユーザエクスペリエンスにしました。では、質の高いアニメーションはどのように作られるのでしょうか？　イージングカーブは多くの要となるコンポーネントの1つで、適切なアニメーションをとり、素晴らしいものに作り上げます。
+
+問題なのは、イージングカーブがどのように機能するかについての理解が、少々難しいということです。前回の記事[After Effects to CSS](https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e)で触れたタイミング関数への興味の派生としてこの記事を書きましたが、この記事を読むことで前述の問題が解消すればいいなと思います。読者の皆さんはイージングカーブがどのように機能するか、そしてどのようにデザインをすればいいかについて理解を深めたいと思っていたことでしょう。
+
+イージングカーブは、グラフ上の加速度パターンを定義する行です。イージングカーブは一般的に、モーションカーブ、タイミング関数、ベジェ曲線、単にカーブなどと異なった呼称で言及されています。イージングカーブはさまざまな形を持ち、ease-in、ease-out、あるいは ease-in-outといったキーワードで指定される値を持つものもあります。
+
+##イージングカーブの機能
+
+イージングカーブはX軸とY軸の値で定義されます。XとYの意味はアプリケーションごとに変化します。開発の範囲内では、XとYの意味は固定されたままです。すなわち、時間（X）の経過とともに、アニメーション（Y）のパーセンテージで定義されます。
+
+
+
+イージングカーブは、実行した時、どのように見えるでしょうか？　それはタイミングとスペーシングのコンセプトが動き始める状態になるときです。
+
+###タイミングとスペーシング
+
+タイミングはアニメーションが終了するまでの継続時間を指し、スペーシングは各々の&quot;フレーム&quot;の間隔を指します。ですが、今回の場合、スペーシングは、それぞれのアニメーションのパーセンテージの間隔を指すものとします。以下は、スペーシングとイージングカーブの関連性について例示したものです。カーブが垂直に近いほど速く、水平に近いほど遅いことに注意してみてください。
+Linear Easeスペーシング
+Your browser does not support the video tag.
+
+
+Linear easeスペーシングでは、点の移動する間隔は、アニメーションの長さと同じです。[_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/EjVdeY)
+
+Ease Inスペーシング
+
+Your browser does not support the video tag.
+
+Ease inスペーシングでは、点の動きの間隔が最初は狭く、アニメーションが続くにつれ広がります。こうすることにより、点が加速していくかのような錯覚を与えます。 [_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/VLvEre)
+
+Ease Outスペーシング
+
+Your browser does not support the video tag.
+
+Ease outスペーシングでは、点は最初大きく動き、最後には間隔が狭まります。こうすることにより、点が減速していくかのような錯覚を与えます。[_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/MwaPBZ)
+
+##イージングカーブをデザインする
+
+イージングカーブのデザインにおいて、人にいつも聞かれるのが、&quot;どのイージングカーブをどこで使えばよいのか&quot;です。私の答えは、シナリオによるとしか言えません。全てに使えるイージングカーブはありません。カーブの作成は、動作をデザインする時の重要な要素となります。イージングカーブは、一般的に実世界の物理の法則に基づいてデザインされていますが、必ずしもその法則を守っている訳ではありません。実世界はアニメーションの創造意欲を掻き立ててくれます。例えば、linearイージングカーブのように、実世界では、急速度で動き始め、急停止するものはありません。動くものは必ず加速し減速します。これは、Disneyの[12 principles of animation(アニメーションにおける12の法則)](https://vimeo.com/93206523)にまとめられた概念のひとつにすぎません。これも物理の法則やそれを誇張したものに基づいています。
+
+  
+12 Principles of Animation  -  Cento Lodigiani作のアニメーション
+
+イージングカーブを作成する際に、垂直な部分は速く、水平な部分は遅いということを念頭に置いておいてください。カーブはインタラクションをどうデザインするかにより決めるものです。(X,Y)グリッド内で複数の異なる種類のカーブを作成できます。
+
+Your browser does not support the video tag.
+
+[_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/mJeQyq?editors=110)
+
+さらに、フレーム内でのカーブの作成に加え、フレームを飛び出すこともできます。フレームを飛び出すことで、アニメーションがキーフレーム間の値の外に行きます。フレームを飛び出すことで跳ねる効果や予想効果を作成できます。
+
+Your browser does not support the video tag.
+
+ [_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/zGrNwv?editors=110) 
+
+3次ベジェ（cubic-bezier）の作成に使えるツールはWeb上にたくさんあります。以下に少し挙げておきます。
+
+*[cubic-bezier.com](http://cubic-bezier.com/#.17,.67,.83,.67)
+*[Ceaser](http://matthewlein.com/ceaser/) 
+*[Easings.net](http://easings.net/ja)
+
+##開発におけるイージングカーブ
+
+開発の中では、イージングカーブは&quot;タイミング関数&quot;と呼ばれます。この関数は、グラフ上の加速度パターンを定義するベジェ曲線を作成する数学的な方程式です。開発の中でよく使われる関数は、3次ベジェです。ここからは、この3次ベジェについて掘り下げていきたいと思います。
+
+
+
+大部分のプログラミング言語には、ease-inやease-out、ease-in-outといった定義済みのイージングカーブがいくつかあります。仕様をチェックして、どのカーブが定義済みなのかを確認しましょう。CSSであらかじめ定義されているイージングカーブを以下に挙げました。
+
+* ease-in = cubic-bezier(.42, 0, 1, 1) 
+* ease-out = cubic-bezier(0, 0, .58, 1) 
+* ease-in-out = cubic-bezier(.42, 0, .58, 1) 
+
+##CSSでイージングカーブを定義する
+
+###包括的な定義
+
+CSSには、オブジェクトクラス内で定義可能な&quot;global&quot; easeがあり、これを使うと同じeaseを全てのキーフレームに割り当てることができます。例えば急な動きを入れると、アニメーションは全てのキーフレームで同じように急な動きをします。
+
+Your browser does not support the video tag.
+
+```
+.object-class {
+ animation-name: animation-rocks;
+ animation-timing-function: cubic-bezier(1,.01,.91,.46);
+}
+```
+
+ [_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/JdYmqG)
+
+##キーフレームごとの定義
+
+キーフレーム内でイーズを定義することにより、イージングをさらに的確に行うことが可能です。イージングカーブは、生じさせたいイージングの前にパーセンテージで値を定義するものだということを覚えておくことが大切です。
+
+Your browser does not support the video tag.
+
+```
+@keyframes animation-name {
+</description>
+		<content:encoded><![CDATA[<div class="markdown-content">
+<p><style>
+video{max-width:100%;}
+</style>
+</p>
+<p><img class="graf-image" data-image-id="1*zCF7Jk2R6I3OSBeAQHk6pw.png" data-width="1508" data-height="508" src="https://d262ilb51hltx0.cloudfront.net/max/2000/1*zCF7Jk2R6I3OSBeAQHk6pw.png"></p>
+<p>フラットデザインの導入以来、アニメーションの質が、今までにないほど、優れたインターフェース作成のために必要不可欠なものとなっています。モーションデザインを通して、製品の総体的なブランドエクスペリエンスを左右するようになり、製品を、市場の他のものと差別化する要素となりました。アニメーションは複雑なインタラクションを簡素化し、優れたデザインを記憶に残るユーザエクスペリエンスにしました。では、質の高いアニメーションはどのように作られるのでしょうか？　イージングカーブは多くの要となるコンポーネントの1つで、適切なアニメーションをとり、素晴らしいものに作り上げます。</p>
+<p>問題なのは、イージングカーブがどのように機能するかについての理解が、少々難しいということです。前回の記事<a href="https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e">After Effects to CSS</a>で触れたタイミング関数への興味の派生としてこの記事を書きましたが、この記事を読むことで前述の問題が解消すればいいなと思います。読者の皆さんはイージングカーブがどのように機能するか、そしてどのようにデザインをすればいいかについて理解を深めたいと思っていたことでしょう。</p>
+<p>イージングカーブは、グラフ上の加速度パターンを定義する行です。イージングカーブは一般的に、モーションカーブ、タイミング関数、ベジェ曲線、単にカーブなどと異なった呼称で言及されています。イージングカーブはさまざまな形を持ち、ease-in、ease-out、あるいは ease-in-outといったキーワードで指定される値を持つものもあります。</p>
+<h2 id="gfm-22">イージングカーブの機能</h2>
+<p>イージングカーブはX軸とY軸の値で定義されます。XとYの意味はアプリケーションごとに変化します。開発の範囲内では、XとYの意味は固定されたままです。すなわち、時間（X）の経過とともに、アニメーション（Y）のパーセンテージで定義されます。</p>
+<p><img class="graf-image" data-image-id="1*yrj0VOEk_rciKIDglyvF-A.png" data-width="447" data-height="446" src="https://d262ilb51hltx0.cloudfront.net/max/800/1*yrj0VOEk_rciKIDglyvF-A.png"></p>
+<p>イージングカーブは、実行した時、どのように見えるでしょうか？　それはタイミングとスペーシングのコンセプトが動き始める状態になるときです。</p>
+<h3 id="gfm-23">タイミングとスペーシング</h3>
+<p>タイミングはアニメーションが終了するまでの継続時間を指し、スペーシングは各々の&#8221;フレーム&#8221;の間隔を指します。ですが、今回の場合、スペーシングは、それぞれのアニメーションのパーセンテージの間隔を指すものとします。以下は、スペーシングとイージングカーブの関連性について例示したものです。カーブが垂直に近いほど速く、水平に近いほど遅いことに注意してみてください。</p>
+<p style="text-align:center"><em>Linear Easeスペーシング</em></p>
+<p><video loop="" video="" autoplay="" class="graf-image" data-image-id="1*fpHbdiO48eNmQzAZG8S2zQ.gif" data-width="810" data-height=""><source src="https://d262ilb51hltx0.cloudfront.net/max/900/1*fpHbdiO48eNmQzAZG8S2zQ.ogv" type="video/ogg"><source src="https://d262ilb51hltx0.cloudfront.net/max/900/1*fpHbdiO48eNmQzAZG8S2zQ.mp4" type="video/mp4">Your browser does not support the video tag.</video></p>
+<p>Linear easeスペーシングでは、点の移動する間隔は、アニメーションの長さと同じです。<a href="http://codepen.io/ryanbrownhill/pen/EjVdeY"><em>CodePenで見る</em></a></p>
+<p style="text-align:center"><em>Ease Inスペーシング</em></p>
+<p><video loop="" video="" autoplay="" class="graf-image" data-image-id="1*7LJjBNRmXRhfAQV2kC2Z8g.gif" data-width="740" data-height="352"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*7LJjBNRmXRhfAQV2kC2Z8g.ogv" type="video/ogg"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*7LJjBNRmXRhfAQV2kC2Z8g.mp4" type="video/mp4">Your browser does not support the video tag.</video></p>
+<p>Ease inスペーシングでは、点の動きの間隔が最初は狭く、アニメーションが続くにつれ広がります。こうすることにより、点が加速していくかのような錯覚を与えます。 <a href="http://codepen.io/ryanbrownhill/pen/VLvEre"><em>CodePenで見る</em></a></p>
+<p style="text-align:center"><em>Ease Outスペーシング</em></p>
+<p><video loop="" video="" autoplay="" class="graf-image" data-image-id="1*u2F7k1-MldDAVaR3HS456w.gif" data-width="724" data-height="362"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*u2F7k1-MldDAVaR3HS456w.ogv" type="video/ogg"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*u2F7k1-MldDAVaR3HS456w.mp4" type="video/mp4">Your browser does not support the video tag.</video></p>
+<p>Ease outスペーシングでは、点は最初大きく動き、最後には間隔が狭まります。こうすることにより、点が減速していくかのような錯覚を与えます。<a href="http://codepen.io/ryanbrownhill/pen/MwaPBZ"><em>CodePenで見る</em></a></p>
+<h2 id="gfm-24">イージングカーブをデザインする</h2>
+<p>イージングカーブのデザインにおいて、人にいつも聞かれるのが、&#8221;どのイージングカーブをどこで使えばよいのか&#8221;です。私の答えは、シナリオによるとしか言えません。全てに使えるイージングカーブはありません。カーブの作成は、動作をデザインする時の重要な要素となります。イージングカーブは、一般的に実世界の物理の法則に基づいてデザインされていますが、必ずしもその法則を守っている訳ではありません。実世界はアニメーションの創造意欲を掻き立ててくれます。例えば、linearイージングカーブのように、実世界では、急速度で動き始め、急停止するものはありません。動くものは必ず加速し減速します。これは、Disneyの<a href="https://vimeo.com/93206523">12 principles of animation(アニメーションにおける12の法則)</a>にまとめられた概念のひとつにすぎません。これも物理の法則やそれを誇張したものに基づいています。</p>
+<p><iframe src="https://player.vimeo.com/video/93206523" width="500" height="197" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe></p>
+<p><small>12 Principles of Animation  -  Cento Lodigiani作のアニメーション</small></p>
+<p>イージングカーブを作成する際に、垂直な部分は速く、水平な部分は遅いということを念頭に置いておいてください。カーブはインタラクションをどうデザインするかにより決めるものです。(X,Y)グリッド内で複数の異なる種類のカーブを作成できます。</p>
+<p><video loop="" video="" autoplay="" class="graf-image" data-image-id="1*AtW9LyqTeYScAwCShyoFxw.gif" data-width="1128" data-height="392"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*AtW9LyqTeYScAwCShyoFxw.ogv" type="video/ogg"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*AtW9LyqTeYScAwCShyoFxw.mp4" type="video/mp4">Your browser does not support the video tag.</video></p>
+<p><a href="http://codepen.io/ryanbrownhill/pen/mJeQyq?editors=110"><em>CodePenで見る</em></a></p>
+<p>さらに、フレーム内でのカーブの作成に加え、フレームを飛び出すこともできます。フレームを飛び出すことで、アニメーションがキーフレーム間の値の外に行きます。フレームを飛び出すことで跳ねる効果や予想効果を作成できます。</p>
+<p><video loop="" video="" autoplay="" class="graf-image" data-image-id="1*ENr717Pm2gm6ps4AvH39lQ.gif" data-width="788" data-height="758"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*ENr717Pm2gm6ps4AvH39lQ.ogv" type="video/ogg"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*ENr717Pm2gm6ps4AvH39lQ.mp4" type="video/mp4">Your browser does not support the video tag.</video></p>
+<p><a href="http://codepen.io/ryanbrownhill/pen/zGrNwv?editors=110"><em>CodePenで見る</em></a></p>
+<p>3次ベジェ（cubic-bezier）の作成に使えるツールはWeb上にたくさんあります。以下に少し挙げておきます。</p>
+<p>*<a href="http://cubic-bezier.com/#.17,.67,.83,.67">cubic-bezier.com</a><br />
+*<a href="http://matthewlein.com/ceaser/">Ceaser</a><br />
+*<a href="http://easings.net/ja">Easings.net</a></p>
+<h2 id="gfm-25">開発におけるイージングカーブ</h2>
+<p>開発の中では、イージングカーブは&#8221;タイミング関数&#8221;と呼ばれます。この関数は、グラフ上の加速度パターンを定義するベジェ曲線を作成する数学的な方程式です。開発の中でよく使われる関数は、3次ベジェです。ここからは、この3次ベジェについて掘り下げていきたいと思います。</p>
+<p><img class="graf-image" data-image-id="1*vWeVRPeCyo8Ul6G7CPibLA.png" data-width="827" data-height="324" data-action="zoom" data-action-value="1*vWeVRPeCyo8Ul6G7CPibLA.png" src="https://d262ilb51hltx0.cloudfront.net/max/930/1*vWeVRPeCyo8Ul6G7CPibLA.png"></p>
+<p>大部分のプログラミング言語には、ease-inやease-out、ease-in-outといった定義済みのイージングカーブがいくつかあります。仕様をチェックして、どのカーブが定義済みなのかを確認しましょう。CSSであらかじめ定義されているイージングカーブを以下に挙げました。</p>
+<ul>
+<li>ease-in = cubic-bezier(.42, 0, 1, 1) </li>
+<li>ease-out = cubic-bezier(0, 0, .58, 1) </li>
+<li>ease-in-out = cubic-bezier(.42, 0, .58, 1) </li>
+</ul>
+<h2 id="gfm-26">CSSでイージングカーブを定義する</h2>
+<h3 id="gfm-27">包括的な定義</h3>
+<p>CSSには、オブジェクトクラス内で定義可能な&#8221;global&#8221; easeがあり、これを使うと同じeaseを全てのキーフレームに割り当てることができます。例えば急な動きを入れると、アニメーションは全てのキーフレームで同じように急な動きをします。</p>
+<p><video loop="" video="" autoplay="" class="graf-image" data-image-id="1*VhiXDe5IlAQ9ZKwDDloOzg.gif" data-width="538" data-height="532"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*VhiXDe5IlAQ9ZKwDDloOzg.ogv" type="video/ogg"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*VhiXDe5IlAQ9ZKwDDloOzg.mp4" type="video/mp4">Your browser does not support the video tag.</video></p>
+<pre class="prettyprint lang-" title="">.object-class {
+ animation-name: animation-rocks;
+ animation-timing-function: cubic-bezier(1,.01,.91,.46);
+}
+</pre>
+<p><a href="http://codepen.io/ryanbrownhill/pen/JdYmqG"><em>CodePenで見る</em></a></p>
+<h2 id="gfm-28">キーフレームごとの定義</h2>
+<p>キーフレーム内でイーズを定義することにより、イージングをさらに的確に行うことが可能です。イージングカーブは、生じさせたいイージングの前にパーセンテージで値を定義するものだということを覚えておくことが大切です。</p>
+<p><video loop="" video="" autoplay="" class="graf-image" data-image-id="1*pIfuxLTA9waZJ4MVvBoHOg.gif" data-width="526" data-height="518"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*pIfuxLTA9waZJ4MVvBoHOg.ogv" type="video/ogg"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*pIfuxLTA9waZJ4MVvBoHOg.mp4" type="video/mp4">Your browser does not support the video tag.</video></p>
+<pre class="prettyprint lang-" title="">@keyframes animation-name {
+  0% {
+    animation-timing-function: cubic-bezier(1,.01,.91,.46);
+  }
+  25% {
+    animation-timing-function: linear;
+  }
+  50% {
+    animation-timing-function: cubic-bezier(0,.02,0,1.01);
+  }
+  75% {
+    animation-timing-function: linear;
+  }
+  100% {
+    animation-timing-function: linear;
+  }
+}
+</pre>
+<p><a href="http://codepen.io/ryanbrownhill/pen/JdYejX"><em>CodePenで見る</em></a></p>
+<h2 id="gfm-29">遅延時間の指定</h2>
+<p>イージングカーブのコンセプトは、1つのアニメーションだけでなく、遅延にも適用することが可能です。スクリーン上での画像の動きにいろいろな要素があると、非常に面白くなります。以下は正弦波の遅延の一例です。これはSassでループを作成したもので、正弦の計算にはCompassのMath Helperの機能を使いました。</p>
+<p><video loop="" video="" autoplay="" class="graf-image" data-image-id="1*wz068HDsQ3byZZ1cHCJsfw.gif" data-width="450" data-height="305"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*wz068HDsQ3byZZ1cHCJsfw.ogv" type="video/ogg"><source src="https://d262ilb51hltx0.cloudfront.net/max/800/1*wz068HDsQ3byZZ1cHCJsfw.mp4" type="video/mp4">Your browser does not support the video tag.</video></p>
+<pre class="prettyprint lang-" title="">@for $i from 1 through 7 {
+  &amp;:nth-child(#{$i}) {
+     animation-delay: ( #{sin(.4) * ($i)}s );
+}
+</pre>
+<p><a href="http://codepen.io/ryanbrownhill/pen/NqGxgr"><em>CodePenで見る</em></a></p>
+<p><em>読んで頂きありがとうございました！　<a href="http://ryanbrownhill.github.io/resources/">リソース</a>が欲しい方、ご質問のある方はお気軽に<a href="https://twitter.com/ryan_brownhill">@ryan_brownhill</a>にツイートしてください。</em></p>
+</div>
+]]></content:encoded>
+		<wfw:commentRss>https://postd.cc/crafting-easing-curves-for-user-interfaces/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="https://d262ilb51hltx0.cloudfront.net/max/900/1*fpHbdiO48eNmQzAZG8S2zQ.ogv" length="96" type="video/ogg" />
+		<itunes:subtitle>video{max-width:100%;} フラットデザインの導入以来、アニメーションの質が、今までにないほど、優れたインターフェース作成のために必要不可欠なものとなっています。モーションデザインを通して、製品の総体的なブランドエクスペリエンスを左右するようになり、製品を、市場の他のものと差別化する要素となりました。アニメーションは複雑なインタラクションを簡素化し、優れたデザインを記憶に残るユーザエクスペリエンスにしました。では、質の高いアニメーションはどのように作られるのでしょ...</itunes:subtitle>
+		<itunes:summary>video{max-width:100%;}
+
+
+
+
+フラットデザインの導入以来、アニメーションの質が、今までにないほど、優れたインターフェース作成のために必要不可欠なものとなっています。モーションデザインを通して、製品の総体的なブランドエクスペリエンスを左右するようになり、製品を、市場の他のものと差別化する要素となりました。アニメーションは複雑なインタラクションを簡素化し、優れたデザインを記憶に残るユーザエクスペリエンスにしました。では、質の高いアニメーションはどのように作られるのでしょうか？　イージングカーブは多くの要となるコンポーネントの1つで、適切なアニメーションをとり、素晴らしいものに作り上げます。
+
+問題なのは、イージングカーブがどのように機能するかについての理解が、少々難しいということです。前回の記事[After Effects to CSS](https://medium.com/@ryan_brownhill/after-effects-to-css-79225c1d767e)で触れたタイミング関数への興味の派生としてこの記事を書きましたが、この記事を読むことで前述の問題が解消すればいいなと思います。読者の皆さんはイージングカーブがどのように機能するか、そしてどのようにデザインをすればいいかについて理解を深めたいと思っていたことでしょう。
+
+イージングカーブは、グラフ上の加速度パターンを定義する行です。イージングカーブは一般的に、モーションカーブ、タイミング関数、ベジェ曲線、単にカーブなどと異なった呼称で言及されています。イージングカーブはさまざまな形を持ち、ease-in、ease-out、あるいは ease-in-outといったキーワードで指定される値を持つものもあります。
+
+##イージングカーブの機能
+
+イージングカーブはX軸とY軸の値で定義されます。XとYの意味はアプリケーションごとに変化します。開発の範囲内では、XとYの意味は固定されたままです。すなわち、時間（X）の経過とともに、アニメーション（Y）のパーセンテージで定義されます。
+
+
+
+イージングカーブは、実行した時、どのように見えるでしょうか？　それはタイミングとスペーシングのコンセプトが動き始める状態になるときです。
+
+###タイミングとスペーシング
+
+タイミングはアニメーションが終了するまでの継続時間を指し、スペーシングは各々の&quot;フレーム&quot;の間隔を指します。ですが、今回の場合、スペーシングは、それぞれのアニメーションのパーセンテージの間隔を指すものとします。以下は、スペーシングとイージングカーブの関連性について例示したものです。カーブが垂直に近いほど速く、水平に近いほど遅いことに注意してみてください。
+Linear Easeスペーシング
+Your browser does not support the video tag.
+
+
+Linear easeスペーシングでは、点の移動する間隔は、アニメーションの長さと同じです。[_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/EjVdeY)
+
+Ease Inスペーシング
+
+Your browser does not support the video tag.
+
+Ease inスペーシングでは、点の動きの間隔が最初は狭く、アニメーションが続くにつれ広がります。こうすることにより、点が加速していくかのような錯覚を与えます。 [_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/VLvEre)
+
+Ease Outスペーシング
+
+Your browser does not support the video tag.
+
+Ease outスペーシングでは、点は最初大きく動き、最後には間隔が狭まります。こうすることにより、点が減速していくかのような錯覚を与えます。[_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/MwaPBZ)
+
+##イージングカーブをデザインする
+
+イージングカーブのデザインにおいて、人にいつも聞かれるのが、&quot;どのイージングカーブをどこで使えばよいのか&quot;です。私の答えは、シナリオによるとしか言えません。全てに使えるイージングカーブはありません。カーブの作成は、動作をデザインする時の重要な要素となります。イージングカーブは、一般的に実世界の物理の法則に基づいてデザインされていますが、必ずしもその法則を守っている訳ではありません。実世界はアニメーションの創造意欲を掻き立ててくれます。例えば、linearイージングカーブのように、実世界では、急速度で動き始め、急停止するものはありません。動くものは必ず加速し減速します。これは、Disneyの[12 principles of animation(アニメーションにおける12の法則)](https://vimeo.com/93206523)にまとめられた概念のひとつにすぎません。これも物理の法則やそれを誇張したものに基づいています。
+
+  
+12 Principles of Animation  -  Cento Lodigiani作のアニメーション
+
+イージングカーブを作成する際に、垂直な部分は速く、水平な部分は遅いということを念頭に置いておいてください。カーブはインタラクションをどうデザインするかにより決めるものです。(X,Y)グリッド内で複数の異なる種類のカーブを作成できます。
+
+Your browser does not support the video tag.
+
+[_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/mJeQyq?editors=110)
+
+さらに、フレーム内でのカーブの作成に加え、フレームを飛び出すこともできます。フレームを飛び出すことで、アニメーションがキーフレーム間の値の外に行きます。フレームを飛び出すことで跳ねる効果や予想効果を作成できます。
+
+Your browser does not support the video tag.
+
+ [_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/zGrNwv?editors=110) 
+
+3次ベジェ（cubic-bezier）の作成に使えるツールはWeb上にたくさんあります。以下に少し挙げておきます。
+
+*[cubic-bezier.com](http://cubic-bezier.com/#.17,.67,.83,.67)
+*[Ceaser](http://matthewlein.com/ceaser/) 
+*[Easings.net](http://easings.net/ja)
+
+##開発におけるイージングカーブ
+
+開発の中では、イージングカーブは&quot;タイミング関数&quot;と呼ばれます。この関数は、グラフ上の加速度パターンを定義するベジェ曲線を作成する数学的な方程式です。開発の中でよく使われる関数は、3次ベジェです。ここからは、この3次ベジェについて掘り下げていきたいと思います。
+
+
+
+大部分のプログラミング言語には、ease-inやease-out、ease-in-outといった定義済みのイージングカーブがいくつかあります。仕様をチェックして、どのカーブが定義済みなのかを確認しましょう。CSSであらかじめ定義されているイージングカーブを以下に挙げました。
+
+* ease-in = cubic-bezier(.42, 0, 1, 1) 
+* ease-out = cubic-bezier(0, 0, .58, 1) 
+* ease-in-out = cubic-bezier(.42, 0, .58, 1) 
+
+##CSSでイージングカーブを定義する
+
+###包括的な定義
+
+CSSには、オブジェクトクラス内で定義可能な&quot;global&quot; easeがあり、これを使うと同じeaseを全てのキーフレームに割り当てることができます。例えば急な動きを入れると、アニメーションは全てのキーフレームで同じように急な動きをします。
+
+Your browser does not support the video tag.
+
+```
+.object-class {
+ animation-name: animation-rocks;
+ animation-timing-function: cubic-bezier(1,.01,.91,.46);
+}
+```
+
+ [_CodePenで見る_](http://codepen.io/ryanbrownhill/pen/JdYmqG)
+
+##キーフレームごとの定義
+
+キーフレーム内でイーズを定義することにより、イージングをさらに的確に行うことが可能です。イージングカーブは、生じさせたいイージングの前にパーセンテージで値を定義するものだということを覚えておくことが大切です。
+
+Your browser does not support the video tag.
+
+```
+@keyframes animation-name {
+</itunes:summary>
+		<itunes:author>POSTD</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		</item>
+	<item>
+		<title>開発経験ゼロのイラストレーターがゲーム制作 &#8211; Alto&#8217;s Adventure制作記</title>
+		<link>https://postd.cc/the-making-of-altos-adventure/</link>
+		<pubDate>Wed, 06 May 2015 09:00:41 +0000</pubDate>
+		<guid isPermaLink="false">http://postd.cc/?p=3054</guid>
+		<comments>https://postd.cc/the-making-of-altos-adventure/#respond</comments>
+		<dc:creator></dc:creator>
+		<category><![CDATA[プロダクト・サービス]]></category>
+		<category><![CDATA[ゲーム開発]]></category>
+		<description>数週間前やっと、大興奮の長い旅にピリオドを打つことができました。2年間かけて私の全精神と愛情を注いで制作した[Alto&#039;s Adventure](http://www.altosadventure.com/)がついにリリースされました。
+
+簡単な道のりではありませんでしたので、その制作過程で私が感じたことをうまく言葉にできるか分かりませんが、まずはこのゲームをダウンロードして遊んでくれている全ての方に感謝の意を表したいと思います。このゲームで遊んでくれている方がいるというだけでもう私の努力は報われています。
+
+今回のゲームの制作に関して経験してきたことや、直面した問題などをシリーズで投稿していきたいとずっと考えていました。何が皆さんの興味を引き、どこまで詳細にお話するかなどは難しい課題ですが、まず簡単なゲームの紹介から始めたいと思います。
+
+
+Alto&#039;s Adventureは、移りゆくアルペンの美しい景色を背景に、スノーボードの果てしない冒険ができるゲームです。若い羊飼いがスノーボードで滑りながら行く手に出現するラマを救出していきます。その道のりは楽しくもあり、様々な難関も登場します。このゲームはゲームプレーをベースに流体物理学を応用し、一日の移り変わりや天候の変化を巧みに表現しています。以下のトレーラーやスクリーンショットでご確認ください。
+
+
+
+
+
+このゲームは私が[Snowman](http://www.builtbysnowman.com/)と共同で開発をしました。Snowmanは、[Ryan Cash](https://twitter.com/ryanacash)とJordan Rosenbergが設立したカナダに事務所を構えるインディペンデントのソフトウェアスタジオです。この2人には今回のプロジェクトの監督的な役割を担ってもらいました。
+
+私はこのゲームの唯一のアーティスト兼開発者として参加し、さらにはゲームのプログラミングやビジュアルデザイン、アニメーション、2Dと3D、UI/UXの全てにおいての責任を担いました。ウェブサイトやトレーラーに関しても私が責任者を務めました。Alto&#039;s Adventureは[Unity](http://unity3d.com/)を使用して開発しています。実は、今回が私にとってゲーム開発者として初めての仕事だったのです。
+
+効果音は[Kpow Audio](http://www.kpow.com.au/)に制作をお願いし、音楽は[ShinnyMetal](https://soundcloud.com/shinnymetal)の名で知られるBrian Crawfordに依頼しました。
+
+では、堅苦しいのはこのへんにして…。
+
+始めていきましょう。
+
+##簡単な経緯
+
+初期のRyanのゲームプレーのスケッチ
+
+2013年1月にRyanがアイデアの種を携えて私に連絡をしてきました。そのアイデアというのが、2Dのスノーボードのゲームで、バックフリップができたり谷を飛んで超えたりするというものでした。
+
+多少のスケッチはあったものの、その案はまだかなり白紙に近い状態でした。というのもRyanは、キャラクターや環境設定、アイテム、アニメーションも含め全ての外観や雰囲気のクリエイティブな面を私に託してくれようとしていたのです。
+
+それはもう魅力的なオファーでしたが、当初は不安でした。私はスノーボードに関してほとんど何の知識もありませんし、エクストリームスポーツ系ゲームの熱狂的ファンというわけでもなかったからです。なので、このプロジェクトに対する最初の印象はヒンヤリとしていて（ダジャレをお許しください）、自分が適任であるのか疑問に思っていました。
+
+しかしこの件を考えれば考えるほど、繊細でスタイリッシュな雰囲気のゲームにできたらいいんじゃないか、という思いがどんどん膨らんできました。歴史や文化を取り入れながら、キャラクターやその景色がこの世ではとてもちっぽけな存在であると思わせるような、山の高いところにいるような感覚を表現したいと思ったのです。そしてそれらのアイデアを全て掛け合わせて、大胆でミニマリズムなスタイルにし、気軽な魅力と少しの奥深さを表現してみたいと考えていました。
+
+そんなスノーボードゲームだったら、絶対に面白い！
+
+幸いにもRyanとJordanが求めていたことが私の考えと合致しており、すぐにプロジェクトは動き始めました。以下の画像は、ゲーム全体の雰囲気を表すために私が描いた最初のスケッチです。
+
+
+##アートからコードへ
+
+きっと皆さんはこう思うでしょう。なぜ単なるイラストレーターでゲーム開発の経験の全くない人間がプロジェクト唯一のiOSゲームのプログラマーとして仕事をすることができたのかって。正直言いまして、私もいまだによく分かっていません！
+
+制作開始当初は、別の開発者にお願いをしてCocos2Dでゲームを作っていこうという話が進んでいました。プレースホルダの状態でシンプルな仕組みでしたが、実際にプレーのできるプロトタイプまで上がっていました。
+
+Cocos2DPrototype
+しかしプロジェクトを進めるにつれ、私たちが求めているような複雑で繊細な奥深さを出すには、2Ｄだけでは厳しいということが徐々に分かってきました。
+
+このような状態になる前から、私はUnityの使い方を学び始めていました。Unityは、扱いやすいクロスプラットフォームの3Dゲームエンジンです。自分でも驚きましたが、基本的なことを取得するのは簡単で楽しい作業でした。特にWeb開発の経験のある私にとってはUnityScript（JavaScriptと似た言語です）は扱いやすかったですし、さらにC#はUnityScriptよりも快適に使えるようになりました。そしてUnityを使って何作品か作ることができるまでになりました（その作品は[こちら](http://www.harrynesbitt.com/blog/experimenting-with-unity/)と[こちら](http://www.harrynesbitt.com/blog/experimenting-with-unity-part-2/)からご覧になれます）。しかし、ゲームの制作にはまだ程遠いレベルしでした。私はこの時、やはりこのプロジェクトの開発者としての役割は務まらないと確信しました。
+
+しかし好奇心がその不安を上回りました。ある雨が降る週末、私は新規プロジェクトをUnityで立ち上げ、何ができるかという検証を始めました。
+
+すると驚くことに、ほんの数日間で、以前のエンジンでは困難だった多くの重要な要素を実装できるようになったのです。具体的には、段階的に生成される地形や、前景と背景のパララックス（ほんの少しですが3Dを演出します）、画像のズーム、パーティクルエフェクト、キャラクターが着けているマフラーの躍動感などの実装が可能になりました。Unityの可能性、特に短期間で多くを実装できるようになったことに私は気持ちが高ぶり、Ryanにこれを披露し、彼のリアクションを見てみることにしました。
+
+
+Ryanは熱狂的とも言える非常に強い興味を示し、2013年のクリスマスまでに製品化したいと考えました。そのため、私はその年の9月には常勤の開発者としてチームで働くようになっていたのです。（この時、予定のスケジュールに間に合わせられなかったことが、今後待ち受ける多くの失敗や教訓の最初となります）
+
+当時、私にはRyanが与えてくれたチャンスに感謝する余裕すらありませんでした。みんなにこのプロジェクトは失敗すると言われていましたし、全身全霊を傾けて開発に取り組んでいた私ですら、プロジェクトが終わる数カ月前まで、どうやってゲームを終わらせたらいいのか分からないような状態だったのです。
+
+2013年9月2015年2月
+しかし、あっという間に18カ月が過ぎ、私たちは*ついに*リリースを成し遂げました。当初の予定より4倍の期間を要しましたが、月日が経つにつれゲームは進化し、どんどん面白くなっていきました。私はその開発の過程を、緩やかに長い時間燃え続ける炎のようだ、とよく表現してきました。小さなチームだったので、あれ以上、開発速度を上げる術はなかったのですが、おかげで時間をかけ、プロジェクトを独自のスピードで成熟させることができました。すばらしいアイデアが自然に浮かぶまで待ち続け、時には何カ月も過ぎてしまったこともあります。
+
+うれしいことに、リリースしたゲームは現時点で大きな成功を収めています。主要なゲームやテクノロジー関連のサイトでは、おおむねすばらしい評価やレビューを頂き、これらのレビューを数値化して評価するサイト、[Metacriticの総合スコアで92点を獲得しました](http://www.metacritic.com/game/ios/altos-adventure)。しかし、何よりも重要なのは、世界中のプレーヤーから寄せられた非常に好意的な反応です。純粋にゲームをプレーし、楽しんでいる人々がいるという事実に、心底ありがたい気持ちになります。
+
+また、ゲームのファンがイラストを描いて、シェアしているのを見る機会もあります。現時点での、私のお気に入りの作品をここでご紹介しましょう。
+
+jakkios.tumblr.</description>
+		<content:encoded><![CDATA[<div class="markdown-content">
+<p>数週間前やっと、大興奮の長い旅にピリオドを打つことができました。2年間かけて私の全精神と愛情を注いで制作した<a href="http://www.altosadventure.com/">Alto&#8217;s Adventure</a>がついにリリースされました。</p>
+<p>簡単な道のりではありませんでしたので、その制作過程で私が感じたことをうまく言葉にできるか分かりませんが、まずはこのゲームをダウンロードして遊んでくれている全ての方に感謝の意を表したいと思います。このゲームで遊んでくれている方がいるというだけでもう私の努力は報われています。</p>
+<p>今回のゲームの制作に関して経験してきたことや、直面した問題などをシリーズで投稿していきたいとずっと考えていました。何が皆さんの興味を引き、どこまで詳細にお話するかなどは難しい課題ですが、まず簡単なゲームの紹介から始めたいと思います。</p>
+<p><img class="alignnonewp-image-2086" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/TitleScene.jpg" alt="TitleScene"><br />
+Alto&#8217;s Adventureは、移りゆくアルペンの美しい景色を背景に、スノーボードの果てしない冒険ができるゲームです。若い羊飼いがスノーボードで滑りながら行く手に出現するラマを救出していきます。その道のりは楽しくもあり、様々な難関も登場します。このゲームはゲームプレーをベースに流体物理学を応用し、一日の移り変わりや天候の変化を巧みに表現しています。以下のトレーラーやスクリーンショットでご確認ください。</p>
+<p><iframe width="560" height="315" src="https://www.youtube.com/embed/Wk5JupHelAg" frameborder="0" allowfullscreen></iframe></p>
+<div id="gallery-1" class="gallery galleryid-2072 gallery-columns-3 gallery-size-medium">
+<dl class="gallery-item">
+<dt class="gallery-iconlandscape"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a02_Chasm.png" rel="lightbox[gallery-1]"><img width="400" height="225" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a02_Chasm-400x225.png" class="attachment-medium" alt="a02_Chasm"></a></dt>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a03_Sunrise.png" rel="lightbox[gallery-1]"><img width="400" height="225" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a03_Sunrise-400x225.png" class="attachment-medium" alt="a03_Sunrise"></a></dt>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a04_Ice.png" rel="lightbox[gallery-1]"><img width="400" height="225" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a04_Ice-400x225.png" class="attachment-medium" alt="a04_Ice"></a></dt>
+</dl>
+<p><br style="clear: both"></p>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a05_Night.png" rel="lightbox[gallery-1]"><img width="400" height="225" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a05_Night-400x225.png" class="attachment-medium" alt="a05_Night"></a></dt>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a6_Forest.png" rel="lightbox[gallery-1]"><img width="400" height="225" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a6_Forest-400x225.png" class="attachment-medium" alt="a6_Forest"></a></dt>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a07_Ruins.png" rel="lightbox[gallery-1]"><img width="400" height="225" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/a07_Ruins-400x225.png" class="attachment-medium" alt="a07_Ruins"></a></dt>
+</dl>
+<p><br style="clear: both"></div>
+<p>このゲームは私が<a href="http://www.builtbysnowman.com/">Snowman</a>と共同で開発をしました。Snowmanは、<a href="https://twitter.com/ryanacash">Ryan Cash</a>とJordan Rosenbergが設立したカナダに事務所を構えるインディペンデントのソフトウェアスタジオです。この2人には今回のプロジェクトの監督的な役割を担ってもらいました。</p>
+<p>私はこのゲームの唯一のアーティスト兼開発者として参加し、さらにはゲームのプログラミングやビジュアルデザイン、アニメーション、2Dと3D、UI/UXの全てにおいての責任を担いました。ウェブサイトやトレーラーに関しても私が責任者を務めました。Alto&#8217;s Adventureは<a href="http://unity3d.com/">Unity</a>を使用して開発しています。実は、今回が私にとってゲーム開発者として初めての仕事だったのです。</p>
+<p>効果音は<a href="http://www.kpow.com.au/">Kpow Audio</a>に制作をお願いし、音楽は<a href="https://soundcloud.com/shinnymetal">ShinnyMetal</a>の名で知られるBrian Crawfordに依頼しました。</p>
+<p>では、堅苦しいのはこのへんにして…。</p>
+<p>始めていきましょう。</p>
+<h2 id="gfm-30">簡単な経緯</h2>
+<div id="attachment_2085" style="width: 410px" class="wp-caption alignright"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/RyanSketch.jpg" rel="lightbox-0"><img class="wp-image-2085 size-medium" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/RyanSketch-400x265.jpg" alt="RyanSketch" width="400" height="265"></a></p>
+<p class="wp-caption-text">初期のRyanのゲームプレーのスケッチ</p>
+</div>
+<p>2013年1月にRyanがアイデアの種を携えて私に連絡をしてきました。そのアイデアというのが、2Dのスノーボードのゲームで、バックフリップができたり谷を飛んで超えたりするというものでした。</p>
+<p>多少のスケッチはあったものの、その案はまだかなり白紙に近い状態でした。というのもRyanは、キャラクターや環境設定、アイテム、アニメーションも含め全ての外観や雰囲気のクリエイティブな面を私に託してくれようとしていたのです。</p>
+<p>それはもう魅力的なオファーでしたが、当初は不安でした。私はスノーボードに関してほとんど何の知識もありませんし、エクストリームスポーツ系ゲームの熱狂的ファンというわけでもなかったからです。なので、このプロジェクトに対する最初の印象はヒンヤリとしていて（ダジャレをお許しください）、自分が適任であるのか疑問に思っていました。</p>
+<p>しかしこの件を考えれば考えるほど、繊細でスタイリッシュな雰囲気のゲームにできたらいいんじゃないか、という思いがどんどん膨らんできました。歴史や文化を取り入れながら、キャラクターやその景色がこの世ではとてもちっぽけな存在であると思わせるような、山の高いところにいるような感覚を表現したいと思ったのです。そしてそれらのアイデアを全て掛け合わせて、大胆でミニマリズムなスタイルにし、気軽な魅力と少しの奥深さを表現してみたいと考えていました。</p>
+<p>そんなスノーボードゲームだったら、絶対に面白い！</p>
+<p>幸いにもRyanとJordanが求めていたことが私の考えと合致しており、すぐにプロジェクトは動き始めました。以下の画像は、ゲーム全体の雰囲気を表すために私が描いた最初のスケッチです。</p>
+<p><img class="alignnone wp-image-1983 size-full" src="http://www.harrynesbitt.com/wp-content/uploads/2014/04/early_concepts.png" alt="" width="760" height="380"></p>
+<h2 id="gfm-31">アートからコードへ</h2>
+<p>きっと皆さんはこう思うでしょう。なぜ単なるイラストレーターでゲーム開発の経験の全くない人間がプロジェクト唯一のiOSゲームのプログラマーとして仕事をすることができたのかって。正直言いまして、私もいまだによく分かっていません！</p>
+<p>制作開始当初は、別の開発者にお願いをしてCocos2Dでゲームを作っていこうという話が進んでいました。プレースホルダの状態でシンプルな仕組みでしたが、実際にプレーのできるプロトタイプまで上がっていました。</p>
+<div id="attachment_2100" style="width: 410px" class="wp-caption alignright"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/Cocos2D_Prototype2.png" rel="lightbox-1"><img class="wp-image-2100 size-medium" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/Cocos2D_Prototype2-400x267.png" alt="Cocos2D_Prototype2" width="400" height="267"></a></p>
+<p class="wp-caption-text">Cocos2DPrototype</p>
+</div>
+<p>しかしプロジェクトを進めるにつれ、私たちが求めているような複雑で繊細な奥深さを出すには、2Ｄだけでは厳しいということが徐々に分かってきました。</p>
+<p>このような状態になる前から、私はUnityの使い方を学び始めていました。Unityは、扱いやすいクロスプラットフォームの3Dゲームエンジンです。自分でも驚きましたが、基本的なことを取得するのは簡単で楽しい作業でした。特にWeb開発の経験のある私にとってはUnityScript（JavaScriptと似た言語です）は扱いやすかったですし、さらにC#はUnityScriptよりも快適に使えるようになりました。そしてUnityを使って何作品か作ることができるまでになりました（その作品は<a href="http://www.harrynesbitt.com/blog/experimenting-with-unity/">こちら</a>と<a href="http://www.harrynesbitt.com/blog/experimenting-with-unity-part-2/">こちら</a>からご覧になれます）。しかし、ゲームの制作にはまだ程遠いレベルしでした。私はこの時、やはりこのプロジェクトの開発者としての役割は務まらないと確信しました。</p>
+<p>しかし好奇心がその不安を上回りました。ある雨が降る週末、私は新規プロジェクトをUnityで立ち上げ、何ができるかという検証を始めました。</p>
+<p>すると驚くことに、ほんの数日間で、以前のエンジンでは困難だった多くの重要な要素を実装できるようになったのです。具体的には、段階的に生成される地形や、前景と背景のパララックス（ほんの少しですが3Dを演出します）、画像のズーム、パーティクルエフェクト、キャラクターが着けているマフラーの躍動感などの実装が可能になりました。Unityの可能性、特に短期間で多くを実装できるようになったことに私は気持ちが高ぶり、Ryanにこれを披露し、彼のリアクションを見てみることにしました。</p>
+<p><video width="100%" id="video_kgvid_0_html5_api" preload="metadata" poster="http://www.harrynesbitt.com/wp-content/uploads/2015/03/Alto_Prototype_thumb10.jpg" class="vjs-tech" data-setup="{}"><source src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/Alto_Prototype.mov?id=0" type="video/mp4" data-res="508p"></video><br />
+Ryanは熱狂的とも言える非常に強い興味を示し、2013年のクリスマスまでに製品化したいと考えました。そのため、私はその年の9月には常勤の開発者としてチームで働くようになっていたのです。（この時、予定のスケジュールに間に合わせられなかったことが、今後待ち受ける多くの失敗や教訓の最初となります）</p>
+<p>当時、私にはRyanが与えてくれたチャンスに感謝する余裕すらありませんでした。みんなにこのプロジェクトは失敗すると言われていましたし、全身全霊を傾けて開発に取り組んでいた私ですら、プロジェクトが終わる数カ月前まで、どうやってゲームを終わらせたらいいのか分からないような状態だったのです。</p>
+<div id="gallery-2" class="gallery galleryid-2072 gallery-columns-2 gallery-size-medium">
+<dl class="gallery-item">
+<dt class="gallery-icon landscape"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/Alto-Sept-2013-2-e1427722775710.png" rel="lightbox[gallery-2]"><img width="400" height="225" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/Alto-Sept-2013-2-e1427722775710-400x225.png" class="attachment-medium" alt="September 2013" aria-describedby="gallery-2-2150"></a></dt>
+<dd class="wp-caption-text gallery-caption" id="gallery-2-2150"><i>2013年9月</i></dd>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/Alto-Feb-2015.png" rel="lightbox[gallery-2]"><img width="400" height="225" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/Alto-Feb-2015-400x225.png" class="attachment-medium" alt="February 2015" aria-describedby="gallery-2-2079"></a></dt>
+<dd class="wp-caption-text gallery-caption" id="gallery-2-2079"><i>2015年2月</i></dd>
+</dl>
+<p><br style="clear:
+                both"></div>
+<p>しかし、あっという間に18カ月が過ぎ、私たちは<em>ついに</em>リリースを成し遂げました。当初の予定より4倍の期間を要しましたが、月日が経つにつれゲームは進化し、どんどん面白くなっていきました。私はその開発の過程を、緩やかに長い時間燃え続ける炎のようだ、とよく表現してきました。小さなチームだったので、あれ以上、開発速度を上げる術はなかったのですが、おかげで時間をかけ、プロジェクトを独自のスピードで成熟させることができました。すばらしいアイデアが自然に浮かぶまで待ち続け、時には何カ月も過ぎてしまったこともあります。</p>
+<p>うれしいことに、リリースしたゲームは現時点で大きな成功を収めています。主要なゲームやテクノロジー関連のサイトでは、おおむねすばらしい評価やレビューを頂き、これらのレビューを数値化して評価するサイト、<a href="http://www.metacritic.com/game/ios/altos-adventure">Metacriticの総合スコアで92点を獲得しました</a>。しかし、何よりも重要なのは、世界中のプレーヤーから寄せられた非常に好意的な反応です。純粋にゲームをプレーし、楽しんでいる人々がいるという事実に、心底ありがたい気持ちになります。</p>
+<p>また、ゲームのファンがイラストを描いて、シェアしているのを見る機会もあります。現時点での、私のお気に入りの作品をここでご紹介しましょう。</p>
+<div id="gallery-3" class="gallery galleryid-2072 gallery-columns-4
+                gallery-size-thumbnail"></p>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/FanArt4.jpg" rel="lightbox[gallery-3]"><img width="300" height="300" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/FanArt4-300x300.jpg" class="attachment-thumbnail" alt="jakkios.tumblr.com" aria-describedby="gallery-3-2115"></a></dt>
+<dd class="wp-caption-text gallery-caption" id="gallery-3-2115">jakkios.tumblr.com</dd>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon
+                portrait"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/FanArt3-e1427725887830.jpg" rel="lightbox[gallery-3]"><img width="300" height="300" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/FanArt3-e1427725887830-300x300.jpg" class="attachment-thumbnail" alt="@thuygia via Instagram" aria-describedby="gallery-3-2114"></a></dt>
+<dd class="wp-caption-text gallery-caption" id="gallery-3-2114">@thuygia via<br />
+                Instagram</dd>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon portrait"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/FanArt5.jpeg" rel="lightbox[gallery-3]"><img width="300" height="300" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/FanArt5-300x300.jpeg" class="attachment-thumbnail" alt="@JacopoMoruzzi" aria-describedby="gallery-3-2116"></a></dt>
+<dd class="wp-caption-text gallery-caption" id="gallery-3-2116">@JacopoMoruzzi</dd>
+</dl>
+<dl class="gallery-item">
+<dt class="gallery-icon landscape"><a href="http://www.harrynesbitt.com/wp-content/uploads/2015/03/FanArt2.png" rel="lightbox[gallery-3]"><img width="300" height="300" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/FanArt2-300x300.png" class="attachment-thumbnail" alt="@ImCalledDave" aria-describedby="gallery-3-2083"></a></dt>
+<dd class="wp-caption-text gallery-caption" id="gallery-3-2083">@ImCalledDave</dd>
+</dl>
+<p><br style="clear:
+                both"></div>
+<p>ゲームのリリースに伴って経験したもう一つのすばらしい出来事は、ぎりぎりで参加を決めた、年に一度のGame Developers Conference (GDC)で起こりました。この年の開催地はサンフランシスコで、私にとって初めての米国旅行となりましたが、それだけではありません。この時、初めてRyanとJordanに直接会うことができたのです。彼らと合流し、一緒に街を歩き回り、刺激的な人々に出会えたことは貴重な経験でした。きっと、Altoは彼らと一緒に挑む多くの冒険の序章にすぎなかったのだと思いました。<br />
+<img class="alignnone wp-image-2084
+                size-full" src="http://www.harrynesbitt.com/wp-content/uploads/2015/03/GDC.jpg" alt=""></p>
+<h2 id="gfm-32">ご連絡をお待ちしています！</h2>
+<p>この記事が少しでも読者の皆様に楽しんでいただける内容であったならうれしく思います。何よりも、私にとってはプロジェクトを振り返り、どんなことが人生を変えるのかを考えるいい機会となりました。しかし、既に申し上げたとおり、私はプロジェクトについて、一部の詳細をもう少し掘り下げていきたいと思っています。例えば、どのようにアートスタイルを発展させていけるかということや、プロジェクトで直面した技術的な問題についてなどです。ですから、皆さんも特に疑問に思うことがありましたら、気軽に下のコメント欄に記入してお知らせいただくか、<a href="mailto:hello@harrynesbitt.com">hello@harrynesbitt.com</a>までご連絡ください。</p>
+<p>それでは、皆さんご健勝をお祈りしています。是非、私たちが作ったスノーボードゲームをお楽しみください！</p>
+</div>
+]]></content:encoded>
+		<wfw:commentRss>https://postd.cc/the-making-of-altos-adventure/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://www.harrynesbitt.com/wp-content/uploads/2015/03/Alto_Prototype.mov?id=0" length="16916052" type="video/quicktime" />
+		<itunes:subtitle>数週間前やっと、大興奮の長い旅にピリオドを打つことができました。2年間かけて私の全精神と愛情を注いで制作した[Alto&#039;s Adventure](http://www.altosadventure.com/)がついにリリースされました。 - 簡単な道のりではありませんでしたので、その制作過程で私が感じたことをうまく言葉にできるか分かりませんが、まずはこのゲームをダウンロードして遊んでくれている全ての方に感謝の意を表したいと思います。このゲームで遊んでくれている方がいるというだけでもう私の努力は報わ...</itunes:subtitle>
+		<itunes:summary>数週間前やっと、大興奮の長い旅にピリオドを打つことができました。2年間かけて私の全精神と愛情を注いで制作した[Alto&#039;s Adventure](http://www.altosadventure.com/)がついにリリースされました。
+
+簡単な道のりではありませんでしたので、その制作過程で私が感じたことをうまく言葉にできるか分かりませんが、まずはこのゲームをダウンロードして遊んでくれている全ての方に感謝の意を表したいと思います。このゲームで遊んでくれている方がいるというだけでもう私の努力は報われています。
+
+今回のゲームの制作に関して経験してきたことや、直面した問題などをシリーズで投稿していきたいとずっと考えていました。何が皆さんの興味を引き、どこまで詳細にお話するかなどは難しい課題ですが、まず簡単なゲームの紹介から始めたいと思います。
+
+
+Alto&#039;s Adventureは、移りゆくアルペンの美しい景色を背景に、スノーボードの果てしない冒険ができるゲームです。若い羊飼いがスノーボードで滑りながら行く手に出現するラマを救出していきます。その道のりは楽しくもあり、様々な難関も登場します。このゲームはゲームプレーをベースに流体物理学を応用し、一日の移り変わりや天候の変化を巧みに表現しています。以下のトレーラーやスクリーンショットでご確認ください。
+
+
+
+&lt;a href=&quot;http://www.harrynesbitt.com/wp-content/uploads/2015/03/a02_Chasm.png&quot; rel=&quot;lightbox[gallery-1]&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.harrynesbitt.com/wp-content/uploads/2015/03/a03_Sunrise.png&quot; rel=&quot;lightbox[gallery-1]&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.harrynesbitt.com/wp-content/uploads/2015/03/a04_Ice.png&quot; rel=&quot;lightbox[gallery-1]&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.harrynesbitt.com/wp-content/uploads/2015/03/a05_Night.png&quot; rel=&quot;lightbox[gallery-1]&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.harrynesbitt.com/wp-content/uploads/2015/03/a6_Forest.png&quot; rel=&quot;lightbox[gallery-1]&quot;&gt;&lt;/a&gt;&lt;a href=&quot;http://www.harrynesbitt.com/wp-content/uploads/2015/03/a07_Ruins.png&quot; rel=&quot;lightbox[gallery-1]&quot;&gt;&lt;/a&gt;
+
+このゲームは私が[Snowman](http://www.builtbysnowman.com/)と共同で開発をしました。Snowmanは、[Ryan Cash](https://twitter.com/ryanacash)とJordan Rosenbergが設立したカナダに事務所を構えるインディペンデントのソフトウェアスタジオです。この2人には今回のプロジェクトの監督的な役割を担ってもらいました。
+
+私はこのゲームの唯一のアーティスト兼開発者として参加し、さらにはゲームのプログラミングやビジュアルデザイン、アニメーション、2Dと3D、UI/UXの全てにおいての責任を担いました。ウェブサイトやトレーラーに関しても私が責任者を務めました。Alto&#039;s Adventureは[Unity](http://unity3d.com/)を使用して開発しています。実は、今回が私にとってゲーム開発者として初めての仕事だったのです。
+
+効果音は[Kpow Audio](http://www.kpow.com.au/)に制作をお願いし、音楽は[ShinnyMetal](https://soundcloud.com/shinnymetal)の名で知られるBrian Crawfordに依頼しました。
+
+では、堅苦しいのはこのへんにして…。
+
+始めていきましょう。
+
+##簡単な経緯
+
+&lt;a href=&quot;http://www.harrynesbitt.com/wp-content/uploads/2015/03/RyanSketch.jpg&quot; rel=&quot;lightbox-0&quot;&gt;&lt;/a&gt;初期のRyanのゲームプレーのスケッチ
+
+2013年1月にRyanがアイデアの種を携えて私に連絡をしてきました。そのアイデアというのが、2Dのスノーボードのゲームで、バックフリップができたり谷を飛んで超えたりするというものでした。
+
+多少のスケッチはあったものの、その案はまだかなり白紙に近い状態でした。というのもRyanは、キャラクターや環境設定、アイテム、アニメーションも含め全ての外観や雰囲気のクリエイティブな面を私に託してくれようとしていたのです。
+
+それはもう魅力的なオファーでしたが、当初は不安でした。私はスノーボードに関してほとんど何の知識もありませんし、エクストリームスポーツ系ゲームの熱狂的ファンというわけでもなかったからです。なので、このプロジェクトに対する最初の印象はヒンヤリとしていて（ダジャレをお許しください）、自分が適任であるのか疑問に思っていました。
+
+しかしこの件を考えれば考えるほど、繊細でスタイリッシュな雰囲気のゲームにできたらいいんじゃないか、という思いがどんどん膨らんできました。歴史や文化を取り入れながら、キャラクターやその景色がこの世ではとてもちっぽけな存在であると思わせるような、山の高いところにいるような感覚を表現したいと思ったのです。そしてそれらのアイデアを全て掛け合わせて、大胆でミニマリズムなスタイルにし、気軽な魅力と少しの奥深さを表現してみたいと考えていました。
+
+そんなスノーボードゲームだったら、絶対に面白い！
+
+幸いにもRyanとJordanが求めていたことが私の考えと合致しており、すぐにプロジェクトは動き始めました。以下の画像は、ゲーム全体の雰囲気を表すために私が描いた最初のスケッチです。
+
+
+##アートからコードへ
+
+きっと皆さんはこう思うでしょう。なぜ単なるイラストレーターでゲーム開発の経験の全くない人間がプロジェクト唯一のiOSゲームのプログラマーとして仕事をすることができたのかって。正直言いまして、私もいまだによく分かっていません！
+
+制作開始当初は、別の開発者にお願いをしてCocos2Dでゲームを作っていこうという話が進んでいました。プレースホルダの状態でシンプルな仕組みでしたが、実際にプレーのできるプロトタイプまで上がっていました。
+
+&lt;a href=&quot;http://www.harrynesbitt.com/wp-content/uploads/2015/03/Cocos2D_Prototype2.png&quot; rel=&quot;lightbox-1&quot;&gt;&lt;/a&gt;Cocos2DPrototype
+しかしプロジェクトを進めるにつれ、私たちが求めているような複雑で繊細な奥深さを出すには、2Ｄだけでは厳しいということが徐々に分かってきました。
+
+このような状態になる前から、私はUnityの使い方を学び始めていました。Unityは、扱いやすいクロスプラットフォームの3Dゲームエンジンです。自分でも驚きましたが、基本的なことを取得するのは簡単で楽しい作業でした。特にWeb開発の経験のある私にとってはUnityScript（JavaScriptと似た言語です）は扱いやすかったですし、さらにC#はUnityScriptよりも快適に使えるようになりました。そしてUnityを使って何作品か作ることができるまでになりました（その作品は[こちら](http://www.harrynesbitt.com/blog/experimenting-with-unity/)と[こちら](http://www.harrynesbitt.com/blog/experimenting-with-unity-part-2/)からご覧になれます）。しかし、ゲームの制作にはまだ程遠いレベルしでした。私はこの時、やはりこのプロジェクトの開発者としての役割は務まらないと確信しました。
+
+しかし好奇心がその不安を上回りました。ある雨が降る週末、私は新規プロジェクトをUnityで立ち上げ、何ができるかという検証を始めました。
+
+すると驚くことに、ほんの数日間で、以前のエンジンでは困難だった多くの重要な要素を実装できるようになったのです。具体的には、段階的に生成される地形や、前景と背景のパララックス（ほんの少しですが3Dを演出します）、画像のズーム、パーティクルエフェクト、キャラクターが着けているマフラーの躍動感などの実装が可能になりました。Unityの可能性、特に短期間で多くを実装できるようになったことに私は気持ちが高ぶり、Ryanにこれを披露し、彼のリアクションを見てみることにしました。
+
+
+Ryanは熱狂的とも言える非常に強い興味を示し、2013年のクリスマスまでに製品化したいと考えました。そのため、私はその年の9月には常勤の開発者としてチームで働くようにな...</itunes:summary>
+		<itunes:author>POSTD</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		</item>
+	<item>
+		<title>オンライン学習の未来 ー高校生にプログラミングを教えて知り得たこと</title>
+		<link>https://postd.cc/learning-online/</link>
+		<pubDate>Tue, 18 Nov 2014 03:00:12 +0000</pubDate>
+		<guid isPermaLink="false">http://postd.cc/?p=1674</guid>
+		<comments>https://postd.cc/learning-online/#respond</comments>
+		<dc:creator></dc:creator>
+		<category><![CDATA[スタートアップ]]></category>
+		<category><![CDATA[EdTech]]></category>
+		<description>学校で習うような物事をインターネット上で学ぶことは、将来的には不可避なことのように思えますが、現状において、多くの人々はオンラインで効率的に学習をしているとは言い難いようです。Sebastian Thrunも、数カ月前のFast Companyのインタビューでこのことを[認めています](http://www.fastcompany.com/3021473/udacity-sebastian-thrun-uphill-climb)。私はこの夏、高校生に教える傍らソフトウェアを作り、コンピュータがどの程度、人々の学習の役に立つかを検証してみました。
+
+この投稿ではその夏について、つまり生徒がどのように学び、私が作ったソフトウェアがどの程度、彼らの学習の役に立ったか、何がうまくいき、何がうまくいかなかったか、そして次に目指すべきところはどこなのか、について書いていきたいと思います。
+
+##カリキュラム
+
+今回の検証の実践の場として、[AP（アドバンスト・プレースメント：成績上位の高校生が受講可能な大学の科目）コンピュータサイエンス](http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/4483.html)の講義を選びました。プログラミングは今なお教えるのが非常に難しい科目ですし、プログラミングであれば、例えば地理などに比べると、コンピュータ支援による教育も自然に受け入れられるはずだからです。それにプログラミングは初心者にとって、不必要に不親切でややこしいですからね。
+
+APコンピュータサイエンスは8カ月にわたる講義で、個人講義やGoogleのHangout
+を通した対面講義の場合だと約20時間が必要となります。私は天才ではないですし、決定版と言えるような教育法を持ち合わせているわけでもありません。どうしたって学習には時間がかかります。講義において、私が作ったソフトウェアに一定の効果はあったものの（ソフトウェアが改善するにつれて、生徒に対して説明やデバッグ、それに軌道修正の助言をする機会は減っていきました）、それでも生徒たちは都度現れる新しい問題に苦戦しながら学習を続けていました。
+
+College Boardは、APコンピュータサイエンスの講義と学力試験のための標準カリキュラムを提供しています。試験が高得点の場合、公立大学での単位が認定されるため、その分だけ大学在学中の必要単位が少なくて済み、学費を減らせる仕組みです。私立の大学では単位にはならないものの、成績優秀者として認めてもらえます。
+
+APコンピュータサイエンスのカリキュラムは標準化されていますが、大規模なものではありません。Javaのオブジェクト指向プログラミングの導入部で、その範囲はArrayList[^1]までです。平凡で、似たようなカリキュラムや教材、実習はオンライン上に散見されます。私は、それらの中から個人的にいいと思った教材をまとめて、フリーのオープンソースレポジトリとしてまとめました。[Teach APCS](http://teachapcs.com/)で公開しているので、ぜひご覧ください。
+
+Javaは初心者にとっては面倒な言語です。その構文は間が抜けていて、見た目は外国語のようであり、必要以上にグラフィックを単調にし、処理が重くなるJava仮想マシンを使わなければなりません。それでもAP試験で出題される言語であることから、多くの学校で教えられています。初心者にとっては、何も学ばないよりはマシといったところでしょうか。
+
+プログラミング言語を取り巻く状況において、生徒たちにとって最も難しいのはJava自体ではなく英語のパズルを解くということでしょう。多くの場合、生徒たちはロジックを適当に扱い、この段階をスキップします。しかし、それではうまくいきません。いったんJavaのことは忘れて、2つの質問&quot;やろうとしていることを英語で表現するとどうなるか&quot;、&quot;それを5歳の子供に向かって説明するには何と言えばいいか&quot;を投げかけてみることが大切です。彼らがその質問を説明できたら（その間は、ワードスクランブルのように全ての[文字](http://teachapcs.com/exercise/scramble-words)を精査し、前後の文字を入れ替えてみたりするのも手です）、Javaは容易に出来上がります[^2]。
+
+##なぜプログラミング？
+
+APコンピュータサイエンスの試験は、高校生にとってはご褒美のようなものですが、美味しいものではないでしょう。講義を受ける生徒は、おおむね2パターンに分けられます。一方はJava以外の言語である程度のプログラミング経験がある生徒、もう一方はコンピュータの理解は乏しいものの、APの修了資格が欲しい生徒です。
+
+私は講義を始める前に、&quot;何でも可能なら何を作りたいか&quot;ということを生徒たちに聞いてみました。
+
+* 援助が必要な人々を助けられるようなアプリケーション
+* 動画
+* 最高のビデオゲーム
+* タイムマシン
+* 学校の授業が不満な場合、学校が単位を認めてくれるよう自分でその科目を学べるようになるツール
+* 多様な分野におけるネットワーキングを改善するアプリケーション
+* 最小の停車で全米を網羅するような、早くて効率的で安全な列車のネットワーク
+* 患者に苦痛を与えないガンの治療薬
+
+この中の一部のアイデアは、他のものに比べるといくらかはソフトウェア向きと言えるでしょう。ただ、何より驚いたのは、ほとんどの回答が畑違いな点です。&quot;Xが出来るアプリケーションを作るのが夢&quot;だとか&quot;Yのホームページをずっと作りたいと思っていた&quot;というような回答は見当たりません。今日の言語学習ツールは、具体的なアプリケーションやサイトを作ることによって言語を習得するものが多いのですが、講義に参加した高校生たちは、プログラミングで自分たちに何が出来るのかといったことも分かっていないようでした。プログラミングって楽しいかもしれない、という程度の感覚なのかもしれません。
+
+##プログラミングは不要？
+
+&quot;プログラミングしなさい。さもないとされてしまう&quot;というゾッとするようなレトリックが、一部の言語学習の取り組みにおいて存在しますが、それはあまりにも馬鹿らしいことです。やりたいことがなければ、プログラミングなんて学ぶ必要はありません。コンピュータは、言わば100年前の電気[^3]のようなもので、決して人を襲うものではないのです。より現実的な観点から考えると、何であれ新しいことを学ぶのには困難が伴うもので、罪悪感（あの時、勉強していれば…）のような動機だけでは不十分でしょう。
+
+ただし、私は学習意欲をそごうとしているわけではありません。ソフトウェアをプログラミングすることは、すばらしい体験となり得ます。そして私が特に強調したいのは、その気もなりさえすれば、誰にだってそれは可能だということです。
+
+##メタ学習
+
+総じて、生徒たちの学習速度には驚かされるものがありました。ただ、微分積分をまだ学習していない生徒の方が、習熟が速いように思えました。これは別段、不思議なことではありません。数学の関数や変数とコンピュータサイエンスは、関連しているものの全く同じものではないため、そういった違いをスルーできる生徒は、その点について考えなくて済むからです。
+
+夏の終わり頃になり顕著になったことは、多くのミスをする生徒の伸びが目立ってきたことです。彼らはいろんなことにチャレンジし、間違ったコードをコンパイルし、多くのランタイムエラーを発生させ、REPLを激しく混乱させました。しかし、失敗を繰り返すことで頭の中でより優れたイメージを持てるようになります。そのためコードを実行したときにどのように動作するか予測することができるのです（[Xcode Playgrounds](https://www.youtube.com/watch?v=vogFSIxprUo)や[LightTable](http://www.lighttable.com/)といった環境で成功した場合に、全てのプログラムを頭の中でトレースするのは隠し芸的ですが、今日では必要な能力です）。生徒は論理的方法で実験を行うことで、コードを用いた問題解決において自信を持つようになります。
+
+当てもなく書き換えを続けることは（つまりは&quot;適当に打ち込んでいけば、いつかうまく動作するだろう&quot;ということ）まったくためにならず、やる気をなくさせるような行為です。プログラミングのそれぞれのコードがどのように結びついているかといった知識を持たずして、コンピュータを理解することは出来ません。いくらやる気がある人でも、現代のプログラミングのツールを使って当てもなく自由に学ぼうとすれば、すぐにイライラしてしまうでしょう。
+
+##我々が行ったこと
+
+まずは2時間に及ぶ変数を用いないプリミティブ型のみを扱ったREPLの指導から始めました。プログラミングの土台となる考え方（&quot;なぜ分割がおかしいのか？　いつ乱数ジェネレータを起動し、どれくらい待てば乱数を得られるのか？　実際substringメソッドがどのように動作するのか？&quot;）を身につけるためです。
+
+REPLはツールを調査するのに便利な環境です。理由の1つとしては、新しいことに挑戦するのが簡単で、失敗しても何も壊したりすることなくさほど時間もかからな...</description>
+		<content:encoded><![CDATA[<div class="markdown-content">
+<p>学校で習うような物事をインターネット上で学ぶことは、将来的には不可避なことのように思えますが、現状において、多くの人々はオンラインで効率的に学習をしているとは言い難いようです。Sebastian Thrunも、数カ月前のFast Companyのインタビューでこのことを<a href="http://www.fastcompany.com/3021473/udacity-sebastian-thrun-uphill-climb">認めています</a>。私はこの夏、高校生に教える傍らソフトウェアを作り、コンピュータがどの程度、人々の学習の役に立つかを検証してみました。</p>
+<p>この投稿ではその夏について、つまり生徒がどのように学び、私が作ったソフトウェアがどの程度、彼らの学習の役に立ったか、何がうまくいき、何がうまくいかなかったか、そして次に目指すべきところはどこなのか、について書いていきたいと思います。</p>
+<h2 id="gfm-33">カリキュラム</h2>
+<p>今回の検証の実践の場として、<a href="http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/4483.html">AP（アドバンスト・プレースメント：成績上位の高校生が受講可能な大学の科目）コンピュータサイエンス</a>の講義を選びました。プログラミングは今なお教えるのが非常に難しい科目ですし、プログラミングであれば、例えば地理などに比べると、コンピュータ支援による教育も自然に受け入れられるはずだからです。それにプログラミングは初心者にとって、不必要に不親切でややこしいですからね。</p>
+<p>APコンピュータサイエンスは8カ月にわたる講義で、個人講義やGoogleのHangout<br />
+を通した対面講義の場合だと約20時間が必要となります。私は天才ではないですし、決定版と言えるような教育法を持ち合わせているわけでもありません。どうしたって学習には時間がかかります。講義において、私が作ったソフトウェアに一定の効果はあったものの（ソフトウェアが改善するにつれて、生徒に対して説明やデバッグ、それに軌道修正の助言をする機会は減っていきました）、それでも生徒たちは都度現れる新しい問題に苦戦しながら学習を続けていました。</p>
+<p>College Boardは、APコンピュータサイエンスの講義と学力試験のための標準カリキュラムを提供しています。試験が高得点の場合、公立大学での単位が認定されるため、その分だけ大学在学中の必要単位が少なくて済み、学費を減らせる仕組みです。私立の大学では単位にはならないものの、成績優秀者として認めてもらえます。</p>
+<p>APコンピュータサイエンスのカリキュラムは標準化されていますが、大規模なものではありません。Javaのオブジェクト指向プログラミングの導入部で、その範囲はArrayList<sup id="fnref:1"><a href="#fn:1" class="footnote-ref">1</a></sup>までです。平凡で、似たようなカリキュラムや教材、実習はオンライン上に散見されます。私は、それらの中から個人的にいいと思った教材をまとめて、フリーのオープンソースレポジトリとしてまとめました。<a href="http://teachapcs.com/">Teach APCS</a>で公開しているので、ぜひご覧ください。</p>
+<p>Javaは初心者にとっては面倒な言語です。その構文は間が抜けていて、見た目は外国語のようであり、必要以上にグラフィックを単調にし、処理が重くなるJava仮想マシンを使わなければなりません。それでもAP試験で出題される言語であることから、多くの学校で教えられています。初心者にとっては、何も学ばないよりはマシといったところでしょうか。</p>
+<p>プログラミング言語を取り巻く状況において、生徒たちにとって最も難しいのはJava自体ではなく英語のパズルを解くということでしょう。多くの場合、生徒たちはロジックを適当に扱い、この段階をスキップします。しかし、それではうまくいきません。いったんJavaのことは忘れて、2つの質問&#8221;やろうとしていることを英語で表現するとどうなるか&#8221;、&#8221;それを5歳の子供に向かって説明するには何と言えばいいか&#8221;を投げかけてみることが大切です。彼らがその質問を説明できたら（その間は、ワードスクランブルのように全ての<a href="http://teachapcs.com/exercise/scramble-words">文字</a>を精査し、前後の文字を入れ替えてみたりするのも手です）、Javaは容易に出来上がります<sup id="fnref:2"><a href="#fn:2" class="footnote-ref">2</a></sup>。</p>
+<h2 id="gfm-34">なぜプログラミング？</h2>
+<p>APコンピュータサイエンスの試験は、高校生にとってはご褒美のようなものですが、美味しいものではないでしょう。講義を受ける生徒は、おおむね2パターンに分けられます。一方はJava以外の言語である程度のプログラミング経験がある生徒、もう一方はコンピュータの理解は乏しいものの、APの修了資格が欲しい生徒です。</p>
+<p>私は講義を始める前に、&#8221;何でも可能なら何を作りたいか&#8221;ということを生徒たちに聞いてみました。</p>
+<ul>
+<li>援助が必要な人々を助けられるようなアプリケーション</li>
+<li>動画</li>
+<li>最高のビデオゲーム</li>
+<li>タイムマシン</li>
+<li>学校の授業が不満な場合、学校が単位を認めてくれるよう自分でその科目を学べるようになるツール</li>
+<li>多様な分野におけるネットワーキングを改善するアプリケーション</li>
+<li>最小の停車で全米を網羅するような、早くて効率的で安全な列車のネットワーク</li>
+<li>患者に苦痛を与えないガンの治療薬</li>
+</ul>
+<p>この中の一部のアイデアは、他のものに比べるといくらかはソフトウェア向きと言えるでしょう。ただ、何より驚いたのは、ほとんどの回答が畑違いな点です。&#8221;Xが出来るアプリケーションを作るのが夢&#8221;だとか&#8221;Yのホームページをずっと作りたいと思っていた&#8221;というような回答は見当たりません。今日の言語学習ツールは、具体的なアプリケーションやサイトを作ることによって言語を習得するものが多いのですが、講義に参加した高校生たちは、プログラミングで自分たちに何が出来るのかといったことも分かっていないようでした。プログラミングって楽しいかもしれない、という程度の感覚なのかもしれません。</p>
+<h2 id="gfm-35">プログラミングは不要？</h2>
+<p>&#8220;プログラミングしなさい。さもないとされてしまう&#8221;というゾッとするようなレトリックが、一部の言語学習の取り組みにおいて存在しますが、それはあまりにも馬鹿らしいことです。やりたいことがなければ、プログラミングなんて学ぶ必要はありません。コンピュータは、言わば100年前の電気<sup id="fnref:3"><a href="#fn:3" class="footnote-ref">3</a></sup>のようなもので、決して人を襲うものではないのです。より現実的な観点から考えると、何であれ新しいことを学ぶのには困難が伴うもので、罪悪感（あの時、勉強していれば…）のような動機だけでは不十分でしょう。</p>
+<p>ただし、私は学習意欲をそごうとしているわけではありません。ソフトウェアをプログラミングすることは、すばらしい体験となり得ます。そして私が特に強調したいのは、その気もなりさえすれば、誰にだってそれは可能だということです。</p>
+<h2 id="gfm-36">メタ学習</h2>
+<p>総じて、生徒たちの学習速度には驚かされるものがありました。ただ、微分積分をまだ学習していない生徒の方が、習熟が速いように思えました。これは別段、不思議なことではありません。数学の関数や変数とコンピュータサイエンスは、関連しているものの全く同じものではないため、そういった違いをスルーできる生徒は、その点について考えなくて済むからです。</p>
+<p>夏の終わり頃になり顕著になったことは、多くのミスをする生徒の伸びが目立ってきたことです。彼らはいろんなことにチャレンジし、間違ったコードをコンパイルし、多くのランタイムエラーを発生させ、REPLを激しく混乱させました。しかし、失敗を繰り返すことで頭の中でより優れたイメージを持てるようになります。そのためコードを実行したときにどのように動作するか予測することができるのです（<a href="https://www.youtube.com/watch?v=vogFSIxprUo">Xcode Playgrounds</a>や<a href="http://www.lighttable.com/">LightTable</a>といった環境で成功した場合に、全てのプログラムを頭の中でトレースするのは隠し芸的ですが、今日では必要な能力です）。生徒は論理的方法で実験を行うことで、コードを用いた問題解決において自信を持つようになります。</p>
+<p>当てもなく書き換えを続けることは（つまりは&#8221;適当に打ち込んでいけば、いつかうまく動作するだろう&#8221;ということ）まったくためにならず、やる気をなくさせるような行為です。プログラミングのそれぞれのコードがどのように結びついているかといった知識を持たずして、コンピュータを理解することは出来ません。いくらやる気がある人でも、現代のプログラミングのツールを使って当てもなく自由に学ぼうとすれば、すぐにイライラしてしまうでしょう。</p>
+<h2 id="gfm-37">我々が行ったこと</h2>
+<p>まずは2時間に及ぶ変数を用いないプリミティブ型のみを扱ったREPLの指導から始めました。プログラミングの土台となる考え方（&#8221;なぜ分割がおかしいのか？　いつ乱数ジェネレータを起動し、どれくらい待てば乱数を得られるのか？　実際substringメソッドがどのように動作するのか？&#8221;）を身につけるためです。</p>
+<p>REPLはツールを調査するのに便利な環境です。理由の1つとしては、新しいことに挑戦するのが簡単で、失敗しても何も壊したりすることなくさほど時間もかからないからです。REPLのプロンプトは講義によって洗練され、新たなツールを導入し、入力すべきことを提示します。リターンキーを押すと実験が始まり、すぐにフィードバックが帰ってきます。生徒はあっという間にそれがコンピュータにどう作用するかといったことを学び始めるのです。これは、私が作った自動化されたプロンプトです。<br />
+Standalone<br />
+ 
+	<!-- Begin Video.js -->
+	<video id="example_video_id_323650044" class="video-js vjs-default-skin" width="640" height="264" controls preload="none" data-setup='[]'>
+		<source src="http://christinacacioppo.com/videos/standalone.mp4" type='video/mp4' />
+		
+		
+	</video>
+	<!-- End Video.js -->
+</p>
+<p>REPLには限界がありました。誰もその中では全てのプログラムを再現できなかったのです。そのため我々はエディタ上での単純なスクリプトの記述に移行しました。使用したのは彼らがREPLで学んだツールで構築されたコードスニペットです。下記のようなものです。</p>
+<pre class="prettyprint lang-" title="">int wallet = 100;
+System.out.println("I have $100");
+
+while(wallet &gt; 0){
+    wallet = wallet - 25;
+    System.out.println("Spent $25.");
+}
+
+System.out.println("No money left!");
+</pre>
+<p>これは理解できるようにgraphicsクラスや視覚的言語、またはステップスルーの評価といったものを用いずにJavaで書かれています。実行前は、このスニペットはmain メソッドやクラスにラップされており、これが唯一の新しい部分です。今回の場合は&#8221;while&#8221;がそうです。</p>
+<p>新たなプログラマにこのコードが何をするか聞いてみると、おそらくこう答えるでしょう。「財布の中にある全てのお金を使い、もうお金は残っていないと伝える」と。また、何回25ドルを使うかと聞くと、4回と答えるでしょう。実際に、スニペットはこのように出力します。</p>
+<pre class="prettyprint lang-" title="">"I have $100"
+"Spent $25"
+</pre>
+<pre class="prettyprint lang-" title="">"Spent $25"
+"Spent $25"
+"Spent $25"
+"No money left!"
+</pre>
+<p>ここでそのプログラマに、25ドルを使ったらすぐに財布の中身を出力するようコードを改造してもらいます。</p>
+<pre class="prettyprint lang-" title="">"I have $100"
+"Spent $25. I have $75."
+"Spent $25. I have $50."
+"Spent $25. I have $25."
+"Spent $25.  I have $0."
+"No money left!"
+</pre>
+<p>コードを少しずつ変更していくにつれて、生徒は&#8221;while&#8221;ツールにどんどん慣れていきます。このように少しずつ教えていくことでツールの構築やそれらを使用する技術を学ぶことが出来るのです。</p>
+<p>我々は知っているツールでパズルを解いていきました。生徒は<a href="http://teachapcs.com/exercise/magic-8-ball">Magic 8 Balls</a>や<a href="http://teachapcs.com/exercise/bitcoin">Bitcoin</a>、<a href="https://github.com/DuncanUszkay/Hangman/network">Hangman AIｓ</a>、<a href="http://teachapcs.com/exercise/chattering-chatterbot">Chatterbots</a><a href="http://teachapcs.com/exercises">など</a>を作成しました。これらは習得したツールを利用して彼ら自身の力で作り上げました。ちゃんと動作もし、大成功でした。これは生徒が<a href="http://teachapcs.com/exercise/fizzbuzz">FizzBuzz</a>を解く様子を撮った高速ビデオです。<br />
+Fizzbuzz<br />
+ 
+	<!-- Begin Video.js -->
+	<video id="example_video_id_1718290826" class="video-js vjs-default-skin" width="640" height="264" controls preload="none" data-setup='[]'>
+		<source src="http://christinacacioppo.com/videos/fizzbuzz.mp4" type='video/mp4' />
+		
+		
+	</video>
+	<!-- End Video.js -->
+</p>
+<p>初めの頃、コンピュータの概念はその能力を使って人間の知力を向上させるためのものでした。しかし、一部のコード学習の取り組みはあまり初心者向けではないようでした。問題解決よりも入力することに重きが置かれ、その&#8221;問題&#8221;というのは変数の名前や値のスワップを扱うものでした。例えば誰かに単一行のテキストボックス内におけるテキストの再入力や編集をお願いしてみてください。彼らは素早くこなすでしょうが、その作業自体は退屈なものです。しかし、ツールを利用してパズルを解くようにお願いすれば、学習は価値のあるものになるでしょう。それがFizzBuzzのような自明なものであっても例外ではありません。</p>
+<h2 id="gfm-38">役立つツール</h2>
+<p>自転車に乗ったことのない初心者は補助輪を欲しがりません。求めるのは乗ることができる自転車です。これと似たように、効果的な初心者用のエディタはないと思います。あるのはプログラマが使用し、初心者でも理解できるエディタです。</p>
+<p>残念なことにほとんどのエディタはあまり良い性能ではなく使用法も簡単ではありません。それらの標準的なインターフェースはコマンドラインから借りてきたもので、使いやすくも寛大でもありません。そして何がコードとテキストを区別しているのか教えてもくれません。実際に必要とされるのは高性能で使いやすいエディタです。</p>
+<p>誰でも使いやすく、学習者でも分かりやすいエディタをいくつか紹介します。これら全てのデモは私が作った環境で実行しますが、同じ原理をあらゆる所で適用することが出来るでしょう。</p>
+<h3 id="gfm-39">コードスニペット</h3>
+<p>Snippets<br />
+ 
+	<!-- Begin Video.js -->
+	<video id="example_video_id_2097696877" class="video-js vjs-default-skin" width="640" height="264" controls preload="none" data-setup='[]'>
+		<source src="http://christinacacioppo.com/videos/snippets.mp4" type='video/mp4' />
+		
+		
+	</video>
+	<!-- End Video.js -->
+</p>
+<p>すぐに必要なツールを見つけ出せます。それらは種類別ではなく動作別にグループ分けされています。なぜならプログラムを組む上での考え方に近いからです。</p>
+<p>見て分かるようにクリックするとサンプルテキストがエディタに挿入されます。（オートコンプリートで挿入されたスニペットも同じように動作します。）プレースホルダ内のテキストは開始場所を教えてくれます。それによりどのように使用するかを知ることが出来ます。</p>
+<h3 id="gfm-40">インラインREPL</h3>
+<p>Repl<br />
+ 
+	<!-- Begin Video.js -->
+	<video id="example_video_id_1200719878" class="video-js vjs-default-skin" width="640" height="264" controls preload="none" data-setup='[]'>
+		<source src="http://christinacacioppo.com/videos/repl.mp4" type='video/mp4' />
+		
+		
+	</video>
+	<!-- End Video.js -->
+</p>
+<p>エディタに入力するか、コードスニペットを使用すると、そのコードはREPLに読み込まれます。REPLとエディタにおける相互作用によって、より洗練されたコードが入力できるようになります。これは非常に便利で、使えるまでに待つ必要もありません。そしてこの方法で入力したコードを検査することができます。これは他の方法では不可能なことです。</p>
+<h3 id="gfm-41">説明機能</h3>
+<p>Hovers<br />
+ 
+	<!-- Begin Video.js -->
+	<video id="example_video_id_2108585612" class="video-js vjs-default-skin" width="640" height="264" controls preload="none" data-setup='[]'>
+		<source src="http://christinacacioppo.com/videos/hovers.mp4" type='video/mp4' />
+		
+		
+	</video>
+	<!-- End Video.js -->
+</p>
+<p>エディタにある全ての単語はマウスカーソルを当てることで説明文が表示されます。これによりコードの理解をより深められます。そのため言語の用法ではなく実際のプログラミングの構想に集中することができます。無口だったエディタが役に立つガイドに変わります。そしてそれはあまりプログラミングに馴染みのない人々にとって特に有効です。しかし、これは正式な説明とはなりません。仮にstaticメソッドについて聞いたことがないのに、それを使用しなければならなくなった場合、この機能による説明ではおそらく不十分です。ですが、膨大な難しくて混乱を招く使用法の説明を読むよりもこの機能による説明のほうが学び始めるものとしてはより有効です。</p>
+<h3 id="gfm-42">変数エクスプローラ</h3>
+<p>Varexplorer<br />
+ 
+	<!-- Begin Video.js -->
+	<video id="example_video_id_923881812" class="video-js vjs-default-skin" width="640" height="264" controls preload="none" data-setup='[]'>
+		<source src="http://christinacacioppo.com/videos/varexplorer.mp4" type='video/mp4' />
+		
+		
+	</video>
+	<!-- End Video.js -->
+</p>
+<p>生徒たちにとって特に厄介だった2つの概念が&#8221;変数&#8221;と&#8221;変数スコープ&#8221;です。これまでの環境では<a href="http://cs-blog.khanacademy.org/2013/09/teaching-variables-analogies-and.html">変数ボックス</a>や<a href="http://stackoverflow.com/questions/11820952/eclipse-ide-scope-highlighting">背景に色を付けたメソッド</a>を使用していましたが、私の経験上、どちらも適切ではありませんでした。恐らく、エクスプローラに変数を直接表示する方法が最も分かりやすいのではないでしょうか。そうすることで、表示されているヘッダから環境が変数と値をトラッキングでき、計算処理はコンピュータに委ねられます。</p>
+<h3 id="gfm-43">バグとエラーの解釈</h3>
+<p>Compilerish<br />
+ 
+	<!-- Begin Video.js -->
+	<video id="example_video_id_192708422" class="video-js vjs-default-skin" width="640" height="264" controls preload="none" data-setup='[]'>
+		<source src="http://christinacacioppo.com/videos/compilerish.mp4" type='video/mp4' />
+		
+		
+	</video>
+	<!-- End Video.js -->
+</p>
+<p>バグとエラーはその内容が理解できれば、何かと役に立ちます。理解するためには、大抵の場合コンパイラ言語から英語にテキストを解析しなければなりません。講義では、これが生徒たちにとって大きなフラストレーションになりました。&#8221;プログラムに問題があるのは分かるけど、どこがまずいのかが理解できない&#8221;と愚痴られたものです。コンパイラがコンパイラ言語を使用するのには理由がありますが、我々人間には関係のないことです。これからコンパイラを学ぼうとする初心者なら、なおさらそう思うでしょう。</p>
+<h3 id="gfm-44">クラスとスプレッドシートの比較</h3>
+<p>クラスは最初の頃、何のためにあるのか分からなく感じるものです。そこで、誰もが理解できる例えとしてスプレッドシートを使いました。クラスがシート、その属性が列、インスタンスの構築が行への入力に相当します。例えば、これが単純な例です。</p>
+<p>
+  <a href="http://christinacacioppo.com/images/java1.png" target="_blank"><img width="400" height="290" border="0" src="http://christinacacioppo.com/images/java1.png"></a><br />
+  <a href="http://christinacacioppo.com/images/spreadsheet1.png" target="_blank"><img border="0" height="auto" width="340" src="http://christinacacioppo.com/images/spreadsheet1.png"></a>
+</p>
+<p>いくつかインスタンスを作成してみました。</p>
+<p>
+  <a href="http://christinacacioppo.com/images/java2.png" target="_blank"><img width="400" height="auto" border="0" src="http://christinacacioppo.com/images/java2.png"></a><br />
+  <a href="http://christinacacioppo.com/images/spreadsheet2.png" target="_blank"><img border="0" height="auto" width="340" src="http://christinacacioppo.com/images/spreadsheet2.png"></a>
+</p>
+<h2 id="gfm-45">さらに一歩前へ</h2>
+<p>講義が回を重ね、構築が進んでくると、発想はシンプルになりました。プログラムがどのように動くかを見せ、体系的に考えるように促すと、生徒は自分の力で学ぶようになります。そして学ぶためには論理的に考え、積極的に新しいことを試し、失敗しながらその試みから立ち直る必要があります。多くのプログラミングツールはその助けになっていないのですが、本来はそうあるべきです。飲み込みの早い学習者は自力でそれを行っています。</p>
+<p>私はオンライン教育の将来には楽観的です。科目を超えて出来ることがまだたくさんあるでしょう。オンライン教育なら生徒を夢中にさせ、好奇心をくすぐることが出来ます。夏の講義でも、生徒にパズルを解かせたことが、良い結果を生みました。しかし、これは何も新しい考えではありません。数学者でもあり発達心理学者でもあるSeymour Papert氏が名著<a href="http://www.amazon.co.jp/%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0%E2%80%95%E5%AD%90%E4%BE%9B%E3%80%81%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%BC%E3%80%81%E3%81%9D%E3%81%97%E3%81%A6%E5%BC%B7%E5%8A%9B%E3%81%AA%E3%82%A2%E3%82%A4%E3%83%87%E3%82%A2-%E3%82%B7%E3%83%BC%E3%83%A2%E3%82%A2-%E3%83%91%E3%83%91%E3%83%BC%E3%83%88/dp/4624400437/ref=sr_1_2?ie=UTF8&amp;qid=1414500376&amp;sr=8-2&amp;keywords=%E3%83%9E%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B9%E3%83%88%E3%83%BC%E3%83%A0">『マインドストーム—子供、コンピューター、そして強力なアイデア』</a>を出版したのは、なんと1980年の話です。しかし、この理論はさらに突き詰める余地がある気がします。この夏の講義も、そのいい機会であることが分かりました。オンライン学習はまだ黎明期にありますが、どうすればうまくいくかはすでに見えてきています。そこで講師が何をすべきかは、生徒たちが教えてくれるでしょう。</p>
+<hr>
+<p>私の講義は<a href="http://girlswhocode.com/">Girls Who Code</a>のサマーキャンプに出席し、引き続き受講を希望した者には無償で、Craigslistで私の広告を見て連絡をしてきた者には有償で提供しました。また、<a href="http://www.tealsk12.org/">TEALS</a>を通じてサンフランシスコの公立高校でAP コンピュータサイエンスの授業補助も行っています。講義の一部にはJava、Pythonに関する内容が含まれますが、全て<a href="http://teachapcs.com/">TeachAPCS</a>の教材に準拠しています。</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn:1">
+<p>他に何があるのか気になる方がいらっしゃるでしょう（ごもっともです）。それほど多くはありません。かつては検索、ソート、（予備的な）ビッグ・オー記法、ハッシュ、LinkedListなどもありましたが、College Boardが全て除外しました。というのも、試験を受ける生徒がほとんどいなかったからです。しかしこれは語弊があります。これは生徒が悪いわけではなく、そもそもこれらについて教える講師がほとんどいなかったのですから。&#160;<a href="#fnref:1" class="footnote-backref">&#8617;</a></p>
+</li>
+<li id="fn:2">
+<p>プログラミングを始めると、いかに人間の直感が優れており、コンピュータがそうでないかを早々に実感するでしょう。たとえば、リスト内で隣り合う2つについてのやり取りを見れば、お分かりいただけるはずです。<br />
+「2つは互いに隣り合っていますか？」<br />
+「2つが隣り合っていることはどうやって分かりますか？」<br />
+「（互いに隣り合っているからですか？）」<br />
+「リストの順番にすでに入っていたらどうなりますか？ その場合、互いに隣り合っていることはどうやって分かりますか？」<br />
+「リスト内の2つの位置は1回限りですか？」<br />
+「了解しました。しかしそれはどういう意味ですか？」<br />
+「リストの位置2にあるものの隣は何ですか？」<br />
+「位置1と3にあるものですか？」<br />
+「つまり、位置番号に1を足したものと1を引いたものですか？」<br />
+「了解しました。その場合は…」&#160;<a href="#fnref:2" class="footnote-backref">&#8617;</a></p>
+</li>
+<li id="fn:3">
+<p>この分野に興味をお持ちなら、Ernest Freeberg氏の<a href="http://www.amazon.com/gp/product/1594204268/ref=as_li_tl?ie=UTF8&amp;camp=1789&amp;creative=390957&amp;creativeASIN=1594204268&amp;linkCode=as2&amp;tag=kidogo-20&amp;linkId=GQAGAGQX5NNSAC6N">『The Age of Edison: Electric Light and the Invention of Modern America』</a>をお読みになることをお勧めします。ほんの一部を抜粋してご紹介しましょう。</p>
+<blockquote>
+<p>電気技師は電気に関して人々がいかに無知かをよく揶揄したものです。しかし、この産業で働く者の中には、そうした無知を決して笑いごとではないと考えている者もいました。電気について生半可な知識しかないジャーナリストや政治家は電気会社に無茶な要求をし、電力業界に関する人々の恐れや怒りを引き起こすからです。彼らにはもう少し知識が必要でした。そこで、多くの業界のリーダーたちは電気技師やエンジニアに対する技術的なトレーニングだけでなく、高校のカリキュラムにまで電気技術の授業を組み込むことを求めました。こうした&#8221;より広範な教育&#8221;によって、多くのアメリカ人が電気について学ぶチャンスを得られ、電力に対する人々の言い知れぬ恐怖は収まりました。&#8230;<br />
+  この&#8221;崇高な使命&#8221;から[電力]業界が得られるものも多くありました。というのも、若者の意欲をかきたてることで、電力業界の発展に貢献できたからです。21世紀になると、電力関連のビジネスに携わる者が100万人に迫り、電気と電力は国内最大規模の、最も急成長を遂げた産業となったのです。進歩主義の教育者は電力会社に優れた人材を送り込むことに注力しませんでしたが、アメリカの全ての学生が少なくとも技術教育の基礎を学ぶべきであることには同意していました。</p>
+</blockquote>
+<p><a href="#fnref:3" class="footnote-backref">&#8617;</a></p>
+</li>
+</ol>
+</div>
+</div>
+]]></content:encoded>
+		<wfw:commentRss>https://postd.cc/learning-online/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://christinacacioppo.com/videos/standalone.mp4" length="1114859" type="video/mp4" />
+		<itunes:subtitle>学校で習うような物事をインターネット上で学ぶことは、将来的には不可避なことのように思えますが、現状において、多くの人々はオンラインで効率的に学習をしているとは言い難いようです。Sebastian Thrunも、数カ月前のFast Companyのインタビューでこのことを[認めています](http://www.fastcompany.com/3021473/udacity-sebastian-thrun-uphill-climb)。私はこの夏、高校生に教える傍らソフトウェアを作り、コンピュータがどの程...</itunes:subtitle>
+		<itunes:summary>学校で習うような物事をインターネット上で学ぶことは、将来的には不可避なことのように思えますが、現状において、多くの人々はオンラインで効率的に学習をしているとは言い難いようです。Sebastian Thrunも、数カ月前のFast Companyのインタビューでこのことを[認めています](http://www.fastcompany.com/3021473/udacity-sebastian-thrun-uphill-climb)。私はこの夏、高校生に教える傍らソフトウェアを作り、コンピュータがどの程度、人々の学習の役に立つかを検証してみました。
+
+この投稿ではその夏について、つまり生徒がどのように学び、私が作ったソフトウェアがどの程度、彼らの学習の役に立ったか、何がうまくいき、何がうまくいかなかったか、そして次に目指すべきところはどこなのか、について書いていきたいと思います。
+
+##カリキュラム
+
+今回の検証の実践の場として、[AP（アドバンスト・プレースメント：成績上位の高校生が受講可能な大学の科目）コンピュータサイエンス](http://apcentral.collegeboard.com/apc/public/courses/teachers_corner/4483.html)の講義を選びました。プログラミングは今なお教えるのが非常に難しい科目ですし、プログラミングであれば、例えば地理などに比べると、コンピュータ支援による教育も自然に受け入れられるはずだからです。それにプログラミングは初心者にとって、不必要に不親切でややこしいですからね。
+
+APコンピュータサイエンスは8カ月にわたる講義で、個人講義やGoogleのHangout
+を通した対面講義の場合だと約20時間が必要となります。私は天才ではないですし、決定版と言えるような教育法を持ち合わせているわけでもありません。どうしたって学習には時間がかかります。講義において、私が作ったソフトウェアに一定の効果はあったものの（ソフトウェアが改善するにつれて、生徒に対して説明やデバッグ、それに軌道修正の助言をする機会は減っていきました）、それでも生徒たちは都度現れる新しい問題に苦戦しながら学習を続けていました。
+
+College Boardは、APコンピュータサイエンスの講義と学力試験のための標準カリキュラムを提供しています。試験が高得点の場合、公立大学での単位が認定されるため、その分だけ大学在学中の必要単位が少なくて済み、学費を減らせる仕組みです。私立の大学では単位にはならないものの、成績優秀者として認めてもらえます。
+
+APコンピュータサイエンスのカリキュラムは標準化されていますが、大規模なものではありません。Javaのオブジェクト指向プログラミングの導入部で、その範囲はArrayList[^1]までです。平凡で、似たようなカリキュラムや教材、実習はオンライン上に散見されます。私は、それらの中から個人的にいいと思った教材をまとめて、フリーのオープンソースレポジトリとしてまとめました。[Teach APCS](http://teachapcs.com/)で公開しているので、ぜひご覧ください。
+
+Javaは初心者にとっては面倒な言語です。その構文は間が抜けていて、見た目は外国語のようであり、必要以上にグラフィックを単調にし、処理が重くなるJava仮想マシンを使わなければなりません。それでもAP試験で出題される言語であることから、多くの学校で教えられています。初心者にとっては、何も学ばないよりはマシといったところでしょうか。
+
+プログラミング言語を取り巻く状況において、生徒たちにとって最も難しいのはJava自体ではなく英語のパズルを解くということでしょう。多くの場合、生徒たちはロジックを適当に扱い、この段階をスキップします。しかし、それではうまくいきません。いったんJavaのことは忘れて、2つの質問&quot;やろうとしていることを英語で表現するとどうなるか&quot;、&quot;それを5歳の子供に向かって説明するには何と言えばいいか&quot;を投げかけてみることが大切です。彼らがその質問を説明できたら（その間は、ワードスクランブルのように全ての[文字](http://teachapcs.com/exercise/scramble-words)を精査し、前後の文字を入れ替えてみたりするのも手です）、Javaは容易に出来上がります[^2]。
+
+##なぜプログラミング？
+
+APコンピュータサイエンスの試験は、高校生にとってはご褒美のようなものですが、美味しいものではないでしょう。講義を受ける生徒は、おおむね2パターンに分けられます。一方はJava以外の言語である程度のプログラミング経験がある生徒、もう一方はコンピュータの理解は乏しいものの、APの修了資格が欲しい生徒です。
+
+私は講義を始める前に、&quot;何でも可能なら何を作りたいか&quot;ということを生徒たちに聞いてみました。
+
+* 援助が必要な人々を助けられるようなアプリケーション
+* 動画
+* 最高のビデオゲーム
+* タイムマシン
+* 学校の授業が不満な場合、学校が単位を認めてくれるよう自分でその科目を学べるようになるツール
+* 多様な分野におけるネットワーキングを改善するアプリケーション
+* 最小の停車で全米を網羅するような、早くて効率的で安全な列車のネットワーク
+* 患者に苦痛を与えないガンの治療薬
+
+この中の一部のアイデアは、他のものに比べるといくらかはソフトウェア向きと言えるでしょう。ただ、何より驚いたのは、ほとんどの回答が畑違いな点です。&quot;Xが出来るアプリケーションを作るのが夢&quot;だとか&quot;Yのホームページをずっと作りたいと思っていた&quot;というような回答は見当たりません。今日の言語学習ツールは、具体的なアプリケーションやサイトを作ることによって言語を習得するものが多いのですが、講義に参加した高校生たちは、プログラミングで自分たちに何が出来るのかといったことも分かっていないようでした。プログラミングって楽しいかもしれない、という程度の感覚なのかもしれません。
+
+##プログラミングは不要？
+
+&quot;プログラミングしなさい。さもないとされてしまう&quot;というゾッとするようなレトリックが、一部の言語学習の取り組みにおいて存在しますが、それはあまりにも馬鹿らしいことです。やりたいことがなければ、プログラミングなんて学ぶ必要はありません。コンピュータは、言わば100年前の電気[^3]のようなもので、決して人を襲うものではないのです。より現実的な観点から考えると、何であれ新しいことを学ぶのには困難が伴うもので、罪悪感（あの時、勉強していれば…）のような動機だけでは不十分でしょう。
+
+ただし、私は学習意欲をそごうとしているわけではありません。ソフトウェアをプログラミングすることは、すばらしい体験となり得ます。そして私が特に強調したいのは、その気もなりさえすれば、誰にだってそれは可能だということです。
+
+##メタ学習
+
+総じて、生徒たちの学習速度には驚かされるものがありました。ただ、微分積分をまだ学習していない生徒の方が、習熟が速いように思えました。これは別段、不思議なことではありません。数学の関数や変数とコンピュータサイエンスは、関連しているものの全く同じものではないため、そういった違いをスルーできる生徒は、その点について考えなくて済むからです。
+
+夏の終わり頃になり顕著になったことは、多くのミスをする生徒の伸びが目立ってきたことです。彼らはいろんなことにチャレンジし、間違ったコードをコンパイルし、多くのランタイムエラーを発生させ、REPLを激しく混乱させました。しかし、失敗を繰り返すことで頭の中でより優れたイメージを持てるようになります。そのためコードを実行したときにどのように動作するか予測することができるのです（[Xcode Playgrounds](https://www.youtube.com/watch?v=vogFSIxprUo)や[LightTable](http://www.lighttable.com/)といった環境で成功した場合に、全てのプログラムを頭の中でトレースするのは隠し芸的ですが、今日では必要な能力です）。生徒は論理的方法で実験を行うことで、コードを用いた問題解決において自信を持つようになります。
+
+当てもなく書き換えを続けることは（つまりは&quot;適当に打ち込んでいけば、いつかうまく動作するだろう&quot;ということ）まったくためにならず、やる気をなくさせるような行為です。プログラミングのそれぞれのコードがどのように結びついているかといった知識を持たずして、コンピュータを理解することは出来ません。いくらやる気がある人でも、現代のプログラミングのツールを使って当てもなく自由に学ぼうとすれば、すぐにイライラしてしまうでしょう。
+
+##我々が行ったこと
+
+まずは2時間に及ぶ変数を用いないプリミティブ型のみを扱ったREPLの指導から始めました。プログラミングの土台となる考え方（&quot;なぜ分割がおかしいのか？　いつ乱数ジェネレータを起動し、どれくらい待てば乱数を得られるのか？　実際substringメソッドがどのように動作するのか？&quot;）を身につけるためです。
+
+REPLはツールを調査するのに便利な環境です。理由の1つとしては、新しいことに挑戦するのが簡単で、失敗しても何も壊したりすることなくさほど時間もかからな...</itunes:summary>
+		<itunes:author>POSTD</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		</item>
+	<item>
+		<title>テスト駆動開発（TDD）はもう終わっているのか？ Part 2</title>
+		<link>https://postd.cc/is-tdd-dead-part-2/</link>
+		<pubDate>Wed, 08 Oct 2014 03:00:10 +0000</pubDate>
+		<guid isPermaLink="false">http://postd.cc/?p=1281</guid>
+		<comments>https://postd.cc/is-tdd-dead-part-2/#respond</comments>
+		<dc:creator></dc:creator>
+		<category><![CDATA[開発手法・プロジェクト管理]]></category>
+		<category><![CDATA[Ruby]]></category>
+		<category><![CDATA[TDD]]></category>
+		<description>本エントリは翻訳リクエストより投稿いただきました。
+ありがとうございます！リクエストまだまだお待ちしております！
+
+
+----
+
+前編は[こちら](http://postd.cc/is-tdd-dead-part1/)です
+
+##4：テストに伴うコスト
+
+2014年5月27日
+
+
+
+audio
+今回のテーマは、テストとTDDのマイナス面です。テストをやりすぎることがあるか、そして機能的なコードよりテストを重視するチームには問題があるかという点について議論しました。
+
+###議事録
+
+Davidが会話の口火を切りました。「トレードオフについて話すなら、当然そのマイナス面について理解しなければならない。なぜなら、欠点のないトレードオフは存在しないからだ」　このあと彼は続けて、TDDは開発者に何かを強制するわけではないが、ある一定の方向に導くことは確かだと言いました。それから、最初の問題点として、テストの過剰な実施を取り上げました。TDDでよく言われるのは、テストに失敗せずして1行のコードも書くべきでないということです。Davidも当初はこの考え方を合理的だと思っていましたが、そのうち、テストをやり過ぎる傾向が出てきました。例えば、1行の本番用コードに対してテストコードが4行もあるようなケースです。こうなると、振る舞いを変えたい時には、より多くのコードを変更しなければなりません。Davidは、「テストを書くことで給料をもらっているわけじゃない。テストを書くのは自信をつけるためだ」というKentの言葉を取り上げて、Kentと私に、全ての本番用コードに対して逐一テストを書くのか尋ねました。
+
+Kentは「場合による」と返答し、「恐らく、これからどんな興味深い質問をされても、私はそう答えるんじゃないか」と続けました。JUnitでテストファーストを忠実に行えば、十分に満足できる結果が得られるため、TDDを使うからといって、テストが常に過剰になるとは限らない、というのが彼の意見です。Herb Derbyは、それぞれのテストがカバーする固有の対象範囲を差分カバレッジという言葉で提起しており、差分カバレッジがゼロのテストは、何らかのコミュニケーション用途を提供でもしない限り、削除すべきだとしています。Kentによると、彼はsystem-yのテストを書き、それを実装するためのコードを書き、リファクタリングをし、最終的に当初のテストを放り出すことがよくあるそうです。テストを放り出すと聞くと、多くの人が取り乱すほどに驚きますが、それが何の利益も生み出さないのであれば、捨ててしまった方がいいでしょう。複数の方法で同じことがテストされる場合、それは結合しているということで、それだけコストがかさむわけですからね。
+
+私は、コードが過剰にテストされることは確かにあると言いました。例を挙げろと言われれば、ThoughtWorksは非常にテストを重視するため、それに当てはまるでしょう。適度な実施というのはなかなかに難しく、多すぎることもあれば逆に少なすぎることもあります。極端に過剰でなければ、私自身は多すぎるのを好む方です。コードの全ての行をテストするという点については、「もし任意の1行を不適切にいじった場合、テストは失敗するか？」という問題を考え、折に触れて、ある行を意図的にコメントアウトしたり、条件節を逆転させたりして、テストが実際に失敗するかを試してみることがあります。もう1つのメンタルテスト（Kentから教えてもらいました）として、破損する可能性のあるものだけを見繕ってテストしたりもします。ライブラリは（それが相当に悪い状態でなければ）動作するのを前提として考えていますが、これについても、ライブラリの使い方を間違えた場合、その誤用でどのような重大な問題が起こるか、ということを試すことがあります。
+
+Kentは、テストコードの行数と本番用コードの行数の比率は、あてにならない指標だと断言しました。そのような考えに至った理由として彼が挙げたのが、Christopher Glaeserがコンパイラを書いているのを見た経験です。Christopherはコンパイラの各行に対して、テストコードを4行ずつ書いていたそうです。なぜかというと、コンパイラの結合度が高いためで、シンプルなシステムであれば、もっと小さな比率でも済むでしょう。Davidは、コード内の1行のコメントアウトを検出するということは、テストカバレッジが100％だということを意味すると言いました。破損の可能性のあるものは追及に値するという意見については、Railsの宣言文はテストに値するほどの破損の原因にはならないので、カバレッジが100％よりかなり低くても、彼にとっては問題ないということです。
+
+私は、「自信を持ってコードを変更できないのなら、テストが十分でない（あるいは、適切でない）」と返答し、「コードを変更する時に、コード自体よりもテストの変更に労力を費やしていると感じる時が、過剰の兆候」だと言いました。望ましい状態を維持するには、自分やチームのメンバーがどのようなミスを犯しがちで、問題にならないミスはどのようなものかを経験的に知らなければなりません。私自身は、自分のやり方に不安を覚えた時には、「コードの1行をコメントアウトする」アプローチが気に入っていると述べました。そこをスタート地点として、環境に入り込んで試行錯誤をしていくうちに、よりよい解決策を発見できるからです。Davidは、このチューニングは、変化の少ない生産チームと、コードを第三者に渡す必要があり、そのためにより多くのテストが必要なコンサルタントチームでは異なると感じていると言います。Kentは、テストファーストの規律を学ぶのはいいことだと考えています。それが、開発の困難な部分を切り開く、4WDのローギア並みの推進力となるからです。
+
+ここでDavidが次の問題を取り上げました。以前は、多くの人が、コードよりもドキュメンテーションを重視していましたが、現在、彼が気にかけているのは、多くの人が、機能的なコードよりもテストを重視しているということです。これに関連して、TDDサイクルにおけるリファクタリングを軽んじる傾向も同じく問題として挙げています。これらの要因が、コードをクリアにする作業やリファクタリングに十分なエネルギーが注がれていない現状をもたらしたと言えるでしょう。Kentは、一部の本番用コードを捨てたものの、テストをそのまま維持して再実装したエピソードを語ってくれました。新しいコードがうまく動くかどうかは、テストにより分かるため、彼は、この手法を本当に気に入っているようです。ここで興味深い新たな疑問が生まれます。それは、本番用コードを捨ててテストを維持するのか、あるいはその逆なのかということですが、これについても、時と場合により答えは異なるでしょう。
+
+テストを読むことで、コードの挙動を理解することがあると私は言いました。一方が他方よりも優れているとか、そのように思っているわけではありません。大事な点は、ダブルチェックで、双方にミスマッチがあれば何らかのエラーが判明するということです。私はDavidの意見、つまり、場合によってはチームがユーザのサポートよりもテスト環境により多くのエネルギーを注ぎ込むという悪しき傾向があることに同意します。テストというのは目的達成の手段であるべきです。ところで、コードをクリアにするのは本当に刺激的なことですが、最もテンションが上がるのは、新たな機能を追加する時です。大変に思えるかもしれませんが、コードがクリアでありさえすれば、案外簡単にできてしまいます。ただし、コードをクリアにするということと刺激を得るということには違いがあります。KentはこれをJeff Eastmanの事例で示してくれましたが、言葉で説明するには、なかなかに難しい内容でした。彼は設計を大幅にシンプル化することで勢いを得ることができると言います。しかし、新しいテスト動作の価値を説明するのは簡単でも、設計のクリーニングについての価値を語るのは難しいと感じているようです。
+
+Davidは、設計の質を数字で表すことはできないと指摘する一方で、それでも私たちが数量化できるものに注力する傾向を挙げました。つまり多くの人が、本来であればリストの下位に属するもの、例えばテストの速度やカバレッジ、そして比率などを優先する傾向があるというわけです。これらはある意味、色仕掛け的な罠とも言えるもので、その誘惑には注意を払う必要があります。でなければCucumber（Rubyのテストツール、キュウリの意味も）がヤギを虜にし、本番用のコードよりもテスト環境が栄える結果となるのです。実際には、それらは非技術系のステークホルダー（利害関係者）と一緒にテストを書くという、架空の場所でしか役に立ちません。以前であれば、TDDを売り込むことが重要なことでしたが、既に十分な浸透を見せています。これからはその欠点を探すことが必要です。ただし、多くの場所で、TDDはいまだ台頭していないという声も聞くに及び、私はTDDが主流であるという意見には賛同していません。
+
+###参考資料
+
+* 指標の誤用については、Pat Kuaの記事[an appropriate use of metrics](http://martinfowler.com/articles/useOfMetrics.html)をご覧ください。
+</description>
+		<content:encoded><![CDATA[<div class="markdown-content">
+<div style="background-color: #EEEEEE; font-size: 0.8em; padding: 10px 20px; line-height: 1.8em;">
+本エントリは<a href="http://board.postd.cc/entries/new" target="_blank">翻訳リクエスト</a>より投稿いただきました。<br />
+ありがとうございます！リクエストまだまだお待ちしております！
+</div>
+<hr />
+<p>前編は<a href="http://postd.cc/is-tdd-dead-part1/">こちら</a>です</p>
+<h2 id="gfm-46">4：テストに伴うコスト</h2>
+<p>2014年5月27日</p>
+<p><iframe width="560" height="315" src="//www.youtube.com/embed/dGtasFJnUxI" frameborder="0" allowfullscreen></iframe></p>
+<p class="audio-link"><a href="http://assets.thoughtworks.com/podcast/is-tdd-dead-episode-4-27-may-2014.mp3">audio</a></p>
+<p><em>今回のテーマは、テストとTDDのマイナス面です。テストをやりすぎることがあるか、そして機能的なコードよりテストを重視するチームには問題があるかという点について議論しました。</em></p>
+<h3 id="gfm-47">議事録</h3>
+<p>Davidが会話の口火を切りました。「トレードオフについて話すなら、当然そのマイナス面について理解しなければならない。なぜなら、欠点のないトレードオフは存在しないからだ」　このあと彼は続けて、TDDは開発者に何かを強制するわけではないが、ある一定の方向に導くことは確かだと言いました。それから、最初の問題点として、テストの過剰な実施を取り上げました。TDDでよく言われるのは、テストに失敗せずして1行のコードも書くべきでないということです。Davidも当初はこの考え方を合理的だと思っていましたが、そのうち、テストをやり過ぎる傾向が出てきました。例えば、1行の本番用コードに対してテストコードが4行もあるようなケースです。こうなると、振る舞いを変えたい時には、より多くのコードを変更しなければなりません。Davidは、「テストを書くことで給料をもらっているわけじゃない。テストを書くのは自信をつけるためだ」というKentの言葉を取り上げて、Kentと私に、全ての本番用コードに対して逐一テストを書くのか尋ねました。</p>
+<p>Kentは「場合による」と返答し、「恐らく、これからどんな興味深い質問をされても、私はそう答えるんじゃないか」と続けました。JUnitでテストファーストを忠実に行えば、十分に満足できる結果が得られるため、TDDを使うからといって、テストが常に過剰になるとは限らない、というのが彼の意見です。Herb Derbyは、それぞれのテストがカバーする固有の対象範囲を差分カバレッジという言葉で提起しており、差分カバレッジがゼロのテストは、何らかのコミュニケーション用途を提供でもしない限り、削除すべきだとしています。Kentによると、彼はsystem-yのテストを書き、それを実装するためのコードを書き、リファクタリングをし、最終的に当初のテストを放り出すことがよくあるそうです。テストを放り出すと聞くと、多くの人が取り乱すほどに驚きますが、それが何の利益も生み出さないのであれば、捨ててしまった方がいいでしょう。複数の方法で同じことがテストされる場合、それは結合しているということで、それだけコストがかさむわけですからね。</p>
+<p>私は、コードが過剰にテストされることは確かにあると言いました。例を挙げろと言われれば、ThoughtWorksは非常にテストを重視するため、それに当てはまるでしょう。適度な実施というのはなかなかに難しく、多すぎることもあれば逆に少なすぎることもあります。極端に過剰でなければ、私自身は多すぎるのを好む方です。コードの全ての行をテストするという点については、「もし任意の1行を不適切にいじった場合、テストは失敗するか？」という問題を考え、折に触れて、ある行を意図的にコメントアウトしたり、条件節を逆転させたりして、テストが実際に失敗するかを試してみることがあります。もう1つのメンタルテスト（Kentから教えてもらいました）として、破損する可能性のあるものだけを見繕ってテストしたりもします。ライブラリは（それが相当に悪い状態でなければ）動作するのを前提として考えていますが、これについても、ライブラリの使い方を間違えた場合、その誤用でどのような重大な問題が起こるか、ということを試すことがあります。</p>
+<p>Kentは、テストコードの行数と本番用コードの行数の比率は、あてにならない指標だと断言しました。そのような考えに至った理由として彼が挙げたのが、Christopher Glaeserがコンパイラを書いているのを見た経験です。Christopherはコンパイラの各行に対して、テストコードを4行ずつ書いていたそうです。なぜかというと、コンパイラの結合度が高いためで、シンプルなシステムであれば、もっと小さな比率でも済むでしょう。Davidは、コード内の1行のコメントアウトを検出するということは、テストカバレッジが100％だということを意味すると言いました。破損の可能性のあるものは追及に値するという意見については、Railsの宣言文はテストに値するほどの破損の原因にはならないので、カバレッジが100％よりかなり低くても、彼にとっては問題ないということです。</p>
+<p>私は、「自信を持ってコードを変更できないのなら、テストが十分でない（あるいは、適切でない）」と返答し、「コードを変更する時に、コード自体よりもテストの変更に労力を費やしていると感じる時が、過剰の兆候」だと言いました。望ましい状態を維持するには、自分やチームのメンバーがどのようなミスを犯しがちで、問題にならないミスはどのようなものかを経験的に知らなければなりません。私自身は、自分のやり方に不安を覚えた時には、「コードの1行をコメントアウトする」アプローチが気に入っていると述べました。そこをスタート地点として、環境に入り込んで試行錯誤をしていくうちに、よりよい解決策を発見できるからです。Davidは、このチューニングは、変化の少ない生産チームと、コードを第三者に渡す必要があり、そのためにより多くのテストが必要なコンサルタントチームでは異なると感じていると言います。Kentは、テストファーストの規律を学ぶのはいいことだと考えています。それが、開発の困難な部分を切り開く、4WDのローギア並みの推進力となるからです。</p>
+<p>ここでDavidが次の問題を取り上げました。以前は、多くの人が、コードよりもドキュメンテーションを重視していましたが、現在、彼が気にかけているのは、多くの人が、機能的なコードよりもテストを重視しているということです。これに関連して、TDDサイクルにおけるリファクタリングを軽んじる傾向も同じく問題として挙げています。これらの要因が、コードをクリアにする作業やリファクタリングに十分なエネルギーが注がれていない現状をもたらしたと言えるでしょう。Kentは、一部の本番用コードを捨てたものの、テストをそのまま維持して再実装したエピソードを語ってくれました。新しいコードがうまく動くかどうかは、テストにより分かるため、彼は、この手法を本当に気に入っているようです。ここで興味深い新たな疑問が生まれます。それは、本番用コードを捨ててテストを維持するのか、あるいはその逆なのかということですが、これについても、時と場合により答えは異なるでしょう。</p>
+<p>テストを読むことで、コードの挙動を理解することがあると私は言いました。一方が他方よりも優れているとか、そのように思っているわけではありません。大事な点は、ダブルチェックで、双方にミスマッチがあれば何らかのエラーが判明するということです。私はDavidの意見、つまり、場合によってはチームがユーザのサポートよりもテスト環境により多くのエネルギーを注ぎ込むという悪しき傾向があることに同意します。テストというのは目的達成の手段であるべきです。ところで、コードをクリアにするのは本当に刺激的なことですが、最もテンションが上がるのは、新たな機能を追加する時です。大変に思えるかもしれませんが、コードがクリアでありさえすれば、案外簡単にできてしまいます。ただし、コードをクリアにするということと刺激を得るということには違いがあります。KentはこれをJeff Eastmanの事例で示してくれましたが、言葉で説明するには、なかなかに難しい内容でした。彼は設計を大幅にシンプル化することで勢いを得ることができると言います。しかし、新しいテスト動作の価値を説明するのは簡単でも、設計のクリーニングについての価値を語るのは難しいと感じているようです。</p>
+<p>Davidは、設計の質を数字で表すことはできないと指摘する一方で、それでも私たちが数量化できるものに注力する傾向を挙げました。つまり多くの人が、本来であればリストの下位に属するもの、例えばテストの速度やカバレッジ、そして比率などを優先する傾向があるというわけです。これらはある意味、色仕掛け的な罠とも言えるもので、その誘惑には注意を払う必要があります。でなければCucumber（Rubyのテストツール、キュウリの意味も）がヤギを虜にし、本番用のコードよりもテスト環境が栄える結果となるのです。実際には、それらは非技術系のステークホルダー（利害関係者）と一緒にテストを書くという、架空の場所でしか役に立ちません。以前であれば、TDDを売り込むことが重要なことでしたが、既に十分な浸透を見せています。これからはその欠点を探すことが必要です。ただし、多くの場所で、TDDはいまだ台頭していないという声も聞くに及び、私はTDDが主流であるという意見には賛同していません。</p>
+<h3 id="gfm-48">参考資料</h3>
+<ul>
+<li>指標の誤用については、Pat Kuaの記事<a href="http://martinfowler.com/articles/useOfMetrics.html">an appropriate use of metrics</a>をご覧ください。</li>
+<li>私の記事で、<a href="http://martinfowler.com/bliki/TestCoverage.html">テストカバレッジの使用と誤用</a>について、詳しく掘り下げています。</li>
+</ul>
+<h2 id="gfm-49">5：質疑応答</h2>
+<p>2014年6月4日</p>
+<p><iframe width="560" height="315" src="//www.youtube.com/embed/gWD6REVeKW4" frameborder="0" allowfullscreen></iframe></p>
+<p class="audio-link"><a href="http://assets.thoughtworks.com/podcast/is-tdd-dead-episode-5-6-4-jun-2014.mp3">audio</a></p>
+<p><em>視聴者の皆さんから寄せられた以下の質問：TDDを使用したオープンソースにはどんな事例があるか？　私たちのTDDの使い方を変えるものは何か？　経験の浅い開発者にとって、TDDはどの程度有用か？　にお答えします。そして、TDDの健全性に関する私たちの意見をまとめて締めくくることにします。</em></p>
+<h3 id="gfm-50">議事録</h3>
+<p>始めに、今回のハングアウトでは、視聴者から寄せられた質問を取り上げて、それに答える形で進めていくことを説明しました。最初にDavidが取り上げたのがMike Harrisからの質問で、TDDを使ったオープンソースプロジェクト、およびテスト主体の設計による弊害、あるいはTDDが適切に使われている事例を紹介してほしいというものです。Davidはこの質問を受けて、いい事例というものは存在しない言い、このことは、こういう類いの議論の問題点でもあると説明しました。オープンソースのコントリビュータは、プライベートアプリケーションやオープンソースの共通フレームワーク、ライブラリに取り組むことが多く、一般的にいい活用事例が見当たらないということです。結果的に、意見の相違が実際よりも多くあるかのように見えがちな文脈で話を進める羽目になります。人々が興味を持つのは、哲学的な原理よりも実際のコードです。しかし、私たちの手持ちのコード事例というのは、実際にプログラマが現場で取り組んでいるものよりも規模が小さいのは否めないため、よりよい理解のためには発表されているものを参照するほかありません。DavidがJim Weirichの例を通じて設計の弊害を示したのもその理由からです。なお、Railsで優れたコードを書きたい場合、彼はRailsの標準的なテスト手法を扱った本を勧めています。</p>
+<p>私は、実際のコードを理解するには、相当の努力を要するとコメントしました。私自身、自分たちのコードベースを精査することがありますが、かなり時間かかる上、チームのメンバーと共同で作業する時とは違う理解に至ることさえあります。Kentは、<a href="http://junit.org/">JUnit</a>はTDDを忠実に使い、それがうまくいったプロジェクト例だと言います。しかし、JUnitはTDDを最適にするような明確なインターフェースがあるため、この議論のいい事例とは言えないでしょう。私たちは、さまざまなアプリケーションを対象として話しているわけですからね。誰かいい事例をお持ちの場合は、ぜひそのコードを書き示していただきたいと思います。</p>
+<p>Davidは、私のコメントが、プログラミングを科学の一種として扱えないことを表していると指摘しました。つまり、技術を客観的に評価できないということです。ただし、これは議論に値しないということではありません。確固とした答えを得ることはできないものの、その判断は自分自身に委ねられていると考えることができます。Kentは手順の再現はできないという点で同意を示しました。しかし、科学的な観点から、個人的に物事を見ることはできると言います。普遍的な答えが得られないだけで、私たちは自分自身のために、物事を実験的に試すことができるのです。</p>
+<p>Kentが次の質問を選びました。Graham Leeからの質問で、その内容は、KentやMartin（私）に対しては、ソフトウェアの書き方の何が変われば、TDDが不必要または時代遅れになるか、Davidに対しては、TDDが有用さを発揮するためには何が必要だと思うか、というものです。Kentは、彼の<a href="https://www.facebook.com/notes/kent-beck/rip-tdd/750840194948847">RIP TDDの投稿</a>に言及しつつ、彼自身の立ち位置を（どちらかと言えば皮肉な調子で）説明しました。TDDは、いくつかの問題を解決するもので、最たるものが自信を与えてくれる点だと言います。併せて、問題を断片へと細分化できるため、総合的な問題から離れて、特定な問題だけに取り組めるようになる利点も挙げています。現時点においては、TDDが難しいというだけで、その使用をやめるつもりはないということです。</p>
+<p>私の意見としては、TDDを時代遅れにさせるものは、何らかの変化というよりも、それぞれのコンテキストにおけるTDDの妥当性なのではないかと思っています。例えば私は、TDDに機械的に従って作業することにより、「迅速ではあるけれども急かされないような」ストレスのない状態で、いい設計にたどり着いたことがあります。一方、最近の私は、プログラミング作業のほとんどでWebサイトのツールチェーンを使っています。その進捗は漸次的ですが、とてもいいリグレッションテスト・スイートがあるため、TDDの有効性を見つけることができません。そうかと思えば、Infodeckのコードを構築する時には、TDDが効果的なアプリケーションの振る舞いがいくらでもあります。「あるコンテキストは非常にTDDに向いている一方で、そうでないコンテキストもある」　そして、開発者の個性によっても、そのコンテキストが変わるのではないかと思います。</p>
+<p>すると、同じような経験をしたことがあるとDavidが口を開きました。TDDを通じてテストを学んだ彼は、TDDをとても気に入り、全てのものでそれを試してみようとしました。しかし、MVCモデルのWebアプリケーションの多くの領域では、TDDが適していないと徐々に気づいたと言います。これは、ある状況においてTDDが役に立たないということを意味しているわけではありません。Davidの場合は、TDDが役立つケースが少なかったというだけです。ただ、TDDを断念したからといって、彼がコードのセルフテストを諦めたわけではありません。セルフテスト自体は、彼にとってTDDの価値であり続けています。</p>
+<p>この話を聞いて、私はこれがTDD（あるいは何らかの技術）を、身を持って知る理想的な姿だと言いました。まずは試してみて、とことん使った上で、自分にとってちょうどいい加減を見つける。そして、さらに考察を重ね、David自身は「TDDはセルフテスティングコードへの入門ドラッグ」という結論へと至ったというわけですね。Kentは、こういったプロセスを経て、開発者がどのようなワークフローにたどり着いたか、というのはあまり気にしないと言いました。彼のTDDの経験はDavidとは異なるものです。開発のある段階で難しい局面に差しかかった時、彼は、物事を単純化できる特定のプロトコルを持つオブジェクトのアイデアを考えると言います。そして、そのようなアイデアやAPIの使用例などを実装して試す時に、TDDのメカニズムは迅速にフィードバックを与えてくれると言うのです。もちろん、TDDでうまくいかないこともあります。そんな時は、コマンドRがフィードバックを得るいい方法だということですが、それでもKentの希望としては、オブジェクトを単純化してからTDDでテストしたいということです。</p>
+<p>私は次の（Tudor Pavelからの）質問を選びました。その内容は、経験の浅い開発者にとってTDDがどう役に立つかというものです。私の答えは次の通りです。TDDを使うことで、開発者は少しずつ作業せざるを得なくなるし、インターフェースと実装を分けて考えられるようになります。ただし、いい設計には経験が必要なため、必ずしもそのことが、いい結果に結びつくとは限りません。経験の浅い開発者がTDDを利用すると、リファクタリングが十分でないことが多々あり、最適とまでは言えない設計になることがあるのも事実です。経験の浅い開発者と熟練の開発者の作ったものでは比較の対象になりません。比べるなら、経験の浅いその開発者が、TDDなしで書き上げる場合の設計と比べてみましょう。もちろん、これは実測できるものではありませんが、とても有効な方法だと思えますし、将来的な観点では、リファクタリングを通じて改善しやすいセルフテストのコードベースを作ることにもなります。そういう意味では、TDDは開発者にとって、いい出発点となるでしょう。</p>
+<p>Davidは、それがTDDから得た大切なものだと言いました。彼はTDDを使い始めてみて、TDDが優れた補助輪であることに気づいたと言います。ただし、それ以来は、十分に考察を進められたとは感じていないようですが。彼は次のフレーズ「新人に対してはシンプルで直接的で、かつ大げさにアドバイスを与えなければならない。さもないと彼らは何もしない」という考えに懐疑的です。それは単に、教える側の自信の欠如を表しているだけだからです。私も、その教義的なフレーズについての嫌悪感には同意します。自分の説明に対する反論を提示できない場合、自分の分析不足を疑ってしまうでしょう。1点だけ念頭に置きたいのは、新人に対しては、導入の手引きを繰り返し教え続けなければならないということですね。一部の人は、基本の繰り返しをおろそかにしがちです。</p>
+<p>これを受けてDavidは、だからこそ、私たちはこの話し合いをしていると思う、と言いました。TDDが人に教え伝えられる時、基本的な事項に色眼鏡的な解釈が織り交ぜられることが多いという現状があります。10年後、本来ならもっといい場所にたどり着いていたはずなのに、スタート地点よりも随分と下ってしまう結果になるかもしれません。そうなればリセットボタンを押して、洗練されていなくとも効果的なアプローチで出直すしかないでしょう。Davidが「TDDは終わった」と言う時、彼が指しているのは、異質なものへと変化してしまったこの現状のことなのです。最初の原則に立ち返らなければなりません。Kentは、最初にDavidの基調講演を聞いた時の直感的な感想は、そういうものだったと述べました。プログラマは、どうしても同じことを何度も何度も繰り返し、物事を複雑にしてもなお、進行中の機能不全のシステムに固執しすぎるきらいがあります。Kentは、リブートして原則に戻ることに大賛成です。ただし、ここ10年の、人々のプログラミングに対する期待値の高まりは失いたくないと言います。自信を持ち、進化の方に向かい、生産的で技術的なコラボレーションを実現することは、きっと可能なはずです。Kent自身、キャリアのスタート時には及びもつかなかったような状態に、今の自分があると実感できているということです。</p>
+<p>Davidは、TDDやXP、そしてRuby、これらいくつかのものが同時に起こったと言います。プログラミングは楽しくあるべきという彼の考えは、人に笑われることもありますが、Railsの展開において、彼はその考えを持ち続けていきたいようです。現状、Rubyの世界は、その幸せの謳歌を当然と見なしていると彼は考えています。つまり、Agileのように勝利したというわけです。私は、Agileが勝利したとは思いません。どちらかと言えば、名前が知れたというだけかと思います。多くの人がAgileに手を付けていると言いますが、実際はそうではないはずです。こういうことはよくあることで、私はこれを<a href="http://martinfowler.com/bliki/SemanticDiffusion.html">semantic diffusion</a>（意味の希薄化）のプロセスと呼んでいます。何が大きな勝利かというと、クライアントに対して公然とAgileを使えるようになったことでしょうか。Davidは、先ほどのリブート問題を別の見方で考察します。まず彼は、10年後には粗悪なプログラムであふれるだろうと言い、Pinkberry（フローズンヨーグルトの会社）の例を挙げて説明しました。Pinkberryの創業時にはフレーバーが2つだけたったのに、見る見るうちに他の競合企業と同じように、フレーバーの種類は複雑になっていきました。「ほとんどの人は、いいアイデアをそのままにしておくことができない」のです。TDDとAgileは、現在、広く使われていますが、Agileを使っていると言う人は、実際は逆のことをしていると言っても過言ではないのかもしれません。ただし、Kentによれば、TDDに関してはDavidが指摘したようなことは彼自身、経験しておらず、最初の原則から離れることなくTDDを適用していると述べました。</p>
+<p>ここでKentがDavidに対して、感謝の意を表します。TDDの周りにフジツボが固着しつつあり、それをこすり落とす必要があることを彼が取り上げてくれたからです。Davidは、Railsでも似たような問題はあると言い、基本の形態でRailsを使う彼には、驚くような使用例がいくつかあったことを述べました。Kentは、XPが注目された最初のOOPSLA（ACMが毎年開催する国際会議）において、Jim Rumbaughが語った「10年後にXPがどうなっているかは、誰にも分からない」という発言に言及し、それが正しかったことを改めて確認します。それを受けて、私は「これが成功の形で、そうでない場合、物事は軌道に乗らない。その技術に固有の弊害、または誤用によって、どんな悪いことが将来的に起こるかなんて、誰だって予言するのは難しいものだ」と続けました。私たちができることと言えば、基本や教訓を忠実に繰り返し続けるということのみです。Davidは、「英雄となって死ぬか、悪人となるか」と言い、私の発言に同意を示します。Rubyは、プログラミングの優れたアイデアをリブートして作られたものです。そして、関数型言語も別の形のリブートと言えるでしょう。これらのリブートは健全です。Davidは、RailsやTDDの寿命の長さに驚いています。彼がRailsの前に使っていた言語はPHPで、適切に使えば非常にいいコードを書くことができますが、彼にとっては他の言語の方がもっといい使い方ができると思えるものだったようです。その彼も、MVCモデルのWebアプリケーションでTDDをうまく使うのは、PHPでクリーンコードを書くよりも難しいと言います。</p>
+<p>これに対してKentは、小さな問題を実用的に抽象化できる時には、常にTDDが適用できると反論しました。彼は、プログラミングに全自己を投入するという大きなゴールへと至る他の道も模索したいと考えています。そして、今後もさまざまな実験（過剰、または不十分な実施、安全地帯の探索、そして理由の理解）をしながらこの探求を続けるようです。彼は「TDDは終わっていない」と言ってDavidの意見に真っ向から対立しながらも、Davidが火を付けてくれたおかげでTDDが不死鳥のようによみがえったことには感謝しています。</p>
+<p>ここで、この議論を始めた理由をDavidが説明しました。それは、多くの開発者が、TDDが有効でない事例を話したがらないということです。TDDはマストで、公に非難しにくい状況があるというわけですね。彼は、そういった反応の受け皿を作れば、TDDが適切な場合と不適切な場合についての議論ができるのではないかと考えました。インターネット上では多くの人がTDDの有用性を語っていますが、欠点の指摘などは見かけることがありませんからね。ただしDavidにとっては、TDDを批判したとしても、セルフテスティングコードは大事なものであり、それだけは欠かすことができないもののようです。</p>
+<p>最後に私が結論をまとめました。私たちには（当初、予測したように）お互いに同意する点が数多く存在します。例えばセルフテスティングコードの重要性、そして一定のコンテキスト下におけるTDDの有用性の認識。ただし、コンテキストの数（どのコンテキストでTTDが不適切かを挙げること）については意見が食い違うかもしれません。いずれにしろ、全てはある一点に集約されると思います。ソフトウェアの開発に関わるのであれば、それについて思慮深く考え、技術をやみくもに選ばずに、自分やチームにとって何が機能するのかという判断に基づいてワークスペースを構築しなければならないということです。まずはそのテクニックを試し、実際に使って、とことん突き詰めることで、その有効さを見極めてください。私たちが属しているのは体系的な科学の領域ではありません。自分たちの経験がものを言う世界なのです。</p>
+</div>
+]]></content:encoded>
+		<wfw:commentRss>https://postd.cc/is-tdd-dead-part-2/feed/</wfw:commentRss>
+		<slash:comments>0</slash:comments>
+		<enclosure url="http://assets.thoughtworks.com/podcast/is-tdd-dead-episode-4-27-may-2014.mp3" length="41558644" type="audio/mpeg" />
+		<itunes:subtitle>本エントリは翻訳リクエストより投稿いただきました。 ありがとうございます！リクエストまだまだお待ちしております！ ---- - 前編は[こちら](http://postd.cc/is-tdd-dead-part1/)です - ##4：テストに伴うコスト - 2014年5月27日 - audio 今回のテーマは、テストとTDDのマイナス面です。テストをやりすぎることがあるか、そして機能的なコードよりテストを重視するチームには問題があるかという点について議論しました。 </itunes:subtitle>
+		<itunes:summary>本エントリは&lt;a href=&quot;http://board.postd.cc/entries/new&quot; target=&quot;_blank&quot;&gt;翻訳リクエスト&lt;/a&gt;より投稿いただきました。
+ありがとうございます！リクエストまだまだお待ちしております！
+
+
+----
+
+前編は[こちら](http://postd.cc/is-tdd-dead-part1/)です
+
+##4：テストに伴うコスト
+
+2014年5月27日
+
+
+
+&lt;a href=&quot;http://assets.thoughtworks.com/podcast/is-tdd-dead-episode-4-27-may-2014.mp3&quot;&gt;audio&lt;/a&gt;
+今回のテーマは、テストとTDDのマイナス面です。テストをやりすぎることがあるか、そして機能的なコードよりテストを重視するチームには問題があるかという点について議論しました。
+
+###議事録
+
+Davidが会話の口火を切りました。「トレードオフについて話すなら、当然そのマイナス面について理解しなければならない。なぜなら、欠点のないトレードオフは存在しないからだ」　このあと彼は続けて、TDDは開発者に何かを強制するわけではないが、ある一定の方向に導くことは確かだと言いました。それから、最初の問題点として、テストの過剰な実施を取り上げました。TDDでよく言われるのは、テストに失敗せずして1行のコードも書くべきでないということです。Davidも当初はこの考え方を合理的だと思っていましたが、そのうち、テストをやり過ぎる傾向が出てきました。例えば、1行の本番用コードに対してテストコードが4行もあるようなケースです。こうなると、振る舞いを変えたい時には、より多くのコードを変更しなければなりません。Davidは、「テストを書くことで給料をもらっているわけじゃない。テストを書くのは自信をつけるためだ」というKentの言葉を取り上げて、Kentと私に、全ての本番用コードに対して逐一テストを書くのか尋ねました。
+
+Kentは「場合による」と返答し、「恐らく、これからどんな興味深い質問をされても、私はそう答えるんじゃないか」と続けました。JUnitでテストファーストを忠実に行えば、十分に満足できる結果が得られるため、TDDを使うからといって、テストが常に過剰になるとは限らない、というのが彼の意見です。Herb Derbyは、それぞれのテストがカバーする固有の対象範囲を差分カバレッジという言葉で提起しており、差分カバレッジがゼロのテストは、何らかのコミュニケーション用途を提供でもしない限り、削除すべきだとしています。Kentによると、彼はsystem-yのテストを書き、それを実装するためのコードを書き、リファクタリングをし、最終的に当初のテストを放り出すことがよくあるそうです。テストを放り出すと聞くと、多くの人が取り乱すほどに驚きますが、それが何の利益も生み出さないのであれば、捨ててしまった方がいいでしょう。複数の方法で同じことがテストされる場合、それは結合しているということで、それだけコストがかさむわけですからね。
+
+私は、コードが過剰にテストされることは確かにあると言いました。例を挙げろと言われれば、ThoughtWorksは非常にテストを重視するため、それに当てはまるでしょう。適度な実施というのはなかなかに難しく、多すぎることもあれば逆に少なすぎることもあります。極端に過剰でなければ、私自身は多すぎるのを好む方です。コードの全ての行をテストするという点については、「もし任意の1行を不適切にいじった場合、テストは失敗するか？」という問題を考え、折に触れて、ある行を意図的にコメントアウトしたり、条件節を逆転させたりして、テストが実際に失敗するかを試してみることがあります。もう1つのメンタルテスト（Kentから教えてもらいました）として、破損する可能性のあるものだけを見繕ってテストしたりもします。ライブラリは（それが相当に悪い状態でなければ）動作するのを前提として考えていますが、これについても、ライブラリの使い方を間違えた場合、その誤用でどのような重大な問題が起こるか、ということを試すことがあります。
+
+Kentは、テストコードの行数と本番用コードの行数の比率は、あてにならない指標だと断言しました。そのような考えに至った理由として彼が挙げたのが、Christopher Glaeserがコンパイラを書いているのを見た経験です。Christopherはコンパイラの各行に対して、テストコードを4行ずつ書いていたそうです。なぜかというと、コンパイラの結合度が高いためで、シンプルなシステムであれば、もっと小さな比率でも済むでしょう。Davidは、コード内の1行のコメントアウトを検出するということは、テストカバレッジが100％だということを意味すると言いました。破損の可能性のあるものは追及に値するという意見については、Railsの宣言文はテストに値するほどの破損の原因にはならないので、カバレッジが100％よりかなり低くても、彼にとっては問題ないということです。
+
+私は、「自信を持ってコードを変更できないのなら、テストが十分でない（あるいは、適切でない）」と返答し、「コードを変更する時に、コード自体よりもテストの変更に労力を費やしていると感じる時が、過剰の兆候」だと言いました。望ましい状態を維持するには、自分やチームのメンバーがどのようなミスを犯しがちで、問題にならないミスはどのようなものかを経験的に知らなければなりません。私自身は、自分のやり方に不安を覚えた時には、「コードの1行をコメントアウトする」アプローチが気に入っていると述べました。そこをスタート地点として、環境に入り込んで試行錯誤をしていくうちに、よりよい解決策を発見できるからです。Davidは、このチューニングは、変化の少ない生産チームと、コードを第三者に渡す必要があり、そのためにより多くのテストが必要なコンサルタントチームでは異なると感じていると言います。Kentは、テストファーストの規律を学ぶのはいいことだと考えています。それが、開発の困難な部分を切り開く、4WDのローギア並みの推進力となるからです。
+
+ここでDavidが次の問題を取り上げました。以前は、多くの人が、コードよりもドキュメンテーションを重視していましたが、現在、彼が気にかけているのは、多くの人が、機能的なコードよりもテストを重視しているということです。これに関連して、TDDサイクルにおけるリファクタリングを軽んじる傾向も同じく問題として挙げています。これらの要因が、コードをクリアにする作業やリファクタリングに十分なエネルギーが注がれていない現状をもたらしたと言えるでしょう。Kentは、一部の本番用コードを捨てたものの、テストをそのまま維持して再実装したエピソードを語ってくれました。新しいコードがうまく動くかどうかは、テストにより分かるため、彼は、この手法を本当に気に入っているようです。ここで興味深い新たな疑問が生まれます。それは、本番用コードを捨ててテストを維持するのか、あるいはその逆なのかということですが、これについても、時と場合により答えは異なるでしょう。
+
+テストを読むことで、コードの挙動を理解することがあると私は言いました。一方が他方よりも優れているとか、そのように思っているわけではありません。大事な点は、ダブルチェックで、双方にミスマッチがあれば何らかのエラーが判明するということです。私はDavidの意見、つまり、場合によってはチームがユーザのサポートよりもテスト環境により多くのエネルギーを注ぎ込むという悪しき傾向があることに同意します。テストというのは目的達成の手段であるべきです。ところで、コードをクリアにするのは本当に刺激的なことですが、最もテンションが上がるのは、新たな機能を追加する時です。大変に思えるかもしれませんが、コードがクリアでありさえすれば、案外簡単にできてしまいます。ただし、コードをクリアにするということと刺激を得るということには違いがあります。KentはこれをJeff Eastmanの事例で示してくれましたが、言葉で説明するには、なかなかに難しい内容でした。彼は設計を大幅にシンプル化することで勢いを得ることができると言います。しかし、新しいテスト動作の価値を説明するのは簡単でも、設計のクリーニングについての価値を語るのは難しいと感じているようです。
+
+Davidは、設計の質を数字で表すことはできないと指摘する一方で、それでも私たちが数量化できるものに注力する傾向を挙げました。つまり多くの人が、本来であればリストの下位に属するもの、例えばテストの速度やカバレッジ、そして比率などを優先する傾向があるというわけです。これらはある意味、色仕掛け的な罠とも言えるもので、その誘惑には注意を払う必要があります。でなければCucumber（Rubyのテストツール、キュウリの意味も）がヤギを虜にし、本番用のコードよりもテスト環境が栄える結果となるのです。実際には、それらは非技術系のステークホルダー（利害関係者）と一緒にテストを書くという、架空の場所でしか役に立ちません。以前であれば、TDDを売り込むことが重要なことでしたが、既に十分な浸透を見せています。これからはその欠点を探すことが必要です。ただし、多くの場所で、TDDはいまだ台頭していないという声も聞くに及び、私はTDDが主流である...</itunes:summary>
+		<itunes:author>POSTD</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		</item>
+</channel>
+</rss>

@@ -1,0 +1,290 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://tachikawa.soramugi.net/wp-content/plugins/seriously-simple-podcasting/templates/feed-stylesheet.xsl"?>
+<rss version="2.0"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/"
+     xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+     xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+     xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+     xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+	
+	<channel>
+		<title>立川の環境音</title>
+		<atom:link href="https://tachikawa.soramugi.net/feed/podcast/tachikawas-environmental-sound" rel="self" type="application/rss+xml"/>
+		<link>https://tachikawa.soramugi.net/</link>
+		<description>街中の雑音</description>
+		<lastBuildDate>Sat, 16 Mar 2019 06:10:17 +0000</lastBuildDate>
+		<language>ja</language>
+		<copyright>© 2017 タチカワサイド</copyright>
+		<itunes:subtitle>作業用BGMとしての環境音</itunes:subtitle>
+		<itunes:author>soramugi</itunes:author>
+				<googleplay:author>soramugi</googleplay:author>
+		<googleplay:email>soramugi.chika@gmail.com</googleplay:email>
+		<itunes:summary>街中の雑音</itunes:summary>
+		<googleplay:description>街中の雑音</googleplay:description>
+		<itunes:owner>
+			<itunes:name>soramugi</itunes:name>
+			<itunes:email>soramugi.chika@gmail.com</itunes:email>
+		</itunes:owner>
+		<itunes:explicit>clean</itunes:explicit>
+		<googleplay:explicit>No</googleplay:explicit>
+					<itunes:image href="https://tachikawa.soramugi.net/wp-content/uploads/2017/06/IMG_0477-1.jpg"></itunes:image>
+			<googleplay:image href="https://tachikawa.soramugi.net/wp-content/uploads/2017/06/IMG_0477-1.jpg"></googleplay:image>
+			<image>
+				<url>https://tachikawa.soramugi.net/wp-content/uploads/2017/06/IMG_0477-1.jpg</url>
+				<title>立川の環境音</title>
+				<link>https://tachikawa.soramugi.net/</link>
+			</image>
+					<itunes:category text="Music">
+							</itunes:category>
+								<generator>https://wordpress.org/?v=5.1.1</generator>
+<site xmlns="com-wordpress:feed-additions:1">121641004</site>				<item>
+					<title>016 夜の立川北口公園でビールを飲みながら</title>
+					<link>https://tachikawa.soramugi.net/archives/ポッドキャスト/016-%e5%a4%9c%e3%81%ae%e7%ab%8b%e5%b7%9d%e5%8c%97%e5%8f%a3%e5%85%ac%e5%9c%92%e3%81%a7%e3%83%93%e3%83%bc%e3%83%ab%e3%82%92%e9%a3%b2%e3%81%bf%e3%81%aa%e3%81%8c%e3%82%89</link>
+					<pubDate>Sat, 18 Aug 2018 09:58:50 +0000</pubDate>
+					<dc:creator>soramugi</dc:creator>
+					<guid isPermaLink="false">https://tachikawa.soramugi.net/?post_type=podcast&#038;p=548</guid>
+					<description><![CDATA[キリンビール]]></description>
+					<itunes:subtitle><![CDATA[キリンビール]]></itunes:subtitle>
+																														<content:encoded><![CDATA[
+<p>キリンビール</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[
+<p>キリンビール</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[
+<p>キリンビール</p>
+]]></googleplay:description>
+											<itunes:image href="https://i0.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/08/IMG_4841.jpg?fit=3024%2C4032&#038;ssl=1"></itunes:image>
+						<googleplay:image href="https://i0.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/08/IMG_4841.jpg?fit=3024%2C4032&#038;ssl=1"></googleplay:image>
+										<enclosure url="https://tachikawa.soramugi.net/podcast-download/548/016-%e5%a4%9c%e3%81%ae%e7%ab%8b%e5%b7%9d%e5%8c%97%e5%8f%a3%e5%85%ac%e5%9c%92%e3%81%a7%e3%83%93%e3%83%bc%e3%83%ab%e3%82%92%e9%a3%b2%e3%81%bf%e3%81%aa%e3%81%8c%e3%82%89.mp3" length="4847698" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>10:06</itunes:duration>
+					<itunes:author>soramugi</itunes:author>
+				</item>
+							<item>
+					<title>015 仕事終わりのシネマシティ前の通り</title>
+					<link>https://tachikawa.soramugi.net/archives/ポッドキャスト/015-%e4%bb%95%e4%ba%8b%e7%b5%82%e3%82%8f%e3%82%8a%e3%81%ae%e3%82%b7%e3%83%8d%e3%83%9e%e3%82%b7%e3%83%86%e3%82%a3%e5%89%8d%e3%81%ae%e9%80%9a%e3%82%8a</link>
+					<pubDate>Tue, 31 Jul 2018 23:48:29 +0000</pubDate>
+					<dc:creator>soramugi</dc:creator>
+					<guid isPermaLink="false">https://tachikawa.soramugi.net/?post_type=podcast&#038;p=525</guid>
+					<description><![CDATA[祭りの準備中?]]></description>
+					<itunes:subtitle><![CDATA[祭りの準備中?]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<p>祭りの準備中?</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>祭りの準備中?</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>祭りの準備中?</p>
+]]></googleplay:description>
+											<itunes:image href="https://i0.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/08/IMG_4689.png?fit=640%2C480&#038;ssl=1"></itunes:image>
+						<googleplay:image href="https://i0.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/08/IMG_4689.png?fit=640%2C480&#038;ssl=1"></googleplay:image>
+										<enclosure url="https://tachikawa.soramugi.net/podcast-download/525/015-%e4%bb%95%e4%ba%8b%e7%b5%82%e3%82%8f%e3%82%8a%e3%81%ae%e3%82%b7%e3%83%8d%e3%83%9e%e3%82%b7%e3%83%86%e3%82%a3%e5%89%8d%e3%81%ae%e9%80%9a%e3%82%8a.mp3" length="5048319" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>10:31</itunes:duration>
+					<itunes:author>soramugi</itunes:author>
+				</item>
+							<item>
+					<title>014 まんパク開催中の昭和記念公園の無料ゾーン</title>
+					<link>https://tachikawa.soramugi.net/archives/ポッドキャスト/014-%e3%81%be%e3%82%93%e3%83%91%e3%82%af%e9%96%8b%e5%82%ac%e4%b8%ad%e3%81%ae%e6%98%ad%e5%92%8c%e8%a8%98%e5%bf%b5%e5%85%ac%e5%9c%92%e3%81%ae%e7%84%a1%e6%96%99%e3%82%be%e3%83%bc%e3%83%b3</link>
+					<pubDate>Sun, 27 May 2018 06:23:15 +0000</pubDate>
+					<dc:creator>soramugi</dc:creator>
+					<guid isPermaLink="false">https://tachikawa.soramugi.net/?post_type=podcast&#038;p=476</guid>
+					<description><![CDATA[カップルが多いですね]]></description>
+					<itunes:subtitle><![CDATA[カップルが多いですね]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<p>カップルが多いですね</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>カップルが多いですね</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>カップルが多いですね</p>
+]]></googleplay:description>
+											<itunes:image href="https://i2.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/05/IMG_4076.png?fit=4032%2C3024&#038;ssl=1"></itunes:image>
+						<googleplay:image href="https://i2.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/05/IMG_4076.png?fit=4032%2C3024&#038;ssl=1"></googleplay:image>
+										<enclosure url="https://tachikawa.soramugi.net/podcast-download/476/014-%e3%81%be%e3%82%93%e3%83%91%e3%82%af%e9%96%8b%e5%82%ac%e4%b8%ad%e3%81%ae%e6%98%ad%e5%92%8c%e8%a8%98%e5%bf%b5%e5%85%ac%e5%9c%92%e3%81%ae%e7%84%a1%e6%96%99%e3%82%be%e3%83%bc%e3%83%b3.mp3" length="5354683" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>11:09</itunes:duration>
+					<itunes:author>soramugi</itunes:author>
+				</item>
+							<item>
+					<title>013 土曜日の天気がいい若葉ケヤキモール近く</title>
+					<link>https://tachikawa.soramugi.net/archives/ポッドキャスト/013-%e5%9c%9f%e6%9b%9c%e6%97%a5%e3%81%ae%e5%a4%a9%e6%b0%97%e3%81%8c%e3%81%84%e3%81%84%e8%8b%a5%e8%91%89%e3%82%b1%e3%83%a4%e3%82%ad%e3%83%a2%e3%83%bc%e3%83%ab%e8%bf%91%e3%81%8f</link>
+					<pubDate>Sun, 04 Mar 2018 07:23:03 +0000</pubDate>
+					<dc:creator>soramugi</dc:creator>
+					<guid isPermaLink="false">https://tachikawa.soramugi.net/?post_type=podcast&#038;p=396</guid>
+					<description><![CDATA[パン屋にたまにいきます]]></description>
+					<itunes:subtitle><![CDATA[パン屋にたまにいきます]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<p>パン屋にたまにいきます</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>パン屋にたまにいきます</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>パン屋にたまにいきます</p>
+]]></googleplay:description>
+											<itunes:image href="https://i2.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/03/IMG_3538.jpg?fit=4032%2C3024&#038;ssl=1"></itunes:image>
+						<googleplay:image href="https://i2.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/03/IMG_3538.jpg?fit=4032%2C3024&#038;ssl=1"></googleplay:image>
+										<enclosure url="https://tachikawa.soramugi.net/podcast-download/396/013-%e5%9c%9f%e6%9b%9c%e6%97%a5%e3%81%ae%e5%a4%a9%e6%b0%97%e3%81%8c%e3%81%84%e3%81%84%e8%8b%a5%e8%91%89%e3%82%b1%e3%83%a4%e3%82%ad%e3%83%a2%e3%83%bc%e3%83%ab%e8%bf%91%e3%81%8f.mp3" length="4871522" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>10:09</itunes:duration>
+					<itunes:author>soramugi</itunes:author>
+				</item>
+							<item>
+					<title>012 土曜日夜のタクロス前</title>
+					<link>https://tachikawa.soramugi.net/archives/ポッドキャスト/012-%e5%9c%9f%e6%9b%9c%e6%97%a5%e5%a4%9c%e3%81%ae%e3%82%bf%e3%82%af%e3%83%ad%e3%82%b9%e5%89%8d</link>
+					<pubDate>Sat, 24 Feb 2018 02:49:12 +0000</pubDate>
+					<dc:creator>soramugi</dc:creator>
+					<guid isPermaLink="false">https://tachikawa.soramugi.net/?post_type=podcast&#038;p=388</guid>
+					<description><![CDATA[インスタキャンペーンか何かで光り物がありました]]></description>
+					<itunes:subtitle><![CDATA[インスタキャンペーンか何かで光り物がありました]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<p>インスタキャンペーンか何かで光り物がありました</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>インスタキャンペーンか何かで光り物がありました</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>インスタキャンペーンか何かで光り物がありました</p>
+]]></googleplay:description>
+											<itunes:image href="https://i0.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/02/IMG_3436.jpg?fit=4032%2C3024&#038;ssl=1"></itunes:image>
+						<googleplay:image href="https://i0.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/02/IMG_3436.jpg?fit=4032%2C3024&#038;ssl=1"></googleplay:image>
+										<enclosure url="https://tachikawa.soramugi.net/podcast-download/388/012-%e5%9c%9f%e6%9b%9c%e6%97%a5%e5%a4%9c%e3%81%ae%e3%82%bf%e3%82%af%e3%83%ad%e3%82%b9%e5%89%8d.mp3" length="4498075" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>9:22</itunes:duration>
+					<itunes:author>soramugi</itunes:author>
+				</item>
+							<item>
+					<title>011 モノレールが見える冬の多摩川サイクリングロード</title>
+					<link>https://tachikawa.soramugi.net/archives/ポッドキャスト/010-%e3%83%a2%e3%83%8e%e3%83%ac%e3%83%bc%e3%83%ab%e3%81%8c%e8%a6%8b%e3%81%88%e3%82%8b%e5%86%ac%e3%81%ae%e5%a4%9a%e6%91%a9%e5%b7%9d%e3%82%b5%e3%82%a4%e3%82%af%e3%83%aa%e3%83%b3%e3%82%b0%e3%83%ad</link>
+					<pubDate>Sat, 03 Feb 2018 22:50:38 +0000</pubDate>
+					<dc:creator>soramugi</dc:creator>
+					<guid isPermaLink="false">https://tachikawa.soramugi.net/?post_type=podcast&#038;p=364</guid>
+					<description><![CDATA[サッカーボールの壁打ちしてた]]></description>
+					<itunes:subtitle><![CDATA[サッカーボールの壁打ちしてた]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<p>サッカーボールの壁打ちしてた</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>サッカーボールの壁打ちしてた</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>サッカーボールの壁打ちしてた</p>
+]]></googleplay:description>
+											<itunes:image href="https://i0.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/02/IMG_3367.jpg?fit=4032%2C3024&#038;ssl=1"></itunes:image>
+						<googleplay:image href="https://i0.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/02/IMG_3367.jpg?fit=4032%2C3024&#038;ssl=1"></googleplay:image>
+										<enclosure url="https://tachikawa.soramugi.net/podcast-download/364/010-%e3%83%a2%e3%83%8e%e3%83%ac%e3%83%bc%e3%83%ab%e3%81%8c%e8%a6%8b%e3%81%88%e3%82%8b%e5%86%ac%e3%81%ae%e5%a4%9a%e6%91%a9%e5%b7%9d%e3%82%b5%e3%82%a4%e3%82%af%e3%83%aa%e3%83%b3%e3%82%b0%e3%83%ad.mp3" length="5199411" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>10:50</itunes:duration>
+					<itunes:author>soramugi</itunes:author>
+				</item>
+							<item>
+					<title>010 モノレール立川北駅下に通ってる薄暗いコンコース</title>
+					<link>https://tachikawa.soramugi.net/archives/ポッドキャスト/010-%e3%83%a2%e3%83%8e%e3%83%ac%e3%83%bc%e3%83%ab%e7%ab%8b%e5%b7%9d%e5%8c%97%e9%a7%85%e4%b8%8b%e3%81%ab%e9%80%9a%e3%81%a3%e3%81%a6%e3%82%8b%e8%96%84%e6%9a%97%e3%81%84%e3%82%b3%e3%83%b3%e3%82%b3</link>
+					<pubDate>Sun, 21 Jan 2018 23:29:42 +0000</pubDate>
+					<dc:creator>soramugi</dc:creator>
+					<guid isPermaLink="false">https://tachikawa.soramugi.net/?post_type=podcast&#038;p=352</guid>
+					<description><![CDATA[なぜあんなに薄暗いのか]]></description>
+					<itunes:subtitle><![CDATA[なぜあんなに薄暗いのか]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<p>なぜあんなに薄暗いのか</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>なぜあんなに薄暗いのか</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>なぜあんなに薄暗いのか</p>
+]]></googleplay:description>
+											<itunes:image href="https://i1.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/01/IMG_3326.jpg?fit=4032%2C3024&#038;ssl=1"></itunes:image>
+						<googleplay:image href="https://i1.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/01/IMG_3326.jpg?fit=4032%2C3024&#038;ssl=1"></googleplay:image>
+										<enclosure url="https://tachikawa.soramugi.net/podcast-download/352/010-%e3%83%a2%e3%83%8e%e3%83%ac%e3%83%bc%e3%83%ab%e7%ab%8b%e5%b7%9d%e5%8c%97%e9%a7%85%e4%b8%8b%e3%81%ab%e9%80%9a%e3%81%a3%e3%81%a6%e3%82%8b%e8%96%84%e6%9a%97%e3%81%84%e3%82%b3%e3%83%b3%e3%82%b3.mp3" length="4874239" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>10:09</itunes:duration>
+					<itunes:author>soramugi</itunes:author>
+				</item>
+							<item>
+					<title>009 仕事終わりのファーレ立川アート街の散歩</title>
+					<link>https://tachikawa.soramugi.net/archives/ポッドキャスト/009-%e4%bb%95%e4%ba%8b%e7%b5%82%e3%82%8f%e3%82%8a%e3%81%ae%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ac%e7%ab%8b%e5%b7%9d%e3%82%a2%e3%83%bc%e3%83%88%e8%a1%97%e3%81%ae%e6%95%a3%e6%ad%a9</link>
+					<pubDate>Wed, 10 Jan 2018 14:22:29 +0000</pubDate>
+					<dc:creator>soramugi</dc:creator>
+					<guid isPermaLink="false">https://tachikawa.soramugi.net/?post_type=podcast&#038;p=340</guid>
+					<description><![CDATA[薄くてデカイのが好き]]></description>
+					<itunes:subtitle><![CDATA[薄くてデカイのが好き]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<p>薄くてデカイのが好き</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>薄くてデカイのが好き</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>薄くてデカイのが好き</p>
+]]></googleplay:description>
+											<itunes:image href="https://i2.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/01/IMG_3276.jpg?fit=3024%2C4032&#038;ssl=1"></itunes:image>
+						<googleplay:image href="https://i2.wp.com/tachikawa.soramugi.net/wp-content/uploads/2018/01/IMG_3276.jpg?fit=3024%2C4032&#038;ssl=1"></googleplay:image>
+										<enclosure url="https://tachikawa.soramugi.net/podcast-download/340/009-%e4%bb%95%e4%ba%8b%e7%b5%82%e3%82%8f%e3%82%8a%e3%81%ae%e3%83%95%e3%82%a1%e3%83%bc%e3%83%ac%e7%ab%8b%e5%b7%9d%e3%82%a2%e3%83%bc%e3%83%88%e8%a1%97%e3%81%ae%e6%95%a3%e6%ad%a9.mp3" length="5097220" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>10:37</itunes:duration>
+					<itunes:author>soramugi</itunes:author>
+				</item>
+							<item>
+					<title>008 冬の天気がいい寒い日の鬼公園</title>
+					<link>https://tachikawa.soramugi.net/archives/ポッドキャスト/008-%e5%86%ac%e3%81%ae%e5%a4%a9%e6%b0%97%e3%81%8c%e3%81%84%e3%81%84%e5%af%92%e3%81%84%e6%97%a5%e3%81%ae%e9%ac%bc%e5%85%ac%e5%9c%92</link>
+					<pubDate>Sun, 17 Dec 2017 05:47:25 +0000</pubDate>
+					<dc:creator>soramugi</dc:creator>
+					<guid isPermaLink="false">https://tachikawa.soramugi.net/?post_type=podcast&#038;p=319</guid>
+					<description><![CDATA[寒かったけど天気がいいので子供が沢山いました]]></description>
+					<itunes:subtitle><![CDATA[寒かったけど天気がいいので子供が沢山いました]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<p>寒かったけど天気がいいので子供が沢山いました</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>寒かったけど天気がいいので子供が沢山いました</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>寒かったけど天気がいいので子供が沢山いました</p>
+]]></googleplay:description>
+											<itunes:image href="https://i2.wp.com/tachikawa.soramugi.net/wp-content/uploads/2017/12/IMG_3039.jpg?fit=4032%2C3024&#038;ssl=1"></itunes:image>
+						<googleplay:image href="https://i2.wp.com/tachikawa.soramugi.net/wp-content/uploads/2017/12/IMG_3039.jpg?fit=4032%2C3024&#038;ssl=1"></googleplay:image>
+										<enclosure url="https://tachikawa.soramugi.net/podcast-download/319/008-%e5%86%ac%e3%81%ae%e5%a4%a9%e6%b0%97%e3%81%8c%e3%81%84%e3%81%84%e5%af%92%e3%81%84%e6%97%a5%e3%81%ae%e9%ac%bc%e5%85%ac%e5%9c%92.mp3" length="4880926" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>10:10</itunes:duration>
+					<itunes:author>soramugi</itunes:author>
+				</item>
+							<item>
+					<title>007 雨が降って寒くなった後の諏訪神社の近く</title>
+					<link>https://tachikawa.soramugi.net/archives/ポッドキャスト/007-%e9%9b%a8%e3%81%8c%e9%99%8d%e3%81%a3%e3%81%a6%e5%af%92%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e5%be%8c%e3%81%ae%e8%ab%8f%e8%a8%aa%e7%a5%9e%e7%a4%be%e3%81%ae%e8%bf%91%e3%81%8f</link>
+					<pubDate>Sun, 15 Oct 2017 08:47:59 +0000</pubDate>
+					<dc:creator>soramugi</dc:creator>
+					<guid isPermaLink="false">https://tachikawa.soramugi.net/?post_type=podcast&#038;p=238</guid>
+					<description><![CDATA[鳥いた]]></description>
+					<itunes:subtitle><![CDATA[鳥いた]]></itunes:subtitle>
+																														<content:encoded><![CDATA[<p>鳥いた</p>
+]]></content:encoded>
+					<itunes:summary><![CDATA[<p>鳥いた</p>
+]]></itunes:summary>
+					<googleplay:description><![CDATA[<p>鳥いた</p>
+]]></googleplay:description>
+											<itunes:image href="https://i0.wp.com/tachikawa.soramugi.net/wp-content/uploads/2017/10/IMG_2686.jpg?fit=4032%2C3024&#038;ssl=1"></itunes:image>
+						<googleplay:image href="https://i0.wp.com/tachikawa.soramugi.net/wp-content/uploads/2017/10/IMG_2686.jpg?fit=4032%2C3024&#038;ssl=1"></googleplay:image>
+										<enclosure url="https://tachikawa.soramugi.net/podcast-download/238/007-%e9%9b%a8%e3%81%8c%e9%99%8d%e3%81%a3%e3%81%a6%e5%af%92%e3%81%8f%e3%81%aa%e3%81%a3%e3%81%9f%e5%be%8c%e3%81%ae%e8%ab%8f%e8%a8%aa%e7%a5%9e%e7%a4%be%e3%81%ae%e8%bf%91%e3%81%8f.mp3" length="4877791" type="audio/mpeg"></enclosure>
+					<itunes:explicit>clean</itunes:explicit>
+					<googleplay:explicit>No</googleplay:explicit>
+					<itunes:block>no</itunes:block>
+					<googleplay:block>no</googleplay:block>
+					<itunes:duration>10:10</itunes:duration>
+					<itunes:author>soramugi</itunes:author>
+				</item>
+				</channel>
+</rss>

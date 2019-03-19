@@ -1,0 +1,779 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+xmlns:georss="http://www.georss.org/georss" xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+>
+
+<channel>
+	<title>TEAM toiee Lab チャネル &#8211; toiee Lab</title>
+	<atom:link href="https://toiee.jp/series/team-toieelab/feed/" rel="self" type="application/rss+xml" />
+	<link>https://toiee.jp</link>
+	<description>共に学ぼう、明日のために</description>
+	<lastBuildDate>
+	Tue, 19 Mar 2019 03:31:33 +0000	</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>https://i1.wp.com/toiee.jp/wp-content/uploads/2018/03/toiee-logo-square.png?fit=32%2C32&#038;ssl=1</url>
+	<title>TEAM toiee Lab チャネル &#8211; toiee Lab</title>
+	<link>https://toiee.jp</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+	<item>
+		<title>2019.FILM振り返り会 フィードバック 池藤さん、キャシーさん、しんさん、西くん、リュウ</title>
+		<link>https://toiee.jp/podcast/2019-film%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e4%bc%9a-%e3%83%95%e3%82%a3%e3%83%bc%e3%83%89%e3%83%90%e3%83%83%e3%82%af-%e6%b1%a0%e8%97%a4%e3%81%95%e3%82%93%e3%80%81%e3%82%ad%e3%83%a3%e3%82%b7%e3%83%bc/</link>
+				<pubDate>Sun, 17 Mar 2019 08:13:45 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=26119</guid>
+				<description><![CDATA[<p>・2019.FILM振り返り会 フィードバックです。</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-film%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e4%bc%9a-%e3%83%95%e3%82%a3%e3%83%bc%e3%83%89%e3%83%90%e3%83%83%e3%82%af-%e6%b1%a0%e8%97%a4%e3%81%95%e3%82%93%e3%80%81%e3%82%ad%e3%83%a3%e3%82%b7%e3%83%bc/">2019.FILM振り返り会 フィードバック 池藤さん、キャシーさん、しんさん、西くん、リュウ</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/324499505.sd.mp4?s=64cae49cf9b52b16db10c8c932c95f3383289bb9&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.3.15 Slackを盛り上げる方法 振り返り</title>
+		<link>https://toiee.jp/podcast/2019-3-15-slack%e3%82%92%e7%9b%9b%e3%82%8a%e4%b8%8a%e3%81%92%e3%82%8b%e6%96%b9%e6%b3%95-%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a/</link>
+				<pubDate>Sat, 16 Mar 2019 04:37:13 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=26099</guid>
+				<description><![CDATA[<p>&#8211; スクラムSlackの体験フィードバック &#8211; 久しぶりに参加した小野さんか...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-3-15-slack%e3%82%92%e7%9b%9b%e3%82%8a%e4%b8%8a%e3%81%92%e3%82%8b%e6%96%b9%e6%b3%95-%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a/">2019.3.15 Slackを盛り上げる方法 振り返り</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/324187669.hd.mp4?s=0dddc668390a0225f7f7ee45608d3171c2120384&#038;profile_id=174" length="0" type="" />
+			</item>
+		<item>
+		<title>ワークショップの収録ビデオをvimeoにあげる方法</title>
+		<link>https://toiee.jp/podcast/%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%81%ae%e5%8f%8e%e9%8c%b2%e3%83%93%e3%83%87%e3%82%aa%e3%82%92vimeo%e3%81%ab%e3%81%82%e3%81%92%e3%82%8b%e6%96%b9%e6%b3%95/</link>
+				<pubDate>Sat, 16 Mar 2019 04:35:09 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=26098</guid>
+				<description><![CDATA[<p>・オンライン・ワークショップのを収録したビデオをアップする方法です ・この動画はスクラムプログラミン...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%81%ae%e5%8f%8e%e9%8c%b2%e3%83%93%e3%83%87%e3%82%aa%e3%82%92vimeo%e3%81%ab%e3%81%82%e3%81%92%e3%82%8b%e6%96%b9%e6%b3%95/">ワークショップの収録ビデオをvimeoにあげる方法</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/324199230.hd.mp4?s=68186e9e2f18742547a56a2caf9b4fe83a42616c&#038;profile_id=174" length="0" type="" />
+			</item>
+		<item>
+		<title>WordPressスクラムについて</title>
+		<link>https://toiee.jp/podcast/wordpress-scrum/</link>
+				<pubDate>Tue, 12 Mar 2019 04:52:33 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25958</guid>
+				<description><![CDATA[<p>WordPressスクラムを実行するにあたって、運営の具体的な事例などをシェアしました。さらに、今後...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/wordpress-scrum/">WordPressスクラムについて</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/oHkI7be9iQ.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>スクラムについて（会議）</title>
+		<link>https://toiee.jp/podcast/about-abstract-of-scrum/</link>
+				<pubDate>Tue, 12 Mar 2019 04:48:34 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25957</guid>
+				<description><![CDATA[<p>前半は「Why」や「ジョブ」についての感想シェアです。僕（亀田）としては、「みなさんの反応が知りたい...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/about-abstract-of-scrum/">スクラムについて（会議）</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/LDf0MW7VAC.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.3.8 zoomのファシリテーションのコツ</title>
+		<link>https://toiee.jp/podcast/2019-3-8-zoom%e3%81%ae%e3%83%95%e3%82%a1%e3%82%b7%e3%83%aa%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ae%e3%82%b3%e3%83%84/</link>
+				<pubDate>Tue, 12 Mar 2019 00:14:20 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25851</guid>
+				<description><![CDATA[<p>・オンライン・ワークショップのzoomの操作で困ったことの色々を話しています。</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-3-8-zoom%e3%81%ae%e3%83%95%e3%82%a1%e3%82%b7%e3%83%aa%e3%83%86%e3%83%bc%e3%82%b7%e3%83%a7%e3%83%b3%e3%81%ae%e3%82%b3%e3%83%84/">2019.3.8 zoomのファシリテーションのコツ</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/321922648.sd.mp4?s=6c88d783029911a4ccfb28f57b0fb35f16e2485e&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.3.8 Slackを盛り上げる方法 フィードバック</title>
+		<link>https://toiee.jp/podcast/2019-3-8-slack%e3%82%92%e7%9b%9b%e3%82%8a%e4%b8%8a%e3%81%92%e3%82%8b%e6%96%b9%e6%b3%95-%e3%83%95%e3%82%a3%e3%83%bc%e3%83%89%e3%83%90%e3%83%83%e3%82%af/</link>
+				<pubDate>Tue, 12 Mar 2019 00:14:19 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25854</guid>
+				<description><![CDATA[<p>・２週間取り組んだSlackを盛り上げるためのアクションについて振り返りをしています ・学んだこと・...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-3-8-slack%e3%82%92%e7%9b%9b%e3%82%8a%e4%b8%8a%e3%81%92%e3%82%8b%e6%96%b9%e6%b3%95-%e3%83%95%e3%82%a3%e3%83%bc%e3%83%89%e3%83%90%e3%83%83%e3%82%af/">2019.3.8 Slackを盛り上げる方法 フィードバック</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/321922385.sd.mp4?s=ba7d91cdd4b553dafa6ae84a24f8d4833e0a4913&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.3.8 キャシーさん、池藤さんワークショップ振り返り</title>
+		<link>https://toiee.jp/podcast/2019-3-8-%e3%82%ad%e3%83%a3%e3%82%b7%e3%83%bc%e3%81%95%e3%82%93%e3%80%81%e6%b1%a0%e8%97%a4%e3%81%95%e3%82%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e6%8c%af%e3%82%8a%e8%bf%94/</link>
+				<pubDate>Tue, 12 Mar 2019 00:14:19 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25855</guid>
+				<description><![CDATA[<p>・2019.3.4 Kansoテーマワークショップ キャシーさん ・2019.3.5 デザインの４原...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-3-8-%e3%82%ad%e3%83%a3%e3%82%b7%e3%83%bc%e3%81%95%e3%82%93%e3%80%81%e6%b1%a0%e8%97%a4%e3%81%95%e3%82%93%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e6%8c%af%e3%82%8a%e8%bf%94/">2019.3.8 キャシーさん、池藤さんワークショップ振り返り</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/321923111.sd.mp4?s=585ded8dcf3ac0bab8716b94abfa2ff5ad79c823&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.3.9 WordPressをちょこっとカスタマイズしよう</title>
+		<link>https://toiee.jp/podcast/2019-3-9-wordpress%e3%82%92%e3%81%a1%e3%82%87%e3%81%93%e3%81%a3%e3%81%a8%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba%e3%81%97%e3%82%88%e3%81%86/</link>
+				<pubDate>Tue, 12 Mar 2019 00:14:18 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25922</guid>
+				<description><![CDATA[<p>・2019.3.9 に開催した「WordPressをちょこっとカスタマイズしよう」の様子を収録したビ...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-3-9-wordpress%e3%82%92%e3%81%a1%e3%82%87%e3%81%93%e3%81%a3%e3%81%a8%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba%e3%81%97%e3%82%88%e3%81%86/">2019.3.9 WordPressをちょこっとカスタマイズしよう</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/322427672.sd.mp4?s=be42cd3184cf35cfab6676861c2ecd6eb9609e58&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.3.9 WordPressをちょこっとカスタマイズしよう振り返りwしんさん</title>
+		<link>https://toiee.jp/podcast/2019-3-9-wordpress%e3%82%92%e3%81%a1%e3%82%87%e3%81%93%e3%81%a3%e3%81%a8%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba%e3%81%97%e3%82%88%e3%81%86%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8aw%e3%81%97/</link>
+				<pubDate>Tue, 12 Mar 2019 00:14:17 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25923</guid>
+				<description><![CDATA[<p>2019.3.9 WordPressをちょこっとカスタマイズしよう振り返りwしんさん</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-3-9-wordpress%e3%82%92%e3%81%a1%e3%82%87%e3%81%93%e3%81%a3%e3%81%a8%e3%82%ab%e3%82%b9%e3%82%bf%e3%83%9e%e3%82%a4%e3%82%ba%e3%81%97%e3%82%88%e3%81%86%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8aw%e3%81%97/">2019.3.9 WordPressをちょこっとカスタマイズしよう振り返りwしんさん</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/322443766.sd.mp4?s=5a5f73ed81086816aa685e4c85fa2baf369c6379&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>オフラインワークショップの振り返り</title>
+		<link>https://toiee.jp/podcast/online-workshop-restro2019-03-11/</link>
+				<pubDate>Mon, 11 Mar 2019 23:20:52 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25951</guid>
+				<description><![CDATA[<p>最後の方で「予期せぬこと」や「顧客が言わなかったこと」「しなかったこと」などについて議論しました。そ...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/online-workshop-restro2019-03-11/">オフラインワークショップの振り返り</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/WCoPilGz9Y.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>スクラムで公教育改革</title>
+		<link>https://toiee.jp/podcast/%e3%82%b9%e3%82%af%e3%83%a9%e3%83%a0%e3%81%a7%e5%85%ac%e6%95%99%e8%82%b2%e6%94%b9%e9%9d%a9/</link>
+				<pubDate>Wed, 06 Mar 2019 19:34:05 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25830</guid>
+				<description><![CDATA[<p>来年度、大学の授業でスクラムを実行します！！ 構想としては、他の授業の下支えを勝手に実現するつもりで...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e3%82%b9%e3%82%af%e3%83%a9%e3%83%a0%e3%81%a7%e5%85%ac%e6%95%99%e8%82%b2%e6%94%b9%e9%9d%a9/">スクラムで公教育改革</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/ttdTqsIEjV.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>WordPressスクラムについて、仕組み、構造、教材について</title>
+		<link>https://toiee.jp/podcast/wordpress%e3%82%b9%e3%82%af%e3%83%a9%e3%83%a0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%80%81%e4%bb%95%e7%b5%84%e3%81%bf%e3%80%81%e6%a7%8b%e9%80%a0%e3%80%81%e6%95%99%e6%9d%90%e3%81%ab%e3%81%a4%e3%81%84/</link>
+				<pubDate>Tue, 05 Mar 2019 05:29:45 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25824</guid>
+				<description><![CDATA[<p>WordPressスクラムを開催することについて議論。その中で、スクラムの前提としていること、パラダ...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/wordpress%e3%82%b9%e3%82%af%e3%83%a9%e3%83%a0%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6%e3%80%81%e4%bb%95%e7%b5%84%e3%81%bf%e3%80%81%e6%a7%8b%e9%80%a0%e3%80%81%e6%95%99%e6%9d%90%e3%81%ab%e3%81%a4%e3%81%84/">WordPressスクラムについて、仕組み、構造、教材について</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/CfF8bKG0Kt.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>[事例紹介] オンライン・ワークショップ予習方法 リュウバージョン</title>
+		<link>https://toiee.jp/podcast/%e4%ba%8b%e4%be%8b%e7%b4%b9%e4%bb%8b-%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%bb%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e4%ba%88%e7%bf%92%e6%96%b9%e6%b3%95/</link>
+				<pubDate>Fri, 01 Mar 2019 03:33:04 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/podcast/%e4%ba%8b%e4%be%8b%e7%b4%b9%e4%bb%8b-%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%bb%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e4%ba%88%e7%bf%92%e6%96%b9%e6%b3%95/</guid>
+				<description><![CDATA[<p>・リュウがオンライン・ワークショップをどうやって予習しているかの仕方事例を紹介しています ・オンライ...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e4%ba%8b%e4%be%8b%e7%b4%b9%e4%bb%8b-%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e3%83%bb%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e4%ba%88%e7%bf%92%e6%96%b9%e6%b3%95/">[事例紹介] オンライン・ワークショップ予習方法 リュウバージョン</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/320638146.sd.mp4?s=c4eb1b3685637ba75bf6aee1e794d9d3af72f477&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.2.28 WordPress超入門振り返り リュウ、池藤さん</title>
+		<link>https://toiee.jp/podcast/2019-2-28-wordpress%e8%b6%85%e5%85%a5%e9%96%80%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a-%e3%83%aa%e3%83%a5%e3%82%a6%e3%80%81%e6%b1%a0%e8%97%a4%e3%81%95%e3%82%93/</link>
+				<pubDate>Thu, 28 Feb 2019 05:49:24 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/podcast/2019-2-28-wordpress%e8%b6%85%e5%85%a5%e9%96%80%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a-%e3%83%aa%e3%83%a5%e3%82%a6%e3%80%81%e6%b1%a0%e8%97%a4%e3%81%95%e3%82%93/</guid>
+				<description><![CDATA[<p>・2019.2.28 に開催した WordPress超入門 の振り返りです</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-2-28-wordpress%e8%b6%85%e5%85%a5%e9%96%80%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a-%e3%83%aa%e3%83%a5%e3%82%a6%e3%80%81%e6%b1%a0%e8%97%a4%e3%81%95%e3%82%93/">2019.2.28 WordPress超入門振り返り リュウ、池藤さん</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/320418642.sd.mp4?s=724dd382e4cb641dc680f88625399df5ce5f0d02&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.2.27 Gurtenberg探求会振り返り会</title>
+		<link>https://toiee.jp/podcast/2019-2-27-gurtenberg%e6%8e%a2%e6%b1%82%e4%bc%9a%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e4%bc%9a-2/</link>
+				<pubDate>Thu, 28 Feb 2019 05:48:15 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/podcast/2019-2-27-gurtenberg%e6%8e%a2%e6%b1%82%e4%bc%9a%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e4%bc%9a-2/</guid>
+				<description><![CDATA[<p>・2019.2.27 に開催したGutenberg探求会の様子を収録したものです ・メタ探求型学習の...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-2-27-gurtenberg%e6%8e%a2%e6%b1%82%e4%bc%9a%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e4%bc%9a-2/">2019.2.27 Gurtenberg探求会振り返り会</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/320419563.sd.mp4?s=dcaa12700c48d564cdf8aa41db43af00f1662e18&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.2.27 Gurtenberg探求会振り返り会</title>
+		<link>https://toiee.jp/podcast/2019-2-27-gurtenberg%e6%8e%a2%e6%b1%82%e4%bc%9a%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e4%bc%9a/</link>
+				<pubDate>Thu, 28 Feb 2019 05:47:52 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/podcast/2019-2-27-gurtenberg%e6%8e%a2%e6%b1%82%e4%bc%9a%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e4%bc%9a/</guid>
+				<description><![CDATA[<p>・2019.2.27 に開催したGutenberg探求会の様子を収録したものです ・メタ探求型学習の...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-2-27-gurtenberg%e6%8e%a2%e6%b1%82%e4%bc%9a%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e4%bc%9a/">2019.2.27 Gurtenberg探求会振り返り会</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/320419563.sd.mp4?s=dcaa12700c48d564cdf8aa41db43af00f1662e18&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.2.26 2月のイベント振り返りと3月の計画 リュウ&#038;キャシーさん&#038;池藤さん</title>
+		<link>https://toiee.jp/podcast/2019-2-26-2%e6%9c%88%e3%81%ae%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e3%81%a83%e6%9c%88%e3%81%ae%e8%a8%88%e7%94%bb-%e3%83%aa%e3%83%a5%e3%82%a6%e3%82%ad%e3%83%a3/</link>
+				<pubDate>Tue, 26 Feb 2019 11:25:01 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/podcast/2019-2-26-2%e6%9c%88%e3%81%ae%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e3%81%a83%e6%9c%88%e3%81%ae%e8%a8%88%e7%94%bb-%e3%83%aa%e3%83%a5%e3%82%a6%e3%82%ad%e3%83%a3/</guid>
+				<description><![CDATA[<p>・2月のイベント開催の振替りと、3月のイベント開催の企画のミーティングの様子です ・3月の企画の前提...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-2-26-2%e6%9c%88%e3%81%ae%e3%82%a4%e3%83%99%e3%83%b3%e3%83%88%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e3%81%a83%e6%9c%88%e3%81%ae%e8%a8%88%e7%94%bb-%e3%83%aa%e3%83%a5%e3%82%a6%e3%82%ad%e3%83%a3/">2019.2.26 2月のイベント振り返りと3月の計画 リュウ&#038;キャシーさん&#038;池藤さん</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/319701537.hd.mp4?s=d41a6cbc34ccda8d29462a52ec70c19049868e33&#038;profile_id=174&#038;download=1" length="0" type="" />
+			</item>
+		<item>
+		<title>多数のスクラムの実行について</title>
+		<link>https://toiee.jp/podcast/%e5%a4%9a%e6%95%b0%e3%81%ae%e3%82%b9%e3%82%af%e3%83%a9%e3%83%a0%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/</link>
+				<pubDate>Mon, 25 Feb 2019 15:15:33 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/podcast/%e5%a4%9a%e6%95%b0%e3%81%ae%e3%82%b9%e3%82%af%e3%83%a9%e3%83%a0%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/</guid>
+				<description><![CDATA[<p>多数のスクラムを実行したいと考えています</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e5%a4%9a%e6%95%b0%e3%81%ae%e3%82%b9%e3%82%af%e3%83%a9%e3%83%a0%e3%81%ae%e5%ae%9f%e8%a1%8c%e3%81%ab%e3%81%a4%e3%81%84%e3%81%a6/">多数のスクラムの実行について</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/r4LdiGdg5V.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>アプリ開発、ポケてら、耳デミーの構想</title>
+		<link>https://toiee.jp/podcast/%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba%e3%80%81%e3%83%9d%e3%82%b1%e3%81%a6%e3%82%89%e3%80%81%e8%80%b3%e3%83%87%e3%83%9f%e3%83%bc%e3%81%ae%e6%a7%8b%e6%83%b3/</link>
+				<pubDate>Mon, 25 Feb 2019 15:14:26 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/podcast/%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba%e3%80%81%e3%83%9d%e3%82%b1%e3%81%a6%e3%82%89%e3%80%81%e8%80%b3%e3%83%87%e3%83%9f%e3%83%bc%e3%81%ae%e6%a7%8b%e6%83%b3/</guid>
+				<description><![CDATA[<p>ポケてらの今後、アプリの体験のアイデアなど</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e3%82%a2%e3%83%97%e3%83%aa%e9%96%8b%e7%99%ba%e3%80%81%e3%83%9d%e3%82%b1%e3%81%a6%e3%82%89%e3%80%81%e8%80%b3%e3%83%87%e3%83%9f%e3%83%bc%e3%81%ae%e6%a7%8b%e6%83%b3/">アプリ開発、ポケてら、耳デミーの構想</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/2RLOUQsjQN.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>「ここまでの学習を振り返ろう」のフィードバック リュウ、池藤さん</title>
+		<link>https://toiee.jp/podcast/%e3%80%8c%e3%81%93%e3%81%93%e3%81%be%e3%81%a7%e3%81%ae%e5%ad%a6%e7%bf%92%e3%82%92%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8d%e3%81%86%e3%80%8d%e3%81%ae%e3%83%95%e3%82%a3%e3%83%bc%e3%83%89%e3%83%90%e3%83%83/</link>
+				<pubDate>Mon, 25 Feb 2019 10:30:33 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25667</guid>
+				<description><![CDATA[<p>・2019.2.24に行われた「ここまでの学習を振り返ろう」のフィードバックです ・リュウと池藤さん...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e3%80%8c%e3%81%93%e3%81%93%e3%81%be%e3%81%a7%e3%81%ae%e5%ad%a6%e7%bf%92%e3%82%92%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8d%e3%81%86%e3%80%8d%e3%81%ae%e3%83%95%e3%82%a3%e3%83%bc%e3%83%89%e3%83%90%e3%83%83/">「ここまでの学習を振り返ろう」のフィードバック リュウ、池藤さん</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/319293658.sd.mp4?s=06c2a0b6a030e1906b6481d6a4c502ae1c70c6d2&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>ジョブスペックを探そう！</title>
+		<link>https://toiee.jp/podcast/%e3%82%b8%e3%83%a7%e3%83%96%e3%82%b9%e3%83%9a%e3%83%83%e3%82%af%e3%82%92%e6%8e%a2%e3%81%9d%e3%81%86%ef%bc%81/</link>
+				<pubDate>Mon, 25 Feb 2019 07:16:21 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/podcast/%e3%82%b8%e3%83%a7%e3%83%96%e3%82%b9%e3%83%9a%e3%83%83%e3%82%af%e3%82%92%e6%8e%a2%e3%81%9d%e3%81%86%ef%bc%81/</guid>
+				<description><![CDATA[<p>ジョブスペックを探す事例として、Delish Kitchenを紹介しています。また具体的なアイデアも...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e3%82%b8%e3%83%a7%e3%83%96%e3%82%b9%e3%83%9a%e3%83%83%e3%82%af%e3%82%92%e6%8e%a2%e3%81%9d%e3%81%86%ef%bc%81/">ジョブスペックを探そう！</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/GBqTgoKZrJ.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>Slackチャンネルホストミーティング 池藤さん、キャシーさん、リュウ</title>
+		<link>https://toiee.jp/podcast/slack%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab%e3%83%9b%e3%82%b9%e3%83%88%e3%83%9f%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0-%e6%b1%a0%e8%97%a4%e3%81%95%e3%82%93%e3%80%81%e3%82%ad%e3%83%a3/</link>
+				<pubDate>Fri, 22 Feb 2019 10:28:25 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25604</guid>
+				<description><![CDATA[<p>スクラムのSlackチャンネルホストのアクションプランのミーティングの様子です 池藤さん、キャシーさ...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/slack%e3%83%81%e3%83%a3%e3%83%b3%e3%83%8d%e3%83%ab%e3%83%9b%e3%82%b9%e3%83%88%e3%83%9f%e3%83%bc%e3%83%86%e3%82%a3%e3%83%b3%e3%82%b0-%e6%b1%a0%e8%97%a4%e3%81%95%e3%82%93%e3%80%81%e3%82%ad%e3%83%a3/">Slackチャンネルホストミーティング 池藤さん、キャシーさん、リュウ</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+									</item>
+		<item>
+		<title>2019.2.21 VScodeでHTMLを書いて見よう フィードバック RYU &#038; 池藤さん</title>
+		<link>https://toiee.jp/podcast/vscode%e3%81%a7html%e3%82%92%e6%9b%b8%e3%81%84%e3%81%a6%e8%a6%8b%e3%82%88%e3%81%86-%e3%83%95%e3%82%a3%e3%83%bc%e3%83%89%e3%83%90%e3%83%83%e3%82%af-ryu-%e6%b1%a0%e8%97%a4%e3%81%95%e3%82%93/</link>
+				<pubDate>Thu, 21 Feb 2019 06:00:47 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25571</guid>
+				<description><![CDATA[<p>ポケてら : HTML,CSS,CSSフレームワークの「5.1 HTMLとは」からのワークの様子です</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/vscode%e3%81%a7html%e3%82%92%e6%9b%b8%e3%81%84%e3%81%a6%e8%a6%8b%e3%82%88%e3%81%86-%e3%83%95%e3%82%a3%e3%83%bc%e3%83%89%e3%83%90%e3%83%83%e3%82%af-ryu-%e6%b1%a0%e8%97%a4%e3%81%95%e3%82%93/">2019.2.21 VScodeでHTMLを書いて見よう フィードバック RYU &#038; 池藤さん</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/318679516.sd.mp4?s=347b05e9cbd32d514a74c43853d2360eb95675a7&#038;profile_id=164" length="0" type="" />
+			</item>
+		<item>
+		<title>ポケてら研究会 : WordPressをカスタマイズしよう2</title>
+		<link>https://toiee.jp/podcast/pktr-lab-wordpress-custormize-by-css-2/</link>
+				<pubDate>Wed, 20 Feb 2019 10:52:23 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25554</guid>
+				<description><![CDATA[<p>しんさん、池藤さん、中西さんと「ポケてら : 90分でWordPressをカスタマイズしよう」を研究...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/pktr-lab-wordpress-custormize-by-css-2/">ポケてら研究会 : WordPressをカスタマイズしよう2</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+									</item>
+		<item>
+		<title>ポケてら研究会 : WordPressをカスタマイズしよう1</title>
+		<link>https://toiee.jp/podcast/pktr-lab-wordpress-custormize-by-css-1/</link>
+				<pubDate>Wed, 20 Feb 2019 10:51:41 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25553</guid>
+				<description><![CDATA[<p>しんさん、池藤さん、中西さんと「ポケてら : 90分でWordPressをカスタマイズしよう」を研究...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/pktr-lab-wordpress-custormize-by-css-1/">ポケてら研究会 : WordPressをカスタマイズしよう1</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/318150223.sd.mp4?s=923ca8ffe5f7f61b33021a257c782c971a78e067&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>ポケてら研究会 : 99分でHTML最新技術を学ぼう</title>
+		<link>https://toiee.jp/podcast/pktr-lab-90-html/</link>
+				<pubDate>Wed, 20 Feb 2019 10:49:34 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25552</guid>
+				<description><![CDATA[<p>井餘田さん、キャシーさん、佐藤さんと「ポケてら : 99分でHTMLの最新技術を学ぼう」の研究会を行...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/pktr-lab-90-html/">ポケてら研究会 : 99分でHTML最新技術を学ぼう</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+									</item>
+		<item>
+		<title>2019.2.19 HTML入門振り返り</title>
+		<link>https://toiee.jp/podcast/2019-2-19-html-feedback/</link>
+				<pubDate>Tue, 19 Feb 2019 08:02:45 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25530</guid>
+				<description><![CDATA[<p>スクラム HTML入門の振り返りの様子です。</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-2-19-html-feedback/">2019.2.19 HTML入門振り返り</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/318147840.sd.mp4?s=7ec5521c158428b365ebbc9828c62a79ade32a42&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.2.15 CSS入門 ワークショップ フィードバック 亀田 &#038; リュウ &#038; キャシー</title>
+		<link>https://toiee.jp/podcast/2019-2-15-css-feedback/</link>
+				<pubDate>Fri, 15 Feb 2019 07:41:02 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25491</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-2-15-css-feedback/">2019.2.15 CSS入門 ワークショップ フィードバック 亀田 &#038; リュウ &#038; キャシー</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/317402028.sd.mp4?s=9f5b496f02671a92efc96e9c211affe4a1b08c7e&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>WordPress ワークショップの振り返り会 RYU &#038;  キャシーさん</title>
+		<link>https://toiee.jp/podcast/wordpress-%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%81%ae%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e4%bc%9a-ryu-%e3%82%ad%e3%83%a3%e3%82%b7%e3%83%bc%e3%81%95%e3%82%93/</link>
+				<pubDate>Sun, 10 Feb 2019 10:40:07 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25098</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/wordpress-%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e3%81%ae%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a%e4%bc%9a-ryu-%e3%82%ad%e3%83%a3%e3%82%b7%e3%83%bc%e3%81%95%e3%82%93/">WordPress ワークショップの振り返り会 RYU &#038;  キャシーさん</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.jp/s73Pr3L0Fv.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>ジョブから考えた、ワークショップと教材(小野さんのワークショップの振り返りから考えてみた)</title>
+		<link>https://toiee.jp/podcast/about-luxd/</link>
+				<pubDate>Thu, 07 Feb 2019 08:09:44 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=25062</guid>
+				<description><![CDATA[<p>null 小野さんが開催したオンライン・ワークショップ のフィードバック分析と学び ジョブから考えた...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/about-luxd/">ジョブから考えた、ワークショップと教材(小野さんのワークショップの振り返りから考えてみた)</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/315820309.sd.mp4?s=c0ad729d498ec673d19e4dfa544b2cc861624b69&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>我々がフォーカスするジョブとは？ミーティング</title>
+		<link>https://toiee.jp/podcast/the-job-we-should-focus/</link>
+				<pubDate>Fri, 01 Feb 2019 01:04:34 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=24801</guid>
+				<description><![CDATA[<p>忙しい日常の中で、ライフスタイルを変えることなく、新しい知識、スキルを身につける「楽しい体験」を提供...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/the-job-we-should-focus/">我々がフォーカスするジョブとは？ミーティング</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/zhTaD9FqKz.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>2019.1.29 スタートダッシュワークショップ振り返り リュウ・池藤・キャシー</title>
+		<link>https://toiee.jp/podcast/2019-1-29-%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%e3%83%80%e3%83%83%e3%82%b7%e3%83%a5%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a-%e3%83%aa%e3%83%a5/</link>
+				<pubDate>Tue, 29 Jan 2019 07:42:52 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=24770</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-1-29-%e3%82%b9%e3%82%bf%e3%83%bc%e3%83%88%e3%83%80%e3%83%83%e3%82%b7%e3%83%a5%e3%83%af%e3%83%bc%e3%82%af%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97%e6%8c%af%e3%82%8a%e8%bf%94%e3%82%8a-%e3%83%aa%e3%83%a5/">2019.1.29 スタートダッシュワークショップ振り返り リュウ・池藤・キャシー</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/313954237.sd.mp4?s=c1af538e81c5f0ad5b18158fd8f74009376d03ab&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>スクラムの目指す「ミッション」とは？</title>
+		<link>https://toiee.jp/podcast/%e3%82%b9%e3%82%af%e3%83%a9%e3%83%a0%e3%81%ae%e7%9b%ae%e6%8c%87%e3%81%99%e3%80%8c%e3%83%9f%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f/</link>
+				<pubDate>Tue, 22 Jan 2019 09:05:04 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=24640</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e3%82%b9%e3%82%af%e3%83%a9%e3%83%a0%e3%81%ae%e7%9b%ae%e6%8c%87%e3%81%99%e3%80%8c%e3%83%9f%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3%e3%80%8d%e3%81%a8%e3%81%af%ef%bc%9f/">スクラムの目指す「ミッション」とは？</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/VifgvB21Ho.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>価値を伝えるコピーを作る (実例)</title>
+		<link>https://toiee.jp/podcast/how-to-make-value-wrriting/</link>
+				<pubDate>Wed, 16 Jan 2019 06:30:59 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=24541</guid>
+				<description><![CDATA[<p>スクラム プログラミングのキャンペーンにて、キャンペーンメールを作るプロセスを収録しました</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/how-to-make-value-wrriting/">価値を伝えるコピーを作る (実例)</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/311447187.sd.mp4?s=58e2c9fbdb1a48afb23d644621eb37572ff3b28e&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>スクラム・キックオフミーティング 振り返り会</title>
+		<link>https://toiee.jp/podcast/scrum-kickoff-meeting-feedback/</link>
+				<pubDate>Wed, 16 Jan 2019 06:27:55 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=24540</guid>
+				<description><![CDATA[<p>スクラム・キックオフミーティングの振り返り会を収録</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/scrum-kickoff-meeting-feedback/">スクラム・キックオフミーティング 振り返り会</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/311397201.sd.mp4?s=3e7ea479c05e71f9e7c1ec84bc3de35e677c8501&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>2019 ビジョンとLUED</title>
+		<link>https://toiee.jp/podcast/2019-%e3%83%93%e3%82%b8%e3%83%a7%e3%83%b3%e3%81%a8lued/</link>
+				<pubDate>Wed, 09 Jan 2019 04:20:02 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=24421</guid>
+				<description><![CDATA[<p>これからのビジョンを話しました。</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2019-%e3%83%93%e3%82%b8%e3%83%a7%e3%83%b3%e3%81%a8lued/">2019 ビジョンとLUED</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/S59xfqSL0E.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>【ビデオ】WooCommerce for toiee Lab 説明会</title>
+		<link>https://toiee.jp/podcast/%e3%80%90%e3%83%93%e3%83%87%e3%82%aa%e3%80%91woocommerce-for-toiee-lab-%e8%aa%ac%e6%98%8e%e4%bc%9a/</link>
+				<pubDate>Sat, 08 Dec 2018 04:00:22 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=23525</guid>
+				<description><![CDATA[<p>WooCommerce for toiee Lab の実演などをしました。</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e3%80%90%e3%83%93%e3%83%87%e3%82%aa%e3%80%91woocommerce-for-toiee-lab-%e8%aa%ac%e6%98%8e%e4%bc%9a/">【ビデオ】WooCommerce for toiee Lab 説明会</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/305163515.hd.mp4?s=64bc665cc2a4344f25c15462b10d264cc5ce7e22&#038;profile_id=174&#038;download=1" length="0" type="" />
+			</item>
+		<item>
+		<title>WooCommerce for toiee Lab説明会</title>
+		<link>https://toiee.jp/podcast/woocommerce-for-toiee-lab%e8%aa%ac%e6%98%8e%e4%bc%9a/</link>
+				<pubDate>Sat, 08 Dec 2018 01:55:36 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=23523</guid>
+				<description><![CDATA[<p>WooCommerce for toiee Lab の説明会をしています。</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/woocommerce-for-toiee-lab%e8%aa%ac%e6%98%8e%e4%bc%9a/">WooCommerce for toiee Lab説明会</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/MAWRMJa0UH.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>教育の役割、方針、作り方</title>
+		<link>https://toiee.jp/podcast/education-direction/</link>
+				<pubDate>Fri, 07 Dec 2018 06:55:53 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=23509</guid>
+				<description><![CDATA[<p>ずっと僕を悩ませていた「教育」の定義が固まりました。しばらくは、これで走っていこうと思います。</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/education-direction/">教育の役割、方針、作り方</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/2018-12-7-direction-of-our-education.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>【ビデオ】2018-11-18意見交換午後の部</title>
+		<link>https://toiee.jp/podcast/%e3%80%90%e3%83%93%e3%83%87%e3%82%aa%e3%80%912018-11-18%e6%84%8f%e8%a6%8b%e4%ba%a4%e6%8f%9b%e5%8d%88%e5%be%8c%e3%81%ae%e9%83%a8/</link>
+				<pubDate>Fri, 30 Nov 2018 15:27:59 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=23370</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e3%80%90%e3%83%93%e3%83%87%e3%82%aa%e3%80%912018-11-18%e6%84%8f%e8%a6%8b%e4%ba%a4%e6%8f%9b%e5%8d%88%e5%be%8c%e3%81%ae%e9%83%a8/">【ビデオ】2018-11-18意見交換午後の部</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="" length="0" type="" />
+			</item>
+		<item>
+		<title>【音声】2018-11-30 意見交換会（午後の部）</title>
+		<link>https://toiee.jp/podcast/%e3%80%90%e9%9f%b3%e5%a3%b0%e3%80%912018-11-30-%e6%84%8f%e8%a6%8b%e4%ba%a4%e6%8f%9b%e4%bc%9a%ef%bc%88%e5%8d%88%e5%be%8c%e3%81%ae%e9%83%a8%ef%bc%89/</link>
+				<pubDate>Fri, 30 Nov 2018 14:47:08 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=23369</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e3%80%90%e9%9f%b3%e5%a3%b0%e3%80%912018-11-30-%e6%84%8f%e8%a6%8b%e4%ba%a4%e6%8f%9b%e4%bc%9a%ef%bc%88%e5%8d%88%e5%be%8c%e3%81%ae%e9%83%a8%ef%bc%89/">【音声】2018-11-30 意見交換会（午後の部）</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/2018-11-18-afternoon.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>【ビデオ】2018-11-30 意見交換会(午前)</title>
+		<link>https://toiee.jp/podcast/%e3%80%90%e3%83%93%e3%83%87%e3%82%aa%e3%80%912018-11-30-%e6%84%8f%e8%a6%8b%e4%ba%a4%e6%8f%9b%e4%bc%9a%e5%8d%88%e5%89%8d/</link>
+				<pubDate>Fri, 30 Nov 2018 14:44:44 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=23368</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e3%80%90%e3%83%93%e3%83%87%e3%82%aa%e3%80%912018-11-30-%e6%84%8f%e8%a6%8b%e4%ba%a4%e6%8f%9b%e4%bc%9a%e5%8d%88%e5%89%8d/">【ビデオ】2018-11-30 意見交換会(午前)</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+									</item>
+		<item>
+		<title>【音声】2018-11-30 意見交換会(午前)</title>
+		<link>https://toiee.jp/podcast/2018-11-30-%e6%84%8f%e8%a6%8b%e4%ba%a4%e6%8f%9b%e4%bc%9a%e5%8d%88%e5%89%8d/</link>
+				<pubDate>Fri, 30 Nov 2018 08:59:18 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=23362</guid>
+				<description><![CDATA[<p>議事録はこちら</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2018-11-30-%e6%84%8f%e8%a6%8b%e4%ba%a4%e6%8f%9b%e4%bc%9a%e5%8d%88%e5%89%8d/">【音声】2018-11-30 意見交換会(午前)</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/2018-11-18-opinion-shareing.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>ムーンショットプロジェクトについて</title>
+		<link>https://toiee.jp/podcast/about-moon-shot-project/</link>
+				<pubDate>Tue, 20 Nov 2018 06:59:57 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=23033</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/about-moon-shot-project/">ムーンショットプロジェクトについて</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.jp/OPjlIZXLfp.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>&#x1f3a7;2018/11/18 最近の教育会とプログラミング</title>
+		<link>https://toiee.jp/podcast/%f0%9f%8e%a72018-11-18-%e6%9c%80%e8%bf%91%e3%81%ae%e6%95%99%e8%82%b2%e4%bc%9a%e3%81%a8%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/</link>
+				<pubDate>Fri, 16 Nov 2018 12:40:53 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=22962</guid>
+				<description><![CDATA[<p>最近の教育事情、今後の変化など、知りうる知識をシェア。他にも、プログラミングでやってみよう！という話...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%f0%9f%8e%a72018-11-18-%e6%9c%80%e8%bf%91%e3%81%ae%e6%95%99%e8%82%b2%e4%bc%9a%e3%81%a8%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/">&#x1f3a7;2018/11/18 最近の教育会とプログラミング</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/pWRVrApZg7.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>【ビデオ】2018/11/18 最近の教育会とプログラミング</title>
+		<link>https://toiee.jp/podcast/2018-11-18-%e6%9c%80%e8%bf%91%e3%81%ae%e6%95%99%e8%82%b2%e4%bc%9a%e3%81%a8%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/</link>
+				<pubDate>Fri, 16 Nov 2018 12:37:42 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=22961</guid>
+				<description><![CDATA[<p>最近の教育事情、今後の変化など、知りうる知識をシェア。他にも、プログラミングでやってみよう！という話...</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2018-11-18-%e6%9c%80%e8%bf%91%e3%81%ae%e6%95%99%e8%82%b2%e4%bc%9a%e3%81%a8%e3%83%97%e3%83%ad%e3%82%b0%e3%83%a9%e3%83%9f%e3%83%b3%e3%82%b0/">【ビデオ】2018/11/18 最近の教育会とプログラミング</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/301178104.hd.mp4?s=681604be11645fcdfdf94a6f1cea74790b424668&#038;profile_id=175&#038;download=1" length="0" type="" />
+			</item>
+		<item>
+		<title>2018/11/18 小野さん（ほぼ、WordPressのデモ）</title>
+		<link>https://toiee.jp/podcast/2018-11-18-%e5%b0%8f%e9%87%8e%e3%81%95%e3%82%93%ef%bc%88%e3%81%bb%e3%81%bc%e3%80%81wordpress%e3%81%ae%e3%83%87%e3%83%a2%ef%bc%89-2/</link>
+				<pubDate>Fri, 16 Nov 2018 12:36:07 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=22960</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2018-11-18-%e5%b0%8f%e9%87%8e%e3%81%95%e3%82%93%ef%bc%88%e3%81%bb%e3%81%bc%e3%80%81wordpress%e3%81%ae%e3%83%87%e3%83%a2%ef%bc%89-2/">2018/11/18 小野さん（ほぼ、WordPressのデモ）</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/sxRVlYVsfB.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>2018/11/18 小野さん（ほぼ、WordPressのデモ）</title>
+		<link>https://toiee.jp/podcast/2018-11-18-%e5%b0%8f%e9%87%8e%e3%81%95%e3%82%93%ef%bc%88%e3%81%bb%e3%81%bc%e3%80%81wordpress%e3%81%ae%e3%83%87%e3%83%a2%ef%bc%89/</link>
+				<pubDate>Fri, 16 Nov 2018 12:32:47 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=22956</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2018-11-18-%e5%b0%8f%e9%87%8e%e3%81%95%e3%82%93%ef%bc%88%e3%81%bb%e3%81%bc%e3%80%81wordpress%e3%81%ae%e3%83%87%e3%83%a2%ef%bc%89/">2018/11/18 小野さん（ほぼ、WordPressのデモ）</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/301177380.hd.mp4?s=68ff9b6e041314beb2f75da5759819d37a44a556&#038;profile_id=174&#038;download=1" length="0" type="" />
+			</item>
+		<item>
+		<title>toiee Lab 教育設計思想ダイアログ 2</title>
+		<link>https://toiee.jp/podcast/toiee-lab-%e6%95%99%e8%82%b2%e8%a8%ad%e8%a8%88%e6%80%9d%e6%83%b3%e3%83%80%e3%82%a4%e3%82%a2%e3%83%ad%e3%82%b0-2/</link>
+				<pubDate>Wed, 14 Nov 2018 07:51:49 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=22598</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/toiee-lab-%e6%95%99%e8%82%b2%e8%a8%ad%e8%a8%88%e6%80%9d%e6%83%b3%e3%83%80%e3%82%a4%e3%82%a2%e3%83%ad%e3%82%b0-2/">toiee Lab 教育設計思想ダイアログ 2</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.jp/YaJX95QGF0.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>toieeLab 教育設計思想ダイアログ1</title>
+		<link>https://toiee.jp/podcast/toieelab-%e6%95%99%e8%82%b2%e8%a8%ad%e8%a8%88%e6%80%9d%e6%83%b3%e3%83%80%e3%82%a4%e3%82%a2%e3%83%ad%e3%82%b01/</link>
+				<pubDate>Wed, 14 Nov 2018 07:48:16 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=22597</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/toieelab-%e6%95%99%e8%82%b2%e8%a8%ad%e8%a8%88%e6%80%9d%e6%83%b3%e3%83%80%e3%82%a4%e3%82%a2%e3%83%ad%e3%82%b01/">toieeLab 教育設計思想ダイアログ1</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/0xAUAau8Io.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>【ビデオ】Notion探求 by kazu&#038;Ryu</title>
+		<link>https://toiee.jp/podcast/%e3%80%90%e3%83%93%e3%83%87%e3%82%aa%e3%80%91notion%e6%8e%a2%e6%b1%82-by-kazuryu/</link>
+				<pubDate>Fri, 02 Nov 2018 07:06:05 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=21707</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/%e3%80%90%e3%83%93%e3%83%87%e3%82%aa%e3%80%91notion%e6%8e%a2%e6%b1%82-by-kazuryu/">【ビデオ】Notion探求 by kazu&#038;Ryu</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/298519817.hd.mp4?s=57c1ccbf590500ba9508297d9cffac12aac77639&#038;profile_id=175&#038;download=1" length="0" type="" />
+			</item>
+		<item>
+		<title>【オーディオ】2018-11-1 WordPress企画会議</title>
+		<link>https://toiee.jp/podcast/2018-11-1-wordpress-limited-offer-mtg/</link>
+				<pubDate>Fri, 02 Nov 2018 02:12:10 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=21702</guid>
+				<description><![CDATA[<p>WordPressのワークショップの限定特典を考える。</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/2018-11-1-wordpress-limited-offer-mtg/">【オーディオ】2018-11-1 WordPress企画会議</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/2018-11-01-wp-prj-limited-offer.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>【ビデオ】2018-11-1 WordPress企画の限定プレゼントについて</title>
+		<link>https://toiee.jp/podcast/wp-limited-offer-meeting/</link>
+				<pubDate>Fri, 02 Nov 2018 01:44:48 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=21701</guid>
+				<description><![CDATA[<p>WordPress企画の限定性を考える会議の様子です</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/wp-limited-offer-meeting/">【ビデオ】2018-11-1 WordPress企画の限定プレゼントについて</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/298342262.hd.mp4?s=6bfa8a172636ba79e581b156f2e073cdb3526b04&#038;profile_id=174&#038;download=1" length="0" type="" />
+			</item>
+		<item>
+		<title>【ビデオ付き】ワイワイ現状報告会</title>
+		<link>https://toiee.jp/podcast/exting-report-meeting-001-video/</link>
+				<pubDate>Thu, 01 Nov 2018 10:36:59 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=21421</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/exting-report-meeting-001-video/">【ビデオ付き】ワイワイ現状報告会</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/298342089.sd.mp4?s=dca24e6f13ebb7169deb98a0274515247d228f43&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>ワイワイ現状報告会</title>
+		<link>https://toiee.jp/podcast/exciting-report-meeting-01/</link>
+				<pubDate>Thu, 01 Nov 2018 10:34:52 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=21420</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/exciting-report-meeting-01/">ワイワイ現状報告会</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/2018-11-01_waiwai-report.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>【ビデオ付き】ポケてら品評会ミーティング</title>
+		<link>https://toiee.jp/podcast/pktr-meeting-001-video/</link>
+				<pubDate>Wed, 31 Oct 2018 01:33:17 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=21036</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/pktr-meeting-001-video/">【ビデオ付き】ポケてら品評会ミーティング</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/297919543.sd.mp4?s=8373f4d38fd838c152f326af8ded5b74c48e3907&#038;profile_id=164" length="0" type="" />
+			</item>
+		<item>
+		<title>ポケてら品評会ミーティング</title>
+		<link>https://toiee.jp/podcast/pktr-meeting-001/</link>
+				<pubDate>Wed, 31 Oct 2018 01:30:07 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=21035</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/pktr-meeting-001/">ポケてら品評会ミーティング</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/partner/2018-10-30%E3%83%9B%E3%82%9A%E3%82%B1%E3%81%A6%E3%82%89%E5%93%81%E8%A9%95%E4%BC%9A.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>【ビデオ付】プロフィールインタビュー リュウ</title>
+		<link>https://toiee.jp/podcast/teal-006/</link>
+				<pubDate>Wed, 24 Oct 2018 07:36:32 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=20695</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/teal-006/">【ビデオ付】プロフィールインタビュー リュウ</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/296808996.sd.mp4?s=281ccd250a908f6a1559a61ad494b76c7a80f3f4&#038;profile_id=165" length="0" type="" />
+			</item>
+		<item>
+		<title>プロフィールインタビュー リュウ</title>
+		<link>https://toiee.jp/podcast/teal-005/</link>
+				<pubDate>Wed, 24 Oct 2018 06:53:43 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/?post_type=podcast&#038;p=20694</guid>
+				<description><![CDATA[<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/teal-005/">プロフィールインタビュー リュウ</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/BKSOwUOiTt.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>WordPress共同開催 と 対話</title>
+		<link>https://toiee.jp/podcast/teal-001/</link>
+				<pubDate>Thu, 18 Oct 2018 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/ポッドキャスト/teal-001/</guid>
+				<description><![CDATA[<p>WordPress共同開催 と 対話</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/teal-001/">WordPress共同開催 と 対話</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/oqC0uHBUJD.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>【ビデオ付き】WordPress共同開催 と 対話</title>
+		<link>https://toiee.jp/podcast/teal-001-video/</link>
+				<pubDate>Thu, 18 Oct 2018 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/ポッドキャスト/teal-001-video/</guid>
+				<description><![CDATA[<p>【ビデオ付き】Wordpress共同開催 と 対話</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/teal-001-video/">【ビデオ付き】WordPress共同開催 と 対話</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/295971817.sd.mp4?s=e658306d1758dcaeaeec49778aa84918b4ea9779&#038;profile_id=164" length="0" type="" />
+			</item>
+		<item>
+		<title>WordPress共同開催 と 対話2</title>
+		<link>https://toiee.jp/podcast/teal-002/</link>
+				<pubDate>Thu, 18 Oct 2018 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/ポッドキャスト/teal-002/</guid>
+				<description><![CDATA[<p>WordPress共同開催 と 対話2</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/teal-002/">WordPress共同開催 と 対話2</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://d.toiee.org/Fieb07CtVL.m4a" length="0" type="" />
+			</item>
+		<item>
+		<title>【ビデオ付き】WordPress共同開催 と 対話2</title>
+		<link>https://toiee.jp/podcast/teal-002-video/</link>
+				<pubDate>Thu, 18 Oct 2018 15:00:00 +0000</pubDate>
+		<dc:creator><![CDATA[トイラボ toiee Lab]]></dc:creator>
+		
+		<guid isPermaLink="false">https://toiee.jp/ポッドキャスト/teal-002-video/</guid>
+				<description><![CDATA[<p>【ビデオ付き】Wordpress共同開催 と 対話2</p>
+<p>投稿 <a rel="nofollow" href="https://toiee.jp/podcast/teal-002-video/">【ビデオ付き】WordPress共同開催 と 対話2</a> は <a rel="nofollow" href="https://toiee.jp">toiee Lab</a> に最初に表示されました。</p>
+]]></description>
+						<enclosure url="https://player.vimeo.com/external/295973319.sd.mp4?s=0b4830e72b617290e57cd19f9828bb3c46978c9a&#038;profile_id=164" length="0" type="" />
+			</item>
+	</channel>
+</rss>

@@ -1,0 +1,4860 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+<channel>
+	<title>Another Dawn</title>
+	<atom:link href="https://h2plus.biz/another-dawn/feed/podcast/" rel="self" type="application/rss+xml" />
+	<link>https://h2plus.biz/another-dawn</link>
+	<description>Podcast</description>
+	<lastBuildDate>Thu, 14 Mar 2019 21:00:32 +0000</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+	<!-- podcast_generator="Blubrry PowerPress/7.4" mode="advanced" feedslug="podcast" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>ラボ・カレッジメイト出身の2人が世代を超えて、現役カレッジメイト・ラボっ子に発信するポッドキャストです。国際交流・異文化コミュニケーションに関する話題を基点に、大学生活動、学生生活、教育、言語、就職、ITなど幅広いトピックを取り上げていきます。</itunes:summary>
+	<itunes:author>ふじぼう＆ゆう</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+	<itunes:owner>
+		<itunes:name>ふじぼう＆ゆう</itunes:name>
+		<itunes:email>another-dawn@h2plus.biz</itunes:email>
+	</itunes:owner>
+	<managingEditor>another-dawn@h2plus.biz (ふじぼう＆ゆう)</managingEditor>
+	<copyright>Copyright &#xA9; 2016-2019 H2+, All Rights Reserved</copyright>
+	<itunes:subtitle>Where we are rowing to</itunes:subtitle>
+	<image>
+		<title>Another Dawn</title>
+		<url>https://h2plus.biz/another-dawn/PodcastCover.png</url>
+		<link>https://h2plus.biz/another-dawn</link>
+	</image>
+	<itunes:category text="Society &amp; Culture">
+		<itunes:category text="Personal Journals"></itunes:category>
+	</itunes:category>
+	<itunes:category text="Technology">
+	</itunes:category>
+	<itunes:category text="Business">
+		<itunes:category text="Careers"></itunes:category>
+	</itunes:category>
+	<googleplay:category text="Society &amp; Culture" />
+	<googleplay:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+	<rawvoice:frequency>1st and 15th of each month</rawvoice:frequency>
+	<rawvoice:subscribe feed="https://h2plus.biz/another-dawn/feed/podcast/" html="https://h2plus.biz/another-dawn/about/" itunes="https://itunes.apple.com/podcast/another-dawn/id1093373444" blubrry="https://www.blubrry.com/_another_dawn_/"></rawvoice:subscribe>
+	<item>
+		<title>Episode#35: 人と人をつなぐチカラ（ゲスト：かば）</title>
+		<link>https://h2plus.biz/another-dawn/2019/03/episode-35/</link>
+		<pubDate>Thu, 14 Mar 2019 21:00:32 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=873</guid>
+		<description>現在ラボ教育センターで事務局員として働いているコーチ会議OBのかばをゲストに迎えて、ラボに就職するまでのキャリア、事務局員としてのラボとの関わり方などについてお話ししていただきました。
+
+Show Notes
+
+
+あけとの馴れ初め
+事務局としてのサラリーマン生活
+中学生のときに抱いた将来の夢
+新卒入社したユザワヤでのキャリア
+ハローワークで見つけた中途採用の道
+事務局員の視点から見たラボ
+大学生活動におけるリスクヘッジ
+ラボセンの新人研修</description>
+		<content:encoded><![CDATA[<p>現在ラボ教育センターで事務局員として働いているコーチ会議OBの<strong>かば</strong>をゲストに迎えて、ラボに就職するまでのキャリア、事務局員としてのラボとの関わり方などについてお話ししていただきました。</p>
+<h3>Show Notes</h3>
+<ul>
+<li>あけとの馴れ初め</li>
+<li>事務局としてのサラリーマン生活</li>
+<li>中学生のときに抱いた将来の夢</li>
+<li>新卒入社したユザワヤでのキャリア</li>
+<li>ハローワークで見つけた中途採用の道</li>
+<li>事務局員の視点から見たラボ</li>
+<li>大学生活動におけるリスクヘッジ</li>
+<li>ラボセンの新人研修</li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-035.mp3" length="35337133" type="audio/mpeg" />
+		<itunes:subtitle>現在ラボ教育センターで事務局員として働いているコーチ会議OBのかばをゲストに迎えて、ラボに就職するまでのキャリア、事務局員としてのラボとの関わり方などについてお話ししていただきました。  Show Notes   あけとの馴れ初め 事務局としてのサラリーマン生活 中学生のときに抱いた将来の夢 新卒入社したユザワヤでのキャリア ハローワークで見つけた中途採用の道 事務局員の視点から見たラボ 大学生活動におけるリスクヘッジ ラボセンの新人研修</itunes:subtitle>
+		<itunes:summary><![CDATA[現在ラボ教育センターで事務局員として働いているコーチ会議OBのかばをゲストに迎えて、ラボに就職するまでのキャリア、事務局員としてのラボとの関わり方などについてお話ししていただきました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* あけとの馴れ初め<br />
+* 事務局としてのサラリーマン生活<br />
+* 中学生のときに抱いた将来の夢<br />
+* 新卒入社したユザワヤでのキャリア<br />
+* ハローワークで見つけた中途採用の道<br />
+* 事務局員の視点から見たラボ<br />
+* 大学生活動におけるリスクヘッジ<br />
+* ラボセンの新人研修<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>59:35</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#34: アウトプットの自由度（ゲスト：あけ）</title>
+		<link>https://h2plus.biz/another-dawn/2019/03/episode-34/</link>
+		<pubDate>Thu, 28 Feb 2019 21:00:15 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=865</guid>
+		<description>Another Dawnでよく話題に出てくるあけこと、中部支部・美濃尾張岐阜地区の荒川テューターをゲストにお迎えして、教育について様々な視点から話をしました。
+
+Show Notes
+
+
+お父さんに父母会に参加してもらうための仕掛け
+あけの一声で刷新されたイントロBGM
+次回のゲストはラボの事務局員!?
+ラボの活動はアウトプットの自由度が高い
+プログラミング教育は英語教育と同じ轍を踏む!?
+学校の採点評価法がはらむ問題
+2020年の教育改革で何が変わっていくのか？
+英語が苦手な人ほどTOEICの点数を気にする
+荒川パーティの近況報告と広報活動
+ラボの中で広がりつつある音声メデイア
+
+
+Links
+
+
+Episode#20: ラボを30秒で語るには（ゲスト：あけ）
+世界のエリートはなぜ「美意識」を鍛えるのか? 経営における「アート」と「サイエンス」
+ブラック過ぎる教員の労働環境について【せやろがいおじさん】
+SpinOff#11: 小学校での英語教育（ゲスト：ぐると）
+Episode#25: プログラミング教育の必修化
+こえのブログ ＠荒川明美♡ラボ・あらかわパーティ
+インターネットラジオ・井戸端放送局「おやつのじかん」</description>
+		<content:encoded><![CDATA[<p>Another Dawnでよく話題に出てくる<strong>あけ</strong>こと、中部支部・美濃尾張岐阜地区の荒川テューターをゲストにお迎えして、教育について様々な視点から話をしました。</p>
+<h3>Show Notes</h3>
+<ul>
+<li>お父さんに父母会に参加してもらうための仕掛け</li>
+<li>あけの一声で刷新されたイントロBGM</li>
+<li>次回のゲストはラボの事務局員!?</li>
+<li>ラボの活動はアウトプットの自由度が高い</li>
+<li>プログラミング教育は英語教育と同じ轍を踏む!?</li>
+<li>学校の採点評価法がはらむ問題</li>
+<li>2020年の教育改革で何が変わっていくのか？</li>
+<li>英語が苦手な人ほどTOEICの点数を気にする</li>
+<li>荒川パーティの近況報告と広報活動</li>
+<li>ラボの中で広がりつつある音声メデイア</li>
+</ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://h2plus.biz/another-dawn/2017/11/episode-20/">Episode#20: ラボを30秒で語るには（ゲスト：あけ）</a></li>
+<li><a href="https://amzn.to/2Nz2W59" rel="noopener" target="_blank">世界のエリートはなぜ「美意識」を鍛えるのか? 経営における「アート」と「サイエンス」</a></li>
+<li><a href="https://www.youtube.com/watch?v=HTHHz2iEPeg" rel="noopener" target="_blank">ブラック過ぎる教員の労働環境について【せやろがいおじさん】</a></li>
+<li><a href="https://h2plus.biz/another-dawn/2017/03/spinoff-11/">SpinOff#11: 小学校での英語教育（ゲスト：ぐると）</a></li>
+<li><a href="https://h2plus.biz/another-dawn/2018/05/episode-25/">Episode#25: プログラミング教育の必修化</a></li>
+<li><a href="https://ameblo.jp/labo-mikesan/entry-12439311557.html" rel="noopener" target="_blank">こえのブログ ＠荒川明美♡ラボ・あらかわパーティ</a></li>
+<li><a href="https://www.youtube.com/watch?v=K4pYlz7CMMA" rel="noopener" target="_blank">インターネットラジオ・井戸端放送局「おやつのじかん」</a></li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-034.mp3" length="47889214" type="audio/mpeg" />
+		<itunes:subtitle>Another Dawnでよく話題に出てくるあけこと、中部支部・美濃尾張岐阜地区の荒川テューターをゲストにお迎えして、教育について様々な視点から話をしました。  Show Notes   お父さんに父母会に参加してもらうための仕掛け あけの一声で刷新されたイントロBGM 次回のゲストはラボの事務局員!? ラボの活動はアウトプットの自由度が高い プログラミング教育は英語教育と同じ轍を踏む!? 学校の採点評価法がはらむ問題 2020年の教育改革で何が変わっていくのか？ </itunes:subtitle>
+		<itunes:summary><![CDATA[Another Dawnでよく話題に出てくるあけこと、中部支部・美濃尾張岐阜地区の荒川テューターをゲストにお迎えして、教育について様々な視点から話をしました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* お父さんに父母会に参加してもらうための仕掛け<br />
+* あけの一声で刷新されたイントロBGM<br />
+* 次回のゲストはラボの事務局員!?<br />
+* ラボの活動はアウトプットの自由度が高い<br />
+* プログラミング教育は英語教育と同じ轍を踏む!?<br />
+* 学校の採点評価法がはらむ問題<br />
+* 2020年の教育改革で何が変わっていくのか？<br />
+* 英語が苦手な人ほどTOEICの点数を気にする<br />
+* 荒川パーティの近況報告と広報活動<br />
+* ラボの中で広がりつつある音声メデイア<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://h2plus.biz/another-dawn/2017/11/episode-20/">Episode#20: ラボを30秒で語るには（ゲスト：あけ）</a><br />
+* <a href="https://amzn.to/2Nz2W59" rel="noopener" target="_blank">世界のエリートはなぜ「美意識」を鍛えるのか? 経営における「アート」と「サイエンス」</a><br />
+* <a href="https://www.youtube.com/watch?v=HTHHz2iEPeg" rel="noopener" target="_blank">ブラック過ぎる教員の労働環境について【せやろがいおじさん】</a><br />
+* <a href="https://h2plus.biz/another-dawn/2017/03/spinoff-11/">SpinOff#11: 小学校での英語教育（ゲスト：ぐると）</a><br />
+* <a href="https://h2plus.biz/another-dawn/2018/05/episode-25/">Episode#25: プログラミング教育の必修化</a><br />
+* <a href="https://ameblo.jp/labo-mikesan/entry-12439311557.html" rel="noopener" target="_blank">こえのブログ ＠荒川明美♡ラボ・あらかわパーティ</a><br />
+* <a href="https://www.youtube.com/watch?v=K4pYlz7CMMA" rel="noopener" target="_blank">インターネットラジオ・井戸端放送局「おやつのじかん」</a><br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:12:27</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#32: IT業界のセールスマン（ゲスト：たろう）</title>
+		<link>https://h2plus.biz/another-dawn/2019/02/spinoff-32/</link>
+		<pubDate>Thu, 14 Feb 2019 21:00:51 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=860</guid>
+		<description>前回に引き続きカレッジメイトOBのたろうをゲストに迎えて、IT業界の営業マンの生々しい仕事の話や、年末のロスアンゼルス旅行などについて話しました。
+
+Show Notes
+
+
+日本HP（ヒューレット・パッカード）社の遍歴
+セールスからエンジニアへ、そしてまたセールスへ
+次のステップでやりたい仕事
+外資系と日系での企業文化の違い
+ゆうがIT業界の営業畑を斬る
+クリスマスにロスアンゼルス旅行で路頭に迷う
+ジョシュアツリー国立公園で満天の星空
+年末にシアトルでカリーに再会
+ロスアンゼルスでUberの便利さに感動
+Patreonの離脱ポイントはクレジットカードの入力!?</description>
+		<content:encoded><![CDATA[<p><a href="https://h2plus.biz/another-dawn/2019/02/episode-33/">前回</a>に引き続きカレッジメイトOBの<strong>たろう</strong>をゲストに迎えて、IT業界の営業マンの生々しい仕事の話や、年末のロスアンゼルス旅行などについて話しました。</p>
+<h3>Show Notes</h3>
+<ul>
+<li>日本HP（ヒューレット・パッカード）社の遍歴</li>
+<li>セールスからエンジニアへ、そしてまたセールスへ</li>
+<li>次のステップでやりたい仕事</li>
+<li>外資系と日系での企業文化の違い</li>
+<li>ゆうがIT業界の営業畑を斬る</li>
+<li>クリスマスにロスアンゼルス旅行で路頭に迷う</li>
+<li>ジョシュアツリー国立公園で満天の星空</li>
+<li>年末にシアトルでカリーに再会</li>
+<li>ロスアンゼルスでUberの便利さに感動</li>
+<li>Patreonの離脱ポイントはクレジットカードの入力!?</li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-032.mp3" length="53955424" type="audio/mpeg" />
+		<itunes:subtitle>前回に引き続きカレッジメイトOBのたろうをゲストに迎えて、IT業界の営業マンの生々しい仕事の話や、年末のロスアンゼルス旅行などについて話しました。  Show Notes   日本HP（ヒューレット・パッカード）社の遍歴 セールスからエンジニアへ、そしてまたセールスへ 次のステップでやりたい仕事 外資系と日系での企業文化の違い ゆうがIT業界の営業畑を斬る クリスマスにロスアンゼルス旅行で路頭に迷う ジョシュアツリー国立公園で満天の星空 年末にシアトルでカリーに再会 </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2019/02/episode-33/">前回</a>に引き続きカレッジメイトOBのたろうをゲストに迎えて、IT業界の営業マンの生々しい仕事の話や、年末のロスアンゼルス旅行などについて話しました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 日本HP（ヒューレット・パッカード）社の遍歴<br />
+* セールスからエンジニアへ、そしてまたセールスへ<br />
+* 次のステップでやりたい仕事<br />
+* 外資系と日系での企業文化の違い<br />
+* ゆうがIT業界の営業畑を斬る<br />
+* クリスマスにロスアンゼルス旅行で路頭に迷う<br />
+* ジョシュアツリー国立公園で満天の星空<br />
+* 年末にシアトルでカリーに再会<br />
+* ロスアンゼルスでUberの便利さに感動<br />
+* Patreonの離脱ポイントはクレジットカードの入力!?<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:33:54</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#33: おパーティの探し方（ゲスト：たろう）</title>
+		<link>https://h2plus.biz/another-dawn/2019/02/episode-33/</link>
+		<pubDate>Thu, 31 Jan 2019 21:00:11 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=822</guid>
+		<description>カレッジメイトOBのたろうをゲストに迎えて、親の視点から見た教育機関としてのラボについて語りました。
+
+Show Notes
+
+
+ポッドキャストで広がる友達の輪
+現役ラボっ子時代の3人の接点は？
+責任重大な役割を大学生に任せるラボのすごさ
+愛娘の小学校受験を振り返る
+大人になってから聴くラボ・ライブラリ
+子どもをラボに入れようかと検討中
+パーティを選ぶときのさまざまな視点
+大企業派？ベンチャー派？
+ゆうの父母会体験談（再話）
+Another Dawnはラボの宣伝塔!?
+生まれながらにして女子なんだな
+オシリを人質に取る女子力!?
+
+
+Links
+
+
+Episode#20: ラボを30秒で語るには（ゲスト：あけ）
+SpinOff#5: 駆け上がるラボ人生（ゲスト：ワタル）
+Another Dawnサポータープログラム @ Patreon</description>
+		<content:encoded><![CDATA[<p>カレッジメイトOBの<strong>たろう</strong>をゲストに迎えて、親の視点から見た教育機関としてのラボについて語りました。</p>
+<h3>Show Notes</h3>
+<ul>
+<li>ポッドキャストで広がる友達の輪</li>
+<li>現役ラボっ子時代の3人の接点は？</li>
+<li>責任重大な役割を大学生に任せるラボのすごさ</li>
+<li>愛娘の小学校受験を振り返る</li>
+<li>大人になってから聴くラボ・ライブラリ</li>
+<li>子どもをラボに入れようかと検討中</li>
+<li>パーティを選ぶときのさまざまな視点</li>
+<li>大企業派？ベンチャー派？</li>
+<li>ゆうの父母会体験談（再話）</li>
+<li>Another Dawnはラボの宣伝塔!?</li>
+<li>生まれながらにして女子なんだな</li>
+<li>オシリを人質に取る女子力!?</li>
+</ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://h2plus.biz/another-dawn/2017/11/episode-20/" rel="noopener" target="_blank">Episode#20: ラボを30秒で語るには（ゲスト：あけ）</a></li>
+<li><a href="https://h2plus.biz/another-dawn/2016/08/spinoff-5/" rel="noopener" target="_blank">SpinOff#5: 駆け上がるラボ人生（ゲスト：ワタル）</a></li>
+<li><a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a></li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-033.mp3" length="38826974" type="audio/mpeg" />
+		<itunes:subtitle>カレッジメイトOBのたろうをゲストに迎えて、親の視点から見た教育機関としてのラボについて語りました。  Show Notes   ポッドキャストで広がる友達の輪 現役ラボっ子時代の3人の接点は？ 責任重大な役割を大学生に任せるラボのすごさ 愛娘の小学校受験を振り返る 大人になってから聴くラボ・ライブラリ 子どもをラボに入れようかと検討中 パーティを選ぶときのさまざまな視点 大企業派？ベンチャー派？ ゆうの父母会体験談（再話） Another Dawnはラボの宣伝塔!? </itunes:subtitle>
+		<itunes:summary><![CDATA[カレッジメイトOBのたろうをゲストに迎えて、親の視点から見た教育機関としてのラボについて語りました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* ポッドキャストで広がる友達の輪<br />
+* 現役ラボっ子時代の3人の接点は？<br />
+* 責任重大な役割を大学生に任せるラボのすごさ<br />
+* 愛娘の小学校受験を振り返る<br />
+* 大人になってから聴くラボ・ライブラリ<br />
+* 子どもをラボに入れようかと検討中<br />
+* パーティを選ぶときのさまざまな視点<br />
+* 大企業派？ベンチャー派？<br />
+* ゆうの父母会体験談（再話）<br />
+* Another Dawnはラボの宣伝塔!?<br />
+* 生まれながらにして女子なんだな<br />
+* オシリを人質に取る女子力!?<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://h2plus.biz/another-dawn/2017/11/episode-20/" rel="noopener" target="_blank">Episode#20: ラボを30秒で語るには（ゲスト：あけ）</a><br />
+* <a href="https://h2plus.biz/another-dawn/2016/08/spinoff-5/" rel="noopener" target="_blank">SpinOff#5: 駆け上がるラボ人生（ゲスト：ワタル）</a><br />
+* <a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a><br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:02:25</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#32: 時空を越えた「わかもの」（ゲスト：あひる）</title>
+		<link>https://h2plus.biz/another-dawn/2019/01/episode-32/</link>
+		<pubDate>Mon, 14 Jan 2019 21:00:30 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=839</guid>
+		<description>2月中旬に開催される大学生年代ラボっ子の祭典「2018 わかもの in中部」の実行委員長を務めるあひるをゲストに迎えて、わかものフェスティバル＆合宿に懸ける想いについて語っていただきました。
+
+Show Notes
+
+
+    イントロBGMを刷新！
+    Another Dawnのゲスト出演者とのつながり
+    国際交流参加時にポートランドを訪れた記憶
+    「gullらじ。」収録時の裏話
+    北海道支部から九州支部まで全国の大学生年代が集結
+    「わかもの」開催が決まるまで
+    20年前の「わかもの」の記憶を辿る
+    今年の「わかもの」のテーマは『未来 - See Through the Future』
+    ラボでの経験が社会に出てからどう活きているか？
+    「未来」について深く考えたことがない大学生が意外と多い!?
+    大学生年代の就職観の日米比較
+    自分の葬儀の弔辞をイメージして使命を全うする
+
+
+Links
+
+
+    2018わかものin中部・ホームページ
+    2018わかものin中部・Twitterアカウント</description>
+		<content:encoded><![CDATA[<p>2月中旬に開催される大学生年代ラボっ子の祭典「2018 わかもの in中部」の実行委員長を務める<strong>あひる</strong>をゲストに迎えて、わかものフェスティバル＆合宿に懸ける想いについて語っていただきました。</p>
+<h3>Show Notes</h3>
+<ul>
+<li>イントロBGMを刷新！</li>
+<li>Another Dawnのゲスト出演者とのつながり</li>
+<li>国際交流参加時にポートランドを訪れた記憶</li>
+<li>「gullらじ。」収録時の裏話</li>
+<li>北海道支部から九州支部まで全国の大学生年代が集結</li>
+<li>「わかもの」開催が決まるまで</li>
+<li>20年前の「わかもの」の記憶を辿る</li>
+<li>今年の「わかもの」のテーマは『未来 &#8211; See Through the Future』</li>
+<li>ラボでの経験が社会に出てからどう活きているか？</li>
+<li>「未来」について深く考えたことがない大学生が意外と多い!?</li>
+<li>大学生年代の就職観の日米比較</li>
+<li>自分の葬儀の弔辞をイメージして使命を全うする</li>
+</ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://2018wakamonochubu.wixsite.com/mirai" rel="noopener" target="_blank">2018わかものin中部・ホームページ</a></li>
+<li><a href="https://twitter.com/labo_wakamono" rel="noopener" target="_blank">2018わかものin中部・Twitterアカウント</a></li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-032.mp3" length="39903053" type="audio/mpeg" />
+		<itunes:subtitle>2月中旬に開催される大学生年代ラボっ子の祭典「2018 わかもの in中部」の実行委員長を務めるあひるをゲストに迎えて、わかものフェスティバル＆合宿に懸ける想いについて語っていただきました。  Show Notes       イントロBGMを刷新！     Another Dawnのゲスト出演者とのつながり     国際交流参加時にポートランドを訪れた記憶     「gullらじ。」収録時の裏話     北海道支部から九州支部まで全国の大学生年代が集結     「わかもの」開催が決まるまで </itunes:subtitle>
+		<itunes:summary><![CDATA[2月中旬に開催される大学生年代ラボっ子の祭典「2018 わかもの in中部」の実行委員長を務めるあひるをゲストに迎えて、わかものフェスティバル＆合宿に懸ける想いについて語っていただきました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+    * イントロBGMを刷新！<br />
+    * Another Dawnのゲスト出演者とのつながり<br />
+    * 国際交流参加時にポートランドを訪れた記憶<br />
+    * 「gullらじ。」収録時の裏話<br />
+    * 北海道支部から九州支部まで全国の大学生年代が集結<br />
+    * 「わかもの」開催が決まるまで<br />
+    * 20年前の「わかもの」の記憶を辿る<br />
+    * 今年の「わかもの」のテーマは『未来 - See Through the Future』<br />
+    * ラボでの経験が社会に出てからどう活きているか？<br />
+    * 「未来」について深く考えたことがない大学生が意外と多い!?<br />
+    * 大学生年代の就職観の日米比較<br />
+    * 自分の葬儀の弔辞をイメージして使命を全うする<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+    * <a href="https://2018wakamonochubu.wixsite.com/mirai" rel="noopener" target="_blank">2018わかものin中部・ホームページ</a><br />
+    * <a href="https://twitter.com/labo_wakamono" rel="noopener" target="_blank">2018わかものin中部・Twitterアカウント</a><br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:01:59</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#31: 「gullらじ。」の表と裏（ゲスト：アニー）</title>
+		<link>https://h2plus.biz/another-dawn/2018/12/episode-31/</link>
+		<pubDate>Fri, 14 Dec 2018 21:00:11 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=826</guid>
+		<description>ラボ東京支部広報ラジオ「gullらじ。」のメイン・パーソナリティを務めるアニーをゲストに迎えて、公式広報活動としての表の顔と、放送できなかったような裏の顔との両側面から、「gullらじ。」に懸ける想いを語っていただきました。
+
+Show Notes
+
+
+「gullらじ。」でお馴染みの「One Minute Questions」
+世界最大の阿蘇のカルデラで生まれた男
+あだ名「アニー」の由来と「サンディー」を頑なに拒否る妹
+ラスベガスとガーナに行ってみたい！
+「gullらじ。」の誕生秘話
+公式がゆえに厳しい放送内容の検閲
+相方トモくんとの絶妙な掛け合いの裏には
+ラジオはiPhoneがあれば収録できてしまう
+ポッドキャストを配信するための仕組み
+支部活動として「gullらじ。」をどう続けていくか？
+中学生がパロディを作ってしまうほどの反響
+パーソナリティの継承者問題
+
+
+Links
+
+
+ラボ東京支部広報ラジオ『gullらじ。』@ YouTube
+ゆりかもんすたー（ラボ東京支部広報）Twitterアカウント
+Another Dawnサポータープログラム @ Patreon</description>
+		<content:encoded><![CDATA[<p>ラボ東京支部広報ラジオ「gullらじ。」のメイン・パーソナリティを務める<strong>アニー</strong>をゲストに迎えて、公式広報活動としての表の顔と、放送できなかったような裏の顔との両側面から、「gullらじ。」に懸ける想いを語っていただきました。</p>
+<h3>Show Notes</h3>
+<ul>
+<li>「gullらじ。」でお馴染みの「One Minute Questions」</li>
+<li>世界最大の阿蘇のカルデラで生まれた男</li>
+<li>あだ名「アニー」の由来と「サンディー」を頑なに拒否る妹</li>
+<li>ラスベガスとガーナに行ってみたい！</li>
+<li>「gullらじ。」の誕生秘話</li>
+<li>公式がゆえに厳しい放送内容の検閲</li>
+<li>相方トモくんとの絶妙な掛け合いの裏には</li>
+<li>ラジオはiPhoneがあれば収録できてしまう</li>
+<li>ポッドキャストを配信するための仕組み</li>
+<li>支部活動として「gullらじ。」をどう続けていくか？</li>
+<li>中学生がパロディを作ってしまうほどの反響</li>
+<li>パーソナリティの継承者問題</li>
+</ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://www.youtube.com/channel/UCKK1kWYuThbgyEHF6qQuWCg" rel="noopener" target="_blank">ラボ東京支部広報ラジオ『gullらじ。』@ YouTube</a></li>
+<li><a href="https://twitter.com/yurikamonster" rel="noopener" target="_blank">ゆりかもんすたー（ラボ東京支部広報）Twitterアカウント</a></li>
+<li><a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a></li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-031.mp3" length="48502910" type="audio/mpeg" />
+		<itunes:subtitle>ラボ東京支部広報ラジオ「gullらじ。」のメイン・パーソナリティを務めるアニーをゲストに迎えて、公式広報活動としての表の顔と、放送できなかったような裏の顔との両側面から、「gullらじ。」に懸ける想いを語っていただきました。  Show Notes   「gullらじ。」でお馴染みの「One Minute Questions」 世界最大の阿蘇のカルデラで生まれた男 あだ名「アニー」の由来と「サンディー」を頑なに拒否る妹 ラスベガスとガーナに行ってみたい！ 「gullらじ。」の誕生秘話 </itunes:subtitle>
+		<itunes:summary><![CDATA[ラボ東京支部広報ラジオ「gullらじ。」のメイン・パーソナリティを務めるアニーをゲストに迎えて、公式広報活動としての表の顔と、放送できなかったような裏の顔との両側面から、「gullらじ。」に懸ける想いを語っていただきました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 「gullらじ。」でお馴染みの「One Minute Questions」<br />
+* 世界最大の阿蘇のカルデラで生まれた男<br />
+* あだ名「アニー」の由来と「サンディー」を頑なに拒否る妹<br />
+* ラスベガスとガーナに行ってみたい！<br />
+* 「gullらじ。」の誕生秘話<br />
+* 公式がゆえに厳しい放送内容の検閲<br />
+* 相方トモくんとの絶妙な掛け合いの裏には<br />
+* ラジオはiPhoneがあれば収録できてしまう<br />
+* ポッドキャストを配信するための仕組み<br />
+* 支部活動として「gullらじ。」をどう続けていくか？<br />
+* 中学生がパロディを作ってしまうほどの反響<br />
+* パーソナリティの継承者問題<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.youtube.com/channel/UCKK1kWYuThbgyEHF6qQuWCg" rel="noopener" target="_blank">ラボ東京支部広報ラジオ『gullらじ。』@ YouTube</a><br />
+* <a href="https://twitter.com/yurikamonster" rel="noopener" target="_blank">ゆりかもんすたー（ラボ東京支部広報）Twitterアカウント</a><br />
+* <a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:14:52</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#31: Be heard your voice</title>
+		<link>https://h2plus.biz/another-dawn/2018/12/spinoff-31/</link>
+		<pubDate>Fri, 30 Nov 2018 21:00:40 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=819</guid>
+		<description>Show Notes
+
+
+Peingは実は「ペイング」と読む
+ゆうが自らサポーターになってみた感想
+AIでポッドキャストの編集作業を自動化するには？
+投げ銭の為替リスクを検証する
+イントロBGMを決めるサポーター投票やります
+Facebookの統計で見るリスナーの年齢層
+Peingの質問箱に答えるコーナー
+ふじぼうのニックネームの由来
+ゆうの秘密をカミングアウト
+カリフォルニアの山火事による大気汚染
+ふじぼう＆ゆうと仲よくなるには？
+
+
+Links
+
+
+Another Dawn匿名質問箱 @ Peing
+Another Dawnサポータープログラム @ Patreon</description>
+		<content:encoded><![CDATA[<h3>Show Notes</h3>
+<ul>
+<li>Peingは実は「ペイング」と読む</li>
+<li>ゆうが自らサポーターになってみた感想</li>
+<li>AIでポッドキャストの編集作業を自動化するには？</li>
+<li>投げ銭の為替リスクを検証する</li>
+<li>イントロBGMを決めるサポーター投票やります</li>
+<li>Facebookの統計で見るリスナーの年齢層</li>
+<li>Peingの質問箱に答えるコーナー</li>
+<li>ふじぼうのニックネームの由来</li>
+<li>ゆうの秘密をカミングアウト</li>
+<li>カリフォルニアの山火事による大気汚染</li>
+<li>ふじぼう＆ゆうと仲よくなるには？</li>
+</ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://peing.net/ja/_another_dawn_" rel="noopener" target="_blank">Another Dawn匿名質問箱 @ Peing</a></li>
+<li><a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a></li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-031.mp3" length="40351482" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   Peingは実は「ペイング」と読む ゆうが自らサポーターになってみた感想 AIでポッドキャストの編集作業を自動化するには？ 投げ銭の為替リスクを検証する イントロBGMを決めるサポーター投票やります Facebookの統計で見るリスナーの年齢層 Peingの質問箱に答えるコーナー ふじぼうのニックネームの由来 ゆうの秘密をカミングアウト カリフォルニアの山火事による大気汚染 ふじぼう＆ゆうと仲よくなるには？   Links   </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* Peingは実は「ペイング」と読む<br />
+* ゆうが自らサポーターになってみた感想<br />
+* AIでポッドキャストの編集作業を自動化するには？<br />
+* 投げ銭の為替リスクを検証する<br />
+* イントロBGMを決めるサポーター投票やります<br />
+* Facebookの統計で見るリスナーの年齢層<br />
+* Peingの質問箱に答えるコーナー<br />
+* ふじぼうのニックネームの由来<br />
+* ゆうの秘密をカミングアウト<br />
+* カリフォルニアの山火事による大気汚染<br />
+* ふじぼう＆ゆうと仲よくなるには？<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://peing.net/ja/_another_dawn_" rel="noopener" target="_blank">Another Dawn匿名質問箱 @ Peing</a><br />
+* <a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:00:43</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#30: ベトナムに惹かれて（ゲスト：ワタル）</title>
+		<link>https://h2plus.biz/another-dawn/2018/11/spinoff-30/</link>
+		<pubDate>Wed, 14 Nov 2018 21:00:47 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=814</guid>
+		<description>前回に引き続きカレッジメイトOBのワタルをゲスト迎えて、ベトナム・ダナンでのインターンシップの経験を中心に、ベトナムのグルメ事情やトイレ事情（笑）、さらには海外ビジネス武者修行プログラムに話が展開していきました。
+
+Show Notes
+
+
+ベトナム第三の都市・ダナン
+ダナンのご当地ゆるキャラ・ダロンくん
+ダナンの魅力を語る
+ベトナムコーヒーの美味しさの秘密
+フランスパンが絶品のバインミー
+実は先進的な（？）手動のシャワートイレ
+モンゴルでの原体験から東南アジアに目を向けた
+アニメではドラえもんが不動の人気
+タクシーがマリオカート状態に
+ソイガー屋さんとの非言語コミュニケーション
+海外ビジネス武者修行プログラムとの出会い
+
+
+Links
+
+
+Happy Da Nang - ダナン外務局公認観光情報サイト
+Episode#16: コーチングはアートの世界（ゲスト：Nao）
+海外ビジネス武者修行プログラム</description>
+		<content:encoded><![CDATA[<p><a href="https://h2plus.biz/another-dawn/2018/11/episode-30/">前回</a>に引き続きカレッジメイトOBの<strong>ワタル</strong>をゲスト迎えて、ベトナム・ダナンでのインターンシップの経験を中心に、ベトナムのグルメ事情やトイレ事情（笑）、さらには海外ビジネス武者修行プログラムに話が展開していきました。</p>
+<h3>Show Notes</h3>
+<ul>
+<li>ベトナム第三の都市・ダナン</li>
+<li>ダナンのご当地ゆるキャラ・ダロンくん</li>
+<li>ダナンの魅力を語る</li>
+<li>ベトナムコーヒーの美味しさの秘密</li>
+<li>フランスパンが絶品のバインミー</li>
+<li>実は先進的な（？）手動のシャワートイレ</li>
+<li>モンゴルでの原体験から東南アジアに目を向けた</li>
+<li>アニメではドラえもんが不動の人気</li>
+<li>タクシーがマリオカート状態に</li>
+<li>ソイガー屋さんとの非言語コミュニケーション</li>
+<li>海外ビジネス武者修行プログラムとの出会い</li>
+</ul>
+<h3>Links</h3>
+<ul>
+<li><a href="https://happydanang.info/" rel="noopener" target="_blank">Happy Da Nang &#8211; ダナン外務局公認観光情報サイト</a></li>
+<li><a href="https://h2plus.biz/another-dawn/2017/07/episode-16/">Episode#16: コーチングはアートの世界（ゲスト：Nao）</a></li>
+<li><a href="https://mushashugyo.jp/" rel="noopener" target="_blank">海外ビジネス武者修行プログラム</a></li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-030.mp3" length="27911679" type="audio/mpeg" />
+		<itunes:subtitle>前回に引き続きカレッジメイトOBのワタルをゲスト迎えて、ベトナム・ダナンでのインターンシップの経験を中心に、ベトナムのグルメ事情やトイレ事情（笑）、さらには海外ビジネス武者修行プログラムに話が展開していきました。  Show Notes   ベトナム第三の都市・ダナン ダナンのご当地ゆるキャラ・ダロンくん ダナンの魅力を語る ベトナムコーヒーの美味しさの秘密 フランスパンが絶品のバインミー 実は先進的な（？）手動のシャワートイレ モンゴルでの原体験から東南アジアに目を向けた </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2018/11/episode-30/">前回</a>に引き続きカレッジメイトOBのワタルをゲスト迎えて、ベトナム・ダナンでのインターンシップの経験を中心に、ベトナムのグルメ事情やトイレ事情（笑）、さらには海外ビジネス武者修行プログラムに話が展開していきました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* ベトナム第三の都市・ダナン<br />
+* ダナンのご当地ゆるキャラ・ダロンくん<br />
+* ダナンの魅力を語る<br />
+* ベトナムコーヒーの美味しさの秘密<br />
+* フランスパンが絶品のバインミー<br />
+* 実は先進的な（？）手動のシャワートイレ<br />
+* モンゴルでの原体験から東南アジアに目を向けた<br />
+* アニメではドラえもんが不動の人気<br />
+* タクシーがマリオカート状態に<br />
+* ソイガー屋さんとの非言語コミュニケーション<br />
+* 海外ビジネス武者修行プログラムとの出会い<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://happydanang.info/" rel="noopener" target="_blank">Happy Da Nang - ダナン外務局公認観光情報サイト</a><br />
+* <a href="https://h2plus.biz/another-dawn/2017/07/episode-16/">Episode#16: コーチングはアートの世界（ゲスト：Nao）</a><br />
+* <a href="https://mushashugyo.jp/" rel="noopener" target="_blank">海外ビジネス武者修行プログラム</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>56:05</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#30: 人の優しさに触れて涙した（ゲスト：ワタル）</title>
+		<link>https://h2plus.biz/another-dawn/2018/11/episode-30/</link>
+		<pubDate>Wed, 31 Oct 2018 21:00:39 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=809</guid>
+		<description>カレッジメイトOBのワタルをゲスト迎えて、プロジェクトリーダーとして関わっている岩手県陸前高田市広田町の町興しプロジェクト「Change Maker Study Program」について語っていただきました。
+
+Show Notes
+
+
+ここ1年のワタルの最新動向レポート
+ペンシルバニア州でのアーミッシュ突撃訪問作戦
+アーミッシュから学んだ町興しのシンプルな答え
+Change Maker Study Programに関わった経緯
+Another Dawn presents CMSP説明会
+陸前高田市広田町の魅力は「ひと」
+卒業後に広田町に移住してからの展望
+
+
+Links
+
+
+Change Maker Study Program
+NPO法人・SET
+ワタルがゲスト出演した過去のエピソード
+
+
+Episode#15: ミッキーがくれたチャンス
+SpinOff#5: 駆け上がるラボ人生
+Episode#5: 現役カレッジメイト登場</description>
+		<content:encoded><![CDATA[<p>カレッジメイトOBの<strong>ワタル</strong>をゲスト迎えて、プロジェクトリーダーとして関わっている岩手県陸前高田市広田町の町興しプロジェクト「Change Maker Study Program」について語っていただきました。</p>
+<h3>Show Notes</h3>
+<ul>
+<li>ここ1年のワタルの最新動向レポート</li>
+<li>ペンシルバニア州でのアーミッシュ突撃訪問作戦</li>
+<li>アーミッシュから学んだ町興しのシンプルな答え</li>
+<li>Change Maker Study Programに関わった経緯</li>
+<li>Another Dawn presents CMSP説明会</li>
+<li>陸前高田市広田町の魅力は「ひと」</li>
+<li>卒業後に広田町に移住してからの展望</li>
+</ul>
+<h3>Links</h3>
+<ul>
+<li><a href="http://1week.set-change-maker-program.com/" rel="noopener" target="_blank">Change Maker Study Program</a></li>
+<li><a href="https://set-hirota.com/" rel="noopener" target="_blank">NPO法人・SET</a></li>
+<li>ワタルがゲスト出演した過去のエピソード
+<ul>
+<li><a href="https://h2plus.biz/another-dawn/2017/06/episode-15/">Episode#15: ミッキーがくれたチャンス</a></li>
+<li><a href="https://h2plus.biz/another-dawn/2016/08/spinoff-5/">SpinOff#5: 駆け上がるラボ人生</a></li>
+<li><a href="https://h2plus.biz/another-dawn/2016/08/episode-5/">Episode#5: 現役カレッジメイト登場</a></li>
+</ul>
+</li>
+</ul>
+]]></content:encoded>
+		<enclosure url="https://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-030.mp3" length="31604058" type="audio/mpeg" />
+		<itunes:subtitle>カレッジメイトOBのワタルをゲスト迎えて、プロジェクトリーダーとして関わっている岩手県陸前高田市広田町の町興しプロジェクト「Change Maker Study Program」について語っていただきました。  Show Notes   ここ1年のワタルの最新動向レポート ペンシルバニア州でのアーミッシュ突撃訪問作戦 アーミッシュから学んだ町興しのシンプルな答え Change Maker Study Programに関わった経緯 Another Dawn presents CMSP説明会 </itunes:subtitle>
+		<itunes:summary><![CDATA[カレッジメイトOBのワタルをゲスト迎えて、プロジェクトリーダーとして関わっている岩手県陸前高田市広田町の町興しプロジェクト「Change Maker Study Program」について語っていただきました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* ここ1年のワタルの最新動向レポート<br />
+* ペンシルバニア州でのアーミッシュ突撃訪問作戦<br />
+* アーミッシュから学んだ町興しのシンプルな答え<br />
+* Change Maker Study Programに関わった経緯<br />
+* Another Dawn presents CMSP説明会<br />
+* 陸前高田市広田町の魅力は「ひと」<br />
+* 卒業後に広田町に移住してからの展望<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="http://1week.set-change-maker-program.com/" rel="noopener" target="_blank">Change Maker Study Program</a><br />
+* <a href="https://set-hirota.com/" rel="noopener" target="_blank">NPO法人・SET</a><br />
+* ワタルがゲスト出演した過去のエピソード<br />
+<br />
+<br />
+* <a href="https://h2plus.biz/another-dawn/2017/06/episode-15/">Episode#15: ミッキーがくれたチャンス</a><br />
+* <a href="https://h2plus.biz/another-dawn/2016/08/spinoff-5/">SpinOff#5: 駆け上がるラボ人生</a><br />
+* <a href="https://h2plus.biz/another-dawn/2016/08/episode-5/">Episode#5: 現役カレッジメイト登場</a><br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>46:06</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#29: ハマるべくしてハマったキャンプ</title>
+		<link>https://h2plus.biz/another-dawn/2018/10/spinoff-29/</link>
+		<pubDate>Sun, 14 Oct 2018 21:00:25 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=801</guid>
+		<description>Show Notes
+
+
+過去2回のエピソードで偏向報道疑惑!?
+パーティの夏活動報告会を振り返る
+ラボキャンプでテントを張るアウトドアロッジ
+動物園でハロウィンの夜にキャンプをする
+キャンプグッズ一式を揃えるまで
+キラキラ投稿の舞台裏
+買うべきか借りるべきか問題
+シリコンバレーに行くのは時期尚早!?
+Patreonでのサポーター絶賛受付中！
+現役大学生活動によるラジオ番組
+
+
+Links
+
+
+スノーピーク * Snow Peak
+Another Dawnサポータープログラム @ Patreon
+ラボ東京支部広報ラジオ『gullらじ。』</description>
+		<content:encoded><![CDATA[<h3>Show Notes</h3>
+<ul>
+<li>過去2回のエピソードで偏向報道疑惑!?</li>
+<li>パーティの夏活動報告会を振り返る</li>
+<li>ラボキャンプでテントを張るアウトドアロッジ</li>
+<li>動物園でハロウィンの夜にキャンプをする</li>
+<li>キャンプグッズ一式を揃えるまで</li>
+<li>キラキラ投稿の舞台裏</li>
+<li>買うべきか借りるべきか問題</li>
+<li>シリコンバレーに行くのは時期尚早!?</li>
+<li>Patreonでのサポーター絶賛受付中！</li>
+<li>現役大学生活動によるラジオ番組</li>
+</ul>
+<h2>Links</h2>
+<ul>
+<li><a href="https://www.snowpeak.co.jp/" rel="noopener" target="_blank">スノーピーク * Snow Peak</a></li>
+<li><a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a></li>
+<li><a href="https://www.youtube.com/channel/UCKK1kWYuThbgyEHF6qQuWCg/videos" rel="noopener" target="_blank">ラボ東京支部広報ラジオ『gullらじ。』</a></li>
+</ul>
+]]></content:encoded>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-029.mp3" length="36856281" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   過去2回のエピソードで偏向報道疑惑!? パーティの夏活動報告会を振り返る ラボキャンプでテントを張るアウトドアロッジ 動物園でハロウィンの夜にキャンプをする キャンプグッズ一式を揃えるまで キラキラ投稿の舞台裏 買うべきか借りるべきか問題 シリコンバレーに行くのは時期尚早!? Patreonでのサポーター絶賛受付中！ 現役大学生活動によるラジオ番組   Links   スノーピーク * Snow Peak Another Dawnサポータープログラム @ Patreon </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 過去2回のエピソードで偏向報道疑惑!?<br />
+* パーティの夏活動報告会を振り返る<br />
+* ラボキャンプでテントを張るアウトドアロッジ<br />
+* 動物園でハロウィンの夜にキャンプをする<br />
+* キャンプグッズ一式を揃えるまで<br />
+* キラキラ投稿の舞台裏<br />
+* 買うべきか借りるべきか問題<br />
+* シリコンバレーに行くのは時期尚早!?<br />
+* Patreonでのサポーター絶賛受付中！<br />
+* 現役大学生活動によるラジオ番組<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.snowpeak.co.jp/" rel="noopener" target="_blank">スノーピーク * Snow Peak</a><br />
+* <a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a><br />
+* <a href="https://www.youtube.com/channel/UCKK1kWYuThbgyEHF6qQuWCg/videos" rel="noopener" target="_blank">ラボ東京支部広報ラジオ『gullらじ。』</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>53:46</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#28: 雨ニモ負ケズ（ゲスト：鮎）</title>
+		<link>https://h2plus.biz/another-dawn/2018/10/spinoff-28/</link>
+		<pubDate>Sun, 30 Sep 2018 21:00:30 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=791</guid>
+		<description>前回に引き続き鮎をゲストに迎えて、高校留学から10年の時を経てアメリカで仕事に就くまでの経緯を話してもらいました。
+
+Show Notes
+
+
+渡米のきっかけはラボでの留学経験
+韓国にも留学して調子に乗っていた時期
+ラボ留学時にお世話になった事務局の方がロールモデルに
+旅行会社に就職したものの5年で退職して韓国に移住
+ラボ留学から10年の時を経てアメリカで仕事を見つけた
+日本では生きづらいと感じたのはナゼ？
+日本に帰りたくても帰れないビザ事情
+高過ぎるシリコンバレーの生活コスト
+不明朗会計なアメリカの医療費の仕組み
+鮎のあだ名の由来
+日本にいる元ラボっ子の友人と毎日電話
+円満卒業で締めくくれなかったラボ人生
+
+
+Links
+
+
+Another Dawnサポータープログラム @ Patreon
+Another Dawn匿名質問箱 @ Peing</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-028.mp3" length="37171796" type="audio/mpeg" />
+		<itunes:subtitle>前回に引き続き鮎をゲストに迎えて、高校留学から10年の時を経てアメリカで仕事に就くまでの経緯を話してもらいました。  Show Notes   渡米のきっかけはラボでの留学経験 韓国にも留学して調子に乗っていた時期 ラボ留学時にお世話になった事務局の方がロールモデルに 旅行会社に就職したものの5年で退職して韓国に移住 ラボ留学から10年の時を経てアメリカで仕事を見つけた 日本では生きづらいと感じたのはナゼ？ 日本に帰りたくても帰れないビザ事情 高過ぎるシリコンバレーの生活コスト </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2018/09/episode-29/">前回</a>に引き続き鮎をゲストに迎えて、高校留学から10年の時を経てアメリカで仕事に就くまでの経緯を話してもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 渡米のきっかけはラボでの留学経験<br />
+* 韓国にも留学して調子に乗っていた時期<br />
+* ラボ留学時にお世話になった事務局の方がロールモデルに<br />
+* 旅行会社に就職したものの5年で退職して韓国に移住<br />
+* ラボ留学から10年の時を経てアメリカで仕事を見つけた<br />
+* 日本では生きづらいと感じたのはナゼ？<br />
+* 日本に帰りたくても帰れないビザ事情<br />
+* 高過ぎるシリコンバレーの生活コスト<br />
+* 不明朗会計なアメリカの医療費の仕組み<br />
+* 鮎のあだ名の由来<br />
+* 日本にいる元ラボっ子の友人と毎日電話<br />
+* 円満卒業で締めくくれなかったラボ人生<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a><br />
+* <a href="https://peing.net/ja/_another_dawn_" rel="noopener" target="_blank">Another Dawn匿名質問箱 @ Peing</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>49:55</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#29: シリコンバレーのエコシステム（ゲスト：鮎）</title>
+		<link>https://h2plus.biz/another-dawn/2018/09/episode-29/</link>
+		<pubDate>Fri, 14 Sep 2018 21:00:52 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=782</guid>
+		<description>ふじぼうが9月に参加した大学生向け社会人フォーラムでお世話になった鮎をゲストにお迎えして、社会人フォーラムの様子やシリコンバレー体感ツアーについて話を伺いました。鮎はシリコンバレー体感ツアーの企画・運営を行っているLCE（Lighthouse Career Encourage）で働く元ラボっ子です。
+
+Show Notes
+
+
+鮎とふじぼうのつながり
+大学生向けの社会人フォーラム再び
+エンジニアは理系に人気の職業
+シリコンバレー体感ツアーの紹介
+シリコンバレーのエコシステムとカルチャー
+ツアーに参加した大学生のモチベーション
+ラボの経験が活きる企画運営の仕事
+ゆうと話すのを楽しみにしている鮎
+
+
+Links
+
+
+グローバル人材・企業体感プログラム in シリコンバレー @ LCE
+SpinOff#17: It’s a small world
+Another Dawnサポータープログラム @ Patreon
+Another Dawn匿名質問箱 @ Peing</description>
+		<enclosure url="https://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-029.mp3" length="48946180" type="audio/mpeg" />
+		<itunes:subtitle>ふじぼうが9月に参加した大学生向け社会人フォーラムでお世話になった鮎をゲストにお迎えして、社会人フォーラムの様子やシリコンバレー体感ツアーについて話を伺いました。鮎はシリコンバレー体感ツアーの企画・運営を行っているLCE（Lighthouse Career Encourage）で働く元ラボっ子です。  Show Notes   鮎とふじぼうのつながり 大学生向けの社会人フォーラム再び エンジニアは理系に人気の職業 シリコンバレー体感ツアーの紹介 シリコンバレーのエコシステムとカルチャー </itunes:subtitle>
+		<itunes:summary><![CDATA[ふじぼうが9月に参加した大学生向け社会人フォーラムでお世話になった鮎をゲストにお迎えして、社会人フォーラムの様子やシリコンバレー体感ツアーについて話を伺いました。鮎はシリコンバレー体感ツアーの企画・運営を行っているLCE（Lighthouse Career Encourage）で働く元ラボっ子です。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 鮎とふじぼうのつながり<br />
+* 大学生向けの社会人フォーラム再び<br />
+* エンジニアは理系に人気の職業<br />
+* シリコンバレー体感ツアーの紹介<br />
+* シリコンバレーのエコシステムとカルチャー<br />
+* ツアーに参加した大学生のモチベーション<br />
+* ラボの経験が活きる企画運営の仕事<br />
+* ゆうと話すのを楽しみにしている鮎<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="http://www.lce-edu.com/program/sanfrancisco_original/" rel="noopener" target="_blank">グローバル人材・企業体感プログラム in シリコンバレー @ LCE</a><br />
+* <a href="https://h2plus.biz/another-dawn/2017/09/spinoff-17/">SpinOff#17: It’s a small world</a><br />
+* <a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a><br />
+* <a href="https://peing.net/ja/_another_dawn_" rel="noopener" target="_blank">Another Dawn匿名質問箱 @ Peing</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:03:49</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#28: ラボって何ですか？</title>
+		<link>https://h2plus.biz/another-dawn/2018/09/episode-28/</link>
+		<pubDate>Fri, 31 Aug 2018 21:00:31 +0000</pubDate>
+		<guid isPermaLink="false">https://h2plus.biz/another-dawn/?p=778</guid>
+		<description>Show Notes
+
+
+ラボを知らないリスナーのためのエピソード
+基本的には週1回の習い事・パーティ活動
+ソングバードとテーマ活動という2本柱
+幼児から大学生までの異年齢交流
+運営母体はラボ教育センター・通称ラボセン
+年代とともにスケールアップする中高大生活動
+ラボっ子だけで発表会の運営をする実行委員会
+夏・冬・春に催される全国規模のキャンプ
+キャンプで3泊4日のロッジ運営を任されるシニアメイト
+海外で1ヶ月のホームステイを経験する国際交流
+ことばがこどもの未来をつくる
+
+
+Links
+
+
+ラボ・パーティ公式サイト
+ラボ・パーティ @ Wikipedia
+ラボランドくろひめ
+Another Dawnサポータープログラム @ Patreon
+Another Dawn匿名質問箱 @ Peing</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-028.mp3" length="40547357" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   ラボを知らないリスナーのためのエピソード 基本的には週1回の習い事・パーティ活動 ソングバードとテーマ活動という2本柱 幼児から大学生までの異年齢交流 運営母体はラボ教育センター・通称ラボセン 年代とともにスケールアップする中高大生活動 ラボっ子だけで発表会の運営をする実行委員会 夏・冬・春に催される全国規模のキャンプ キャンプで3泊4日のロッジ運営を任されるシニアメイト 海外で1ヶ月のホームステイを経験する国際交流 ことばがこどもの未来をつくる   Links   </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* ラボを知らないリスナーのためのエピソード<br />
+* 基本的には週1回の習い事・パーティ活動<br />
+* ソングバードとテーマ活動という2本柱<br />
+* 幼児から大学生までの異年齢交流<br />
+* 運営母体はラボ教育センター・通称ラボセン<br />
+* 年代とともにスケールアップする中高大生活動<br />
+* ラボっ子だけで発表会の運営をする実行委員会<br />
+* 夏・冬・春に催される全国規模のキャンプ<br />
+* キャンプで3泊4日のロッジ運営を任されるシニアメイト<br />
+* 海外で1ヶ月のホームステイを経験する国際交流<br />
+* ことばがこどもの未来をつくる<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.labo-party.jp/" rel="noopener" target="_blank">ラボ・パーティ公式サイト</a><br />
+* <a href="https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%9C%E3%83%BB%E3%83%91%E3%83%BC%E3%83%86%E3%82%A3" rel="noopener" target="_blank">ラボ・パーティ @ Wikipedia</a><br />
+* <a href="http://www.laboland.jp/" rel="noopener" target="_blank">ラボランドくろひめ</a><br />
+* <a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a><br />
+* <a href="https://peing.net/ja/_another_dawn_" rel="noopener" target="_blank">Another Dawn匿名質問箱 @ Peing</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>59:55</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#27: 歴史から学んだ方がいいよね</title>
+		<link>https://h2plus.biz/another-dawn/2018/08/spinoff-27/</link>
+		<pubDate>Tue, 31 Jul 2018 21:00:58 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=709</guid>
+		<description>Show Notes
+
+
+サポータープログラムと質問箱のお知らせ
+ポッドキャストで何を話してるの？
+新元号にまつわるITシステムの問題
+独立してからのワークライフバランス
+山一證券の倒産劇を舞台にしたドラマ
+この猛暑で東京オリンピックやれるのか？
+本田圭佑とウィル・スミスとゆうの従弟と
+ステーキで失敗しない低温調理器
+
+
+Links
+
+
+Another Dawnサポータープログラム @ Patreon
+Another Dawn匿名質問箱 @ Peing
+連続ドラマW しんがり ～山一證券 最後の聖戦～
+本田圭佑氏とウィル・スミス氏、社会問題に特化した「Dreamers Fund」を創設
+Anova Culinary Sous Vide Precision Cooker</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-027.mp3" length="41704567" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   サポータープログラムと質問箱のお知らせ ポッドキャストで何を話してるの？ 新元号にまつわるITシステムの問題 独立してからのワークライフバランス 山一證券の倒産劇を舞台にしたドラマ この猛暑で東京オリンピックやれるのか？ 本田圭佑とウィル・スミスとゆうの従弟と ステーキで失敗しない低温調理器   Links   Another Dawnサポータープログラム @ Patreon Another Dawn匿名質問箱 @ Peing </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* サポータープログラムと質問箱のお知らせ<br />
+* ポッドキャストで何を話してるの？<br />
+* 新元号にまつわるITシステムの問題<br />
+* 独立してからのワークライフバランス<br />
+* 山一證券の倒産劇を舞台にしたドラマ<br />
+* この猛暑で東京オリンピックやれるのか？<br />
+* 本田圭佑とウィル・スミスとゆうの従弟と<br />
+* ステーキで失敗しない低温調理器<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.patreon.com/AnotherDawnPodcast" rel="noopener" target="_blank">Another Dawnサポータープログラム @ Patreon</a><br />
+* <a href="https://peing.net/ja/_another_dawn_" rel="noopener" target="_blank">Another Dawn匿名質問箱 @ Peing</a><br />
+* <a href="https://amzn.to/2AAmZ0n" rel="noopener" target="_blank">連続ドラマW しんがり ～山一證券 最後の聖戦～</a><br />
+* <a href="http://thebridge.jp/2018/07/keisuke-honda-will-smith-launch-dreamers-fund" rel="noopener" target="_blank">本田圭佑氏とウィル・スミス氏、社会問題に特化した「Dreamers Fund」を創設</a><br />
+* <a href="https://amzn.to/2L8YhFQ" rel="noopener" target="_blank">Anova Culinary Sous Vide Precision Cooker</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>54:31</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#26: リスナーとの新しいコミュニケーション</title>
+		<link>https://h2plus.biz/another-dawn/2018/07/spinoff-26/</link>
+		<pubDate>Sat, 14 Jul 2018 21:00:36 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=700</guid>
+		<description>Show Notes
+
+
+まりぞうの施術を受けてきた
+マヤ暦で見る相性占い
+サポータープログラムの検討会
+投げ銭をコンテンツの評価システムとして機能させる？
+寄付された側だけでなく寄付する側も救われる説
+Peingによる匿名目安箱
+日本のオンライン少額決済の実情
+
+
+Links
+
+
+グローバル整体サロン・メラハンド</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-026.mp3" length="36063159" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   まりぞうの施術を受けてきた マヤ暦で見る相性占い サポータープログラムの検討会 投げ銭をコンテンツの評価システムとして機能させる？ 寄付された側だけでなく寄付する側も救われる説 Peingによる匿名目安箱 日本のオンライン少額決済の実情   Links   グローバル整体サロン・メラハンド</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* <a href="https://h2plus.biz/another-dawn/guests/%e3%81%be%e3%82%8a%e3%81%9e%e3%81%86/">まりぞう</a>の施術を受けてきた<br />
+* マヤ暦で見る相性占い<br />
+* サポータープログラムの検討会<br />
+* 投げ銭をコンテンツの評価システムとして機能させる？<br />
+* 寄付された側だけでなく寄付する側も救われる説<br />
+* Peingによる匿名目安箱<br />
+* 日本のオンライン少額決済の実情<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="http://merah-hand.com/" rel="noopener" target="_blank">グローバル整体サロン・メラハンド</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>48:29</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#25: ラボっ子の親としての苦悩</title>
+		<link>https://h2plus.biz/another-dawn/2018/07/spinoff-25/</link>
+		<pubDate>Sat, 30 Jun 2018 21:00:01 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=695</guid>
+		<description>Show Notes
+
+
+お盆休みの申請
+五感を刺激するキックオフパーティ
+才能ある人々が活躍できるプラットフォームとは
+神奈川支部テーマ活動大会に出場
+口を挟まないように我慢を続けた苦悩の日々
+なかなかラボパパになりきれない
+改めてキックオフパーティの準備期間を振り返る</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-025.mp3" length="35594499" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   お盆休みの申請 五感を刺激するキックオフパーティ 才能ある人々が活躍できるプラットフォームとは 神奈川支部テーマ活動大会に出場 口を挟まないように我慢を続けた苦悩の日々 なかなかラボパパになりきれない 改めてキックオフパーティの準備期間を振り返る</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* お盆休みの申請<br />
+* 五感を刺激するキックオフパーティ<br />
+* 才能ある人々が活躍できるプラットフォームとは<br />
+* 神奈川支部テーマ活動大会に出場<br />
+* 口を挟まないように我慢を続けた苦悩の日々<br />
+* なかなかラボパパになりきれない<br />
+* 改めてキックオフパーティの準備期間を振り返る<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>52:30</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#24: 夏休みを取るにも忖度!?（ゲスト：Sammy）</title>
+		<link>https://h2plus.biz/another-dawn/2018/06/spinoff-24/</link>
+		<pubDate>Thu, 14 Jun 2018 21:00:45 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=681</guid>
+		<description>前回に引き続きSammyをゲストに迎えて、社会に出てからの経験について語ってもらいました。
+
+Show Notes
+
+
+Sammyはどんな仕事をしている？
+仕事の進捗管理のコツ
+上司・先輩との効果的なコミュニケーション
+わからないことを質問するのは恥!?
+社会人になって受けたカルチャーショック
+属人的な暗黙知が共有されにくい問題
+夏休みを取るにも忖度!?
+意図せずパワハラと捉えられる可能性
+呑みニケーションの潜在的メリット
+二次元の英語は学生時代にちゃんと勉強しておこう
+
+
+Links
+
+
+新人VS.先輩　会社で「びっくり体験」ランキング</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-024.mp3" length="55809609" type="audio/mpeg" />
+		<itunes:subtitle>前回に引き続きSammyをゲストに迎えて、社会に出てからの経験について語ってもらいました。  Show Notes   Sammyはどんな仕事をしている？ 仕事の進捗管理のコツ 上司・先輩との効果的なコミュニケーション わからないことを質問するのは恥!? 社会人になって受けたカルチャーショック 属人的な暗黙知が共有されにくい問題 夏休みを取るにも忖度!? 意図せずパワハラと捉えられる可能性 呑みニケーションの潜在的メリット 二次元の英語は学生時代にちゃんと勉強しておこう   Links   </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2018/06/episode-27/">前回</a>に引き続きSammyをゲストに迎えて、社会に出てからの経験について語ってもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* Sammyはどんな仕事をしている？<br />
+* 仕事の進捗管理のコツ<br />
+* 上司・先輩との効果的なコミュニケーション<br />
+* わからないことを質問するのは恥!?<br />
+* 社会人になって受けたカルチャーショック<br />
+* 属人的な暗黙知が共有されにくい問題<br />
+* 夏休みを取るにも忖度!?<br />
+* 意図せずパワハラと捉えられる可能性<br />
+* 呑みニケーションの潜在的メリット<br />
+* 二次元の英語は学生時代にちゃんと勉強しておこう<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://style.nikkei.com/article/DGXMZO28377070Q8A320C1W03000" rel="noopener" target="_blank">新人VS.先輩　会社で「びっくり体験」ランキング</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:22:20</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#27: 頭の中の世界地図をアップロードしよう（ゲスト：Sammy）</title>
+		<link>https://h2plus.biz/another-dawn/2018/06/episode-27/</link>
+		<pubDate>Thu, 31 May 2018 21:00:54 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=642</guid>
+		<description>2016年度卒のカレッジメイトOGであるSammyをゲストに迎えて、カレッジメイト活動・国際交流村に掛けていた想いを語ってもらいました。
+
+Show Notes
+
+
+生い立ちからラボ人生を振り返る
+ラボライブラリー「寿限無」の小坊主役で声優
+カレッジメイトを始めたキッカケ
+2秒で巻かれた4年間のカレッジメイト活動
+現役世代との接点をいかに維持するか
+カレッジメイト会議が左派でコーチ会議が右派？
+メディア・リテラシー勉強会から国際交流村へ
+能動的に一次情報にアクセスすることの重要性
+「国際交流のつどい」の体験記はステレオタイプを生む？
+想像と違う国際交流体験に対してクレームする親
+カレッジメイトによるキャラバン隊
+
+
+Links
+
+
+Episode#1: メディア・リテラシー</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-027.mp3" length="46589759" type="audio/mpeg" />
+		<itunes:subtitle>2016年度卒のカレッジメイトOGであるSammyをゲストに迎えて、カレッジメイト活動・国際交流村に掛けていた想いを語ってもらいました。  Show Notes   生い立ちからラボ人生を振り返る ラボライブラリー「寿限無」の小坊主役で声優 カレッジメイトを始めたキッカケ 2秒で巻かれた4年間のカレッジメイト活動 現役世代との接点をいかに維持するか カレッジメイト会議が左派でコーチ会議が右派？ メディア・リテラシー勉強会から国際交流村へ 能動的に一次情報にアクセスすることの重要性 </itunes:subtitle>
+		<itunes:summary><![CDATA[2016年度卒のカレッジメイトOGであるSammyをゲストに迎えて、カレッジメイト活動・国際交流村に掛けていた想いを語ってもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 生い立ちからラボ人生を振り返る<br />
+* ラボライブラリー「寿限無」の小坊主役で声優<br />
+* カレッジメイトを始めたキッカケ<br />
+* 2秒で巻かれた4年間のカレッジメイト活動<br />
+* 現役世代との接点をいかに維持するか<br />
+* カレッジメイト会議が左派でコーチ会議が右派？<br />
+* メディア・リテラシー勉強会から国際交流村へ<br />
+* 能動的に一次情報にアクセスすることの重要性<br />
+* 「国際交流のつどい」の体験記はステレオタイプを生む？<br />
+* 想像と違う国際交流体験に対してクレームする親<br />
+* カレッジメイトによるキャラバン隊<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://h2plus.biz/another-dawn/2016/04/episode-1/">Episode#1: メディア・リテラシー</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:11:38</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#26: AIに仕事を奪われないために</title>
+		<link>https://h2plus.biz/another-dawn/2018/05/episode-26/</link>
+		<pubDate>Mon, 14 May 2018 21:00:29 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=624</guid>
+		<description>Show Notes
+
+
+将棋・囲碁で人間がAIに勝てなくなった
+AIに仕事を奪われる職種とは？
+プログラミング的思考の根底にあるもの
+AIが得意な仕事と人間にしかできない仕事
+ITによる業務効率化で仕事のスタイルは変わった？
+シリコンバレーでのプログラミング教育
+教育者の負担を減らすための仕組み
+プログラミングを通して学べること
+キーボード入力から音声入力がスタンダードに
+ゴールはネット上で自己学習できるレベル
+
+
+Links
+
+
+囲碁の最強人工知能 AlphaGo（アルファ碁）の仕組みとは？
+Kodable: Programming for Kids</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-026.mp3" length="38897267" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   将棋・囲碁で人間がAIに勝てなくなった AIに仕事を奪われる職種とは？ プログラミング的思考の根底にあるもの AIが得意な仕事と人間にしかできない仕事 ITによる業務効率化で仕事のスタイルは変わった？ シリコンバレーでのプログラミング教育 教育者の負担を減らすための仕組み プログラミングを通して学べること キーボード入力から音声入力がスタンダードに ゴールはネット上で自己学習できるレベル   Links   囲碁の最強人工知能 AlphaGo（アルファ碁）の仕組みとは？ </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 将棋・囲碁で人間がAIに勝てなくなった<br />
+* AIに仕事を奪われる職種とは？<br />
+* プログラミング的思考の根底にあるもの<br />
+* AIが得意な仕事と人間にしかできない仕事<br />
+* ITによる業務効率化で仕事のスタイルは変わった？<br />
+* シリコンバレーでのプログラミング教育<br />
+* 教育者の負担を減らすための仕組み<br />
+* プログラミングを通して学べること<br />
+* キーボード入力から音声入力がスタンダードに<br />
+* ゴールはネット上で自己学習できるレベル<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://tech-camp.in/note/technology/32855/" rel="noopener" target="_blank">囲碁の最強人工知能 AlphaGo（アルファ碁）の仕組みとは？</a><br />
+* <a href="https://www.kodable.com/" rel="noopener" target="_blank">Kodable: Programming for Kids</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>57:05</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#25: プログラミング教育の必修化</title>
+		<link>https://h2plus.biz/another-dawn/2018/05/episode-25/</link>
+		<pubDate>Mon, 30 Apr 2018 21:00:38 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=617</guid>
+		<description>Show Notes
+
+
+プログラミング教育をトピックに挙げた動機
+
+
+2020年度から小学校で必修化される
+Scratchでプログラミングに触れた息子たち
+
+プログラミング教育の必修化にまつわる3大勘違い
+
+
+プログラミングという教科ができるわけではない
+プログラミング言語を学習するわけではない
+毎回PCやタブレットを使うわけではない
+
+プログラミング教育は本当に必要？
+
+
+プログラミング言語は自然言語よりもユニバーサル
+詳細を知らなくても概要は捉えておくべき
+子どもに英語を身に付けさせたいのと同じ感覚？
+仕組み作りのツールとしてのプログラミング能力は必要
+プログラミングができて当たり前の世の中はすぐそこ
+
+ITと何かの掛け合わせ
+
+
+町工場で3Dプリンタを使った試作品
+技術革新の波を正確に捉える目利き
+
+教育者不足問題
+
+
+現状でも既に多忙過ぎる教育現場
+形骸化してプログラミング能力が養われない懸念
+手を動かしてモノを作る感動を教えてほしい
+
+
+
+Links
+
+
+Scratch - Imagine, Program, Share
+「プログラミング教育」必修化の3大勘違い！誰もが思い込みがちな間違いとは？ ＠AERA dot.
+小学校段階におけるプログラミング教育の在り方について（議論の取りまとめ） ＠文部科学省
+小飼弾の 「仕組み」進化論
+プログラマーの三大美徳その1「怠慢」 ＠日経xTECH</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-025.mp3" length="43676275" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   プログラミング教育をトピックに挙げた動機   2020年度から小学校で必修化される Scratchでプログラミングに触れた息子たち  プログラミング教育の必修化にまつわる3大勘違い   プログラミングという教科ができるわけではない プログラミング言語を学習するわけではない 毎回PCやタブレットを使うわけではない  プログラミング教育は本当に必要？   プログラミング言語は自然言語よりもユニバーサル 詳細を知らなくても概要は捉えておくべき </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* プログラミング教育をトピックに挙げた動機<br />
+<br />
+<br />
+* 2020年度から小学校で必修化される<br />
+* Scratchでプログラミングに触れた息子たち<br />
+<br />
+* プログラミング教育の必修化にまつわる3大勘違い<br />
+<br />
+<br />
+* プログラミングという教科ができるわけではない<br />
+* プログラミング言語を学習するわけではない<br />
+* 毎回PCやタブレットを使うわけではない<br />
+<br />
+* プログラミング教育は本当に必要？<br />
+<br />
+<br />
+* プログラミング言語は自然言語よりもユニバーサル<br />
+* 詳細を知らなくても概要は捉えておくべき<br />
+* 子どもに英語を身に付けさせたいのと同じ感覚？<br />
+* 仕組み作りのツールとしてのプログラミング能力は必要<br />
+* プログラミングができて当たり前の世の中はすぐそこ<br />
+<br />
+* ITと何かの掛け合わせ<br />
+<br />
+<br />
+* 町工場で3Dプリンタを使った試作品<br />
+* 技術革新の波を正確に捉える目利き<br />
+<br />
+* 教育者不足問題<br />
+<br />
+<br />
+* 現状でも既に多忙過ぎる教育現場<br />
+* 形骸化してプログラミング能力が養われない懸念<br />
+* 手を動かしてモノを作る感動を教えてほしい<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://scratch.mit.edu" rel="noopener" target="_blank">Scratch - Imagine, Program, Share</a><br />
+* <a href="https://dot.asahi.com/dot/2017121300044.html" rel="noopener" target="_blank">「プログラミング教育」必修化の3大勘違い！誰もが思い込みがちな間違いとは？ ＠AERA dot.</a><br />
+* <a href="http://www.mext.go.jp/b_menu/shingi/chousa/shotou/122/attach/1372525.htm" rel="noopener" target="_blank">小学校段階におけるプログラミング教育の在り方について（議論の取りまとめ） ＠文部科学省</a><br />
+* <a href="https://amzn.to/2jbJCwp" rel="noopener" target="_blank">小飼弾の 「仕組み」進化論</a><br />
+* <a href="https://tech.nikkeibp.co.jp/it/article/Watcher/20061005/250057/" rel="noopener" target="_blank">プログラマーの三大美徳その1「怠慢」 ＠日経xTECH</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:03:47</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#24: Facebookページの効果測定</title>
+		<link>https://h2plus.biz/another-dawn/2018/04/episode-24/</link>
+		<pubDate>Sat, 14 Apr 2018 21:00:53 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=613</guid>
+		<description>Show Notes
+
+
+ゆうの独り語りの番外編を振り返る
+総ダウンロード数は去年の3倍以上
+最も聴かれたエピソードの上位10位を発表
+ミナトとの横浜での会合の裏話
+Twitterでラボっ子をフォローする方法
+第1位のエピソードに釣りタイトル疑惑
+Facebookページからの導線は有効に機能
+そうは言っても決め手はタイトル！</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-024.mp3" length="33498521" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   ゆうの独り語りの番外編を振り返る 総ダウンロード数は去年の3倍以上 最も聴かれたエピソードの上位10位を発表 ミナトとの横浜での会合の裏話 Twitterでラボっ子をフォローする方法 第1位のエピソードに釣りタイトル疑惑 Facebookページからの導線は有効に機能 そうは言っても決め手はタイトル！</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* <a href="https://h2plus.biz/another-dawn/2018/04/spinoff-23/">ゆうの独り語りの番外編</a>を振り返る<br />
+* 総ダウンロード数は去年の3倍以上<br />
+* 最も聴かれたエピソードの上位10位を発表<br />
+* <a href="https://h2plus.biz/another-dawn/guests/%e3%83%9f%e3%83%8a%e3%83%88/">ミナト</a>との横浜での会合の裏話<br />
+* Twitterでラボっ子をフォローする方法<br />
+* 第1位のエピソードに釣りタイトル疑惑<br />
+* Facebookページからの導線は有効に機能<br />
+* そうは言っても決め手はタイトル！<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>44:05</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#23: 新しい夜明け</title>
+		<link>https://h2plus.biz/another-dawn/2018/04/spinoff-23/</link>
+		<pubDate>Sat, 31 Mar 2018 21:00:30 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=609</guid>
+		<description>Show Notes
+
+
+Another Dawnの名に込められた想い
+体験を人に伝えることにより自信になる
+過去・現在・未来から自分の人生を眺める
+大手外資・ベンチャー・起業までの道のり
+起業4年目にして初の新入社員
+ピープル・アート社が向かっていく場所
+新しいことにチャレンジしたい人を募集中</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-023.mp3" length="20155622" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   Another Dawnの名に込められた想い 体験を人に伝えることにより自信になる 過去・現在・未来から自分の人生を眺める 大手外資・ベンチャー・起業までの道のり 起業4年目にして初の新入社員 ピープル・アート社が向かっていく場所 新しいことにチャレンジしたい人を募集中</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* Another Dawnの名に込められた想い<br />
+* 体験を人に伝えることにより自信になる<br />
+* 過去・現在・未来から自分の人生を眺める<br />
+* 大手外資・ベンチャー・起業までの道のり<br />
+* 起業4年目にして初の新入社員<br />
+* ピープル・アート社が向かっていく場所<br />
+* 新しいことにチャレンジしたい人を募集中<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>32:36</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#23: こんな就活生はイヤだ（ゲスト：あつき）</title>
+		<link>https://h2plus.biz/another-dawn/2018/03/episode-23/</link>
+		<pubDate>Wed, 14 Mar 2018 21:00:35 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=602</guid>
+		<description>前回に引き続きあつきをゲストに迎えて、就活生との面接で起きた珍事などについて話してもらいました。
+
+Show Notes
+
+
+面接官から見た残念な就活生
+
+
+暗記してきたことをなんとか話そうとする
+会場に到着するのが早過ぎる
+特技の口笛を長々と披露する
+無駄に大きな声で話す
+
+就活におけるインターネットの活用
+
+
+「みんしゅう」こと「みんなの就職活動日記」
+日本では浸透していないLinkedin
+福利厚生の日米比較
+新卒採用は不思議とプレミアム感が高い
+転職サイトから見える企業の内情
+専門職を雇って内製するか外注するか
+人材の流動性が高いアメリカIT企業
+
+
+
+Links
+
+
+みん就（みんなの就職活動日記）- 就活・新卒採用のクチコミサイト
+面接の達人2019 バイブル版（MENTATSU）
+Linkedin
+Glassdoor</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-023.mp3" length="41159216" type="audio/mpeg" />
+		<itunes:subtitle>前回に引き続きあつきをゲストに迎えて、就活生との面接で起きた珍事などについて話してもらいました。  Show Notes   面接官から見た残念な就活生   暗記してきたことをなんとか話そうとする 会場に到着するのが早過ぎる 特技の口笛を長々と披露する 無駄に大きな声で話す  就活におけるインターネットの活用   「みんしゅう」こと「みんなの就職活動日記」 日本では浸透していないLinkedin 福利厚生の日米比較 新卒採用は不思議とプレミアム感が高い 転職サイトから見える企業の内情 </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2018/03/episode-22/">前回</a>に引き続きあつきをゲストに迎えて、就活生との面接で起きた珍事などについて話してもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 面接官から見た残念な就活生<br />
+<br />
+<br />
+* 暗記してきたことをなんとか話そうとする<br />
+* 会場に到着するのが早過ぎる<br />
+* 特技の口笛を長々と披露する<br />
+* 無駄に大きな声で話す<br />
+<br />
+* 就活におけるインターネットの活用<br />
+<br />
+<br />
+* 「みんしゅう」こと「みんなの就職活動日記」<br />
+* 日本では浸透していないLinkedin<br />
+* 福利厚生の日米比較<br />
+* 新卒採用は不思議とプレミアム感が高い<br />
+* 転職サイトから見える企業の内情<br />
+* 専門職を雇って内製するか外注するか<br />
+* 人材の流動性が高いアメリカIT企業<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.nikki.ne.jp/" rel="noopener" target="_blank">みん就（みんなの就職活動日記）- 就活・新卒採用のクチコミサイト</a><br />
+* <a href="https://amzn.to/2FBxaDY" rel="noopener" target="_blank">面接の達人2019 バイブル版（MENTATSU）</a><br />
+* <a href="https://www.linkedin.com/" rel="noopener" target="_blank">Linkedin</a><br />
+* <a href="https://www.glassdoor.com/" rel="noopener" target="_blank">Glassdoor</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:02:09</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#22: 就職戦線異状あり（ゲスト：あつき）</title>
+		<link>https://h2plus.biz/another-dawn/2018/03/episode-22/</link>
+		<pubDate>Wed, 28 Feb 2018 21:00:12 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=595</guid>
+		<description>ふじぼう＆ゆうとカレッジメイト同期のあつきをゲストに迎えて、企業の人事部の視点から最近の就職戦線事情や、日米の就活環境の違いなどについて語りました。
+
+Show Notes
+
+
+3人の慣れ初め
+
+
+ふじぼう＆あつきは大学の同窓生
+ゆうの人生を変えたあつきの言葉
+ゆう＆あつきのふたり暮らし計画
+
+人事部で14年のキャリア
+
+
+インターンシップ制度の日米比較
+20年前の就職氷河期を振り返る
+あつきから見た就職戦線の最新動向
+売り手市場における学生と企業の攻防
+
+日本企業の文化としての人事異動
+
+
+新卒採用は配属先が不確定
+専門性の異なる配置転換の必要性
+離職率で見る就職先の選択基準</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-022.mp3" length="39589461" type="audio/mpeg" />
+		<itunes:subtitle>ふじぼう＆ゆうとカレッジメイト同期のあつきをゲストに迎えて、企業の人事部の視点から最近の就職戦線事情や、日米の就活環境の違いなどについて語りました。  Show Notes   3人の慣れ初め   ふじぼう＆あつきは大学の同窓生 ゆうの人生を変えたあつきの言葉 ゆう＆あつきのふたり暮らし計画  人事部で14年のキャリア   インターンシップ制度の日米比較 20年前の就職氷河期を振り返る あつきから見た就職戦線の最新動向 売り手市場における学生と企業の攻防  日本企業の文化としての人事異動   </itunes:subtitle>
+		<itunes:summary><![CDATA[ふじぼう＆ゆうとカレッジメイト同期のあつきをゲストに迎えて、企業の人事部の視点から最近の就職戦線事情や、日米の就活環境の違いなどについて語りました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 3人の慣れ初め<br />
+<br />
+<br />
+* ふじぼう＆あつきは大学の同窓生<br />
+* ゆうの人生を変えたあつきの言葉<br />
+* ゆう＆あつきのふたり暮らし計画<br />
+<br />
+* 人事部で14年のキャリア<br />
+<br />
+<br />
+* インターンシップ制度の日米比較<br />
+* 20年前の就職氷河期を振り返る<br />
+* あつきから見た就職戦線の最新動向<br />
+* 売り手市場における学生と企業の攻防<br />
+<br />
+* 日本企業の文化としての人事異動<br />
+<br />
+<br />
+* 新卒採用は配属先が不確定<br />
+* 専門性の異なる配置転換の必要性<br />
+* 離職率で見る就職先の選択基準<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>59:22</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#22: ラボ・ライブラリーのストリーミング配信</title>
+		<link>https://h2plus.biz/another-dawn/2018/02/spinoff-22/</link>
+		<pubDate>Wed, 14 Feb 2018 21:00:46 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=591</guid>
+		<description>Show Notes
+
+
+ラボ公式ホームページOBOG特集への寄稿
+紆余曲折の裏側・渡米直前の壮絶な一年間
+一ヶ月ホームステイの積立
+継承語の教材としてのラボ・ライブラリー
+西遊記の主題歌レコーディングが黒歴史に
+ラボ・ライブラリーをストリーミング配信するアプリ
+あけを訪ねて名古屋出張
+中部支部のOBOGソングバード大会
+エンジニアから見たラボ公式ホームページ
+ミナトの本帰国
+
+
+Links
+
+
+「よしっ、それでやってみよう！」が成長の道標 ＠ ラボ・パーティ
+中部支部・永遠のラボっ子ソングバード大会 ＠ Facebook</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-022.mp3" length="46571615" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   ラボ公式ホームページOBOG特集への寄稿 紆余曲折の裏側・渡米直前の壮絶な一年間 一ヶ月ホームステイの積立 継承語の教材としてのラボ・ライブラリー 西遊記の主題歌レコーディングが黒歴史に ラボ・ライブラリーをストリーミング配信するアプリ あけを訪ねて名古屋出張 中部支部のOBOGソングバード大会 エンジニアから見たラボ公式ホームページ ミナトの本帰国   Links   「よしっ、それでやってみよう！」が成長の道標 ＠ ラボ・パーティ </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* ラボ公式ホームページOBOG特集への寄稿<br />
+* 紆余曲折の裏側・渡米直前の壮絶な一年間<br />
+* 一ヶ月ホームステイの積立<br />
+* 継承語の教材としてのラボ・ライブラリー<br />
+* 西遊記の主題歌レコーディングが黒歴史に<br />
+* ラボ・ライブラリーをストリーミング配信するアプリ<br />
+* <a href="https://h2plus.biz/another-dawn/guests/%E3%81%82%E3%81%91/">あけ</a>を訪ねて名古屋出張<br />
+* 中部支部のOBOGソングバード大会<br />
+* エンジニアから見たラボ公式ホームページ<br />
+* <a href="https://h2plus.biz/another-dawn/guests/%E3%83%9F%E3%83%8A%E3%83%88/">ミナト</a>の本帰国<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.labo-party.jp/obog/index2.php" rel="noopener" target="_blank">「よしっ、それでやってみよう！」が成長の道標 ＠ ラボ・パーティ</a><br />
+* <a href="https://www.facebook.com/events/358159597983759/" rel="noopener" target="_blank">中部支部・永遠のラボっ子ソングバード大会 ＠ Facebook</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:09:55</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#21: コリ～ my love, so sweet♪（ゲスト：まりぞう）</title>
+		<link>https://h2plus.biz/another-dawn/2018/02/spinoff-21/</link>
+		<pubDate>Wed, 31 Jan 2018 21:00:41 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=581</guid>
+		<description>本編に引き続きまりぞうをゲストに迎えて、国際セラピストの視点から人間の身体の神秘について語ってもらいました。
+
+Show Notes
+
+
+自宅で営むグローバル整体サロン
+
+
+子どもに施術できることはありがたい
+病院は痛みにしかフォーカスしない
+手ひとつで何かしてあげられるという価値
+オーストラリアの国家資格でもある国際セラピスト
+整体は最初は頻繁に通った方がいい説
+習慣は3ヶ月で脳に定着する
+「呼吸」と「快の感覚」と「姿勢」
+
+国際セラピストとしての今後の展望
+
+
+玉手箱プロジェクトを通したコミュニティ作り
+コリが愛おしくて涙が出てくる
+ラボっ子／Another Dawnリスナー割引！
+身体のことを深く知りたい人に向けたセミナー
+とにかく呼吸が大事
+
+
+
+Links
+
+
+グローバル整体サロン・メラハンド</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-021.mp3" length="27928174" type="audio/mpeg" />
+		<itunes:subtitle>本編に引き続きまりぞうをゲストに迎えて、国際セラピストの視点から人間の身体の神秘について語ってもらいました。  Show Notes   自宅で営むグローバル整体サロン   子どもに施術できることはありがたい 病院は痛みにしかフォーカスしない 手ひとつで何かしてあげられるという価値 オーストラリアの国家資格でもある国際セラピスト 整体は最初は頻繁に通った方がいい説 習慣は3ヶ月で脳に定着する 「呼吸」と「快の感覚」と「姿勢」  国際セラピストとしての今後の展望   </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2018/01/episode-21/">本編</a>に引き続きまりぞうをゲストに迎えて、国際セラピストの視点から人間の身体の神秘について語ってもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 自宅で営むグローバル整体サロン<br />
+<br />
+<br />
+* 子どもに施術できることはありがたい<br />
+* 病院は痛みにしかフォーカスしない<br />
+* 手ひとつで何かしてあげられるという価値<br />
+* オーストラリアの国家資格でもある国際セラピスト<br />
+* 整体は最初は頻繁に通った方がいい説<br />
+* 習慣は3ヶ月で脳に定着する<br />
+* 「呼吸」と「快の感覚」と「姿勢」<br />
+<br />
+* 国際セラピストとしての今後の展望<br />
+<br />
+<br />
+* 玉手箱プロジェクトを通したコミュニティ作り<br />
+* コリが愛おしくて涙が出てくる<br />
+* ラボっ子／Another Dawnリスナー割引！<br />
+* 身体のことを深く知りたい人に向けたセミナー<br />
+* とにかく呼吸が大事<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="http://merah-hand.com/" rel="noopener" target="_blank">グローバル整体サロン・メラハンド</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>43:25</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#21: タテ割りの異年齢交流（ゲスト：まりぞう）</title>
+		<link>https://h2plus.biz/another-dawn/2018/01/episode-21/</link>
+		<pubDate>Sun, 14 Jan 2018 21:00:19 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=572</guid>
+		<description>ふじぼう＆ゆうが現役カレッジメイト時代に活動を共にしたまりぞうをゲストに迎えて、子育て・教育について熱く語ってもらいました。
+
+Show Notes
+
+
+現役当時のカレッジメイト活動を振り返る
+
+
+新潟まで新幹線で行った事前活動支援
+ゆうがカレッジメイトなったキッカケ
+かつては険悪ムードの会議だった!?
+
+20年間の子育て奮闘記
+
+
+大学卒業後のキャリアのスタートはSE
+結婚退職・出産後は子育てに没頭
+0歳からソニーの創立者・井深氏が推奨するEDAに
+ラボではなくヒッポを選んだ理由
+タテ割りで育て合うモンテッソーリ教育の幼稚園
+受け入れを通しての国際交流
+長男は小6でタイに単身ホームステイ
+空手は国際交流で役に立つ
+次男は日米野球親善大使に選ばれてボストンへ
+ラボ以外にも国際交流の選択肢はいくらでもある
+
+タテ割りの教育環境がキー
+
+
+親も異年齢だからこそできる支え合い
+それぞれの子供にとっての居場所がある大切さ
+今日をしっかり生きよう
+長男と次男の性格の違い
+なるべく先回りせず見守ってやり切らせる
+ママ友コミュニティは大事
+
+ホームステイを通して子どもたちが得たもの
+
+
+新しい環境に順応する度胸
+
+
+
+Links
+
+
+0歳からの母親作戦―子どもの心と能力は0歳で決まる
+幼稚園では遅すぎる</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-021.mp3" length="25069401" type="audio/mpeg" />
+		<itunes:subtitle>ふじぼう＆ゆうが現役カレッジメイト時代に活動を共にしたまりぞうをゲストに迎えて、子育て・教育について熱く語ってもらいました。  Show Notes   現役当時のカレッジメイト活動を振り返る   新潟まで新幹線で行った事前活動支援 ゆうがカレッジメイトなったキッカケ かつては険悪ムードの会議だった!?  20年間の子育て奮闘記   大学卒業後のキャリアのスタートはSE 結婚退職・出産後は子育てに没頭 0歳からソニーの創立者・井深氏が推奨するEDAに ラボではなくヒッポを選んだ理由 </itunes:subtitle>
+		<itunes:summary><![CDATA[ふじぼう＆ゆうが現役カレッジメイト時代に活動を共にしたまりぞうをゲストに迎えて、子育て・教育について熱く語ってもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 現役当時のカレッジメイト活動を振り返る<br />
+<br />
+<br />
+* 新潟まで新幹線で行った事前活動支援<br />
+* ゆうがカレッジメイトなったキッカケ<br />
+* かつては険悪ムードの会議だった!?<br />
+<br />
+* 20年間の子育て奮闘記<br />
+<br />
+<br />
+* 大学卒業後のキャリアのスタートはSE<br />
+* 結婚退職・出産後は子育てに没頭<br />
+* 0歳からソニーの創立者・井深氏が推奨するEDAに<br />
+* ラボではなくヒッポを選んだ理由<br />
+* タテ割りで育て合うモンテッソーリ教育の幼稚園<br />
+* 受け入れを通しての国際交流<br />
+* 長男は小6でタイに単身ホームステイ<br />
+* 空手は国際交流で役に立つ<br />
+* 次男は日米野球親善大使に選ばれてボストンへ<br />
+* ラボ以外にも国際交流の選択肢はいくらでもある<br />
+<br />
+* タテ割りの教育環境がキー<br />
+<br />
+<br />
+* 親も異年齢だからこそできる支え合い<br />
+* それぞれの子供にとっての居場所がある大切さ<br />
+* 今日をしっかり生きよう<br />
+* 長男と次男の性格の違い<br />
+* なるべく先回りせず見守ってやり切らせる<br />
+* ママ友コミュニティは大事<br />
+<br />
+* ホームステイを通して子どもたちが得たもの<br />
+<br />
+<br />
+* 新しい環境に順応する度胸<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://amzn.to/2D8FkBD" rel="noopener" target="_blank">0歳からの母親作戦―子どもの心と能力は0歳で決まる</a><br />
+* <a href="https://amzn.to/2Da2Lub" rel="noopener" target="_blank">幼稚園では遅すぎる</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>40:43</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#20: 走る走るオレたち</title>
+		<link>https://h2plus.biz/another-dawn/2017/12/spinoff-20/</link>
+		<pubDate>Thu, 14 Dec 2017 21:00:40 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=563</guid>
+		<description>Show Notes
+
+
+東京マラソン奮闘記
+中学校では陸上部のエース
+ラボの国際交流参加を節目に
+25年前に皇居ランを先取り
+CIMでサブ4達成
+ミッドフット走法
+厄年は海外在住者には無縁？
+2017年を振り返る
+編集作業をAI化？クラウドソーシング？
+
+
+Links
+
+
+かかと着地・ミッドフット・フォアフットのメリット・デメリット【ランニング時の着地の仕方】</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-020.mp3" length="32505458" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   東京マラソン奮闘記 中学校では陸上部のエース ラボの国際交流参加を節目に 25年前に皇居ランを先取り CIMでサブ4達成 ミッドフット走法 厄年は海外在住者には無縁？ 2017年を振り返る 編集作業をAI化？クラウドソーシング？   Links   かかと着地・ミッドフット・フォアフットのメリット・デメリット【ランニング時の着地の仕方】</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 東京マラソン奮闘記<br />
+* 中学校では陸上部のエース<br />
+* ラボの国際交流参加を節目に<br />
+* 25年前に皇居ランを先取り<br />
+* CIMでサブ4達成<br />
+* ミッドフット走法<br />
+* 厄年は海外在住者には無縁？<br />
+* 2017年を振り返る<br />
+* 編集作業をAI化？クラウドソーシング？<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://runnal.com/12200" rel="noopener" target="_blank">かかと着地・ミッドフット・フォアフットのメリット・デメリット【ランニング時の着地の仕方】</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>46:45</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#19: コミュニティに価値がある（ゲスト：あけ）</title>
+		<link>https://h2plus.biz/another-dawn/2017/12/spinoff-19/</link>
+		<pubDate>Thu, 30 Nov 2017 21:00:30 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=555</guid>
+		<description>本編に引き続きあけをゲストに迎えて、ラボで培われた力について語りました。
+
+Show Notes
+
+
+社会に出てラボで培われた力が発揮されたシーン
+流暢に英語を話せなくても仕事は成り立った
+リスニングはラボの賜物・スピーキングはLearning by Doing
+What&#039;s up?への応え方がわからなかった留学時代
+ラボは成長のキッカケをたくさん与えてくれた
+テーマ活動というプロジェクトの中でのファシリテーション
+親になって客観的に見えてきたラボという教育環境
+サービス以上にコミュニティに価値がある
+高校生くらいから急速に身につくイベント運営能力
+ゆうの父母会レポート
+ラボテューターはやはり第二の母
+お母さんたちによるコミュニティ作り
+国際交流参加後にラボを辞めてしまう問題
+年代ごとに緩急をつけて活動できるのが魅力
+自分から動かないと環境は変わらない
+
+
+Links
+
+
+うん、やっぱりラボが好き！＠荒川明美♡ラボ・あらかわパーティ</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-019.mp3" length="53062128" type="audio/mpeg" />
+		<itunes:subtitle>本編に引き続きあけをゲストに迎えて、ラボで培われた力について語りました。  Show Notes   社会に出てラボで培われた力が発揮されたシーン 流暢に英語を話せなくても仕事は成り立った リスニングはラボの賜物・スピーキングはLearning by Doing What&#039;s up?への応え方がわからなかった留学時代 ラボは成長のキッカケをたくさん与えてくれた テーマ活動というプロジェクトの中でのファシリテーション 親になって客観的に見えてきたラボという教育環境 </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2017/11/episode-20/">本編</a>に引き続きあけをゲストに迎えて、ラボで培われた力について語りました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 社会に出てラボで培われた力が発揮されたシーン<br />
+* 流暢に英語を話せなくても仕事は成り立った<br />
+* リスニングはラボの賜物・スピーキングはLearning by Doing<br />
+* What's up?への応え方がわからなかった留学時代<br />
+* ラボは成長のキッカケをたくさん与えてくれた<br />
+* テーマ活動というプロジェクトの中でのファシリテーション<br />
+* 親になって客観的に見えてきたラボという教育環境<br />
+* サービス以上にコミュニティに価値がある<br />
+* 高校生くらいから急速に身につくイベント運営能力<br />
+* ゆうの父母会レポート<br />
+* ラボテューターはやはり第二の母<br />
+* お母さんたちによるコミュニティ作り<br />
+* 国際交流参加後にラボを辞めてしまう問題<br />
+* 年代ごとに緩急をつけて活動できるのが魅力<br />
+* 自分から動かないと環境は変わらない<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://ameblo.jp/labo-mikesan/entry-12330569617.html" rel="noopener" target="_blank">うん、やっぱりラボが好き！＠荒川明美♡ラボ・あらかわパーティ</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:18:11</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#20: ラボを30秒で語るには（ゲスト：あけ）</title>
+		<link>https://h2plus.biz/another-dawn/2017/11/episode-20/</link>
+		<pubDate>Tue, 14 Nov 2017 21:00:33 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=546</guid>
+		<description>中部支部・美濃尾張岐阜地区の荒川テューター（あけ）をゲストにお迎えして、ラボの魅力を伝える効果的な方法を3人で模索しました。
+
+Show Notes
+
+
+みけさん問題
+荒川パーティ創世記
+古巣のパーティとの合併
+父母会企画
+ラボを言葉で伝える難しさ
+ママ友コミュニティの活用
+大槻家の成功事例
+テューターとしての営業研修
+ブログでの情報発信の重要性
+
+
+Links
+
+
+ラボには受け止めてくれる仲間がいる！
+荒川明美♡ラボ・あらかわパーティ　（一宮市の子ども英語教室）</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-020.mp3" length="43056276" type="audio/mpeg" />
+		<itunes:subtitle>中部支部・美濃尾張岐阜地区の荒川テューター（あけ）をゲストにお迎えして、ラボの魅力を伝える効果的な方法を3人で模索しました。  Show Notes   みけさん問題 荒川パーティ創世記 古巣のパーティとの合併 父母会企画 ラボを言葉で伝える難しさ ママ友コミュニティの活用 大槻家の成功事例 テューターとしての営業研修 ブログでの情報発信の重要性   Links   ラボには受け止めてくれる仲間がいる！ 荒川明美♡ラボ・あらかわパーティ　（一宮市の子ども英語教室）</itunes:subtitle>
+		<itunes:summary><![CDATA[中部支部・美濃尾張岐阜地区の荒川テューター（あけ）をゲストにお迎えして、ラボの魅力を伝える効果的な方法を3人で模索しました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* みけさん問題<br />
+* 荒川パーティ創世記<br />
+* 古巣のパーティとの合併<br />
+* 父母会企画<br />
+* ラボを言葉で伝える難しさ<br />
+* ママ友コミュニティの活用<br />
+* 大槻家の成功事例<br />
+* テューターとしての営業研修<br />
+* ブログでの情報発信の重要性<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://ameblo.jp/labo-mikesan/entry-12322198306.html" rel="noopener" target="_blank">ラボには受け止めてくれる仲間がいる！</a><br />
+* <a href="https://ameblo.jp/labo-mikesan/" rel="noopener" target="_blank">荒川明美♡ラボ・あらかわパーティ　（一宮市の子ども英語教室）</a><br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:04:08</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#18: 次っ！</title>
+		<link>https://h2plus.biz/another-dawn/2017/11/spinoff-18/</link>
+		<pubDate>Tue, 31 Oct 2017 21:00:15 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=537</guid>
+		<description>Show Notes
+
+
+日米の雇用環境の比較
+ラボOBOG特集ページ寄稿の舞台裏
+ラボっ子向けキャリアフォーラムの企画
+子どもとゲームとの付き合い方</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-018.mp3" length="38361790" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   日米の雇用環境の比較 ラボOBOG特集ページ寄稿の舞台裏 ラボっ子向けキャリアフォーラムの企画 子どもとゲームとの付き合い方</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 日米の雇用環境の比較<br />
+* ラボOBOG特集ページ寄稿の舞台裏<br />
+* ラボっ子向けキャリアフォーラムの企画<br />
+* 子どもとゲームとの付き合い方<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>56:39</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#19: レイオフ祭り（ゲスト：Baba）</title>
+		<link>https://h2plus.biz/another-dawn/2017/10/episode-19/</link>
+		<pubDate>Sat, 14 Oct 2017 21:00:52 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=525</guid>
+		<description>前回に引き続きBabaちゃんをゲストに迎えて、波瀾万丈な人生の後編と香港の魅力について語ってもらいました。
+
+Show Notes
+
+
+アメリカの医療機器メーカーに転職
+
+
+初めて経理の仕事
+四半期の業績が後退したらまず人件費カット
+レイオフされる同僚に対するボスの態度に失望
+
+現職のラルフ・ローレンに転職
+
+
+最初は日本法人で採用される
+香港と日本のボスにデュアルレポート
+入社5ヶ月で念願の香港オフィスへの転籍
+再びレイオフの悲劇を目の当たりにする
+
+香港の魅力
+
+
+永住権が取りやすい・維持しやすい
+アジア諸国のどこに行くにも数時間のフライト
+物価は世界一だけど税金は安い
+家賃も高く若者のひとり暮らしは非現実的
+結婚しても共働きが基本
+
+今後の展望
+
+
+国際人材として自力で海外のジョブポストに就きたい
+日本に帰っても仕事がない？
+メルカリとトレジャーデータの事例
+数年はラルフ・ローレンの店舗開発部門</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-019.mp3" length="39653338" type="audio/mpeg" />
+		<itunes:subtitle>前回に引き続きBabaちゃんをゲストに迎えて、波瀾万丈な人生の後編と香港の魅力について語ってもらいました。  Show Notes   アメリカの医療機器メーカーに転職   初めて経理の仕事 四半期の業績が後退したらまず人件費カット レイオフされる同僚に対するボスの態度に失望  現職のラルフ・ローレンに転職   最初は日本法人で採用される 香港と日本のボスにデュアルレポート 入社5ヶ月で念願の香港オフィスへの転籍 再びレイオフの悲劇を目の当たりにする  香港の魅力   </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2017/10/episode-18/">前回</a>に引き続きBabaちゃんをゲストに迎えて、波瀾万丈な人生の後編と香港の魅力について語ってもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* アメリカの医療機器メーカーに転職<br />
+<br />
+<br />
+* 初めて経理の仕事<br />
+* 四半期の業績が後退したらまず人件費カット<br />
+* レイオフされる同僚に対するボスの態度に失望<br />
+<br />
+* 現職のラルフ・ローレンに転職<br />
+<br />
+<br />
+* 最初は日本法人で採用される<br />
+* 香港と日本のボスにデュアルレポート<br />
+* 入社5ヶ月で念願の香港オフィスへの転籍<br />
+* 再びレイオフの悲劇を目の当たりにする<br />
+<br />
+* 香港の魅力<br />
+<br />
+<br />
+* 永住権が取りやすい・維持しやすい<br />
+* アジア諸国のどこに行くにも数時間のフライト<br />
+* 物価は世界一だけど税金は安い<br />
+* 家賃も高く若者のひとり暮らしは非現実的<br />
+* 結婚しても共働きが基本<br />
+<br />
+* 今後の展望<br />
+<br />
+<br />
+* 国際人材として自力で海外のジョブポストに就きたい<br />
+* 日本に帰っても仕事がない？<br />
+* メルカリとトレジャーデータの事例<br />
+* 数年はラルフ・ローレンの店舗開発部門<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:07:19</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#18: 年収を10倍アップさせるには（ゲスト：Baba）</title>
+		<link>https://h2plus.biz/another-dawn/2017/10/episode-18/</link>
+		<pubDate>Sat, 30 Sep 2017 21:00:12 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=519</guid>
+		<description>Episode#16にゲスト出演したNaoとの接点となる人物、香港で働くBabaちゃんをゲストに迎えて、波瀾万丈な生き様を語ってもらいました。
+
+Show Notes
+
+
+ふじぼう＆ゆう＆Naoとの馴れ初め
+
+
+獨協大学・飯島先生のコミュニケーションに関するワークショップ
+中国交流でカレッジスタッフ参加からの時本会
+ワタミに新卒入社するも半年で自主退職
+派遣社員のままではワーキングプアに陥るかもしれない危機感
+勝間本から「英語」と「ファイナンス」が必須スキルと知る
+情報を素早く取り入れる方法論としてのフォトリーディング
+インプットしたものを自分たちでアウトプットする場がイキ塾
+
+波瀾万丈なキャリアがスタート
+
+
+バカルディで派遣社員から正社員に起用
+入社当初は外資だけど英語が話せない人ばかり
+ITも会計も未経験でAPACのSAP導入プロジェクト
+バカルディに就職するまでの道のり
+正社員と派遣社員と契約社員の差
+社会に出て活きたラボで培われたもの
+
+正社員になって1年以内にまさかのレイオフ
+
+
+結果的には1ヶ月後に次の就職が決まる
+レイオフ時にバカルディから出たパッケージ
+一時は時本さんに「ラボで働く」相談も？
+時本さんはメンターであり憧れの存在
+
+アメリカの医療機器メーカーに就職が決まるまで
+
+
+履歴書の見映えを工夫して書類選考をパス
+とにかく「やる気」を前面に出して採用
+経理をイチから学ばせてもらった
+
+
+
+Links
+
+
+無理なく続けられる 年収10倍アップ勉強法 - 勝間 和代 著</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-018.mp3" length="35169121" type="audio/mpeg" />
+		<itunes:subtitle>Episode#16にゲスト出演したNaoとの接点となる人物、香港で働くBabaちゃんをゲストに迎えて、波瀾万丈な生き様を語ってもらいました。  Show Notes   ふじぼう＆ゆう＆Naoとの馴れ初め   獨協大学・飯島先生のコミュニケーションに関するワークショップ 中国交流でカレッジスタッフ参加からの時本会 ワタミに新卒入社するも半年で自主退職 派遣社員のままではワーキングプアに陥るかもしれない危機感 勝間本から「英語」と「ファイナンス」が必須スキルと知る </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2017/07/episode-16/">Episode#16</a>にゲスト出演したNaoとの接点となる人物、香港で働くBabaちゃんをゲストに迎えて、波瀾万丈な生き様を語ってもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* ふじぼう＆ゆう＆Naoとの馴れ初め<br />
+<br />
+<br />
+* 獨協大学・飯島先生のコミュニケーションに関するワークショップ<br />
+* 中国交流でカレッジスタッフ参加からの時本会<br />
+* ワタミに新卒入社するも半年で自主退職<br />
+* 派遣社員のままではワーキングプアに陥るかもしれない危機感<br />
+* 勝間本から「英語」と「ファイナンス」が必須スキルと知る<br />
+* 情報を素早く取り入れる方法論としてのフォトリーディング<br />
+* インプットしたものを自分たちでアウトプットする場がイキ塾<br />
+<br />
+* 波瀾万丈なキャリアがスタート<br />
+<br />
+<br />
+* バカルディで派遣社員から正社員に起用<br />
+* 入社当初は外資だけど英語が話せない人ばかり<br />
+* ITも会計も未経験でAPACのSAP導入プロジェクト<br />
+* バカルディに就職するまでの道のり<br />
+* 正社員と派遣社員と契約社員の差<br />
+* 社会に出て活きたラボで培われたもの<br />
+<br />
+* 正社員になって1年以内にまさかのレイオフ<br />
+<br />
+<br />
+* 結果的には1ヶ月後に次の就職が決まる<br />
+* レイオフ時にバカルディから出たパッケージ<br />
+* 一時は時本さんに「ラボで働く」相談も？<br />
+* 時本さんはメンターであり憧れの存在<br />
+<br />
+* アメリカの医療機器メーカーに就職が決まるまで<br />
+<br />
+<br />
+* 履歴書の見映えを工夫して書類選考をパス<br />
+* とにかく「やる気」を前面に出して採用<br />
+* 経理をイチから学ばせてもらった<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://amzn.to/2wp6FZr" rel="noopener" target="_blank">無理なく続けられる 年収10倍アップ勉強法 - 勝間 和代 著</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>56:41</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#17: It&#8217;s a small world</title>
+		<link>https://h2plus.biz/another-dawn/2017/09/spinoff-17/</link>
+		<pubDate>Thu, 14 Sep 2017 21:00:31 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=507</guid>
+		<description>Show Notes
+
+
+インディアン・サマー＠シリコンバレー
+ポートランド・飲んだくれ旅行記
+リスナー層の意外な広がり
+ラボランドで再び繋がる友達の輪
+学生向けキャリアディスカッション
+キャラバン隊による保護者向けQAセッション
+
+
+Links
+
+
+ポートランドのネクストブーム?! “WILD ROOTS VODKA” ＠ NorenPortland
+ポートランドで旨いクラフトビールIPAに出会える「Deschutes」 ＠ NorenPortland
+ハッピーアワー・ハンター その４　Cider Bite ＠ NorenPortland
+藤田浩光氏と「常時SSL化によって変わる世界」について語る ＠ JTPAギークサロン</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-017.mp3" length="33697129" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   インディアン・サマー＠シリコンバレー ポートランド・飲んだくれ旅行記 リスナー層の意外な広がり ラボランドで再び繋がる友達の輪 学生向けキャリアディスカッション キャラバン隊による保護者向けQAセッション   Links   ポートランドのネクストブーム?! “WILD ROOTS VODKA” ＠ NorenPortland ポートランドで旨いクラフトビールIPAに出会える「Deschutes」 ＠ NorenPortland </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* インディアン・サマー＠シリコンバレー<br />
+* ポートランド・飲んだくれ旅行記<br />
+* リスナー層の意外な広がり<br />
+* ラボランドで再び繋がる友達の輪<br />
+* 学生向けキャリアディスカッション<br />
+* キャラバン隊による保護者向けQAセッション<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="http://noren3.com/food/wild-roots-vodka/" target="_blank">ポートランドのネクストブーム?! “WILD ROOTS VODKA” ＠ NorenPortland</a><br />
+* <a href="http://noren3.com/food/deschutes1/" target="_blank">ポートランドで旨いクラフトビールIPAに出会える「Deschutes」 ＠ NorenPortland</a><br />
+* <a href="http://noren3.com/food/ciderbite03/" target="_blank">ハッピーアワー・ハンター その４　Cider Bite ＠ NorenPortland</a><br />
+* <a href="http://www.jtpa.org/event/geeksalon/1624" target="_blank">藤田浩光氏と「常時SSL化によって変わる世界」について語る ＠ JTPAギークサロン</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>53:21</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#17: Keep Portland weird（ゲスト：ミナト）</title>
+		<link>https://h2plus.biz/another-dawn/2017/09/episode-17/</link>
+		<pubDate>Thu, 31 Aug 2017 21:00:30 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=501</guid>
+		<description>ポートランドのファーマーズマーケットで働くミナトをゲストに迎えて、ポートランドの魅力について熱く語っていただきました。
+
+Show Notes
+
+
+日本人がファーマーズマーケットで働いてみた
+
+
+ポートランドで3ヶ月間の就職活動
+ファーマーズマーケットの日米比較
+ファーマーズマーケットでの仕事
+ローカルプロデュースが25%以上という出店ルール
+野菜のサイズがとにかく大きい！
+
+ポートランドの魅力に迫る
+
+
+地産地消の鍵は住民の地元愛
+ポートランドのエコシステムを仙台に持ち帰るには？
+&quot;Keep Portland weird&quot;が合言葉
+ポートランドの魅力を言葉で伝えるのは難しい
+
+
+
+Links
+
+
+ミナトのブログ「地域を食べる！〜日本人がファーマーズマーケットで働いてみた〜」
+Portland Farmers Market at PSU
+NorenPortland｜ポートランドの魅力を伝えるWebマガジン</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-017.mp3" length="32439353" type="audio/mpeg" />
+		<itunes:subtitle>ポートランドのファーマーズマーケットで働くミナトをゲストに迎えて、ポートランドの魅力について熱く語っていただきました。  Show Notes   日本人がファーマーズマーケットで働いてみた   ポートランドで3ヶ月間の就職活動 ファーマーズマーケットの日米比較 ファーマーズマーケットでの仕事 ローカルプロデュースが25%以上という出店ルール 野菜のサイズがとにかく大きい！  ポートランドの魅力に迫る   地産地消の鍵は住民の地元愛 ポートランドのエコシステムを仙台に持ち帰るには？ </itunes:subtitle>
+		<itunes:summary><![CDATA[ポートランドのファーマーズマーケットで働くミナトをゲストに迎えて、ポートランドの魅力について熱く語っていただきました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 日本人がファーマーズマーケットで働いてみた<br />
+<br />
+<br />
+* ポートランドで3ヶ月間の就職活動<br />
+* ファーマーズマーケットの日米比較<br />
+* ファーマーズマーケットでの仕事<br />
+* ローカルプロデュースが25%以上という出店ルール<br />
+* 野菜のサイズがとにかく大きい！<br />
+<br />
+* ポートランドの魅力に迫る<br />
+<br />
+<br />
+* 地産地消の鍵は住民の地元愛<br />
+* ポートランドのエコシステムを仙台に持ち帰るには？<br />
+* "Keep Portland weird"が合言葉<br />
+* ポートランドの魅力を言葉で伝えるのは難しい<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="http://blog.livedoor.jp/crescentmoon_plus-farmersmarket/" target="_blank">ミナトのブログ「地域を食べる！〜日本人がファーマーズマーケットで働いてみた〜」</a><br />
+* <a href="http://www.portlandfarmersmarket.org/our-markets/psu/" target="_blank">Portland Farmers Market at PSU</a><br />
+* <a href="http://noren3.com/" target="_blank">NorenPortland｜ポートランドの魅力を伝えるWebマガジン</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>43:59</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#16: 小田原おでん</title>
+		<link>https://h2plus.biz/another-dawn/2017/08/spinoff-16/</link>
+		<pubDate>Mon, 14 Aug 2017 21:00:05 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=494</guid>
+		<description>Show Notes
+
+
+ゆうの受け入れ体験記
+
+
+ラボに入るキッカケになった母親の国際交流体験
+受け入れに至るまで紆余曲折の家族会議
+大歓迎の空手家師範
+
+ぶらり小田原・箱根の旅
+
+
+小田原城で歴史を再発見
+小田原でまさかのおでん
+オープンエアミュージアム？
+嵐の大涌谷
+クライマックスの富士屋ホテル
+
+アメリカで流行り？のメディテーション
+
+
+紫陽花の綺麗な長谷寺
+あ、寺っていいな！
+写経のすゝめ
+海外のガイドブックに見る日本</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-016.mp3" length="27505531" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   ゆうの受け入れ体験記   ラボに入るキッカケになった母親の国際交流体験 受け入れに至るまで紆余曲折の家族会議 大歓迎の空手家師範  ぶらり小田原・箱根の旅   小田原城で歴史を再発見 小田原でまさかのおでん オープンエアミュージアム？ 嵐の大涌谷 クライマックスの富士屋ホテル  アメリカで流行り？のメディテーション   紫陽花の綺麗な長谷寺 あ、寺っていいな！ 写経のすゝめ 海外のガイドブックに見る日本</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* ゆうの受け入れ体験記<br />
+<br />
+<br />
+* ラボに入るキッカケになった母親の国際交流体験<br />
+* 受け入れに至るまで紆余曲折の家族会議<br />
+* 大歓迎の空手家師範<br />
+<br />
+* ぶらり小田原・箱根の旅<br />
+<br />
+<br />
+* 小田原城で歴史を再発見<br />
+* 小田原でまさかのおでん<br />
+* オープンエアミュージアム？<br />
+* 嵐の大涌谷<br />
+* クライマックスの富士屋ホテル<br />
+<br />
+* アメリカで流行り？のメディテーション<br />
+<br />
+<br />
+* 紫陽花の綺麗な長谷寺<br />
+* あ、寺っていいな！<br />
+* 写経のすゝめ<br />
+* 海外のガイドブックに見る日本<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>43:55</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#15: 勝手にシェアがれ</title>
+		<link>https://h2plus.biz/another-dawn/2017/08/spinoff-15/</link>
+		<pubDate>Mon, 31 Jul 2017 21:00:00 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=487</guid>
+		<description>Show Notes
+
+
+Zoom居酒屋
+5-Day Fast &amp; Cleanse
+カルビ以外は肉じゃない？
+「違う＝変」になる日本
+整列が自然と身につく教育
+男子トイレ使用上の暗黙のルール
+先生すら均一化される教育現場
+光化学スモッグ注意報
+「シェアさせていただきます」問題
+おはようおじさん・おばさん
+
+
+Links
+
+
+5日間断食＆浄化プログラム
+「日本人はやっぱり日本人だった」と感心されていた海外のアンケート</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-015.mp3" length="53379811" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   Zoom居酒屋 5-Day Fast &amp; Cleanse カルビ以外は肉じゃない？ 「違う＝変」になる日本 整列が自然と身につく教育 男子トイレ使用上の暗黙のルール 先生すら均一化される教育現場 光化学スモッグ注意報 「シェアさせていただきます」問題 おはようおじさん・おばさん   Links   5日間断食＆浄化プログラム 「日本人はやっぱり日本人だった」と感心されていた海外のアンケート</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* Zoom居酒屋<br />
+* 5-Day Fast &amp; Cleanse<br />
+* カルビ以外は肉じゃない？<br />
+* 「違う＝変」になる日本<br />
+* 整列が自然と身につく教育<br />
+* 男子トイレ使用上の暗黙のルール<br />
+* 先生すら均一化される教育現場<br />
+* 光化学スモッグ注意報<br />
+* 「シェアさせていただきます」問題<br />
+* おはようおじさん・おばさん<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://jp.iherb.com/pr/nature-s-secret-5-day-fast-cleanse-5-part-5-day-program/3148" target="_blank">5日間断食＆浄化プログラム</a><br />
+* <a href="http://labaq.com/archives/51868110.html" target="_blank">「日本人はやっぱり日本人だった」と感心されていた海外のアンケート</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:14:53</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#14: ローエレメント最高！</title>
+		<link>https://h2plus.biz/another-dawn/2017/07/spinoff-14/</link>
+		<pubDate>Fri, 14 Jul 2017 21:00:13 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=480</guid>
+		<description>Show Notes
+
+
+早川パーティの合宿＠ラボランドに参加
+テューター・親の視点から見たラボキャンプ
+上級生の背中を見て育つ連鎖
+知恵と体力とチームワークが求められるローエレメント
+キャンプファイヤーでまさかのヴィスタ
+
+
+Links
+
+
+ラボランドくろひめ
+横浜市戸塚区のラボ 早川パーティ</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-014.mp3" length="38039620" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   早川パーティの合宿＠ラボランドに参加 テューター・親の視点から見たラボキャンプ 上級生の背中を見て育つ連鎖 知恵と体力とチームワークが求められるローエレメント キャンプファイヤーでまさかのヴィスタ   Links   ラボランドくろひめ 横浜市戸塚区のラボ 早川パーティ</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 早川パーティの合宿＠ラボランドに参加<br />
+* テューター・親の視点から見たラボキャンプ<br />
+* 上級生の背中を見て育つ連鎖<br />
+* 知恵と体力とチームワークが求められるローエレメント<br />
+* キャンプファイヤーでまさかのヴィスタ<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="http://www.laboland.jp/" target="_blank">ラボランドくろひめ</a><br />
+* <a href="http://www.labo-party.jp/hiroba/top.php?PAGE=baobab" target="_blank">横浜市戸塚区のラボ 早川パーティ</a><br />
+<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>53:02</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#16: コーチングはアートの世界（ゲスト：Nao）</title>
+		<link>https://h2plus.biz/another-dawn/2017/07/episode-16/</link>
+		<pubDate>Fri, 30 Jun 2017 21:00:39 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=470</guid>
+		<description>今回はラボっ子・カレッジメイト関係者ではないスペシャルゲストです。CRRジャパンでコーチングをしているNao（原田直和さん）をお迎えして、コーチングについてお話を伺いました。
+
+Show Notes
+
+
+ポッドキャストに出演することになった経緯
+
+
+カレッジメイトの後輩が共通の知人
+最近ベイエリアに来たときに出演依頼
+
+コーチングを生業として独立するまで
+
+
+最初は会社のプロジェクトでファシリテーションの勉強
+「スキル・傾聴」でググってコーチングに出会った
+話が聴けないと思っていたけど実は話したかった？
+人が自立する手助けをしたい
+
+システム・コーチングとは
+
+
+チーム・組織をひとつの生き物に見立ててコーチする
+その人が行きたいところに運んでいく
+カウンセリング・コンサルティングとの違い
+
+コーチを育成する側に立つ
+
+
+成果を出せる・出せないチームは関係性に差があった
+4月にCRRグローバルカンファレンス＠メキシコに参加
+日本人と欧米人の相違点と共通点
+システム・コーチングが適しているチームとは
+コーチングによる人の変化は芸術的
+
+公開コーチング始まる？
+
+
+ふじぼうのキャリア転換期
+クライアントの人生を加速させる
+大学生には武者修行プログラムがオススメ
+20分で人生が変わった衝撃的コーチング
+Another Dawnに対するチーム・コーチング
+パーソナリティ2人の関係性
+Another Dawnが向かう場所
+
+
+
+Links
+
+
+リーダーシップ・コーチング ＠ CTIジャパン
+システム・コーチングとは？ ＠ CRRジャパン
+CRR Global
+海外ビジネス武者修行プログラム</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-016.mp3" length="44168841" type="audio/mpeg" />
+		<itunes:subtitle>今回はラボっ子・カレッジメイト関係者ではないスペシャルゲストです。CRRジャパンでコーチングをしているNao（原田直和さん）をお迎えして、コーチングについてお話を伺いました。  Show Notes   ポッドキャストに出演することになった経緯   カレッジメイトの後輩が共通の知人 最近ベイエリアに来たときに出演依頼  コーチングを生業として独立するまで   最初は会社のプロジェクトでファシリテーションの勉強 「スキル・傾聴」でググってコーチングに出会った </itunes:subtitle>
+		<itunes:summary><![CDATA[今回はラボっ子・カレッジメイト関係者ではないスペシャルゲストです。CRRジャパンでコーチングをしているNao（原田直和さん）をお迎えして、コーチングについてお話を伺いました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* ポッドキャストに出演することになった経緯<br />
+<br />
+<br />
+* カレッジメイトの後輩が共通の知人<br />
+* 最近ベイエリアに来たときに出演依頼<br />
+<br />
+* コーチングを生業として独立するまで<br />
+<br />
+<br />
+* 最初は会社のプロジェクトでファシリテーションの勉強<br />
+* 「スキル・傾聴」でググってコーチングに出会った<br />
+* 話が聴けないと思っていたけど実は話したかった？<br />
+* 人が自立する手助けをしたい<br />
+<br />
+* システム・コーチングとは<br />
+<br />
+<br />
+* チーム・組織をひとつの生き物に見立ててコーチする<br />
+* その人が行きたいところに運んでいく<br />
+* カウンセリング・コンサルティングとの違い<br />
+<br />
+* コーチを育成する側に立つ<br />
+<br />
+<br />
+* 成果を出せる・出せないチームは関係性に差があった<br />
+* 4月にCRRグローバルカンファレンス＠メキシコに参加<br />
+* 日本人と欧米人の相違点と共通点<br />
+* システム・コーチングが適しているチームとは<br />
+* コーチングによる人の変化は芸術的<br />
+<br />
+* 公開コーチング始まる？<br />
+<br />
+<br />
+* ふじぼうのキャリア転換期<br />
+* クライアントの人生を加速させる<br />
+* 大学生には武者修行プログラムがオススメ<br />
+* 20分で人生が変わった衝撃的コーチング<br />
+* Another Dawnに対するチーム・コーチング<br />
+* パーソナリティ2人の関係性<br />
+* Another Dawnが向かう場所<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="http://www.thecoaches.co.jp/" target="_blank">リーダーシップ・コーチング ＠ CTIジャパン</a><br />
+* <a href="http://www.crrjapan.co.jp/systemscoaching.html" target="_blank">システム・コーチングとは？ ＠ CRRジャパン</a><br />
+* <a href="https://www.crrglobal.com/" target="_blank">CRR Global</a><br />
+* <a href="https://mushashugyo.jp/" target="_blank">海外ビジネス武者修行プログラム</a><br />
+<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:10:17</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#15: ミッキーがくれたチャンス（ゲスト：ワタル）</title>
+		<link>https://h2plus.biz/another-dawn/2017/06/episode-15/</link>
+		<pubDate>Wed, 14 Jun 2017 21:00:28 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=456</guid>
+		<description>カレッジメイトOBのワタルをゲスト迎えて、昨年9月から働いているフロリダ州ディズニーワールド・エプコットでの仕事について語ってもらいました。
+
+Show Notes
+
+
+エプコット日本館での仕事
+
+
+フロリダ州オーランドのディズニーワールドには4つのパークと2つのプール
+キャプテンに任命されて求められたこと
+Festival of the Artsでのプレゼンテーション
+
+ラボの経験で役に立ったこと
+
+
+人前で話すことやワークショップの組み立て
+英語のスピーチは苦にならない理由
+
+寮生活
+
+
+トロピカルストーム・マシューのおかげでParty Night
+ルーミーは国際色豊か
+
+日本語と英語
+
+
+英語を話す努力をしない外国人
+英語の文脈に巧妙に入り込む日本語たち
+意外と認知度が高い枝豆
+
+
+
+Links
+
+
+SpinOff#5: 駆け上がるラボ人生（ゲスト：ワタル）
+エプコット ＠ Walt Disney World
+Epcot International Festival of the Arts Begins Today ＠ Disney Parks Blog
+鳥獣戯画 ＠ Google画像検索
+北斎漫画 ＠ Google画像検索
+Japanese Kabuki show returning to Fountains of Bellagio</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-015.mp3" length="65261882" type="audio/mpeg" />
+		<itunes:subtitle>カレッジメイトOBのワタルをゲスト迎えて、昨年9月から働いているフロリダ州ディズニーワールド・エプコットでの仕事について語ってもらいました。  Show Notes   エプコット日本館での仕事   フロリダ州オーランドのディズニーワールドには4つのパークと2つのプール キャプテンに任命されて求められたこと Festival of the Artsでのプレゼンテーション  ラボの経験で役に立ったこと   人前で話すことやワークショップの組み立て 英語のスピーチは苦にならない理由  寮生活   </itunes:subtitle>
+		<itunes:summary><![CDATA[カレッジメイトOBのワタルをゲスト迎えて、昨年9月から働いているフロリダ州ディズニーワールド・エプコットでの仕事について語ってもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* エプコット日本館での仕事<br />
+<br />
+<br />
+* フロリダ州オーランドのディズニーワールドには4つのパークと2つのプール<br />
+* キャプテンに任命されて求められたこと<br />
+* Festival of the Artsでのプレゼンテーション<br />
+<br />
+* ラボの経験で役に立ったこと<br />
+<br />
+<br />
+* 人前で話すことやワークショップの組み立て<br />
+* 英語のスピーチは苦にならない理由<br />
+<br />
+* 寮生活<br />
+<br />
+<br />
+* トロピカルストーム・マシューのおかげでParty Night<br />
+* ルーミーは国際色豊か<br />
+<br />
+* 日本語と英語<br />
+<br />
+<br />
+* 英語を話す努力をしない外国人<br />
+* 英語の文脈に巧妙に入り込む日本語たち<br />
+* 意外と認知度が高い枝豆<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://h2plus.biz/another-dawn/2016/08/spinoff-5/">SpinOff#5: 駆け上がるラボ人生（ゲスト：ワタル）</a><br />
+* <a href="https://disneyparks.disney.go.com/jp/disneyworld/destinations/epcot/" target="_blank">エプコット ＠ Walt Disney World</a><br />
+* <a href="https://disneyparks.disney.go.com/blog/2017/01/epcot-international-festival-of-the-arts-begins-today/" target="_blank">Epcot International Festival of the Arts Begins Today ＠ Disney Parks Blog</a><br />
+* <a href="https://www.google.com/search?q=%E9%B3%A5%E7%8D%A3%E6%88%AF%E7%94%BB&tbm=isch" target="_blank">鳥獣戯画 ＠ Google画像検索</a><br />
+* <a href="https://www.google.com/search?q=%E5%8C%97%E6%96%8E%E6%BC%AB%E7%94%BB&tbm=isch" target="_blank">北斎漫画 ＠ Google画像検索</a><br />
+* <a href="https://www.reviewjournal.com/local/the-strip/japanese-kabuki-show-returning-to-fountains-of-bellagio/" target="_blank">Japanese Kabuki show returning to Fountains of Bellagio</a><br />
+<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:14:00</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#13: 継承語教育（ゲスト：ゆか）</title>
+		<link>https://h2plus.biz/another-dawn/2017/05/spinoff-13/</link>
+		<pubDate>Sun, 14 May 2017 21:00:12 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=428</guid>
+		<description>本編に引き続き、韓国在住のカレッジメイトOG・ゆかをゲスト迎えて、海外で子育てする親が直面する「継承語」に対する考え方、取り組みを中心に教育について語りました。
+
+Show Notes
+
+
+継承語と現地語
+
+
+米国と韓国での継承語事情
+継承語教育の必要性を伝える活動を展開する中での苦労
+補習校と日本人学校
+ラボテープを使ったテーマ活動が有効なのでは!?
+年頃になると出てくるアイデンティティ問題
+努力と苦労はいずれ財産になる！
+
+韓国での習い事
+
+
+学問・スポーツ・芸術の三本柱
+韓国ラボについては...次回に持ち越し！</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-013.mp3" length="24162699" type="audio/mpeg" />
+		<itunes:subtitle>本編に引き続き、韓国在住のカレッジメイトOG・ゆかをゲスト迎えて、海外で子育てする親が直面する「継承語」に対する考え方、取り組みを中心に教育について語りました。  Show Notes   継承語と現地語   米国と韓国での継承語事情 継承語教育の必要性を伝える活動を展開する中での苦労 補習校と日本人学校 ラボテープを使ったテーマ活動が有効なのでは!? 年頃になると出てくるアイデンティティ問題 努力と苦労はいずれ財産になる！  韓国での習い事   学問・スポーツ・芸術の三本柱 </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2017/05/episode-14/">本編</a>に引き続き、韓国在住のカレッジメイトOG・ゆかをゲスト迎えて、海外で子育てする親が直面する「継承語」に対する考え方、取り組みを中心に教育について語りました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 継承語と現地語<br />
+<br />
+<br />
+* 米国と韓国での継承語事情<br />
+* 継承語教育の必要性を伝える活動を展開する中での苦労<br />
+* 補習校と日本人学校<br />
+* ラボテープを使ったテーマ活動が有効なのでは!?<br />
+* 年頃になると出てくるアイデンティティ問題<br />
+* 努力と苦労はいずれ財産になる！<br />
+<br />
+* 韓国での習い事<br />
+<br />
+<br />
+* 学問・スポーツ・芸術の三本柱<br />
+* 韓国ラボについては...次回に持ち越し！<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>35:47</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#14: 気づけば永久就職（ゲスト：ゆか）</title>
+		<link>https://h2plus.biz/another-dawn/2017/05/episode-14/</link>
+		<pubDate>Sun, 30 Apr 2017 21:00:16 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=426</guid>
+		<description>ふじぼう・ゆうと同時期にカレッジメイト会議に参加していたOGのゆかをゲストに迎えて、日本語教師としての海外でのキャリア、韓国での外国語教育、文化としての特徴などについて話をしました。
+
+Show Notes
+
+
+当時のカレッジメイト会議を振り返る
+
+
+ゆかはレアキャラ？
+
+日本語教師としてのキャリア
+
+
+日本語教師になるのが夢だった
+日韓サッカーW杯の年に日本語教師として韓国に派遣
+2～3年で日本に帰るつもりだったのに永久就職
+
+韓国で日本語教師として働く中で
+
+
+韓国における第二外国語の移り変わり
+韓国語はどうやって習得したのか？
+3年間は韓国語を話せなくても困らなかった
+
+韓国での生活
+
+
+全国統一試験日にパトカーが出動？
+韓国人が目指すキャリアパス
+日米メディアにおける韓国ニュースの取り扱い
+政治的なデモなのにお祭り騒ぎ
+政治家は選挙運動で歌って踊って当選？
+
+日韓文化比較論
+
+
+お一人様で外食してたら怒られた
+食事をもてなす感覚の違い
+日本は「もったいない」文化
+部屋の中がいつでもキレイ！
+美容整形は当たり前
+
+
+
+Links
+
+
+Election Dance in Korea ＠ YouTube</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-014.mp3" length="23875933" type="audio/mpeg" />
+		<itunes:subtitle>ふじぼう・ゆうと同時期にカレッジメイト会議に参加していたOGのゆかをゲストに迎えて、日本語教師としての海外でのキャリア、韓国での外国語教育、文化としての特徴などについて話をしました。  Show Notes   当時のカレッジメイト会議を振り返る   ゆかはレアキャラ？  日本語教師としてのキャリア   日本語教師になるのが夢だった 日韓サッカーW杯の年に日本語教師として韓国に派遣 2～3年で日本に帰るつもりだったのに永久就職  韓国で日本語教師として働く中で   </itunes:subtitle>
+		<itunes:summary><![CDATA[ふじぼう・ゆうと同時期にカレッジメイト会議に参加していたOGのゆかをゲストに迎えて、日本語教師としての海外でのキャリア、韓国での外国語教育、文化としての特徴などについて話をしました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 当時のカレッジメイト会議を振り返る<br />
+<br />
+<br />
+* ゆかはレアキャラ？<br />
+<br />
+* 日本語教師としてのキャリア<br />
+<br />
+<br />
+* 日本語教師になるのが夢だった<br />
+* 日韓サッカーW杯の年に日本語教師として韓国に派遣<br />
+* 2～3年で日本に帰るつもりだったのに永久就職<br />
+<br />
+* 韓国で日本語教師として働く中で<br />
+<br />
+<br />
+* 韓国における第二外国語の移り変わり<br />
+* 韓国語はどうやって習得したのか？<br />
+* 3年間は韓国語を話せなくても困らなかった<br />
+<br />
+* 韓国での生活<br />
+<br />
+<br />
+* 全国統一試験日にパトカーが出動？<br />
+* 韓国人が目指すキャリアパス<br />
+* 日米メディアにおける韓国ニュースの取り扱い<br />
+* 政治的なデモなのにお祭り騒ぎ<br />
+* 政治家は選挙運動で歌って踊って当選？<br />
+<br />
+* 日韓文化比較論<br />
+<br />
+<br />
+* お一人様で外食してたら怒られた<br />
+* 食事をもてなす感覚の違い<br />
+* 日本は「もったいない」文化<br />
+* 部屋の中がいつでもキレイ！<br />
+* 美容整形は当たり前<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.youtube.com/watch?v=aJt0JgL3dA0" target="_blank">Election Dance in Korea ＠ YouTube</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>36:22</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#12: そうだ合宿に行こう！</title>
+		<link>https://h2plus.biz/another-dawn/2017/04/spinoff-12/</link>
+		<pubDate>Fri, 14 Apr 2017 21:00:53 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=393</guid>
+		<description>Show Notes
+
+
+入学・入社シーズン
+
+
+シリコンバレーの花見事情
+Another DawnのFacebookページ完成
+
+カレッジメイト修了式後の懇親会にゆうが参加
+
+
+OB・OG参加者がもっと増えたらいいな
+現役世代にとってのカレッジメイト活動の位置付け
+カレッジメイト見学会の案内
+
+エイプリルフール
+
+
+時差のせいで3月31日に騙される
+Facebookの嘘の書き込みでプチ騒動
+
+旅行時の飛行機トラブル
+
+
+飛行機遅延で1泊5.5万円のホテルに宿泊！？
+乗り継ぎ間に合わず空港付近でホテル探しに苦労
+
+ゆうの浜松合宿計画
+
+
+運転免許合宿が破格なワケ
+なぜ浜松なのか？
+
+祝☆ふじぼうの長女・誕生
+
+
+2週間のPaternity Leave
+出産・育児にまつわる日米比較
+
+
+
+Links
+
+
+Another DawnのFacebookページ
+”国際交流が大好きな大学生ラボっ子”、集まれ〜！！！ @ Facebook</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-012.mp3" length="36070413" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   入学・入社シーズン   シリコンバレーの花見事情 Another DawnのFacebookページ完成  カレッジメイト修了式後の懇親会にゆうが参加   OB・OG参加者がもっと増えたらいいな 現役世代にとってのカレッジメイト活動の位置付け カレッジメイト見学会の案内  エイプリルフール   時差のせいで3月31日に騙される Facebookの嘘の書き込みでプチ騒動  旅行時の飛行機トラブル   飛行機遅延で1泊5.5万円のホテルに宿泊！？ </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 入学・入社シーズン<br />
+<br />
+<br />
+* シリコンバレーの花見事情<br />
+* Another DawnのFacebookページ完成<br />
+<br />
+* カレッジメイト修了式後の懇親会にゆうが参加<br />
+<br />
+<br />
+* OB・OG参加者がもっと増えたらいいな<br />
+* 現役世代にとってのカレッジメイト活動の位置付け<br />
+* カレッジメイト見学会の案内<br />
+<br />
+* エイプリルフール<br />
+<br />
+<br />
+* 時差のせいで3月31日に騙される<br />
+* Facebookの嘘の書き込みでプチ騒動<br />
+<br />
+* 旅行時の飛行機トラブル<br />
+<br />
+<br />
+* 飛行機遅延で1泊5.5万円のホテルに宿泊！？<br />
+* 乗り継ぎ間に合わず空港付近でホテル探しに苦労<br />
+<br />
+* ゆうの浜松合宿計画<br />
+<br />
+<br />
+* 運転免許合宿が破格なワケ<br />
+* なぜ浜松なのか？<br />
+<br />
+* 祝☆ふじぼうの長女・誕生<br />
+<br />
+<br />
+* 2週間のPaternity Leave<br />
+* 出産・育児にまつわる日米比較<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.facebook.com/AnotherDawnPodcast/" target="_blank">Another DawnのFacebookページ</a><br />
+* <a href="https://www.facebook.com/shyutokencollegemate/posts/1014722171993975" target="_blank">”国際交流が大好きな大学生ラボっ子”、集まれ〜！！！ @ Facebook</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>53:34</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#13: ソーシャルメディア最適化委員会</title>
+		<link>https://h2plus.biz/another-dawn/2017/04/episode-13/</link>
+		<pubDate>Fri, 31 Mar 2017 21:00:16 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=384</guid>
+		<description>Show Notes
+
+
+2016年度のダウンロードランキング発表
+
+
+＜第1位＞ Episode#4: アメリカで見かける変な日本語（ゲスト：カーリー）
+＜第2位＞ Episode#5: 現役カレッジメイト登場（ゲスト：ワタル）
+＜第3位＞ Episode#2: カレッジメイト今昔物語（ゲスト：ミナト）
+
+ソーシャルメディアの効果測定
+
+
+Twitterではリスナーからのフィードバックが得られなかった
+そもそもポッドキャストを聞く習慣がない
+Facebookページの方が導線としては適している？
+
+2017年度のマイルストーン
+
+
+現役世代との20年のギャップを埋める
+よりキャッチーなタイトルや紹介が必要
+「ラボの世界」のOBOG寄稿のポジション
+
+
+
+Links
+
+
+Another DawnのFacebookページを新設！</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-013.mp3" length="23534632" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   2016年度のダウンロードランキング発表   ＜第1位＞ Episode#4: アメリカで見かける変な日本語（ゲスト：カーリー） ＜第2位＞ Episode#5: 現役カレッジメイト登場（ゲスト：ワタル） ＜第3位＞ Episode#2: カレッジメイト今昔物語（ゲスト：ミナト）  ソーシャルメディアの効果測定   Twitterではリスナーからのフィードバックが得られなかった そもそもポッドキャストを聞く習慣がない </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 2016年度のダウンロードランキング発表<br />
+<br />
+<br />
+* ＜第1位＞ <a href="https://h2plus.biz/another-dawn/2016/07/episode-4/">Episode#4: アメリカで見かける変な日本語（ゲスト：カーリー）</a><br />
+* ＜第2位＞ <a href="https://h2plus.biz/another-dawn/2016/08/episode-5/">Episode#5: 現役カレッジメイト登場（ゲスト：ワタル）</a><br />
+* ＜第3位＞ <a href="https://h2plus.biz/another-dawn/2016/05/episode-2/">Episode#2: カレッジメイト今昔物語（ゲスト：ミナト）</a><br />
+<br />
+* ソーシャルメディアの効果測定<br />
+<br />
+<br />
+* Twitterではリスナーからのフィードバックが得られなかった<br />
+* そもそもポッドキャストを聞く習慣がない<br />
+* Facebookページの方が導線としては適している？<br />
+<br />
+* 2017年度のマイルストーン<br />
+<br />
+<br />
+* 現役世代との20年のギャップを埋める<br />
+* よりキャッチーなタイトルや紹介が必要<br />
+* 「ラボの世界」のOBOG寄稿のポジション<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.facebook.com/AnotherDawnPodcast/" target="_blank">Another DawnのFacebookページを新設！</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>33:28</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#11: 小学校での英語教育（ゲスト：ぐると）</title>
+		<link>https://h2plus.biz/another-dawn/2017/03/spinoff-11/</link>
+		<pubDate>Tue, 14 Mar 2017 21:00:53 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=327</guid>
+		<description>本編に引き続き、現役カレッジメイトのぐるとをゲストにお迎えして、4年間のカレッジメイト活動の振り返り、また4月から小学校の先生として働く展望や、小学校での英語教育について語っていただきました。
+
+Show Notes
+
+
+4年間のカレッジメイト活動を振り返る
+
+
+偉大すぎた上期生たち
+いろいろな活動を経験して著しく成長した2期目
+多様性を尊重するカレッジメイト会議という場が好き
+
+4月から小学校の先生に
+
+
+カレッジメイト活動での企画立案の経験が役立つ
+逆上がりを練習しないと...
+低学年ほど言葉の使い方が難しい
+
+小学校での英語教育
+
+
+話す・聞くを中心にしたコミュニケーション能力の育成
+小学生にとっての英語を学ぶ動機
+機械翻訳が当たり前になったときの外国語学習の必要性
+
+英語以外で国際性が養われる科目
+
+
+家庭科を通して世界を見る
+教科化される道徳に潜む危うさ
+歴史は現代から遡って教えるべき</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-011.mp3" length="46996021" type="audio/mpeg" />
+		<itunes:subtitle>本編に引き続き、現役カレッジメイトのぐるとをゲストにお迎えして、4年間のカレッジメイト活動の振り返り、また4月から小学校の先生として働く展望や、小学校での英語教育について語っていただきました。  Show Notes   4年間のカレッジメイト活動を振り返る   偉大すぎた上期生たち いろいろな活動を経験して著しく成長した2期目 多様性を尊重するカレッジメイト会議という場が好き  4月から小学校の先生に   カレッジメイト活動での企画立案の経験が役立つ 逆上がりを練習しないと... </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2017/03/episode-12/">本編</a>に引き続き、現役カレッジメイトのぐるとをゲストにお迎えして、4年間のカレッジメイト活動の振り返り、また4月から小学校の先生として働く展望や、小学校での英語教育について語っていただきました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 4年間のカレッジメイト活動を振り返る<br />
+<br />
+<br />
+* 偉大すぎた上期生たち<br />
+* いろいろな活動を経験して著しく成長した2期目<br />
+* 多様性を尊重するカレッジメイト会議という場が好き<br />
+<br />
+* 4月から小学校の先生に<br />
+<br />
+<br />
+* カレッジメイト活動での企画立案の経験が役立つ<br />
+* 逆上がりを練習しないと...<br />
+* 低学年ほど言葉の使い方が難しい<br />
+<br />
+* 小学校での英語教育<br />
+<br />
+<br />
+* 話す・聞くを中心にしたコミュニケーション能力の育成<br />
+* 小学生にとっての英語を学ぶ動機<br />
+* 機械翻訳が当たり前になったときの外国語学習の必要性<br />
+<br />
+* 英語以外で国際性が養われる科目<br />
+<br />
+<br />
+* 家庭科を通して世界を見る<br />
+* 教科化される道徳に潜む危うさ<br />
+* 歴史は現代から遡って教えるべき<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>56:00</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#12: ここがヘンだよ日本のマナー（ゲスト：ぐると）</title>
+		<link>https://h2plus.biz/another-dawn/2017/03/episode-12/</link>
+		<pubDate>Tue, 28 Feb 2017 21:00:05 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=322</guid>
+		<description>2月11日に催された国際交流村で村長を務めた、現役カレッジメイトのぐるとをゲストにお迎えして、国際交流村の企画・運営側のお話を聞かせていただきました。
+
+Show Notes
+
+
+国際交流村を終えて
+
+
+総勢約70人のラボっ子と約20人のテューターが集まり大盛況
+
+小学生向けテーマ「世界の食糧問題」
+
+
+「世界がもし100人の村だったら」を切り口に世界の所得格差を疑似体験
+ワークショップで考えたことが実生活にフィードバックされる
+
+午前中の選択テーマの1つ「ルールとマナー」
+
+
+2020年の東京オリンピックを見据えて日本のマナーを考える
+ルールとマナーの違いは？
+電車にまつわる日本固有のマナーたち
+合理性から生まれたマナーが非合理的な状況でも遵守される皮肉
+公共の場では静かにするのが当然な日本人
+ポイ捨てによる雇用機会の創出
+学校に「掃除の時間」があるのは日本だけ？
+食べ残しに対する各国での価値観の違い
+日本の過剰品質主義
+勘違いされている「お客様は神様です」
+
+
+
+Links
+
+
+日教組も黙認…日本の学校は今も「徴兵訓練」をやっている！
+【海外の反応】学校で生徒が「掃除」する日本について賛否両論!!
+「お客様は神様です」について @ 三波春夫オフィシャルサイト</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-012.mp3" length="30361012" type="audio/mpeg" />
+		<itunes:subtitle>2月11日に催された国際交流村で村長を務めた、現役カレッジメイトのぐるとをゲストにお迎えして、国際交流村の企画・運営側のお話を聞かせていただきました。  Show Notes   国際交流村を終えて   総勢約70人のラボっ子と約20人のテューターが集まり大盛況  小学生向けテーマ「世界の食糧問題」   「世界がもし100人の村だったら」を切り口に世界の所得格差を疑似体験 ワークショップで考えたことが実生活にフィードバックされる  午前中の選択テーマの1つ「ルールとマナー」   </itunes:subtitle>
+		<itunes:summary><![CDATA[2月11日に催された国際交流村で村長を務めた、現役カレッジメイトのぐるとをゲストにお迎えして、国際交流村の企画・運営側のお話を聞かせていただきました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 国際交流村を終えて<br />
+<br />
+<br />
+* 総勢約70人のラボっ子と約20人のテューターが集まり大盛況<br />
+<br />
+* 小学生向けテーマ「世界の食糧問題」<br />
+<br />
+<br />
+* 「世界がもし100人の村だったら」を切り口に世界の所得格差を疑似体験<br />
+* ワークショップで考えたことが実生活にフィードバックされる<br />
+<br />
+* 午前中の選択テーマの1つ「ルールとマナー」<br />
+<br />
+<br />
+* 2020年の東京オリンピックを見据えて日本のマナーを考える<br />
+* ルールとマナーの違いは？<br />
+* 電車にまつわる日本固有のマナーたち<br />
+* 合理性から生まれたマナーが非合理的な状況でも遵守される皮肉<br />
+* 公共の場では静かにするのが当然な日本人<br />
+* ポイ捨てによる雇用機会の創出<br />
+* 学校に「掃除の時間」があるのは日本だけ？<br />
+* 食べ残しに対する各国での価値観の違い<br />
+* 日本の過剰品質主義<br />
+* 勘違いされている「お客様は神様です」<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="http://lite-ra.com/2014/08/post-312.html" target="_blank">日教組も黙認…日本の学校は今も「徴兵訓練」をやっている！</a><br />
+* <a href="http://murablog.jp/overseas/crean" target="_blank">【海外の反応】学校で生徒が「掃除」する日本について賛否両論!!</a><br />
+* <a href="http://www.minamiharuo.jp/profile/index2.html" target="_blank">「お客様は神様です」について @ 三波春夫オフィシャルサイト</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>41:23</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#10: ポッドキャスト作成の舞台裏</title>
+		<link>https://h2plus.biz/another-dawn/2017/02/spinoff-10/</link>
+		<pubDate>Tue, 14 Feb 2017 21:00:59 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=316</guid>
+		<description>Show Notes
+
+
+バレンタインデーの日米比較
+
+
+日本は女性からアメリカは男性から
+学校がホストする「Parents&#039; Night Out」というイベント
+
+シリコンバレーを改めて紹介
+
+
+テック企業の密集地
+近くの観光スポット／ナパ・ヨセミテ
+車で4時間が遠いと感じなくなる
+
+ポッドキャスト作成の舞台裏
+
+
+金銭的な初期投資ゼロが前提
+無音と相槌のカット〜ノイズ除去〜音圧調整</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-010.mp3" length="23820677" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   バレンタインデーの日米比較   日本は女性からアメリカは男性から 学校がホストする「Parents&#039; Night Out」というイベント  シリコンバレーを改めて紹介   テック企業の密集地 近くの観光スポット／ナパ・ヨセミテ 車で4時間が遠いと感じなくなる  ポッドキャスト作成の舞台裏   金銭的な初期投資ゼロが前提 無音と相槌のカット〜ノイズ除去〜音圧調整</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* バレンタインデーの日米比較<br />
+<br />
+<br />
+* 日本は女性からアメリカは男性から<br />
+* 学校がホストする「Parents' Night Out」というイベント<br />
+<br />
+* シリコンバレーを改めて紹介<br />
+<br />
+<br />
+* テック企業の密集地<br />
+* 近くの観光スポット／ナパ・ヨセミテ<br />
+* 車で4時間が遠いと感じなくなる<br />
+<br />
+* ポッドキャスト作成の舞台裏<br />
+<br />
+<br />
+* 金銭的な初期投資ゼロが前提<br />
+* 無音と相槌のカット〜ノイズ除去〜音圧調整<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>28:27</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#11: ライブラリー作成の舞台裏（ゲスト：竹内さん）</title>
+		<link>https://h2plus.biz/another-dawn/2017/02/episode-11/</link>
+		<pubDate>Tue, 31 Jan 2017 21:00:14 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=304</guid>
+		<description>カレッジメイトOGでもある、事務局の竹内さんをゲストにお迎えして、ラボセンターで収録をしてきました。時代と共に変化してきたラボを取り巻く環境や、ラボ・ライブラリーの作成現場の生の声など、貴重なお話を聞かせていただきました。
+
+Show Notes
+
+
+20年前のカレッジメイト会議を振り返る
+
+
+大矢さんからの課題で鍛えられた世代
+ワークショップ「ヒトとキカイ」取り上げた「個電」が現実に
+手紙を書かなくなった!?
+
+ラボ国際交流の最近の事情
+
+
+典型的なホストファミリー像の変化
+考える力を養うためのケーススタディ
+自由研究・素語りの必要性
+
+ラボライブラリー作成の舞台裏
+
+
+昔の話を聞いても古臭くなってない
+江守徹さん、小日向文世さん、市原悦子さんなど豪華な声優陣
+幼少期にライブラリーを聴くことの重要性
+
+これからの英語教育
+
+
+発音はペラペラだけど内容がペラペラな英語でいいのか？
+日本語であれ英語であれコミュニケーション能力が問われる</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-011.mp3" length="35947271" type="audio/mpeg" />
+		<itunes:subtitle>カレッジメイトOGでもある、事務局の竹内さんをゲストにお迎えして、ラボセンターで収録をしてきました。時代と共に変化してきたラボを取り巻く環境や、ラボ・ライブラリーの作成現場の生の声など、貴重なお話を聞かせていただきました。  Show Notes   20年前のカレッジメイト会議を振り返る   大矢さんからの課題で鍛えられた世代 ワークショップ「ヒトとキカイ」取り上げた「個電」が現実に 手紙を書かなくなった!?  ラボ国際交流の最近の事情   典型的なホストファミリー像の変化 </itunes:subtitle>
+		<itunes:summary><![CDATA[カレッジメイトOGでもある、事務局の竹内さんをゲストにお迎えして、ラボセンターで収録をしてきました。時代と共に変化してきたラボを取り巻く環境や、ラボ・ライブラリーの作成現場の生の声など、貴重なお話を聞かせていただきました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 20年前のカレッジメイト会議を振り返る<br />
+<br />
+<br />
+* 大矢さんからの課題で鍛えられた世代<br />
+* ワークショップ「ヒトとキカイ」取り上げた「個電」が現実に<br />
+* 手紙を書かなくなった!?<br />
+<br />
+* ラボ国際交流の最近の事情<br />
+<br />
+<br />
+* 典型的なホストファミリー像の変化<br />
+* 考える力を養うためのケーススタディ<br />
+* 自由研究・素語りの必要性<br />
+<br />
+* ラボライブラリー作成の舞台裏<br />
+<br />
+<br />
+* 昔の話を聞いても古臭くなってない<br />
+* 江守徹さん、小日向文世さん、市原悦子さんなど豪華な声優陣<br />
+* 幼少期にライブラリーを聴くことの重要性<br />
+<br />
+* これからの英語教育<br />
+<br />
+<br />
+* 発音はペラペラだけど内容がペラペラな英語でいいのか？<br />
+* 日本語であれ英語であれコミュニケーション能力が問われる<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>44:23</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#10: 突撃！カレッジメイト会議</title>
+		<link>https://h2plus.biz/another-dawn/2017/01/episode-10/</link>
+		<pubDate>Sat, 14 Jan 2017 21:00:02 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=288</guid>
+		<description>2016年最後のカレッジメイト会議にお邪魔させていただき、現役カレッジメイトのみなさんをゲストに迎えて公開収録をしてきました。
+
+Show Notes
+
+
+カレッジメイト会議での公開収録
+
+
+ヘッドより今期活動の紹介
+ウィンターキャンプにコーチとして参加する意義
+言語の交通渋滞を静観する「ぷにー」
+独りディズニーでカップルの自撮りに変顔で乱入する「たいが」
+国際交流村に向けた企画・運営
+20年前のカレッジメイト活動の紹介
+
+公開収録を振り返る
+
+
+現役カレッジメイトをゲストに招きたい
+20年のギャップを埋めることが2017年のテーマ
+ポッドキャストを聴くのは意外とハードルが高い!?
+
+余談：ふじぼうの一時帰国ライフ
+
+
+ラジオのパーソナリティの独りトークに感心
+不慣れな？飲み会が続き胃腸が...
+軽井沢も中国人観光客で溢れかえっていた</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-010.mp3" length="28563561" type="audio/mpeg" />
+		<itunes:subtitle>2016年最後のカレッジメイト会議にお邪魔させていただき、現役カレッジメイトのみなさんをゲストに迎えて公開収録をしてきました。  Show Notes   カレッジメイト会議での公開収録   ヘッドより今期活動の紹介 ウィンターキャンプにコーチとして参加する意義 言語の交通渋滞を静観する「ぷにー」 独りディズニーでカップルの自撮りに変顔で乱入する「たいが」 国際交流村に向けた企画・運営 20年前のカレッジメイト活動の紹介  公開収録を振り返る   現役カレッジメイトをゲストに招きたい </itunes:subtitle>
+		<itunes:summary><![CDATA[2016年最後のカレッジメイト会議にお邪魔させていただき、現役カレッジメイトのみなさんをゲストに迎えて公開収録をしてきました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* カレッジメイト会議での公開収録<br />
+<br />
+<br />
+* ヘッドより今期活動の紹介<br />
+* ウィンターキャンプにコーチとして参加する意義<br />
+* 言語の交通渋滞を静観する「ぷにー」<br />
+* 独りディズニーでカップルの自撮りに変顔で乱入する「たいが」<br />
+* 国際交流村に向けた企画・運営<br />
+* 20年前のカレッジメイト活動の紹介<br />
+<br />
+* 公開収録を振り返る<br />
+<br />
+<br />
+* 現役カレッジメイトをゲストに招きたい<br />
+* 20年のギャップを埋めることが2017年のテーマ<br />
+* ポッドキャストを聴くのは意外とハードルが高い!?<br />
+<br />
+* 余談：ふじぼうの一時帰国ライフ<br />
+<br />
+<br />
+* ラジオのパーソナリティの独りトークに感心<br />
+* 不慣れな？飲み会が続き胃腸が...<br />
+* 軽井沢も中国人観光客で溢れかえっていた<br />
+<br />
+<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>39:59</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#9: ゆうのビジネス道場（ゲスト：ミナト）</title>
+		<link>https://h2plus.biz/another-dawn/2016/12/spinoff-9/</link>
+		<pubDate>Wed, 14 Dec 2016 21:00:31 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=274</guid>
+		<description>本編に引き続きミナトをゲストにお迎えして、昨夏にOPTの就職活動として訪れたオレゴン州・ポートランドについて語ってもらいました。
+
+Show Notes
+
+
+ミナトのOPT就職活動記
+
+
+なぜOPTでポートランドに行こうと思ったのか？
+どんな就職活動をして何を感じたのか？
+浜松で活躍している経営者の起業ストーリー
+創業者へアプローチせよ！
+
+起業アイディアを見つけるためには？
+
+
+ゆうの起業ストーリー
+大切なのはHowよりもWhy
+自分たちが解こうとしている問題は何なのか？
+当たり前だったことが当たり前でないことに気づく！
+行動を起こしたこと・経験値が溜まることの意味と価値
+アウトプットする場所を意識的に作ろう
+
+12/19（月）のカレッジメイト会議
+
+
+ふじぼうとゆうが20時から参加します！
+ラボセンターの隣の小さなビル（1階にお弁当屋さんがあります）
+
+
+
+Links
+
+
+こころ（飲食×IT）＠浜松
+ピープルアート＠横浜
+なぜスゴそうな人も大ゴケするのか？テーマで間違うスタートアップ</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-009.mp3" length="44334570" type="audio/mpeg" />
+		<itunes:subtitle>本編に引き続きミナトをゲストにお迎えして、昨夏にOPTの就職活動として訪れたオレゴン州・ポートランドについて語ってもらいました。  Show Notes   ミナトのOPT就職活動記   なぜOPTでポートランドに行こうと思ったのか？ どんな就職活動をして何を感じたのか？ 浜松で活躍している経営者の起業ストーリー 創業者へアプローチせよ！  起業アイディアを見つけるためには？   ゆうの起業ストーリー 大切なのはHowよりもWhy 自分たちが解こうとしている問題は何なのか？ </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2016/12/episode-9/">本編</a>に引き続きミナトをゲストにお迎えして、昨夏にOPTの就職活動として訪れたオレゴン州・ポートランドについて語ってもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* ミナトのOPT就職活動記<br />
+<br />
+<br />
+* なぜOPTでポートランドに行こうと思ったのか？<br />
+* どんな就職活動をして何を感じたのか？<br />
+* 浜松で活躍している経営者の起業ストーリー<br />
+* 創業者へアプローチせよ！<br />
+<br />
+* 起業アイディアを見つけるためには？<br />
+<br />
+<br />
+* ゆうの起業ストーリー<br />
+* 大切なのはHowよりもWhy<br />
+* 自分たちが解こうとしている問題は何なのか？<br />
+* 当たり前だったことが当たり前でないことに気づく！<br />
+* 行動を起こしたこと・経験値が溜まることの意味と価値<br />
+* アウトプットする場所を意識的に作ろう<br />
+<br />
+* 12/19（月）のカレッジメイト会議<br />
+<br />
+<br />
+* ふじぼうとゆうが20時から参加します！<br />
+* ラボセンターの隣の小さなビル（1階にお弁当屋さんがあります）<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.cocoro-inc.net/">こころ（飲食×IT）＠浜松</a><br />
+* <a href="http://peopleart.jp/">ピープルアート＠横浜</a><br />
+* <a href="http://diamond.jp/articles/-/20159" target="_blank">なぜスゴそうな人も大ゴケするのか？テーマで間違うスタートアップ</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>52:05</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#9: マイルドヤンキー（ゲスト：ミナト）</title>
+		<link>https://h2plus.biz/another-dawn/2016/12/episode-9/</link>
+		<pubDate>Wed, 30 Nov 2016 21:00:58 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=270</guid>
+		<description>Episode#2に出演してもらったミナトをゲストにお招きしました。
+
+Show Notes
+
+
+12月19日（月）の夜はカレッジメイト会議＆忘年会
+
+
+会議はラボセンターでやってない？どこ？？
+都合がつくOB・OGはぜひ顔を出しましょう！
+
+アメリカ大統領選を振り返る
+
+
+投票しなかった人が意外と多かった
+マイルドヤンキーがアメリカ市民のマジョリティ？
+外国人が心配するトランプ次期大統領の移民政策
+
+ミナトが伝授する・アメリカの大学に入学する方法
+
+
+試験はTOFELとPlacement Testsのみ
+Community collegeからUniversityに編入する留学生が多い
+メジャーを選択する自由度が高い
+
+大学から就職への道の日米比較
+
+
+新卒学生への期待値の日米差が大きい
+アメリカは即戦力が求められる
+日本は入社後に教育する意識が強い
+
+Not PPAP but OPT
+
+
+Links
+
+
+マイルドヤンキー @ ウィキペディア
+PPAP（Pen-Pineapple-Apple-Pen）</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-009.mp3" length="45293728" type="audio/mpeg" />
+		<itunes:subtitle>Episode#2に出演してもらったミナトをゲストにお招きしました。  Show Notes   12月19日（月）の夜はカレッジメイト会議＆忘年会   会議はラボセンターでやってない？どこ？？ 都合がつくOB・OGはぜひ顔を出しましょう！  アメリカ大統領選を振り返る   投票しなかった人が意外と多かった マイルドヤンキーがアメリカ市民のマジョリティ？ 外国人が心配するトランプ次期大統領の移民政策  ミナトが伝授する・アメリカの大学に入学する方法   </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2016/05/episode-2/">Episode#2</a>に出演してもらったミナトをゲストにお招きしました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 12月19日（月）の夜はカレッジメイト会議＆忘年会<br />
+<br />
+<br />
+* 会議はラボセンターでやってない？どこ？？<br />
+* 都合がつくOB・OGはぜひ顔を出しましょう！<br />
+<br />
+* アメリカ大統領選を振り返る<br />
+<br />
+<br />
+* 投票しなかった人が意外と多かった<br />
+* マイルドヤンキーがアメリカ市民のマジョリティ？<br />
+* 外国人が心配するトランプ次期大統領の移民政策<br />
+<br />
+* ミナトが伝授する・アメリカの大学に入学する方法<br />
+<br />
+<br />
+* 試験はTOFELとPlacement Testsのみ<br />
+* Community collegeからUniversityに編入する留学生が多い<br />
+* メジャーを選択する自由度が高い<br />
+<br />
+* 大学から就職への道の日米比較<br />
+<br />
+<br />
+* 新卒学生への期待値の日米差が大きい<br />
+* アメリカは即戦力が求められる<br />
+* 日本は入社後に教育する意識が強い<br />
+<br />
+* Not PPAP but OPT<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%A4%E3%83%AB%E3%83%89%E3%83%A4%E3%83%B3%E3%82%AD%E3%83%BC" target="_blank">マイルドヤンキー @ ウィキペディア</a><br />
+* <a href="https://www.youtube.com/watch?v=0E00Zuayv9Q" target="_blank">PPAP（Pen-Pineapple-Apple-Pen）</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>49:58</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#8: イベントを通して見る日米比較（ゲスト：かせい）</title>
+		<link>https://h2plus.biz/another-dawn/2016/11/spinoff-8/</link>
+		<pubDate>Mon, 14 Nov 2016 21:00:14 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=247</guid>
+		<description>本編に引き続き、かせいをゲストに迎えて、サンフランシスコで催されたイベント「TechCrunch Disrupt 2016」の話などを聴かせてもらいました。
+
+Show Notes
+
+
+TechCrunch Disrupt 〜 Startup Battlefield
+
+
+ゲーマーのパフォーマンスを測定するサービス
+行動パターンでユーザー認証するサービス
+フィンテックよりもヘルスケアのサービスが依然と多かった
+
+イベントを通して見る日米比較
+
+
+Disruptは有料イベントなのにすごくラフ
+日本では有料イベントだと集客に苦労する
+イベント自体のスケールが日本とは桁違い
+根底にあるのはワークスタイルの差？
+日本ではKPIの設定が曖昧
+時間に対する価値観の違い
+始まりの時間にシビアなのに終わりはルーズな日本
+
+
+
+Links
+
+
+TechCrunch Disrupt San Francisco 2016</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-008.mp3" length="19132209" type="audio/mpeg" />
+		<itunes:subtitle>本編に引き続き、かせいをゲストに迎えて、サンフランシスコで催されたイベント「TechCrunch Disrupt 2016」の話などを聴かせてもらいました。  Show Notes   TechCrunch Disrupt 〜 Startup Battlefield   ゲーマーのパフォーマンスを測定するサービス 行動パターンでユーザー認証するサービス フィンテックよりもヘルスケアのサービスが依然と多かった  イベントを通して見る日米比較   Disruptは有料イベントなのにすごくラフ </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2016/11/episode-8/">本編</a>に引き続き、かせいをゲストに迎えて、サンフランシスコで催されたイベント「TechCrunch Disrupt 2016」の話などを聴かせてもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* TechCrunch Disrupt 〜 Startup Battlefield<br />
+<br />
+<br />
+* ゲーマーのパフォーマンスを測定するサービス<br />
+* 行動パターンでユーザー認証するサービス<br />
+* フィンテックよりもヘルスケアのサービスが依然と多かった<br />
+<br />
+* イベントを通して見る日米比較<br />
+<br />
+<br />
+* Disruptは有料イベントなのにすごくラフ<br />
+* 日本では有料イベントだと集客に苦労する<br />
+* イベント自体のスケールが日本とは桁違い<br />
+* 根底にあるのはワークスタイルの差？<br />
+* 日本ではKPIの設定が曖昧<br />
+* 時間に対する価値観の違い<br />
+* 始まりの時間にシビアなのに終わりはルーズな日本<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://techcrunch.com/events/disrupt-sf-2016/" target="_blank">TechCrunch Disrupt San Francisco 2016</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>26:23</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#8: カブトムシ（ゲスト：かせい）</title>
+		<link>https://h2plus.biz/another-dawn/2016/11/episode-8/</link>
+		<pubDate>Mon, 31 Oct 2016 21:00:44 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=238</guid>
+		<description>ふじぼう・ゆうの現役時代にコーチ会議に在籍していた、かせいをスペシャルゲストに迎えて、コーチ時代の思い出話から現職の仕事に至るまで、楽しく熱く語っていただきました。
+
+Show Notes
+
+
+コーチ会議とカレッジメイト会議の比較論
+
+
+キャンプ中にカブトムシ臭くなるコーチ
+身なりがきれいで華があるカレッジ
+現役世代に継承されている活動の原点
+
+かせいコーチの現職・イベント企画運営の仕事について
+
+
+来年のRuby会議の運営を担当
+海外のクライアントが多く日常的に英語を使う
+外資系は日本に比べて意思決定のスピードが速い
+シンガポールの企業は細かい質問の嵐
+シンガポール人とインド人の英語
+
+コーチ活動での経験が仕事に活きている？
+
+
+スタッフが楽しんでいるとイベントに一体感が生まれる
+イベントに対する思いを各自が発言して全体で共有する
+
+昨夏に韓国の小学生を受け入れした体験談
+
+
+家族の中でホストとしての想いがつながった
+韓国ラボってなに？
+LINEの自動翻訳で両親とシームレスに会話
+手紙でのコミュニケーションは古き良き時代？
+どの国にスティしたら面白いか
+
+テクノロジーが変革する未来
+
+
+UBERは便利だ！
+サンフランシスコで開催されたスタートアップイベント
+
+
+
+Links
+
+
+ピーク・ワン（かせいコーチが勤めている会社）
+ラボ・韓国青少年交流
+UBER
+UBER EATS Tokyo
+TechCrunch Disrupt 2016</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-008.mp3" length="42860550" type="audio/mpeg" />
+		<itunes:subtitle>ふじぼう・ゆうの現役時代にコーチ会議に在籍していた、かせいをスペシャルゲストに迎えて、コーチ時代の思い出話から現職の仕事に至るまで、楽しく熱く語っていただきました。  Show Notes   コーチ会議とカレッジメイト会議の比較論   キャンプ中にカブトムシ臭くなるコーチ 身なりがきれいで華があるカレッジ 現役世代に継承されている活動の原点  かせいコーチの現職・イベント企画運営の仕事について   来年のRuby会議の運営を担当 海外のクライアントが多く日常的に英語を使う </itunes:subtitle>
+		<itunes:summary><![CDATA[ふじぼう・ゆうの現役時代にコーチ会議に在籍していた、かせいをスペシャルゲストに迎えて、コーチ時代の思い出話から現職の仕事に至るまで、楽しく熱く語っていただきました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* コーチ会議とカレッジメイト会議の比較論<br />
+<br />
+<br />
+* キャンプ中にカブトムシ臭くなるコーチ<br />
+* 身なりがきれいで華があるカレッジ<br />
+* 現役世代に継承されている活動の原点<br />
+<br />
+* かせいコーチの現職・イベント企画運営の仕事について<br />
+<br />
+<br />
+* 来年のRuby会議の運営を担当<br />
+* 海外のクライアントが多く日常的に英語を使う<br />
+* 外資系は日本に比べて意思決定のスピードが速い<br />
+* シンガポールの企業は細かい質問の嵐<br />
+* シンガポール人とインド人の英語<br />
+<br />
+* コーチ活動での経験が仕事に活きている？<br />
+<br />
+<br />
+* スタッフが楽しんでいるとイベントに一体感が生まれる<br />
+* イベントに対する思いを各自が発言して全体で共有する<br />
+<br />
+* 昨夏に韓国の小学生を受け入れした体験談<br />
+<br />
+<br />
+* 家族の中でホストとしての想いがつながった<br />
+* 韓国ラボってなに？<br />
+* LINEの自動翻訳で両親とシームレスに会話<br />
+* 手紙でのコミュニケーションは古き良き時代？<br />
+* どの国にスティしたら面白いか<br />
+<br />
+* テクノロジーが変革する未来<br />
+<br />
+<br />
+* UBERは便利だ！<br />
+* サンフランシスコで開催されたスタートアップイベント<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://peak-1.co.jp/jp/" target="_blank">ピーク・ワン</a>（かせいコーチが勤めている会社）<br />
+* <a href="http://www.labo-intlexchange.or.jp/program1_ko.html" target="_blank">ラボ・韓国青少年交流</a><br />
+* <a href="https://www.uber.com/jp/ja/" target="_blank">UBER</a><br />
+* <a href="https://ubereats.com/tokyo/" target="_blank">UBER EATS Tokyo</a><br />
+* <a href="https://techcrunch.com/events/disrupt-sf-2016/" target="_blank">TechCrunch Disrupt 2016</a><br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>57:10</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#7: ヒトとキカイ</title>
+		<link>https://h2plus.biz/another-dawn/2016/10/spinoff-7/</link>
+		<pubDate>Fri, 14 Oct 2016 21:00:16 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=215</guid>
+		<description>Show Notes
+
+
+20年前のワークショップ「ヒトとキカイ」を振り返る
+
+
+起点は核家族化という社会問題
+個食・個電化が進むという当時の予想が現実化
+キカイによって節約されたヒトの時間はどこへ？
+技術革新にもたらされた恩恵を享受するべし！
+大きな資本がないとできなかったことが個人でもできるように
+
+ふじぼうが一時帰国する件
+
+
+時期はいつ？
+帰国中に現役OBOGの交流会をやろう！</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-007.mp3" length="40011232" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   20年前のワークショップ「ヒトとキカイ」を振り返る   起点は核家族化という社会問題 個食・個電化が進むという当時の予想が現実化 キカイによって節約されたヒトの時間はどこへ？ 技術革新にもたらされた恩恵を享受するべし！ 大きな資本がないとできなかったことが個人でもできるように  ふじぼうが一時帰国する件   時期はいつ？ 帰国中に現役OBOGの交流会をやろう！</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 20年前のワークショップ「ヒトとキカイ」を振り返る<br />
+<br />
+<br />
+* 起点は核家族化という社会問題<br />
+* 個食・個電化が進むという当時の予想が現実化<br />
+* キカイによって節約されたヒトの時間はどこへ？<br />
+* 技術革新にもたらされた恩恵を享受するべし！<br />
+* 大きな資本がないとできなかったことが個人でもできるように<br />
+<br />
+* ふじぼうが一時帰国する件<br />
+<br />
+<br />
+* 時期はいつ？<br />
+* 帰国中に現役OBOGの交流会をやろう！<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>43:21</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#7: 日米の初等教育比較</title>
+		<link>https://h2plus.biz/another-dawn/2016/10/episode-7/</link>
+		<pubDate>Fri, 30 Sep 2016 21:00:49 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=205</guid>
+		<description>Show Notes
+
+
+「初等教育」の日米比較
+
+
+Safe、Responsible、Respectfulがすべての活動の軸
+引責辞任はResponsibleと言えるのか？
+先生が生徒を「さん」付けで呼ぶ風習
+失敗が許されない文化の起点は教育にある？
+幼稚園での継続的なリレーの練習
+
+カレッジメイト現役時代の研修「二十歳の原点」
+
+
+安保闘争時代の大学生と自分たちを比較
+
+海外に向いてる日本人
+
+
+日本の教育の影響による集団圧力の強さ
+思考停止が一番よくない！
+シリコンバレーにいる人たちの特徴
+ルールを「守る者」でいるか「作る者・変える者」になるか
+アメリカで要求されるライフスキル
+
+
+
+Links
+
+
+二十歳の原点（著：高野悦子）
+海外に向いてる日本人ってどんな人？海外在住者が思う18の特徴
+ADC Skill Mastery Sheets
+Targeting Life Skills Model for 4-H</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-007.mp3" length="44293026" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   「初等教育」の日米比較   Safe、Responsible、Respectfulがすべての活動の軸 引責辞任はResponsibleと言えるのか？ 先生が生徒を「さん」付けで呼ぶ風習 失敗が許されない文化の起点は教育にある？ 幼稚園での継続的なリレーの練習  カレッジメイト現役時代の研修「二十歳の原点」   安保闘争時代の大学生と自分たちを比較  海外に向いてる日本人   日本の教育の影響による集団圧力の強さ 思考停止が一番よくない！ シリコンバレーにいる人たちの特徴 </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 「初等教育」の日米比較<br />
+<br />
+<br />
+* Safe、Responsible、Respectfulがすべての活動の軸<br />
+* 引責辞任はResponsibleと言えるのか？<br />
+* 先生が生徒を「さん」付けで呼ぶ風習<br />
+* 失敗が許されない文化の起点は教育にある？<br />
+* 幼稚園での継続的なリレーの練習<br />
+<br />
+* カレッジメイト現役時代の研修「二十歳の原点」<br />
+<br />
+<br />
+* 安保闘争時代の大学生と自分たちを比較<br />
+<br />
+* 海外に向いてる日本人<br />
+<br />
+<br />
+* 日本の教育の影響による集団圧力の強さ<br />
+* 思考停止が一番よくない！<br />
+* シリコンバレーにいる人たちの特徴<br />
+* ルールを「守る者」でいるか「作る者・変える者」になるか<br />
+* アメリカで要求されるライフスキル<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://amzn.to/2dbORJ5" target="_blank">二十歳の原点（著：高野悦子）</a><br />
+* <a href="https://www.madameriri.com/2016/03/28/happy-to-live-abroad/" target="_blank">海外に向いてる日本人ってどんな人？海外在住者が思う18の特徴</a><br />
+* <a href="http://4h.okstate.edu/literature-links/lit-online/family-consumer-science/fabric/skill-mastery-sheets" target="_blank">ADC Skill Mastery Sheets</a><br />
+* <a href="https://nifa.usda.gov/sites/default/files/resource/Targeting%20Life%20Skills.pdf" target="_blank">Targeting Life Skills Model for 4-H</a><br />
+<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>47:01</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#6: 親日国・ベトナム（ゲスト：イナリ）</title>
+		<link>https://h2plus.biz/another-dawn/2016/09/spinoff-6/</link>
+		<pubDate>Wed, 14 Sep 2016 21:00:37 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=198</guid>
+		<description>本編に引き続き、第18〜19期カレッジメイト会議に在籍していたOGのイナリをゲストに迎えて、ベトナム・ハノイでの外交官としての仕事などについてお話を伺いました。
+
+Show Notes
+
+
+カレッジメイト現役時代のエピソード
+
+
+悔しかった思いから大泣きして志願
+
+ベトナム駐在に至るキャリア
+
+
+法科大学院を卒業して東京都に就職
+なぜ外交の現場に地方公務員が？
+ぶっちゃけ退職金って？
+公務員・役人の独特な世界
+
+ベトナム大使館での仕事
+
+
+広報文化を担当
+国際交流基金と一緒に文化交流の支援
+ベトナムは親日国！今年から日本語が第一外国語に
+コミュニケーションはベトナム語？
+日本語を流暢に話せる人が多い
+IT業界でも日本からのオフショア開発が増えている
+JENESYSプログラムによる国際交流活動
+二大都市・ホーチミンとハノイの比較
+
+ベトナムでの生活
+
+
+ベトナム語が話せなくてもそれほど困らない
+日本人の舌にも美味しい料理
+ベトナムドン・ゼロが多すぎる通貨
+ホビロン・孵化直前のアヒルのゆで卵
+中国・広州の影響で４つ足なら何でも食べる</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-006.mp3" length="37059308" type="audio/mpeg" />
+		<itunes:subtitle>本編に引き続き、第18〜19期カレッジメイト会議に在籍していたOGのイナリをゲストに迎えて、ベトナム・ハノイでの外交官としての仕事などについてお話を伺いました。  Show Notes   カレッジメイト現役時代のエピソード   悔しかった思いから大泣きして志願  ベトナム駐在に至るキャリア   法科大学院を卒業して東京都に就職 なぜ外交の現場に地方公務員が？ ぶっちゃけ退職金って？ 公務員・役人の独特な世界  ベトナム大使館での仕事   広報文化を担当 国際交流基金と一緒に文化交流の支援 </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2016/09/episode-6/">本編</a>に引き続き、第18〜19期カレッジメイト会議に在籍していたOGのイナリをゲストに迎えて、ベトナム・ハノイでの外交官としての仕事などについてお話を伺いました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* カレッジメイト現役時代のエピソード<br />
+<br />
+<br />
+* 悔しかった思いから大泣きして志願<br />
+<br />
+* ベトナム駐在に至るキャリア<br />
+<br />
+<br />
+* 法科大学院を卒業して東京都に就職<br />
+* なぜ外交の現場に地方公務員が？<br />
+* ぶっちゃけ退職金って？<br />
+* 公務員・役人の独特な世界<br />
+<br />
+* ベトナム大使館での仕事<br />
+<br />
+<br />
+* 広報文化を担当<br />
+* 国際交流基金と一緒に文化交流の支援<br />
+* ベトナムは親日国！今年から日本語が第一外国語に<br />
+* コミュニケーションはベトナム語？<br />
+* 日本語を流暢に話せる人が多い<br />
+* IT業界でも日本からのオフショア開発が増えている<br />
+* <a href="http://sv2.jice.org/jenesys/about-jenesys/about-program/" target="_blank">JENESYSプログラム</a>による国際交流活動<br />
+* 二大都市・ホーチミンとハノイの比較<br />
+<br />
+* ベトナムでの生活<br />
+<br />
+<br />
+* ベトナム語が話せなくてもそれほど困らない<br />
+* 日本人の舌にも美味しい料理<br />
+* ベトナムドン・ゼロが多すぎる通貨<br />
+* ホビロン・孵化直前のアヒルのゆで卵<br />
+* 中国・広州の影響で４つ足なら何でも食べる<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>44:49</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#6: 事後活動に終わりはない！（ゲスト：イナリ）</title>
+		<link>https://h2plus.biz/another-dawn/2016/09/episode-6/</link>
+		<pubDate>Wed, 31 Aug 2016 21:00:16 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=179</guid>
+		<description>第18〜19期カレッジメイト会議に在籍していたOGのイナリをゲストに迎えて、それぞれの最初の国際交流であった1ヶ月ホームステイについて振り返りました。
+
+Show Notes
+
+
+カレッジメイト会議に参加したキッカケ
+
+
+カレッジスタッフでカナダ・ノバスコシア州に
+国際交流村の創世記の想い
+
+それぞれの1ヶ月ホームステイの振り返り
+
+
+楽しかったはずが問題児扱い！？
+ヘビメタフリークのホストとのコミュニケーションに難あり
+ホスト来日時の受け入れ体験との比較
+
+事後活動について改めて考える
+
+
+経験を振り返りシェアすることで広い視点が得られる
+ラボ活動の中では常に2〜3年後の未来が見える
+国内でもラボっ子に国際交流を体験してもらえる活動
+事後活動には終わりがない！</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-006.mp3" length="45332055" type="audio/mpeg" />
+		<itunes:subtitle>第18〜19期カレッジメイト会議に在籍していたOGのイナリをゲストに迎えて、それぞれの最初の国際交流であった1ヶ月ホームステイについて振り返りました。  Show Notes   カレッジメイト会議に参加したキッカケ   カレッジスタッフでカナダ・ノバスコシア州に 国際交流村の創世記の想い  それぞれの1ヶ月ホームステイの振り返り   楽しかったはずが問題児扱い！？ ヘビメタフリークのホストとのコミュニケーションに難あり ホスト来日時の受け入れ体験との比較  事後活動について改めて考える   </itunes:subtitle>
+		<itunes:summary><![CDATA[第18〜19期カレッジメイト会議に在籍していたOGのイナリをゲストに迎えて、それぞれの最初の国際交流であった1ヶ月ホームステイについて振り返りました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* カレッジメイト会議に参加したキッカケ<br />
+<br />
+<br />
+* カレッジスタッフでカナダ・ノバスコシア州に<br />
+* 国際交流村の創世記の想い<br />
+<br />
+* それぞれの1ヶ月ホームステイの振り返り<br />
+<br />
+<br />
+* 楽しかったはずが問題児扱い！？<br />
+* ヘビメタフリークのホストとのコミュニケーションに難あり<br />
+* ホスト来日時の受け入れ体験との比較<br />
+<br />
+* 事後活動について改めて考える<br />
+<br />
+<br />
+* 経験を振り返りシェアすることで広い視点が得られる<br />
+* ラボ活動の中では常に2〜3年後の未来が見える<br />
+* 国内でもラボっ子に国際交流を体験してもらえる活動<br />
+* 事後活動には終わりがない！<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>50:09</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#5: 駆け上がるラボ人生（ゲスト：ワタル）</title>
+		<link>https://h2plus.biz/another-dawn/2016/08/spinoff-5/</link>
+		<pubDate>Sun, 14 Aug 2016 21:00:45 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=171</guid>
+		<description>本編に引き続き、現役カレッジメイトのワタルをゲストにお招きして、怒涛のラボ人生について語ってもらいました。
+
+Show Notes
+
+
+ラボ歴2年でカレッジメイト会議に参加した動機
+
+
+実は親族のほとんどがラボっ子
+家ではラボは潰れたことになっていた
+大学生になってから国際交流の機会が極端に減った
+初めてのテーマ活動がフェローシップ
+カレッジメイトの応募要項を1つも満たしてなかった
+カレッジメイトありきでラボに入会
+人前で話す苦手意識が克服された
+
+ラボ経験ほぼゼロで臨んだキャンプ
+
+
+ラボキャンプ独特の文化に困惑
+キャンプソングのジェネレーションギャップ
+激ソン自粛説
+
+ディズニーワールドでのインターンシップ
+
+
+日本パビリオン内のファストフード店のスタッフ
+世界各国から集まったディズニーで働く人たちと共同生活
+来年の9月までの1年間のプログラム
+帰国した後は東南アジアで働いてみたい
+モンゴルで目にした貧困層の子どもたち
+90%の人のためのデザイン・ものづくりがしたい
+ディズニーでインターンシップしようと思ったキッカケ
+
+
+
+Links
+
+
+Japan Pavilion - Epcot World Showcase - Disney World
+Designs for the Other 90%
+世界を変えるデザイン 〜 ものづくりには夢がある</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-005.mp3" length="36400689" type="audio/mpeg" />
+		<itunes:subtitle>本編に引き続き、現役カレッジメイトのワタルをゲストにお招きして、怒涛のラボ人生について語ってもらいました。  Show Notes   ラボ歴2年でカレッジメイト会議に参加した動機   実は親族のほとんどがラボっ子 家ではラボは潰れたことになっていた 大学生になってから国際交流の機会が極端に減った 初めてのテーマ活動がフェローシップ カレッジメイトの応募要項を1つも満たしてなかった カレッジメイトありきでラボに入会 人前で話す苦手意識が克服された  ラボ経験ほぼゼロで臨んだキャンプ   </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2016/08/episode-5/">本編</a>に引き続き、現役カレッジメイトのワタルをゲストにお招きして、怒涛のラボ人生について語ってもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* ラボ歴2年でカレッジメイト会議に参加した動機<br />
+<br />
+<br />
+* 実は親族のほとんどがラボっ子<br />
+* 家ではラボは潰れたことになっていた<br />
+* 大学生になってから国際交流の機会が極端に減った<br />
+* 初めてのテーマ活動がフェローシップ<br />
+* カレッジメイトの応募要項を1つも満たしてなかった<br />
+* カレッジメイトありきでラボに入会<br />
+* 人前で話す苦手意識が克服された<br />
+<br />
+* ラボ経験ほぼゼロで臨んだキャンプ<br />
+<br />
+<br />
+* ラボキャンプ独特の文化に困惑<br />
+* キャンプソングのジェネレーションギャップ<br />
+* 激ソン自粛説<br />
+<br />
+* ディズニーワールドでのインターンシップ<br />
+<br />
+<br />
+* 日本パビリオン内のファストフード店のスタッフ<br />
+* 世界各国から集まったディズニーで働く人たちと共同生活<br />
+* 来年の9月までの1年間のプログラム<br />
+* 帰国した後は東南アジアで働いてみたい<br />
+* モンゴルで目にした貧困層の子どもたち<br />
+* 90%の人のためのデザイン・ものづくりがしたい<br />
+* ディズニーでインターンシップしようと思ったキッカケ<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="http://www.wdwinfo.com/wdwinfo/guides/epcot/epws-japan.htm" target="_blank">Japan Pavilion - Epcot World Showcase - Disney World</a><br />
+* <a href="https://amzn.to/2aKZdCC" target="_blank">Designs for the Other 90%</a><br />
+* <a href="https://amzn.to/2aKZWnb" target="_blank">世界を変えるデザイン 〜 ものづくりには夢がある</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>39:11</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#5: 現役カレッジメイト登場（ゲスト：ワタル）</title>
+		<link>https://h2plus.biz/another-dawn/2016/08/episode-5/</link>
+		<pubDate>Sun, 31 Jul 2016 21:00:22 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=162</guid>
+		<description>現役カレッジメイト会議よりワタルをゲストにお招きして、7月に開催されたOBOGとの交流会、今期のカレッジメイト会議の活動内容についてお話を伺いました。
+
+Show Notes
+
+
+現役カレッジメイトとOBOG交流会
+
+
+参加者は15名！そのうちOBOGは...
+テーマは「あなたの考える世界平和」
+生活の中で格差を実感することは？
+OBOGにとって打ち上げが斬新だった
+企画に対するワタルの熱意
+今後のOBOGとの交流会のプラン
+
+今期のカレッジメイト活動の紹介
+
+
+1期生が11名が入った新歓の仕掛けとは？
+後期は魅力的な企画が目白押し
+亀、兎ときて...鶴！？
+カレッジメイト・ワークショップの原点</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-005.mp3" length="47601938" type="audio/mpeg" />
+		<itunes:subtitle>現役カレッジメイト会議よりワタルをゲストにお招きして、7月に開催されたOBOGとの交流会、今期のカレッジメイト会議の活動内容についてお話を伺いました。  Show Notes   現役カレッジメイトとOBOG交流会   参加者は15名！そのうちOBOGは... テーマは「あなたの考える世界平和」 生活の中で格差を実感することは？ OBOGにとって打ち上げが斬新だった 企画に対するワタルの熱意 今後のOBOGとの交流会のプラン  今期のカレッジメイト活動の紹介   </itunes:subtitle>
+		<itunes:summary><![CDATA[現役カレッジメイト会議よりワタルをゲストにお招きして、7月に開催されたOBOGとの交流会、今期のカレッジメイト会議の活動内容についてお話を伺いました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 現役カレッジメイトとOBOG交流会<br />
+<br />
+<br />
+* 参加者は15名！そのうちOBOGは...<br />
+* テーマは「あなたの考える世界平和」<br />
+* 生活の中で格差を実感することは？<br />
+* OBOGにとって打ち上げが斬新だった<br />
+* 企画に対するワタルの熱意<br />
+* 今後のOBOGとの交流会のプラン<br />
+<br />
+* 今期のカレッジメイト活動の紹介<br />
+<br />
+<br />
+* 1期生が11名が入った新歓の仕掛けとは？<br />
+* 後期は魅力的な企画が目白押し<br />
+* 亀、兎ときて...鶴！？<br />
+* カレッジメイト・ワークショップの原点<br />
+<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>49:32</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#4: アメリカで見かける変な日本語（ゲスト：カーリー）</title>
+		<link>https://h2plus.biz/another-dawn/2016/07/episode-4/</link>
+		<pubDate>Thu, 14 Jul 2016 21:00:24 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=155</guid>
+		<description>ふじぼう・ゆうが現役時代に活動を共にした元ラボ・インターンのカーリーをゲストにお招きしました。
+
+Show Notes
+
+
+カーリーの自己紹介
+
+
+15歳のときに銚子にホームステイ
+家族風呂とボットン便所にカルチャーショック
+大学生のときにラボ・インターンとして再来日
+今春に日本の小学生を受け入れした
+
+ふじぼう・ゆうのホストファミリーとの交流
+
+
+5年ぶりのホストとの再会で...
+
+インターン時代の思い出
+
+
+ラボランド建て替え中の軽井沢キャンプ
+新旧ロッジ比較論
+
+アメリカで見かける変な日本語
+
+
+和製英語のマンション議論再び
+ビールではないSuperDry・極度乾燥（しなさい）
+愛熊タトゥー
+中国系スーパーはネタの宝庫
+
+
+
+Links
+
+
+【SuperDry 極度乾燥（しなさい）】が英国から逆上陸！間違った日本語が人気の秘密か
+極度乾燥(しなさい)！間違った日本語にツッコまずにはいられないイギリスの人気ブランドとは？
+サソタクルーズ（≠Santa Cruz）のTシャツ
+おかしな日本語タトゥーいろいろ</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-004.mp3" length="55423103" type="audio/mpeg" />
+		<itunes:subtitle>ふじぼう・ゆうが現役時代に活動を共にした元ラボ・インターンのカーリーをゲストにお招きしました。  Show Notes   カーリーの自己紹介   15歳のときに銚子にホームステイ 家族風呂とボットン便所にカルチャーショック 大学生のときにラボ・インターンとして再来日 今春に日本の小学生を受け入れした  ふじぼう・ゆうのホストファミリーとの交流   5年ぶりのホストとの再会で...  インターン時代の思い出   ラボランド建て替え中の軽井沢キャンプ 新旧ロッジ比較論  </itunes:subtitle>
+		<itunes:summary><![CDATA[ふじぼう・ゆうが現役時代に活動を共にした元ラボ・インターンのカーリーをゲストにお招きしました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* カーリーの自己紹介<br />
+<br />
+<br />
+* 15歳のときに銚子にホームステイ<br />
+* 家族風呂とボットン便所にカルチャーショック<br />
+* 大学生のときにラボ・インターンとして再来日<br />
+* 今春に日本の小学生を受け入れした<br />
+<br />
+* ふじぼう・ゆうのホストファミリーとの交流<br />
+<br />
+<br />
+* 5年ぶりのホストとの再会で...<br />
+<br />
+* インターン時代の思い出<br />
+<br />
+<br />
+* ラボランド建て替え中の軽井沢キャンプ<br />
+* 新旧ロッジ比較論<br />
+<br />
+* アメリカで見かける変な日本語<br />
+<br />
+<br />
+* 和製英語のマンション議論再び<br />
+* ビールではないSuperDry・極度乾燥（しなさい）<br />
+* 愛熊タトゥー<br />
+* 中国系スーパーはネタの宝庫<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://matome.naver.jp/odai/2133006375490408201" target="_blank">【SuperDry 極度乾燥（しなさい）】が英国から逆上陸！間違った日本語が人気の秘密か</a><br />
+* <a href="https://retrip.jp/articles/5198/" target="_blank">極度乾燥(しなさい)！間違った日本語にツッコまずにはいられないイギリスの人気ブランドとは？</a><br />
+* <a href="http://www.freestylextreme.com/uk/home/brands/santa-cruz/santa-cruz-tomato-japanese-dot-t-shirt.aspx" target="_blank">サソタクルーズ（≠Santa Cruz）のTシャツ</a><br />
+* <a href="https://goo.gl/Vw1Ouw" target="_blank">おかしな日本語タトゥーいろいろ</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>56:27</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#4: 大同窓会の裏話</title>
+		<link>https://h2plus.biz/another-dawn/2016/07/spinoff-4/</link>
+		<pubDate>Thu, 30 Jun 2016 21:00:01 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=149</guid>
+		<description>Show Notes
+
+
+現役カレッジメイトとの交流会が実現！
+
+
+Facebookグループのメンバーが100人超
+ポッドキャストの影響！？
+統計に基づくリスナーの分析
+
+神奈川支部の大同窓会を振り返る
+
+
+今だから明かせる（？）実行委員会の裏話
+
+
+
+Links
+
+
+カレッジメイトOBOG会 @ Facebook
+Meetup - Find your people</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-004.mp3" length="47440748" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   現役カレッジメイトとの交流会が実現！   Facebookグループのメンバーが100人超 ポッドキャストの影響！？ 統計に基づくリスナーの分析  神奈川支部の大同窓会を振り返る   今だから明かせる（？）実行委員会の裏話    Links   カレッジメイトOBOG会 @ Facebook Meetup - Find your people</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 現役カレッジメイトとの交流会が実現！<br />
+<br />
+<br />
+* Facebookグループのメンバーが100人超<br />
+* ポッドキャストの影響！？<br />
+* 統計に基づくリスナーの分析<br />
+<br />
+* 神奈川支部の大同窓会を振り返る<br />
+<br />
+<br />
+* 今だから明かせる（？）実行委員会の裏話<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.facebook.com/events/1573886892905061/" target="_blank">カレッジメイトOBOG会 @ Facebook</a><br />
+* <a href="https://www.meetup.com/" target="_blank">Meetup - Find your people</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>55:01</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#3: 一泊ホームステイの意義</title>
+		<link>https://h2plus.biz/another-dawn/2016/06/spinoff-3/</link>
+		<pubDate>Tue, 14 Jun 2016 21:00:39 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=142</guid>
+		<description>Show Notes
+
+
+ギックリ腰？ヘルニア？
+
+
+ニューカレドニアのサーフトリップ回想
+ブロック注射の苦い思い出
+
+一泊ホームステイの意義
+
+
+親の視点で考えてみる
+事前活動に対する親の理解度に強く依存
+
+外国人旅行者を一日だけ受け入れる
+
+
+Links
+
+
+NAGOMI VISIT - 世界中の旅人と食卓を囲むホームビジット</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-003.mp3" length="30772581" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   ギックリ腰？ヘルニア？   ニューカレドニアのサーフトリップ回想 ブロック注射の苦い思い出  一泊ホームステイの意義   親の視点で考えてみる 事前活動に対する親の理解度に強く依存  外国人旅行者を一日だけ受け入れる   Links   NAGOMI VISIT - 世界中の旅人と食卓を囲むホームビジット</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* ギックリ腰？ヘルニア？<br />
+<br />
+<br />
+* ニューカレドニアのサーフトリップ回想<br />
+* ブロック注射の苦い思い出<br />
+<br />
+* 一泊ホームステイの意義<br />
+<br />
+<br />
+* 親の視点で考えてみる<br />
+* 事前活動に対する親の理解度に強く依存<br />
+<br />
+* 外国人旅行者を一日だけ受け入れる<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://nagomivisit.jp/" target="_blank">NAGOMI VISIT - 世界中の旅人と食卓を囲むホームビジット</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>32:03</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#3: ビザ持ってますか？</title>
+		<link>https://h2plus.biz/another-dawn/2016/06/episode-3/</link>
+		<pubDate>Tue, 31 May 2016 21:00:52 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=128</guid>
+		<description>Show Notes
+
+
+神奈川支部OBOG大同窓会のお知らせ
+
+
+日時： 6月5日 （日） 18:00-20:30
+会場： CURAS川崎
+参加費： 3,000円 （ベビーシッターを利用しない場合はお子様500円）
+ベビーシッターサービス： 1人目1,000円、2人目1,500円
+プログラム： フォークソング、5スペ＆キャンプソング、年代別テーマ活動などを予定
+
+ビザ持ってますか？
+
+
+ビザに関する大きな勘違い
+観光向けビザ免除プログラムがある国ない国
+ビザをもらうまで引越し年7回の放浪記
+3ヶ月で住めば都
+
+大学生時代の東南アジア・バックパック旅行
+
+
+気力も体力もあるうちに
+「いのちをいただく」ということ
+ギリシャ人は半年バカンス？
+発展途上国の方が興味深い
+食べる物すべてがカレー味のインド
+
+シリコンバレーにある日系レストラン
+
+
+「やよい軒」のブランディング戦略
+
+
+
+Links
+
+
+神奈川支部OBOG大同窓会のお知らせ @ Facebook
+オーストラリア観光ビザ・ガイド
+インドビザを取る方法（2016年版）徹底解説
+ベトナムのビザ制度・申請・取得方法一覧
+アメリカ版やよい軒</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-003.mp3" length="63038195" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   神奈川支部OBOG大同窓会のお知らせ   日時： 6月5日 （日） 18:00-20:30 会場： CURAS川崎 参加費： 3,000円 （ベビーシッターを利用しない場合はお子様500円） ベビーシッターサービス： 1人目1,000円、2人目1,500円 プログラム： フォークソング、5スペ＆キャンプソング、年代別テーマ活動などを予定  ビザ持ってますか？   ビザに関する大きな勘違い 観光向けビザ免除プログラムがある国ない国 ビザをもらうまで引越し年7回の放浪記 </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 神奈川支部OBOG大同窓会のお知らせ<br />
+<br />
+<br />
+* 日時： 6月5日 （日） 18:00-20:30<br />
+* 会場： <a href="http://hacostadium.com/curas/" target="_blank">CURAS川崎</a><br />
+* 参加費： 3,000円 （ベビーシッターを利用しない場合はお子様500円）<br />
+* ベビーシッターサービス： 1人目1,000円、2人目1,500円<br />
+* プログラム： フォークソング、5スペ＆キャンプソング、年代別テーマ活動などを予定<br />
+<br />
+* ビザ持ってますか？<br />
+<br />
+<br />
+* ビザに関する大きな勘違い<br />
+* 観光向けビザ免除プログラムがある国ない国<br />
+* ビザをもらうまで引越し年7回の放浪記<br />
+* 3ヶ月で住めば都<br />
+<br />
+* 大学生時代の東南アジア・バックパック旅行<br />
+<br />
+<br />
+* 気力も体力もあるうちに<br />
+* 「いのちをいただく」ということ<br />
+* ギリシャ人は半年バカンス？<br />
+* 発展途上国の方が興味深い<br />
+* 食べる物すべてがカレー味のインド<br />
+<br />
+* シリコンバレーにある日系レストラン<br />
+<br />
+<br />
+* 「やよい軒」のブランディング戦略<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.facebook.com/labokanagawa/photos/a.331257080261115.88903.285142414872582/987162894670527/" target="_blank">神奈川支部OBOG大同窓会のお知らせ @ Facebook</a><br />
+* <a href="https://www.australia-visa-etas.com/" target="_blank">オーストラリア観光ビザ・ガイド</a><br />
+* <a href="http://joshitabi.info/2015/09/indiavisa2015/" target="_blank">インドビザを取る方法（2016年版）徹底解説</a><br />
+* <a href="https://vietnam-navi.info/article/visalist" target="_blank">ベトナムのビザ制度・申請・取得方法一覧</a><br />
+* <a href="https://www.yayoi-us.com/" target="_blank">アメリカ版やよい軒</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:05:40</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#2: ラボの経験と就職活動（ゲスト：ミナト）</title>
+		<link>https://h2plus.biz/another-dawn/2016/05/spinoff-2/</link>
+		<pubDate>Sat, 14 May 2016 21:00:52 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=119</guid>
+		<description>本編に引き続き、カレッジメイトOBのミナトをゲストにお招きして、カレッジメイト現役・OBOGとの交流や就職活動について語りました。
+
+Show Notes
+
+
+結団式後の打ち上げとかにOB・OGは来る？
+社会に出た時にラボのことをどうアウトプットするか？
+ラボの経験は履歴書上に可視化できない？
+現役とOB・OGの交流を復活させよう！
+神奈川支部の大同窓会企画をズバッと斬る
+6月にカレッジメイト会議に遊びにいこう！
+
+
+Links
+
+
+神奈川支部 OBOG大同窓会 @ Facebook
+Labo Party 千葉支部 @ Facebook</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-002.mp3" length="44401069" type="audio/mpeg" />
+		<itunes:subtitle>本編に引き続き、カレッジメイトOBのミナトをゲストにお招きして、カレッジメイト現役・OBOGとの交流や就職活動について語りました。  Show Notes   結団式後の打ち上げとかにOB・OGは来る？ 社会に出た時にラボのことをどうアウトプットするか？ ラボの経験は履歴書上に可視化できない？ 現役とOB・OGの交流を復活させよう！ 神奈川支部の大同窓会企画をズバッと斬る 6月にカレッジメイト会議に遊びにいこう！   Links   神奈川支部 OBOG大同窓会 @ Facebook </itunes:subtitle>
+		<itunes:summary><![CDATA[<a href="https://h2plus.biz/another-dawn/2016/05/episode-2/">本編</a>に引き続き、カレッジメイトOBのミナトをゲストにお招きして、カレッジメイト現役・OBOGとの交流や就職活動について語りました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* 結団式後の打ち上げとかにOB・OGは来る？<br />
+* 社会に出た時にラボのことをどうアウトプットするか？<br />
+* ラボの経験は履歴書上に可視化できない？<br />
+* 現役とOB・OGの交流を復活させよう！<br />
+* 神奈川支部の大同窓会企画をズバッと斬る<br />
+* 6月にカレッジメイト会議に遊びにいこう！<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.facebook.com/events/245071249167989/" target="_blank">神奈川支部 OBOG大同窓会 @ Facebook</a><br />
+* <a href="https://www.facebook.com/labochiba/" target="_blank">Labo Party 千葉支部 @ Facebook</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>46:15</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#2: カレッジメイト今昔物語（ゲスト：ミナト）</title>
+		<link>https://h2plus.biz/another-dawn/2016/05/episode-2/</link>
+		<pubDate>Sat, 30 Apr 2016 21:00:21 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=111</guid>
+		<description>神奈川支部・富永パーティー出身のカレッジメイト会議OBであるミナトをゲストにお招きして、現役世代のカレッジメイト活動の話をいろいろ聞かせてもらいました。
+
+Show Notes
+
+
+ミナトくんの紹介
+
+
+富永先生とのつながり
+シリコンバレーに来た動機
+ラボで英語は培われていたはずだけど
+カレッジリーダーで引率したオレゴンキャンプ
+卒業後はOPTを使ってアメリカで働いてみたい
+シリコンバレーで仕事を探すにはコネが大事
+
+カレッジメイトが5人だけだった時代
+
+
+各自の個性や専門性を有機的に交差させる
+既存の活動を見直すキッカケになった
+カレッジメイトのキャンプイン
+この時期の哲学が現役世代にも受け継がれている
+「気楽に・気長に・気持よく」がモットー
+
+現役世代のカレッジメイト活動
+
+
+カレッジメイト vs カレッジリーダー
+事前活動はカレッジリーダーの領域
+カレッジメイトによる国際交流キャラバン隊
+
+20年前のカレッジメイト活動
+
+
+ギャザリング？国際化計画？
+北米以外の国際交流にも注目しよう
+国際交流村の起源
+
+
+
+Links
+
+
+オレゴン国際キャンプ
+OPTとアメリカの会社でのインターン
+外国人観光客が感じた二大不満は「英語」「WiFi」 @ ダイヤモンド・オンライン</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-002.mp3" length="60580421" type="audio/mpeg" />
+		<itunes:subtitle>神奈川支部・富永パーティー出身のカレッジメイト会議OBであるミナトをゲストにお招きして、現役世代のカレッジメイト活動の話をいろいろ聞かせてもらいました。  Show Notes   ミナトくんの紹介   富永先生とのつながり シリコンバレーに来た動機 ラボで英語は培われていたはずだけど カレッジリーダーで引率したオレゴンキャンプ 卒業後はOPTを使ってアメリカで働いてみたい シリコンバレーで仕事を探すにはコネが大事  カレッジメイトが5人だけだった時代   各自の個性や専門性を有機的に交差させる </itunes:subtitle>
+		<itunes:summary><![CDATA[神奈川支部・富永パーティー出身のカレッジメイト会議OBであるミナトをゲストにお招きして、現役世代のカレッジメイト活動の話をいろいろ聞かせてもらいました。<br />
+<br />
+Show Notes<br />
+<br />
+<br />
+* ミナトくんの紹介<br />
+<br />
+<br />
+* 富永先生とのつながり<br />
+* シリコンバレーに来た動機<br />
+* ラボで英語は培われていたはずだけど<br />
+* カレッジリーダーで引率したオレゴンキャンプ<br />
+* 卒業後はOPTを使ってアメリカで働いてみたい<br />
+* シリコンバレーで仕事を探すにはコネが大事<br />
+<br />
+* カレッジメイトが5人だけだった時代<br />
+<br />
+<br />
+* 各自の個性や専門性を有機的に交差させる<br />
+* 既存の活動を見直すキッカケになった<br />
+* カレッジメイトのキャンプイン<br />
+* この時期の哲学が現役世代にも受け継がれている<br />
+* 「気楽に・気長に・気持よく」がモットー<br />
+<br />
+* 現役世代のカレッジメイト活動<br />
+<br />
+<br />
+* カレッジメイト vs カレッジリーダー<br />
+* 事前活動はカレッジリーダーの領域<br />
+* カレッジメイトによる国際交流キャラバン隊<br />
+<br />
+* 20年前のカレッジメイト活動<br />
+<br />
+<br />
+* ギャザリング？国際化計画？<br />
+* 北米以外の国際交流にも注目しよう<br />
+* 国際交流村の起源<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="http://www.labo-intlexchange.or.jp/program1_oc.html" target="_blank">オレゴン国際キャンプ</a><br />
+* <a href="https://www.studyusa.com/ja/a/416/--opt-" target="_blank">OPTとアメリカの会社でのインターン</a><br />
+* <a href="https://diamond.jp/articles/-/88123" target="_blank">外国人観光客が感じた二大不満は「英語」「WiFi」 @ ダイヤモンド・オンライン</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:03:06</itunes:duration>
+		</item>
+	<item>
+		<title>SpinOff#1: 和製英語いろいろ</title>
+		<link>https://h2plus.biz/another-dawn/2016/04/spinoff-1/</link>
+		<pubDate>Thu, 14 Apr 2016 21:00:36 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=80</guid>
+		<description>Show Notes
+
+
+和製英語いろいろ
+日米台の就職事情
+花粉症
+
+
+Links
+
+
+和製英語 | 英会話カフェ
+Japanglish</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/spinoff-001.mp3" length="30471881" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   和製英語いろいろ 日米台の就職事情 花粉症   Links   和製英語 | 英会話カフェ Japanglish</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 和製英語いろいろ<br />
+* 日米台の就職事情<br />
+* 花粉症<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://elsblog.com/tag/%E5%92%8C%E8%A3%BD%E8%8B%B1%E8%AA%9E/" target="_blank">和製英語 | 英会話カフェ</a><br />
+* <a href="http://www.japanglish.org/" target="_blank">Japanglish</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>31:44</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#1: メディア・リテラシー</title>
+		<link>https://h2plus.biz/another-dawn/2016/04/episode-1/</link>
+		<pubDate>Thu, 31 Mar 2016 15:00:10 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=62</guid>
+		<description>Show Notes
+
+
+「神奈川支部・富永パーティ50周年記念のつどい」のお知らせ
+
+
+ふじぼうと富永先生とのつながり
+ラボ・テューターを半世紀も続けた偉業
+同日同会場で横浜みなみ地区のOBOG会も開催
+6月5日に神奈川支部のOBOG同窓会＠川崎
+
+新年度・新学期を迎えて
+
+
+今日は入社式の日
+いろいろな節目でフォーマルなセレモニーをする日本
+新卒採用が減って通年採用に変化
+インターンシップから新卒採用するのは合理的
+
+国際交流村を振り返る
+
+
+メディア・リテラシーとは
+かつてのメディアの主流はテレビと新聞
+断片的な情報だけで鵜呑みにすると危険
+当たり前と思っていることを客観視できるか
+国会弁論にまで発展した「保育園落ちた日本死ね」論争
+未就学児の教育環境の日米比較
+育児休暇の日台比較
+
+
+
+Links
+
+
+神奈川支部OBOG大同窓会のお知らせ @ Facebook
+国際交流村2016 閉村！@ Facebook
+ウィキペディア - メディア・リテラシー
+メディアリテラシーを身につけるために大切にしたい考え方
+その情報ホント？ネット時代のメディア・リテラシーとは
+今さら聞けない！リテラシーの意味って何？
+保育園落ちた日本死ね！！！ @ はてな匿名ダイアリー
+保育園落ちた、日本死ね →　死ぬべきは既得権益のみなさんだったよ</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-001.mp3" length="54145277" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   「神奈川支部・富永パーティ50周年記念のつどい」のお知らせ   ふじぼうと富永先生とのつながり ラボ・テューターを半世紀も続けた偉業 同日同会場で横浜みなみ地区のOBOG会も開催 6月5日に神奈川支部のOBOG同窓会＠川崎  新年度・新学期を迎えて   今日は入社式の日 いろいろな節目でフォーマルなセレモニーをする日本 新卒採用が減って通年採用に変化 インターンシップから新卒採用するのは合理的  国際交流村を振り返る   メディア・リテラシーとは </itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* 「神奈川支部・富永パーティ50周年記念のつどい」のお知らせ<br />
+<br />
+<br />
+* ふじぼうと富永先生とのつながり<br />
+* ラボ・テューターを半世紀も続けた偉業<br />
+* 同日同会場で横浜みなみ地区のOBOG会も開催<br />
+* 6月5日に神奈川支部のOBOG同窓会＠川崎<br />
+<br />
+* 新年度・新学期を迎えて<br />
+<br />
+<br />
+* 今日は入社式の日<br />
+* いろいろな節目でフォーマルなセレモニーをする日本<br />
+* 新卒採用が減って通年採用に変化<br />
+* インターンシップから新卒採用するのは合理的<br />
+<br />
+* 国際交流村を振り返る<br />
+<br />
+<br />
+* メディア・リテラシーとは<br />
+* かつてのメディアの主流はテレビと新聞<br />
+* 断片的な情報だけで鵜呑みにすると危険<br />
+* 当たり前と思っていることを客観視できるか<br />
+* 国会弁論にまで発展した「保育園落ちた日本死ね」論争<br />
+* 未就学児の教育環境の日米比較<br />
+* 育児休暇の日台比較<br />
+<br />
+<br />
+<br />
+Links<br />
+<br />
+<br />
+* <a href="https://www.facebook.com/labokanagawa/photos/a.331257080261115.88903.285142414872582/987162894670527/" target="_blank">神奈川支部OBOG大同窓会のお知らせ @ Facebook</a><br />
+* <a href="https://www.facebook.com/shyutokencollegemate/posts/765325030267025" target="_blank">国際交流村2016 閉村！@ Facebook</a><br />
+* <a href="https://ja.wikipedia.org/wiki/%E3%83%A1%E3%83%87%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%AA%E3%83%86%E3%83%A9%E3%82%B7%E3%83%BC" target="_blank">ウィキペディア - メディア・リテラシー</a><br />
+* <a href="http://dennou-kurage.hatenablog.com/entry/2013/07/05/201812" target="_blank">メディアリテラシーを身につけるために大切にしたい考え方</a><br />
+* <a href="http://careersupli.jp/work/medialiteracy/" target="_blank">その情報ホント？ネット時代のメディア・リテラシーとは</a><br />
+* <a href="http://news-de-smile.com/meaning-of-literacy-2317" target="_blank">今さら聞けない！リテラシーの意味って何？</a><br />
+* <a href="https://anond.hatelabo.jp/20160215171759" target="_blank">保育園落ちた日本死ね！！！ @ はてな匿名ダイアリー</a><br />
+* <a href="https://www.landerblue.co.jp/blog/?p=25791" target="_blank">保育園落ちた、日本死ね →　死ぬべきは既得権益のみなさんだったよ</a><br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>56:24</itunes:duration>
+		</item>
+	<item>
+		<title>Episode#0: はじめまして</title>
+		<link>https://h2plus.biz/another-dawn/2016/03/introduction/</link>
+		<pubDate>Mon, 14 Mar 2016 15:00:42 +0000</pubDate>
+		<guid isPermaLink="false">http://h2plus.biz/another-dawn/?p=56</guid>
+		<description>Show Notes
+
+
+パーソナリティ2人の自己紹介
+世代を越えたつながり
+リスナーはママ友？中高生も？？
+ラボで得られるもの
+ポッドキャストをはじめたキッカケ</description>
+		<enclosure url="http://media.blubrry.com/_another_dawn_/h2plus.biz/another-dawn/podcasts/episode-000.mp3" length="13288748" type="audio/mpeg" />
+		<itunes:subtitle>Show Notes   パーソナリティ2人の自己紹介 世代を越えたつながり リスナーはママ友？中高生も？？ ラボで得られるもの ポッドキャストをはじめたキッカケ</itunes:subtitle>
+		<itunes:summary><![CDATA[Show Notes<br />
+<br />
+<br />
+* パーソナリティ2人の自己紹介<br />
+* 世代を越えたつながり<br />
+* リスナーはママ友？中高生も？？<br />
+* ラボで得られるもの<br />
+* ポッドキャストをはじめたキッカケ<br />]]></itunes:summary>
+		<itunes:author>ふじぼう＆ゆう</itunes:author>
+		<itunes:image href="https://h2plus.biz/another-dawn/PodcastCover.png" />
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>19:50</itunes:duration>
+		</item>
+</channel>
+</rss>

@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>bkkcast</title>
+    <link>https://bkkcast.me/</link>
+    <description>Recent content on bkkcast</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>jp</language>
+    <lastBuildDate>Tue, 31 Jul 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://bkkcast.me/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4. シリコンバレーでグリーンカードを取るまでの道</title>
+      <link>https://bkkcast.me/004/</link>
+      <pubDate>Tue, 31 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bkkcast.me/004/</guid>
+      <description>@tamanyan55 @tejitak @mihiguch bkkcast はフォードバックを積極的に受け付けています、聞いてみたいことがあれば質問箱まで連絡ください！ お品書き @mihiguch さんの自己紹介 (0:28) 3 年前の 7 月の</description>
+    </item>
+    
+    <item>
+      <title>3. laiso</title>
+      <link>https://bkkcast.me/003/</link>
+      <pubDate>Sun, 29 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bkkcast.me/003/</guid>
+      <description>@tamanyan55 @tejitak @laiso bkkcast はフォードバックを積極的に受け付けています、聞いてみたいことがあれば質問箱まで連絡ください！ お品書き @laiso さんの自己紹介 (1:05) @laisoの</description>
+    </item>
+    
+    <item>
+      <title>2. セブの IT 留学ってどうなの？</title>
+      <link>https://bkkcast.me/002/</link>
+      <pubDate>Sun, 22 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bkkcast.me/002/</guid>
+      <description>@tamanyan55 @tejitak eriko.ichinohe bkkcast はフォードバックを積極的に受け付けています、聞いてみたいことがあれば質問箱まで連絡ください！ お品書き エリコ先生の自己紹介 NexSeed のエンジニ</description>
+    </item>
+    
+    <item>
+      <title>1. bkkcast 始めます</title>
+      <link>https://bkkcast.me/001/</link>
+      <pubDate>Sun, 15 Jul 2018 00:00:00 +0000</pubDate>
+      
+      <guid>https://bkkcast.me/001/</guid>
+      <description>@tamanyan55 @tejitak bkkcast はフィードバックを積極的に受け付けています。聞いてみたいことがあれば質問箱まで連絡ください！ お品書き 自己紹介 @tamanyan55 (バンコクで働くエンジニ</description>
+    </item>
+    
+  </channel>
+</rss>

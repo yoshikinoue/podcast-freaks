@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+xmlns:rawvoice="http://www.rawvoice.com/rawvoiceRssModule/"
+xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0"
+>
+
+<channel>
+	<title>THE STARTUP PODCAST</title>
+	<atom:link href="https://podcast.no-new-folk.com/feed/" rel="self" type="application/rss+xml" />
+	<link>https://podcast.no-new-folk.com</link>
+	<description>スタートアップの、スタートアップによる、スタートアップのためのポッドキャスト。スタートアップ企業の経営者２人がMCとなり、毎月旬な起業家や投資家をお招きして、本音でトークします。</description>
+	<lastBuildDate>
+	Sat, 02 Mar 2019 02:18:38 +0000	</lastBuildDate>
+	<language>ja</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.1.1</generator>
+
+<image>
+	<url>https://podcast.no-new-folk.com/wp-content/uploads/cropped-wordpress_icon_512x512-32x32.jpg</url>
+	<title>THE STARTUP PODCAST</title>
+	<link>https://podcast.no-new-folk.com</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
+<!-- podcast_generator="Blubrry PowerPress/7.4" mode="simple" feedslug="feed" Blubrry PowerPress Podcasting plugin for WordPress (https://www.blubrry.com/powerpress/) -->
+	<itunes:summary>スタートアップの、スタートアップによる、スタートアップのためのポッドキャスト。MCはEmpath Inc. CSOの山崎はずむとno new folk studio Inc. CEOの菊川裕也。毎月、旬な起業家や投資家をお招きして、本音でトークします。</itunes:summary>
+	<itunes:author>THE STARTUP PODCAST</itunes:author>
+	<itunes:explicit>clean</itunes:explicit>
+	<itunes:image href="https://podcast.no-new-folk.com/wp-content/uploads/powerpress/itunes_3000x3000.jpg" />
+	<itunes:type>episodic</itunes:type>
+	<itunes:owner>
+		<itunes:name>THE STARTUP PODCAST</itunes:name>
+		<itunes:email>mail@no-new-folk.com</itunes:email>
+	</itunes:owner>
+	<managingEditor>mail@no-new-folk.com (THE STARTUP PODCAST)</managingEditor>
+	<itunes:subtitle>スタートアップの、スタートアップによる、スタートアップのためのポッドキャスト</itunes:subtitle>
+	<image>
+		<title>THE STARTUP PODCAST</title>
+		<url>https://podcast.no-new-folk.com/wp-content/uploads/powerpress/itunes_3000x3000.jpg</url>
+		<link>https://podcast.no-new-folk.com</link>
+	</image>
+	<itunes:category text="Business">
+	</itunes:category>
+	<itunes:category text="Technology">
+	</itunes:category>
+	<itunes:category text="Comedy">
+	</itunes:category>
+	<item>
+		<title>#9 出張録音 −CES2019篇−</title>
+		<link>https://podcast.no-new-folk.com/podcast/09-ces2019/</link>
+				<pubDate>Wed, 20 Feb 2019 12:47:00 +0000</pubDate>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[CES]]></category>
+		<category><![CDATA[CES2019]]></category>
+		<category><![CDATA[Empath]]></category>
+		<category><![CDATA[J-Startup]]></category>
+		<category><![CDATA[JETRO]]></category>
+		<category><![CDATA[mui Lab]]></category>
+		<category><![CDATA[PLANTIO]]></category>
+		<category><![CDATA[tsumug]]></category>
+		<category><![CDATA[スプツニ子！]]></category>
+		<category><![CDATA[出張録音]]></category>
+		<category><![CDATA[大木和典]]></category>
+		<category><![CDATA[牧田恵里]]></category>
+		<category><![CDATA[田中井将人]]></category>
+		<category><![CDATA[芹澤孝悦]]></category>
+
+		<guid isPermaLink="false">https://podcast.no-new-folk.com/?p=472</guid>
+				<description><![CDATA[今回の配信は出張録音です。ラスベガスで2019年1月8日〜11日に開催された世界最大の家電見本市「CES2019」での収録をたくさんのゲストにご参加いただきお届けします！ トピック 0:00 Caesars Palace &#8230; <a href="https://podcast.no-new-folk.com/podcast/09-ces2019/" class="more-link">続きを読む <span class="screen-reader-text">#9 出張録音 −CES2019篇−</span></a>]]></description>
+								<content:encoded><![CDATA[
+<p>今回の配信は出張録音です。ラスベガスで2019年1月8日〜11日に開催された世界最大の家電見本市「CES2019」での収録をたくさんのゲストにご参加いただきお届けします！</p>
+
+
+
+<h2>トピック</h2>
+
+
+
+<dl>
+    <dt>0:00</dt>
+    <dd>Caesars Palaceより／JETRO 田中井将人さん／J-Startupについて本音で語る／CES2019 JAPANパビリオンの展示成果について</dd>
+    <dt>16:00</dt>
+    <dd><a rel="noreferrer noopener" aria-label=" (新しいタブで開く)" href="https://mui.jp/" target="_blank">mui Lab</a> 代表取締役 大木 和典さん登場</dd>
+    <dt>24:00</dt>
+    <dd>スプツニ子！さん登場／サプライズ／<a rel="noreferrer noopener" aria-label=" (新しいタブで開く)" href="https://webempath.com/jpn/" target="_blank">Empath Inc.</a> 千葉選手</dd>
+    <dt>28:20</dt>
+    <dd><a rel="noreferrer noopener" aria-label=" (新しいタブで開く)" href="https://www.plantio.co.jp/" target="_blank">PLANTIO株式会社</a> 共同創業者 CEO 芹澤孝悦さん登場</dd>
+    <dt>31:40</dt>
+    <dd><a rel="noreferrer noopener" aria-label="株式会社tsumug (新しいタブで開く)" href="https://tsumug.com/" target="_blank">株式会社tsumug</a> 代表取締役 牧田恵里さん登場／CESとスタートアップの生きる道／来年はみんな出展しよう！</dd>
+</dl>
+
+
+
+<h2>参考リンク</h2>
+
+
+
+<ul><li><a href="https://www.j-startup.go.jp/news/news_181210.html" target="_blank" rel="noreferrer noopener" aria-label=" JETRO 「CES Eureka Park」J-Startupパビリオン出展企業22社決定 (新しいタブで開く)"> JETRO 「CES Eureka Park」J-Startupパビリオン出展企業22社決定</a></li><li><a rel="noreferrer noopener" aria-label=" (新しいタブで開く)" href="https://www.kickstarter.com/projects/1391686171/mui-interactive-wood-panel-for-peaceful-digital-li" target="_blank">mui: Calm Design Device built with natural wood material</a></li><li></li></ul>
+
+
+
+<p></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F09-ces2019%2F&amp;linkname=%239%20%E5%87%BA%E5%BC%B5%E9%8C%B2%E9%9F%B3%20%E2%88%92CES2019%E7%AF%87%E2%88%92" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F09-ces2019%2F&amp;linkname=%239%20%E5%87%BA%E5%BC%B5%E9%8C%B2%E9%9F%B3%20%E2%88%92CES2019%E7%AF%87%E2%88%92" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F09-ces2019%2F&amp;linkname=%239%20%E5%87%BA%E5%BC%B5%E9%8C%B2%E9%9F%B3%20%E2%88%92CES2019%E7%AF%87%E2%88%92" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F09-ces2019%2F&amp;linkname=%239%20%E5%87%BA%E5%BC%B5%E9%8C%B2%E9%9F%B3%20%E2%88%92CES2019%E7%AF%87%E2%88%92" title="Copy Link" rel="nofollow noopener" target="_blank"></a></p>]]></content:encoded>
+							<enclosure url="http://media.blubrry.com/thestartuppodcast/nonewfolk.sakura.ne.jp/podcast-episodes/09-ces2019.mp3" length="32439520" type="audio/mpeg" />
+			<itunes:subtitle>今回の配信は出張録音です。ラスベガスで2019年1月8日〜11日に開催された世界最大の家電見本市「CES2019」での収録をたくさんのゲストにご参加いただきお届けします！ トピック 0:00 Caesars Palace … 続きを読む #9 出張録音 −CES2019篇−</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+今回の配信は出張録音です。ラスベガスで2019年1月8日〜11日に開催された世界最大の家電見本市「CES2019」での収録をたくさんのゲストにご参加いただきお届けします！<br />
+<br />
+<br />
+<br />
+トピック<br />
+<br />
+<br />
+<br />
+<br />
+    0:00<br />
+    Caesars Palaceより／JETRO 田中井将人さん／J-Startupについて本音で語る／CES2019 JAPANパビリオンの展示成果について<br />
+    16:00<br />
+    <a rel="noreferrer noopener" aria-label=" (新しいタブで開く)" href="https://mui.jp/" target="_blank">mui Lab</a> 代表取締役 大木 和典さん登場<br />
+    24:00<br />
+    スプツニ子！さん登場／サプライズ／<a rel="noreferrer noopener" aria-label=" (新しいタブで開く)" href="https://webempath.com/jpn/" target="_blank">Empath Inc.</a> 千葉選手<br />
+    28:20<br />
+    <a rel="noreferrer noopener" aria-label=" (新しいタブで開く)" href="https://www.plantio.co.jp/" target="_blank">PLANTIO株式会社</a> 共同創業者 CEO 芹澤孝悦さん登場<br />
+    31:40<br />
+    <a rel="noreferrer noopener" aria-label="株式会社tsumug (新しいタブで開く)" href="https://tsumug.com/" target="_blank">株式会社tsumug</a> 代表取締役 牧田恵里さん登場／CESとスタートアップの生きる道／来年はみんな出展しよう！<br />
+<br />
+<br />
+<br />
+<br />
+参考リンク<br />
+<br />
+<br />
+<br />
+* <a href="https://www.j-startup.go.jp/news/news_181210.html" target="_blank" rel="noreferrer noopener" aria-label=" JETRO 「CES Eureka Park」J-Startupパビリオン出展企業22社決定 (新しいタブで開く)"> JETRO 「CES Eureka Park」J-Startupパビリオン出展企業22社決定</a>* <a rel="noreferrer noopener" aria-label=" (新しいタブで開く)" href="https://www.kickstarter.com/projects/1391686171/mui-interactive-wood-panel-for-peaceful-digital-li" target="_blank">mui: Calm Design Device built with natural wood material</a>* <br />
+<br />
+<br />
+<br />
+<br />
+<a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F09-ces2019%2F&amp;linkname=%239%20%E5%87%BA%E5%BC%B5%E9%8C%B2%E9%9F%B3%20%E2%88%92CES2019%E7%AF%87%E2%88%92" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F09-ces2019%2F&amp;linkname=%239%20%E5%87%BA%E5%BC%B5%E9%8C%B2%E9%9F%B3%20%E2%88%92CES2019%E7%AF%87%E2%88%92" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F09-ces2019%2F&amp;linkname=%239%20%E5%87%BA%E5%BC%B5%E9%8C%B2%E9%9F%B3%20%E2%88%92CES2019%E7%AF%87%E2%88%92" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F09-ces2019%2F&amp;linkname=%239%20%E5%87%BA%E5%BC%B5%E9%8C%B2%E9%9F%B3%20%E2%88%92CES2019%E7%AF%87%E2%88%92" title="Copy Link" rel="nofollow noopener" target="_blank"></a>]]></itunes:summary>
+		<itunes:author>THE STARTUP PODCAST</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>42:13</itunes:duration>
+	</item>
+		<item>
+		<title>#8 菱木豊さん</title>
+		<link>https://podcast.no-new-folk.com/podcast/08-yutaka-hishiki/</link>
+				<pubDate>Wed, 23 Jan 2019 13:51:34 +0000</pubDate>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[AI]]></category>
+		<category><![CDATA[French Tech]]></category>
+		<category><![CDATA[inaho]]></category>
+		<category><![CDATA[J-Startup]]></category>
+		<category><![CDATA[ピッチ]]></category>
+		<category><![CDATA[ロボット]]></category>
+		<category><![CDATA[収穫]]></category>
+		<category><![CDATA[山崎はずむ]]></category>
+		<category><![CDATA[菊川裕也]]></category>
+		<category><![CDATA[菱木豊]]></category>
+		<category><![CDATA[農業]]></category>
+
+		<guid isPermaLink="false">https://podcast.no-new-folk.com/?p=447</guid>
+				<description><![CDATA[スタートアップの関係者をゲストにお迎えしてお送りするポッドキャスト。第8回のゲストはinahoの菱木豊さん。スタートアップの創業や収穫ロボットの開発についての苦労話を比較的真面目に話し合いました。]]></description>
+								<content:encoded><![CDATA[
+<p>第8回にゲストにお迎えしたのは<a href="https://inaho.co/">inaho株式会社</a>CEOの<strong>菱木豊</strong>さん。THE STARTUP PODCASTのリスナーとのことで、スタートアップの創業についての苦労話などを（比較的）真面目に語るエピソードとなりました。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://podcast.no-new-folk.com/wp-content/uploads/1050398-1024x768.jpg" alt="THE STARTUP PODCAST #8 菱木豊さん" class="wp-image-453" srcset="https://podcast.no-new-folk.com/wp-content/uploads/1050398-1024x768.jpg 1024w, https://podcast.no-new-folk.com/wp-content/uploads/1050398-768x576.jpg 768w, https://podcast.no-new-folk.com/wp-content/uploads/1050398-300x225.jpg 300w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<h2>菱木豊さんプロフィール</h2>
+
+
+
+<p><a href="https://inaho.co/">inaho株式会社</a>代表取締役CEO。2014年に人工知能の学習を開始し、2015年に地元鎌倉の農家との出会いから、農業AIロボットの開発を着想。全国の農家を回りニーズ調査を進め、2017年1月にinaho株式会社を設立。世界初のアスパラガスやキュウリ等を汎用的に収穫できるロボットを開発。収穫ロボットを軸として、一次産業全般のAIロボティクス化を進めている。</p>
+
+
+
+<h2>トピック</h2>
+
+
+
+<ul><li><strong>0:0:00</strong> 山崎はずむ海外進出／<a href="https://developers.google.com/programs/launchpad/">Google Developers Launchpad</a>／<a href="https://inaho.co/">inaho</a>事業紹介</li><li><strong>0:10:00</strong> 起業した理由／ロボットってどうやってつくるんですか</li><li><strong>0:20:00</strong> 収穫ロボットの強み／事業戦略</li><li><strong>0:30:00</strong> 資金調達／自分で借金できるんですか？</li><li><strong>0:40:00</strong> 起業家のストレスについて／ピッチで勝つには</li><li><strong>0:50:00</strong> THE STARTUP PODCASTとそれぞれの１年を振り返る</li><li><strong>1:00:00</strong> <a href="https://www.j-startup.go.jp/">J-Startup</a>と<a href="https://www.lafrenchtech.com/en/">French Tech</a></li><li><strong>1:10:00</strong> 事業会社とどう付き合うか</li><li><strong>1:20:00</strong> 告知／採用募集中です／<a href="https://www.facebook.com/events/226780018220021/">妄想ピッチ</a></li></ul>
+
+
+
+<h2>お知らせ</h2>
+
+
+
+<p>inaho、no new folk studio、Empathではメンバーを募集しています。</p>
+
+
+
+<ul><li><a href="https://www.wantedly.com/companies/inaho">inahoの募集を見る</a></li><li><a href="https://www.wantedly.com/companies/nonewfolk">no new folk studioの募集を見る</a></li><li><a href="https://www.wantedly.com/companies/webempath">Empathの募集を見る</a></li></ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F08-yutaka-hishiki%2F&amp;linkname=%238%20%E8%8F%B1%E6%9C%A8%E8%B1%8A%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F08-yutaka-hishiki%2F&amp;linkname=%238%20%E8%8F%B1%E6%9C%A8%E8%B1%8A%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F08-yutaka-hishiki%2F&amp;linkname=%238%20%E8%8F%B1%E6%9C%A8%E8%B1%8A%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F08-yutaka-hishiki%2F&amp;linkname=%238%20%E8%8F%B1%E6%9C%A8%E8%B1%8A%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a></p>]]></content:encoded>
+							<enclosure url="http://media.blubrry.com/thestartuppodcast/nonewfolk.sakura.ne.jp/podcast-episodes/08-yutaka-hishiki.mp3" length="70966952" type="audio/mpeg" />
+			<itunes:subtitle>スタートアップの関係者をゲストにお迎えしてお送りするポッドキャスト。第8回のゲストはinahoの菱木豊さん。スタートアップの創業や収穫ロボットの開発についての苦労話を比較的真面目に話し合いました。</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+第8回にゲストにお迎えしたのは<a href="https://inaho.co/">inaho株式会社</a>CEOの菱木豊さん。THE STARTUP PODCASTのリスナーとのことで、スタートアップの創業についての苦労話などを（比較的）真面目に語るエピソードとなりました。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+菱木豊さんプロフィール<br />
+<br />
+<br />
+<br />
+<a href="https://inaho.co/">inaho株式会社</a>代表取締役CEO。2014年に人工知能の学習を開始し、2015年に地元鎌倉の農家との出会いから、農業AIロボットの開発を着想。全国の農家を回りニーズ調査を進め、2017年1月にinaho株式会社を設立。世界初のアスパラガスやキュウリ等を汎用的に収穫できるロボットを開発。収穫ロボットを軸として、一次産業全般のAIロボティクス化を進めている。<br />
+<br />
+<br />
+<br />
+トピック<br />
+<br />
+<br />
+<br />
+* 0:0:00 山崎はずむ海外進出／<a href="https://developers.google.com/programs/launchpad/">Google Developers Launchpad</a>／<a href="https://inaho.co/">inaho</a>事業紹介* 0:10:00 起業した理由／ロボットってどうやってつくるんですか* 0:20:00 収穫ロボットの強み／事業戦略* 0:30:00 資金調達／自分で借金できるんですか？* 0:40:00 起業家のストレスについて／ピッチで勝つには* 0:50:00 THE STARTUP PODCASTとそれぞれの１年を振り返る* 1:00:00 <a href="https://www.j-startup.go.jp/">J-Startup</a>と<a href="https://www.lafrenchtech.com/en/">French Tech</a>* 1:10:00 事業会社とどう付き合うか* 1:20:00 告知／採用募集中です／<a href="https://www.facebook.com/events/226780018220021/">妄想ピッチ</a><br />
+<br />
+<br />
+<br />
+お知らせ<br />
+<br />
+<br />
+<br />
+inaho、no new folk studio、Empathではメンバーを募集しています。<br />
+<br />
+<br />
+<br />
+* <a href="https://www.wantedly.com/companies/inaho">inahoの募集を見る</a>* <a href="https://www.wantedly.com/companies/nonewfolk">no new folk studioの募集を見る</a>* <a href="https://www.wantedly.com/companies/webempath">Empathの募集を見る</a><br />
+<a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F08-yutaka-hishiki%2F&amp;linkname=%238%20%E8%8F%B1%E6%9C%A8%E8%B1%8A%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F08-yutaka-hishiki%2F&amp;linkname=%238%20%E8%8F%B1%E6%9C%A8%E8%B1%8A%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F08-yutaka-hishiki%2F&amp;linkname=%238%20%E8%8F%B1%E6%9C%A8%E8%B1%8A%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F08-yutaka-hishiki%2F&amp;linkname=%238%20%E8%8F%B1%E6%9C%A8%E8%B1%8A%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a>]]></itunes:summary>
+		<itunes:author>THE STARTUP PODCAST</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:24:46</itunes:duration>
+	</item>
+		<item>
+		<title>#7 三石晃生さん</title>
+		<link>https://podcast.no-new-folk.com/podcast/07-kousei-mitsuishi/</link>
+				<pubDate>Mon, 08 Oct 2018 02:51:36 +0000</pubDate>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[goscobe]]></category>
+		<category><![CDATA[Mistletoe]]></category>
+		<category><![CDATA[OPENSAUCE]]></category>
+		<category><![CDATA[三石晃生]]></category>
+		<category><![CDATA[山崎はずむ]]></category>
+		<category><![CDATA[菊川裕也]]></category>
+
+		<guid isPermaLink="false">https://podcast.no-new-folk.com/?p=418</guid>
+				<description><![CDATA[第7回にゲストにお迎えしたのは歴史論者・株式会社goscobe代表取締役の三石晃生さん。あまりにも逸脱した幼少時代の話から歴史と企業の関わりまでお話しいただきました。 1981年生まれ。歴史論者。武術家。都内の歴史学研究 &#8230; <a href="https://podcast.no-new-folk.com/podcast/07-kousei-mitsuishi/" class="more-link">続きを読む <span class="screen-reader-text">#7 三石晃生さん</span></a>]]></description>
+								<content:encoded><![CDATA[
+<p>第7回にゲストにお迎えしたのは歴史論者・<a href="http://goscobe.com/" target="_blank" rel="noreferrer noopener">株式会社goscobe</a>代表取締役の三石晃生さん。あまりにも逸脱した幼少時代の話から歴史と企業の関わりまでお話しいただきました。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://podcast.no-new-folk.com/wp-content/uploads/07.jpg" alt="" class="wp-image-419" srcset="https://podcast.no-new-folk.com/wp-content/uploads/07.jpg 2048w, https://podcast.no-new-folk.com/wp-content/uploads/07-768x576.jpg 768w, https://podcast.no-new-folk.com/wp-content/uploads/07-300x225.jpg 300w, https://podcast.no-new-folk.com/wp-content/uploads/07-1024x768.jpg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure>
+
+
+
+<h2>プロフィール</h2>
+
+
+
+<p>1981年生まれ。歴史論者。武術家。都内の歴史学研究所の研究員・監事を務める傍ら、2017年に史上初の「歴史コンサルティング」を行う株式会社goscobeを設立。大型イベントや地域開発などに参画。また教育分野では日本財団と東京大学先端科学技術研究センターの異才発掘プロジェクト「ROCKET」で史学担当の外部講師を務めています。</p>
+
+
+
+<h2>トピック</h2>
+
+
+
+<ul><li><strong>0:0:00</strong> 菊川特別賞・バンド活動開始／歴史論者とは／囲碁とさかなクン</li><li><strong>0:10:00</strong> さかなクン再び／起業した理由／<a href="http://www.tedxtokyoyz.com/kazutoyo-koide/" target="_blank" rel="noopener">Kazutoyo Koide &#8211; TEDxTokyo yz</a></li><li><strong>0:20:00</strong> 壮絶な幼少時代／”先生は学がないんですね”</li><li><strong>0:30:00</strong>&nbsp;クズと呼ばれた小学生／ 梵字とサンスクリットは違う／<a href="https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B1%B1%E4%BF%8A%E5%A4%AA%E9%83%8E" target="_blank" rel="noopener">松山俊太郎</a></li><li><strong>0:40:00</strong> 英語よりはラテン語／日本人の心性</li><li><strong>0:50:00&nbsp;</strong>沖縄そばで起業／歴史論者へ</li><li><strong>1:00:00&nbsp;</strong>まちづくり検証／<a href="https://opensauce.co/" target="_blank" rel="noopener">OPENSAUCE</a>／<a href="https://www.fukumitsuya.co.jp/" target="_blank" rel="noopener">福光屋</a></li><li><strong>1:10:00&nbsp;</strong>スタートアップが知っておくべき歴史とは？／未来をどう予想するか？／松下幸之助</li><li><strong>1:20:00&nbsp;</strong>庭師／やってみなはれ／ご連絡ください</li></ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F07-kousei-mitsuishi%2F&amp;linkname=%237%20%E4%B8%89%E7%9F%B3%E6%99%83%E7%94%9F%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F07-kousei-mitsuishi%2F&amp;linkname=%237%20%E4%B8%89%E7%9F%B3%E6%99%83%E7%94%9F%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F07-kousei-mitsuishi%2F&amp;linkname=%237%20%E4%B8%89%E7%9F%B3%E6%99%83%E7%94%9F%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F07-kousei-mitsuishi%2F&amp;linkname=%237%20%E4%B8%89%E7%9F%B3%E6%99%83%E7%94%9F%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a></p>]]></content:encoded>
+							<enclosure url="http://media.blubrry.com/thestartuppodcast/nonewfolk.sakura.ne.jp/podcast-episodes/07-kousei-mitsuishi.mp3" length="64467844" type="audio/mpeg" />
+			<itunes:subtitle>第7回にゲストにお迎えしたのは歴史論者・株式会社goscobe代表取締役の三石晃生さん。あまりにも逸脱した幼少時代の話から歴史と企業の関わりまでお話しいただきました。 1981年生まれ。歴史論者。武術家。都内の歴史学研究 … 続きを読む #7 三石晃生さん</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+第7回にゲストにお迎えしたのは歴史論者・<a href="http://goscobe.com/" target="_blank" rel="noreferrer noopener">株式会社goscobe</a>代表取締役の三石晃生さん。あまりにも逸脱した幼少時代の話から歴史と企業の関わりまでお話しいただきました。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+プロフィール<br />
+<br />
+<br />
+<br />
+1981年生まれ。歴史論者。武術家。都内の歴史学研究所の研究員・監事を務める傍ら、2017年に史上初の「歴史コンサルティング」を行う株式会社goscobeを設立。大型イベントや地域開発などに参画。また教育分野では日本財団と東京大学先端科学技術研究センターの異才発掘プロジェクト「ROCKET」で史学担当の外部講師を務めています。<br />
+<br />
+<br />
+<br />
+トピック<br />
+<br />
+<br />
+<br />
+* 0:0:00 菊川特別賞・バンド活動開始／歴史論者とは／囲碁とさかなクン* 0:10:00 さかなクン再び／起業した理由／<a href="http://www.tedxtokyoyz.com/kazutoyo-koide/" target="_blank" rel="noopener">Kazutoyo Koide &#8211; TEDxTokyo yz</a>* 0:20:00 壮絶な幼少時代／”先生は学がないんですね”* 0:30:00&nbsp;クズと呼ばれた小学生／ 梵字とサンスクリットは違う／<a href="https://ja.wikipedia.org/wiki/%E6%9D%BE%E5%B1%B1%E4%BF%8A%E5%A4%AA%E9%83%8E" target="_blank" rel="noopener">松山俊太郎</a>* 0:40:00 英語よりはラテン語／日本人の心性* 0:50:00&nbsp;沖縄そばで起業／歴史論者へ* 1:00:00&nbsp;まちづくり検証／<a href="https://opensauce.co/" target="_blank" rel="noopener">OPENSAUCE</a>／<a href="https://www.fukumitsuya.co.jp/" target="_blank" rel="noopener">福光屋</a>* 1:10:00&nbsp;スタートアップが知っておくべき歴史とは？／未来をどう予想するか？／松下幸之助* 1:20:00&nbsp;庭師／やってみなはれ／ご連絡ください<br />
+<a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F07-kousei-mitsuishi%2F&amp;linkname=%237%20%E4%B8%89%E7%9F%B3%E6%99%83%E7%94%9F%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F07-kousei-mitsuishi%2F&amp;linkname=%237%20%E4%B8%89%E7%9F%B3%E6%99%83%E7%94%9F%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F07-kousei-mitsuishi%2F&amp;linkname=%237%20%E4%B8%89%E7%9F%B3%E6%99%83%E7%94%9F%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F07-kousei-mitsuishi%2F&amp;linkname=%237%20%E4%B8%89%E7%9F%B3%E6%99%83%E7%94%9F%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a>]]></itunes:summary>
+		<itunes:author>THE STARTUP PODCAST</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:33:13</itunes:duration>
+	</item>
+		<item>
+		<title>#6 宮坂貴大さん</title>
+		<link>https://podcast.no-new-folk.com/podcast/6-takahiro-miyasaka/</link>
+				<pubDate>Mon, 10 Sep 2018 11:49:32 +0000</pubDate>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[BONX]]></category>
+		<category><![CDATA[Empath]]></category>
+		<category><![CDATA[no new folk studio]]></category>
+		<category><![CDATA[スノーボード]]></category>
+		<category><![CDATA[ハードウェア]]></category>
+		<category><![CDATA[宮坂貴大]]></category>
+		<category><![CDATA[山崎はずむ]]></category>
+		<category><![CDATA[東京大学]]></category>
+		<category><![CDATA[菊川裕也]]></category>
+
+		<guid isPermaLink="false">https://podcast.no-new-folk.com/?p=404</guid>
+				<description><![CDATA[第6回にゲストにお迎えしたのは BONX INC. の宮坂貴大さん。遊びと仕事のバランスなどについて伺いました。BONXはno new folk studioとはほぼ同時期に創業したスタートアップ。同じハードウェアを扱う &#8230; <a href="https://podcast.no-new-folk.com/podcast/6-takahiro-miyasaka/" class="more-link">続きを読む <span class="screen-reader-text">#6 宮坂貴大さん</span></a>]]></description>
+								<content:encoded><![CDATA[
+<p>第6回にゲストにお迎えしたのは <a href="https://bonx.co/ja/" target="_blank" rel="noopener">BONX INC.</a> の<a href="https://twitter.com/taka_miyasaka" target="_blank" rel="noopener">宮坂貴大さん</a>。遊びと仕事のバランスなどについて伺いました。BONXは<a href="https://no-new-folk.com/" target="_blank" rel="noopener">no new folk studio</a>とはほぼ同時期に創業したスタートアップ。同じハードウェアを扱うスタートアップとして、製造で苦労した点についてもお話ししました。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://podcast.no-new-folk.com/wp-content/uploads/photo_06_.jpg" alt="" class="wp-image-422" srcset="https://podcast.no-new-folk.com/wp-content/uploads/photo_06_.jpg 2048w, https://podcast.no-new-folk.com/wp-content/uploads/photo_06_-768x432.jpg 768w, https://podcast.no-new-folk.com/wp-content/uploads/photo_06_-300x169.jpg 300w, https://podcast.no-new-folk.com/wp-content/uploads/photo_06_-1024x576.jpg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure>
+
+
+
+<h2>プロフィール</h2>
+
+
+
+<p><a href="https://bonx.co/ja/" target="_blank" rel="noopener">株式会社BONX</a>代表取締役CEO。新卒で入社したボストンコンサルティンググループにてハイテク領域・消費材領域のプロジェクトに3年半従事。その後BONXのアイデアを思いついて起業し、CEOに就任。東京大学には8年間通ったが、そのうち4年間はスノーボード中心の生活で、北半球・南半球を往復する。三児の父。 趣味はスノーボード、スケートボード、サーフィン、畑、魚突き、山歩き、バスケ。</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F6-takahiro-miyasaka%2F&amp;linkname=%236%20%E5%AE%AE%E5%9D%82%E8%B2%B4%E5%A4%A7%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F6-takahiro-miyasaka%2F&amp;linkname=%236%20%E5%AE%AE%E5%9D%82%E8%B2%B4%E5%A4%A7%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F6-takahiro-miyasaka%2F&amp;linkname=%236%20%E5%AE%AE%E5%9D%82%E8%B2%B4%E5%A4%A7%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F6-takahiro-miyasaka%2F&amp;linkname=%236%20%E5%AE%AE%E5%9D%82%E8%B2%B4%E5%A4%A7%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a></p>]]></content:encoded>
+							<enclosure url="http://media.blubrry.com/thestartuppodcast/nonewfolk.sakura.ne.jp/podcast-episodes/06-takahiro-miyasaka.mp3" length="61112788" type="audio/mpeg" />
+			<itunes:subtitle>第6回にゲストにお迎えしたのは BONX INC. の宮坂貴大さん。遊びと仕事のバランスなどについて伺いました。BONXはno new folk studioとはほぼ同時期に創業したスタートアップ。同じハードウェアを扱う … 続きを読む #6 宮坂貴大さん</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+第6回にゲストにお迎えしたのは <a href="https://bonx.co/ja/" target="_blank" rel="noopener">BONX INC.</a> の<a href="https://twitter.com/taka_miyasaka" target="_blank" rel="noopener">宮坂貴大さん</a>。遊びと仕事のバランスなどについて伺いました。BONXは<a href="https://no-new-folk.com/" target="_blank" rel="noopener">no new folk studio</a>とはほぼ同時期に創業したスタートアップ。同じハードウェアを扱うスタートアップとして、製造で苦労した点についてもお話ししました。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+プロフィール<br />
+<br />
+<br />
+<br />
+<a href="https://bonx.co/ja/" target="_blank" rel="noopener">株式会社BONX</a>代表取締役CEO。新卒で入社したボストンコンサルティンググループにてハイテク領域・消費材領域のプロジェクトに3年半従事。その後BONXのアイデアを思いついて起業し、CEOに就任。東京大学には8年間通ったが、そのうち4年間はスノーボード中心の生活で、北半球・南半球を往復する。三児の父。 趣味はスノーボード、スケートボード、サーフィン、畑、魚突き、山歩き、バスケ。<br />
+<a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F6-takahiro-miyasaka%2F&amp;linkname=%236%20%E5%AE%AE%E5%9D%82%E8%B2%B4%E5%A4%A7%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F6-takahiro-miyasaka%2F&amp;linkname=%236%20%E5%AE%AE%E5%9D%82%E8%B2%B4%E5%A4%A7%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F6-takahiro-miyasaka%2F&amp;linkname=%236%20%E5%AE%AE%E5%9D%82%E8%B2%B4%E5%A4%A7%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F6-takahiro-miyasaka%2F&amp;linkname=%236%20%E5%AE%AE%E5%9D%82%E8%B2%B4%E5%A4%A7%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a>]]></itunes:summary>
+		<itunes:author>THE STARTUP PODCAST</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:32:44</itunes:duration>
+	</item>
+		<item>
+		<title>#5 スプツニ子！さん</title>
+		<link>https://podcast.no-new-folk.com/podcast/05-sputniko/</link>
+				<pubDate>Sun, 01 Jul 2018 08:35:54 +0000</pubDate>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Empath]]></category>
+		<category><![CDATA[MIT]]></category>
+		<category><![CDATA[no new folk studio]]></category>
+		<category><![CDATA[アート]]></category>
+		<category><![CDATA[スプツニ子！]]></category>
+		<category><![CDATA[山崎はずむ]]></category>
+		<category><![CDATA[東京大学]]></category>
+		<category><![CDATA[現代美術]]></category>
+		<category><![CDATA[菊川裕也]]></category>
+
+		<guid isPermaLink="false">https://podcast.no-new-folk.com/?p=389</guid>
+				<description><![CDATA[第５回にゲストにお迎えしたのは現代美術家のスプツニ子！さん。 遠いようで意外と共通点があるスタートアップと現代美術の世界の話、菊川・山崎との共通点も多いスプツニ子！さんの来歴のお話などのトークを繰り広げました。 プロフィ &#8230; <a href="https://podcast.no-new-folk.com/podcast/05-sputniko/" class="more-link">続きを読む <span class="screen-reader-text">#5 スプツニ子！さん</span></a>]]></description>
+								<content:encoded><![CDATA[
+<p>第５回にゲストにお迎えしたのは現代美術家の<a href="http://sputniko.com/" target="_blank" rel="noreferrer noopener">スプツニ子！</a>さん。</p>
+
+
+
+<p>遠いようで意外と共通点があるスタートアップと現代美術の世界の話、菊川・山崎との共通点も多いスプツニ子！さんの来歴のお話などのトークを繰り広げました。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://podcast.no-new-folk.com/wp-content/uploads/photo_05_.jpg" alt="" class="wp-image-425" srcset="https://podcast.no-new-folk.com/wp-content/uploads/photo_05_.jpg 2048w, https://podcast.no-new-folk.com/wp-content/uploads/photo_05_-768x432.jpg 768w, https://podcast.no-new-folk.com/wp-content/uploads/photo_05_-300x169.jpg 300w, https://podcast.no-new-folk.com/wp-content/uploads/photo_05_-1024x576.jpg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure>
+
+
+
+<h2>プロフィール</h2>
+
+
+
+<p>1985年生まれ。インペリアル・カレッジ数学科および情報工学科を卒業後、英国王立芸術学院(RCA)デザイン・インタラクションズ専攻修士課程を修了。在学中より、テクノロジーによって変化していく人間の在り方や社会を反映させた映像インスタレーション作品を制作。瀬戸内国際芸術祭、ポンピドゥー・センター・メッス、森美術館などで数々の展示を行う。2013年マサチューセッツ工科大学(MIT)メディアラボ助教に就任。2017年東京大学RCAデザインラボ特任准教授就任。VOGUE JAPANウーマンオブザイヤー2013受賞。2014年 FORBES JAPAN「未来を創る日本の女性10人」選出。2016年 第11回「ロレアル−ユネスコ女性科学者 日本特別賞」受賞。2017年 世界経済フォーラム 「ヤンググローバルリーダーズ」選出。著書に「はみだす力」。共著に「ネットで進化する人類」（伊藤穰一監修）など。</p>
+
+
+
+<h2>トピック</h2>
+
+
+
+<ul><li><strong>0:05:00</strong> 85~86年生まれの同級生／スプツニ子の小学校時代／マンチェスター／高校〜大学時代／ミュージシャンとしてのスプツニ子／関西ゼロ世代</li><li><strong>0:30:00</strong> ワッキー／Royal college of art／アーティストとしてのスプツニ子／資本主義と片手をつなぐ</li><li><strong>0:50:00</strong> 卒業制作がMoMAに展示された経緯／生理マシーン、タカシの場合。／問いかけからチームをつくる</li><li><strong>1:10:00</strong> 質問のコーナー／日本と欧米の大学の違い／アートとスタートアップ／お知らせ</li></ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F05-sputniko%2F&amp;linkname=%235%20%E3%82%B9%E3%83%97%E3%83%84%E3%83%8B%E5%AD%90%EF%BC%81%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F05-sputniko%2F&amp;linkname=%235%20%E3%82%B9%E3%83%97%E3%83%84%E3%83%8B%E5%AD%90%EF%BC%81%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F05-sputniko%2F&amp;linkname=%235%20%E3%82%B9%E3%83%97%E3%83%84%E3%83%8B%E5%AD%90%EF%BC%81%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F05-sputniko%2F&amp;linkname=%235%20%E3%82%B9%E3%83%97%E3%83%84%E3%83%8B%E5%AD%90%EF%BC%81%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a></p>]]></content:encoded>
+							<enclosure url="http://media.blubrry.com/thestartuppodcast/nonewfolk.sakura.ne.jp/podcast-episodes/05-sputniko.mp3" length="67444958" type="audio/mpeg" />
+			<itunes:subtitle>第５回にゲストにお迎えしたのは現代美術家のスプツニ子！さん。 遠いようで意外と共通点があるスタートアップと現代美術の世界の話、菊川・山崎との共通点も多いスプツニ子！さんの来歴のお話などのトークを繰り広げました。 プロフィ … 続きを読む #5 スプツニ子！さん</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+第５回にゲストにお迎えしたのは現代美術家の<a href="http://sputniko.com/" target="_blank" rel="noreferrer noopener">スプツニ子！</a>さん。<br />
+<br />
+<br />
+<br />
+遠いようで意外と共通点があるスタートアップと現代美術の世界の話、菊川・山崎との共通点も多いスプツニ子！さんの来歴のお話などのトークを繰り広げました。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+プロフィール<br />
+<br />
+<br />
+<br />
+1985年生まれ。インペリアル・カレッジ数学科および情報工学科を卒業後、英国王立芸術学院(RCA)デザイン・インタラクションズ専攻修士課程を修了。在学中より、テクノロジーによって変化していく人間の在り方や社会を反映させた映像インスタレーション作品を制作。瀬戸内国際芸術祭、ポンピドゥー・センター・メッス、森美術館などで数々の展示を行う。2013年マサチューセッツ工科大学(MIT)メディアラボ助教に就任。2017年東京大学RCAデザインラボ特任准教授就任。VOGUE JAPANウーマンオブザイヤー2013受賞。2014年 FORBES JAPAN「未来を創る日本の女性10人」選出。2016年 第11回「ロレアル−ユネスコ女性科学者 日本特別賞」受賞。2017年 世界経済フォーラム 「ヤンググローバルリーダーズ」選出。著書に「はみだす力」。共著に「ネットで進化する人類」（伊藤穰一監修）など。<br />
+<br />
+<br />
+<br />
+トピック<br />
+<br />
+<br />
+<br />
+* 0:05:00 85~86年生まれの同級生／スプツニ子の小学校時代／マンチェスター／高校〜大学時代／ミュージシャンとしてのスプツニ子／関西ゼロ世代* 0:30:00 ワッキー／Royal college of art／アーティストとしてのスプツニ子／資本主義と片手をつなぐ* 0:50:00 卒業制作がMoMAに展示された経緯／生理マシーン、タカシの場合。／問いかけからチームをつくる* 1:10:00 質問のコーナー／日本と欧米の大学の違い／アートとスタートアップ／お知らせ<br />
+<a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F05-sputniko%2F&amp;linkname=%235%20%E3%82%B9%E3%83%97%E3%83%84%E3%83%8B%E5%AD%90%EF%BC%81%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F05-sputniko%2F&amp;linkname=%235%20%E3%82%B9%E3%83%97%E3%83%84%E3%83%8B%E5%AD%90%EF%BC%81%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F05-sputniko%2F&amp;linkname=%235%20%E3%82%B9%E3%83%97%E3%83%84%E3%83%8B%E5%AD%90%EF%BC%81%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F05-sputniko%2F&amp;linkname=%235%20%E3%82%B9%E3%83%97%E3%83%84%E3%83%8B%E5%AD%90%EF%BC%81%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a>]]></itunes:summary>
+		<itunes:author>THE STARTUP PODCAST</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:28:54</itunes:duration>
+	</item>
+		<item>
+		<title>#4 小島由香さん</title>
+		<link>https://podcast.no-new-folk.com/podcast/04-yuka-kojima/</link>
+				<pubDate>Thu, 17 May 2018 01:25:41 +0000</pubDate>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[Empath]]></category>
+		<category><![CDATA[FOVE]]></category>
+		<category><![CDATA[HMD]]></category>
+		<category><![CDATA[no new folk studio]]></category>
+		<category><![CDATA[VR]]></category>
+		<category><![CDATA[アニメ]]></category>
+		<category><![CDATA[ゲーム]]></category>
+		<category><![CDATA[小島由香]]></category>
+		<category><![CDATA[山崎はずむ]]></category>
+		<category><![CDATA[漫画]]></category>
+		<category><![CDATA[菊川裕也]]></category>
+		<category><![CDATA[資金調達]]></category>
+
+		<guid isPermaLink="false">https://podcast.no-new-folk.com/?p=343</guid>
+				<description><![CDATA[スタートアップのポッドキャスト、THE STARTUP PODCAST。第4回にゲストにお迎えしたのは小島由香さん。起業の経緯や共同創業者との付き合い方、海外での暮らしやアニオタトークまで、幅広く忖度なきトークを繰り広げました。]]></description>
+								<content:encoded><![CDATA[
+<p>第4回にゲストにお迎えしたのは<a href="https://www.getfove.com/" target="_blank" rel="noreferrer noopener">FOVE, Inc.</a>の小島由香さん。<br/>起業の経緯や共同創業者との付き合い方、海外での暮らしやアニオタトークまで、幅広く忖度なきトークを繰り広げました。</p>
+
+
+
+<figure class="wp-block-image"><img src="https://podcast.no-new-folk.com/wp-content/uploads/photo_04_.jpg" alt="" class="wp-image-427" srcset="https://podcast.no-new-folk.com/wp-content/uploads/photo_04_.jpg 2048w, https://podcast.no-new-folk.com/wp-content/uploads/photo_04_-768x432.jpg 768w, https://podcast.no-new-folk.com/wp-content/uploads/photo_04_-300x169.jpg 300w, https://podcast.no-new-folk.com/wp-content/uploads/photo_04_-1024x576.jpg 1024w" sizes="(max-width: 2048px) 100vw, 2048px" /></figure>
+
+
+
+<h2>プロフィール</h2>
+
+
+
+<p><a href="https://www.getfove.com/" target="_blank" rel="noreferrer noopener">FOVE, Inc.</a> CEO/Co-founder<br/>2014年アメリカと秋葉原の2拠点でFOVE, Inc.設立。目の動きで仮想世界を自在に操作する視線追跡型VRヘッドセット「FOVE 0」を販売中。Kickstarterのクラウドファンディングキャンペーンで$480,000強を集め、SAMSUNG、Hon Hai、コロプラからの$11,000,000の資金調達を実施。<a href="https://www.forbes.com/30-under-30-asia/2017/#59a718f417fe" target="_blank" rel="noreferrer noopener">Forbes 30 Under 30 Asia 2017</a>に選出。</p>
+
+
+
+<h2>トピック</h2>
+
+
+
+<ul><li><strong>0:05:00</strong> 資金調達に強い小島さん／海外のピッチコンテスト</li><li><strong>0:12:00</strong> 起業の経緯／漫画家志望だった頃／乙女ロード</li><li><strong>0:17:00</strong> ゲーム／インタラクティブな物語／<a href="https://store.playstation.com/ja-jp/product/JP9000-NPJI00038_00-0000000000000001" target="_blank" rel="noreferrer noopener">高機動幻想ガンパレード・マーチ</a>／<a href="https://affectiva.jp/" target="_blank" rel="noreferrer noopener">Affectiva</a></li><li><strong>0:23:00</strong> SONYでの視線プロジェクト／演劇部での経験／CTOロキとの出会い</li><li><strong>0:35:00</strong> 起業／共同創業者との付き合い方／「CTOを殴った」の真相</li><li><strong>0:48:00</strong> 英語習得法・ピッチのスタイル／HMD競合の話／ハードウェアやってよかった話／大企業との付き合い方／アメリカでの戦い方</li><li><strong>1:18:00</strong> 小島さん、ミャンマーへ／菊川、深センへ／山崎、サウジアラビアへ</li><li><strong>1:29:00</strong> 今期観るべきアニメ／喪女／主人公が疲れている／萌え豚</li><li><strong>1:39:00</strong> お知らせ／人材募集</li></ul>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F04-yuka-kojima%2F&amp;linkname=%234%20%E5%B0%8F%E5%B3%B6%E7%94%B1%E9%A6%99%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F04-yuka-kojima%2F&amp;linkname=%234%20%E5%B0%8F%E5%B3%B6%E7%94%B1%E9%A6%99%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F04-yuka-kojima%2F&amp;linkname=%234%20%E5%B0%8F%E5%B3%B6%E7%94%B1%E9%A6%99%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F04-yuka-kojima%2F&amp;linkname=%234%20%E5%B0%8F%E5%B3%B6%E7%94%B1%E9%A6%99%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a></p>]]></content:encoded>
+							<enclosure url="http://media.blubrry.com/thestartuppodcast/nonewfolk.sakura.ne.jp/podcast-episodes/04-yuka-kojima.mp3" length="74278133" type="audio/mpeg" />
+			<itunes:subtitle>スタートアップのポッドキャスト、THE STARTUP PODCAST。第4回にゲストにお迎えしたのは小島由香さん。起業の経緯や共同創業者との付き合い方、海外での暮らしやアニオタトークまで、幅広く忖度なきトークを繰り広げました。</itunes:subtitle>
+		<itunes:summary><![CDATA[<br />
+第4回にゲストにお迎えしたのは<a href="https://www.getfove.com/" target="_blank" rel="noreferrer noopener">FOVE, Inc.</a>の小島由香さん。<br/>起業の経緯や共同創業者との付き合い方、海外での暮らしやアニオタトークまで、幅広く忖度なきトークを繰り広げました。<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+プロフィール<br />
+<br />
+<br />
+<br />
+<a href="https://www.getfove.com/" target="_blank" rel="noreferrer noopener">FOVE, Inc.</a> CEO/Co-founder<br/>2014年アメリカと秋葉原の2拠点でFOVE, Inc.設立。目の動きで仮想世界を自在に操作する視線追跡型VRヘッドセット「FOVE 0」を販売中。Kickstarterのクラウドファンディングキャンペーンで$480,000強を集め、SAMSUNG、Hon Hai、コロプラからの$11,000,000の資金調達を実施。<a href="https://www.forbes.com/30-under-30-asia/2017/#59a718f417fe" target="_blank" rel="noreferrer noopener">Forbes 30 Under 30 Asia 2017</a>に選出。<br />
+<br />
+<br />
+<br />
+トピック<br />
+<br />
+<br />
+<br />
+* 0:05:00 資金調達に強い小島さん／海外のピッチコンテスト* 0:12:00 起業の経緯／漫画家志望だった頃／乙女ロード* 0:17:00 ゲーム／インタラクティブな物語／<a href="https://store.playstation.com/ja-jp/product/JP9000-NPJI00038_00-0000000000000001" target="_blank" rel="noreferrer noopener">高機動幻想ガンパレード・マーチ</a>／<a href="https://affectiva.jp/" target="_blank" rel="noreferrer noopener">Affectiva</a>* 0:23:00 SONYでの視線プロジェクト／演劇部での経験／CTOロキとの出会い* 0:35:00 起業／共同創業者との付き合い方／「CTOを殴った」の真相* 0:48:00 英語習得法・ピッチのスタイル／HMD競合の話／ハードウェアやってよかった話／大企業との付き合い方／アメリカでの戦い方* 1:18:00 小島さん、ミャンマーへ／菊川、深センへ／山崎、サウジアラビアへ* 1:29:00 今期観るべきアニメ／喪女／主人公が疲れている／萌え豚* 1:39:00 お知らせ／人材募集<br />
+<a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F04-yuka-kojima%2F&amp;linkname=%234%20%E5%B0%8F%E5%B3%B6%E7%94%B1%E9%A6%99%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F04-yuka-kojima%2F&amp;linkname=%234%20%E5%B0%8F%E5%B3%B6%E7%94%B1%E9%A6%99%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F04-yuka-kojima%2F&amp;linkname=%234%20%E5%B0%8F%E5%B3%B6%E7%94%B1%E9%A6%99%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F04-yuka-kojima%2F&amp;linkname=%234%20%E5%B0%8F%E5%B3%B6%E7%94%B1%E9%A6%99%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a>]]></itunes:summary>
+		<itunes:author>THE STARTUP PODCAST</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:44:21</itunes:duration>
+	</item>
+		<item>
+		<title>#3 井口尊仁さん</title>
+		<link>https://podcast.no-new-folk.com/podcast/3-takahito-iguchi/</link>
+				<pubDate>Mon, 09 Apr 2018 14:26:07 +0000</pubDate>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[DOKI DOKI]]></category>
+		<category><![CDATA[Empath]]></category>
+		<category><![CDATA[no new folk studio]]></category>
+		<category><![CDATA[Telepathy]]></category>
+		<category><![CDATA[あすみん]]></category>
+		<category><![CDATA[セカイカメラ]]></category>
+		<category><![CDATA[井口尊仁]]></category>
+		<category><![CDATA[山崎はずむ]]></category>
+		<category><![CDATA[菊川裕也]]></category>
+
+		<guid isPermaLink="false">https://podcast.no-new-folk.com/?p=304</guid>
+				<description><![CDATA[スタートアップの、スタートアップによる、スタートアップのためのポッドキャスト。第3回のゲストは「セカイカメラ」でARブームを巻き起こした井口尊仁さん。一世を風靡した「セカイカメラ」のローンチからSXSW2018で発表された最新作「Transparent」まで、構想のきっかけや開発の裏側をお話しいただきます。]]></description>
+								<content:encoded><![CDATA[<p>第3回にゲストにお迎えしたのは井口尊仁（いぐち・たかひと）さん。一世を風靡した「セカイカメラ」のローンチからSXSW2018で発表された最新作「Transparent」まで、構想のきっかけや開発の裏側をお話しいただきます。</p>
+<h2>プロフィール</h2>
+<p><a href="http://d0kid0ki.com/" target="_blank" rel="noopener">DOKI DOKI, INC.</a> Founder/CEO</p>
+<p>2009年、拡張現実アプリ「セカイカメラ」をローンチ。世界的ARブームを巻き起こし、TechCrunchのベストモバイル ファイナリストに選出。2013年、ヘッドマウントするウェアラブルデバイス「Telepathy One」を発表。Google Glassの有力な対抗馬として、Forbesはじめ世界中のメディアから評価されました。SXSW2018では会話を即可視化するトランスペアレントを発表。現在はサンフランシスコと京都を拠点に、<a href="http://d0kid0ki.com/" target="_blank" rel="noopener">DOKI DOKI, INC.</a>で活動されています。<br />
+twitter: <a href="https://twitter.com/iguchijp" target="_blank" rel="noopener">@iguchiJP</a></p>
+<h3>余談</h3>
+<p><iframe class="wp-embedded-content" sandbox="allow-scripts" security="restricted" src="https://hatenablog-parts.com/embed?url=http%3A%2F%2Fasumism.hatenablog.com%2Fentry%2F2016%2F01%2F08%2F211848#?secret=LoFUrc8Q4q" data-secret="LoFUrc8Q4q" title="Telepathy One のモックアップを作って遊ぶぽよ - asumism" scrolling="no" frameborder="0"></iframe><br />
+<a href="http://asumism.hatenablog.com/entry/2016/01/08/211848" target="_blank" rel="noopener">no new folk studio メンバーのあすみんが2016年にTelepathy Oneのモックアップを独力で自作し、最終的には井口さんと出会うまでをブログ記事にしています。</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F3-takahito-iguchi%2F&amp;linkname=%233%20%E4%BA%95%E5%8F%A3%E5%B0%8A%E4%BB%81%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F3-takahito-iguchi%2F&amp;linkname=%233%20%E4%BA%95%E5%8F%A3%E5%B0%8A%E4%BB%81%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F3-takahito-iguchi%2F&amp;linkname=%233%20%E4%BA%95%E5%8F%A3%E5%B0%8A%E4%BB%81%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F3-takahito-iguchi%2F&amp;linkname=%233%20%E4%BA%95%E5%8F%A3%E5%B0%8A%E4%BB%81%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a></p>]]></content:encoded>
+							<enclosure url="http://media.blubrry.com/thestartuppodcast/nonewfolk.sakura.ne.jp/podcast-episodes/03-takahito-iguchi.mp3" length="88347855" type="audio/mpeg" />
+			<itunes:subtitle>スタートアップの、スタートアップによる、スタートアップのためのポッドキャスト。第3回のゲストは「セカイカメラ」でARブームを巻き起こした井口尊仁さん。一世を風靡した「セカイカメラ」のローンチからSXSW2018で発表された最新作「Transparent」まで、構想のきっかけや開発の裏側をお話しいただきます。</itunes:subtitle>
+		<itunes:summary><![CDATA[第3回にゲストにお迎えしたのは井口尊仁（いぐち・たかひと）さん。一世を風靡した「セカイカメラ」のローンチからSXSW2018で発表された最新作「Transparent」まで、構想のきっかけや開発の裏側をお話しいただきます。<br />
+プロフィール<br />
+<a href="http://d0kid0ki.com/" target="_blank" rel="noopener">DOKI DOKI, INC.</a> Founder/CEO<br />
+2009年、拡張現実アプリ「セカイカメラ」をローンチ。世界的ARブームを巻き起こし、TechCrunchのベストモバイル ファイナリストに選出。2013年、ヘッドマウントするウェアラブルデバイス「Telepathy One」を発表。Google Glassの有力な対抗馬として、Forbesはじめ世界中のメディアから評価されました。SXSW2018では会話を即可視化するトランスペアレントを発表。現在はサンフランシスコと京都を拠点に、<a href="http://d0kid0ki.com/" target="_blank" rel="noopener">DOKI DOKI, INC.</a>で活動されています。<br /><br />
+twitter: <a href="https://twitter.com/iguchijp" target="_blank" rel="noopener">@iguchiJP</a><br />
+余談<br />
+<br /><br />
+<a href="http://asumism.hatenablog.com/entry/2016/01/08/211848" target="_blank" rel="noopener">no new folk studio メンバーのあすみんが2016年にTelepathy Oneのモックアップを独力で自作し、最終的には井口さんと出会うまでをブログ記事にしています。</a><br />
+<a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F3-takahito-iguchi%2F&amp;linkname=%233%20%E4%BA%95%E5%8F%A3%E5%B0%8A%E4%BB%81%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F3-takahito-iguchi%2F&amp;linkname=%233%20%E4%BA%95%E5%8F%A3%E5%B0%8A%E4%BB%81%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F3-takahito-iguchi%2F&amp;linkname=%233%20%E4%BA%95%E5%8F%A3%E5%B0%8A%E4%BB%81%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F3-takahito-iguchi%2F&amp;linkname=%233%20%E4%BA%95%E5%8F%A3%E5%B0%8A%E4%BB%81%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a>]]></itunes:summary>
+		<itunes:author>THE STARTUP PODCAST</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>2:04:11</itunes:duration>
+	</item>
+		<item>
+		<title>#2 宮田人司さん</title>
+		<link>https://podcast.no-new-folk.com/podcast/2-hitoshi-miyata/</link>
+				<pubDate>Mon, 05 Mar 2018 09:19:58 +0000</pubDate>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[CENDO]]></category>
+		<category><![CDATA[Code for Kanazawa]]></category>
+		<category><![CDATA[eAT KANAZAWA]]></category>
+		<category><![CDATA[Empath]]></category>
+		<category><![CDATA[GROVE]]></category>
+		<category><![CDATA[Mistletoe]]></category>
+		<category><![CDATA[no new folk studio]]></category>
+		<category><![CDATA[OPENSAUCE]]></category>
+		<category><![CDATA[POOL]]></category>
+		<category><![CDATA[secca]]></category>
+		<category><![CDATA[tsumug]]></category>
+		<category><![CDATA[Vivita]]></category>
+		<category><![CDATA[宮田人司]]></category>
+		<category><![CDATA[山崎はずむ]]></category>
+		<category><![CDATA[菊川裕也]]></category>
+		<category><![CDATA[金沢]]></category>
+		<category><![CDATA[金沢大学]]></category>
+
+		<guid isPermaLink="false">https://podcast.no-new-folk.com/?p=281</guid>
+				<description><![CDATA[スタートアップの、スタートアップによる、スタートアップのためのポッドキャスト。第2回のゲストはMistletoe Inc. CCOの宮田人司さん。「食」や「金沢」をキーワードにお話しいただきます。]]></description>
+								<content:encoded><![CDATA[<p>第2回にゲストにお迎えしたのは宮田人司（みやた・ひとし）さん。「食」や「金沢」をキーワードにお話しいただきます。</p>
+<h2>プロフィール</h2>
+<ul>
+<li><a href="http://cendo.jp/" target="_blank" rel="noopener">CENDO INC.</a> 代表取締役・Creative Director</li>
+<li><a href="https://vivita.co/" target="_blank" rel="noopener">VIVITA, Inc.</a> 取締役</li>
+<li><a href="http://secca.co.jp/" target="_blank" rel="noopener">secca inc.</a> 取締役</li>
+<li><a href="http://mistletoe.co/" target="_blank" rel="noopener">Mistletoe Inc.</a> CCO</li>
+<li><a href="http://pool-inc.net/" target="_blank" rel="noopener">POOL inc.</a> 取締役</li>
+<li><a href="https://www.kanazawa-u.ac.jp/" target="_blank" rel="noopener">金沢大学</a> 大学院客員教授</li>
+<li><a href="http://www.opensauce.co/" target="_blank" rel="noopener">OPENSAUCE Inc.</a> 代表取締役社長</li>
+</ul>
+<p>ミュージシャンとしてキャリアをスタートし、1989年自身の制作会社として株式会社サウンドシステムを起業。1998年に世界初の着メロのダウンロードサービスを手掛け、新たな巨大音楽市場を創造。2010年に金沢へ移住後、株式会社CENDOを設立。IT、音楽、デザイン、映像作品、執筆業など業種を超えたフィールドで活動しながら、起業家の人材育成やベンチャー支援を行っています。<br />
+twitter: <a href="https://twitter.com/hitc?lang=ja" target="_blank" rel="noopener">@hitc</a></p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F2-hitoshi-miyata%2F&amp;linkname=%232%20%E5%AE%AE%E7%94%B0%E4%BA%BA%E5%8F%B8%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F2-hitoshi-miyata%2F&amp;linkname=%232%20%E5%AE%AE%E7%94%B0%E4%BA%BA%E5%8F%B8%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F2-hitoshi-miyata%2F&amp;linkname=%232%20%E5%AE%AE%E7%94%B0%E4%BA%BA%E5%8F%B8%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F2-hitoshi-miyata%2F&amp;linkname=%232%20%E5%AE%AE%E7%94%B0%E4%BA%BA%E5%8F%B8%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a></p>]]></content:encoded>
+							<enclosure url="http://media.blubrry.com/thestartuppodcast/nonewfolk.sakura.ne.jp/podcast-episodes/02-hitoshi-miyata.mp3" length="50236518" type="audio/mpeg" />
+			<itunes:subtitle>スタートアップの、スタートアップによる、スタートアップのためのポッドキャスト。第2回のゲストはMistletoe Inc. CCOの宮田人司さん。</itunes:subtitle>
+		<itunes:summary><![CDATA[第2回にゲストにお迎えしたのは宮田人司（みやた・ひとし）さん。「食」や「金沢」をキーワードにお話しいただきます。<br />
+プロフィール<br />
+<br />
+* <a href="http://cendo.jp/" target="_blank" rel="noopener">CENDO INC.</a> 代表取締役・Creative Director<br />
+* <a href="https://vivita.co/" target="_blank" rel="noopener">VIVITA, Inc.</a> 取締役<br />
+* <a href="http://secca.co.jp/" target="_blank" rel="noopener">secca inc.</a> 取締役<br />
+* <a href="http://mistletoe.co/" target="_blank" rel="noopener">Mistletoe Inc.</a> CCO<br />
+* <a href="http://pool-inc.net/" target="_blank" rel="noopener">POOL inc.</a> 取締役<br />
+* <a href="https://www.kanazawa-u.ac.jp/" target="_blank" rel="noopener">金沢大学</a> 大学院客員教授<br />
+* <a href="http://www.opensauce.co/" target="_blank" rel="noopener">OPENSAUCE Inc.</a> 代表取締役社長<br />
+<br />
+ミュージシャンとしてキャリアをスタートし、1989年自身の制作会社として株式会社サウンドシステムを起業。1998年に世界初の着メロのダウンロードサービスを手掛け、新たな巨大音楽市場を創造。2010年に金沢へ移住後、株式会社CENDOを設立。IT、音楽、デザイン、映像作品、執筆業など業種を超えたフィールドで活動しながら、起業家の人材育成やベンチャー支援を行っています。<br /><br />
+twitter: <a href="https://twitter.com/hitc?lang=ja" target="_blank" rel="noopener">@hitc</a><br />
+<a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F2-hitoshi-miyata%2F&amp;linkname=%232%20%E5%AE%AE%E7%94%B0%E4%BA%BA%E5%8F%B8%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F2-hitoshi-miyata%2F&amp;linkname=%232%20%E5%AE%AE%E7%94%B0%E4%BA%BA%E5%8F%B8%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F2-hitoshi-miyata%2F&amp;linkname=%232%20%E5%AE%AE%E7%94%B0%E4%BA%BA%E5%8F%B8%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F2-hitoshi-miyata%2F&amp;linkname=%232%20%E5%AE%AE%E7%94%B0%E4%BA%BA%E5%8F%B8%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a>]]></itunes:summary>
+		<itunes:author>THE STARTUP PODCAST</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:17:37</itunes:duration>
+	</item>
+		<item>
+		<title>#1 小笠原治さん</title>
+		<link>https://podcast.no-new-folk.com/podcast/1-osamu-ogasahara/</link>
+				<pubDate>Tue, 30 Jan 2018 19:00:16 +0000</pubDate>
+		<dc:creator><![CDATA[webmaster]]></dc:creator>
+				<category><![CDATA[Podcast]]></category>
+		<category><![CDATA[ABBALab]]></category>
+		<category><![CDATA[awabar]]></category>
+		<category><![CDATA[Cerevo]]></category>
+		<category><![CDATA[DMM.make]]></category>
+		<category><![CDATA[Empath]]></category>
+		<category><![CDATA[mercari]]></category>
+		<category><![CDATA[no new folk studio]]></category>
+		<category><![CDATA[さくらインターネット]]></category>
+		<category><![CDATA[京都造形芸術大学]]></category>
+		<category><![CDATA[小笠原治]]></category>
+		<category><![CDATA[山崎はずむ]]></category>
+		<category><![CDATA[菊川裕也]]></category>
+
+		<guid isPermaLink="false">http://podcast.no-new-folk.com/?p=42</guid>
+				<description><![CDATA[スタートアップの、スタートアップによる、スタートアップのためのポッドキャスト。第1回のゲストはABBALabを率いる投資家の小笠原治さん。異色の来歴から現在に至るまでをお話しいただきます。]]></description>
+								<content:encoded><![CDATA[<p>第1回のゲストは小笠原治（おがさはら・おさむ）さん。</p>
+<p>本番組パーソナリティの<strong>菊川裕也</strong>が創業した<a href="http://no-new-folk.com" target="_blank" rel="noopener">株式会社no new folk studio</a>に最初に出資した<a href="http://abbalab.com/" target="_blank" rel="noopener">ABBALab</a>の代表取締役を務めるほか、<a href="http://cerevo.com/ja/" target="_blank" rel="noopener">株式会社Cerevo</a>の取締役、<a href="http://make.dmm.com" target="_blank" rel="noopener">DMM.make</a>のエヴァンジェリスト、<a href="http://www.sakura.ad.jp" target="_blank" rel="noopener">さくらインターネット株式会社</a>のフェロー、<a href="http://r4d.mercari.com" target="_blank" rel="noopener">mercari R4D</a>のシニアフェロー、<a href="http://www.kyoto-art.ac.jp" target="_blank" rel="noopener">京都造形芸術大学</a>の特任教授、そして<a href="http://awabar.jp" target="_blank" rel="noopener">awabar</a>オーナーと様々な分野で活躍をされています。<br />
+twitter: <a href="https://twitter.com/ogasahara" target="_blank" rel="noopener">@ogasahara</a></p>
+<p>今回はその異色の来歴から現在に至るまでをお話しいただきます。</p>
+<p><a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F1-osamu-ogasahara%2F&amp;linkname=%231%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%B2%BB%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F1-osamu-ogasahara%2F&amp;linkname=%231%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%B2%BB%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F1-osamu-ogasahara%2F&amp;linkname=%231%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%B2%BB%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F1-osamu-ogasahara%2F&amp;linkname=%231%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%B2%BB%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a></p>]]></content:encoded>
+							<enclosure url="http://media.blubrry.com/thestartuppodcast/nonewfolk.sakura.ne.jp/podcast-episodes/01-osamu-ogasahara.mp3" length="83227190" type="audio/mpeg" />
+			<itunes:subtitle>スタートアップの、スタートアップによる、スタートアップのためのポッドキャスト。第１回のゲストはABBALabを率いる投資家の小笠原治さん。</itunes:subtitle>
+		<itunes:summary><![CDATA[第1回のゲストは小笠原治（おがさはら・おさむ）さん。<br />
+本番組パーソナリティの菊川裕也が創業した<a href="http://no-new-folk.com" target="_blank" rel="noopener">株式会社no new folk studio</a>に最初に出資した<a href="http://abbalab.com/" target="_blank" rel="noopener">ABBALab</a>の代表取締役を務めるほか、<a href="http://cerevo.com/ja/" target="_blank" rel="noopener">株式会社Cerevo</a>の取締役、<a href="http://make.dmm.com" target="_blank" rel="noopener">DMM.make</a>のエヴァンジェリスト、<a href="http://www.sakura.ad.jp" target="_blank" rel="noopener">さくらインターネット株式会社</a>のフェロー、<a href="http://r4d.mercari.com" target="_blank" rel="noopener">mercari R4D</a>のシニアフェロー、<a href="http://www.kyoto-art.ac.jp" target="_blank" rel="noopener">京都造形芸術大学</a>の特任教授、そして<a href="http://awabar.jp" target="_blank" rel="noopener">awabar</a>オーナーと様々な分野で活躍をされています。<br /><br />
+twitter: <a href="https://twitter.com/ogasahara" target="_blank" rel="noopener">@ogasahara</a><br />
+今回はその異色の来歴から現在に至るまでをお話しいただきます。<br />
+<a class="a2a_button_facebook" href="https://www.addtoany.com/add_to/facebook?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F1-osamu-ogasahara%2F&amp;linkname=%231%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%B2%BB%E3%81%95%E3%82%93" title="Facebook" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_twitter" href="https://www.addtoany.com/add_to/twitter?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F1-osamu-ogasahara%2F&amp;linkname=%231%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%B2%BB%E3%81%95%E3%82%93" title="Twitter" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_linkedin" href="https://www.addtoany.com/add_to/linkedin?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F1-osamu-ogasahara%2F&amp;linkname=%231%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%B2%BB%E3%81%95%E3%82%93" title="LinkedIn" rel="nofollow noopener" target="_blank"></a><a class="a2a_button_copy_link" href="https://www.addtoany.com/add_to/copy_link?linkurl=https%3A%2F%2Fpodcast.no-new-folk.com%2Fpodcast%2F1-osamu-ogasahara%2F&amp;linkname=%231%20%E5%B0%8F%E7%AC%A0%E5%8E%9F%E6%B2%BB%E3%81%95%E3%82%93" title="Copy Link" rel="nofollow noopener" target="_blank"></a>]]></itunes:summary>
+		<itunes:author>THE STARTUP PODCAST</itunes:author>
+		<itunes:explicit>clean</itunes:explicit>
+		<itunes:duration>1:31:13</itunes:duration>
+	</item>
+	</channel>
+</rss>

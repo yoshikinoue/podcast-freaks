@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosurestitles.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemtitles.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+      <channel>
+        
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:22561723/sounds.rss?before=283580770" rel="next" type="application/rss+xml" />
+        <title>IA Podcast</title>
+        <link>http://ja.ishibashihideto.net</link>
+        <pubDate>Sat, 01 Apr 2017 08:24:40 +0000</pubDate>
+        <lastBuildDate>Sat, 01 Apr 2017 08:24:40 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>an information architect writing patches for the known bugs of humanity :-)</description>
+        <itunes:subtitle>an information architect writing patches for the …</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>zerobase</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Hideto Ishibashi</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000265560897-c41lfh-original.jpg" />
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000265560897-c41lfh-original.jpg</url>
+          <title>zerobase</title>
+          <link>http://ja.ishibashihideto.net</link>
+        </image>
+        <itunes:category text="Technology" />
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/InformationArchitectsPodcast" /><feedburner:info uri="informationarchitectspodcast" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><feedburner:feedFlare href="http://feedly.com/#subscription/feed/http://feeds.feedburner.com/InformationArchitectsPodcast" src="http://s3.feedly.com/feedburner/feedly.png">Subscribe with Feedly</feedburner:feedFlare><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283583658</guid>
+      <title>IA Podcast #25 World IA Day 2015を終えて</title>
+      <pubDate>Thu, 26 Feb 2015 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/Lb-ETd-7Swk/ia-podcast-world-ia-day-2015</link>
+      <itunes:duration>01:36:29</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>World IA Day 2015で東京のローカルコーディネーターを務めた山本郁也さんをゲストに迎えました。</itunes:summary>
+      <itunes:subtitle>World IA Day 2015で東京のローカルコーディネーターを務めた山本郁也さんをゲストに迎…</itunes:subtitle>
+      <description>World IA Day 2015で東京のローカルコーディネーターを務めた山本郁也さんをゲストに迎えました。&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/Lb-ETd-7Swk" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283583658-ia-podcast-ia-podcast-world-ia-day-2015.mp3" length="46381968" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183299762-hrkq3s-original.png" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/ia-podcast-world-ia-day-2015</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283583738</guid>
+      <title>IA Podcast #24 山本郁也さんと食事</title>
+      <pubDate>Tue, 24 Jun 2014 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/lnPEpCN_Y_8/ia-podcast</link>
+      <itunes:duration>02:07:26</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>山本郁也氏を再びゲストに招いて、2014年6月12日に新宿のレストランで収録しました。全長2時間6分の雑談です。</itunes:summary>
+      <itunes:subtitle>山本郁也氏を再びゲストに招いて、2014年6月12日に新宿のレストランで収録しました。全長2時間6…</itunes:subtitle>
+      <description>山本郁也氏を再びゲストに招いて、2014年6月12日に新宿のレストランで収録しました。全長2時間6分の雑談です。&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/lnPEpCN_Y_8" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283583738-ia-podcast-ia-podcast.mp3" length="115567907" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183299997-xxly5t-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/ia-podcast</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283583825</guid>
+      <title>IA Podcast #23 鈴木雄介さんと食事</title>
+      <pubDate>Thu, 12 Jun 2014 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/oVHYxBdHWLQ/ia-podcast-yusuke-suzuki-dinner</link>
+      <itunes:duration>02:15:15</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏を再びゲストに迎えて、2014年6月11日に新宿で収録しました。前半はレストラン、後半はワインバーでの収録です。全長2時間15分の雑談です。</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏を再びゲストに迎えて、20…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏を再びゲストに迎えて、2014年6月11日に新宿で収録しました。前半はレストラン、後半はワインバーでの収録です。全長2時間15分の雑談です。&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/oVHYxBdHWLQ" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283583825-ia-podcast-ia-podcast-yusuke-suzuki-dinner.mp3" length="123595642" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183300295-nldw6y-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/ia-podcast-yusuke-suzuki-dinner</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283583241</guid>
+      <title>IA Podcast #22 ecotonohaを文化遺産として100年後に伝えるには</title>
+      <pubDate>Mon, 09 Dec 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/icyIOdiySM0/ia-podcast-ecotonoha100</link>
+      <itunes:duration>00:13:43</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>情報の世界における歴史的建造物の文化遺産としての保存について議論しました。ゲスト：インキュベイトファンド デザインフェロー 藤原由翼氏、Beenos デザインフェロー 山本郁也氏、エディター／フリージャーナリスト モリジュンヤ氏</itunes:summary>
+      <itunes:subtitle>情報の世界における歴史的建造物の文化遺産としての保存について議論しました。ゲスト：インキュベイトフ…</itunes:subtitle>
+      <description>情報の世界における歴史的建造物の文化遺産としての保存について議論しました。ゲスト：インキュベイトファンド デザインフェロー 藤原由翼氏、Beenos デザインフェロー 山本郁也氏、エディター／フリージャーナリスト モリジュンヤ氏&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/icyIOdiySM0" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283583241-ia-podcast-ia-podcast-ecotonoha100.mp3" length="5278840" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183298375-rl3t5h-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/ia-podcast-ecotonoha100</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283582984</guid>
+      <title>IA Podcast #21 なぜ社会には情報アーキテクトが必要なのか？ at DevLOVE現場甲子園</title>
+      <pubDate>Sun, 17 Nov 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/A3HG-c3BQ60/ia-podcast-at-devlove</link>
+      <itunes:duration>00:19:27</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>2013年11月9日のDevLOVE現場甲子園2013で収録した『なぜ社会には情報アーキテクトが必要なのか？』という講演</itunes:summary>
+      <itunes:subtitle>2013年11月9日のDevLOVE現場甲子園2013で収録した『なぜ社会には情報アーキテクトが必…</itunes:subtitle>
+      <description>2013年11月9日のDevLOVE現場甲子園2013で収録した『なぜ社会には情報アーキテクトが必要なのか？』という講演&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/A3HG-c3BQ60" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283582984-ia-podcast-ia-podcast-at-devlove.mp3" length="9875289" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183297616-ak9nnm-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/ia-podcast-at-devlove</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580802</guid>
+      <title>IA Podcast #1 GxP 鈴木雄介氏 和智右桂氏 第1回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/vSCOb9HvYxA/gxp-1</link>
+      <itunes:duration>00:10:16</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/vSCOb9HvYxA" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580802-ia-podcast-gxp-1.mp3" length="4876800" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290524-012c9j-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-1</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580797</guid>
+      <title>IA Podcast #2 GxP 鈴木雄介氏 和智右桂氏 第2回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/CFMZe_Ni62A/gxp-2</link>
+      <itunes:duration>00:10:47</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/CFMZe_Ni62A" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580797-ia-podcast-gxp-2.mp3" length="5095421" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290514-s7ek35-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-2</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580794</guid>
+      <title>IA Podcast #3 GxP 鈴木雄介氏 和智右桂氏 第3回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/4hjyFvbF6_A/gxp-3</link>
+      <itunes:duration>00:05:59</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/4hjyFvbF6_A" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580794-ia-podcast-gxp-3.mp3" length="2745552" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290506-fqu7ik-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-3</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580788</guid>
+      <title>IA Podcast #4 GxP 鈴木雄介氏 和智右桂氏 第4回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/_n6FlPqwlyQ/gxp-4</link>
+      <itunes:duration>00:09:12</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/_n6FlPqwlyQ" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580788-ia-podcast-gxp-4.mp3" length="4303923" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290497-21rjf2-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-4</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580786</guid>
+      <title>IA Podcast #5 GxP 鈴木雄介氏 和智右桂氏 第5回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/01GmjWxSzBs/gxp-5</link>
+      <itunes:duration>00:11:33</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/01GmjWxSzBs" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580786-ia-podcast-gxp-5.mp3" length="5365346" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290491-omtr2w-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-5</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580782</guid>
+      <title>IA Podcast #6 GxP 鈴木雄介氏 和智右桂氏 第6回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/KYXjP24m6qE/gxp-6</link>
+      <itunes:duration>00:06:51</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/KYXjP24m6qE" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580782-ia-podcast-gxp-6.mp3" length="3237150" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290483-topfst-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-6</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580779</guid>
+      <title>IA Podcast #7 GxP 鈴木雄介氏 和智右桂氏 第7回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/KAVArcQIjoI/gxp-7</link>
+      <itunes:duration>00:12:58</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/KAVArcQIjoI" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580779-ia-podcast-gxp-7.mp3" length="6038092" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290476-yt4day-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-7</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580778</guid>
+      <title>IA Podcast #8 GxP 鈴木雄介氏 和智右桂氏 第8回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/fsCaKDkPsg0/gxp-8</link>
+      <itunes:duration>00:13:26</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/fsCaKDkPsg0" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580778-ia-podcast-gxp-8.mp3" length="6219743" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290470-l7kjz5-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-8</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580776</guid>
+      <title>IA Podcast #9 GxP 鈴木雄介氏 和智右桂氏 第9回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/ohS4JKZwRXo/gxp-9</link>
+      <itunes:duration>00:09:02</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/ohS4JKZwRXo" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580776-ia-podcast-gxp-9.mp3" length="4224532" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290460-2zeubp-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-9</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580774</guid>
+      <title>IA Podcast #10 GxP 鈴木雄介氏 和智右桂氏 第10回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/sHdjoZRhOjA/gxp-10</link>
+      <itunes:duration>00:12:17</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/sHdjoZRhOjA" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580774-ia-podcast-gxp-10.mp3" length="5731922" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290455-7hffqs-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-10</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580771</guid>
+      <title>IA Podcast #11 GxP 鈴木雄介氏 和智右桂氏 第11回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/TPJLhR076UY/gxp-11</link>
+      <itunes:duration>00:07:10</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/TPJLhR076UY" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580771-ia-podcast-gxp-11.mp3" length="3281936" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290449-u6911e-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-11</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283580770</guid>
+      <title>IA Podcast #12 GxP 鈴木雄介氏 和智右桂氏 第12回</title>
+      <pubDate>Mon, 14 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/x9ufTvT3mRg/gxp-12</link>
+      <itunes:duration>00:15:39</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎え…</itunes:subtitle>
+      <description>グロースエクスパートナーズ株式会社(GxP)のITアーキテクト鈴木雄介氏と和智右桂氏をゲストに迎えて、2013年9月27日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/x9ufTvT3mRg" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283580770-ia-podcast-gxp-12.mp3" length="7213956" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183290442-fp33qp-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/gxp-12</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283582691</guid>
+      <title>IA Podcast #14 OVERKAST 大林寛氏 第1回</title>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/t8vaPDsjhDs/overkast-1</link>
+      <itunes:duration>00:10:15</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:subtitle>
+      <description>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/t8vaPDsjhDs" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283582691-ia-podcast-overkast-1.mp3" length="5354738" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183296559-blxir6-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/overkast-1</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283582688</guid>
+      <title>IA Podcast #15 OVERKAST 大林寛氏 第2回</title>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/n-S3VyWpE-w/overkast-2</link>
+      <itunes:duration>00:08:20</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:subtitle>
+      <description>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/n-S3VyWpE-w" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283582688-ia-podcast-overkast-2.mp3" length="4417465" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183296553-akb37w-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/overkast-2</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283581846</guid>
+      <title>IA Podcast #16 OVERKAST 大林寛氏 第3回</title>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/B2-KWH3eS7I/overkast-3</link>
+      <itunes:duration>00:10:45</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:subtitle>
+      <description>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/B2-KWH3eS7I" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283581846-ia-podcast-overkast-3.mp3" length="5505053" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183293622-d4hypi-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/overkast-3</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283581844</guid>
+      <title>IA Podcast #17 OVERKAST 大林寛氏 第4回</title>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/oy3gYtqS-Tc/overkast-4</link>
+      <itunes:duration>00:13:44</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:subtitle>
+      <description>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/oy3gYtqS-Tc" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283581844-ia-podcast-overkast-4.mp3" length="7001618" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183293616-lm9xz4-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/overkast-4</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283581841</guid>
+      <title>IA Podcast #18 OVERKAST 大林寛氏 第5回</title>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/ypsGDCqqIQs/overkast-5</link>
+      <itunes:duration>00:14:23</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:subtitle>
+      <description>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/ypsGDCqqIQs" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283581841-ia-podcast-overkast-5.mp3" length="7474356" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183293606-4txmgf-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/overkast-5</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283581840</guid>
+      <title>IA Podcast #19 OVERKAST 大林寛氏 第6回</title>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/j21gUuDSAvc/overkast-6</link>
+      <itunes:duration>00:09:37</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:subtitle>
+      <description>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/j21gUuDSAvc" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283581840-ia-podcast-overkast-6.mp3" length="4998372" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183293599-zw6tw3-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/overkast-6</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283581836</guid>
+      <title>IA Podcast #20 OVERKAST 大林寛氏 第7回</title>
+      <pubDate>Sun, 13 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/lxm-wImz9RI/overkast-7</link>
+      <itunes:duration>00:15:23</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast</itunes:subtitle>
+      <description>OVERKAST 大林寛氏 をゲストに迎えて、2013年10月4日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/lxm-wImz9RI" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283581836-ia-podcast-overkast-7.mp3" length="8060146" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183293591-sph8ph-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/overkast-7</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/283581526</guid>
+      <title>IA Podcast #13 唐津直哉氏</title>
+      <pubDate>Wed, 09 Oct 2013 00:00:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/InformationArchitectsPodcast/~3/duAVy_EMjBk/dtys7wtvyx8b</link>
+      <itunes:duration>00:11:23</itunes:duration>
+      <itunes:author>Hideto Ishibashi</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>唐津直哉氏をゲストに迎えて、2013年10月1日に収録したPodcast</itunes:summary>
+      <itunes:subtitle>唐津直哉氏をゲストに迎えて、2013年10月1日に収録したPodcast</itunes:subtitle>
+      <description>唐津直哉氏をゲストに迎えて、2013年10月1日に収録したPodcast&lt;img src="http://feeds.feedburner.com/~r/InformationArchitectsPodcast/~4/duAVy_EMjBk" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/283581526-ia-podcast-dtys7wtvyx8b.mp3" length="4898518" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000183292708-lbuhvh-original.jpg" />
+    <feedburner:origLink>https://soundcloud.com/ia-podcast/dtys7wtvyx8b</feedburner:origLink></item>
+      </channel>
+    </rss>

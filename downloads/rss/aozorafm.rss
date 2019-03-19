@@ -1,0 +1,3615 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://fortegp05.github.io/aozorafm/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://fortegp05.github.io/aozorafm/</link>
+    <title>aozora.fm</title>
+    <description>aozora.fmは仕事や趣味の楽しさを共有するpodcastです。</description>
+    <media:keywords>podcast,ポッドキャスト,ITエンジニア,趣味,楽しいこと,楽しむ,</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <itunes:subtitle>aozora.fmは仕事や趣味の楽しさを共有するpodcastです。</itunes:subtitle>
+    <itunes:author>FORTE</itunes:author>
+    <itunes:summary>aozora.fmは仕事や趣味の楽しさを共有するpodcastです。</itunes:summary>
+    <itunes:keywords>podcast,ポッドキャスト,ITエンジニア,趣味,楽しいこと,楽しむ,</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>FORTE</itunes:name>
+      <itunes:email>fortegp05@hotmail.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://fortegp05.github.io/aozorafm/images/artwork.jpg" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>19. VTRyoさんとゲーム、バイクなどの楽しい趣味話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/19</link>
+        <pubDate>Fri, 08 Mar 2019 22:30:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:13 Ryoさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:13 今回も趣味全振り、まずはゲームから
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  05:30 小学生のころハマってたゲーム、ロックマンEXEシリーズ
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  15:52 曲が大好きなゲーム、ソニックアドベンチャー2バトル
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  29:29 いままでやってきてゲームで一番思い入れが強いゲーム
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  32:49 バイクの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  47:45 バイクでいってみたいトコ
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  54:37 川崎の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:01:20 技術書典の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:09:00 自作キーボードの本
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:12:08 Podcastの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:13:44 ゲストからの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:16:46 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://www.wantedly.com/companies/mazrica'&gt;株式会社マツリカの会社情報 - Wantedly&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://soundcloud.com/user-549591188'&gt;Mazrica.fm&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/hashtag/%E6%8C%AB%E6%8A%98%E8%AB%96%E3%81%B8%E3%81%AE%E6%8B%9B%E5%BE%85?f=tweets&amp;vertical=default&amp;src=hash'&gt;挫折論への招待&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://blog.vtryo.me/'&gt;VTRyo Blog&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B5%E3%83%AB%E3%82%B2%E3%83%83%E3%83%81%E3%83%A5&quot;&gt;サルゲッチュ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A7%E3%82%B3%E3%83%9C%E3%83%AC%E3%83%BC%E3%82%B7%E3%83%B3%E3%82%B0_%E3%80%9C%E5%B9%BB%E7%95%8C%E3%81%B8%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%80%9C&quot;&gt;チョコボレーシング 〜幻界へのロード〜&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%82%A8%E3%82%B0%E3%82%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;ロックマンエグゼシリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3X%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;ロックマンXシリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%E3%82%BC%E3%83%AD&quot;&gt;ロックマンゼロ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC2&quot;&gt;ソニックアドベンチャー2バトル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/sonic-adventure-2-original-soundtrack-20th-anniversary/481136982?l=en&quot;&gt;Live&amp;amp;Learn&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://itunes.apple.com/jp/album/sonic-adventure-2-original-soundtrack-20th-anniversary/481136982?l=en&quot;&gt;Escape from the city&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%81%E3%83%A3%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9&quot;&gt;ガチャフォース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%BC%E3%83%93%E3%82%A3%E3%81%AE%E3%82%A8%E3%82%A2%E3%83%A9%E3%82%A4%E3%83%89&quot;&gt;カービィのエアライド&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%AE%9F%E6%B3%81%E3%83%91%E3%83%AF%E3%83%95%E3%83%AB%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83&quot;&gt;実況パワフルプロ野球&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%97%E3%83%AD%E3%82%AF%E3%83%B3%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;パワポケ　パワプロクンポケットシリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BBVTR&quot;&gt;ホンダ・VTR&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/infragirl755&quot;&gt;なつよ@インフラ女子の日常連載中&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techplay.jp/column/494?utm_source=column_494&amp;amp;utm_medium=social&amp;amp;utm_campaign=feed&amp;amp;utm_content=tw0&quot;&gt;インフラ女子の日常&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BBNS-1&quot;&gt;ホンダ・NS-1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9B%E3%83%B3%E3%83%80%E3%83%BB%E3%83%A2%E3%83%88%E3%82%B3%E3%83%B3%E3%83%9D&quot;&gt;ホンダ・モトコンポ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%88%B4%E9%B9%BF8%E6%99%82%E9%96%93%E8%80%90%E4%B9%85%E3%83%AD%E3%83%BC%E3%83%89%E3%83%AC%E3%83%BC%E3%82%B9&quot;&gt;鈴鹿8時間耐久ロードレース&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%B7%9D%E5%B4%8E%E5%B8%82&quot;&gt;川崎市&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=rjyHowSvqPc&quot;&gt;川崎市民の歌「好きです かわさき 愛の街」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf06&quot;&gt;技術書典6&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yushakobo.jp/news/2018/12/07/storeopen/&quot;&gt;自作キーボードのお店　遊舎工房&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shiganai.org/ep/sp17a-3s_hv&quot;&gt;しがないラジオ sp.17a【ゲスト: 3s_hv】楽しい、業務効率化禁止のブラックSES企業からの脱出&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://takattata.github.io/deployfm/episode/08-main&quot;&gt;deploy.fm　8. 3s_hvさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://takattata.github.io/deployfm/episode/08-omake&quot;&gt;deploy.fm　おまけ 8. エンジニアという括りを無意識に持っているのではという話？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://monorazi.hateblo.jp/entry/2018/12/20/140000&quot;&gt;ものラジ #6 @3s_hv @morix1500 - もの作り事情(#マツリカfm/#jobchanger/#セイチョウジャーニー/#Nyaaan/#運営者ギルド)/もの作りの原点/今後のもの作り&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://monorazi.hateblo.jp/entry/2019/01/06/130000&quot;&gt;ものラジ #6-2 @3s_hv @morix1500 - もの作りと仕事とプライベートの両立について/もの作りの辛い話し/アニメはいいぞ！/来年の抱負について&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/oyakata2438/n/n61dfd82ab189&quot;&gt;収録場所 錬金術ラボ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/19</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20190308_01.mp3" length="41900" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>VTRyoさん(Twitter：@3s_hv)とゲーム、バイク、川崎、技術書典、キーボードの話。</itunes:subtitle>
+        <itunes:duration>01:18:36</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>18. VTRyoさんと楽しい声優、アニメの話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/18</link>
+        <pubDate>Sat, 02 Mar 2019 17:50:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:10 Ryoさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:53 今回は趣味全振り、まずは声優とアニメを好きになったきっかけから
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  14:03 最近の気になってる声優、アニメ話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  24:15 声優ラジオ、アニラジなどは聞いている?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  25:55 好きなアニメの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  32:49 アニメのおすすめの難しさと推しジャンルの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  38:55 アニメの表面的なラベルではなくて中身が大事だよね、という話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  46:00 共感性羞恥の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  50:12 声優・アニメについて最後に言っておきたいこと
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  52:58 Podcastの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  53:50 ゲストからの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  56:57 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://www.wantedly.com/companies/mazrica'&gt;株式会社マツリカの会社情報 - Wantedly&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://soundcloud.com/user-549591188'&gt;Mazrica.fm&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/hashtag/%E6%8C%AB%E6%8A%98%E8%AB%96%E3%81%B8%E3%81%AE%E6%8B%9B%E5%BE%85?f=tweets&amp;vertical=default&amp;src=hash'&gt;挫折論への招待&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://blog.vtryo.me/'&gt;VTRyo Blog&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%9A%E3%81%8D%E3%81%A1%E3%82%83%E3%82%93&quot;&gt;あずきちゃん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%86%E3%81%8B%E3%81%AA&quot;&gt;ゆかな&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%9D%89%E7%94%B0%E6%99%BA%E5%92%8C%E3%81%AE%E3%82%A2%E3%83%8B%E3%82%B2%E3%83%A9!%E3%83%87%E3%82%A3%E3%83%89%E3%82%A5%E3%83%BC%E3%83%BC%E3%83%B3&quot;&gt;杉田智和のアニゲラ!ディドゥーーン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=VauQiwpBqWQ&quot;&gt;【吹いたら負け】花沢さん（cv:花澤香菜）vs アナゴさん（cv:杉田智和）【文字起こし】&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nicovideo.jp/watch/sm21638467&quot;&gt;特に理由の無い杉田が花澤香菜さんを襲う&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%88%B8%E6%9D%BE%E9%81%A5&quot;&gt;戸松遥&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://pc.animelo.jp/special/deargirl-stories/&quot;&gt;Dear Girl ～Stories～&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%A5%9E%E8%B0%B7%E6%B5%A9%E5%8F%B2&quot;&gt;神谷浩史&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%B8%A1%E8%BE%BA%E6%98%8E%E4%B9%83&quot;&gt;渡辺明乃&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/morix1500&quot;&gt;Morixさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%89%E3%82%AE%E3%82%A2%E3%82%B9&quot;&gt;コードギアス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%95%E3%81%8F%E3%82%89%E8%8D%98%E3%81%AE%E3%83%9A%E3%83%83%E3%83%88%E3%81%AA%E5%BD%BC%E5%A5%B3&quot;&gt;さくら荘のペットな彼女&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A8%E3%83%AD%E3%83%9E%E3%83%B3%E3%82%AC%E5%85%88%E7%94%9F&quot;&gt;エロマンガ先生&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%82%E3%81%9A%E3%81%BE%E3%82%93%E3%81%8C%E5%A4%A7%E7%8E%8B&quot;&gt;あずまんが大王&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%97%A5%E5%B8%B8_(%E6%BC%AB%E7%94%BB)&quot;&gt;日常(漫画)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%BC%E3%81%8F%E3%82%89%E3%81%AE&quot;&gt;ぼくらの&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://d.hatena.ne.jp/keyword/%B6%A6%B4%B6%C0%AD%E6%B7%C3%D1&quot;&gt;共感性羞恥&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%BF%AB%E5%82%91%E8%92%B8%E6%B0%97%E6%8E%A2%E5%81%B5%E5%9B%A3&quot;&gt;快傑蒸気探偵団&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shiganai.org/ep/sp17a-3s_hv&quot;&gt;しがないラジオ sp.17a【ゲスト: 3s_hv】楽しい、業務効率化禁止のブラックSES企業からの脱出&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://takattata.github.io/deployfm/episode/08-main&quot;&gt;deploy.fm　8. 3s_hvさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://takattata.github.io/deployfm/episode/08-omake&quot;&gt;deploy.fm　おまけ 8. エンジニアという括りを無意識に持っているのではという話？&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://monorazi.hateblo.jp/entry/2018/12/20/140000&quot;&gt;ものラジ #6 @3s_hv @morix1500 - もの作り事情(#マツリカfm/#jobchanger/#セイチョウジャーニー/#Nyaaan/#運営者ギルド)/もの作りの原点/今後のもの作り&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://monorazi.hateblo.jp/entry/2019/01/06/130000&quot;&gt;ものラジ #6-2 @3s_hv @morix1500 - もの作りと仕事とプライベートの両立について/もの作りの辛い話し/アニメはいいぞ！/来年の抱負について&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/oyakata2438/n/n61dfd82ab189&quot;&gt;収録場所 錬金術ラボ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/18</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20190302_01.mp3" length="31100" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>VTRyoさん(Twitter：@3s_hv)と最高に楽しい声優、アニメの話。</itunes:subtitle>
+        <itunes:duration>00:51:01</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>17. あわなさんと野球と音楽の楽しいお話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/17</link>
+        <pubDate>Sun, 24 Feb 2019 23:45:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:18 あわなさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:46 第16回に引き続き野球話、あわなさんが好きな音楽+野球の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  12:45 今年どこのチームが優勝するか?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  24:58 音楽の話、夏フェスに行くのが好き!
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  44:42 Podcastの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  46:00 ゲストからの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  48:00 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://everyone-outputer.connpass.com/'&gt;Everyone Outputer&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://awana1023.hatenablog.com/'&gt;Bubble Bath&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://baseball.morelents.com/&quot;&gt;プロ野球選手の登場曲まとめ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/search?q=%E3%83%A4%E3%82%B9%E3%82%A2%E3%82%AD%E3%82%B8%E3%83%A3%E3%83%B3%E3%83%97&amp;amp;source=lnms&amp;amp;tbm=vid&amp;amp;sa=X&amp;amp;ved=0ahUKEwid4_6WzNTgAhUKybwKHQKRCwIQ_AUIDigB&amp;amp;biw=1412&amp;amp;bih=789&amp;amp;dpr=2&quot;&gt;ヤスアキジャンプ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://npb.jp/bis/2018/stats/&quot;&gt;野球　2018年度 公式戦成績&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://npb.jp/nippons/2018/&quot;&gt;日本シリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://andmore-fes.com/58770/&quot;&gt;2019年 野外フェスまとめ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%95%E3%82%A7%E3%82%B9%E3%83%86%E3%82%A3%E3%83%90%E3%83%AB&quot;&gt;ロック・フェスティバル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/KEYTALK&quot;&gt;KEYTALK&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A5%E3%82%A6%E3%82%BD%E3%83%8D%E3%82%B3%E3%82%AB%E3%83%9F&quot;&gt;キュウソネコカミ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/BABYMETAL&quot;&gt;BABYMETAL&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/17</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20190224_01.mp3" length="37600" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>あわなさん(Twitter：@a_w_a_n_a)としゃべる野球と音楽の楽しい話。</itunes:subtitle>
+        <itunes:duration>00:51:01</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>16. あわなさんに聞く楽しい野球話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/16</link>
+        <pubDate>Wed, 20 Feb 2019 00:00:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:13 あわなさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:40 ちょっとだけ自己紹介を深掘り、学生時代の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  04:04 あわなさんの野球以外の趣味
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  06:05 野球話、好きな球団から野球を好きになったキッカケについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  14:11 野球を見に行く頻度と球場の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  20:55 野球を見る楽しさと球場で飲む食べる楽しみについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  40:04 今年2019年で注目している、楽しみにしている野球関連の話題
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  50:47 グッズの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:01:20 Podcastの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:02:54 ゲストからの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:04:50 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://everyone-outputer.connpass.com/'&gt;Everyone Outputer&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://awana1023.hatenablog.com/'&gt;Bubble Bath&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hanshin.co.jp/koshien/&quot;&gt;阪神甲子園球場&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%85%A8%E5%9B%BD%E9%AB%98%E7%AD%89%E5%AD%A6%E6%A0%A1%E9%87%8E%E7%90%83%E9%81%B8%E6%89%8B%E6%A8%A9%E5%A4%A7%E4%BC%9A&quot;&gt;全国高等学校野球選手権大会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kiyoken.com/&quot;&gt;横浜名物 シウマイの崎陽軒&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E3%81%AE%E9%87%8E%E7%90%83%E5%A0%B4%E4%B8%80%E8%A6%A7&quot;&gt;日本の野球場一覧&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.hanshin.co.jp/koshien/shop/gourmet/category/player.html&quot;&gt;阪神の監督・選手コラボメニュー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.baystars.co.jp/beer/&quot;&gt;球団オリジナル醸造ビール ｜ 横浜DeNAベイスターズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/kane-sandbox/episodes/ep-3-KANE-RadioSandbox---nagashi_ma_w--a_w_a_n_a--tetsunosuke-e2qlb9/a-a82lt9&quot;&gt;KANEの #RadioSandbox ep.3 野球POD&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E5%A5%B3%E5%AD%90%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83%E6%A9%9F%E6%A7%8B&quot;&gt;日本女子プロ野球機構&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E4%B8%8A%E6%9C%AC%E5%8D%9A%E7%B4%80&quot;&gt;上本 博紀&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%AB%98%E6%A9%8B%E7%94%B1%E4%BC%B8&quot;&gt;高橋 由伸&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%8E%9F%E8%BE%B0%E5%BE%B3&quot;&gt;原 辰徳&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.google.com/search?biw=1376&amp;amp;bih=710&amp;amp;tbm=isch&amp;amp;sa=1&amp;amp;ei=pBZsXJquJMym8AXWmYWACA&amp;amp;q=%E9%87%8E%E7%90%83%E3%80%80%E3%82%B0%E3%83%83%E3%82%BA%E3%80%80%E9%81%B8%E6%89%8B%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC&amp;amp;oq=%E9%87%8E%E7%90%83%E3%80%80%E3%82%B0%E3%83%83%E3%82%BA%E3%80%80%E9%81%B8%E6%89%8B%E3%83%8F%E3%83%B3%E3%82%AC%E3%83%BC&amp;amp;gs_l=img.3...17538.18425..18892...0.0..0.85.385.5......1....1..gws-wiz-img.FTG2Nf6Z_GE&quot;&gt;選手の顔がプリントされたハンガー&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/16</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20190220_01.mp3" length="50600" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>あわなさん(Twitter：@a_w_a_n_a)に聞く楽しい野球話。</itunes:subtitle>
+        <itunes:duration>01:06:41</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>15. KANEさんとずんだまるさんと楽しい新年会。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/15</link>
+        <pubDate>Mon, 11 Feb 2019 22:00:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:31 KANEさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:39 ずんだまるさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  03:00 枝豆の妖精ずんだまる?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  15:49 KANEさんの北海道土産について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  27:50 KANEさんの趣味、Podcast、ボドゲ、燻製の3つ以外にある??
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  35:03 ずんだまるさんの趣味のひとつであるスノボについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  40:49 ずんだまるさんの趣味は食べる・寝る・歌うから、合唱について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  56:50 Podcaster3人でPodcastについて語る。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:07:13 Podcastの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:08:03 ゲストからの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:09:27 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://www.oshigotoam.com/'&gt;おしごとam&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://anchor.fm/kane4'&gt;おやかた.am&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://anchor.fm/yukaneradio'&gt;そこまでゆうかねラジオ&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://anchor.fm/nashio'&gt;#成し遂げたいam&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://anchor.fm/zunda'&gt;#たまよくラジオ&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/hashtag/%E6%8C%AB%E6%8A%98%E8%AB%96%E3%81%B8%E3%81%AE%E6%8B%9B%E5%BE%85?f=tweets&amp;vertical=default&amp;src=hash'&gt;挫折論への招待&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oshigotoam.com/entry/2018/08/16/080959&quot;&gt;おしゅうかつam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/zunda&quot;&gt;#たまよくラジオ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%9E%9D%E8%B1%86&quot;&gt;枝豆&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineers.connpass.com/event/104940/&quot;&gt;秋の夜長の自由研究LT大会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AB%E3%83%81%E3%83%A7%E3%82%AB%E3%83%B4%E3%82%A1%E3%83%83%E3%83%AD&quot;&gt;カチョカヴァッロ(カチョカバロ)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%AE%AD%E3%81%A8%E3%81%B0&quot;&gt;鮭とば&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%BC&quot;&gt;ハゼ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.islog.jp/entry/tenaga-ebi-barbus/&quot;&gt;川で海老を釣るブログ「江戸川でテナガエビ&amp;amp;ニゴイ釣り！本当はウナギ狙いですが…」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://snow.gnavi.co.jp/search/list/spl_area01.php?kencd=43&quot;&gt;広島県 スキー場情報&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AD%E3%83%BC%E3%83%9C%E3%83%BC%E3%83%89&quot;&gt;ファンスキー(世界的にはスキーボードが一般的)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nhk.or.jp/ncon/&quot;&gt;Nコン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/oyakata2438/n/n61dfd82ab189&quot;&gt;収録場所 錬金術ラボ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/15</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20190211_01.mp3" length="32500" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>KANEさん(Twitter：@higuyume)とずんだまるさん(@edamametsubu318)と新年会で語る楽しい趣味話。</itunes:subtitle>
+        <itunes:duration>01:12:00</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>14. まみーさんと語る楽しい働き方の話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/14</link>
+        <pubDate>Fri, 01 Feb 2019 23:30:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:13 まみーさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:25 第14回目のテーマは働き方、リモートワークや家族についてなど。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  02:17 まみーさんが抱く想いや理想「家族と当たり前に挨拶できる、家族との時間を大切にできる」こと
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  07:32 組織や個人でリモートワークを上手く使いこなす働き方。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  14:52 働くことはわくわくする、楽しいことなのでは?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  22:08 まみーさんが上手くリモートワークするためにやっていること。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  38:40 まみーさんが感じる今のチームや前職、コミュニティの良いところ、感謝について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  44:30 まみーさんの趣味のひとつ、ゲームについてちょっと雑談。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  49:54 Podcastの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  50:58 まみーさんからの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  52:52 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://engineers-lt.gitbook.io/information/'&gt;エンジニアの登壇を応援する会&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://mamy1326.hatenablog.com/'&gt;叫ぶうさぎの悪ふざけ&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E8%A3%81%E9%87%8F%E5%8A%B4%E5%83%8D%E5%88%B6&quot;&gt;裁量労働制&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AC%E3%83%83%E3%82%AF%E3%82%B9%E3%82%BF%E3%82%A4%E3%83%A0%E5%88%B6&quot;&gt;フレックスタイム制&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91&quot;&gt;OOP オブジェクト指向プログラミング&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://yyphp.connpass.com/&quot;&gt;YYPHP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%A5%B3%E7%A5%9E%E8%BB%A2%E7%94%9F&quot;&gt;女神転生&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%B9II&quot;&gt;イースII&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/MSX&quot;&gt;MSX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/PC-9800%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;PC-9800シリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%8F%E3%82%A4%E3%83%89%E3%83%A9%E3%82%A4%E3%83%89%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;ハイドライド&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%84%A1%E5%8F%8COROCHI&quot;&gt;無双OROCHI&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineers-lt.gitbook.io/information/&quot;&gt;【告知】エンジニアの登壇を応援する会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mamy1326.hatenablog.com/&quot;&gt;【告知】まみーさんのブログ　叫ぶうさぎの悪ふざけ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/3161&quot;&gt;【告知】まみーさんのひとりアドベントカレンダー&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/14</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20190201_01.mp3" length="42600" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>まみーさん(Twitter：@mamy1326)とリモートワークや家庭があるITエンジニアの働き方に関する楽しい話。</itunes:subtitle>
+        <itunes:duration>00:54:15</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>13. まみーさんと楽しいITエンジニア話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/13</link>
+        <pubDate>Tue, 29 Jan 2019 00:10:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:14 まみーさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:29 まみーさんのITエンジニア経歴について、最初はC言語?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  06:22 Webの開発はC言語、そしてWebサーバーはSolarisでIISから。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  20:21 まみーさんはmysqlの人?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  32:44 my.cnf(mysqlの設定ファイル)が空っぽの状態から改善していくモチベについて。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  34:07 より良いものを追い求めるITエンジニアと追い求めないITエンジニアについて。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  37:09 アウトプットの楽しさに気付いていないITエンジニアがその楽しさに気づくにはどうすればいいのか。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  50:52 毎日なにかしらアウトプットしているまみーさんと話す、何かを続けるコツ。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:11:21 お互いこれから書きそうな技術書、合同誌について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:15:50 Podcastの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:17:09 まみーさんからの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:19:00 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://engineers-lt.gitbook.io/information/'&gt;エンジニアの登壇を応援する会&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://mamy1326.hatenablog.com/'&gt;叫ぶうさぎの悪ふざけ&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/C%E8%A8%80%E8%AA%9E&quot;&gt;C言語&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/PHP&quot;&gt;PHP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/Network_socket&quot;&gt;ソケット(ネットワークかつ英語の記事)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/2000%E5%B9%B4%E5%95%8F%E9%A1%8C&quot;&gt;2000年問題&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Solaris&quot;&gt;Solaris&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Internet_Information_Services&quot;&gt;IIS(Internet Information Services)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/ColdFusion&quot;&gt;ColdFusion&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/MySQL&quot;&gt;MySQL&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wp.infra-workshop.tech/&quot;&gt;インフラ勉強会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineers-lt.gitbook.io/information/&quot;&gt;【告知】エンジニアの登壇を応援する会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mamy1326.hatenablog.com/&quot;&gt;【告知】まみーさんのブログ　叫ぶうさぎの悪ふざけ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/13</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20190129_01.mp3" length="64700" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>まみーさん(Twitter：@mamy1326)とC言語やPHPでのWebシステム開発、mysql、ITエンジニアのアウトプットに関する楽しい話。</itunes:subtitle>
+        <itunes:duration>01:25:32</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>12. みずりゅさんと熱血楽しいスパロボの話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/12</link>
+        <pubDate>Mon, 21 Jan 2019 01:10:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:12 みずりゅさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:28 今回のテーマはスパロボとガンダムの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  02:03 お互いにプレイしたスパロボ作品について、みずりゅさんはスパロボFから。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  02:40 FORTEは第2次αから。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  06:40 版権スパロボとして第2次から第3次、EXなどについて。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  12:48 スパロボF、F完結編について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  33:48 スパロボαについて。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  45:30 スパロボα外伝について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  55:54 みずりゅさんが一番好きなスパロボはスパロボV。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:06:13 スパロボよもやま話(閃光のハサウェイ、声優、主人公の誕生日、スパロボXの話など)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:22:18 Podcastの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:23:23 みずりゅさんからの告知(ブログのみで特になし)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:24:34 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://mzryuka.hatenablog.jp/'&gt;みずりゅの自由帳&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;スーパーロボット大戦シリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%AC%AC2%E6%AC%A1%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6&quot;&gt;第2次スーパーロボット大戦&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%AC%AC3%E6%AC%A1%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6&quot;&gt;第3次スーパーロボット大戦&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6EX&quot;&gt;スーパーロボット大戦EX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%AC%AC4%E6%AC%A1%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6&quot;&gt;第4次スーパーロボット大戦&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6F&quot;&gt;スーパーロボット大戦F&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6%E3%82%B3%E3%83%B3%E3%83%97%E3%83%AA%E3%83%BC%E3%83%88%E3%83%9C%E3%83%83%E3%82%AF%E3%82%B9&quot;&gt;スーパーロボット大戦コンプリートボックス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6%CE%B1&quot;&gt;スーパーロボット大戦α&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6%CE%B1%E5%A4%96%E4%BC%9D&quot;&gt;スーパーロボット大戦α外伝&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6V&quot;&gt;スーパーロボット大戦V&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6X&quot;&gt;スーパーロボット大戦X&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mzryuka.hatenablog.jp/&quot;&gt;【告知】みずりゅの自由帳&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/12</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20190121_01.mp3" length="61300" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>みずりゅさん(Twitter：@MzRyuKa)とスパロボについて楽しく語りました。</itunes:subtitle>
+        <itunes:duration>01:25:12</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>11. みずりゅさんと楽しすぎるドラクエ3、4などゲームの話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/11</link>
+        <pubDate>Sat, 05 Jan 2019 18:30:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:31 みずりゅさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:07 今回のテーマもゲームの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:51 ドラクエ3の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  22:00 ちょっと脱線して、ビルダーズから新作ゲームの話とPayPayの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  26:20 ドラクエ4の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  56:41 その他、今後話したいゲームの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:10:29 ガンダムトゥルーオデッセイ 失われしGの伝説の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:12:30 Gジェネスピリッツの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:16:0 最後に言い残したこととZガンダムのゲームの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:20:06 Podcastの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:21:12 みずりゅさんからの告知(ブログのみで特になし)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:21:40 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://mzryuka.hatenablog.jp/'&gt;みずりゅの自由帳&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88III_%E3%81%9D%E3%81%97%E3%81%A6%E4%BC%9D%E8%AA%AC%E3%81%B8%E2%80%A6&quot;&gt;ドラゴンクエストIII そして伝説へ…&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA_%E3%82%A2%E3%83%AC%E3%83%95%E3%82%AC%E3%83%AB%E3%83%89%E3%82%92%E5%BE%A9%E6%B4%BB%E3%81%9B%E3%82%88&quot;&gt;ドラゴンクエストビルダーズ アレフガルドを復活せよ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%83%93%E3%83%AB%E3%83%80%E3%83%BC%E3%82%BA2_%E7%A0%B4%E5%A3%8A%E7%A5%9E%E3%82%B7%E3%83%89%E3%83%BC%E3%81%A8%E3%81%8B%E3%82%89%E3%81%A3%E3%81%BD%E3%81%AE%E5%B3%B6&quot;&gt;ドラゴンクエストビルダーズ2 破壊神シドーとからっぽの島&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%A4%A7%E4%B9%B1%E9%97%98%E3%82%B9%E3%83%9E%E3%83%83%E3%82%B7%E3%83%A5%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA_SPECIAL&quot;&gt;大乱闘スマッシュブラザーズ SPECIAL(Xと言っていましたがSPECIALの間違いでした…)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/topboyccc&quot;&gt;トップボーイ(ここのお店ではないですがこんな感じ)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%B0%8F%E8%AA%AC%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88&quot;&gt;小説ドラゴンクエスト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88_%E7%B2%BE%E9%9C%8A%E3%83%AB%E3%83%93%E3%82%B9%E4%BC%9D%E8%AA%AC&quot;&gt;ドラゴンクエスト 精霊ルビス伝説&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%84%E3%81%AE%E3%81%BE%E3%81%9F%E3%82%80%E3%81%A4%E3%81%BF&quot;&gt;いのまたむつみ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%AD%94%E7%95%8C%E5%A1%94%E5%A3%ABSa%E3%83%BBGa&quot;&gt;魔界塔士Sa・Ga&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/TYPE-MOON&quot;&gt;型月(TYPE-MOON)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%9C%88%E5%A7%AB_(%E3%82%B2%E3%83%BC%E3%83%A0)&quot;&gt;シエル先輩と第七聖典&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0%E3%83%88%E3%82%A5%E3%83%AB%E3%83%BC%E3%82%AA%E3%83%87%E3%83%83%E3%82%BB%E3%82%A4_%E3%80%9C%E5%A4%B1%E3%82%8F%E3%82%8C%E3%81%97G%E3%81%AE%E4%BC%9D%E8%AA%AC%E3%80%9C&quot;&gt;ガンダムトゥルーオデッセイ 〜失われしGの伝説〜&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/SD%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0_GGENERATION#SD%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0_GGENERATION_SPIRITS&quot;&gt;SDガンダム GGENERATION SPIRITS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%88%A6%E5%A3%AB%CE%96%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0_(%E3%83%97%E3%83%AC%E3%82%A4%E3%82%B9%E3%83%86%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3)&quot;&gt;機動戦士Ζガンダム (サターンではなくプレイステーション版でした)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mzryuka.hatenablog.jp/&quot;&gt;【告知】みずりゅの自由帳&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/11</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20190105_01.mp3" length="60900" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>みずりゅさん(Twitter：@MzRyuKa)とドラクエ3、ドラクエ4他、ゲームについて楽しく語りました。</itunes:subtitle>
+        <itunes:duration>01:22:35</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>sp1_5. エンジニア年越し配信! in 錬金術ラボ! その5</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/sp1_5</link>
+        <pubDate>Tue, 01 Jan 2019 16:00:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://note.mu/oyakata2438/n/n61dfd82ab189'&gt;錬金術ラボへのお誘い&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/oyakata2438/n/n61dfd82ab189&quot;&gt;錬金術ラボ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/sp1_5</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20180101_05.mp3" length="27900" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>エンジニア年越し配信! in 錬金術ラボ! その5。最低限の編集なので期待せず音量は低めで聞くことを推奨します!</itunes:subtitle>
+        <itunes:duration>01:03:54</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>sp1_4. エンジニア年越し配信! in 錬金術ラボ! その4</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/sp1_4</link>
+        <pubDate>Tue, 01 Jan 2019 16:00:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://note.mu/oyakata2438/n/n61dfd82ab189'&gt;錬金術ラボへのお誘い&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/oyakata2438/n/n61dfd82ab189&quot;&gt;錬金術ラボ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/sp1_4</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20180101_04.mp3" length="24100" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>エンジニア年越し配信! in 錬金術ラボ! その4。最低限の編集なので期待せず音量は低めで聞くことを推奨します!</itunes:subtitle>
+        <itunes:duration>55:46</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>sp1_3. エンジニア年越し配信! in 錬金術ラボ! その3</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/sp1_3</link>
+        <pubDate>Tue, 01 Jan 2019 16:00:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://note.mu/oyakata2438/n/n61dfd82ab189'&gt;錬金術ラボへのお誘い&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/oyakata2438/n/n61dfd82ab189&quot;&gt;錬金術ラボ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/sp1_3</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20180101_03.mp3" length="22300" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>エンジニア年越し配信! in 錬金術ラボ! その3。最低限の編集なので期待せず音量は低めで聞くことを推奨します!</itunes:subtitle>
+        <itunes:duration>51:59</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>sp1_2. エンジニア年越し配信! in 錬金術ラボ! その2</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/sp1_2</link>
+        <pubDate>Tue, 01 Jan 2019 16:00:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://note.mu/oyakata2438/n/n61dfd82ab189'&gt;錬金術ラボへのお誘い&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/oyakata2438/n/n61dfd82ab189&quot;&gt;錬金術ラボ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/sp1_2</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20180101_02.mp3" length="31100" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>エンジニア年越し配信! in 錬金術ラボ! その1。最低限の編集なので期待せず音量は低めで聞くことを推奨します!</itunes:subtitle>
+        <itunes:duration>01:11:56</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>sp1_1. エンジニア年越し配信! in 錬金術ラボ! その1</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/sp1_1</link>
+        <pubDate>Tue, 01 Jan 2019 16:00:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://note.mu/oyakata2438/n/n61dfd82ab189'&gt;錬金術ラボへのお誘い&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/oyakata2438/n/n61dfd82ab189&quot;&gt;錬金術ラボ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/sp1_1</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20180101_01.mp3" length="25500" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>エンジニア年越し配信! in 錬金術ラボ! その1。最低限の編集なので期待せず音量は低めで聞くことを推奨します!</itunes:subtitle>
+        <itunes:duration>58:17</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>10. みずりゅさんと楽しい楽しいファミコンの話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/10</link>
+        <pubDate>Mon, 31 Dec 2018 16:10:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:12 みずりゅさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  02:00 話したい楽しいこと、ゲームの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  02:50 お互いの最初にやったゲーム、買ってもらった印象に残ってるゲームの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  13:16 関連リンクの順番でゲーム話(グーニーズ〜ワルキューレの冒険)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  24:55 たけしの挑戦状〜かぐや姫伝説
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  37:10 ファミコン探偵倶楽部について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  39:46 イースシリーズについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  51:09 ドラクエシリーズ全体とドラクエ2の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:02:50 Podcastの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:04:00 みずりゅさんからの告知(ブログのみで特になし)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:04:14 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://mzryuka.hatenablog.jp/'&gt;みずりゅの自由帳&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%91%E3%81%A3%E3%81%8D%E3%82%87%E3%81%8F%E5%8D%97%E6%A5%B5%E5%A4%A7%E5%86%92%E9%99%BA&quot;&gt;けっきょく南極大冒険&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%83%E3%82%B7%E3%83%BC%E3%81%AE%E3%82%AF%E3%83%83%E3%82%AD%E3%83%BC&quot;&gt;ヨッシーのクッキー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%83%E3%83%95%E3%83%AB%E3%83%95%E3%82%A1%E3%82%A4%E3%83%88&quot;&gt;シャッフルファイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%BC%E3%83%8B%E3%83%BC%E3%82%BA&quot;&gt;グーニーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B0%E3%83%BC%E3%83%8B%E3%83%BC%E3%82%BA2_%E3%83%95%E3%83%A9%E3%83%83%E3%83%86%E3%83%AA%E3%83%BC%E6%9C%80%E5%BE%8C%E3%81%AE%E6%8C%91%E6%88%A6&quot;&gt;グーニーズ2 フラッテリー最後の挑戦&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A3%E3%82%B6%E3%83%BC%E3%83%89%E3%83%AA%E3%82%A3&quot;&gt;ウィザードリィ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%BC%E3%83%88%E3%83%94%E3%82%A2%E9%80%A3%E7%B6%9A%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6&quot;&gt;ポートピア連続殺人事件&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%8C%97%E6%B5%B7%E9%81%93%E9%80%A3%E9%8E%96%E6%AE%BA%E4%BA%BA_%E3%82%AA%E3%83%9B%E3%83%BC%E3%83%84%E3%82%AF%E3%81%AB%E6%B6%88%E3%82%86&quot;&gt;北海道連鎖殺人 オホーツクに消ゆ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%81%E3%83%A3%E3%83%AC%E3%83%B3%E3%82%B8%E3%83%A3%E3%83%BC_(%E3%82%B2%E3%83%BC%E3%83%A0)&quot;&gt;チャレンジャー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%A4%A7%E6%8A%80%E6%9E%97&quot;&gt;大技林&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9E%E3%83%AB%E5%8B%9D%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3&quot;&gt;マル勝ファミコン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%9F%E3%83%AA%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BFMagazine&quot;&gt;ファミリーコンピュータMagazine　ウル技（ウルテク）はこちらでした&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B2%E3%82%B2%E3%82%B2%E3%81%AE%E9%AC%BC%E5%A4%AA%E9%83%8E_%E5%A6%96%E6%80%AA%E5%A4%A7%E9%AD%94%E5%A2%83&quot;&gt;ゲゲゲの鬼太郎 妖怪大魔境&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%BA%90%E5%B9%B3%E8%A8%8E%E9%AD%94%E4%BC%9D&quot;&gt;源平討魔伝&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%9C%88%E9%A2%A8%E9%AD%94%E4%BC%9D&quot;&gt;月風魔伝&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%AF%E3%83%AB%E3%82%AD%E3%83%A5%E3%83%BC%E3%83%AC%E3%81%AE%E5%86%92%E9%99%BA_%E6%99%82%E3%81%AE%E9%8D%B5%E4%BC%9D%E8%AA%AC&quot;&gt;ワルキューレの冒険 時の鍵伝説&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%9F%E3%81%91%E3%81%97%E3%81%AE%E6%8C%91%E6%88%A6%E7%8A%B6&quot;&gt;たけしの挑戦状&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AD%E3%83%A3%E3%83%97%E3%83%86%E3%83%B3%E7%BF%BC_(%E3%82%B2%E3%83%BC%E3%83%A0)&quot;&gt;キャプテン翼 (ゲーム)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%98%9F%E3%82%92%E3%81%BF%E3%82%8B%E3%81%B2%E3%81%A8&quot;&gt;星をみるひと&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%89%E3%82%A6%E3%82%B2%E3%82%A4%E3%83%88&quot;&gt;シャドウゲイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%BE%8E%E5%91%B3%E3%81%97%E3%82%93%E3%81%BC&quot;&gt;美味しんぼ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%96%B0%E7%AB%B9%E5%8F%96%E7%89%A9%E8%AA%9E&quot;&gt;かぐや姫伝説&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E6%8E%A2%E5%81%B5%E5%80%B6%E6%A5%BD%E9%83%A8&quot;&gt;ファミコン探偵倶楽部&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%B9%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;イースシリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;ドラゴンクエストシリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88II_%E6%82%AA%E9%9C%8A%E3%81%AE%E7%A5%9E%E3%80%85&quot;&gt;ドラゴンクエストII 悪霊の神々&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mzryuka.hatenablog.jp/&quot;&gt;【告知】みずりゅの自由帳&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/10</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20181231_01.mp3" length="48629" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>みずりゅさん(Twitter：@MzRyuKa)と主にファミコンのゲームについて楽しく語りました。</itunes:subtitle>
+        <itunes:duration>01:04:59</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>9. みずりゅさんとY2K問題やチームビルディングの楽しいお話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/9</link>
+        <pubDate>Sat, 29 Dec 2018 22:10:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:12 みずりゅさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:48 みずりゅさんのお仕事の話からY2K(2000年問題)の話へ
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  07:51 職場で見聞きするレガシーな話や物たちについて(紙テープ、磁気テープ、ZIPドライブ、MOなど…)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  11:33 (雑な括りですが)マネジメント、チームビルディング、アジャイル系の勉強会について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  14:53 マネジメント系プラクティスの現場適用の難しさ、信頼貯金、目の前のことの話などについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  21:58 リーダーがマネジメントしたくない問題などFORTEが所属するチームを良くするためには?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  55:00 改善していくツラさと勉強会でエネルギーを分かち合う話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  57:13 チームを良くしていく方法の共有について、失敗した話も価値がある。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:01:19 Podcastの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:02:23 みずりゅさんからの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:02:57 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://mzryuka.hatenablog.jp/'&gt;みずりゅの自由帳&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/2000%E5%B9%B4%E5%95%8F%E9%A1%8C&quot;&gt;Y2K(2000年問題)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%B4%99%E3%83%86%E3%83%BC%E3%83%97&quot;&gt;紙テープ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%A3%81%E6%B0%97%E3%83%86%E3%83%BC%E3%83%97#%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E7%94%A8&quot;&gt;磁気テープ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/ZIP_(%E8%A8%98%E6%86%B6%E5%AA%92%E4%BD%93)&quot;&gt;ZIP (記憶媒体)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%85%89%E7%A3%81%E6%B0%97%E3%83%87%E3%82%A3%E3%82%B9%E3%82%AF&quot;&gt;MO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oreilly.co.jp/books/9784873118024/&quot;&gt;エラスティックリーダーシップ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%8B%E3%82%A2%E3%83%AA%E3%83%B3%E3%82%B0%E7%B5%84%E7%B9%94%E8%AB%96%E3%81%B8%E3%81%AE%E6%8B%9B%E5%BE%85-%E4%B8%8D%E7%A2%BA%E5%AE%9F%E6%80%A7%E3%81%AB%E5%90%91%E3%81%8D%E5%90%88%E3%81%86%E6%80%9D%E8%80%83%E3%81%A8%E7%B5%84%E7%B9%94%E3%81%AE%E3%83%AA%E3%83%95%E3%82%A1%E3%82%AF%E3%82%BF%E3%83%AA%E3%83%B3%E3%82%B0-%E5%BA%83%E6%9C%A8-%E5%A4%A7%E5%9C%B0/dp/4774196053&quot;&gt;エンジニアリング組織論への招待 ~不確実性に向き合う思考と組織のリファクタリング&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%9E%E3%83%8D%E3%83%BC%E3%82%B8%E3%83%A3%E3%83%BC%E3%81%AE%E5%95%8F%E9%A1%8C%E5%9C%B0%E5%9B%B3-%E3%80%8C%E3%81%A7%E3%80%81%E3%81%A9%E3%81%93%E3%81%8B%E3%82%89%E5%A4%89%E3%81%88%E3%82%8B-%E3%80%8D%E3%81%82%E3%82%8C%E3%82%82%E3%81%93%E3%82%8C%E3%82%82%E3%81%A7%E3%80%81%E3%81%A6%E3%82%93%E3%82%84%E3%82%8F%E3%82%93%E3%82%84%E3%81%AA%E7%8F%BE%E5%A0%B4%E3%81%AE%E3%83%9E%E3%83%8D%E3%82%B8%E3%83%A1%E3%83%B3%E3%83%88-%E6%B2%A2%E6%B8%A1-%E3%81%82%E3%81%BE%E3%81%AD/dp/4774198749&quot;&gt;マネージャーの問題地図&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://management30.com/product/delegation-poker/&quot;&gt;デリゲーションポーカー(英語)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://mzryuka.hatenablog.jp/&quot;&gt;【告知】みずりゅの自由帳&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://takattata.github.io/deployfm/episode/10-main&quot;&gt;deploy.fm みずりゅさん出演回本編&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://takattata.github.io/deployfm/episode/10-omake&quot;&gt;deploy.fm みずりゅさん出演回おまけ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/9</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20181229_01.mp3" length="49449" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>みずりゅさん(Twitter：@MzRyuKa)とY2K問題やチームビルディングの難しさについて楽しく語りました。</itunes:subtitle>
+        <itunes:duration>01:05:40</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>8. hekitterさんと楽しさしかないアイマスなどの趣味話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/8</link>
+        <pubDate>Fri, 21 Dec 2018 23:00:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:15 hekitterさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:40 第8回目のテーマについて。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:04 日本の戦国時代の話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  15:00 戦国架空戦記小説、異戦国志の話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  25:12 hekitterさんの好きなマンガ、アニメの話、天元突破グレンラガンから。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  29:43 次はマクロスFにハマり、菅野よう子サウンドに魅了され、FORTEがマクロスプラスをオススメする話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  34:50 攻殻機動隊STAND ALONE COMPLEXの話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  44:36 アイマスの話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:06:53 FORTEが感動したアニメ系のライブ、KING SUPER LIVE 2018(キンスパ)の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:14:40 FORTEが次参加するライブ、FANTASIA ANNIVERSARY LIVE 2019(富士見ファンタジアのライブ)の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:16:07 FORTEが始めて参加したライブの話(FF14のTHE PRIMALS シークレットライブ)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:18:26 hekitterさんが聞いているゲームミュージックと、プレイしていたゲームの話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:24:43 オタクの語彙力についてと最後に言いたい事「アイマスはいいぞ!」
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:26:24 Podcastの宣伝。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:27:05 hekitterさんからの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:28:18 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://hekitter.hatenablog.com/'&gt;hekitter's log&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://note.mu/hexane'&gt;hekitterさんのnote&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://techplay.jp/event/705867'&gt;エンジニアの登壇を応援する忘年LT大会&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%88%A6%E5%9B%BD%E6%99%82%E4%BB%A3_(%E6%97%A5%E6%9C%AC)&quot;&gt;戦国時代 (日本) &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%94%B0%E6%B0%8F&quot;&gt;真田氏&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%9C%9F%E7%94%B0%E6%98%8C%E5%B9%B8&quot;&gt;真田昌幸&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%AB%8B%E8%8A%B1%E9%81%93%E9%9B%AA&quot;&gt;立花道雪&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%AF%9B%E5%88%A9%E5%85%83%E5%B0%B1&quot;&gt;毛利元就&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E4%BF%A1%E9%95%B7%E6%AD%BB%E3%81%9B%E3%81%9A%E2%80%95%E7%95%B0%E6%88%A6%E5%9B%BD%E5%BF%97%E3%80%881%E3%80%89-%E5%AD%A6%E7%A0%94M%E6%96%87%E5%BA%AB-%E4%BB%B2%E8%B7%AF-%E3%81%95%E3%81%A8%E3%82%8B/dp/4059000019&quot;&gt;異戦国志&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%A4%A9%E5%85%83%E7%AA%81%E7%A0%B4%E3%82%B0%E3%83%AC%E3%83%B3%E3%83%A9%E3%82%AC%E3%83%B3&quot;&gt;天元突破グレンラガン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9F&quot;&gt;マクロスF&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E8%8F%85%E9%87%8E%E3%82%88%E3%81%86%E5%AD%90&quot;&gt;菅野よう子&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9E%E3%82%AF%E3%83%AD%E3%82%B9%E3%83%97%E3%83%A9%E3%82%B9&quot;&gt;マクロスプラス&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%94%BB%E6%AE%BB%E6%A9%9F%E5%8B%95%E9%9A%8A_STAND_ALONE_COMPLEX&quot;&gt;攻殻機動隊 STAND ALONE COMPLEX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/michsuzu/status/1056502053294366721&quot;&gt;FORTEが見たタチコマの動画の話(これは1/2サイズ)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.itmedia.co.jp/lifestyle/articles/1703/23/news152.html&quot;&gt;個人で買える1/8 タチコマもあり&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;アイドルマスターシリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dic.nicovideo.jp/a/im%40s%E6%9E%B6%E7%A9%BA%E6%88%A6%E8%A8%98%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;iM@S架空戦記シリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC_SideM&quot;&gt;アイドルマスター SideM&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kingsuperlive.jp/&quot;&gt;KING SUPER LIVE 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.fujimishobo.co.jp/sp/fantasialive/&quot;&gt;FANTASIA ANNIVERSARY LIVE 2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.famitsu.com/news/201609/17115411.html&quot;&gt;FF14のTHE PRIMALS シークレットライブ(300倍と言いましたが30倍でした…)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E4%BC%8A%E8%97%A4%E8%B3%A2%E6%B2%BB&quot;&gt;イトケン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%B9%BB%E6%83%B3%E6%B0%B4%E6%BB%B8%E4%BC%9D&quot;&gt;幻想水滸伝1&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%B9%BB%E6%83%B3%E6%B0%B4%E6%BB%B8%E4%BC%9DII&quot;&gt;幻想水滸伝II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%8B%E3%83%83%E3%82%B7%E3%83%A5%E3%83%89&quot;&gt;バニッシュド&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A4%E3%83%BC%E3%82%B9VIII&quot;&gt;イースVIII&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Ever17_-the_out_of_infinity-&quot;&gt;Ever17 -the out of infinity-(シュタゲの系列と言いましたが別シリーズでした…)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hekitter.hatenablog.com/&quot;&gt;【告知】hekitter’s log &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/hexane&quot;&gt;【告知】hekitterさんのnote&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techplay.jp/event/705867&quot;&gt;【告知】エンジニアの登壇を応援する忘年LT大会&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/8</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20181221_01.mp3" length="42266" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>hekitterさん(Twitter：@hekitter)と楽しさしかない日本の戦国時代、攻殻機動隊、アイマス、ライブのお話をしました。</itunes:subtitle>
+        <itunes:duration>01:29:41</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>7. hekitterさんとエンジニアと三国志の楽しいお話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/7</link>
+        <pubDate>Tue, 18 Dec 2018 01:10:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:12 hekitterさんの自己紹介と大学の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:04 hekitterさんが大学のゼミでやっていた組織論の勉強について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  06:20 大学でやっていたサークル、大学祭の実行委員について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  10:24 SIerに入ったキッカケ
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  12:51 hekitterさんの初LTでFORTEが気になったこと
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  15:15 仕事でこれはうまく行ったぞ!的な話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  19:54 SIerでここが楽しいとか、いいなぁというものはあるか?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  21:10 ITエンジニアとしての今後の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  33:03 FORTEが経験した前向きなお客さんで辛かった話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  36:50 ナントカガーデンはソニックガーデンでした
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  37:50 楽しい話、三国志の話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  56:58 三国志以外の歴史の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:01:50 Podcastの宣伝。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:03:38 hekitterさんからの告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:06:00 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://hekitter.hatenablog.com/'&gt;hekitter's log&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://note.mu/hexane'&gt;hekitterさんのnote&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://note.mu/oyakata2438/n/n52a56035317c'&gt;ワンストップ見積もり本&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://adventar.org/calendars/3166'&gt;ずんだまる Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://adventar.org/calendars/2993'&gt;エンジニアの登壇を応援する会 Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://adventar.org/calendars/3064'&gt;真・エンジニアの登壇を応援する会 Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://adventar.org/calendars/3012'&gt;#しがないラジオ 2 Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.sonicgarden.jp/&quot;&gt;ソニックガーデン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wp.infra-workshop.tech/&quot;&gt;インフラ勉強会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wp.infra-workshop.tech/event/%E3%80%90%E3%83%AA%E3%82%A2%E3%83%AB%E7%99%BB%E5%A3%87%E3%81%AE%E5%86%8D%E6%BC%94%E3%80%91ci-cd%E3%81%A3%E3%81%A6%E4%BD%95%E3%81%8C%E8%89%AF%E3%81%84%E3%81%AE%EF%BC%9F%E3%80%9C%E8%A8%80%E3%81%86/&quot;&gt;インフラ勉強会のセッション CI/CDって何が良いの？〜言うてるオレもわからんわ〜&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wp.infra-workshop.tech/event/gyomu_hacker/&quot;&gt;インフラ勉強会のセッション 現役業務ハッカーに聞いてみる！「業務ハッカーってどんなことするの？」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9B%BD%E5%BF%97&quot;&gt;三国志&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E4%B8%89%E5%9C%8B%E5%BF%97%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;三國志シリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%8C%97%E6%96%B9%E8%AC%99%E4%B8%89&quot;&gt;北方謙三&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%B3%95%E6%AD%A3&quot;&gt;法正&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E8%92%BC%E5%A4%A9%E8%88%AA%E8%B7%AF&quot;&gt;蒼天航路&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%A8%AA%E5%B1%B1%E5%85%89%E8%BC%9D_%E4%B8%89%E5%9B%BD%E5%BF%97&quot;&gt;横山光輝 三国志&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B0192JV7C4/ref=dp-kindle-redirect?_encoding=UTF8&amp;amp;btkr=1&quot;&gt;お金の流れでわかる世界の歴史　富、経済、権力……はこう「動いた」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E7%9F%A5%E3%81%A3%E3%81%A6%E3%81%8A%E3%81%8D%E3%81%9F%E3%81%84%E3%80%8C%E9%85%92%E3%80%8D%E3%81%AE%E4%B8%96%E7%95%8C%E5%8F%B2-%E8%A7%92%E5%B7%9D%E3%82%BD%E3%83%95%E3%82%A3%E3%82%A2%E6%96%87%E5%BA%AB-%E5%AE%AE%E5%B4%8E-%E6%AD%A3%E5%8B%9D-ebook/dp/B0093SXUJI&quot;&gt;知っておきたい「酒」の世界史&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%8F%E3%83%B3%E3%83%8B%E3%83%90%E3%83%AB&quot;&gt;ハンニバル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hekitter.hatenablog.com/&quot;&gt;【告知】hekitter’s log &lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/hexane&quot;&gt;【告知】hekitterさんのnote&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://note.mu/oyakata2438/n/n52a56035317c&quot;&gt;【告知】ワンストップ見積もり本(hekitterさんはコラム、FORTEが本編の第4章を寄稿しました!)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/3166&quot;&gt;【告知】ずんだまる Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/2993&quot;&gt;【告知】エンジニアの登壇を応援する会 Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/3064&quot;&gt;【告知】真・エンジニアの登壇を応援する会 Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/3012&quot;&gt;【告知】#しがないラジオ 2 Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/7</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20181218_01.mp3" length="48312" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>hekitterさん(Twitter：@hekitter)とエンジニアになった経緯や三国志などの趣味について楽しくお話しました。</itunes:subtitle>
+        <itunes:duration>01:07:04</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>6. 脱脂綿さんの聞きたいことにFORTEがお答えしたお話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/6</link>
+        <pubDate>Mon, 10 Dec 2018 00:10:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:14 脱脂綿さんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:38 第6回目のテーマについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:22 1個目の質問、FORTEの自己紹介を聞きたい。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  02:42 2個目の質問、なぜ(アウトプットの手段として)Podcastという媒体を選んだのか?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  06:49 3個目の質問、Podcastを聴くこととPodcastで発信する&quot;楽しみ&quot;とは何なのか?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  10:03 4個目の質問、SIerからWeb系に転職したキッカケは?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  13:01 5個目の質問、Web系からスマホアプリ開発に転職したキッカケは?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  18:09 6個目の質問、スマホアプリ開発の次は何をしたいのか?そしてどういうエンジニアになりたいのか?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  22:16 7個目の質問、スキルが違う転職をする時にどこまで勉強したら踏ん切りが着くのか?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  24:48 7個目の質問の派生、WebでやるJavaとAndroidでやるJavaは違う点もあると思う、そこで新たに勉強し直した部分はありましたか?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  27:05 7個目の質問について、2個目(新卒とか未経験の場合)の答え
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  31:07 ちょっと余談、もくもく会で見た学生さんについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  32:21 8個目の質問、FORTEが自分の目的を達成するためにしている勉強はなにか?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  39:00 9個目の質問、スクラムマスター研修のような高額な自己投資(20～30万円)を自腹で出せる理由や、その金額に対する価値についてどう考えているのか?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  45:03 自分が達成したい目的のために努力したり投資するのは、その努力や投資が目標に繋がる確信があるからやれるのでは?という話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  55:00 脱脂綿さんが9個質問したこの時間を振り返ってみた感想。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  57:34 ロスタイムで聞きたいこと、ニコニコ動画でやっているゆっくり実況は何故Twitterで宣伝してないのか?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:00:55 Podcastの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:02:07 脱脂綿さんの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:03:01 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://dassimen-engineer.hatenablog.com/'&gt;dassimen.log&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://qiita.com/advent-calendar/2018/tokiwa'&gt;トキワの森 Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://adventar.org/calendars/2993'&gt;エンジニアの登壇を応援する会 Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://qiita.com/advent-calendar/2018/kuso-app'&gt;クソアプリ Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://adventar.org/calendars/2921'&gt;#セイチョウジャーニー Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://adventar.org/calendars/3022'&gt;インフラ勉強会のAdvent Calender&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/3068&quot;&gt;Podcaster Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dic.nicovideo.jp/a/%E3%82%86%E3%81%A3%E3%81%8F%E3%82%8A%E5%AE%9F%E6%B3%81%E3%83%97%E3%83%AC%E3%82%A4&quot;&gt;ニコニコ動画のゆっくり実況について&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shiganai.org/&quot;&gt;しがないラジオ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.oracle.com/technetwork/jp/java/eol-135779-ja.html&quot;&gt;Javs SE サポート・ロードマップ(Javaのバージョンについて)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://2019.scrumgatheringtokyo.org/index.html&quot;&gt;RSGT2019&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.attractor.co.jp/info/csm-201901/&quot;&gt;スクラムマスター研修&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dassimen-engineer.hatenablog.com/&quot;&gt;【告知】脱脂綿さんのブログ dassimen.log&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2018/tokiwa&quot;&gt;【告知】トキワの森 Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/2993&quot;&gt;【告知】エンジニアの登壇を応援する会 Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2018/kuso-app&quot;&gt;【告知】クソアプリ Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/2921&quot;&gt;【告知】#セイチョウジャーニー Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/3022&quot;&gt;【告知】インフラ勉強会のAdvent Calender&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/6</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20181209_01.mp3" length="47783" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>脱脂綿さん(Twitter：@anchor_cable)の聞きたいことに楽しくお答えしてみました。</itunes:subtitle>
+        <itunes:duration>01:07:28</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>5. 脱脂綿さんのプライベート楽しい話と成し遂げたい物の話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/5</link>
+        <pubDate>Sat, 01 Dec 2018 16:20:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:30 脱脂綿さんの自己紹介といまのお仕事の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  02:30 学生時代の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  05:50 保守のお仕事について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  11:17 開発に興味を持った理由
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  15:45 何かを始めるハードルと続けるハードルの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  17:00 脱脂綿さんのプライベートが楽しい話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  20:21 思い出に残った勉強会の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  24:06 TDDの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  32:17 ペアプロ、モブプロの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  42:35 学ぶや刺激を得るために人に会う話、会いたいときの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  45:40 脱脂綿さんが今後成し遂げたい事を探している話と、&quot;成し遂げたい事&quot;そのものについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  59:15 技術の知識量について、ひとつの技術を深くやるか、いろんな技術力を手広くやるかの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:03:41 Podcastの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:04:47 脱脂綿さんの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:06:30 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://dassimen-engineer.hatenablog.com/'&gt;dassimen.log&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://qiita.com/advent-calendar/2018/tokiwa'&gt;トキワの森 Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://adventar.org/calendars/2993'&gt;エンジニアの登壇を応援する会 Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://qiita.com/advent-calendar/2018/kuso-app'&gt;クソアプリ Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://adventar.org/calendars/2921'&gt;#セイチョウジャーニー Advent Calendar 2018&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://adventar.org/calendars/3022'&gt;インフラ勉強会のAdvent Calender&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/3068&quot;&gt;Podcaster Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B8%E3%82%AA%E3%82%B7%E3%83%86%E3%82%A3%E3%83%BC%E3%82%BA&quot;&gt;ジオシティーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&quot;&gt;FLASH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%BB%92%E6%AD%B4%E5%8F%B2#%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%BC%E3%83%8D%E3%83%83%E3%83%88%E7%94%A8%E8%AA%9E%E3%81%A8%E3%81%97%E3%81%A6%E3%81%AE%E3%80%8C%E9%BB%92%E6%AD%B4%E5%8F%B2%E3%80%8D&quot;&gt;黒歴史&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%A9%E3%83%83%E3%82%B7%E3%83%A5&quot;&gt;FLASH&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://tokiwanomori.github.io/&quot;&gt;トキワの森&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wp.infra-workshop.tech/&quot;&gt;インフラ勉強会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineers.connpass.com/&quot;&gt;エンジニアの登壇を応援する会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA&quot;&gt;TDD(テスト駆動開発)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9A%E3%82%A2%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0&quot;&gt;ペアプロ(ペアプログラミング)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://speakerdeck.com/takaking22/mob-programming-startup-manual-number-mobprogramming-number-mobupuro&quot;&gt;モブプロ(モブプログラミングスタートアップマニュアル)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/nihonbuson&quot;&gt;ブロッコリーさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/t_wada&quot;&gt;t_wadaさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ajito.fm/&quot;&gt;ajitofm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ajito.fm/6/&quot;&gt;t_wadaさんが出ているajitofm 6: Worse Is Better&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ajito.fm/13/&quot;&gt;t_wadaさんが出ているajitofm 13: Test Driven Development&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ajito.fm/23/&quot;&gt;t_wadaさんが出ているajitofm 23: Effective Presentations&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fortegp05.hatenablog.com/entry/2018/10/10/224851&quot;&gt;仕様ヌケモレによる手戻りとモブプロのお試し&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://fortegp05.hatenablog.com/entry/2018/10/14/231722&quot;&gt;モプブロをやって見た感想。&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://takaking22.com/2018/mobpro-podcast/&quot;&gt;モブプログラミングPodCastツアー #agileradio #omoiyarifm #しがないラジオ #fukabori&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://anchor.fm/nashio&quot;&gt;#成し遂げたいam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/nabe__kurage&quot;&gt;なべくらさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/nabe__kurage&quot;&gt;なべくら&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/higuyume&quot;&gt;KANEさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/chomado&quot;&gt;ちょまどさん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Xamarin&quot;&gt;Xamarin&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://dassimen-engineer.hatenablog.com/&quot;&gt;【告知】脱脂綿さんのブログ dassimen.log&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2018/tokiwa&quot;&gt;【告知】トキワの森 Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/2993&quot;&gt;【告知】エンジニアの登壇を応援する会 Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://qiita.com/advent-calendar/2018/kuso-app&quot;&gt;【告知】クソアプリ Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/2921&quot;&gt;【告知】#セイチョウジャーニー Advent Calendar 2018&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://adventar.org/calendars/3022&quot;&gt;【告知】インフラ勉強会のAdvent Calender&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/5</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20181201_01.mp3" length="48594" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>脱脂綿さん(Twitter：@anchor_cable)と最近プライベートが楽しい話と今後成し遂げたい物を探している事について楽しくお話しました。</itunes:subtitle>
+        <itunes:duration>01:08:59</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>4. くわはらさんと楽しい趣味のお話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/4</link>
+        <pubDate>Fri, 30 Nov 2018 09:10:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:18 くわはらさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:54 Riot.jsについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  17:11 CLI、バッチ処理の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  20:18 Riot本が生える話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  22:33 FreeNAS本書かれたかめねこさんの本を出す意味について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  26:33 ゲームの話、いまでも思い入れがある4本と最初にやったゲーム(スーパーマリオブラザーズ)の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  29:04 スーパーマリオRPGの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  31:30 サガフロンティア1について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  35:45 クロノトリガーについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  43:25 FF9について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  50:00 テイルズ・オブ・ファンタジアについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  53:07 大神について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  54:57 ゲーム以外の趣味について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  56:05 ゲームミュージックについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  58:35 聖剣伝説 LEGEND OF MANAについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:01:34 読書の話、くわはらさんが読んだ本について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:04:10 Podcastの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:06:07 エンディングトーク、Podcast収録してみてどうだった話
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://javascript-fes.doorkeeper.jp/events/81307'&gt;JavaScript祭り&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://giginc.connpass.com/event/105478/'&gt;Ionicで登壇&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='http://kito0039.hatenablog.com/'&gt;Web Developer's Struggle Memories&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://riot.js.org/ja/&quot;&gt;Riot.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/AngularJS&quot;&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Vue.js&quot;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://riot.js.org/made-with-riot/&quot;&gt;Made With Riot&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://hnpwa.com/&quot;&gt;HNPWA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://github.com/jorgebucaran/hyperapp&quot;&gt;Hyperapp&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/kameneko1004&quot;&gt;かめねこさんのTwitter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kameneko.booth.pm/items/1036091&quot;&gt;～お試し版～ 0から始める！簡単！FreeNAS構築チュートリアル！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://kameneko.booth.pm/items/1034744&quot;&gt;0から始める！簡単！FreeNAS構築チュートリアル！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA&quot;&gt;スーパーマリオブラザーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AARPG&quot;&gt;スーパーマリオRPG&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B5%E3%82%AC_%E3%83%95%E3%83%AD%E3%83%B3%E3%83%86%E3%82%A3%E3%82%A2&quot;&gt;サガ フロンティア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%BB%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC&quot;&gt;クロノ・トリガー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A1%E3%82%A4%E3%83%8A%E3%83%AB%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%83%BCIX&quot;&gt;ファイナルファンタジーIX(FF9)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%A4%E3%83%AB%E3%82%BA_%E3%82%AA%E3%83%96_%E3%83%95%E3%82%A1%E3%83%B3%E3%82%BF%E3%82%B8%E3%82%A2&quot;&gt;テイルズ オブ ファンタジア&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%A4%A7%E7%A5%9E&quot;&gt;大神&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88-%E3%82%BD%E3%83%AD%E3%83%BB%E3%82%AE%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B3%E3%83%AC%E3%82%AF%E3%82%B7%E3%83%A7%E3%83%B3%E3%82%BA-%E5%8D%97%E6%BE%A4%E5%A4%A7%E4%BB%8B/dp/B00KLHZYRG&quot;&gt;ドラゴンクエスト/ソロ・ギター・コレクションズ CD(リンク先はAmazon、視聴可能)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.square-enix.co.jp/music/sem/page/sq/&quot;&gt;SQ MUSIC SERIES&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E8%81%96%E5%89%A3%E4%BC%9D%E8%AA%AC_LEGEND_OF_MANA&quot;&gt;聖剣伝説 LEGEND OF MANA&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%9D%B1%E9%87%8E%E5%9C%AD%E5%90%BE&quot;&gt;東野圭吾&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E4%BC%8A%E5%9D%82%E5%B9%B8%E5%A4%AA%E9%83%8E&quot;&gt;伊坂幸太郎&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%90%89%E5%B7%9D%E8%8B%B1%E6%B2%BB&quot;&gt;吉川英治&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%8F%B8%E9%A6%AC%E9%81%BC%E5%A4%AA%E9%83%8E&quot;&gt;司馬遼太郎&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%83%BC%E3%83%AD%E3%83%83%E3%82%AF%E3%83%BB%E3%83%9B%E3%83%BC%E3%83%A0%E3%82%BA&quot;&gt;シャーロック・ホームズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%A8%E3%83%8F%E3%83%B3%E3%83%BB%E3%83%B4%E3%82%A9%E3%83%AB%E3%83%95%E3%82%AC%E3%83%B3%E3%82%B0%E3%83%BB%E3%83%95%E3%82%A9%E3%83%B3%E3%83%BB%E3%82%B2%E3%83%BC%E3%83%86&quot;&gt;ヨハン・ヴォルフガング・フォン・ゲーテ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://javascript-fes.doorkeeper.jp/events/81307&quot;&gt;【告知】JavaScript祭り&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://giginc.connpass.com/event/105478/&quot;&gt;【告知】Ionicで登壇&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kito0039.hatenablog.com/&quot;&gt;【告知】Web Developer’s Struggle Memories(くわはらさんのブログ)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/4</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20181130_01.mp3" length="49925" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>くわはらさん(Twitter：@kuwahara_jsri)の趣味であるRiot.jsやゲーム、読書などについて楽しくお話しました。</itunes:subtitle>
+        <itunes:duration>01:07:25</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>3. くわはらさんと楽しいエンジニアのお話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/3</link>
+        <pubDate>Wed, 28 Nov 2018 01:10:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:15 くわはらさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:19 くわはらさんのエンジニア歴やキッカケなど
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:53 くわはらさんがバスケを大学の&quot;部活&quot;でやっていた話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  04:25 大学で数学をやっていた話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  06:10 フェルマーの最終定理の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  07:36 数&quot;楽&quot;について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  08:45 数学からエンジニアに行った経緯
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  10:12 エンジニアとしての志望理由
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  12:42 そのストイックなまでに成長が好きなのはどこから?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  14:03 最初に学んだプログラム言語やフレームワークについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  15:30 1社目のエンジニア模様と転職するに至った流れ
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  21:30 2社目の話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  22:23 フロントエンドとしてのJavaScriptのお話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  23:34 FORTEが経験したGoogleMapからのツラミ
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  26:16 2社目の業務内容
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  27:05 楽しかった2社目から3社目に行った理由
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  34:37 3社目で実際に働いてみて、学んだことなど
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  42:22 この先やりたかったことと、実際にやっていることについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  51:35 マネジメントに興味を持ったキッカケ
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  53:55 FORTEの想うマネジメントの大事なポイント
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  57:00 エンジニア、マネジメント嫌い問題
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:02:50 Podcastの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:03:52 くわはらさんの告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:05:08 エンディングトーク
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://javascript-fes.doorkeeper.jp/events/81307'&gt;JavaScript祭り&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://giginc.connpass.com/event/105478/'&gt;Ionicで登壇&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='http://kito0039.hatenablog.com/'&gt;Web Developer's Struggle Memories&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yumemi.co.jp/ja&quot;&gt;株式会社ゆめみ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://riot.js.org/ja/&quot;&gt;Riot.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.soka.ac.jp/&quot;&gt;創価大学&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/SLAM_DUNK&quot;&gt;スラムダンク&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%A1%9C%E6%9C%A8%E8%8A%B1%E9%81%93&quot;&gt;スラムダンクの主人公(桜木花道)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%87%E3%83%8B%E3%82%B9%E3%83%BB%E3%83%AD%E3%83%83%E3%83%89%E3%83%9E%E3%83%B3&quot;&gt;デニス・ロッドマン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E8%A4%87%E7%B4%A0%E8%A7%A3%E6%9E%90&quot;&gt;複素解析&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%95%E3%82%A7%E3%83%AB%E3%83%9E%E3%83%BC%E3%81%AE%E6%9C%80%E7%B5%82%E5%AE%9A%E7%90%86&quot;&gt;フェルマーの最終定理&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%B2%A9%E6%BE%A4%E7%90%86%E8%AB%96&quot;&gt;岩澤理論&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/PHP_(%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E8%A8%80%E8%AA%9E)&quot;&gt;PHP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/EC-CUBE&quot;&gt;EC-CUBE&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/JQuery&quot;&gt;jQuery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Backbone.js&quot;&gt;Backbone.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/KnockoutJS&quot;&gt;KnockoutJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/AngularJS&quot;&gt;AngularJS&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Vue.js&quot;&gt;Vue.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://en.wikipedia.org/wiki/React_(JavaScript_library)&quot;&gt;React(英語)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Microsoft_Silverlight&quot;&gt;Microsoft Silverlight&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Adobe_Flash&quot;&gt;Flash(Adobe Flash)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Java%E3%82%A2%E3%83%97%E3%83%AC%E3%83%83%E3%83%88&quot;&gt;Javaアプレット&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/CodeIgniter&quot;&gt;CodeIgniter&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AA%E3%83%96%E3%82%B8%E3%82%A7%E3%82%AF%E3%83%88%E6%8C%87%E5%90%91&quot;&gt;オブジェクト指向&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%A0_(%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA)&quot;&gt;スクラムマスター (スクラム(ソフトウェア開発手法))&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Node.js&quot;&gt;Node.js&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%97%E3%83%AA%E3%82%B1%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%A4%E3%83%B3%E3%82%BF%E3%83%95%E3%82%A7%E3%83%BC%E3%82%B9&quot;&gt;API&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%86%E3%82%B9%E3%83%88%E9%A7%86%E5%8B%95%E9%96%8B%E7%99%BA&quot;&gt;TDD(テスト駆動開発)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%95%E3%83%AD%E3%83%BC%E3%83%81%E3%83%A3%E3%83%BC%E3%83%88&quot;&gt;フローチャート&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%B8%E3%83%A3%E3%82%A4%E3%83%AB%E3%82%BD%E3%83%95%E3%83%88%E3%82%A6%E3%82%A7%E3%82%A2%E9%96%8B%E7%99%BA&quot;&gt;アジャイルソフトウェア開発&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://bizhint.jp/keyword/14197&quot;&gt;サーバントリーダーシップ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.odd-e.jp/ja/team_01/index.html&quot;&gt;江端 一将さん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://www.jp.square-enix.com/tech/openconference/library/2011/dldata/PM/PM.pdf&quot;&gt;FF14のマネジメントの話 ゲーム開発プロジェクトマネジメント講座(PDF資料)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.nicovideo.jp/watch/sm19433622&quot;&gt;FF14のマネジメントの話 ゲーム開発プロジェクトマネジメント講座(動画)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://javascript-fes.doorkeeper.jp/events/81307&quot;&gt;【告知】JavaScript祭り&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://giginc.connpass.com/event/105478/&quot;&gt;【告知】Ionicで登壇&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://kito0039.hatenablog.com/&quot;&gt;【告知】Web Developer’s Struggle Memories(くわはらさんのブログ)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/3</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20181128_01.mp3" length="50043" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>くわはらさん(Twitter：@kuwahara_jsri)とエンジニアについて楽しくお話しました。</itunes:subtitle>
+        <itunes:duration>01:07:09</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>2. じゃれみーさんとゲームの楽しいお話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/2</link>
+        <pubDate>Sun, 25 Nov 2018 16:00:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:21 じゃれみーさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:42 第2回目のテーマについて説明
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:12 じゃれみーさんのゲーム初体験について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  02:52 じゃれみーさんはレトロゲームがお好き
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  03:19 じゃれみー家にあったハードの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  04:19 FORTEのゲーム初体験話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  05:00 他に印象深いファミコンのゲームは「くにおくん」
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  07:10 SFCのドラゴンボールZ 超武闘伝について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  09:45 ドラクエ1、2、3と6について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  10:33 ドラクエ11と10のVer2のオススメ
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  12:33 じゃれみーさんがドラクエ6を好きな理由について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  15:20 ぷよぷよ通の話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  18:03 じゃれみーさんがプレイするゲームのジャンルの話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  18:56 じゃれみーさんが大好きなゲーム、パワポケについて。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  27:10 プロ野球をパワプロっぽくした話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  29:04 新桃太郎伝説について、BGMはサザンのあの人?
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  30:54 最近聞いているゲームミュージック。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  32:29 メガテン3について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  33:30 コナミゲーの曲は名曲が多いと思う話(悪魔城ドラキュラ、スナッチャー、ポリスノーツ)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  34:50 FORTEが好きなゲームミュージックの話(一部)(ロックマン＆フォルテ、クロノトリガー、バーニングフォース、ドラゴンスピリット)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  35:38 じゃれみーさんがスパロボ好きと聞いて、FORTEがガタッとなりスパロボトークへ(MX、Zが中心)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  39:06 Gガンダムの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  44:30 スパロボMX以外の話でスパロボZへ
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  47:20 イデオンの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  49:03 六神合体ゴッドマーズの話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  50:25 スパロボがキッカケ原作見る話と原作見て衝撃を受ける話(ボトムズ、マクロス、ラーゼフォン)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  56:00 ゲーム音楽の話からみんなで決めるゲーム音楽ベスト100で良く出てくる名曲について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  58:49 ソニックについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  59:33 逆転裁判とゴーストトリックについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:02:39 東方について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:04:57 SteamとかPCゲームについて
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:11:26 LoL(リーグ・オブ・レジェンド)について
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:14:34 FORTEのおすすめゲーム、ドラクエ11と10のVer2とFF14はいいぞ
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:15:34 告知
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  1:17:50 エンディングトーク、Podcast出演の感想とじゃれみーさんが感じたPodcastの楽しいところ
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://meuniere.hatenablog.jp/'&gt;むにえる牧場&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%AF%E3%82%A4%E3%83%AF%E3%82%A4%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%892_SOS!!%E3%83%91%E3%82%BB%E3%83%AA%E5%9F%8E&quot;&gt;ワイワイワールド2&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AC%E3%83%BB%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0&quot;&gt;マスターシステム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/PC%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3&quot;&gt;PCエンジン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/3DO&quot;&gt;3DO&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA&quot;&gt;スーパーマリオブラザーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B32_Dr.%E3%83%AF%E3%82%A4%E3%83%AA%E3%83%BC%E3%81%AE%E8%AC%8E&quot;&gt;ロックマン2 Dr.ワイリーの謎&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B34_%E6%96%B0%E3%81%9F%E3%81%AA%E3%82%8B%E9%87%8E%E6%9C%9B!!&quot;&gt;ロックマン4 新たなる野望!!&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%AB%E3%81%8A%E3%81%8F%E3%82%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;くにおくんシリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%81%8F%E3%81%AB%E3%81%8A%E3%81%8F%E3%82%93%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA#%E3%83%80%E3%82%A6%E3%83%B3%E3%82%BF%E3%82%A6%E3%83%B3%E7%86%B1%E8%A1%80%E7%89%A9%E8%AA%9E&quot;&gt;ダウンダウン熱血物語&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%83%9C%E3%83%BC%E3%83%ABZ_%E8%B6%85%E6%AD%A6%E9%97%98%E4%BC%9D&quot;&gt;ドラゴンボールZ 超武闘伝&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88I%E3%83%BBII&quot;&gt;ドラゴンクエストI・II&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%AF%E3%82%A8%E3%82%B9%E3%83%88III_%E3%81%9D%E3%81%97%E3%81%A6%E4%BC%9D%E8%AA%AC%E3%81%B8%E2%80%A6#%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%95%E3%82%A1%E3%83%9F%E3%82%B3%E3%83%B3%E7%89%88&quot;&gt;ドラゴンクエストIII そして伝説へ… SFC版&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%97%E3%83%AD%E3%82%AF%E3%83%B3%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;パワプロクンポケットシリーズ(パワポケ)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%AE%9F%E6%B3%81%E3%83%91%E3%83%AF%E3%83%95%E3%83%AB%E3%83%97%E3%83%AD%E9%87%8E%E7%90%83&quot;&gt;実況パワフルプロ野球(パワプロ)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;http://nlab.itmedia.co.jp/nl/articles/1810/21/news002.html&quot;&gt;「テロップは全て人力でした」　史上初の「パワプロ風野球中継」　実現の陰にあった3つの壁とパワプロ愛&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%96%B0%E6%A1%83%E5%A4%AA%E9%83%8E%E4%BC%9D%E8%AA%AC&quot;&gt;新桃太郎伝説&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%9B%AE%E9%BB%92%E5%B0%86%E5%8F%B8&quot;&gt;ペルソナシリーズのサウンドコンポーザーで有名な目黒将司さん&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%9C%9F%E3%83%BB%E5%A5%B3%E7%A5%9E%E8%BB%A2%E7%94%9FIII-NOCTURNE&quot;&gt;真・女神転生III-NOCTURNE(メガテン3)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%82%AA%E9%AD%94%E5%9F%8E%E3%83%89%E3%83%A9%E3%82%AD%E3%83%A5%E3%83%A9&quot;&gt;悪魔城ドラキュラ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%8A%E3%83%83%E3%83%81%E3%83%A3%E3%83%BC&quot;&gt;スナッチャー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%AA%E3%82%B9%E3%83%8E%E3%83%BC%E3%83%84&quot;&gt;ポリスノーツ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%AD%E3%83%83%E3%82%AF%E3%83%9E%E3%83%B3%26%E3%83%95%E3%82%A9%E3%83%AB%E3%83%86&quot;&gt;ロックマン&amp;amp;フォルテ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%AF%E3%83%AD%E3%83%8E%E3%83%BB%E3%83%88%E3%83%AA%E3%82%AC%E3%83%BC&quot;&gt;クロノトリガー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%90%E3%83%BC%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%95%E3%82%A9%E3%83%BC%E3%82%B9&quot;&gt;バーニングフォース(ステージ1 Bay Yardが良い)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%A9%E3%82%B4%E3%83%B3%E3%82%B9%E3%83%94%E3%83%AA%E3%83%83%E3%83%88&quot;&gt;ドラゴンスピリット&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6MX&quot;&gt;スパロボMX&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E7%AC%AC3%E6%AC%A1%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6Z&quot;&gt;スパロボ第三次Z&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%A9%9F%E5%8B%95%E6%AD%A6%E9%97%98%E4%BC%9DG%E3%82%AC%E3%83%B3%E3%83%80%E3%83%A0&quot;&gt;機動武闘伝Gガンダム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88%E5%A4%A7%E6%88%A6Z&quot;&gt;スーパーロボット大戦Z&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E4%BC%9D%E8%AA%AC%E5%B7%A8%E7%A5%9E%E3%82%A4%E3%83%87%E3%82%AA%E3%83%B3&quot;&gt;伝説巨神イデオン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%85%AD%E7%A5%9E%E5%90%88%E4%BD%93%E3%82%B4%E3%83%83%E3%83%89%E3%83%9E%E3%83%BC%E3%82%BA&quot;&gt;六神合体ゴッドマーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%A9%E3%83%BC%E3%82%BC%E3%83%95%E3%82%A9%E3%83%B3&quot;&gt;ラーゼフォン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E5%86%A5%E7%8E%8B%E8%A8%88%E7%94%BB%E3%82%BC%E3%82%AA%E3%83%A9%E3%82%A4%E3%83%9E%E3%83%BC&quot;&gt;冥王計画ゼオライマー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%96%AC%E9%AD%94%E5%A4%A7%E8%81%96%E3%83%87%E3%83%A2%E3%83%B3%E3%83%99%E3%82%A4%E3%83%B3&quot;&gt;斬魔大聖デモンベイン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www21.atwiki.jp/gamemusicbest100/&quot;&gt;みんなで決めるゲーム音楽ベスト100&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC&quot;&gt;ソニックアドベンチャー(Escape from the Cityがオススメ)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%BD%E3%83%8B%E3%83%83%E3%82%AF_%E3%83%AF%E3%83%BC%E3%83%AB%E3%83%89%E3%82%A2%E3%83%89%E3%83%99%E3%83%B3%E3%83%81%E3%83%A3%E3%83%BC&quot;&gt;ソニックワールドアドベンチャー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E9%80%86%E8%BB%A2%E8%A3%81%E5%88%A4&quot;&gt;逆転裁判シリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B4%E3%83%BC%E3%82%B9%E3%83%88%E3%83%88%E3%83%AA%E3%83%83%E3%82%AF&quot;&gt;ゴーストトリック&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E6%9D%B1%E6%96%B9Project&quot;&gt;東方Project&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Steam&quot;&gt;Steam&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Factorio&quot;&gt;Factorio&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.yumemi.co.jp/ja/news/2018/181107_recruit03game&quot;&gt;株式会社ゆめみ(ゲーム採用)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/&quot;&gt;Steamのゲーム&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/753420/Dungreed/?l=japanese&quot;&gt;Dungreed&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Fallout_4&quot;&gt;Fallout 4&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://store.steampowered.com/app/413150/Stardew_Valley/?l=japanese&quot;&gt;Stardew Valley&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/League_of_Legends&quot;&gt;League of Legends(LoL)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://meuniere.hatenablog.jp/&quot;&gt;【告知】じゃれみーさんのBlog　むにえる牧場&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/2</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20181125_01.mp3" length="59458" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>じゃれみーさん(Twitter：@Dhj_NF)と趣味であるゲームについて楽しくお話しました。</itunes:subtitle>
+        <itunes:duration>01:20:46</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>1. ITエンジニアのお仕事やTwitter転職の楽しいお話。</title>
+        <link>https://fortegp05.github.io/aozorafm/episode/1</link>
+        <pubDate>Sun, 18 Nov 2018 00:00:00 +0900</pubDate>
+        <description>
+
+          &lt;h2&gt;チャプター&lt;/h2&gt;
+          &lt;ul&gt;
+            
+              
+              &lt;li&gt;
+                  00:00 オープニング
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:15 じゃれみーさんの自己紹介
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  00:39 じゃれみーさんの大学の話し
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  04:59 大学で学んだゲーム関連の話し
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  07:16 大学で学んだ人間工学(UIとかの話)
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  10:45 サークルでのゲーム開発と就職活動で自作ゲーム(スネークゲーム)を見せた話
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  16:21 1社目、ゲーム開発会社でのお仕事について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  23:18 1回目の転職の話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  26:54 2社目、SES企業でのお仕事について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  32:54 JavaScriptツライ問題について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  34:39 ネットに繋がるなどの基本的人権について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  36:20 『楽しい事』Twitter転職について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  42:23 転職で成し遂げたいこととアジャイルやウォーターフォールの話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  47:37 エンジニア、マネジメントやりたくない問題について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  51:54 「改善」しようとして「越境」できなかった話。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  53:38 勉強していることや参加しているコミュニティ、登壇について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  57:31 Twitter転職で使ったハッシュタグと、注意点やポイントについて。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:01:27 Twitter転職で声をかけてもらった企業について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:02:51 自分の市場価値について。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:04:36 じゃれみーさんのTwitterアイコンについて。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:07:09 告知。
+              &lt;/li&gt;
+            
+              
+              &lt;li&gt;
+                  01:10:37 エンディング、初めてのPodcastは出演はどうだった?
+              &lt;/li&gt;
+            
+          &lt;/ul&gt;
+          
+          &lt;h2&gt;ゲストからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://meuniere.hatenablog.jp/'&gt;むにえる牧場&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+
+          &lt;h2&gt;FORTEからの告知&lt;/h2&gt;
+          &lt;ul&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://twitter.com/search?f=tweets&amp;vertical=default&amp;q=%23%E3%81%AF%E3%81%98%E3%82%81%E3%82%8B%E6%8A%80%E8%A1%93%E3%81%A4%E3%81%A5%E3%81%91%E3%82%8B%E6%8A%80%E8%A1%93&amp;src=typd'&gt;「はじめる技術 つづける技術」&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://fortegp05.hatenablog.com/entry/2019/01/07/221830'&gt;「すぱきゃす」への参加募集!&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='https://poiit.me/FORTEgp05'&gt;poiit&lt;/a&gt;
+            &lt;/li&gt;
+          
+            
+            &lt;li&gt;
+              &lt;a href='/images/kyash_qr_fortegp05.JPG'&gt;Kyashでも支援募集中!&lt;/a&gt;
+            &lt;/li&gt;
+          
+          &lt;/ul&gt;
+          
+          &lt;h2 id=&quot;関連リンク&quot;&gt;関連リンク&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.teu.ac.jp/&quot;&gt;東京工科大学&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%9D%E3%83%B3_(%E3%82%B2%E3%83%BC%E3%83%A0)&quot;&gt;アタリ　ポン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%A2%E3%82%BF%E3%83%AA%E3%82%B7%E3%83%A7%E3%83%83%E3%82%AF&quot;&gt;アタリショック&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%98%E3%83%93%E3%82%B2%E3%83%BC%E3%83%A0&quot;&gt;スネークゲーム(ヘビゲーム)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/Apache_Cordova&quot;&gt;Apache Cordova&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://techbookfest.org/event/tbf05&quot;&gt;技術書典5&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://booth.pm/ja/items/1038004&quot;&gt;完全SIer脱出マニュアル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/dp/B00J1XKB6K/&quot;&gt;アジャイルサムライ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.amazon.co.jp/%E3%82%AB%E3%82%A4%E3%82%BC%E3%83%B3%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%BC%E3%83%8B%E3%83%BC-%E3%81%9F%E3%81%A3%E3%81%9F1%E4%BA%BA%E3%81%8B%E3%82%89%E3%81%AF%E3%81%98%E3%82%81%E3%81%A6%E3%80%81%E3%80%8C%E8%B6%8A%E5%A2%83%E3%80%8D%E3%81%99%E3%82%8B%E3%83%81%E3%83%BC%E3%83%A0%E3%82%92%E3%81%A4%E3%81%8F%E3%82%8B%E3%81%BE%E3%81%A7-%E5%B8%82%E8%B0%B7-%E8%81%A1%E5%95%93/dp/4798153346&quot;&gt;カイゼンジャーニー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://booth.pm/ja/items/1038923&quot;&gt;セイチョウ・ジャーニー(PDF版)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://shu-1blog.com/&quot;&gt;週1でブログ更新する会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://engineers.connpass.com/&quot;&gt;エンジニアの登壇を応援する会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://wp.infra-workshop.tech/&quot;&gt;インフラ勉強会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/search?q=%23hiyokonitsuduke&amp;amp;src=tyah&quot;&gt;#hiyokonitsuduke&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AF%E3%83%97%E3%83%AD%E3%82%AF%E3%83%B3%E3%83%9D%E3%82%B1%E3%83%83%E3%83%88%E3%82%B7%E3%83%AA%E3%83%BC%E3%82%BA&quot;&gt;パワポケシリーズ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%A9%E3%83%95%E3%83%88&quot;&gt;スタークラフト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://meuniere.hatenablog.jp/&quot;&gt;【告知】じゃれみーさんのBlog　むにえる牧場&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://takattata.github.io/deployfm/&quot;&gt;感想がコンバージョンしたPodcast　deploy.fm&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+
+        </description>
+        <guid isPermaLink="true">https://fortegp05.github.io/aozorafm/episode/1</guid>
+        <enclosure url="https://fortegp05.github.io/aozorafm/audio/aozorafm_20181118_01.mp3" length="0" type="audio/mp3"/>
+        <itunes:author>FORTE</itunes:author>
+        <itunes:subtitle>じゃれみーさん(Twitter：@Dhj_NF)とITエンジニアのお仕事やTwitter転職について楽しくお話しました。</itunes:subtitle>
+        <itunes:duration>01:12:29</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://fortegp05.github.io/aozorafm/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>

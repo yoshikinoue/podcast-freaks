@@ -1,0 +1,319 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2full.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.rubyist.club/~d/styles/itemcontent.css"?><rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:feedpress="http://feedpress.it/xmlns" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+  <channel>
+    
+    <title>rubyist.club</title>
+    <description>Rubyの周辺の技術やRubyコミュニティについて話すPodcastです。</description>
+    <generator>Jekyll</generator>
+    <link>https://rubyist.club</link>
+    <itunes:author>Michiaki Ariga</itunes:author>
+    <itunes:explicit>no</itunes:explicit>
+    <itunes:image href="http://rubyist.club/img/itunes-cover.jpg" />
+    <itunes:keywords>ruby,rubyist,rails,software engineering,tech</itunes:keywords>
+    <itunes:subtitle>Podcast for Rubyist by chezou</itunes:subtitle>
+    <itunes:summary>Rubyの周辺の技術やRubyコミュニティについて話すPodcastです。</itunes:summary>
+    <itunes:category text="Technology" />
+    <itunes:new-feed-url>http://feeds.rubyist.club/rubyistclub</itunes:new-feed-url>&gt;
+    <itunes:owner>
+      <itunes:name>chezou</itunes:name>
+      <itunes:email>chezou@gmail.com</itunes:email>
+    </itunes:owner>
+    
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.rubyist.club/rubyistclub" /><feedburner:info uri="rubyistclub" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><item>
+      <title>11: Translating is the best way to master a programming language (_ko1, yotii23, 1syo)</title>
+      <description>&lt;p&gt;&lt;a class="external" target="_blank" href="https://twitter.com/_ko1"&gt;@_ko1&lt;/a&gt;さん、&lt;a class="external" target="_blank" href="https://twitter.com/yotii23"&gt;@yotii23&lt;/a&gt;さん、&lt;a class="external" target="_blank" href="https://twitter.com/1syo"&gt;@1syo&lt;/a&gt;さんをゲストに、本の翻訳について話しました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://rubykaigi.org/2016/presentations/ko1.html"&gt;A proposal of new concurrency model for Ruby 3 - RubyKaigi 2016&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.atdot.net/~ko1/diary/201609.html#d6"&gt;だいありー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://rebuild.fm/158/"&gt;Rebuild: 158: Kill All The Threads (ko1, Matz)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://elixir-lang.org/"&gt;Elixir&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/2gtWTBW"&gt;プログラミングElixir&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://pragdave.me/"&gt;PragDave:&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/2gu1i7Y"&gt;ルビィのぼうけん こんにちは! プログラミング&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/2fr0lbq"&gt;プロフェッショナルのための 実践Heroku入門&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/2fNZ1Cq"&gt;すごいHaskellたのしく学ぼう！&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://magazine.rubyist.net/?0054-ElixirBook"&gt;Rubyist Magazine - 書籍紹介「プログラミング Elixir」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://pragprog.com/book/elixir13/programming-elixir-1-3"&gt;Programming Elixir 1.3&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/2ghTKl1"&gt;オブジェクト指向入門 第2版 原則・コンセプト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://deviceplus.jp/people/scratch_01/"&gt;Scratch普及のリーダー・阿部和広さんインタビュー 前編&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.nhk.or.jp/gijutsu/programming/"&gt;Why!?プログラミング&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://event.shoeisha.jp/special/20160730/"&gt;絵本で学ぶはじめてのプログラミング！親子のための「ルビィのぼうけん」ワークショップ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.ponylang.org/"&gt;Pony - High Performance Actor Programming&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://twitter.com/kohsei/status/778046914667302912"&gt;『ルビィのぼうけん　コンピューターの国のルビィ』&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/rubyistclub/~4/baAl3ponMto" height="1" width="1" alt=""/&gt;</description>
+      <link>http://feeds.rubyist.club/~r/rubyistclub/~3/baAl3ponMto/11</link>
+      <pubDate>Wed, 23 Nov 2016 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://rubyist.club/11</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@_ko1 さん、@yotii23 さん、@1syoさんをゲストに、本の翻訳について話しました</itunes:subtitle>
+      <itunes:duration>01:34:38</itunes:duration>
+      
+    <feedburner:origLink>https://rubyist.club/11</feedburner:origLink><enclosure url="http://feeds.rubyist.club/~r/rubyistclub/~5/xnTDwkyjN9s/rubyist_club_ep11.mp3" length="45425056" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyist.club/audio/rubyist_club_ep11.mp3</feedburner:origEnclosureLink></item>
+    
+    <item>
+      <title>10: Go your way (mirakui)</title>
+      <description>&lt;p&gt;&lt;a class="external" target="_blank" href="https://twitter.com/mirakui"&gt;@mirakui&lt;/a&gt;さんをゲストに、VP of Engineeringとしての仕事やマネジメントについて話しました。&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://rebuild.fm/123/"&gt;Rebuild: 123: The Grail Dialogue (Naoya Ito)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://www.coursera.org/learn/machine-learning"&gt;Coursera: Machine Learning&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://randd.kwappa.net/2016/09/01/671"&gt;マネジメントに悩める全てのエンジニアにささげる　伊藤直也の１人CTO Night&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://alice345.hatenablog.com/entry/2016/09/04/100000"&gt;クックパッドサマーインターンシップ2016に参加した&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://www.hotpepper.jp/mesitsu/entry/1508038"&gt;あの石黒浩教授にサシ飲みインタビュー！ ロボット社会における食の未来はどうなる？&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;h1 id="収録機材"&gt;収録機材&lt;/h1&gt;
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/2bWHBCW"&gt;Shure MV88&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/2bWGYJG"&gt;iPad mini 4 64GB&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/rubyistclub/~4/7siQ9NJBMuI" height="1" width="1" alt=""/&gt;</description>
+      <link>http://feeds.rubyist.club/~r/rubyistclub/~3/7siQ9NJBMuI/10</link>
+      <pubDate>Fri, 09 Sep 2016 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://rubyist.club/10</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@mirakuiさんをゲストに、VP of Engineeringとしての仕事やマネジメントについて話しました。</itunes:subtitle>
+      <itunes:duration>1:36:56</itunes:duration>
+      
+    <feedburner:origLink>https://rubyist.club/10</feedburner:origLink><enclosure url="http://feeds.rubyist.club/~r/rubyistclub/~5/xMrNvn4yS8c/rubyist_club_ep10.mp3" length="46529723" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyist.club/audio/rubyist_club_ep10.mp3</feedburner:origEnclosureLink></item>
+    
+    <item>
+      <title>9: Data Engineer, not Data Scientist (joker1007)</title>
+      <description>&lt;p&gt;&lt;a class="external" target="_blank" href="https://twitter.com/joker1007"&gt;@joker1007&lt;/a&gt;さんに、Data EngineeringとワークフローエンジンRukawaの話を聞きました。&lt;/p&gt;
+
+&lt;h2 id="show-notes"&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://agile.esm.co.jp/news/2015-12-29-rubykaigi2015-drinkup-report.html"&gt;RubyKaigi 2015 Drinkup を開催しました&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/1TaSOdt"&gt;パーフェクトRuby&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/1WuvJZx"&gt;パーフェクトRuby on Rails&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.fluentd.org/"&gt;Fluentd | Open Source Data Collector | Unified Logging Layer&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.embulk.org/docs/"&gt;Embulk&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://aws.amazon.com/jp/datapipeline/"&gt;Amazon Data Pipeline&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://chezou.hatenablog.com/entry/2016/05/05/222046"&gt;データを一箇所に集めることでデータ活用の民主化が進んだ話 - once upon a time,&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/1IL7z4h"&gt;10年戦えるデータ分析入門 SQLを武器にデータ活用時代を生き抜く&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://github.com/kaizenplatform/fluent-plugin-bigquery"&gt;kaizenplatform/fluent-plugin-bigquery&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://qiita.com/joker1007/items/02b334d1cca76fadaf2c"&gt;Ruby製のシンプルなワークフローエンジンRukawaの紹介&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://qiita.com/toyama0919/items/9c9e3fd5c8a92a7b7686"&gt;OSSのワークフローエンジンを使ってみた感想&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://techlife.cookpad.com/entry/2015/06/27/154407"&gt;巨大なバッチを分割して構成する 〜SQLバッチフレームワークBricolage〜&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://medium.com/airbnb-engineering/reair-easy-to-use-tools-for-migrating-and-replicating-petabyte-scale-data-warehouses-5153f8a433da#.go9kh4avw"&gt;ReAir: Easy-to-Use Tools for Migrating and Replicating Petabyte-Scale Data Warehouses&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/rubyistclub/~4/zpMqC5lPxd8" height="1" width="1" alt=""/&gt;</description>
+      <link>http://feeds.rubyist.club/~r/rubyistclub/~3/zpMqC5lPxd8/9</link>
+      <pubDate>Tue, 24 May 2016 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://rubyist.club/9</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@joker1007さんにData EngineeringとワークフローエンジンRukawaの話を聞きました</itunes:subtitle>
+      <itunes:duration>1:19:17</itunes:duration>
+      
+    <feedburner:origLink>https://rubyist.club/9</feedburner:origLink><enclosure url="http://feeds.rubyist.club/~r/rubyistclub/~5/BO9ef2DsL9Y/rubyist_club_ep09.mp3" length="38053092" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyist.club/audio/rubyist_club_ep09.mp3</feedburner:origEnclosureLink></item>
+    
+    <item>
+      <title>8: [Mini] Free Wi-Fi like Aether</title>
+      <description>&lt;p&gt;iOSに指すだけのマイクSHURE MV88を使って、はじめての海外収録を Dublin からお届けします。
+音量が小さくて聞き苦しい等あるかもしれませんが、ご了承下さい。&lt;/p&gt;
+
+&lt;h2 id="show-notes"&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/1TzoEF4"&gt;SHURE 「MV88」 iOSデジタル・ステレオ・コンデンサー・マイクロホン&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://www.instagram.com/p/BCp5-ilgd1r/"&gt;キルメイナム刑務所&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://www.instagram.com/p/BCkTsdLgd0B/"&gt;Irish breakfast&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://www.instagram.com/p/BCkmKx2gdyk/"&gt;Runestoneで名前を書いてみよう！のコーナー&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/rubyistclub/~4/PQj7oU2CHJc" height="1" width="1" alt=""/&gt;</description>
+      <link>http://feeds.rubyist.club/~r/rubyistclub/~3/PQj7oU2CHJc/8</link>
+      <pubDate>Tue, 08 Mar 2016 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://rubyist.club/8</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>iOSに指すだけのマイクSHURE MV88を使って、はじめての海外収録を Dublin からお届けします</itunes:subtitle>
+      <itunes:duration>15:14</itunes:duration>
+      
+    <feedburner:origLink>https://rubyist.club/8</feedburner:origLink><enclosure url="http://feeds.rubyist.club/~r/rubyistclub/~5/w252Xbv3Z_4/rubyist_club_ep08.mp3" length="7313030" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyist.club/audio/rubyist_club_ep08.mp3</feedburner:origEnclosureLink></item>
+    
+    <item>
+      <title>7: We're rebuild children (h13i32maru)</title>
+      <description>&lt;p&gt;&lt;a class="external" target="_blank" href="https://twitter.com/h13i32maru"&gt;@h13i32maru&lt;/a&gt; さんに Podcast に対する想いについて聞きました。&lt;/p&gt;
+
+&lt;h2 id="show-notes"&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://codelunch.fm/"&gt;CodeLunch.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://blog.h13i32maru.jp/entry/2013/12/15/225745"&gt;rebuild.fmに憧れてCode Lunchという技術系ポッドキャストを録ってみました - maru source&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://codelunch.fm/12/"&gt;DoroidKaigi Inside Story by Speaker | CodeLunch.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://codelunch.fm/14/"&gt;Image of Neural Network | CodeLunch.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://chibicode.com/nhk-dilemma/"&gt;「ニッポンのジレンマ」元日スペシャルに出たとき、カンペに書かれていたこと | 上杉周作&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://rebuild.fm/114/"&gt;Rebuild: 114: Rebuildersland (Shu Uesugi)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://github.com/h13i32maru/codelunch"&gt;h13i32maru/codelunch&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://twitter.com/miyagawa/status/680638174754770945"&gt;“Pagination is available, finally. #rebuildfm”&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://codelunch.fm/17/"&gt;The power-assert Goes To The Next Scene | CodeLunch.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://help.github.com/articles/what-is-my-disk-quota/"&gt;What is my disk quota?&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://help.github.com/articles/working-with-large-files/"&gt;Working with large files&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/1kkz8IV"&gt;Blue Micro Yeti USB 2.0マイク&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://backspace.fm/episode/126/"&gt;#126: ニッポン放送からよっぴーさん参上！ – backspace.fm&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://www.indiegogo.com/projects/dot-world-s-smallest-bluetooth-headset"&gt;Dot - Worlds Smallest Bluetooth Headset | Indiegogo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://regional.rubykaigi.org/kana01/"&gt;神奈川Ruby会議01&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://techbooster.github.io/c89/"&gt;C89 3日目(2015/12/31)東シ58a | TechBooster&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://techlife.cookpad.com/entry/2015/12/22/100000"&gt;ESDoc - The Good Documentation For JavaScript - クックパッド開発者ブログ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://doc.esdoc.org/"&gt;ESDoc Hosting Service&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/rubyistclub/~4/hmGaEJ86ebQ" height="1" width="1" alt=""/&gt;</description>
+      <link>http://feeds.rubyist.club/~r/rubyistclub/~3/hmGaEJ86ebQ/7</link>
+      <pubDate>Sat, 26 Dec 2015 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://rubyist.club/7</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@h13i32maru さんに Podcast に対する想いについて聞きました</itunes:subtitle>
+      <itunes:duration>1:09:30</itunes:duration>
+      
+    <feedburner:origLink>https://rubyist.club/7</feedburner:origLink><enclosure url="http://feeds.rubyist.club/~r/rubyistclub/~5/SDp8L2FuZCU/rubyist_club_ep07.mp3" length="33357112" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyist.club/audio/rubyist_club_ep07.mp3</feedburner:origEnclosureLink></item>
+    
+    <item>
+      <title>6: Communication in English, Japanese and Ruby (kon_yu)</title>
+      <description>&lt;p&gt;&lt;a class="external" target="_blank" href="https://twitter.com/kon_yu"&gt;@kon_yu&lt;/a&gt; さんに スタートアップでの CTO の話を聞きました。&lt;/p&gt;
+
+&lt;h2 id="show-notes"&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.best-teacher-inc.com/"&gt;ベストティーチャー&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://makezine.jp/event/mft2015/"&gt;Maker Faire Tokyo&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://konyu.hatenablog.com/entry/2015/06/07/002822"&gt;おうちハック発表会　LT資料(Roombaでネコを 監視してみた) - コンユウメモ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://artoo.io/"&gt;Artoo - Ruby framework for robotics, physical computing, and the Internet of Things&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.touji-ennichi.com/info/taishktn.htm"&gt;東寺観光案内・講堂立体曼荼羅／帝釈天&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://progit-ja.github.io/"&gt;Pro Git 日本語版電子書籍公開サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/1M3A1lv"&gt;アンダースタンディング コンピュテーション&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://rebuild.fm/98/"&gt;Rebuild: 98: Superhumans Wanted (Naoya Ito)&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://amzn.to/1ipXQal"&gt;世界で闘うプロダクトマネジャーになるための本&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://kuranuki.sonicgarden.jp/2013/04/post-128.html"&gt;セルフマネジメントのレベルと欠かせないスキル 〜 自己組織化されたチームを作るためには&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://www.wantedly.com/projects/27659"&gt;セルフ・マネジメントできる組織を作りたい開発リーダー募集&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.slideshare.net/kon_yu/sierweb-51894411"&gt;SIerからWebエンジニアへの失敗しない転職方法&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/rubyistclub/~4/_9n5qlIyQ3c" height="1" width="1" alt=""/&gt;</description>
+      <link>http://feeds.rubyist.club/~r/rubyistclub/~3/_9n5qlIyQ3c/6</link>
+      <pubDate>Sun, 06 Sep 2015 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://rubyist.club/6</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@kon_yu さんに スタートアップでの CTO の話を聞きました</itunes:subtitle>
+      <itunes:duration>1:33:01</itunes:duration>
+      
+    <feedburner:origLink>https://rubyist.club/6</feedburner:origLink><enclosure url="http://feeds.rubyist.club/~r/rubyistclub/~5/TSkF68KaqBM/rubyist_club_ep06.mp3" length="44646190" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyist.club/audio/rubyist_club_ep06.mp3</feedburner:origEnclosureLink></item>
+    
+    <item>
+      <title>5: Searching for Ruby friends (yucao24hours)</title>
+      <description>&lt;p&gt;&lt;a class="external" target="_blank" href="https://twitter.com/yucao24hours"&gt;@yucao24hours&lt;/a&gt; さんに、初心者向けのRubyistコミュニティよちよち.rbの話を聞きました。&lt;/p&gt;
+
+&lt;p&gt;録音の関係で音声が二重に聞こえる部分があります。予めご了承下さい。&lt;/p&gt;
+
+&lt;h2 id="show-notes"&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://github.com/yochiyochirb/meetups"&gt;yochiyochirb/meetups&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://kaja.rubyist.net/2014/kaja"&gt;Ruby Kaja 2014&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.yucao24hours.me/2015/04/06/notification-for-yochiyochirb/"&gt;よちよち.rb の活動方針変更に関してのお知らせ&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://local-community-summit.doorkeeper.jp/events/22821"&gt;LOCAL Community Summit 2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.slideshare.net/yucatoyucato/local-48198792"&gt;Introduction of Yochiyochi.rb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://idobata.io/"&gt;Idobata&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.nintendo.co.jp/wiiu/agmj/"&gt;Splatoon（スプラトゥーン）&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.nintendo.co.jp/3ds/bfwj/"&gt;ファイアーエムブレムif&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.nintendo.co.jp/3ds/interview/bfwj/vol1/"&gt;社長が訊く『ファイアーエムブレムif』&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://magazine.rubyist.net/?0043-CodePuzzle"&gt;Ruby でナゾ解き？ 任天堂 Code Puzzle 解説＆裏話&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://twitter.com/mametter"&gt;Yusuke Endoh(@mametter)&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/rubyistclub/~4/bt6YJ2KPnjY" height="1" width="1" alt=""/&gt;</description>
+      <link>http://feeds.rubyist.club/~r/rubyistclub/~3/bt6YJ2KPnjY/5</link>
+      <pubDate>Sat, 27 Jun 2015 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://rubyist.club/5</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@yucao24hours さんに聞く よちよち.rb の話</itunes:subtitle>
+      <itunes:duration>51:58</itunes:duration>
+      
+    <feedburner:origLink>https://rubyist.club/5</feedburner:origLink><enclosure url="http://feeds.rubyist.club/~r/rubyistclub/~5/3-BSGOSvnJ8/rubyist_club_ep05.mp3" length="24946728" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyist.club/audio/rubyist_club_ep05.mp3</feedburner:origEnclosureLink></item>
+    
+    <item>
+      <title>4: Why did I become Gopher? (bash0C7, miyohide)</title>
+      <description>&lt;p&gt;前回に引き続き、 &lt;a class="external" target="_blank" href="https://twitter.com/miyohide"&gt;@miyohide&lt;/a&gt; さんと &lt;a class="external" target="_blank" href="https://twitter.com/bash0C7"&gt;@bash0C7&lt;/a&gt; さんに業務知識の話とGopherくん、そしてGolangへの愛を語ってもらいました&lt;/p&gt;
+
+&lt;h2 id="show-notes"&gt;Show Notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://bash0c7.hatenablog.com/entry/2014/12/31/212308"&gt;#C87 でGolangのマスコット「Gopher」のコスプレした人がいた件の詳細まとめ - id:bash0C7の進捗&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/rubyistclub/~4/ZcpOncSlz6E" height="1" width="1" alt=""/&gt;</description>
+      <link>http://feeds.rubyist.club/~r/rubyistclub/~3/ZcpOncSlz6E/4</link>
+      <pubDate>Fri, 08 May 2015 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://rubyist.club/4</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@miyohide さんと聞く @bash0C7 さんに業務知識の話とGopherくんへの愛</itunes:subtitle>
+      <itunes:duration>45:03</itunes:duration>
+      
+    <feedburner:origLink>https://rubyist.club/4</feedburner:origLink><enclosure url="http://feeds.rubyist.club/~r/rubyistclub/~5/w53HFJ1mgrE/rubyist_club_ep04.mp3" length="21622908" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyist.club/audio/rubyist_club_ep04.mp3</feedburner:origEnclosureLink></item>
+    
+    <item>
+      <title>3: Toward the summit of "SE" (bash0C7, miyohide)</title>
+      <description>&lt;p&gt;&lt;a class="external" target="_blank" href="https://twitter.com/miyohide"&gt;@miyohide&lt;/a&gt; さんと一緒に &lt;a class="external" target="_blank" href="https://twitter.com/bash0C7"&gt;@bash0C7&lt;/a&gt; さんにロックスターへのあこがれと"SE"を極める話ををお聞きしました。
+予想以上に盛り上がったため、前後編でお送りします。&lt;/p&gt;
+
+&lt;h2 id="show-notes"&gt;Show notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://inside.pixiv.net/entry/2014/11/14/161934"&gt;RubyWorld Conference 2014で「楽しい」を支える広告配信システム開発の講演をしました #rubyworld - pixiv engineering blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://inside.pixiv.net/entry/2014/11/12/123744"&gt;渋谷Ruby会議01でキーノートを務めました #428rk01 - pixiv engineering blog&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://speakerdeck.com/naoya/watasifalsekiyariatienzi-jia"&gt;わたしのキャリアチェンジ (仮) // Speaker Deck&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.atmarkit.co.jp/ait/articles/1409/01/news007.html"&gt;マイナビ転職×＠IT自分戦略研究所 「キャリアアップ 転職体験談」：第31回　PMへの道を避けたエンジニアの今――ハックを尊ぶ社風が育む働きやすさとは - ＠IT&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/rubyistclub/~4/V1NrqZNsY-Y" height="1" width="1" alt=""/&gt;</description>
+      <link>http://feeds.rubyist.club/~r/rubyistclub/~3/V1NrqZNsY-Y/3</link>
+      <pubDate>Mon, 04 May 2015 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://rubyist.club/3</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@miyohide さんと一緒に @bash0C7 さんにロックスターへのあこがれと"SE"を極める話をお聞きしました</itunes:subtitle>
+      <itunes:duration>01:02:11</itunes:duration>
+      
+    <feedburner:origLink>https://rubyist.club/3</feedburner:origLink><enclosure url="http://feeds.rubyist.club/~r/rubyistclub/~5/cEjQNGyPB_c/rubyist_club_ep03.mp3" length="29844792" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyist.club/audio/rubyist_club_ep03.mp3</feedburner:origEnclosureLink></item>
+    
+    <item>
+      <title>2: Just keep swimming (yumu19)</title>
+      <description>&lt;p&gt;&lt;a class="external" target="_blank" href="https://twitter.com/yumu19"&gt;@yumu19&lt;/a&gt; さんに環境を変える事、地方、コミュニティ運営の話を聞きました&lt;/p&gt;
+
+&lt;h2 id="show-notes"&gt;Show notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.slideshare.net/TsubasaYumura/kana01"&gt;My Cross the Border #kana01&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://tokyo.spaceappschallenge.org/"&gt;International Space Apps Challenge｜NASA主催の世界同時ハッカソン、東京大会 公式サイト&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://interphenom.com/"&gt;Listnr - interphenom&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://ipsj.ixsq.nii.ac.jp/ej/index.php?active_action=repository_view_main_item_detail&amp;amp;page_id=13&amp;amp;block_id=8&amp;amp;item_id=98620&amp;amp;item_no=1"&gt;serverspec: 宣言的記述でサーバの状態をテスト可能な汎用性の高いテストフレームワーク&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://research.google.com/pubs/pub43146.html"&gt;Machine Learning: The High Interest Credit Card of Technical Debt&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://yumulog.hatenablog.com/entry/2015/04/01/011444"&gt;まだ東京で消耗してるの？ - yumulog | 社会人博士の日記&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://niconicogakkai.tumblr.com/"&gt;ニコニコ学会β&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.pycon.jp/foundation.html"&gt;一般社団法人 PyCon JP 設立のお知らせ — PyCon JP&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://yapcasia.org/2015/"&gt;YAPC::Asia Tokyo 2015&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://www.amazon.co.jp/gp/product/4873114950?ie=UTF8&amp;amp;camp=1207&amp;amp;creative=8411&amp;amp;creativeASIN=4873114950&amp;amp;linkCode=shr&amp;amp;tag=chezou-22"&gt;アート・オブ・コミュニティ&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/rubyistclub/~4/lGcGWfwVADQ" height="1" width="1" alt=""/&gt;</description>
+      <link>http://feeds.rubyist.club/~r/rubyistclub/~3/lGcGWfwVADQ/2</link>
+      <pubDate>Mon, 20 Apr 2015 00:00:00 +0900</pubDate>
+      <guid isPermaLink="false">https://rubyist.club/2</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@yumu19 さんに環境を変える事、地方、コミュニティ運営の話を聞きました</itunes:subtitle>
+      <itunes:duration>01:24:21</itunes:duration>
+      
+    <feedburner:origLink>https://rubyist.club/2</feedburner:origLink><enclosure url="http://feeds.rubyist.club/~r/rubyistclub/~5/0tXxdRVQLeM/rubyist_club_ep02.mp3" length="40486451" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyist.club/audio/rubyist_club_ep02.mp3</feedburner:origEnclosureLink></item>
+    
+    <item>
+      <title>1: Why Do We Run? (miyohide)</title>
+      <description>&lt;p&gt;&lt;a class="external" target="_blank" href="https://twitter.com/miyohide"&gt;@miyohide&lt;/a&gt; さんと神奈川 Ruby 会議 01 の振り返りをしました。&lt;/p&gt;
+
+&lt;h2 id="show-notes"&gt;Show notes&lt;/h2&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="https://yokohamarb.doorkeeper.jp/"&gt;Yokohama.rb&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://regional.rubykaigi.org/kana01/"&gt;神奈川Ruby会議01&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://regional.rubykaigi.org/minato01"&gt;みなとRuby会議01&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://regional.rubykaigi.org/kana01/contents/02_pair_programing.html"&gt;ペアプロ大会&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://nabetani.sakura.ne.jp/kanagawa.rb/evalex/"&gt;遠い世界の数式&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://regional.rubykaigi.org/kana01/contents/04_how_to_be_a_rubyist_2015.html"&gt;2015年版Rubyist入門&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://regional.rubykaigi.org/kana01/contents/08_talk_session.html"&gt;トークセッション「Rubyと俺達の生存戦略」&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;a class="external" target="_blank" href="http://magazine.rubyist.net/?0039-ForeWord"&gt;Rubyist Magazine - 0039 号 巻頭言&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;img src="http://feeds.feedburner.com/~r/rubyistclub/~4/EppbJ6AwRIo" height="1" width="1" alt=""/&gt;</description>
+      <link>http://feeds.rubyist.club/~r/rubyistclub/~3/EppbJ6AwRIo/1</link>
+      <pubDate>Mon, 02 Mar 2015 01:48:00 +0900</pubDate>
+      <guid isPermaLink="false">https://rubyist.club/1</guid>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:subtitle>@miyohide さんと神奈川 Ruby 会議 01 の振り返りをしました。</itunes:subtitle>
+      <itunes:duration>1:10:05</itunes:duration>
+      
+    <feedburner:origLink>https://rubyist.club/1</feedburner:origLink><enclosure url="http://feeds.rubyist.club/~r/rubyistclub/~5/-dt3ftFeRco/rubyist_club_ep01.mp3" length="33647500" type="audio/mpeg" /><feedburner:origEnclosureLink>http://rubyist.club/audio/rubyist_club_ep01.mp3</feedburner:origEnclosureLink></item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,139 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:230928617/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:230928617/sounds.rss?before=268976292" rel="next" type="application/rss+xml"/>
+        <title>かまぷとゆうこのデベロッパーズ☆ラジオ</title>
+        <link>http://codezine.jp/article/corner/650</link>
+        <pubDate>Tue, 06 Feb 2018 02:15:10 +0000</pubDate>
+        <lastBuildDate>Tue, 06 Feb 2018 02:15:10 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>この番組では、USP研究所のかまたひろこと、CodeZine編集部の近藤佑子が、ソフトウェアデベロッパーのみなさんに向けて、IT技術に関するちょっといい話をお送りします。 #devraji #デブラジ</description>
+        <itunes:subtitle>この番組では、USP研究所のかまたひろこと、CodeZine編集部の近藤佑子が、ソフトウェアデベロ…</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>かまぷとゆうこのデベロッパーズ☆ラジオ</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>CodeZine</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000230972345-b4lq1p-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000230972345-b4lq1p-original.jpg</url>
+          <title>かまぷとゆうこのデベロッパーズ☆ラジオ</title>
+          <link>http://codezine.jp/article/corner/650</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/395138943</guid>
+      <title>#8 現役大学生が語る「FPGA」の魅力＆Googleインターン事情</title>
+      <pubDate>Tue, 06 Feb 2018 02:15:10 +0000</pubDate>
+      <link>https://soundcloud.com/devraji/ep8</link>
+      <itunes:duration>00:42:15</itunes:duration>
+      <itunes:author>CodeZine</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>東京大学のコンピュータサークル「理論科学グループ TSG」所属の高橋祐花さんに、FPGAの魅力やサークル活動、Googleでのインターンについて聞きました。https://codezine.jp/article/detail/10647</itunes:summary>
+      <itunes:subtitle>東京大学のコンピュータサークル「理論科学グループ TSG」所属の高橋祐花さんに、FPGAの魅力やサ…</itunes:subtitle>
+      <description>東京大学のコンピュータサークル「理論科学グループ TSG」所属の高橋祐花さんに、FPGAの魅力やサークル活動、Googleでのインターンについて聞きました。https://codezine.jp/article/detail/10647</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/395138943-devraji-ep8.mp3" length="29164919"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000297995595-ldl3f0-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/331868519</guid>
+      <title>#7 デブサミ2017公開収録！ 3万円のサーバで着色AIやってみた、母ちゃんIoTでプラレール、そしてギャルが電子工作！</title>
+      <pubDate>Thu, 06 Jul 2017 11:52:44 +0000</pubDate>
+      <link>https://soundcloud.com/devraji/ep7</link>
+      <itunes:duration>00:57:35</itunes:duration>
+      <itunes:author>CodeZine</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Developer Summit 2017にて公開収録を行いました。「Hack the Real」を体現する3組のゲストの方をお呼びし、LT（ライトニングトーク）とミニインタビューをお送りします。
+http://codezine.jp/article/detail/10100</itunes:summary>
+      <itunes:subtitle>Developer Summit 2017にて公開収録を行いました。「Hack the Real」…</itunes:subtitle>
+      <description>Developer Summit 2017にて公開収録を行いました。「Hack the Real」を体現する3組のゲストの方をお呼びし、LT（ライトニングトーク）とミニインタビューをお送りします。
+http://codezine.jp/article/detail/10100</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/331868519-devraji-ep7.mp3" length="41457361"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000232295687-uv7avo-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/306639695</guid>
+      <title>#6 技術書なのにコミケで壁サークル!? 技術系同人誌の本とイベントの作り方</title>
+      <pubDate>Wed, 08 Feb 2017 01:24:43 +0000</pubDate>
+      <link>https://soundcloud.com/devraji/ep6</link>
+      <itunes:duration>01:07:25</itunes:duration>
+      <itunes:author>CodeZine</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>技術系同人誌サークル「TechBooster」のmhidakaさんに、同人誌制作の裏話や、mhidakaさんの運営されている技術書典とDroidKaigiという2つのイベントの運営、エンジニアの情報発信について聞きました。 http://codezine.jp/article/detail/9960</itunes:summary>
+      <itunes:subtitle>技術系同人誌サークル「TechBooster」のmhidakaさんに、同人誌制作の裏話や、mhid…</itunes:subtitle>
+      <description>技術系同人誌サークル「TechBooster」のmhidakaさんに、同人誌制作の裏話や、mhidakaさんの運営されている技術書典とDroidKaigiという2つのイベントの運営、エンジニアの情報発信について聞きました。 http://codezine.jp/article/detail/9960</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/306639695-devraji-ep6.mp3" length="48512828"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000206719267-bkb49u-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/297839508</guid>
+      <title>#5 Web開発、IoT、イベント、執筆。何でも屋の僕がたどり着いたDevRelという仕事</title>
+      <pubDate>Wed, 14 Dec 2016 08:24:10 +0000</pubDate>
+      <link>https://soundcloud.com/devraji/ep5</link>
+      <itunes:duration>01:14:04</itunes:duration>
+      <itunes:author>CodeZine</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>IoTに関するコミュニティ「IoTLT」の菅原のびすけさんに、コミュニティ運営のこと、DevRelのこと、最近立ち上げた会社dotstudioのことなどについて聞きました。 http://codezine.jp/article/detail/9843</itunes:summary>
+      <itunes:subtitle>IoTに関するコミュニティ「IoTLT」の菅原のびすけさんに、コミュニティ運営のこと、DevRel…</itunes:subtitle>
+      <description>IoTに関するコミュニティ「IoTLT」の菅原のびすけさんに、コミュニティ運営のこと、DevRelのこと、最近立ち上げた会社dotstudioのことなどについて聞きました。 http://codezine.jp/article/detail/9843</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/297839508-devraji-ep5.mp3" length="52700331"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000198365405-js10nz-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/286508264</guid>
+      <title>#4 デブ☆ラジ番外編 in デブサミ関西 ～ 関西コミュニティ大集合</title>
+      <pubDate>Fri, 07 Oct 2016 02:36:38 +0000</pubDate>
+      <link>https://soundcloud.com/devraji/ep4</link>
+      <itunes:duration>00:29:27</itunes:duration>
+      <itunes:author>CodeZine</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>9月16日に神戸で開催されたデブサミ関西2016にて、デブサミ関西オフィシャルコミュニティの中から7団体の方にご登場いただき、それぞれのコミュニティの紹介、今関心のあることについて聞きました。 http://codezine.jp/article/detail/9685</itunes:summary>
+      <itunes:subtitle>9月16日に神戸で開催されたデブサミ関西2016にて、デブサミ関西オフィシャルコミュニティの中から…</itunes:subtitle>
+      <description>9月16日に神戸で開催されたデブサミ関西2016にて、デブサミ関西オフィシャルコミュニティの中から7団体の方にご登場いただき、それぞれのコミュニティの紹介、今関心のあることについて聞きました。 http://codezine.jp/article/detail/9685</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/286508264-devraji-ep4.mp3" length="20664651"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000187062238-wqom78-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/285940624</guid>
+      <title>#3 女性コミュニティだからレベルが低いと思われたくない――LinuxとコミケとLGBTを語る</title>
+      <pubDate>Tue, 04 Oct 2016 02:20:04 +0000</pubDate>
+      <link>https://soundcloud.com/devraji/ep3</link>
+      <itunes:duration>01:26:30</itunes:duration>
+      <itunes:author>CodeZine</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>同人サークル「低級はっかーズ」岩尾はるかさんに、Linuxカーネル、コミケ、英語の学習方法、関わっているコミュニティ、LGBTについて思うこと、などについて聞きました。 http://codezine.jp/article/detail/9684</itunes:summary>
+      <itunes:subtitle>同人サークル「低級はっかーズ」岩尾はるかさんに、Linuxカーネル、コミケ、英語の学習方法、関わっ…</itunes:subtitle>
+      <description>同人サークル「低級はっかーズ」岩尾はるかさんに、Linuxカーネル、コミケ、英語の学習方法、関わっているコミュニティ、LGBTについて思うこと、などについて聞きました。 http://codezine.jp/article/detail/9684</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/285940624-devraji-ep3.mp3" length="61019845"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000186478007-l4yeer-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/275406080</guid>
+      <title>#2 量子コンピュータができること、できないことをできるだけ分かりやすく聞いてみた</title>
+      <pubDate>Tue, 26 Jul 2016 08:55:19 +0000</pubDate>
+      <link>https://soundcloud.com/devraji/ep2</link>
+      <itunes:duration>01:12:53</itunes:duration>
+      <itunes:author>CodeZine</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>量子情報勉強会 宇津木健さんに、量子コンピュータにできることとできないこと、普通のコンピュータには難しい問題とは何か、量子情報勉強会、などについて聞きました。 http://codezine.jp/article/detail/9561</itunes:summary>
+      <itunes:subtitle>量子情報勉強会 宇津木健さんに、量子コンピュータにできることとできないこと、普通のコンピュータには…</itunes:subtitle>
+      <description>量子情報勉強会 宇津木健さんに、量子コンピュータにできることとできないこと、普通のコンピュータには難しい問題とは何か、量子情報勉強会、などについて聞きました。 http://codezine.jp/article/detail/9561</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/275406080-devraji-ep2.mp3" length="50541787"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000173346746-zaa136-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/268976292</guid>
+      <title>#1 AWKブーム第1世代は「アイドル辞書」で学んだ！？</title>
+      <pubDate>Tue, 14 Jun 2016 02:26:12 +0000</pubDate>
+      <link>https://soundcloud.com/devraji/ep1</link>
+      <itunes:duration>01:14:31</itunes:duration>
+      <itunes:author>CodeZine</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>日本GNU AWKユーザー会 斉藤博文さんに、プログラミング言語AWKについて、その生まれた背景から使いドコロ、勉強の仕方からAWKコミュニティまで聞きました。
+http://codezine.jp/article/detail/9478</itunes:summary>
+      <itunes:subtitle>日本GNU AWKユーザー会 斉藤博文さんに、プログラミング言語AWKについて、その生まれた背景か…</itunes:subtitle>
+      <description>日本GNU AWKユーザー会 斉藤博文さんに、プログラミング言語AWKについて、その生まれた背景から使いドコロ、勉強の仕方からAWKコミュニティまで聞きました。
+http://codezine.jp/article/detail/9478</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/268976292-devraji-ep1.mp3" length="51499932"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000167264366-l8dlrq-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

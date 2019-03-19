@@ -1,0 +1,1047 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" media="screen" href="/~d/styles/rss2enclosuresfull.xsl"?><?xml-stylesheet type="text/css" media="screen" href="http://feeds.feedburner.com/~d/styles/itemcontent.css"?><rss xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/" xmlns:feedburner="http://rssnamespace.org/feedburner/ext/1.0" version="2.0">
+      <channel>
+        
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:238607141/sounds.rss?before=281059050" rel="next" type="application/rss+xml" />
+        <title>3jumper - IT エンジニアトーク</title>
+        <link>https://3jumper.com</link>
+        <pubDate>Fri, 03 Aug 2018 05:10:11 +0000</pubDate>
+        <lastBuildDate>Fri, 03 Aug 2018 05:10:11 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>ja</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Podcast by 3jumper</description>
+        <itunes:subtitle>スタートアップのフルスタックエンジニアによるIT情報をラジオ風に配信します！ </itunes:subtitle>
+        
+        <itunes:author>3jumper</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="https://s3-ap-northeast-1.amazonaws.com/3jumper.com/3jumper_logo.png" />
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000288076611-qd3yio-original.jpg</url>
+          <title>3jumper</title>
+          <link>https://3jumper.com</link>
+        </image>
+        
+        <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="http://feeds.feedburner.com/3jumper" /><feedburner:info uri="3jumper" /><atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="hub" href="http://pubsubhubbub.appspot.com/" /><media:copyright>All rights reserved</media:copyright><media:thumbnail url="https://s3-ap-northeast-1.amazonaws.com/3jumper.com/3jumper_logo.png" /><media:keywords>3jumper,aws,it,エンジニア,chat,bots,AI,ML,machine,learning,チャットボット,チャットbot,初心者エンジニア,エンジニア,機械学習,人工知能</media:keywords><media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology/Podcasting</media:category><itunes:owner><itunes:email>it.3jumper@gmail.com</itunes:email><itunes:name>3jumper</itunes:name></itunes:owner><itunes:keywords>3jumper,aws,it,エンジニア,chat,bots,AI,ML,machine,learning,チャットボット,チャットbot,初心者エンジニア,エンジニア,機械学習,人工知能</itunes:keywords><itunes:summary>chat bots / 機械学習 / ML / AWS / 初心者 スタートアップのフルスタックエンジニアによるIT情報をラジオ風に配信します！</itunes:summary><itunes:category text="Technology"><itunes:category text="Podcasting" /></itunes:category><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/308348277</guid>
+      <title>3jumper - エンジニア</title>
+      <pubDate>Sat, 18 Feb 2017 11:25:03 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/3jumper/~3/2vC6jDCbUf4/3j-2017-5</link>
+      <itunes:duration>00:20:10</itunes:duration>
+      <itunes:author>3jumper</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>・文系エンジニアはなぜ誕生したのか～日本の現実
+http://www.atmarkit.co.jp/ait/articles/1701/16/news025.html
+・「文系エンジニアは世界で通用しない」は本当か？～シリコンバレーの常識
+http://www.atmarkit.co.jp/ait/articles/1701/23/news015.html
+└ 米国に「新卒一括採用」がない
+　└ これはIT業界だけじゃなく他も。
+└ 学歴 = 大学名じゃない
+
+ぼくは元々コンピューターサイエンス専攻じゃなく。建築専攻
+└ 図面の模写や構造計算(力学)、環境計算(空調、光、音響など)など 少しだけプログラミングはかじってました。(fortran : http://www.nag-j.co.jp/fortran/ )
+Fortran
+└ 1950年代に誕生した、世界初の高級プログラミング言語
+└ 他の高級言語（C/C++/Javaなど）と比較して、数値計算プログラムを簡潔に記述することができる
+└ 他の高級言語(C言語など）と比較しても、一般的にパフォーマンスに優れている
+↓
+当時のプログラミングは全然好きでなかった
+└ プログラミングででsin,cos,tanのグラフを書いてみようだったり、積分して答えを出してみようだったり、わくわくする内容じゃなかった
+└ 当時はエラー表示もなくバグが出ると解決するまで全然解決できなかった
+
+------------------------------------------------------------------------------------
+図面はある意味プログラミング
+だが、webやアプリ開発のソースコードと比べるととても見やすい
+
+まず、ファイル数がとてつもなく多い。
+図面は誰が書いても同じような結果になりやすい。
+だが、法規にしたがったり、図面内にあるUXを考えながら書いたり、空間把握能力がないと難しい。
+
+------------------------------------------------------------------------------------
+ここで文系と理系のエンジニアの話をしようと思っていますが、
+分ける必要はないと思っています。(笑)
+
+文系からエンジニアでも理系からエンジニアでも自分と強みが違うので、そこを生かしたプログラミングをしていければいいと思います。
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper</itunes:summary>
+      <itunes:subtitle>・文系エンジニアはなぜ誕生したのか～日本の現実
+http://www.atmarkit.co.jp…</itunes:subtitle>
+      <description>・文系エンジニアはなぜ誕生したのか～日本の現実
+http://www.atmarkit.co.jp/ait/articles/1701/16/news025.html
+・「文系エンジニアは世界で通用しない」は本当か？～シリコンバレーの常識
+http://www.atmarkit.co.jp/ait/articles/1701/23/news015.html
+└ 米国に「新卒一括採用」がない
+　└ これはIT業界だけじゃなく他も。
+└ 学歴 = 大学名じゃない
+
+ぼくは元々コンピューターサイエンス専攻じゃなく。建築専攻
+└ 図面の模写や構造計算(力学)、環境計算(空調、光、音響など)など 少しだけプログラミングはかじってました。(fortran : http://www.nag-j.co.jp/fortran/ )
+Fortran
+└ 1950年代に誕生した、世界初の高級プログラミング言語
+└ 他の高級言語（C/C++/Javaなど）と比較して、数値計算プログラムを簡潔に記述することができる
+└ 他の高級言語(C言語など）と比較しても、一般的にパフォーマンスに優れている
+↓
+当時のプログラミングは全然好きでなかった
+└ プログラミングででsin,cos,tanのグラフを書いてみようだったり、積分して答えを出してみようだったり、わくわくする内容じゃなかった
+└ 当時はエラー表示もなくバグが出ると解決するまで全然解決できなかった
+
+------------------------------------------------------------------------------------
+図面はある意味プログラミング
+だが、webやアプリ開発のソースコードと比べるととても見やすい
+
+まず、ファイル数がとてつもなく多い。
+図面は誰が書いても同じような結果になりやすい。
+だが、法規にしたがったり、図面内にあるUXを考えながら書いたり、空間把握能力がないと難しい。
+
+------------------------------------------------------------------------------------
+ここで文系と理系のエンジニアの話をしようと思っていますが、
+分ける必要はないと思っています。(笑)
+
+文系からエンジニアでも理系からエンジニアでも自分と強みが違うので、そこを生かしたプログラミングをしていければいいと思います。
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper&lt;img src="http://feeds.feedburner.com/~r/3jumper/~4/2vC6jDCbUf4" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/308348277-3jumper-3j-2017-5.mp3" length="22938242" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000208409311-vxn7el-original.jpg" />
+    <author>it.3jumper@gmail.com (3jumper)</author><media:content url="http://feeds.soundcloud.com/stream/308348277-3jumper-3j-2017-5.mp3" fileSize="22938242" type="audio/mpeg" /><itunes:keywords>3jumper,aws,it,エンジニア,chat,bots,AI,ML,machine,learning,チャットボット,チャットbot,初心者エンジニア,エンジニア,機械学習,人工知能</itunes:keywords><feedburner:origLink>https://soundcloud.com/3jumper/3j-2017-5</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/306086130</guid>
+      <title>3jumper - 採用はソースコードを見て採用していこう</title>
+      <pubDate>Sat, 04 Feb 2017 14:30:41 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/3jumper/~3/FGRXBLYNRUk/3j-2017-4</link>
+      <itunes:duration>00:24:42</itunes:duration>
+      <itunes:author>3jumper</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>Mercari Day 2017 Tech Track 発表資料まとめ
+http://tech.mercari.com/entry/2017/01/25/173132
+
+フリークアウト、イグニスの2社の創業から上場に関わった男の語るスタートアップが陥りがちな5つの問題(フリークアウト佐藤裕介)
+
+http://blog.skyland.vc/p/234
+
+SRE
+└ Site Reliabilty Engineer
+└ いつでも、快適、安心、安全にサービスを使えるようにするチーム
+　└ googleが提唱
+　└ googleの様々なプロダクト・サービスを横断して、サイトの信頼性を向上させる
+└ 海外/USでも通じる名称
+まだまだ、認知が少ない分野になっているインフラをこの名前に変えている
+意識が高いエンジニアをリーチ出来るメリットはありそう
+
+SET
+└ Software Engineer in Test
+└ 発見が遅れるほど高コスト
+
+プロダクトファースト
+└ 何よりユーザーに価値を届けることを最優先にする
+└ 技術はもちろん大事
+└ だけど、この技術を使いたいからというモチベーションではない
+└ それでどんな価値を届けるか？
+*自分はビジネスロジックをいかに早く試せるか、ビジネスロジックの手助けとなるデータを提供することが技術者にとって一番大事なことだと思っています。
+
+進みながら直す
+└ 開発を続けていれば、当然技術的負債も積み重なる
+　└ もちろんいつでも、そのときは正しい
+　└ 直して行かなければいけない
+しかし、重要なのはサービスとして成長し続けること
+＝＞直すために歩みを止めてしまったら意味がない…決着がついてしまう
+
+適材適所の技術選択
+└ 特定技術へのこだわりは
+　└ プロフェッショナルとしてのこだわりはもちろん大事
+└ しかしそれは何をするためか？どうあるべきだからなのか
+└ php, go, swift, java, python etc..
+その問題を解決するために必要な技術はなにか？
+
+【採用】
+技術課題と技術面接
+└ コードを見ることなく採用しない
+└ また、見るべきはPHP力などの特定の技術領域の知識ではない
+└ 特定の技術領域に限定されない、設計力、発想力、応用力
+*ここは面白いなと。大半はSPIの非言語で判断したり、面接や経歴だけで判断しているところをコードを必ず見る採用はいいと思った。採用コストは通常より高くなるが、より相互にズレがなさそうだなと思う。
+
+エンジニア人事
+└ 「エンジニア経験のある人事」や「ちょっとわかる人事」ではなく、エンジニアが人事
+└ バリバリコードのかける、第一線で戦えるエンジニアがフルコミット
+└ 候補者にとっても、メルカリの開発を理解しやすく魅力に思ってもらえる
+
+GitHubエントリー
+└ 新卒採用をメールアドレスとGitHubのURLだけで応募できるようにしてみた
+└ 定型文をコピペした履歴書よりも、最も分かりやすいアプトプット
+　└ もちろん指標はそれだけではないけど
+└ 他社異なることを試していく
+
+【トレーニング・メンター】
+成長すると
+エンジニアリングマネージャー
+└ 組織の面からエンジニアリングを支える
+
+プリンシパルエンジニア
+└ プロフェッショナル職
+
+マネージャーととプリンシパル
+*この二つに分けているところは少ないと思う。でも、大事だし、評価が同等という考えがいいと思う。エンジニアは職人なれる人なので、マネジメントが一番大事なわけがない。
+人をまとめるだけでなく技術を知っていることでの昇級出来る仕組みはいい。
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper</itunes:summary>
+      <itunes:subtitle>Mercari Day 2017 Tech Track 発表資料まとめ
+http://tech.m…</itunes:subtitle>
+      <description>Mercari Day 2017 Tech Track 発表資料まとめ
+http://tech.mercari.com/entry/2017/01/25/173132
+
+フリークアウト、イグニスの2社の創業から上場に関わった男の語るスタートアップが陥りがちな5つの問題(フリークアウト佐藤裕介)
+
+http://blog.skyland.vc/p/234
+
+SRE
+└ Site Reliabilty Engineer
+└ いつでも、快適、安心、安全にサービスを使えるようにするチーム
+　└ googleが提唱
+　└ googleの様々なプロダクト・サービスを横断して、サイトの信頼性を向上させる
+└ 海外/USでも通じる名称
+まだまだ、認知が少ない分野になっているインフラをこの名前に変えている
+意識が高いエンジニアをリーチ出来るメリットはありそう
+
+SET
+└ Software Engineer in Test
+└ 発見が遅れるほど高コスト
+
+プロダクトファースト
+└ 何よりユーザーに価値を届けることを最優先にする
+└ 技術はもちろん大事
+└ だけど、この技術を使いたいからというモチベーションではない
+└ それでどんな価値を届けるか？
+*自分はビジネスロジックをいかに早く試せるか、ビジネスロジックの手助けとなるデータを提供することが技術者にとって一番大事なことだと思っています。
+
+進みながら直す
+└ 開発を続けていれば、当然技術的負債も積み重なる
+　└ もちろんいつでも、そのときは正しい
+　└ 直して行かなければいけない
+しかし、重要なのはサービスとして成長し続けること
+＝＞直すために歩みを止めてしまったら意味がない…決着がついてしまう
+
+適材適所の技術選択
+└ 特定技術へのこだわりは
+　└ プロフェッショナルとしてのこだわりはもちろん大事
+└ しかしそれは何をするためか？どうあるべきだからなのか
+└ php, go, swift, java, python etc..
+その問題を解決するために必要な技術はなにか？
+
+【採用】
+技術課題と技術面接
+└ コードを見ることなく採用しない
+└ また、見るべきはPHP力などの特定の技術領域の知識ではない
+└ 特定の技術領域に限定されない、設計力、発想力、応用力
+*ここは面白いなと。大半はSPIの非言語で判断したり、面接や経歴だけで判断しているところをコードを必ず見る採用はいいと思った。採用コストは通常より高くなるが、より相互にズレがなさそうだなと思う。
+
+エンジニア人事
+└ 「エンジニア経験のある人事」や「ちょっとわかる人事」ではなく、エンジニアが人事
+└ バリバリコードのかける、第一線で戦えるエンジニアがフルコミット
+└ 候補者にとっても、メルカリの開発を理解しやすく魅力に思ってもらえる
+
+GitHubエントリー
+└ 新卒採用をメールアドレスとGitHubのURLだけで応募できるようにしてみた
+└ 定型文をコピペした履歴書よりも、最も分かりやすいアプトプット
+　└ もちろん指標はそれだけではないけど
+└ 他社異なることを試していく
+
+【トレーニング・メンター】
+成長すると
+エンジニアリングマネージャー
+└ 組織の面からエンジニアリングを支える
+
+プリンシパルエンジニア
+└ プロフェッショナル職
+
+マネージャーととプリンシパル
+*この二つに分けているところは少ないと思う。でも、大事だし、評価が同等という考えがいいと思う。エンジニアは職人なれる人なので、マネジメントが一番大事なわけがない。
+人をまとめるだけでなく技術を知っていることでの昇級出来る仕組みはいい。
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper&lt;img src="http://feeds.feedburner.com/~r/3jumper/~4/FGRXBLYNRUk" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/306086130-3jumper-3j-2017-4.mp3" length="27259185" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000206211067-9es8aq-original.jpg" />
+    <author>it.3jumper@gmail.com (3jumper)</author><media:content url="http://feeds.soundcloud.com/stream/306086130-3jumper-3j-2017-4.mp3" fileSize="27259185" type="audio/mpeg" /><itunes:keywords>3jumper,aws,it,エンジニア,chat,bots,AI,ML,machine,learning,チャットボット,チャットbot,初心者エンジニア,エンジニア,機械学習,人工知能</itunes:keywords><feedburner:origLink>https://soundcloud.com/3jumper/3j-2017-4</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/304800190</guid>
+      <title>3jumper - アプリを作る必要性ってある？（完）</title>
+      <pubDate>Fri, 27 Jan 2017 15:05:59 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/3jumper/~3/bVuduExFeL0/3j-2017-3</link>
+      <itunes:duration>00:23:53</itunes:duration>
+      <itunes:author>3jumper</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>アプリを作る必要性ってあるのかな？って思う時があります。
+現在私たちが行ってるサービスでもアプリを作ってないですが、なぜ作ってないのか深く考えてなかったので、ちょっと考えてみました。なぜ、webじゃなくアプリなのか。。。
+
+＜内容＞
+ゲームを作ってないところであえてアプリを作る必要性はある？
+ひとまずアプリっていう選択肢になっていないかということを考察していきたい
+└ とりあえずアプリでしょってなっていないか。
+└ 本当にアプリを作る必要性ある？
+└ webだけじゃダメなん？
+などアプリをかかるコストを考える必要があると思います。
+・iphoneとandroidだけでも言語が違うし(人数は倍になる)
+・ハイブリッドでやるから人数は変わらないっていってもそれってwebだからアプリである必要性がわからない
+・バージョンアップに時間がかかる。(iOSで1週間、またはそれ以上、androidは1日ほどでできるが浸透までに時間がかかる)また、ユーザーがバージョンアップしないで使用するパターンもある。
+
+アプリを作らなくていいということは
+サービスをユーザーに定着させることが大事だと思っています。
+決して毎日そのサービスを使わなくても定着させればいいんです。
+あるサービスが定期的に認識できれば、いいのです。
+一つに広告という考えはあると思います。
+CM一つにしても定期的に見ることによって思い出しり、ニーズの確認を無意識にできていると思います。
+インターネット上でも広告で認識できている部分もあるとおもます。
+だが、広告はお金がかかります。お金を持っている会社はそこに投資できるが
+それにはCPA(獲得単価)によってやらないパターンもあります。
+スタートアップも最初はそこにお金をかける必要性があるのか考えることも必要です。
+ということから広告は一つあると思いますが、今回は外します。
+
+広告以外となると
+SNSが一つです。
+SNSはログインする回数が多いということです。
+多くのアプリがある中、SNS(Facebook,twitter instagram, LINEなど)は1日一回ログインする機会が多い。
+他のアプリでも1日1回ログインするかもしれないが、そのユーザーの割合は低いだろう。
+そこでSNSを見ることで気になったサービスをフォローやlikeを押せば更新のたびに目に入ってくる可能性が高い、つまり、無料の広告塔になりやすいということ。
+ユーザーの意識を定着させることが大事。
+アプリをダウンロードするより、フォローやlikeは閾値が低い。一つでも気になったものがあればフォローやlikeをするかもしれない。
+ここでの懸念点は閾値が低い分多くフォローなどしてる場合はタイムラインから埋もれる可能性もあるが、アプリをダウンロード -&gt; 起動のハードルを考えると埋もれてもユーザーにはリーチしやすいだろうと。一つの投稿を逃しても損した気にならない。また、アプリのプッシュより最新情報が流れたりする。リーチや定着させる方法としてはSNSは昔も今も未だ重宝されているだろう。
+使うSNSが変わってきただけで、手段としては変わってないだろう。
+
+だが、SNSを使ったところでサービスを定期的に使ってもらうにはどうしたらいいか。
+ボランティアサービスであれば、売上が立たなくてもいい。。
+売上を考えるのであれば、そこでお金を使ってもらう必要がある。
+それには広告という方向からECのような購入するパターンがあります。
+つまりユーザーがお金使わないパターンから使うパターンということです。
+ユーザーが使わないパターンは基本広告なので、PV数などを稼ぐ方法をかんがるかもしれない。ので
+ユーザーがお金を使うパターンを考えたい。
+それはLINEやFacebook messengerを使うことである。
+日本ですとLINEがメインなので、最初はLINEオンリーでいいかもしれません。
+なぜLINEがいいのか。
+・それは誰も使っていると過言でない。
+・LINEの使い方ならほとんどが知っている。
+・LINEのプッシュを利用できる(こちらでプッシュの管理をほとんどしなくていい)
+・チャットでCSもやりやすい
+・LINE@に抵抗がない。
+・未読数も確認できる
+などなど
+
+ということです。
+なのでLINEを使うことでスモールアプリを簡単に作れるというこです。
+基本WEBページになるので凝ったUIを作れないが、こったUIにする必要性はないですし。
+使いやすさを追求したほうがいいと思います。
+さらにbotを開発したら、CSコストも減ることになります。
+なので可能性はかなり広がると思います。
+同様にfacebook messengerもLINE同様なことができるので、グローバルに行くとしても隔たりなく、ローカライズだけやれば広めることもできると思います。
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper</itunes:summary>
+      <itunes:subtitle>アプリを作る必要性ってあるのかな？って思う時があります。
+現在私たちが行ってるサービスでもアプリを…</itunes:subtitle>
+      <description>アプリを作る必要性ってあるのかな？って思う時があります。
+現在私たちが行ってるサービスでもアプリを作ってないですが、なぜ作ってないのか深く考えてなかったので、ちょっと考えてみました。なぜ、webじゃなくアプリなのか。。。
+
+＜内容＞
+ゲームを作ってないところであえてアプリを作る必要性はある？
+ひとまずアプリっていう選択肢になっていないかということを考察していきたい
+└ とりあえずアプリでしょってなっていないか。
+└ 本当にアプリを作る必要性ある？
+└ webだけじゃダメなん？
+などアプリをかかるコストを考える必要があると思います。
+・iphoneとandroidだけでも言語が違うし(人数は倍になる)
+・ハイブリッドでやるから人数は変わらないっていってもそれってwebだからアプリである必要性がわからない
+・バージョンアップに時間がかかる。(iOSで1週間、またはそれ以上、androidは1日ほどでできるが浸透までに時間がかかる)また、ユーザーがバージョンアップしないで使用するパターンもある。
+
+アプリを作らなくていいということは
+サービスをユーザーに定着させることが大事だと思っています。
+決して毎日そのサービスを使わなくても定着させればいいんです。
+あるサービスが定期的に認識できれば、いいのです。
+一つに広告という考えはあると思います。
+CM一つにしても定期的に見ることによって思い出しり、ニーズの確認を無意識にできていると思います。
+インターネット上でも広告で認識できている部分もあるとおもます。
+だが、広告はお金がかかります。お金を持っている会社はそこに投資できるが
+それにはCPA(獲得単価)によってやらないパターンもあります。
+スタートアップも最初はそこにお金をかける必要性があるのか考えることも必要です。
+ということから広告は一つあると思いますが、今回は外します。
+
+広告以外となると
+SNSが一つです。
+SNSはログインする回数が多いということです。
+多くのアプリがある中、SNS(Facebook,twitter instagram, LINEなど)は1日一回ログインする機会が多い。
+他のアプリでも1日1回ログインするかもしれないが、そのユーザーの割合は低いだろう。
+そこでSNSを見ることで気になったサービスをフォローやlikeを押せば更新のたびに目に入ってくる可能性が高い、つまり、無料の広告塔になりやすいということ。
+ユーザーの意識を定着させることが大事。
+アプリをダウンロードするより、フォローやlikeは閾値が低い。一つでも気になったものがあればフォローやlikeをするかもしれない。
+ここでの懸念点は閾値が低い分多くフォローなどしてる場合はタイムラインから埋もれる可能性もあるが、アプリをダウンロード -&gt; 起動のハードルを考えると埋もれてもユーザーにはリーチしやすいだろうと。一つの投稿を逃しても損した気にならない。また、アプリのプッシュより最新情報が流れたりする。リーチや定着させる方法としてはSNSは昔も今も未だ重宝されているだろう。
+使うSNSが変わってきただけで、手段としては変わってないだろう。
+
+だが、SNSを使ったところでサービスを定期的に使ってもらうにはどうしたらいいか。
+ボランティアサービスであれば、売上が立たなくてもいい。。
+売上を考えるのであれば、そこでお金を使ってもらう必要がある。
+それには広告という方向からECのような購入するパターンがあります。
+つまりユーザーがお金使わないパターンから使うパターンということです。
+ユーザーが使わないパターンは基本広告なので、PV数などを稼ぐ方法をかんがるかもしれない。ので
+ユーザーがお金を使うパターンを考えたい。
+それはLINEやFacebook messengerを使うことである。
+日本ですとLINEがメインなので、最初はLINEオンリーでいいかもしれません。
+なぜLINEがいいのか。
+・それは誰も使っていると過言でない。
+・LINEの使い方ならほとんどが知っている。
+・LINEのプッシュを利用できる(こちらでプッシュの管理をほとんどしなくていい)
+・チャットでCSもやりやすい
+・LINE@に抵抗がない。
+・未読数も確認できる
+などなど
+
+ということです。
+なのでLINEを使うことでスモールアプリを簡単に作れるというこです。
+基本WEBページになるので凝ったUIを作れないが、こったUIにする必要性はないですし。
+使いやすさを追求したほうがいいと思います。
+さらにbotを開発したら、CSコストも減ることになります。
+なので可能性はかなり広がると思います。
+同様にfacebook messengerもLINE同様なことができるので、グローバルに行くとしても隔たりなく、ローカライズだけやれば広めることもできると思います。
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper&lt;img src="http://feeds.feedburner.com/~r/3jumper/~4/bVuduExFeL0" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/304800190-3jumper-3j-2017-3.mp3" length="26620752" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000205010956-pzse7w-original.jpg" />
+    <author>it.3jumper@gmail.com (3jumper)</author><media:content url="http://feeds.soundcloud.com/stream/304800190-3jumper-3j-2017-3.mp3" fileSize="26620752" type="audio/mpeg" /><itunes:keywords>3jumper,aws,it,エンジニア,chat,bots,AI,ML,machine,learning,チャットボット,チャットbot,初心者エンジニア,エンジニア,機械学習,人工知能</itunes:keywords><feedburner:origLink>https://soundcloud.com/3jumper/3j-2017-3</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/303482980</guid>
+      <title>3jumper - アプリを作る必要性ってある？(前菜)</title>
+      <pubDate>Thu, 19 Jan 2017 13:26:56 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/3jumper/~3/oJwYrW0mXVM/3j-2017-2</link>
+      <itunes:duration>00:22:01</itunes:duration>
+      <itunes:author>3jumper</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>アプリを作る必要性ってあるのかな？って思う時があります。
+現在私たちが行ってるサービスでもアプリを作ってないですが、なぜ作ってないのか深く考えてなかったので、ちょっと考えてみました。なぜ、webじゃなくアプリなのか。。。
+
+＜内容＞
+アプリを作るメリット
+└ webでは使えない端末機能を使える
+　└ 加速度センサーや傾きセンサー、ヘルスケアで睡眠時間や心拍数などなど
+└ 標準アプリが保存した端末内のデータが使える
+　└ カメラで撮影した画像を使って加工したり、
+└ 端末内にデータを保存できる
+　└ ヘルスケアとかだと体重記録などのデータ
+└ マーケティング、マネタイズ面
+　└ iosだとitune connectで基本的なデータ管理、アプリ内課金やアプリ内のアドでマネタイズ、デフォルトでダウンロード数やdauなど表示してくれる。(端末情報など)
+└ プッシュ通知が使える
+　└ 眠ってたユーザーの呼び起こしや一押し情報を伝えやすい。androidは使えるが、iphoneはまだ使えない
+└ アイコンで認知を定着
+　└ スマホを開くとアイコンが目に自然と入ってくる(基本トップにある場合)
+などなど
+
+また、ゲームはアプリがあることで表現できる幅は圧倒的に増えます。
+
+だが、ゲームを作ってないところであえてアプリを作る必要性はある？
+ひとまずアプリっていう選択肢になっていないかということを考察していきたい
+└ とりあえずアプリでしょってなっていないか。
+└ 本当にアプリを作る必要性ある？
+└ webだけじゃダメなん？
+などアプリをかかるコストを考える必要があると思います。
+・iphoneとandroidだけでも言語が違うし(人数は倍になる)
+・ハイブリッドでやるから人数は変わらないっていってもそれってwebだからアプリである必要性がわからない
+・バージョンアップに時間がかかる。(iOSで1週間、またはそれ以上、androidは1日ほどでできるが浸透までに時間がかかる)また、ユーザーがバージョンアップしないで使用するパターンもある。
+
+次回私が思うアプリを作らなくていいパターンをお伝えします。
+
+youtube : https://youtu.be/LEPMNDyND9s
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper</itunes:summary>
+      <itunes:subtitle>アプリを作る必要性ってあるのかな？って思う時があります。
+現在私たちが行ってるサービスでもアプリを…</itunes:subtitle>
+      <description>アプリを作る必要性ってあるのかな？って思う時があります。
+現在私たちが行ってるサービスでもアプリを作ってないですが、なぜ作ってないのか深く考えてなかったので、ちょっと考えてみました。なぜ、webじゃなくアプリなのか。。。
+
+＜内容＞
+アプリを作るメリット
+└ webでは使えない端末機能を使える
+　└ 加速度センサーや傾きセンサー、ヘルスケアで睡眠時間や心拍数などなど
+└ 標準アプリが保存した端末内のデータが使える
+　└ カメラで撮影した画像を使って加工したり、
+└ 端末内にデータを保存できる
+　└ ヘルスケアとかだと体重記録などのデータ
+└ マーケティング、マネタイズ面
+　└ iosだとitune connectで基本的なデータ管理、アプリ内課金やアプリ内のアドでマネタイズ、デフォルトでダウンロード数やdauなど表示してくれる。(端末情報など)
+└ プッシュ通知が使える
+　└ 眠ってたユーザーの呼び起こしや一押し情報を伝えやすい。androidは使えるが、iphoneはまだ使えない
+└ アイコンで認知を定着
+　└ スマホを開くとアイコンが目に自然と入ってくる(基本トップにある場合)
+などなど
+
+また、ゲームはアプリがあることで表現できる幅は圧倒的に増えます。
+
+だが、ゲームを作ってないところであえてアプリを作る必要性はある？
+ひとまずアプリっていう選択肢になっていないかということを考察していきたい
+└ とりあえずアプリでしょってなっていないか。
+└ 本当にアプリを作る必要性ある？
+└ webだけじゃダメなん？
+などアプリをかかるコストを考える必要があると思います。
+・iphoneとandroidだけでも言語が違うし(人数は倍になる)
+・ハイブリッドでやるから人数は変わらないっていってもそれってwebだからアプリである必要性がわからない
+・バージョンアップに時間がかかる。(iOSで1週間、またはそれ以上、androidは1日ほどでできるが浸透までに時間がかかる)また、ユーザーがバージョンアップしないで使用するパターンもある。
+
+次回私が思うアプリを作らなくていいパターンをお伝えします。
+
+youtube : https://youtu.be/LEPMNDyND9s
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper&lt;img src="http://feeds.feedburner.com/~r/3jumper/~4/oJwYrW0mXVM" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/303482980-3jumper-3j-2017-2.mp3" length="34480799" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000203665931-xdrgv9-original.jpg" />
+    <author>it.3jumper@gmail.com (3jumper)</author><media:content url="http://feeds.soundcloud.com/stream/303482980-3jumper-3j-2017-2.mp3" fileSize="34480799" type="audio/mpeg" /><itunes:keywords>3jumper,aws,it,エンジニア,chat,bots,AI,ML,machine,learning,チャットボット,チャットbot,初心者エンジニア,エンジニア,機械学習,人工知能</itunes:keywords><feedburner:origLink>https://soundcloud.com/3jumper/3j-2017-2</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/302024115</guid>
+      <title>3jumper - 新年(2017年)一発目ゆるくしゃべってます</title>
+      <pubDate>Wed, 11 Jan 2017 10:56:56 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/3jumper/~3/iQ0wUe6R2ms/3j-2017</link>
+      <itunes:duration>00:21:25</itunes:duration>
+      <itunes:author>3jumper</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>3ヶ月ぶりの更新になってしまいました＞_＜
+これから週１回ペースで更新していきたいと思います。
+今年は「決めたことをやりきる」年にしていきたいので、
+できることは必ずやりきっていきたいと思います。
+
+youtube : https://youtu.be/S67FTw6m-Hk
+
+＜内容＞
+└ 3ヶ月遅れてしまった経緯
+└ 2016年の軽い振り返り
+└ 2017年の方針
+└ トライアスロンの軽い話
+└ 本を読む回数増やします
+└ 英語今年は勘が張ります
+└ スタートアップならではの話もしたい
+などなど
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper</itunes:summary>
+      <itunes:subtitle>3ヶ月ぶりの更新になってしまいました＞_＜
+これから週１回ペースで更新していきたいと思います。
+今…</itunes:subtitle>
+      <description>3ヶ月ぶりの更新になってしまいました＞_＜
+これから週１回ペースで更新していきたいと思います。
+今年は「決めたことをやりきる」年にしていきたいので、
+できることは必ずやりきっていきたいと思います。
+
+youtube : https://youtu.be/S67FTw6m-Hk
+
+＜内容＞
+└ 3ヶ月遅れてしまった経緯
+└ 2016年の軽い振り返り
+└ 2017年の方針
+└ トライアスロンの軽い話
+└ 本を読む回数増やします
+└ 英語今年は勘が張ります
+└ スタートアップならではの話もしたい
+などなど
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper&lt;img src="http://feeds.feedburner.com/~r/3jumper/~4/iQ0wUe6R2ms" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/302024115-3jumper-3j-2017.mp3" length="34606122" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000202322906-nog40u-original.jpg" />
+    <author>it.3jumper@gmail.com (3jumper)</author><media:content url="http://feeds.soundcloud.com/stream/302024115-3jumper-3j-2017.mp3" fileSize="34606122" type="audio/mpeg" /><itunes:keywords>3jumper,aws,it,エンジニア,chat,bots,AI,ML,machine,learning,チャットボット,チャットbot,初心者エンジニア,エンジニア,機械学習,人工知能</itunes:keywords><feedburner:origLink>https://soundcloud.com/3jumper/3j-2017</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/286153046</guid>
+      <title>【第13回】3jumper - 起業して1年勝手に振り返り、変に意気込む</title>
+      <pubDate>Wed, 05 Oct 2016 13:45:07 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/3jumper/~3/zucbtnivbHU/3jumper_14</link>
+      <itunes:duration>00:25:31</itunes:duration>
+      <itunes:author>3jumper</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>起業して1年たち勝手に色々振り返ってます。
+それをもとに配信方法など次回からしっかりしています。。
+
+youtube : https://youtu.be/2-tncHwVoVc
+
+【前回】
+3jumper - 「起業したては大幅変更は当たり前」
+https://soundcloud.com/3jumper/3jumper_13
+
+＜内容＞
+起業して1年
+この1年でやってきた自分なりの感想
+次の1年に対しての自分
+配信方法を変えていきます
+などなど
+
+＜今回の音楽＞
+Venemy &amp; Aznar ft. Doubletake - Reign
+https://www.youtube.com/watch?v=uaQ2dtgCKKk&amp;list=PLRBp0Fe2Gpglq-J-Hv0p-y0wk3lQk570u&amp;index=32
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper
+
+chat bots / AI / ML / AWS / 初心者</itunes:summary>
+      <itunes:subtitle>起業して1年たち勝手に色々振り返ってます。
+それをもとに配信方法など次回からしっかりしています。。…</itunes:subtitle>
+      <description>起業して1年たち勝手に色々振り返ってます。
+それをもとに配信方法など次回からしっかりしています。。
+
+youtube : https://youtu.be/2-tncHwVoVc
+
+【前回】
+3jumper - 「起業したては大幅変更は当たり前」
+https://soundcloud.com/3jumper/3jumper_13
+
+＜内容＞
+起業して1年
+この1年でやってきた自分なりの感想
+次の1年に対しての自分
+配信方法を変えていきます
+などなど
+
+＜今回の音楽＞
+Venemy &amp; Aznar ft. Doubletake - Reign
+https://www.youtube.com/watch?v=uaQ2dtgCKKk&amp;list=PLRBp0Fe2Gpglq-J-Hv0p-y0wk3lQk570u&amp;index=32
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper
+
+chat bots / AI / ML / AWS / 初心者&lt;img src="http://feeds.feedburner.com/~r/3jumper/~4/zucbtnivbHU" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/286153046-3jumper-3jumper_14.mp3" length="40362414" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000186730443-5hg69y-original.jpg" />
+    <author>it.3jumper@gmail.com (3jumper)</author><media:content url="http://feeds.soundcloud.com/stream/286153046-3jumper-3jumper_14.mp3" fileSize="40362414" type="audio/mpeg" /><itunes:keywords>3jumper,aws,it,エンジニア,chat,bots,AI,ML,machine,learning,チャットボット,チャットbot,初心者エンジニア,エンジニア,機械学習,人工知能</itunes:keywords><feedburner:origLink>https://soundcloud.com/3jumper/3jumper_14</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/284103235</guid>
+      <title>【第12回】3jumper - 起業ストーリー #1「起業したては大幅変更は当たり前」</title>
+      <pubDate>Thu, 22 Sep 2016 13:47:00 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/3jumper/~3/VmglMHyEaOI/3jumper_13</link>
+      <itunes:duration>00:22:07</itunes:duration>
+      <itunes:author>3jumper</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>3週間ほど空いてしまいました&gt;_&lt;
+起業したてのエンジニアにとって大事にしていたことを喋ってます。
+ブログの方でもつらつら書いていきます！
+youtube : https://youtu.be/_-x70Q2YNGo
+
+【前回】
+3jumper - エンジニア初心者へ 仮説を立てよう
+https://soundcloud.com/3jumper/3jumper_12
+
+＜内容＞
+起業したての状況
+最初のエンジニアの役割
+プロダクトが決まってからエンジニアがやること
+ピポッド・ピポッドの繰り返し
+などなど
+
+＜今回の音楽＞
+Josh Woodward - Hollow Grove
+http://freemusicarchive.org/music/Josh_Woodward
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper
+
+chat bots / AI / ML / AWS / 初心者</itunes:summary>
+      <itunes:subtitle>3週間ほど空いてしまいました&gt;_&lt;
+起業したてのエンジニアにとって大事にしていたことを喋ってます。…</itunes:subtitle>
+      <description>3週間ほど空いてしまいました&gt;_&lt;
+起業したてのエンジニアにとって大事にしていたことを喋ってます。
+ブログの方でもつらつら書いていきます！
+youtube : https://youtu.be/_-x70Q2YNGo
+
+【前回】
+3jumper - エンジニア初心者へ 仮説を立てよう
+https://soundcloud.com/3jumper/3jumper_12
+
+＜内容＞
+起業したての状況
+最初のエンジニアの役割
+プロダクトが決まってからエンジニアがやること
+ピポッド・ピポッドの繰り返し
+などなど
+
+＜今回の音楽＞
+Josh Woodward - Hollow Grove
+http://freemusicarchive.org/music/Josh_Woodward
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper
+
+chat bots / AI / ML / AWS / 初心者&lt;img src="http://feeds.feedburner.com/~r/3jumper/~4/VmglMHyEaOI" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/284103235-3jumper-3jumper_13.mp3" length="35416802" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000184719174-kipybc-original.jpg" />
+    <author>it.3jumper@gmail.com (3jumper)</author><media:content url="http://feeds.soundcloud.com/stream/284103235-3jumper-3jumper_13.mp3" fileSize="35416802" type="audio/mpeg" /><itunes:keywords>3jumper,aws,it,エンジニア,chat,bots,AI,ML,machine,learning,チャットボット,チャットbot,初心者エンジニア,エンジニア,機械学習,人工知能</itunes:keywords><feedburner:origLink>https://soundcloud.com/3jumper/3jumper_13</feedburner:origLink></item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/281059050</guid>
+      <title>【第11回】3jumper - エンジニア初心者へ 仮説を立てよう</title>
+      <pubDate>Fri, 02 Sep 2016 13:23:12 +0000</pubDate>
+      <link>http://feedproxy.google.com/~r/3jumper/~3/8Bw8i12A5ws/3jumper_12</link>
+      <itunes:duration>00:17:27</itunes:duration>
+      <itunes:author>3jumper</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>エンジニア初心者が何をしたらいいかシリーズ！
+エンジニアとして仮説を立てる練習をしよう！
+
+youtube : https://youtu.be/JQRGneFcV60
+
+【前回】
+3jumper - エンジニア初心者へ 手を動かすと上達?
+https://soundcloud.com/3jumper/3jumper_10
+
+＜内容＞
+エンジニア初心者がどうやって学んでいくのか姿勢的なことを喋ってます。
+仮説を立てる練習をしよう
+仮説を立てることで、全体の把握、バグの早期発見ができる
+などなど
+
+＜今回の音楽＞
+Josh Woodward - This Is Everything
+http://freemusicarchive.org/music/Josh_Woodward
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper
+
+chat bots / AI / ML / AWS / 初心者</itunes:summary>
+      <itunes:subtitle>エンジニア初心者が何をしたらいいかシリーズ！
+エンジニアとして仮説を立てる練習をしよう！
+
+you…</itunes:subtitle>
+      <description>エンジニア初心者が何をしたらいいかシリーズ！
+エンジニアとして仮説を立てる練習をしよう！
+
+youtube : https://youtu.be/JQRGneFcV60
+
+【前回】
+3jumper - エンジニア初心者へ 手を動かすと上達?
+https://soundcloud.com/3jumper/3jumper_10
+
+＜内容＞
+エンジニア初心者がどうやって学んでいくのか姿勢的なことを喋ってます。
+仮説を立てる練習をしよう
+仮説を立てることで、全体の把握、バグの早期発見ができる
+などなど
+
+＜今回の音楽＞
+Josh Woodward - This Is Everything
+http://freemusicarchive.org/music/Josh_Woodward
+
+＜主に利用しているBGMサイト＞
+甘茶の音楽工房さん
+http://amachamusic.chagasi.com/
+
+DOVA-SYNDROME
+http://dova-s.jp/
+
+音楽素材提供：Music-Note.jp
+URL：http://www.music-note.jp/
+
+【3jumperのHP】
+https://3jumper.com
+【3jumperのブログ】
+http://3jumper.hatenablog.com/
+【3jumperのTwitter】
+https://twitter.com/3jumper
+【3jumperのFacebook】
+https://www.facebook.com/3jumper
+【3jumperのyoutubeチャンネル】
+https://www.youtube.com/channel/UC7tlxLd4lqLrcf1Lz24HQ6Q
+【3jumperのsoundcloud チャンネル】
+https://soundcloud.com/3jumper
+
+chat bots / AI / ML / AWS / 初心者&lt;img src="http://feeds.feedburner.com/~r/3jumper/~4/8Bw8i12A5ws" height="1" width="1" alt=""/&gt;</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/281059050-3jumper-3jumper_12.mp3" length="27782056" />
+      <itunes:image href="http://i1.sndcdn.com/artworks-000180277496-0ybwdl-original.jpg" />
+    <author>it.3jumper@gmail.com (3jumper)</author><media:content url="http://feeds.soundcloud.com/stream/281059050-3jumper-3jumper_12.mp3" fileSize="27782056" type="audio/mpeg" /><itunes:keywords>3jumper,aws,it,エンジニア,chat,bots,AI,ML,machine,learning,チャットボット,チャットbot,初心者エンジニア,エンジニア,機械学習,人工知能</itunes:keywords><feedburner:origLink>https://soundcloud.com/3jumper/3jumper_12</feedburner:origLink></item>
+      <media:credit role="author">3jumper</media:credit><media:rating>nonadult</media:rating><media:description type="plain">スタートアップのフルスタックエンジニアによるIT情報をラジオ風に配信します！ </media:description></channel>
+    </rss>

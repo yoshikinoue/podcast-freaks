@@ -1,0 +1,999 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+      <channel>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:466377696/sounds.rss" rel="self" type="application/rss+xml"/>
+        <atom:link href="http://feeds.soundcloud.com/users/soundcloud:users:466377696/sounds.rss?before=461429868" rel="next" type="application/rss+xml"/>
+        <title>Mazrica.fm</title>
+        <link>http://soundcloud.com/user-549591188</link>
+        <pubDate>Tue, 04 Dec 2018 09:28:37 +0000</pubDate>
+        <lastBuildDate>Tue, 04 Dec 2018 09:28:37 +0000</lastBuildDate>
+        <ttl>60</ttl>
+        <language>en</language>
+        <copyright>All rights reserved</copyright>
+        <webMaster>feeds@soundcloud.com (SoundCloud Feeds)</webMaster>
+        <description>Podcast by Mazrica.fm</description>
+        <itunes:subtitle>Podcast by Mazrica.fm</itunes:subtitle>
+        <itunes:owner>
+          <itunes:name>Mazrica.fm</itunes:name>
+          <itunes:email>feeds@soundcloud.com</itunes:email>
+        </itunes:owner>
+        <itunes:author>Mazrica.fm</itunes:author>
+        <itunes:explicit>no</itunes:explicit>
+        <itunes:image href="http://i1.sndcdn.com/avatars-000480554232-3ydn89-original.jpg"/>
+        <image>
+          <url>http://i1.sndcdn.com/avatars-000480554232-3ydn89-original.jpg</url>
+          <title>Mazrica.fm</title>
+          <link>http://soundcloud.com/user-549591188</link>
+        </image>
+        <itunes:category text="Technology"/>
+        <item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/539583573</guid>
+      <title>sp.7 スタートアップを楽しむ！Saasで営業界に変革を起こしたい話</title>
+      <pubDate>Tue, 04 Dec 2018 09:28:37 +0000</pubDate>
+      <link>https://soundcloud.com/user-549591188/sp7-fm</link>
+      <itunes:duration>00:51:28</itunes:duration>
+      <itunes:author>Mazrica.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+久々の内部ゲスト、そして初のビジネスチームからの参戦です。
+営業支援ツールSensesというプロダクトと株式会社マツリカを、ビジネスチームメンバーとテックチームメンバーの両立場で語っています。スタートアップならではの会話をお聞きください！
+
+【Show note】
+
+* 自己紹介 
+* ニックネーム：カリスマ
+* 1000人いる営業でトップを取るカリスマ
+* 営業という職業を選んだ理由
+* 外資の営業は成長できそうだったから
+* トップを取ったまま転職。営業コンサルへ
+* 営業コンサルの副業中！クライアントも募集中！ （詳細後述）
+* マツリカではプレーヤー
+* マツリカに転職したきっかけ
+* 「ミッションドリブンな会社じゃないと行かないぞ」って言おうとしたらミッションドリブンな会社だった
+* エンジニア視点で営業支援ツールを作るってどんな感じ？
+* 顧客管理システムが運用できずにExcel管理になってしまう問題
+*ビジネス用語の略語むずかしい問題
+* 営業支援ツール自体はレッドオーシャンだが、Sensesはこれまでのプロダクトとは思想が違う
+* マツリカBizチームの採用の話
+* プロダクトやビジョンに共感できるか
+* 素直で明るい人。学歴やセールスの知識は求めてない。1から2000まで教える構え
+* 第二新卒がベストマッチしそう
+* カスタマーサクセスと営業とプロダクト
+* 売って終わりじゃないのがSaas
+* コンサル、営業、接客が好きだったりやりたい人はカスタマーサクセスに向いている
+* 営業にセンスは必ずしも必要ない。だからこそロジックが大事
+* マツリカの働く環境はいいぞ！
+* 営業支援ツール、エンジニアはユーザから遠そうだけど、実はそこまで遠くない
+* マツリカでは変革を起こしたいメンバーを募集しています https://www.wantedly.com/projects/261488
+* インターン生積極採用中！ https://www.wantedly.com/projects/259977
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+カリスマ https://www.wantedly.com/users/18973331
+　ブログ：http://sales-scientist-nakatani.hatenablog.com/
+　営業コンサル依頼連絡先：masafumi.nakatani@mazrica.com
+
+【マツリカ企業情報】
+mazrica.com/
+product-senses.mazrica.com/
+
+【マツリカ採用情報】
+www.wantedly.com/companies/mazrica</itunes:summary>
+      <itunes:subtitle>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術…</itunes:subtitle>
+      <description>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+久々の内部ゲスト、そして初のビジネスチームからの参戦です。
+営業支援ツールSensesというプロダクトと株式会社マツリカを、ビジネスチームメンバーとテックチームメンバーの両立場で語っています。スタートアップならではの会話をお聞きください！
+
+【Show note】
+
+* 自己紹介 
+* ニックネーム：カリスマ
+* 1000人いる営業でトップを取るカリスマ
+* 営業という職業を選んだ理由
+* 外資の営業は成長できそうだったから
+* トップを取ったまま転職。営業コンサルへ
+* 営業コンサルの副業中！クライアントも募集中！ （詳細後述）
+* マツリカではプレーヤー
+* マツリカに転職したきっかけ
+* 「ミッションドリブンな会社じゃないと行かないぞ」って言おうとしたらミッションドリブンな会社だった
+* エンジニア視点で営業支援ツールを作るってどんな感じ？
+* 顧客管理システムが運用できずにExcel管理になってしまう問題
+*ビジネス用語の略語むずかしい問題
+* 営業支援ツール自体はレッドオーシャンだが、Sensesはこれまでのプロダクトとは思想が違う
+* マツリカBizチームの採用の話
+* プロダクトやビジョンに共感できるか
+* 素直で明るい人。学歴やセールスの知識は求めてない。1から2000まで教える構え
+* 第二新卒がベストマッチしそう
+* カスタマーサクセスと営業とプロダクト
+* 売って終わりじゃないのがSaas
+* コンサル、営業、接客が好きだったりやりたい人はカスタマーサクセスに向いている
+* 営業にセンスは必ずしも必要ない。だからこそロジックが大事
+* マツリカの働く環境はいいぞ！
+* 営業支援ツール、エンジニアはユーザから遠そうだけど、実はそこまで遠くない
+* マツリカでは変革を起こしたいメンバーを募集しています https://www.wantedly.com/projects/261488
+* インターン生積極採用中！ https://www.wantedly.com/projects/259977
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+カリスマ https://www.wantedly.com/users/18973331
+　ブログ：http://sales-scientist-nakatani.hatenablog.com/
+　営業コンサル依頼連絡先：masafumi.nakatani@mazrica.com
+
+【マツリカ企業情報】
+mazrica.com/
+product-senses.mazrica.com/
+
+【マツリカ採用情報】
+www.wantedly.com/companies/mazrica</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/539583573-user-549591188-sp7-fm.mp3" length="51315708"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000452837589-2yw08y-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/518702589</guid>
+      <title>sp.6 COMP開発者鈴木さんと語る「今、夢中になることがある人」こそCOMPを試すと良い話</title>
+      <pubDate>Fri, 26 Oct 2018 03:00:03 +0000</pubDate>
+      <link>https://soundcloud.com/user-549591188/sp6-fm</link>
+      <itunes:duration>00:48:36</itunes:duration>
+      <itunes:author>Mazrica.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回は、株式会社コンプ 代表取締役CEO 鈴木優太さんをゲストにお招きしました。
+COMPがつくられたきっかけや、COMPが目指す未来、「ダイエットや筋トレしている人にとっても”完全食”でありたいので改良もしている」などの”夢中をサポートする”べく取り組んでいることや、COMPの上手な付き合い方などを話しました。
+
+【Show note】
+
+- 株式会社コンプ代表取締役CEO 鈴木優太さん http://www.comp.jp/company.html
+- RyoがCOMPを使い始めたきっかけ
+- COMPのコンセプト「夢中をサポートする」
+- 鈴木さんが語るコンプをつくったきっかけ
+- COMP好きだと言うと、3食全部COMPを使っているという誤解される。本来のCOMPの使いどころ
+- エンジニアがCOMPを買う瞬間の動機は「病気になったトラウマ」「手軽に健康を」が重なったとき？
+- 栄養は難しい。何が自分にとっていいのか理解することが大変
+- 「COMPは現代で把握されている栄養がすべて入っている」故に栄養に関して考えなくていいようになっている https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/syokuji_kijyun.html
+- ”コンビニに行って健康そうなものを頑張って選んだのに、その選んだものが間違っているという現実”
+- 内部アシスタントのガクトさんが実はCOMPに惹かれていた！
+- パウダー、グミ、ドリンクという3種のCOMPタイプを出している理由とは http://www.comp.jp/products/
+- COMPは頑張らずに使うもの
+- COMPの最終型は「COMPだけで生きるようにしたいのか？」「補助的なものとして使えるようにしたいのか？」
+- COMPがでる以前、 忙しいときの選択肢はなんだったか
+- 健康的なものは、健康であればあるほど”美味しくなくなる”
+- COMPは生活習慣病を治したい
+- 「夢中は自分の身体があってこそ」
+- 株式会社コンプの新しいプロダクト
+- 健康＋”集中”、健康＋”〇〇”、というように健康をブーストしたい
+- 某エナジードリンクなどは集中するためのものではない
+- 「食の楽しみを毀損するなんて許さないという風潮」
+- でもウィ●ー●リー飲んだことあるんじゃない？つまりオンとオフでしかない
+- COMPも同じで、要所で使えばよいと思う
+- ここまでの話によって、COMPユーザでなかったガクトさんが心揺れる
+- 一日通してご飯を食べる時間がなく、飲んでたらユーザ側に寄っていた
+- COMPは今まで選択肢に入らなかった人にとっては思ってもみない発想。そこで拒絶反応がでることもあるよね
+- 今までの食のプラスαでしかないぞ、と伝えていきたい
+- 株式会社コンプが求める人材とは？ 
+- コンプでは人材を募集しています　https://www.wantedly.com/companies/cooomp/projects
+
+（※ちょうど一時間と言っていたけれど全然違いました（笑））
+
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【臨時アシスタント】
+ガクトさん（コンプさんと繋いでいただきました！）https://www.wantedly.com/users/780347
+
+【ゲスト】
+鈴木優太さん https://twitter.com/aheahe_comp
+
+【マツリカ企業情報】
+mazrica.com/
+product-senses.mazrica.com/
+
+【マツリカ採用情報】
+www.wantedly.com/companies/mazrica</itunes:summary>
+      <itunes:subtitle>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術…</itunes:subtitle>
+      <description>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回は、株式会社コンプ 代表取締役CEO 鈴木優太さんをゲストにお招きしました。
+COMPがつくられたきっかけや、COMPが目指す未来、「ダイエットや筋トレしている人にとっても”完全食”でありたいので改良もしている」などの”夢中をサポートする”べく取り組んでいることや、COMPの上手な付き合い方などを話しました。
+
+【Show note】
+
+- 株式会社コンプ代表取締役CEO 鈴木優太さん http://www.comp.jp/company.html
+- RyoがCOMPを使い始めたきっかけ
+- COMPのコンセプト「夢中をサポートする」
+- 鈴木さんが語るコンプをつくったきっかけ
+- COMP好きだと言うと、3食全部COMPを使っているという誤解される。本来のCOMPの使いどころ
+- エンジニアがCOMPを買う瞬間の動機は「病気になったトラウマ」「手軽に健康を」が重なったとき？
+- 栄養は難しい。何が自分にとっていいのか理解することが大変
+- 「COMPは現代で把握されている栄養がすべて入っている」故に栄養に関して考えなくていいようになっている https://www.mhlw.go.jp/stf/seisakunitsuite/bunya/kenkou_iryou/kenkou/eiyou/syokuji_kijyun.html
+- ”コンビニに行って健康そうなものを頑張って選んだのに、その選んだものが間違っているという現実”
+- 内部アシスタントのガクトさんが実はCOMPに惹かれていた！
+- パウダー、グミ、ドリンクという3種のCOMPタイプを出している理由とは http://www.comp.jp/products/
+- COMPは頑張らずに使うもの
+- COMPの最終型は「COMPだけで生きるようにしたいのか？」「補助的なものとして使えるようにしたいのか？」
+- COMPがでる以前、 忙しいときの選択肢はなんだったか
+- 健康的なものは、健康であればあるほど”美味しくなくなる”
+- COMPは生活習慣病を治したい
+- 「夢中は自分の身体があってこそ」
+- 株式会社コンプの新しいプロダクト
+- 健康＋”集中”、健康＋”〇〇”、というように健康をブーストしたい
+- 某エナジードリンクなどは集中するためのものではない
+- 「食の楽しみを毀損するなんて許さないという風潮」
+- でもウィ●ー●リー飲んだことあるんじゃない？つまりオンとオフでしかない
+- COMPも同じで、要所で使えばよいと思う
+- ここまでの話によって、COMPユーザでなかったガクトさんが心揺れる
+- 一日通してご飯を食べる時間がなく、飲んでたらユーザ側に寄っていた
+- COMPは今まで選択肢に入らなかった人にとっては思ってもみない発想。そこで拒絶反応がでることもあるよね
+- 今までの食のプラスαでしかないぞ、と伝えていきたい
+- 株式会社コンプが求める人材とは？ 
+- コンプでは人材を募集しています　https://www.wantedly.com/companies/cooomp/projects
+
+（※ちょうど一時間と言っていたけれど全然違いました（笑））
+
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【臨時アシスタント】
+ガクトさん（コンプさんと繋いでいただきました！）https://www.wantedly.com/users/780347
+
+【ゲスト】
+鈴木優太さん https://twitter.com/aheahe_comp
+
+【マツリカ企業情報】
+mazrica.com/
+product-senses.mazrica.com/
+
+【マツリカ採用情報】
+www.wantedly.com/companies/mazrica</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/518702589-user-549591188-sp6-fm.mp3" length="49510399"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000427003047-qipxxq-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/514752258</guid>
+      <title>sp.5 モバイルエンジニアTakasyさんYokoyanさんと語るアウトプットする工夫</title>
+      <pubDate>Sat, 20 Oct 2018 10:11:12 +0000</pubDate>
+      <link>https://soundcloud.com/user-549591188/sp5-fm</link>
+      <itunes:duration>01:08:10</itunes:duration>
+      <itunes:author>Mazrica.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回は、マツリカfm初の3名収録をしました！
+外部ゲストのTakasyさん、マツリカ内部ゲストのYokoyanさんをお呼びして、最近のPodcast事情やアウトプットするための工夫について話しました。
+
+【Show note】
+
+- Takasyさん自己紹介 https://twitter.com/takattata
+- 株式会社Cluexさん紹介 http://cluex.co.jp/
+- モバイルエンジニア
+- Ryoのポートフォリオの話 https://vtryo.me
+- Netlify（ネットリファイと発音するらしいです。失礼しました）
+- Takasyさんブログ http://takattata.hateblo.jp/
+- yatteiki.fmでイトッポイドさんが号泣する話がすき（52話と言ってますが正しくは50話でした）
+https://yatteiki.fm/episode/50
+- Rebuild.fmの話
+- Deploy.fmとDeploy.am https://deploy.am/podcast
+- fmドメインは金額が高い
+- エンジニアが結婚するときサービスつくりがち
+- アウトプットなぜできないのか問題。なにがハードルでできなくなってしまうのか
+- インプットとアウトプットのバランスが悪い
+- ブログのネタ探し問題
+- 「需要を決めるのは自分じゃない」
+- ブログを毎日書いて練習していた人もいる
+- 行動のハードルを下げる技術書でもある「セイチョウ・ジャーニー」https://growthfaction.booth.pm/items/1038923
+- Qiitaだといいねつかないとつらくなる
+- イベント参加系ブログは誰より先に公開する。その方法とは
+- 積まれる本が多いほうが健全
+- Cluexではエンジニアを募集しています！ https://www.wantedly.com/companies/cluex/projects
+- Deploy.fmもゲスト募集中です！ https://takattata.github.io/deployfm/
+
+マツリカfmではTwitterでフィードバックを募集してます！
+#マツリカfm でつぶやいてみてください！
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+Takasyさん https://twitter.com/takattata
+Yokoyanさん https://twitter.com/yokoyas000
+
+
+【マツリカ企業情報】
+mazrica.com/
+product-senses.mazrica.com/
+
+【マツリカ採用情報】
+www.wantedly.com/companies/mazrica</itunes:summary>
+      <itunes:subtitle>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術…</itunes:subtitle>
+      <description>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回は、マツリカfm初の3名収録をしました！
+外部ゲストのTakasyさん、マツリカ内部ゲストのYokoyanさんをお呼びして、最近のPodcast事情やアウトプットするための工夫について話しました。
+
+【Show note】
+
+- Takasyさん自己紹介 https://twitter.com/takattata
+- 株式会社Cluexさん紹介 http://cluex.co.jp/
+- モバイルエンジニア
+- Ryoのポートフォリオの話 https://vtryo.me
+- Netlify（ネットリファイと発音するらしいです。失礼しました）
+- Takasyさんブログ http://takattata.hateblo.jp/
+- yatteiki.fmでイトッポイドさんが号泣する話がすき（52話と言ってますが正しくは50話でした）
+https://yatteiki.fm/episode/50
+- Rebuild.fmの話
+- Deploy.fmとDeploy.am https://deploy.am/podcast
+- fmドメインは金額が高い
+- エンジニアが結婚するときサービスつくりがち
+- アウトプットなぜできないのか問題。なにがハードルでできなくなってしまうのか
+- インプットとアウトプットのバランスが悪い
+- ブログのネタ探し問題
+- 「需要を決めるのは自分じゃない」
+- ブログを毎日書いて練習していた人もいる
+- 行動のハードルを下げる技術書でもある「セイチョウ・ジャーニー」https://growthfaction.booth.pm/items/1038923
+- Qiitaだといいねつかないとつらくなる
+- イベント参加系ブログは誰より先に公開する。その方法とは
+- 積まれる本が多いほうが健全
+- Cluexではエンジニアを募集しています！ https://www.wantedly.com/companies/cluex/projects
+- Deploy.fmもゲスト募集中です！ https://takattata.github.io/deployfm/
+
+マツリカfmではTwitterでフィードバックを募集してます！
+#マツリカfm でつぶやいてみてください！
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+Takasyさん https://twitter.com/takattata
+Yokoyanさん https://twitter.com/yokoyas000
+
+
+【マツリカ企業情報】
+mazrica.com/
+product-senses.mazrica.com/
+
+【マツリカ採用情報】
+www.wantedly.com/companies/mazrica</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/514752258-user-549591188-sp5-fm.mp3" length="67657976"/>
+      <itunes:image href="http://i1.sndcdn.com/avatars-000480554232-3ydn89-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/514520133</guid>
+      <title>sp.4 Rubyプログラマmokuoさんと語る個人開発とチーム開発の話</title>
+      <pubDate>Mon, 15 Oct 2018 08:48:35 +0000</pubDate>
+      <link>https://soundcloud.com/user-549591188/sp4-fm</link>
+      <itunes:duration>01:08:29</itunes:duration>
+      <itunes:author>Mazrica.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+外部ゲスト、mokuoさんをお呼びした後編です。
+Rubyプログラマのmokuoさんと個人開発、チーム開発に関することを中心に技術の話をしました。
+パーソナリティRyoが駆け出しエンジニア目線で色々と話をしています。
+
+【Show note】
+- SansanとSensesの連携 https://docs.ap.sansan.com/ja/api/index.html
+- 個人開発の話
+- サーバレスの普及で焦るインフラエンジニア
+- Firebaseの普及で焦るバックエンドエンジニア https://firebase.google.com/?hl=ja
+- firebase, herokuが個人開発で多い
+- 周辺ツール多すぎ問題
+- ツールを導入するときどうするの問題
+- 他のレイヤーの知識がないとつらい問題
+- 受託開発をしていたので新規開発経験があるmokuoさん
+- 自社開発が長い人は意外と新規開発経験がない
+- Railsチュートリアル全部やる vs プロダクトを作って勉強する
+- Rubyとrailsのお作法問題
+- 組織での開発をしてみてはじめて知ることがある
+- 個人開発ではわからない部分は一旦働いてみるっていうのはあり
+- Chef実践入門 https://goo.gl/ttr4RU
+- Chef実践入門の菅井さんは現在転職されています 
+- Sansan株式会社の社内勉強会
+- マツリカの社内勉強会
+- カイゼン・ジャーニーを読んだ
+- Web技術だけを追っていていいのか不安
+- IoT, VR
+- Sansan株式会社を支えるDSOCの技術の話
+- Sansan株式会社ではエンジニアを募集中
+
+マツリカfmではTwitterでフィードバックを募集してます！
+#マツリカfm でつぶやいてみてください！
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+mokuoさん twitter.com/mokuo_</itunes:summary>
+      <itunes:subtitle>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術…</itunes:subtitle>
+      <description>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+外部ゲスト、mokuoさんをお呼びした後編です。
+Rubyプログラマのmokuoさんと個人開発、チーム開発に関することを中心に技術の話をしました。
+パーソナリティRyoが駆け出しエンジニア目線で色々と話をしています。
+
+【Show note】
+- SansanとSensesの連携 https://docs.ap.sansan.com/ja/api/index.html
+- 個人開発の話
+- サーバレスの普及で焦るインフラエンジニア
+- Firebaseの普及で焦るバックエンドエンジニア https://firebase.google.com/?hl=ja
+- firebase, herokuが個人開発で多い
+- 周辺ツール多すぎ問題
+- ツールを導入するときどうするの問題
+- 他のレイヤーの知識がないとつらい問題
+- 受託開発をしていたので新規開発経験があるmokuoさん
+- 自社開発が長い人は意外と新規開発経験がない
+- Railsチュートリアル全部やる vs プロダクトを作って勉強する
+- Rubyとrailsのお作法問題
+- 組織での開発をしてみてはじめて知ることがある
+- 個人開発ではわからない部分は一旦働いてみるっていうのはあり
+- Chef実践入門 https://goo.gl/ttr4RU
+- Chef実践入門の菅井さんは現在転職されています 
+- Sansan株式会社の社内勉強会
+- マツリカの社内勉強会
+- カイゼン・ジャーニーを読んだ
+- Web技術だけを追っていていいのか不安
+- IoT, VR
+- Sansan株式会社を支えるDSOCの技術の話
+- Sansan株式会社ではエンジニアを募集中
+
+マツリカfmではTwitterでフィードバックを募集してます！
+#マツリカfm でつぶやいてみてください！
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+mokuoさん twitter.com/mokuo_</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/514520133-user-549591188-sp4-fm.mp3" length="68380268"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000421242420-le34rm-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/503937237</guid>
+      <title>sp.3 師匠に背中を押されてRubyざんまいになったmokuoさんの話</title>
+      <pubDate>Sun, 23 Sep 2018 13:19:03 +0000</pubDate>
+      <link>https://soundcloud.com/user-549591188/sp3-fm</link>
+      <itunes:duration>01:12:16</itunes:duration>
+      <itunes:author>Mazrica.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回は外部ゲスト、Mokuoさんをお呼びしました。
+Rubyistの大先輩に出会ったことで、徐々にMokuoさんのエンジニア人生がよい方向に進んでいくエピソードに注目です！
+
+【Show note】
+外部ゲスト回：mokuoさん https://twitter.com/mokuo_
+SIerから受託会社に転職。そしてSansan株式会社へ https://jp.corp-sansan.com/
+Senses（営業支援ツール）、Eight（個人名刺管理）ともにRailsでプロダクトを開発 https://jp.corp-sansan.com/service/
+mokuoさんとRyoの出会い https://supporterzcolab.com/event/206/
+Eightのフィードに投稿するとつながっていない人にも拡散される
+DSOCに異動 https://jp.corp-sansan.com/dsoc/
+Rubykaigiの話 https://blog.mokuo.me/entry/rubykaigi-2018
+Rubyist、Yuki Minamiyaさんとの出会い https://twitter.com/yuki3738
+よちよち.rb https://yochiyochirb.doorkeeper.jp/
+Rails Developer Meetup https://blog.mokuo.me/entry/2018/07/22/180219
+セパレートキーボードを使い始めた話 https://blog.mokuo.me/entry/2018/09/14/195355
+Mistel BAROCCO http://www.archisite.co.jp/products/mistel/barocco-en/
+HHKB http://www.pfu.fujitsu.com/hhkeyboard/hhkbpro2/standard.html
+セパレートキーボードを使うと痩せる！？ https://fufufu.rohto.co.jp/feature/54054/
+スターバックスはいいぞ。カードを作ってお得に飲もう！ http://www.starbucks.co.jp/card/?mode=mb_001
+常連になるといいことあるスターバックス
+インプットとアウトプットの話
+転職LTの話 https://ex-sier.connpass.com/
+資格取得の話
+結婚するとインプットの時間は減るのか？
+Sansan株式会社はエンジニアを募集しています https://jp.corp-sansan.com/recruit/
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+mokuoさん https://twitter.com/mokuo_</itunes:summary>
+      <itunes:subtitle>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術…</itunes:subtitle>
+      <description>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回は外部ゲスト、Mokuoさんをお呼びしました。
+Rubyistの大先輩に出会ったことで、徐々にMokuoさんのエンジニア人生がよい方向に進んでいくエピソードに注目です！
+
+【Show note】
+外部ゲスト回：mokuoさん https://twitter.com/mokuo_
+SIerから受託会社に転職。そしてSansan株式会社へ https://jp.corp-sansan.com/
+Senses（営業支援ツール）、Eight（個人名刺管理）ともにRailsでプロダクトを開発 https://jp.corp-sansan.com/service/
+mokuoさんとRyoの出会い https://supporterzcolab.com/event/206/
+Eightのフィードに投稿するとつながっていない人にも拡散される
+DSOCに異動 https://jp.corp-sansan.com/dsoc/
+Rubykaigiの話 https://blog.mokuo.me/entry/rubykaigi-2018
+Rubyist、Yuki Minamiyaさんとの出会い https://twitter.com/yuki3738
+よちよち.rb https://yochiyochirb.doorkeeper.jp/
+Rails Developer Meetup https://blog.mokuo.me/entry/2018/07/22/180219
+セパレートキーボードを使い始めた話 https://blog.mokuo.me/entry/2018/09/14/195355
+Mistel BAROCCO http://www.archisite.co.jp/products/mistel/barocco-en/
+HHKB http://www.pfu.fujitsu.com/hhkeyboard/hhkbpro2/standard.html
+セパレートキーボードを使うと痩せる！？ https://fufufu.rohto.co.jp/feature/54054/
+スターバックスはいいぞ。カードを作ってお得に飲もう！ http://www.starbucks.co.jp/card/?mode=mb_001
+常連になるといいことあるスターバックス
+インプットとアウトプットの話
+転職LTの話 https://ex-sier.connpass.com/
+資格取得の話
+結婚するとインプットの時間は減るのか？
+Sansan株式会社はエンジニアを募集しています https://jp.corp-sansan.com/recruit/
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+mokuoさん https://twitter.com/mokuo_</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/503937237-user-549591188-sp3-fm.mp3" length="72908951"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000409796286-40ej0z-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/496025220</guid>
+      <title>sp.2 ガミさんと語る&quot;楽しい&quot;COMPと技術書典の話</title>
+      <pubDate>Thu, 06 Sep 2018 14:01:33 +0000</pubDate>
+      <link>https://soundcloud.com/user-549591188/sp2-fm</link>
+      <itunes:duration>01:20:02</itunes:duration>
+      <itunes:author>Mazrica.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回は初の外部ゲスト、#しがないラジオ パーソナリティのひとり、gamiさんをお呼びした後半です。
+COMPの話やエクストリーム食事、技術書典5に出展する話、Podcastの話をしました。
+
+【Show note】
+・完全食COMP www.comp.jp/
+・COMP何で割って飲む？
+・COMPは意志力を節約する
+・ガミさんの食事ルーチン戦略
+・結婚おめでとうございます！
+・結婚生活、COMPどうする問題。「今日はCOMP抹茶テイストよ♡」
+・エクストリーム食事
+・結婚式効率問題
+・技術書典5　techbookfest.org/event/tbf05
+・しがないラジオも出展　shiganai.org/
+・インフラ勉強会に参加してみた話など
+・しがないラジオとマツリカfmの話
+・湊川あいさんの話　twitter.com/llminatoll
+・Podcastがつないでくれた、新たなつながり
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+gamiさん twitter.com/jumpei_ikegami</itunes:summary>
+      <itunes:subtitle>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術…</itunes:subtitle>
+      <description>mazrica.fmは、株式会社マツリカ公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回は初の外部ゲスト、#しがないラジオ パーソナリティのひとり、gamiさんをお呼びした後半です。
+COMPの話やエクストリーム食事、技術書典5に出展する話、Podcastの話をしました。
+
+【Show note】
+・完全食COMP www.comp.jp/
+・COMP何で割って飲む？
+・COMPは意志力を節約する
+・ガミさんの食事ルーチン戦略
+・結婚おめでとうございます！
+・結婚生活、COMPどうする問題。「今日はCOMP抹茶テイストよ♡」
+・エクストリーム食事
+・結婚式効率問題
+・技術書典5　techbookfest.org/event/tbf05
+・しがないラジオも出展　shiganai.org/
+・インフラ勉強会に参加してみた話など
+・しがないラジオとマツリカfmの話
+・湊川あいさんの話　twitter.com/llminatoll
+・Podcastがつないでくれた、新たなつながり
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+gamiさん twitter.com/jumpei_ikegami</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/496025220-user-549591188-sp2-fm.mp3" length="81927159"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000400760325-5e7glh-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/490085496</guid>
+      <title>sp.1 Podcasterガミさんと語る”楽しい”五反田界隈あるある</title>
+      <pubDate>Fri, 24 Aug 2018 16:48:41 +0000</pubDate>
+      <link>https://soundcloud.com/user-549591188/sp1-fm</link>
+      <itunes:duration>01:06:49</itunes:duration>
+      <itunes:author>Mazrica.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>mazrica.fmは、株式会社マツリカ”公式”ラジオになりました！！
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回は初の外部ゲスト、#しがないラジオ パーソナリティのひとり、gamiさんをお呼びしました。
+五反田のRyoと元五反田のgamiさんのローカルトークにご注目ください！
+
+【Show note】
+・Mazrica.fm公式化決定！
+・初の外部ゲスト回 gamiさん : https://twitter.com/jumpei_ikegami
+・株式会社プレイド : https://plaid.co.jp/
+・プレイドという社名とKARTEというプロダクト名が違う理由 : https://karte.io/
+・gamiさんの強みを活かした技術広報活動
+・ブログタイトルのこだわり
+・サイ本を読んでわかったことを書いたブログがブクマ４００超え : https://jumpei-ikegami.hatenablog.com/entry/2018/07/16/124333
+・プレイドさんのSREの活躍：CodeZine, 登壇など表に出ていることが多い
+・やっぱりSaasはよい
+・銀座のランチ、美味しくてコスパが最強だった店：牛庵 : https://tabelog.com/tokyo/A1301/A130101/13002336/
+・五反田ランチでやっぱり出てくるロマーノ : https://tabelog.com/tokyo/A1316/A131603/13133526/
+・gamiさんお気に入り、中華の陳家私菜 : https://tabelog.com/tokyo/A1316/A131603/13050281/
+・まさかの辛いもの好きが共通していたgamiさんとRyo
+・うどんという名前のカレー屋 : https://tabelog.com/tokyo/A1316/A131603/13004531/
+・スシローで自分ルール（植物だけ食うなど）で縛るガミさん
+・しがないラジオが技術書典5に出展します！ : https://shiganai.org/
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+gamiさん https://twitter.com/jumpei_ikegami</itunes:summary>
+      <itunes:subtitle>mazrica.fmは、株式会社マツリカ”公式”ラジオになりました！！
+マツリカに関することや、五…</itunes:subtitle>
+      <description>mazrica.fmは、株式会社マツリカ”公式”ラジオになりました！！
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回は初の外部ゲスト、#しがないラジオ パーソナリティのひとり、gamiさんをお呼びしました。
+五反田のRyoと元五反田のgamiさんのローカルトークにご注目ください！
+
+【Show note】
+・Mazrica.fm公式化決定！
+・初の外部ゲスト回 gamiさん : https://twitter.com/jumpei_ikegami
+・株式会社プレイド : https://plaid.co.jp/
+・プレイドという社名とKARTEというプロダクト名が違う理由 : https://karte.io/
+・gamiさんの強みを活かした技術広報活動
+・ブログタイトルのこだわり
+・サイ本を読んでわかったことを書いたブログがブクマ４００超え : https://jumpei-ikegami.hatenablog.com/entry/2018/07/16/124333
+・プレイドさんのSREの活躍：CodeZine, 登壇など表に出ていることが多い
+・やっぱりSaasはよい
+・銀座のランチ、美味しくてコスパが最強だった店：牛庵 : https://tabelog.com/tokyo/A1301/A130101/13002336/
+・五反田ランチでやっぱり出てくるロマーノ : https://tabelog.com/tokyo/A1316/A131603/13133526/
+・gamiさんお気に入り、中華の陳家私菜 : https://tabelog.com/tokyo/A1316/A131603/13050281/
+・まさかの辛いもの好きが共通していたgamiさんとRyo
+・うどんという名前のカレー屋 : https://tabelog.com/tokyo/A1316/A131603/13004531/
+・スシローで自分ルール（植物だけ食うなど）で縛るガミさん
+・しがないラジオが技術書典5に出展します！ : https://shiganai.org/
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+gamiさん https://twitter.com/jumpei_ikegami</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/490085496-user-549591188-sp1-fm.mp3" length="69800289"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000394073514-7p27s0-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/478703403</guid>
+      <title>ep.4「フランス生まれポルトガル育ち元CTO」なよっしーさんの話</title>
+      <pubDate>Mon, 30 Jul 2018 15:19:29 +0000</pubDate>
+      <link>https://soundcloud.com/user-549591188/ep4-fm</link>
+      <itunes:duration>00:57:39</itunes:duration>
+      <itunes:author>Mazrica.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回はTechチームのフロントエンドエンジニア、よっしーさんをゲストに、これまでの経歴と今の仕事について深掘りしました。
+
+【Show note】
+・ついにtechメンバー登場
+・よっしーさん自己紹介
+・フランス生まれポルトガル育ち、お父さんは日本料理「彩」のシェフ 　https://www.youtube.com/watch?v=RbfYgOoStEc
+・ITに目覚めたきっかけ
+・英語の読み書きができるのでよく教えてと言われる話
+・CTO時代は技術的な領域からチームビルディングまで幅広く担当していた
+・マツリカはエンジニアはフルスタック寄りの人が多い
+・技術が大好き派か、プロダクトのために技術がある派か
+・アウトプットが苦手だったけどマツリカに入社して積極果敢に行動するようになった話
+・マツリカの年齢や歴にとらわれないフラットな体制はやりやすい
+・スタートアップはルールが作られてないので自分たちで整備したい人は向いている
+・同業界のエンジニアは世界が狭いので会社の認知度は口コミで広がっていく
+・よっしーさんの選考基準
+・エンジニアの伸び方
+・池袋会という非公式サークル（？）は外部者も内部者も歓迎しています
+・よく飲み会する界隈をまとめたら便利だった
+・池袋のアガリコはいいぞ https://tabelog.com/tokyo/A1305/A130501/13127050/
+・社交性がなかったのでPodcastをしているのが奇跡
+・マツリカfmのホームページ作りたいね
+
+フィードバックは #マツリカfm でつぶやいてください＾＾
+感想や、やっていってほしい話題などは次回収録に活かされます！
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+ フロントエンドエンジニア よっしー https://twitter.com/nanopx
+
+【企業情報】
+https://mazrica.com/
+https://product-senses.mazrica.com/
+
+【採用情報】
+www.wantedly.com/companies/mazrica</itunes:summary>
+      <itunes:subtitle>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技…</itunes:subtitle>
+      <description>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回はTechチームのフロントエンドエンジニア、よっしーさんをゲストに、これまでの経歴と今の仕事について深掘りしました。
+
+【Show note】
+・ついにtechメンバー登場
+・よっしーさん自己紹介
+・フランス生まれポルトガル育ち、お父さんは日本料理「彩」のシェフ 　https://www.youtube.com/watch?v=RbfYgOoStEc
+・ITに目覚めたきっかけ
+・英語の読み書きができるのでよく教えてと言われる話
+・CTO時代は技術的な領域からチームビルディングまで幅広く担当していた
+・マツリカはエンジニアはフルスタック寄りの人が多い
+・技術が大好き派か、プロダクトのために技術がある派か
+・アウトプットが苦手だったけどマツリカに入社して積極果敢に行動するようになった話
+・マツリカの年齢や歴にとらわれないフラットな体制はやりやすい
+・スタートアップはルールが作られてないので自分たちで整備したい人は向いている
+・同業界のエンジニアは世界が狭いので会社の認知度は口コミで広がっていく
+・よっしーさんの選考基準
+・エンジニアの伸び方
+・池袋会という非公式サークル（？）は外部者も内部者も歓迎しています
+・よく飲み会する界隈をまとめたら便利だった
+・池袋のアガリコはいいぞ https://tabelog.com/tokyo/A1305/A130501/13127050/
+・社交性がなかったのでPodcastをしているのが奇跡
+・マツリカfmのホームページ作りたいね
+
+フィードバックは #マツリカfm でつぶやいてください＾＾
+感想や、やっていってほしい話題などは次回収録に活かされます！
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+ フロントエンドエンジニア よっしー https://twitter.com/nanopx
+
+【企業情報】
+https://mazrica.com/
+https://product-senses.mazrica.com/
+
+【採用情報】
+www.wantedly.com/companies/mazrica</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/478703403-user-549591188-ep4-fm.mp3" length="57409653"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000381503808-fww9bp-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/475520913</guid>
+      <title>ep.3 カスタマーサクセスは成長するのに最高な職種ではと思った話</title>
+      <pubDate>Mon, 23 Jul 2018 11:50:27 +0000</pubDate>
+      <link>https://soundcloud.com/user-549591188/ep3-fm</link>
+      <itunes:duration>00:20:33</itunes:duration>
+      <itunes:author>Mazrica.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回はカスタマーサクセスについて話しました。
+
+【Show Notes】
+・Podcastが応募者に聞かれはじめて嬉しい
+・カスタマーサクセスのヒアリングをした話
+・カスタマーサクセスはビジネススキルのオンパレード
+・カスタマーサクセスの特徴をあげてみた
+・プロダクトの成功と顧客の成功を担うポジション
+・企業のフェーズごとにカスタマーサクセスの在り方は変わる
+・カスタマーサクセスに向いてるのは合コンでうまく立ち回れるひと説
+・仕事の楽しさと大変さは共存する。仕事が楽しくて何が悪い（唐突）
+・次回はTechチームメンバーがくるぞ！
+・カスタマーサクセス募集中 https://www.wantedly.com/projects/217909
+
+フィードバックは #マツリカfm でつぶやいてください＾＾
+感想や、やっていってほしい話題などは次回収録に活かされます！
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【企業情報】
+mazrica.com/
+product-senses.mazrica.com/
+
+【採用情報】
+www.wantedly.com/companies/mazrica</itunes:summary>
+      <itunes:subtitle>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技…</itunes:subtitle>
+      <description>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回はカスタマーサクセスについて話しました。
+
+【Show Notes】
+・Podcastが応募者に聞かれはじめて嬉しい
+・カスタマーサクセスのヒアリングをした話
+・カスタマーサクセスはビジネススキルのオンパレード
+・カスタマーサクセスの特徴をあげてみた
+・プロダクトの成功と顧客の成功を担うポジション
+・企業のフェーズごとにカスタマーサクセスの在り方は変わる
+・カスタマーサクセスに向いてるのは合コンでうまく立ち回れるひと説
+・仕事の楽しさと大変さは共存する。仕事が楽しくて何が悪い（唐突）
+・次回はTechチームメンバーがくるぞ！
+・カスタマーサクセス募集中 https://www.wantedly.com/projects/217909
+
+フィードバックは #マツリカfm でつぶやいてください＾＾
+感想や、やっていってほしい話題などは次回収録に活かされます！
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【企業情報】
+mazrica.com/
+product-senses.mazrica.com/
+
+【採用情報】
+www.wantedly.com/companies/mazrica</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/475520913-user-549591188-ep3-fm.mp3" length="22160465"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000378063111-mc2xd5-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/468492264</guid>
+      <title>ep.2 採用面接前に聴きたいCo-CEOトムの話</title>
+      <pubDate>Sat, 07 Jul 2018 11:44:27 +0000</pubDate>
+      <link>https://soundcloud.com/user-549591188/ep2-fm</link>
+      <itunes:duration>00:42:05</itunes:duration>
+      <itunes:author>Mazrica.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回のゲストはCo−CEOの飯作さんです。
+マツリカの創業時の秘話や、リモートワークに関することなどをお話頂きました。
+
+【Show Notes】
+・マツリカメンバーにつけられるニックネーム
+・創業時のマツリカ
+・マツリカのプロダクト、Sensesとは
+・営業Expo、クラウドExpo
+・マツリカの採用基準
+・会社やめたくなったことはある？
+・マツリカのリモートワーク（https://www.wantedly.com/companies/mazrica/post_articles/123448）
+・リモートワークへの想い
+・残りの2018年の目標
+・カスタマーサクセスはカスタマーサポートではない
+・マツリカにCTOがいない理由
+・ただしCTO経験者と起業経験者はいる
+・Co-CEOから見た、このPodcast
+・mazrica.fmのリスナーは「社員」「応募者」「技術」「五反田」「スタートアップ」をキーワードに聞いてもらいたい
+・マツリカ社員、&quot;ロマーノ&quot;をよく使う話
+・https://www.wantedly.com/companies/mazrica/projects
+
+フィードバックは #マツリカfm でつぶやいてください＾＾
+感想や、やっていってほしい話題などは次回収録に活かされます！
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+Co-CEO 飯作供史 https://mazrica.com/team/
+
+【企業情報】
+https://mazrica.com/
+https://product-senses.mazrica.com/
+
+【採用情報】
+www.wantedly.com/companies/mazrica</itunes:summary>
+      <itunes:subtitle>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技…</itunes:subtitle>
+      <description>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+今回のゲストはCo−CEOの飯作さんです。
+マツリカの創業時の秘話や、リモートワークに関することなどをお話頂きました。
+
+【Show Notes】
+・マツリカメンバーにつけられるニックネーム
+・創業時のマツリカ
+・マツリカのプロダクト、Sensesとは
+・営業Expo、クラウドExpo
+・マツリカの採用基準
+・会社やめたくなったことはある？
+・マツリカのリモートワーク（https://www.wantedly.com/companies/mazrica/post_articles/123448）
+・リモートワークへの想い
+・残りの2018年の目標
+・カスタマーサクセスはカスタマーサポートではない
+・マツリカにCTOがいない理由
+・ただしCTO経験者と起業経験者はいる
+・Co-CEOから見た、このPodcast
+・mazrica.fmのリスナーは「社員」「応募者」「技術」「五反田」「スタートアップ」をキーワードに聞いてもらいたい
+・マツリカ社員、&quot;ロマーノ&quot;をよく使う話
+・https://www.wantedly.com/companies/mazrica/projects
+
+フィードバックは #マツリカfm でつぶやいてください＾＾
+感想や、やっていってほしい話題などは次回収録に活かされます！
+
+【パーソナリティ】
+Ryo twitter.com/3s_hv
+
+【ゲスト】
+Co-CEO 飯作供史 https://mazrica.com/team/
+
+【企業情報】
+https://mazrica.com/
+https://product-senses.mazrica.com/
+
+【採用情報】
+www.wantedly.com/companies/mazrica</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/468492264-user-549591188-ep2-fm.mp3" length="39848568"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000369956457-vqzsak-original.jpg"/>
+    </item><item>
+      <guid isPermaLink="false">tag:soundcloud,2010:tracks/461429868</guid>
+      <title>ep.1 ひとりMCひとりゲストではじまるPodcast</title>
+      <pubDate>Fri, 22 Jun 2018 00:00:00 +0000</pubDate>
+      <link>https://soundcloud.com/user-549591188/ep1-fm</link>
+      <itunes:duration>00:21:56</itunes:duration>
+      <itunes:author>Mazrica.fm</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:summary>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+【Show Notes】
+
+・ひとりMCで始まるPodcast
+・マツリカって何の会社？
+・Wantedlyフィードを書き始めた話
+　リモート飲み会のよさみ https://www.wantedly.com/companies/mazrica/post_articles/122779
+　マツリカの日常
+ https://www.wantedly.com/companies/mazrica/post_articles/123448
+・マツリカの面白い所
+
+フィードバックは #マツリカfm でつぶやいてください＾＾
+感想や、やっていってほしい話題などは次回収録に活かされます！
+
+【パーソナリティ】
+Ryo https://twitter.com/3s_hv
+
+【企業情報】
+https://mazrica.com/
+https://product-senses.mazrica.com/
+
+【採用情報】
+https://www.wantedly.com/companies/mazrica</itunes:summary>
+      <itunes:subtitle>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技…</itunes:subtitle>
+      <description>mazrica.fmは、株式会社マツリカ非公式ラジオです。
+マツリカに関することや、五反田情報、技術ネタなどを発信していきます。
+
+【Show Notes】
+
+・ひとりMCで始まるPodcast
+・マツリカって何の会社？
+・Wantedlyフィードを書き始めた話
+　リモート飲み会のよさみ https://www.wantedly.com/companies/mazrica/post_articles/122779
+　マツリカの日常
+ https://www.wantedly.com/companies/mazrica/post_articles/123448
+・マツリカの面白い所
+
+フィードバックは #マツリカfm でつぶやいてください＾＾
+感想や、やっていってほしい話題などは次回収録に活かされます！
+
+【パーソナリティ】
+Ryo https://twitter.com/3s_hv
+
+【企業情報】
+https://mazrica.com/
+https://product-senses.mazrica.com/
+
+【採用情報】
+https://www.wantedly.com/companies/mazrica</description>
+      <enclosure type="audio/mpeg" url="http://feeds.soundcloud.com/stream/461429868-user-549591188-ep1-fm.mp3" length="31603065"/>
+      <itunes:image href="http://i1.sndcdn.com/artworks-000363470415-l9iysi-original.jpg"/>
+    </item>
+      </channel>
+    </rss>

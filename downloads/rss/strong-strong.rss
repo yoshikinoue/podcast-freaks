@@ -1,0 +1,635 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:googleplay="http://www.google.com/schemas/play-podcasts/1.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:media="http://search.yahoo.com/mrss/" xml:lang="ja">
+  <channel>
+    <atom:link href="https://strong-strong.github.io/feed.xml" rel="self" type="application/rss+xml" />
+    <link>https://strong-strong.github.io/</link>
+    <title>今夜も Strong x Strong</title>
+    <description>むっつとハイチンがお酒(ストロングゼロ)を飲みながら語る酔っぱらい底辺Podcast</description>
+    <media:keywords>ストロングゼロ, Podcast, 底辺, お酒, 酔っぱらい, ポッドキャスト</media:keywords>
+    <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Technology</media:category>
+    <language>ja</language>
+    <googleplay:author>むっつ と ハイチン</googleplay:author>
+    <googleplay:image href="https://strong-strong.github.io/images/logo.png" />
+    <itunes:subtitle>むっつとハイチンがお酒(ストロングゼロ)を飲みながら語る酔っぱらい底辺Podcast</itunes:subtitle>
+    <itunes:author>むっつ と ハイチン</itunes:author>
+    <itunes:summary>むっつとハイチンがお酒(ストロングゼロ)を飲みながら語る酔っぱらい底辺Podcast</itunes:summary>
+    <itunes:keywords>ストロングゼロ, Podcast, 底辺, お酒, 酔っぱらい, ポッドキャスト</itunes:keywords>
+    <itunes:owner>
+      <itunes:name>むっつ と ハイチン</itunes:name>
+      <itunes:email>info@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:image href="https://strong-strong.github.io/images/logo.png" />
+    <itunes:category text="Technology"/>
+    <itunes:explicit>no</itunes:explicit>
+    
+      <item>
+        <title>20. むっつトーク</title>
+        <link>https://strong-strong.github.io/episode/20</link>
+        <pubDate>Tue, 19 Mar 2019 10:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番：むっつトーク&lt;/li&gt;
+  &lt;li&gt;卵が先か鶏が先か&lt;/li&gt;
+  &lt;li&gt;占いは気づきだ&lt;/li&gt;
+  &lt;li&gt;痩せた？と聞かれたときの回答で本当に痩せているか分かる&lt;/li&gt;
+  &lt;li&gt;スポンサー募集&lt;/li&gt;
+  &lt;li&gt;借りてきた猫&lt;/li&gt;
+  &lt;li&gt;EDトーク
+    &lt;ul&gt;
+      &lt;li&gt;飲み会で記憶なくしたことある？&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/20</guid>
+        <enclosure url="https://strong-strong.github.io/audio/20.mp3" length="45606274" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>20回目ですが、特別なことはありません。</itunes:subtitle>
+        <itunes:duration>01:34:58</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>19. 次回のゲストは蜜柑です</title>
+        <link>https://strong-strong.github.io/episode/19</link>
+        <pubDate>Sat, 23 Feb 2019 18:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番：修行者と仙人&lt;/li&gt;
+  &lt;li&gt;小が混んでるときに大に行く？&lt;/li&gt;
+  &lt;li&gt;心理テストを身につけると不幸なのでは？&lt;/li&gt;
+  &lt;li&gt;スポンサー募集&lt;/li&gt;
+  &lt;li&gt;🍊&amp;gt;🍌&amp;gt;豆&lt;/li&gt;
+  &lt;li&gt;🎤&lt;/li&gt;
+  &lt;li&gt;EDトーク
+    &lt;ul&gt;
+      &lt;li&gt;ベッキーの話&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/19</guid>
+        <enclosure url="https://strong-strong.github.io/audio/19.mp3" length="46835177" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>今回は音量が少しアレなので、アレです。</itunes:subtitle>
+        <itunes:duration>01:37:26</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>18. 🍊</title>
+        <link>https://strong-strong.github.io/episode/18</link>
+        <pubDate>Tue, 12 Feb 2019 22:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番：ショップ店員&lt;/li&gt;
+  &lt;li&gt;🎤&lt;/li&gt;
+  &lt;li&gt;EDトーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/18</guid>
+        <enclosure url="https://strong-strong.github.io/audio/18.mp3" length="8117646" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>🍌</itunes:subtitle>
+        <itunes:duration>00:03:22</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>17. 恵方巻きのルーツ</title>
+        <link>https://strong-strong.github.io/episode/17</link>
+        <pubDate>Thu, 07 Feb 2019 13:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番：病院&lt;/li&gt;
+  &lt;li&gt;恵方巻食べた？&lt;/li&gt;
+  &lt;li&gt;ストーリーテラーになりたい&lt;/li&gt;
+  &lt;li&gt;スポンサー募集&lt;/li&gt;
+  &lt;li&gt;友達の家で寝ているときの悩み&lt;/li&gt;
+  &lt;li&gt;マンダラチャート&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;table&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;人気&lt;/td&gt;
+      &lt;td&gt;人望&lt;/td&gt;
+      &lt;td&gt;運&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;貪欲&lt;/td&gt;
+      &lt;td&gt;オールナイトジャパン出演&lt;/td&gt;
+      &lt;td&gt;声&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;ネタ&lt;/td&gt;
+      &lt;td&gt;プライド&lt;/td&gt;
+      &lt;td&gt;健康&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;EDトーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/17</guid>
+        <enclosure url="https://strong-strong.github.io/audio/17.mp3" length="47275064" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>心理テストやったり、マンダラチャートで目標たてたりしました。</itunes:subtitle>
+        <itunes:duration>01:39:26</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>16. 普通内臓あるでしょ?</title>
+        <link>https://strong-strong.github.io/episode/16</link>
+        <pubDate>Mon, 04 Feb 2019 09:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番：日常回&lt;/li&gt;
+  &lt;li&gt;最近Lemon聴き始めました。（アンナチュラル）&lt;/li&gt;
+  &lt;li&gt;内臓ありますか&lt;/li&gt;
+  &lt;li&gt;スポンサー募集&lt;/li&gt;
+  &lt;li&gt;下ネタと腐女子&lt;/li&gt;
+  &lt;li&gt;パンダでありたし&lt;/li&gt;
+  &lt;li&gt;EDトーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/16</guid>
+        <enclosure url="https://strong-strong.github.io/audio/16.mp3" length="47275064" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>夢だったら、どれほどよかったことか</itunes:subtitle>
+        <itunes:duration>01:38:23</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>15. 心理テストはじめました</title>
+        <link>https://strong-strong.github.io/episode/15</link>
+        <pubDate>Wed, 16 Jan 2019 21:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番：美食家とシェフ&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=Uc1RwthfFnc&quot;&gt;芸人ヒロ1シのYouTubeチャンネル&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;やっぱり人の考えを聞くのが好き（究極の二択とか）&lt;/li&gt;
+  &lt;li&gt;スポンサー募集
+    &lt;ul&gt;
+      &lt;li&gt;むっつさんの嫌いな人
+        &lt;ol&gt;
+          &lt;li&gt;ハッキリ断らない人&lt;/li&gt;
+          &lt;li&gt;自分の意見がありそうなのに言わない人&lt;/li&gt;
+          &lt;li&gt;チヤホヤされて調子に乗ってる人&lt;/li&gt;
+        &lt;/ol&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;自分は何食系男子か考えよう&lt;/li&gt;
+  &lt;li&gt;Aria、ストパニ&lt;/li&gt;
+  &lt;li&gt;大富豪で富豪を目指す&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/15</guid>
+        <enclosure url="https://strong-strong.github.io/audio/15.mp3" length="48842857" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>Podcastといえば心理テストということで、今回から心理テストやっていきます。</itunes:subtitle>
+        <itunes:duration>01:41:41</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>14. ハイチンはかく語りき</title>
+        <link>https://strong-strong.github.io/episode/14</link>
+        <pubDate>Thu, 10 Jan 2019 19:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番：お殿様と家来&lt;/li&gt;
+  &lt;li&gt;100万円の使いみち&lt;/li&gt;
+  &lt;li&gt;インイヤホンが嫌い&lt;/li&gt;
+  &lt;li&gt;スポンサー紹介&lt;/li&gt;
+  &lt;li&gt;シェアハウスっていいな&lt;/li&gt;
+  &lt;li&gt;一つの粒子と波&lt;/li&gt;
+  &lt;li&gt;宣教師のようにあれ&lt;/li&gt;
+  &lt;li&gt;EDトーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/14</guid>
+        <enclosure url="https://strong-strong.github.io/audio/14.mp3" length="41435335" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>果たして二人は100万円が当たったのか!</itunes:subtitle>
+        <itunes:duration>01:26:15</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>13. お正月だよ！ストろんぐ2時間スペシャル</title>
+        <link>https://strong-strong.github.io/episode/13</link>
+        <pubDate>Mon, 07 Jan 2019 19:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番: タイムズスクエアでカウントダウン待ち&lt;/li&gt;
+  &lt;li&gt;いかに年末カウントダウンを過ごすか&lt;/li&gt;
+  &lt;li&gt;元旦の過ごし方&lt;/li&gt;
+  &lt;li&gt;VLiver活動はじめました&lt;/li&gt;
+  &lt;li&gt;スポンサー募集&lt;/li&gt;
+  &lt;li&gt;関西人が必要&lt;/li&gt;
+  &lt;li&gt;マツコ有吉からみる夏目ちゃんの必要性&lt;/li&gt;
+  &lt;li&gt;ED
+    &lt;ul&gt;
+      &lt;li&gt;オーバークックが好きな理由&lt;/li&gt;
+      &lt;li&gt;小説が読めない&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/13</guid>
+        <enclosure url="https://strong-strong.github.io/audio/13.mp3" length="46089249" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>この番組はストロングゼロを飲んでお送りします。</itunes:subtitle>
+        <itunes:duration>01:49:37</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>12. 徹底討論クリスマス2018!!</title>
+        <link>https://strong-strong.github.io/episode/12</link>
+        <pubDate>Wed, 26 Dec 2018 19:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番: 原始人&lt;/li&gt;
+  &lt;li&gt;クリスマスを普通の日と考える(落合陽一理論)&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%AC%E3%82%AA%E3%83%80%E3%82%A4%E3%82%A8%E3%83%83%E3%83%88&quot;&gt;パレオダイエット&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;デッドバイデイライト買いました&lt;/li&gt;
+  &lt;li&gt;スポンサー募集&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://marshmallow-qa.com/strongxstrong_2&quot;&gt;チョコマシュマロを投げよう&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;新品を買うか、中古を買うか&lt;/li&gt;
+  &lt;li&gt;応援されたくない&lt;/li&gt;
+  &lt;li&gt;キャラ作りには口調じゃないか&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/12</guid>
+        <enclosure url="https://strong-strong.github.io/audio/12.mp3" length="41898568" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>いったいどうなってしまうのか!!!</itunes:subtitle>
+        <itunes:duration>01:27:12</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>11. ジェンダーレスむっつ</title>
+        <link>https://strong-strong.github.io/episode/11</link>
+        <pubDate>Thu, 20 Dec 2018 12:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番：クリスマス（サンタ）&lt;/li&gt;
+  &lt;li&gt;今年 amazon で買ったものを棚卸しした
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://blog.regonn.tokyo/amazon/2018/12/15/amazon.html&quot;&gt;2018 年に Amazon で買った 271 件を公開する&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;レビューを気にするかどうか&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;最近癒された動画（犬をプレゼントされて泣く女）&lt;/li&gt;
+  &lt;li&gt;スポンサー募集&lt;/li&gt;
+  &lt;li&gt;更にマイナーな二人の共通点を探そう（共感覚羞恥）&lt;/li&gt;
+  &lt;li&gt;底辺ポッドキャストではなく、秘境ポッドキャストと名乗ろう、目標エルドラド El Dorado&lt;/li&gt;
+  &lt;li&gt;ED トーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/11</guid>
+        <enclosure url="https://strong-strong.github.io/audio/11.mp3" length="48752342" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>ストロングゼロ飲みながら話すわよ</itunes:subtitle>
+        <itunes:duration>01:21:17</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>10. オナキンスカイウォーカー</title>
+        <link>https://strong-strong.github.io/episode/10</link>
+        <pubDate>Thu, 13 Dec 2018 22:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番：出産&lt;/li&gt;
+  &lt;li&gt;OPトーク&lt;/li&gt;
+  &lt;li&gt;小さな親切コンクール(大人版)&lt;/li&gt;
+  &lt;li&gt;生まれて一番最初の思い出&lt;/li&gt;
+  &lt;li&gt;スポンサー紹介&lt;/li&gt;
+  &lt;li&gt;10回目記念&lt;/li&gt;
+  &lt;li&gt;EDトーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/10</guid>
+        <enclosure url="https://strong-strong.github.io/audio/10.mp3" length="45792796" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>10回目なので過去を振り返っています。</itunes:subtitle>
+        <itunes:duration>54:28</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>9. ふたりは藤木くん</title>
+        <link>https://strong-strong.github.io/episode/9</link>
+        <pubDate>Wed, 12 Dec 2018 20:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番：謝罪会見&lt;/li&gt;
+  &lt;li&gt;にわかスヌーピー知識対決（嘘有り）&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;ふたりは INFP&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;&lt;a href=&quot;https://www.16personalities.com/ja/infp型の性格&quot;&gt;https://www.16personalities.com/ja/infp 型の性格&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://character-seikaku.memo.wiki/d/%A5%AD%A5%E3%A5%E9%B0%EC%CD%F7&quot;&gt;https://character-seikaku.memo.wiki/d/%A5%AD%A5%E3%A5%E9%B0%EC%CD%F7&lt;/a&gt;&lt;/li&gt;
+      &lt;li&gt;My little pony だと プリンセスルナ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;新居の探し方
+    &lt;ul&gt;
+      &lt;li&gt;場所&lt;/li&gt;
+      &lt;li&gt;予算&lt;/li&gt;
+      &lt;li&gt;職場へのアクセス&lt;/li&gt;
+      &lt;li&gt;築年数&lt;/li&gt;
+      &lt;li&gt;埼玉県民の誇り&lt;/li&gt;
+      &lt;li&gt;シャワールーム&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;グレイスアナトミー&lt;/li&gt;
+  &lt;li&gt;ED トーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/9</guid>
+        <enclosure url="https://strong-strong.github.io/audio/9.mp3" length="44012101" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>え.....</itunes:subtitle>
+        <itunes:duration>01:32:01</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>8. いざ夢の国</title>
+        <link>https://strong-strong.github.io/episode/8</link>
+        <pubDate>Sat, 17 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番: 浦安&lt;/li&gt;
+  &lt;li&gt;OP トーク&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;結婚式の面倒くさい奴&lt;/p&gt;
+
+    &lt;ul&gt;
+      &lt;li&gt;ドレス何色ゲーム&lt;/li&gt;
+      &lt;li&gt;ケーキ入刀&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;昔から形が変わっていないものをあげてその進化系を考えよう。(例：傘：自転車はおかしい）&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;スポンサー紹介&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;ありがとうへの正しい返答の仕方&lt;/li&gt;
+  &lt;li&gt;最近 VR のコミュニティに入ったらこの Podcast で発散してた何かを消化できてる&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://www.16personalities.com/ja&quot;&gt;16Personalities&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/8</guid>
+        <enclosure url="https://strong-strong.github.io/audio/8.mp3" length="48392508" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>浦安には、それはそれは大きな夢の国があるそうな</itunes:subtitle>
+        <itunes:duration>01:41:12</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>7. Let It Muttu</title>
+        <link>https://strong-strong.github.io/episode/7</link>
+        <pubDate>Thu, 01 Nov 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番：渋谷ハロウィン&lt;/li&gt;
+  &lt;li&gt;OPトーク&lt;/li&gt;
+  &lt;li&gt;I love you. を訳す&lt;/li&gt;
+  &lt;li&gt;Daigoのゲーム  &lt;a href=&quot;http://live2.nicovideo.jp/watch/lv315831976?_topic=live_channel_program_onairs&amp;amp;ref=zeromypage_nicorepo&quot;&gt;ブラックジョークや皮肉を言い合う(クリエイティブ力が上がるらしい)&lt;/a&gt;
+    &lt;ul&gt;
+      &lt;li&gt;本もらって「良い鍋敷きになりそうだよ」&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;スポンサー紹介&lt;/li&gt;
+  &lt;li&gt;好きな漫画家女性多いかも&lt;/li&gt;
+  &lt;li&gt;子供のころ人形遊びが好きだった&lt;/li&gt;
+  &lt;li&gt;都会育ちの人は何で細マッチョ体系で僕達はポパイ体系なのか
+    &lt;ul&gt;
+      &lt;li&gt;鬼おこし&lt;/li&gt;
+      &lt;li&gt;電車文化&lt;/li&gt;
+      &lt;li&gt;自己想像力の高さ&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;EDトーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/7</guid>
+        <enclosure url="https://strong-strong.github.io/audio/7.mp3" length="42335234" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>皮肉が言えない二人です。</itunes:subtitle>
+        <itunes:duration>01:28:08</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>6. ストロングゼロの新たな使いみち</title>
+        <link>https://strong-strong.github.io/episode/6</link>
+        <pubDate>Sat, 27 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番: バイオハザード&lt;/li&gt;
+  &lt;li&gt;OPトーク&lt;/li&gt;
+  &lt;li&gt;人見知りとは&lt;/li&gt;
+  &lt;li&gt;1人○○どこまで出来る？&lt;/li&gt;
+  &lt;li&gt;スポンサー募集&lt;/li&gt;
+  &lt;li&gt;ダイゴの新しい使い方ゲーム(直感力を鍛える)
+    &lt;ul&gt;
+      &lt;li&gt;代用品発見ゲーム
+        &lt;ul&gt;
+          &lt;li&gt;今まで使ってきた身の回りのアイテムを手に、その違う使い方を次々に考えていく&lt;/li&gt;
+          &lt;li&gt;例) フォーク-&amp;gt; 絵筆代わりに使える、ツボ押しに使える&lt;/li&gt;
+          &lt;li&gt;ストロングゼロの新しい使いみち&lt;/li&gt;
+        &lt;/ul&gt;
+      &lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/qezNEoDOwx4&quot;&gt;コトダマン実況&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;EDトーク
+    &lt;ul&gt;
+      &lt;li&gt;最近むっつが読んだ本&lt;/li&gt;
+      &lt;li&gt;&lt;a href=&quot;https://amzn.to/2EKyXXb&quot;&gt;マルチ・ポテンシャライト 好きなことを次々と仕事にして、一生食っていく方法&lt;/a&gt;&lt;/li&gt;
+    &lt;/ul&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/6</guid>
+        <enclosure url="https://strong-strong.github.io/audio/6.mp3" length="48411927" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>ストロングゼロの新たな使いみちを考えていきます。</itunes:subtitle>
+        <itunes:duration>01:20:36</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>5. むっつ、PS4買うってよ</title>
+        <link>https://strong-strong.github.io/episode/5</link>
+        <pubDate>Wed, 17 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番 消費税が上がった世界&lt;/li&gt;
+  &lt;li&gt;OP トーク&lt;/li&gt;
+  &lt;li&gt;スパイダーマン、メインストーリークリア&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://youtu.be/8TisFfdp8xk&quot;&gt;フォートナイト実況&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;スポンサー募集&lt;/li&gt;
+  &lt;li&gt;ゲームで虚無感&lt;/li&gt;
+  &lt;li&gt;&lt;a href=&quot;https://twitter.com/Becky_bekiko/status/1052055261974654977&quot;&gt;ベッキーがTwitter再開した&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;ED トーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/5</guid>
+        <enclosure url="https://strong-strong.github.io/audio/5.mp3" length="4295039" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>今回はゲームの話題が多め。酔った状態でPS4を購入していきます。</itunes:subtitle>
+        <itunes:duration>01:29:12</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>4. 死あるのみ</title>
+        <link>https://strong-strong.github.io/episode/4</link>
+        <pubDate>Wed, 10 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番 銭湯&lt;/li&gt;
+  &lt;li&gt;OP トーク&lt;/li&gt;
+  &lt;li&gt;最後に食べたいもの&lt;/li&gt;
+  &lt;li&gt;スポンサー紹介&lt;/li&gt;
+  &lt;li&gt;死に際のセリフ&lt;/li&gt;
+  &lt;li&gt;生まれ変わるなら&lt;/li&gt;
+  &lt;li&gt;ED トーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/4</guid>
+        <enclosure url="https://strong-strong.github.io/audio/4.mp3" length="47512978" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>今回は4回目ということで死に関連する話題が多めです。</itunes:subtitle>
+        <itunes:duration>01:19:07</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>3. 本田翼のようにあれ</title>
+        <link>https://strong-strong.github.io/episode/3</link>
+        <pubDate>Thu, 04 Oct 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト ※ストロングゼロを買って応援しよう!&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;茶番 西部劇&lt;/li&gt;
+  &lt;li&gt;OP トーク 台風&lt;/li&gt;
+  &lt;li&gt;最近メンタリスト DaiGo の本を読んでる&lt;/li&gt;
+  &lt;li&gt;コンビニ女子高生問題&lt;/li&gt;
+  &lt;li&gt;本田翼ゲーム実況開始&lt;/li&gt;
+  &lt;li&gt;モロッコのいいところ 3 つ&lt;/li&gt;
+  &lt;li&gt;ED トーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/3</guid>
+        <enclosure url="https://strong-strong.github.io/audio/3.mp3" length="49504849" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>台風すごいですね。外出せずに底辺泥酔Podcastでも聞きましょう。今回は二人共録音前に飲んでいます。</itunes:subtitle>
+        <itunes:duration>01:08:36</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>2.【ネタバレ注意】サラダ記念日</title>
+        <link>https://strong-strong.github.io/episode/2</link>
+        <pubDate>Wed, 19 Sep 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OP トーク 200年後の未来&lt;/li&gt;
+  &lt;li&gt;前回の放送について&lt;/li&gt;
+  &lt;li&gt;ネタバレ好き&lt;/li&gt;
+  &lt;li&gt;VR空間で好きなものになれるなら何になりたい？&lt;/li&gt;
+  &lt;li&gt;スポンサー紹介「この番組はスポンサーを募集しています。」&lt;/li&gt;
+  &lt;li&gt;ケモナー度&lt;/li&gt;
+  &lt;li&gt;ED トーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/2</guid>
+        <enclosure url="https://strong-strong.github.io/audio/2.mp3" length="46471727" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>少しディープな話題のポッドキャストになりました。</itunes:subtitle>
+        <itunes:duration>01:17:14</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+      <item>
+        <title>1. ペンギンってずるいよね</title>
+        <link>https://strong-strong.github.io/episode/1</link>
+        <pubDate>Tue, 11 Sep 2018 00:00:00 +0900</pubDate>
+        <description>&lt;p&gt;&lt;a href=&quot;http://amzn.asia/2xGJqn2&quot;&gt;スポンサー用ウィッシュリスト&lt;/a&gt;&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;OP トーク 学校&lt;/li&gt;
+  &lt;li&gt;番組説明&lt;/li&gt;
+  &lt;li&gt;僕のことを紹介(ハイちん)「hulu（動画配信サイト）」&lt;/li&gt;
+  &lt;li&gt;スポンサー紹介「この番組はスポンサーを募集しています。」&lt;/li&gt;
+  &lt;li&gt;僕のことを紹介(むっつ)「森博嗣」&lt;/li&gt;
+  &lt;li&gt;フリートーク 1 ペンギンってずるい&lt;/li&gt;
+  &lt;li&gt;フリートーク 2 最近買った物&lt;/li&gt;
+  &lt;li&gt;ED トーク&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        <guid isPermaLink="true">https://strong-strong.github.io/episode/1</guid>
+        <enclosure url="https://strong-strong.github.io/audio/1.mp3" length="38352543" type="audio/mp3"/>
+        <itunes:author>むっつ と ハイチン</itunes:author>
+        <itunes:subtitle>ストロングゼロを飲みながら話す底辺Podcastが始まりました。</itunes:subtitle>
+        <itunes:duration>53:17</itunes:duration>
+        <itunes:explicit>no</itunes:explicit>
+        <media:thumbnail url="https://strong-strong.github.io/images/artwork.jpg"/>
+      </item>
+    
+  </channel>
+</rss>
